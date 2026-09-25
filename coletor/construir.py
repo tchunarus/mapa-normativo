@@ -33,6 +33,19 @@ SIG = {'ctn': 'ctn', 'código tributário nacional': 'ctn', 'codigo tributario n
        'codigo de processo civil': 'cpc', 'cc': 'cc', 'código civil': 'cc', 'codigo civil': 'cc', 'lef': 'lef', 'cf': 'cf', 'constituição federal': 'cf', 'constituicao federal': 'cf'}
 
 
+def _mapa_normas():
+    """'lei 9.430' -> 'l9430', a partir do cadastro de fontes."""
+    out = {}
+    for d in DIPLOMAS:
+        m = re.match(r'(Lei Complementar|Decreto-Lei|Decreto|Lei) nº ([\d\.]+)', d['norma'])
+        if m:
+            out[(m.group(1).lower(), m.group(2).replace('.', ''))] = d['id']
+    return out
+
+
+CIT_NORMA = re.compile(r'arts?\.\s*(\d{1,4}(?:\.\d{3})?(?:-[A-Z])?)[^;]{0,60}?\b(?:da|do)\s+(Lei Complementar|Decreto-Lei|Decreto|Lei)\s+(?:n\.?\s*[ºo°]?\s*)?([\d\.]+)', re.I)
+
+
 def citacoes(texto, existentes):
     """Liga automaticamente precedentes novos aos dispositivos citados na questão ou na tese."""
     out = []
@@ -43,6 +56,12 @@ def citacoes(texto, existentes):
         num = m.group(1).replace('.', '')
         did = f'{dip}.{num}'
         if did in existentes and did not in out:
+            out.append(did)
+    mapa = _mapa_normas()
+    for m in CIT_NORMA.finditer(texto or ''):
+        dip = mapa.get((m.group(2).lower(), m.group(3).replace('.', '')))
+        did = f"{dip}.{m.group(1).replace('.', '')}" if dip else None
+        if did and did in existentes and did not in out:
             out.append(did)
     return out
 
@@ -131,19 +150,20 @@ def construir(agora=None):
                          'alt': any(str(datetime.now().year) in (l[1] or '') for l in a['l']), 'rev': a['rev']}
         elif not did.startswith(('stj.', 'stf.', 'tst.')):
             avisos.append(f'Dispositivo referenciado fora da base: {did}')
+    status = {'gerado_em': agora, 'execucao': ler('estado/ultima_execucao.json', {}), 'fontes': ler('estado/fontes_status.json', {}), 'avisos': avisos}
+    salvar('status.json', status)
     idx = {
-        'gerado_em': agora, 'versao': 2,
+        'versao': 3,
         'taxonomia': J('conteudo/taxonomia.json'), 'alteradoras': J('conteudo/alteradoras.json'),
         'diplomas': diplomas, 'institutos': institutos, 'alertas': alertas, 'comparacoes': comps,
         'relacoes': rel, 'precedentes': prec, 'refs': refs, 'alterados_ano': alterados,
         'changelog': ler('estado/changelog.json', [])[-80:], 'pendencias': ler('estado/pendencias.json', []),
         'dou': ler('estado/dou.json', [])[-60:], 'proposicoes': ler('estado/proposicoes.json', []),
-        'normas_novas': [n for n in ler('estado/normas_vistas.json', [])][-40:], 'execucao': ler('estado/ultima_execucao.json', {}),
-        'fontes': ler('estado/fontes_status.json', {}), 'avisos': avisos,
+        'normas_novas': [n for n in ler('estado/normas_vistas.json', [])][-40:],
     }
     salvar('index.json', idx)
     salvar('busca.json', busca)
-    return idx
+    return dict(idx, avisos=avisos)
 
 
 if __name__ == '__main__':

@@ -9,7 +9,8 @@ import hashlib, html, re, subprocess, time
 UA = "Mozilla/5.0"
 
 NOTE = re.compile(r'\((?:Artigo incluído|Artigo acrescentado|Parágrafo incluído|Redação dada|Incluíd[oa]|Revogad[oa]|Vide|Acrescentad[oa]|Renumerad[oa]|Produção de efeito|Vigência|Regulamento|Redação\s)[^()]*(?:\([^()]*\)[^()]*)*\)')
-ART = re.compile(r'^Art\.\s*(\d+(?:\.\d+)?)(?:-([A-Z])(?=[\.\s]))?(?:º|°|o)?[\.\s\-]', re.M)
+# Aceita "Art. 185-A." e "Art. 4º-A." (letra colada ao número ou ao ordinal); "Art. 1º - A execução" não é artigo com letra.
+ART = re.compile(r'^Art\.\s*(\d+(?:\.\d+)?)(?:(?:º|°|o)?-([A-Z])(?=[\.\s\-]))?(?:º|°|o)?[\.\s\-]', re.M)
 HEAD = re.compile(r'^(LIVRO|TÍTULO|CAPÍTULO|SEÇÃO|Seção|Subseção)\b[^\n]*(?:\n(?!Art\.)[^\n]{2,120})?', re.M)
 NIVEIS = ['livro', 'titulo', 'capitulo', 'secao', 'subsecao']
 

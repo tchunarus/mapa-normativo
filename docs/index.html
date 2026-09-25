@@ -352,7 +352,8 @@ const areaName = id => ((S.meta.taxonomia.areas||[]).find(a=>a.id===id)||{}).nom
 async function boot(){
   initTheme();
   try{
-    const idx = await getJSON("index.json");
+    const [idx, st] = await Promise.all([getJSON("index.json"), getJSON("status.json").catch(()=>({}))]);
+    Object.assign(idx, {gerado_em: st.gerado_em, execucao: st.execucao||{}, fontes: st.fontes||{}, avisos: st.avisos||[]});
     S.idx=idx; S.meta=idx; S.refs=idx.refs||{}; S.prec=idx.precedentes||{};
     idx.diplomas.forEach(d=>S.dipMeta[d.id]=d);
     idx.institutos.forEach(i=>S.inst[i.id]=i);
@@ -362,13 +363,14 @@ async function boot(){
   S.ready=true; setStatus(true);
   window.addEventListener("hashchange", ()=>render());
   render();
-  loadBusca().catch(()=>{});
+  document.addEventListener("focusin", e=>{ if(e.target && (e.target.id==="q"||e.target.id==="ca"||e.target.id==="cb")) loadBusca().catch(()=>{}); });
 }
 function setStatus(ok){
   const st=$("#status");
   if(!ok){ st.innerHTML=`<span><span class="pulse off"></span>Base indisponível</span>`; return; }
   const na=S.idx.diplomas.reduce((s,d)=>s+d.n,0);
-  st.innerHTML=`<span><span class="pulse"></span>Atualizado em <b>${esc(FMTH(S.idx.gerado_em))}</b></span><span>verificação <b>a cada hora</b></span><span><b>${S.idx.diplomas.length}</b> diplomas · <b>${na.toLocaleString("pt-BR")}</b> artigos</span><span><b>${Object.keys(S.prec).length}</b> precedentes</span>`;
+  const horas=S.idx.gerado_em?(Date.now()-new Date(S.idx.gerado_em))/36e5:0; const antigo=horas>30;
+  st.innerHTML=`<span><span class="pulse${antigo?" off":""}" title="${antigo?"A última verificação tem mais de 30 horas":"Verificação em dia"}"></span>${antigo?"Última verificação em":"Atualizado em"} <b>${esc(FMTH(S.idx.gerado_em))}</b></span><span>verificação <b>a cada hora</b></span><span><b>${S.idx.diplomas.length}</b> diplomas · <b>${na.toLocaleString("pt-BR")}</b> artigos</span><span><b>${Object.keys(S.prec).length}</b> precedentes</span>`;
 }
 
 // ------------------------------------------------------------ roteamento
@@ -634,7 +636,7 @@ function vDisp(id){
   const norms=[...new Set(d.a.l.map(l=>l[1]).filter(Boolean).flatMap(n=>n.split("; ")))];
   const pend=(S.idx.pendencias||[]).filter(p=>p.diploma===d.k);
   const log=(S.idx.changelog||[]).filter(c=>c.d===id);
-  return `<div class="page-head"><p class="crumbs"><a href="#inicio">Início</a><a href="#dip.${d.k}">${esc(d.dip.nome)}</a><span>${esc(d.a.h||"")}</span></p><h2>${esc(d.a.r)} ${esc(DE[d.k]||"do "+d.dip.sigla)}</h2>${actionsBar("d",id)}</div>
+  return `<div class="page-head"><p class="crumbs"><a href="#inicio">Início</a><a href="#dip.${d.k}">${esc(d.dip.nome)}</a><span>${esc(d.a.h||"")}</span></p><h2>${esc(d.a.r)} ${esc(DE[d.k]||(/^(Lei|LC|LIA|LAI|LPI|LGPD|EC)\b/.test(d.dip.sigla)?"da ":"do ")+d.dip.sigla)}</h2>${actionsBar("d",id)}</div>
   <div class="grid2"><div>
     ${pend.length?`<div class="alert" style="margin-top:18px"><span class="lab">Alteração publicada, compilação pendente</span><p>${pend.map(p=>`<a class="ref" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.ato)}</a>`).join("; ")} cita este diploma. Confira no ato publicado se este artigo foi atingido; o texto abaixo será atualizado quando o Planalto consolidar a compilação.</p></div>`:""}
     <section class="blk" style="margin-top:20px"><div class="sec-head"><h3>Texto vigente</h3><span class="badge">Texto oficial · Planalto</span></div>

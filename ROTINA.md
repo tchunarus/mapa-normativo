@@ -37,11 +37,16 @@ seguir (por exemplo, com um laço `until` que confere a data em
    - use `confundivel_com` quando houver risco real de confusão entre institutos;
    - a justificativa (`porque`) deve explicar em uma ou duas frases por que os
      dispositivos se relacionam e qual a diferença entre eles, em português formal,
-     sem travessões;
+     com acentuação correta e sem travessões;
+   - cite parágrafos, incisos e alíneas exatamente como aparecem no texto fornecido na
+     fila, que é o texto vigente; nunca descreva um dispositivo de memória (redações
+     antigas mudam: o art. 174 do CTN, por exemplo, passou a ter § 1º em 2026);
    - no máximo 6 relações por artigo; é aceitável não registrar nenhuma.
    Grave `/tmp/rel.json` no formato
    `{"analisados": [ids da fila], "relacoes": [{"de", "para", "tipo", "grau", "porque"}]}`
-   e rode `python3 coletor/relacionar.py < /tmp/rel.json`. Depois rode
+   e rode `python3 coletor/relacionar.py < /tmp/rel.json`. O script recusa relações com
+   texto sem acentuação ou com parágrafo inexistente; se houver recusas, corrija as
+   justificativas com base no texto da fila e envie de novo apenas as recusadas. Depois rode
    `python3 coletor/atualizar.py --sem-rede` para regenerar `docs/data/`.
 
 3. **Jurisprudência (só quando `estado/ultima_execucao.json` indicar `"semanal": true`).**

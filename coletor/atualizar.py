@@ -30,12 +30,19 @@ def gravar(nome, obj):
     json.dump(obj, open(os.path.join(EST, nome), 'w'), ensure_ascii=False, indent=1)
 
 
+def limpar_pendencias(agora, dias=45):
+    """Pendências antigas saem da lista: o ato continua no histórico e no registro do DOU."""
+    pend = ler('pendencias.json', [])
+    limite = (agora - timedelta(days=dias)).isoformat(timespec='seconds')
+    gravar('pendencias.json', [p for p in pend if (p.get('desde') or '') >= limite])
+
+
 def etapa_dou(agora, log, status):
     vistos = ler('dou.json', [])
     ids = {x['id'] for x in vistos}
     pend = ler('pendencias.json', [])
     novos = 0
-    for dias in (0, 1):
+    for dias in range(4):  # hoje e os três dias anteriores: cobre fins de semana e edições extras
         d = (agora.astimezone(BRT) - timedelta(days=dias)).strftime('%d-%m-%Y')
         for secao in ('do1', 'do1e'):
             atos = dou.edicao(d, secao)
@@ -181,6 +188,9 @@ def etapa_congresso(agora, log, status, diario):
     """Senado: normas novas (a cada execução). Câmara: projetos que alteram diplomas (uma vez por dia)."""
     ano = agora.astimezone(BRT).year
     normas = congresso.normas_senado(ano)
+    if normas is not None and agora.astimezone(BRT).month == 1:
+        anteriores = congresso.normas_senado(ano - 1)
+        normas = (anteriores or []) + normas
     if normas is None:
         status['Senado, legislação'] = 'falha na leitura'
     else:
@@ -216,6 +226,7 @@ def main():
     semanal = diario and local.weekday() == 0  # segunda-feira: jurisprudência pelo Jusratio
     log, status, resumo = [], {}, {}
     if not a.sem_rede:
+        limpar_pendencias(agora)
         resumo['dou'] = etapa_dou(agora, log, status)
         resumo['planalto'] = etapa_planalto(agora, log, status, completo=semanal)
         etapa_congresso(agora, log, status, diario)
@@ -224,6 +235,9 @@ def main():
             resumo['sumulas'] = etapa_sumulas(agora, log, status)
     ch = ler('changelog.json', []) + log
     gravar('changelog.json', ch[-2000:])
+    if a.sem_rede:  # só regenera os arquivos publicados; preserva o registro da última coleta
+        idx = construir(ler('ultima_execucao.json', {}).get('em') or agora.isoformat(timespec='seconds'))
+        print(json.dumps({'regenerado': True, 'avisos': idx['avisos'][:10]}, ensure_ascii=False)); return
     gravar('fontes_status.json', {k: {'status': v, 'em': agora.isoformat(timespec='seconds')} for k, v in status.items()} | {k: v for k, v in ler('fontes_status.json', {}).items() if k not in status})
     gravar('ultima_execucao.json', {'em': agora.isoformat(timespec='seconds'), 'diario': diario, 'semanal': semanal, 'resumo': resumo, 'mudancas': len(log)})
     idx = construir(agora.isoformat(timespec='seconds'))
