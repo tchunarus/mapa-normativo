@@ -10,8 +10,20 @@ legislação: textos oficiais atualizados e relações entre dispositivos de dip
 diferentes. A jurisprudência é complementar. Trabalhe apenas neste repositório e siga os
 passos na ordem.
 
+Regra de fontes: use prioritariamente fontes públicas, oficiais e primárias (Planalto,
+Diário Oficial da União, Senado Federal, Câmara dos Deputados, portais dos tribunais e
+demais bases institucionais). O Jusratio é apenas complementar: serve para localizar
+precedentes, nunca como fonte principal, e todo registro precisa do link da fonte oficial.
+Nunca reproduza texto legal de memória: o texto vem sempre da compilação oficial.
+
+Tempo de execução: rode os comandos Python com o tempo máximo da ferramenta Bash
+(600000 ms). Se um comando for para segundo plano, espere até ele terminar antes de
+seguir (por exemplo, com um laço `until` que confere a data em
+`estado/ultima_execucao.json`). Nunca encerre a sessão antes de concluir o passo 4.
+
 1. **Legislação.** Rode `python3 coletor/atualizar.py`. O script lê o DOU (edição normal
-   e extra), baixa as compilações do Planalto, compara cada artigo pelo hash, registra
+   e extra) e a lista de normas do Senado, consulta as proposições da Câmara uma vez por
+   dia, baixa as compilações do Planalto que mudaram (pelo ETag), compara cada artigo pelo hash, registra
    as mudanças em `estado/changelog.json` e gera `docs/data/`. Falhas de acesso ao STJ
    neste ambiente são esperadas e não interrompem nada.
 

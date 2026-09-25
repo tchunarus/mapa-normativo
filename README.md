@@ -5,9 +5,11 @@ institutos jurídicos e precedentes, com atualização automática a partir de f
 
 ## Como funciona
 
-- **Fontes.** Legislação compilada do Planalto, Diário Oficial da União (seção 1 e
-  edição extra), STJ (temas repetitivos e súmulas) e, pelo conector Jusratio, precedentes
-  de STF, STJ, TST, TRFs e TJSC com link para a fonte oficial.
+- **Fontes oficiais (principais).** Legislação compilada do Planalto, Diário Oficial da
+  União (seção 1 e edição extra), Senado Federal (normas publicadas), Câmara dos Deputados
+  (proposições que alteram diplomas acompanhados) e portais dos tribunais.
+- **Fonte complementar.** Jusratio, apenas para localizar precedentes; todo registro
+  exige link para a fonte oficial.
 - **Atualização.** Rotinas na nuvem executam `ROTINA.md` de hora em hora nos dias úteis.
   Cada execução compara cada artigo pelo hash do texto e registra toda mudança em
   `estado/changelog.json`. Um ato publicado no DOU que cite um diploma acompanhado

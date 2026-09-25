@@ -1,63 +1,211 @@
 {
  "DOU": {
   "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "Planalto: CF": {
-  "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "Planalto: ADCT": {
-  "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "Planalto: LINDB": {
-  "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "Planalto: CTN": {
-  "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "Planalto: LEF": {
-  "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "Planalto: CPC": {
-  "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "Planalto: CC": {
-  "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "Planalto: EC 132/2023": {
-  "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "Planalto: LC 214/2025": {
-  "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "Planalto: LC 227/2026": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: PAF": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 9.430/96": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 10.522/02": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 13.988/20": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 8.137/90": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: LC 87/96": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: LC 116/03": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: LC 123/06": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: LC 105/01": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: RIR/2018": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 12.016/09": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 9.099/95": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 9.307/96": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 7.347/85": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 11.101/05": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 8.934/94": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: LPI": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 13.874/19": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 14.133/21": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: LIA": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 9.784/99": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 12.846/13": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 8.987/95": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 11.079/04": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 13.303/16": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: LAI": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Decreto 20.910/32": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 6.019/74": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 14.967/24": {
   "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 8.036/90": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 8.213/91": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: CDC": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: LGPD": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: Lei 8.245/91": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: CP": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Planalto: CPP": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "Planalto: LSA": {
-  "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "Planalto: CLT": {
-  "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "Planalto: Lei 8.212/91": {
+  "status": "ok, sem alteração",
+  "em": "2026-09-25T19:09:41+00:00"
+ },
+ "Senado, legislação": {
   "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "STJ, temas": {
   "status": "ok",
-  "em": "2026-09-25T16:59:57+00:00"
+  "em": "2026-09-25T19:09:41+00:00"
  },
  "STJ, súmulas": {
   "status": "ok",

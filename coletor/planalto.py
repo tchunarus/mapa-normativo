@@ -32,6 +32,17 @@ def baixar(url, destino, tentativas=15, timeout=170):
     return False
 
 
+def cabecalho(url):
+    """ETag e data de modificação da página (sem baixar o conteúdo)."""
+    r = subprocess.run(['curl', '-sI', '--max-time', '40', '-A', UA, url], capture_output=True)
+    h = {}
+    for linha in r.stdout.decode('latin-1').splitlines():
+        if ':' in linha:
+            k, v = linha.split(':', 1)
+            h[k.strip().lower()] = v.strip()
+    return {'etag': h.get('etag'), 'modificado': h.get('last-modified')} if r.returncode == 0 and h else None
+
+
 def carregar(caminho):
     raw = open(caminho, 'rb').read()
     try:

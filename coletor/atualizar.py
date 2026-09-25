@@ -9,7 +9,8 @@ estado/changelog.json com data e fonte.
 import argparse, json, os, sys
 from datetime import datetime, timedelta, timezone
 sys.path.insert(0, os.path.dirname(__file__))
-import planalto, dou, stj
+import planalto, dou, stj, congresso
+from fontes import MARCADORES_DOU
 from fontes import DIPLOMAS
 from construir import construir, RAIZ, CACHE
 
@@ -53,17 +54,28 @@ def etapa_dou(agora, log, status):
     return novos
 
 
-def etapa_planalto(agora, log, status):
+def etapa_planalto(agora, log, status, completo=False):
     hashes = ler('hashes.json', {})
     verif = hashes.setdefault('_verificado', {})
-    baixados, mudancas = {}, 0
+    etags = ler('etags.json', {})
+    baixados, mudancas, inalterados = {}, 0, set()
     for f in DIPLOMAS:
         cam = os.path.join(CACHE, f['cache'] + '.htm')
+        if f['cache'] not in baixados and f['cache'] not in inalterados and not completo:
+            cab = planalto.cabecalho(f['url'])
+            if cab and cab['etag'] and etags.get(f['url'], {}).get('etag') == cab['etag'] and f['id'] in hashes:
+                inalterados.add(f['cache'])
+        if f['cache'] in inalterados:
+            status['Planalto: ' + f['sigla']] = 'ok, sem alteração'
+            verif[f['id']] = agora.isoformat(timespec='seconds'); continue
         if f['cache'] not in baixados:
             ok = planalto.baixar(f['url'], cam + '.novo')
             baixados[f['cache']] = ok
             if ok:
                 os.replace(cam + '.novo', cam)
+                cab = planalto.cabecalho(f['url'])
+                if cab:
+                    etags[f['url']] = cab
             elif os.path.exists(cam + '.novo'):
                 os.remove(cam + '.novo')
         if not baixados[f['cache']]:
@@ -85,7 +97,7 @@ def etapa_planalto(agora, log, status):
                 pend = [p for p in ler('pendencias.json', []) if p.get('diploma') != f['id']]
                 gravar('pendencias.json', pend)
         verif[f['id']] = agora.isoformat(timespec='seconds')
-    gravar('hashes.json', hashes)
+    gravar('hashes.json', hashes); gravar('etags.json', etags)
     return mudancas
 
 
@@ -165,6 +177,34 @@ def etapa_sumulas(agora, log, status):
     return novos
 
 
+def etapa_congresso(agora, log, status, diario):
+    """Senado: normas novas (a cada execução). Câmara: projetos que alteram diplomas (uma vez por dia)."""
+    ano = agora.astimezone(BRT).year
+    normas = congresso.normas_senado(ano)
+    if normas is None:
+        status['Senado, legislação'] = 'falha na leitura'
+    else:
+        status['Senado, legislação'] = 'ok'
+        vistas = ler('normas_vistas.json', None)
+        ids = {n['id'] for n in (vistas or [])}
+        pend = ler('pendencias.json', [])
+        for n in normas:
+            if n['id'] in ids:
+                continue
+            if vistas is not None:  # na primeira leitura, só forma a linha de base
+                afeta = [d for d, ms in MARCADORES_DOU.items() if any(m.lower() in n['ementa'].lower() for m in ms)]
+                log.append({'data': agora.isoformat(timespec='seconds'), 'fonte': 'Senado', 'tipo': 'nova_norma', 'titulo': n['titulo'] + ' publicada', 'nota': n['ementa'][:220], 'url': n['url'], 'diplomas': afeta})
+                pend.append({'diploma': afeta[0] if afeta else None, 'ato': n['titulo'], 'url': n['url'], 'desde': agora.isoformat(timespec='seconds'),
+                             'situacao': 'alteração publicada, compilação oficial pendente' if afeta else 'nova norma a avaliar para inclusão na base'})
+        gravar('normas_vistas.json', (vistas or []) + [n for n in normas if n['id'] not in ids])
+        gravar('pendencias.json', pend)
+    if diario:
+        props = congresso.proposicoes_camara(ano, MARCADORES_DOU)
+        status['Câmara, proposições'] = 'ok' if props is not None else 'falha na leitura'
+        if props is not None:
+            gravar('proposicoes.json', props)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--diario', action='store_true', help='inclui busca de temas novos e súmulas')
@@ -177,7 +217,8 @@ def main():
     log, status, resumo = [], {}, {}
     if not a.sem_rede:
         resumo['dou'] = etapa_dou(agora, log, status)
-        resumo['planalto'] = etapa_planalto(agora, log, status)
+        resumo['planalto'] = etapa_planalto(agora, log, status, completo=semanal)
+        etapa_congresso(agora, log, status, diario)
         resumo['stj'] = etapa_stj(agora, log, status, diario)
         if diario:
             resumo['sumulas'] = etapa_sumulas(agora, log, status)

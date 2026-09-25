@@ -137,7 +137,8 @@ def construir(agora=None):
         'diplomas': diplomas, 'institutos': institutos, 'alertas': alertas, 'comparacoes': comps,
         'relacoes': rel, 'precedentes': prec, 'refs': refs, 'alterados_ano': alterados,
         'changelog': ler('estado/changelog.json', [])[-80:], 'pendencias': ler('estado/pendencias.json', []),
-        'dou': ler('estado/dou.json', [])[-60:], 'execucao': ler('estado/ultima_execucao.json', {}),
+        'dou': ler('estado/dou.json', [])[-60:], 'proposicoes': ler('estado/proposicoes.json', []),
+        'normas_novas': [n for n in ler('estado/normas_vistas.json', [])][-40:], 'execucao': ler('estado/ultima_execucao.json', {}),
         'fontes': ler('estado/fontes_status.json', {}), 'avisos': avisos,
     }
     salvar('index.json', idx)
