@@ -62,5 +62,45 @@
   "b": "stj.tema.290",
   "texto": "A Súmula 375 exige registro da penhora ou prova de má-fé do adquirente. Para alienações posteriores a 9/6/2005, a fraude contra o crédito tributário se configura com a inscrição em dívida ativa (CTN, art. 185; Tema 290).",
   "repercussao": "Na aquisição de bens de devedores fiscais, a certidão de dívida ativa do alienante é determinante."
+ },
+ {
+  "id": "embargos-lef-x-cpc",
+  "titulo": "Embargos na execução fiscal seguem a LEF, não o CPC",
+  "a": "lef.16",
+  "b": "cpc.915",
+  "texto": "No CPC, os embargos independem de garantia e têm prazo de 15 dias (arts. 914 e 915). Na execução fiscal, o prazo é de 30 dias contados da garantia e os embargos só são admitidos depois de garantida a execução (LEF, art. 16). O CPC se aplica subsidiariamente em outros pontos, como o efeito suspensivo (art. 919).",
+  "repercussao": "Contar 15 dias ou embargar sem garantia na execução fiscal expõe a defesa à rejeição liminar."
+ },
+ {
+  "id": "anulatoria-x-embargos",
+  "titulo": "Ação anulatória e embargos são vias diferentes",
+  "a": "lef.38",
+  "b": "lef.16",
+  "texto": "A ação anulatória é ação de conhecimento que pode ser proposta antes ou durante a execução, sem garantia como requisito. Os embargos são a defesa incidental na execução, dependem de garantia e têm prazo de 30 dias. Com o mesmo pedido e a mesma causa de pedir, pode haver litispendência; com o mesmo ato jurídico, conexão (CPC, art. 55, § 2º, I).",
+  "repercussao": "Escolha a via conforme exista ou não execução, garantia disponível e prazo; evite duplicar a defesa."
+ },
+ {
+  "id": "deposito-lef38-x-sv28",
+  "titulo": "O depósito do art. 38 da LEF não é requisito para propor a anulatória",
+  "a": "lef.38",
+  "b": "stf.sv.28",
+  "texto": "O art. 38 da LEF menciona depósito preparatório na ação anulatória, mas a Súmula Vinculante 28 declarou inconstitucional exigir depósito prévio como requisito de admissibilidade de ação que discuta a exigibilidade de crédito tributário. O depósito passa a ser uma opção do contribuinte para suspender a exigibilidade (CTN, art. 151, II).",
+  "repercussao": "A falta de depósito não justifica extinguir a anulatória; justifica apenas que a cobrança prossiga."
+ },
+ {
+  "id": "anulatoria-nao-suspende",
+  "titulo": "Propor a anulatória não suspende a cobrança",
+  "a": "cpc.784",
+  "b": "ctn.151",
+  "texto": "Pelo art. 784, § 1º, do CPC, a ação relativa ao débito não inibe a execução. A suspensão da exigibilidade exige uma hipótese do art. 151 do CTN, como depósito integral ou tutela provisória. Se o depósito integral for feito antes, a execução fiscal fica impedida e, se proposta, deve ser extinta (Tema 271/STJ).",
+  "repercussao": "Para evitar execução, penhora e restrições de certidão, peça tutela ou faça o depósito integral junto com a ação."
+ },
+ {
+  "id": "restituicao-168-x-169",
+  "titulo": "Cinco anos para repetir, dois anos para anular a decisão que nega a restituição",
+  "a": "ctn.168",
+  "b": "ctn.169",
+  "texto": "O art. 168 do CTN fixa 5 anos para pleitear a restituição, contados da extinção do crédito. O art. 169 fixa 2 anos para a ação anulatória da decisão administrativa que denegar a restituição. O pedido administrativo não interrompe o prazo do art. 168 (Súmula 625/STJ).",
+  "repercussao": "Depois de indeferimento administrativo, confira os dois prazos; esperar a decisão administrativa pode consumir o prazo da ação."
  }
 ]

@@ -75,6 +75,11 @@
    "id": "rtg",
    "area": "rt",
    "nome": "Reforma Tributária"
+  },
+  {
+   "id": "acoes",
+   "area": "trib",
+   "nome": "Ações do contribuinte e defesa judicial"
   }
  ]
 }

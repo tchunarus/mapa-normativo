@@ -11544,5 +11544,537 @@
   "fonte": "STJ, Precedentes Qualificados",
   "verificado_em": "2026-09-25",
   "novo": false
+ },
+ "stj.tema.526": {
+  "id": "stj.tema.526",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "numero": "526",
+  "titulo": "Tema 526/STJ",
+  "orgao": "Primeira Seção",
+  "situacao": "Trânsito em Julgado",
+  "questao": "APLICABILIDADE DO ART. 739-A, §1º, DO CPC. ANÁLISE DO JUIZ A RESPEITO DE OCORRÊNCIA DE GRAVE DANO DE DIFÍCIL OU INCERTA REPARAÇÃO PARA A CONCESSÃO DE EFEITO SUSPENSIVO AOS EMBARGOS DO DEVEDOR OPOSTOS EM EXECUÇÃO FISCAL.",
+  "tese": "A atribuição de efeitos suspensivos aos embargos do devedor\" fica condicionada \"ao cumprimento de três requisitos: apresentação de garantia; verificação pelo juiz da relevância da fundamentação (fumus boni juris) e perigo de dano irreparável ou de difícil reparação (periculum in mora).",
+  "processos": [
+   {
+    "numero": "REsp 1272827/PE",
+    "origem": "TRF5",
+    "relator": "Mauro Campbell Marques",
+    "julgado": "22/05/2013",
+    "publicado": "31/05/2013"
+   }
+  ],
+  "data": "22/05/2013",
+  "dispositivos": [
+   "cpc.919",
+   "lef.16"
+  ],
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=526&cod_tema_final=526",
+  "fonte": "STJ, Precedentes Qualificados",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.tema.769": {
+  "id": "stj.tema.769",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "numero": "769",
+  "titulo": "Tema 769/STJ",
+  "orgao": "Primeira Seção",
+  "situacao": "Trânsito em Julgado",
+  "questao": "Definição a respeito: i) da necessidade de esgotamento das diligências como pré-requisito para a penhora do faturamento; ii) da equiparação da penhora de faturamento à constrição preferencial sobre dinheiro, constituindo ou não medida excepcional no âmbito dos processos regidos pela Lei 6.830/1980; e iii) da caracterização da penhora do faturamento como medida que implica violação do princípio da menor onerosidade.",
+  "tese": "I - A necessidade de esgotamento das diligências como requisito para a penhora de faturamento foi afastada após a reforma do CPC/1973 pela Lei 11.382/2006; II - No regime do CPC/2015, a penhora de faturamento, listada em décimo lugar na ordem preferencial de bens passíveis de constrição judicial, poderá ser deferida após a demonstração da inexistência dos bens classificados em posição superior, ou, alternativamente, se houver constatação, pelo juiz, de que tais bens são de difícil alienação; finalmente, a constrição judicial sobre o faturamento empresarial poderá ocorrer sem a observância da ordem de classificação estabelecida em lei, se a autoridade judicial, conforme as circunstâncias do caso concreto, assim o entender (art. 835, § 1º, do CPC/2015), justificando-a por decisão devidamente fundamentada; III - A penhora de faturamento não pode ser equiparada à constrição sobre dinheiro; IV - Na aplicação do princípio da menor onerosidade (art. 805, parágrafo único, do CPC/2015; art. 620, do CPC/1973): a) autoridade judicial deverá estabelecer percentual que não inviabilize o prosseguimento das atividades empresariais; e b) a decisão deve se reportar aos elementos probatórios concretos trazidos pelo devedor, não sendo lícito à autoridade judicial empregar o referido princípio em abstrato ou com base em simples alegações genéricas do executado.",
+  "processos": [
+   {
+    "numero": "REsp 1835864/SP",
+    "origem": "TJSP",
+    "relator": "Herman Benjamin",
+    "julgado": "18/04/2024",
+    "publicado": "09/05/2024"
+   },
+   {
+    "numero": "REsp 1112647/SP",
+    "origem": "TJSP",
+    "relator": "Herman Benjamin",
+    "julgado": null,
+    "publicado": null
+   },
+   {
+    "numero": "REsp 1666542/SP",
+    "origem": "TRF3",
+    "relator": "Herman Benjamin",
+    "julgado": "18/04/2024",
+    "publicado": "09/05/2024"
+   },
+   {
+    "numero": "REsp 1835865/SP",
+    "origem": "TJSP",
+    "relator": "Herman Benjamin",
+    "julgado": "18/04/2024",
+    "publicado": "09/05/2024"
+   }
+  ],
+  "data": "18/04/2024",
+  "dispositivos": [
+   "cpc.866",
+   "cpc.835"
+  ],
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=769&cod_tema_final=769",
+  "fonte": "STJ, Precedentes Qualificados",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.tema.271": {
+  "id": "stj.tema.271",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "numero": "271",
+  "titulo": "Tema 271/STJ",
+  "orgao": "Primeira Seção",
+  "situacao": "Trânsito em Julgado",
+  "questao": "Questão referente à impossibilidade de ajuizamento de executivo fiscal enquanto pendente de julgamento ação anulatória de lançamento fiscal, em face da suspensão da exigibilidade do crédito tributário pelo depósito do montante integral do débito, nos termos do artigo 151, inciso II, do CTN.",
+  "tese": "Os efeitos da suspensão da exigibilidade pela realização do depósito integral do crédito exequendo, quer no bojo de ação anulatória, quer no de ação declaratória de inexistência de relação jurídico-tributária, ou mesmo no de mandado de segurança, desde que ajuizados anteriormente à execução fiscal, têm o condão de impedir a lavratura do auto de infração, assim como de coibir o ato de inscrição em dívida ativa e o ajuizamento da execução fiscal, a qual, acaso proposta, deverá ser extinta.",
+  "processos": [
+   {
+    "numero": "REsp 1140956/SP",
+    "origem": "TJSPCF",
+    "relator": "Luiz Fux",
+    "julgado": "24/11/2010",
+    "publicado": "03/12/2010"
+   }
+  ],
+  "data": "24/11/2010",
+  "dispositivos": [
+   "ctn.151",
+   "lef.38"
+  ],
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=271&cod_tema_final=271",
+  "fonte": "STJ, Precedentes Qualificados",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.tema.288": {
+  "id": "stj.tema.288",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "numero": "288",
+  "titulo": "Tema 288/STJ",
+  "orgao": "Corte Especial",
+  "situacao": "Trânsito em Julgado",
+  "questao": "Questiona-se a possibilidade de ajuizamento de novos embargos à execução restritos aos aspectos formais de nova penhora efetuada.",
+  "tese": "É admissível o ajuizamento de novos embargos de devedor, ainda que nas hipóteses de reforço ou substituição da penhora, quando a discussão adstringir-se aos aspectos formais do novo ato constritivo.",
+  "processos": [
+   {
+    "numero": "REsp 1116287/SP",
+    "origem": "TJSP",
+    "relator": "Luiz Fux",
+    "julgado": "02/12/2009",
+    "publicado": "04/02/2010"
+   }
+  ],
+  "data": "02/12/2009",
+  "dispositivos": [
+   "lef.16"
+  ],
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=288&cod_tema_final=288",
+  "fonte": "STJ, Precedentes Qualificados",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.153": {
+  "id": "stj.sum.153",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "153",
+  "titulo": "Súmula 153/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "A DESISTENCIA DA EXECUÇÃO FISCAL, APOS O OFERECIMENTO DOS EMBARGOS, NÃO EXIME O EXEQUENTE DOS ENCARGOS DA SUCUMBENCIA.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "lef.26",
+   "cpc.85"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.58": {
+  "id": "stj.sum.58",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "58",
+  "titulo": "Súmula 58/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "PROPOSTA A EXECUÇÃO FISCAL, A POSTERIOR MUDANÇA DE DOMICILIO DO EXECUTADO NÃO DESLOCA A COMPETENCIA JA FIXADA.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "cpc.46",
+   "lef.5"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.66": {
+  "id": "stj.sum.66",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "66",
+  "titulo": "Súmula 66/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "COMPETE A JUSTIÇA FEDERAL PROCESSAR E JULGAR EXECUÇÃO FISCAL PROMOVIDA POR CONSELHO DE FISCALIZAÇÃO PROFISSIONAL.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "lef.5"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.162": {
+  "id": "stj.sum.162",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "162",
+  "titulo": "Súmula 162/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "NA REPETIÇÃO DE INDEBITO TRIBUTARIO, A CORREÇÃO MONETARIA INCIDE A PARTIR DO PAGAMENTO INDEVIDO.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "ctn.165",
+   "ctn.167"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.188": {
+  "id": "stj.sum.188",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "188",
+  "titulo": "Súmula 188/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "OS JUROS MORATORIOS, NA REPETIÇÃO DO INDEBITO TRIBUTÁRIO, SÃO DEVIDOS A PARTIR DO TRANSITO EM JULGADO DA SENTENÇA.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "ctn.167"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.212": {
+  "id": "stj.sum.212",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "212",
+  "titulo": "Súmula 212/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "A compensação de créditos tributários não pode ser deferida em ação cautelar ou por medida liminar cautelar ou antecipatória.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "ctn.170",
+   "ctn.170-A"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.213": {
+  "id": "stj.sum.213",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "213",
+  "titulo": "Súmula 213/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "O mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "l12016.1",
+   "ctn.170"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.460": {
+  "id": "stj.sum.460",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "460",
+  "titulo": "Súmula 460/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "É incabível o mandado de segurança para convalidar a compensação tributária realizada pelo contribuinte.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "l12016.1",
+   "ctn.170"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.461": {
+  "id": "stj.sum.461",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "461",
+  "titulo": "Súmula 461/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "O contribuinte pode optar por receber, por meio de precatório ou por compensação, o indébito tributário certificado por sentença declaratória transitada em julgado.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "ctn.165",
+   "ctn.170"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.464": {
+  "id": "stj.sum.464",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "464",
+  "titulo": "Súmula 464/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "A regra de imputação de pagamentos estabelecida no art. 354 do Código Civil não se aplica às hipóteses de compensação tributária.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "ctn.170"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.523": {
+  "id": "stj.sum.523",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "523",
+  "titulo": "Súmula 523/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "A taxa de juros de mora incidente na repetição de indébito de tributos estaduais deve corresponder à utilizada para cobrança do tributo pago em atraso, sendo legítima a incidência da taxa Selic, em ambas as hipóteses, quando prevista na legislação local, vedada sua cumulação com quaisquer outros índices.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "ctn.167"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.558": {
+  "id": "stj.sum.558",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "558",
+  "titulo": "Súmula 558/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "Em ações de execução fiscal, a petição inicial não pode ser indeferida sob o argumento da falta de indicação do CPF e/ou RG ou CNPJ da parte executada.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "lef.6"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.559": {
+  "id": "stj.sum.559",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "559",
+  "titulo": "Súmula 559/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "Em ações de execução fiscal, é desnecessária a instrução da petição inicial com o demonstrativo de cálculo do débito, por tratar-se de requisito não previsto no art. 6º da Lei n. 6.830/1980.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "lef.6"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.583": {
+  "id": "stj.sum.583",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "583",
+  "titulo": "Súmula 583/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "O arquivamento provisório previsto no art. 20 da Lei n. 10.522/2002, dirigido aos débitos inscritos como dívida ativa da União pela Procuradoria-Geral da Fazenda Nacional ou por ela cobrados, não se aplica às execuções fiscais movidas pelos conselhos de fiscalização profissional ou pelas autarquias federais.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "l10522.20"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stj.sum.625": {
+  "id": "stj.sum.625",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "625",
+  "titulo": "Súmula 625/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "O pedido administrativo de compensação ou de restituição não interrompe o prazo prescricional para a ação de repetição de indébito tributário de que trata o art. 168 do CTN nem o da execução de título judicial contra a Fazenda Pública.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "ctn.168"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-25"
+ },
+ "stf.sv.28": {
+  "id": "stf.sv.28",
+  "trib": "STF",
+  "tipo": "Súmula vinculante",
+  "nivel": "A",
+  "numero": "28",
+  "titulo": "Súmula Vinculante 28/STF",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "É inconstitucional a exigência de depósito prévio como requisito de admissibilidade de ação judicial na qual se pretenda discutir a exigibilidade de crédito tributário.",
+  "processos": [
+   {
+    "numero": "ADI 1.074 (precedente representativo)",
+    "origem": null,
+    "relator": "Min. Eros Grau",
+    "julgado": "28/03/2007",
+    "publicado": null
+   }
+  ],
+  "data": null,
+  "dispositivos": [
+   "lef.38",
+   "ctn.151"
+  ],
+  "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1278",
+  "fonte": "STF, Súmulas vinculantes",
+  "verificado_em": "2026-09-25"
+ },
+ "stf.tema.1184": {
+  "id": "stf.tema.1184",
+  "trib": "STF",
+  "tipo": "Repercussão geral",
+  "nivel": "B",
+  "numero": "1184",
+  "titulo": "Tema 1184/STF",
+  "orgao": "Tribunal Pleno",
+  "situacao": "Trânsito em julgado em 14/10/2025",
+  "questao": "Extinção de execução fiscal de baixo valor, por falta de interesse de agir, haja vista modificação legislativa posterior ao julgamento do RE 591.033 (Tema 109), que incluiu as certidões de dívida ativa entre os títulos sujeitos a protesto (Lei 12.767/2012), e a desproporção dos custos de prosseguimento da ação judicial.",
+  "tese": "1. É legítima a extinção de execução fiscal de baixo valor pela ausência de interesse de agir tendo em vista o princípio constitucional da eficiência administrativa, respeitada a competência constitucional de cada ente federado. 2. O ajuizamento da execução fiscal dependerá da prévia adoção das seguintes providências: a) tentativa de conciliação ou adoção de solução administrativa; e b) protesto do título, salvo por motivo de eficiência administrativa, comprovando-se a inadequação da medida. 3. O trâmite de ações de execução fiscal não impede os entes federados de pedirem a suspensão do processo para a adoção das medidas previstas no item 2, devendo, nesse caso, o juiz ser comunicado do prazo para as providências cabíveis.",
+  "processos": [
+   {
+    "numero": "RE 1355208",
+    "origem": null,
+    "relator": "Min. Cármen Lúcia",
+    "julgado": "19/12/2023",
+    "publicado": "02/04/2024"
+   }
+  ],
+  "data": "19/12/2023",
+  "dispositivos": [
+   "l9492.1",
+   "lef.26",
+   "l10522.20"
+  ],
+  "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=1184",
+  "url_inteiro_teor": "https://portal.stf.jus.br/jurisprudencia/obterInteiroTeor.asp?idDocumento=775641868",
+  "fonte": "STF, Repercussão Geral (tese conforme a ata de julgamento do Plenário)",
+  "verificado_em": "2026-09-25"
+ },
+ "stf.adi.5165": {
+  "id": "stf.adi.5165",
+  "trib": "STF",
+  "tipo": "Controle concentrado",
+  "nivel": "A",
+  "numero": "5165",
+  "titulo": "ADI 5165/STF",
+  "orgao": "Tribunal Pleno",
+  "situacao": "Julgada improcedente, por unanimidade",
+  "questao": null,
+  "tese": "Arts. 739-A do CPC de 1973 e 919 do CPC de 2015: ausência de efeito suspensivo automático dos embargos à execução e aplicabilidade dessas normas à execução fiscal, sem ofensa ao devido processo legal, ao contraditório, à ampla defesa, ao direito de propriedade e aos princípios da razoabilidade, da proporcionalidade e da isonomia (ementa oficial).",
+  "processos": [
+   {
+    "numero": "ADI 5165",
+    "origem": null,
+    "relator": "Min. Cármen Lúcia",
+    "julgado": "21/02/2022",
+    "publicado": "24/02/2022"
+   }
+  ],
+  "data": "21/02/2022",
+  "dispositivos": [
+   "cpc.919",
+   "lef.16"
+  ],
+  "url": "https://portal.stf.jus.br/jurisprudencia/obterInteiroTeor.asp?idDocumento=759346670",
+  "fonte": "STF, inteiro teor oficial",
+  "verificado_em": "2026-09-25"
  }
 }

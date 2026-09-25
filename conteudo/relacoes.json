@@ -405,6 +405,198 @@
    "grau": "mesmo",
    "porque": "A presunção de certeza e liquidez pressupõe inscrição regular.",
    "refs": []
+  },
+  {
+   "de": "lef.16",
+   "para": "cpc.914",
+   "tipo": "especializa",
+   "grau": "mesmo",
+   "porque": "A LEF exige garantia para os embargos (art. 16, § 1º), ao passo que o CPC os admite independentemente de penhora, depósito ou caução; na execução fiscal prevalece a regra especial.",
+   "refs": []
+  },
+  {
+   "de": "lef.16",
+   "para": "cpc.915",
+   "tipo": "especializa",
+   "grau": "mesmo",
+   "porque": "O prazo dos embargos na execução fiscal é de 30 dias contados da garantia, e não os 15 dias do CPC.",
+   "refs": []
+  },
+  {
+   "de": "cpc.919",
+   "para": "lef.16",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "A LEF não regula o efeito suspensivo dos embargos; aplica-se o art. 919 do CPC, com garantia, relevância e risco de dano.",
+   "refs": [
+    "stj.tema.526",
+    "stf.adi.5165"
+   ]
+  },
+  {
+   "de": "lef.17",
+   "para": "cpc.920",
+   "tipo": "especializa",
+   "grau": "mesmo",
+   "porque": "O rito dos embargos fiscais prevê impugnação da Fazenda em 30 dias; o CPC fixa 15 dias para o exequente.",
+   "refs": []
+  },
+  {
+   "de": "lef.38",
+   "para": "cpc.784",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "O art. 38 da LEF admite a anulatória fora da execução, e o art. 784, § 1º, do CPC esclarece que essa ação não impede a cobrança por si só.",
+   "refs": []
+  },
+  {
+   "de": "cpc.55",
+   "para": "lef.38",
+   "tipo": "procedimento_de",
+   "grau": "conexo",
+   "porque": "O § 2º, I, do art. 55 do CPC prevê a conexão entre a execução e a ação de conhecimento relativa ao mesmo ato jurídico, o que alcança a anulatória.",
+   "refs": []
+  },
+  {
+   "de": "lef.38",
+   "para": "ctn.151",
+   "tipo": "confundivel_com",
+   "grau": "conexo",
+   "porque": "Propor a anulatória não suspende a exigibilidade; a suspensão depende de depósito integral ou tutela provisória, hipóteses do art. 151 do CTN.",
+   "refs": [
+    "stj.tema.271",
+    "stf.sv.28"
+   ]
+  },
+  {
+   "de": "lef.38",
+   "para": "l12016.1",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "O art. 38 da LEF inclui o mandado de segurança entre as vias admitidas fora da execução, observados os requisitos da Lei 12.016/2009.",
+   "refs": []
+  },
+  {
+   "de": "lef.38",
+   "para": "ctn.165",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "O art. 38 da LEF admite a ação de repetição de indébito, cujo direito material está no art. 165 do CTN.",
+   "refs": []
+  },
+  {
+   "de": "ctn.168",
+   "para": "ctn.169",
+   "tipo": "confundivel_com",
+   "grau": "conexo",
+   "porque": "O art. 168 fixa 5 anos para pleitear a restituição; o art. 169 fixa 2 anos para anular a decisão administrativa que a denegar.",
+   "refs": [
+    "stj.sum.625"
+   ]
+  },
+  {
+   "de": "ctn.167",
+   "para": "ctn.165",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "O art. 167 estende a restituição aos juros de mora e às penalidades e fixa os juros a partir do trânsito em julgado.",
+   "refs": []
+  },
+  {
+   "de": "ctn.170-A",
+   "para": "ctn.170",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "O art. 170-A condiciona a compensação de tributo contestado judicialmente ao trânsito em julgado.",
+   "refs": []
+  },
+  {
+   "de": "l12016.7",
+   "para": "ctn.151",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "A liminar prevista no art. 7º, III, da Lei 12.016/2009 corresponde à hipótese de suspensão da exigibilidade do art. 151, IV, do CTN.",
+   "refs": []
+  },
+  {
+   "de": "cpc.866",
+   "para": "cpc.835",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "O art. 866 disciplina a penhora de faturamento, que ocupa o inciso X da ordem do art. 835.",
+   "refs": [
+    "stj.tema.769"
+   ]
+  },
+  {
+   "de": "cpc.866",
+   "para": "lef.11",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "A LEF admite, excepcionalmente, penhora sobre o estabelecimento (art. 11, § 1º); o CPC regula a penhora de percentual do faturamento.",
+   "refs": []
+  },
+  {
+   "de": "cpc.46",
+   "para": "lef.5",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "O CPC define o foro territorial da execução fiscal (art. 46, § 5º), e a LEF afirma a exclusividade do juízo da execução (art. 5º).",
+   "refs": []
+  },
+  {
+   "de": "l9492.1",
+   "para": "l10522.20-B",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "O protesto da CDA e a averbação pré-executória são medidas extrajudiciais de cobrança anteriores à execução, com fundamentos legais distintos.",
+   "refs": [
+    "stf.tema.1184"
+   ]
+  },
+  {
+   "de": "l10522.20-B",
+   "para": "ctn.185-A",
+   "tipo": "confundivel_com",
+   "grau": "contato",
+   "porque": "A averbação pré-executória é medida administrativa da Fazenda após notificação do devedor; a indisponibilidade do art. 185-A do CTN é judicial e pressupõe citação.",
+   "refs": []
+  },
+  {
+   "de": "l14973.35",
+   "para": "ctn.151",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "O art. 35 da Lei 14.973/2024 define onde e como se faz o depósito de tributos federais, instrumento da suspensão prevista no art. 151, II, do CTN.",
+   "refs": []
+  },
+  {
+   "de": "l14973.35",
+   "para": "lef.32",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "Ambos disciplinam o depósito em dinheiro na Caixa Econômica Federal nas causas da União; a Lei 14.973/2024 abrange depósitos judiciais e extrajudiciais de tributos federais.",
+   "refs": []
+  },
+  {
+   "de": "lef.26",
+   "para": "cpc.85",
+   "tipo": "complementa",
+   "grau": "contato",
+   "porque": "O cancelamento da inscrição antes da sentença extingue a execução sem ônus, mas a desistência após os embargos mantém os encargos de sucumbência.",
+   "refs": [
+    "stj.sum.153"
+   ]
+  },
+  {
+   "de": "l10522.20",
+   "para": "lef.40",
+   "tipo": "confundivel_com",
+   "grau": "contato",
+   "porque": "O arquivamento do art. 20 da Lei 10.522/2002 decorre do baixo valor do débito; o arquivamento do art. 40 da LEF decorre da não localização do devedor ou de bens.",
+   "refs": [
+    "stj.sum.583"
+   ]
   }
  ],
  "tipos": {

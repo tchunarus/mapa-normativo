@@ -190,5 +190,13 @@
  "https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm": {
   "etag": "\"bbf59-65943c1abcb05\"",
   "modificado": "Mon, 17 Aug 2026 20:10:07 GMT"
+ },
+ "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm": {
+  "etag": "\"110c6-650289ec4c16b\"",
+  "modificado": "Thu, 23 Apr 2026 23:00:52 GMT"
+ },
+ "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14973.htm": {
+  "etag": null,
+  "modificado": null
  }
 }

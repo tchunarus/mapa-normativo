@@ -2250,5 +2250,1091 @@
     "ref": "stj.tema.290"
    }
   ]
+ },
+ {
+  "id": "embargos-execucao-fiscal",
+  "grupo": "exec",
+  "area": "ef",
+  "destaque": true,
+  "nome": "Embargos à execução fiscal",
+  "sinonimos": [
+   "embargos do devedor na execução fiscal",
+   "embargos à execução fiscal",
+   "prazo dos embargos fiscais",
+   "efeito suspensivo dos embargos",
+   "defesa na execução fiscal com garantia"
+  ],
+  "perguntas": [
+   "Qual o prazo para opor embargos à execução fiscal?",
+   "Os embargos à execução fiscal suspendem a execução?",
+   "Posso embargar sem garantir o juízo?"
+  ],
+  "conceito": "Os embargos são a ação de defesa do executado na execução fiscal. Pela LEF, são opostos em 30 dias, contados do depósito, da juntada da fiança ou do seguro garantia ou da intimação da penhora (art. 16), e só são admitidos depois de garantida a execução (art. 16, § 1º). Nisso a LEF difere do CPC, que dispensa garantia e fixa 15 dias (arts. 914 e 915). Os embargos não suspendem automaticamente a execução: o efeito suspensivo depende de garantia, relevância da fundamentação e risco de dano (CPC, art. 919, § 1º; Tema 526/STJ), regra que o STF declarou compatível com a Constituição também na execução fiscal (ADI 5165).",
+  "fundamentos": [
+   {
+    "d": "lef.16",
+    "conteudo": "Prazo de 30 dias contado da garantia; embargos só depois de garantida a execução; toda a matéria de defesa no prazo.",
+    "aplicacao": "Regra especial da execução fiscal."
+   },
+   {
+    "d": "lef.17",
+    "conteudo": "Impugnação da Fazenda em 30 dias e julgamento antecipado quando a matéria for de direito ou a prova documental.",
+    "aplicacao": "Rito dos embargos."
+   },
+   {
+    "d": "lef.18",
+    "conteudo": "Sem embargos, a Fazenda se manifesta sobre a garantia.",
+    "aplicacao": "Consequência da não oposição."
+   },
+   {
+    "d": "lef.19",
+    "conteudo": "Garantia prestada por terceiro: intimação para remir o bem ou pagar.",
+    "aplicacao": "Embargos rejeitados ou não opostos."
+   },
+   {
+    "d": "cpc.914",
+    "conteudo": "No CPC, embargos independem de penhora, depósito ou caução.",
+    "aplicacao": "Regra geral afastada pela exigência de garantia da LEF."
+   },
+   {
+    "d": "cpc.915",
+    "conteudo": "Prazo de 15 dias no CPC.",
+    "aplicacao": "Não se aplica à execução fiscal, que tem prazo próprio."
+   },
+   {
+    "d": "cpc.917",
+    "conteudo": "Matérias alegáveis nos embargos.",
+    "aplicacao": "Aplicação subsidiária quanto ao conteúdo da defesa."
+   },
+   {
+    "d": "cpc.919",
+    "conteudo": "Ausência de efeito suspensivo automático; requisitos para concedê-lo.",
+    "aplicacao": "Aplica-se à execução fiscal (Tema 526/STJ; ADI 5165)."
+   },
+   {
+    "d": "cpc.920",
+    "conteudo": "Processamento dos embargos no CPC.",
+    "aplicacao": "Subsidiário."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "lef.9",
+    "papel": "Pressuposto",
+    "desc": "garantia da execução"
+   },
+   {
+    "d": "lef.16",
+    "papel": "Prazo e admissibilidade",
+    "desc": "30 dias, com garantia"
+   },
+   {
+    "d": "cpc.919",
+    "papel": "Efeito suspensivo",
+    "desc": "requisitos cumulativos"
+   },
+   {
+    "d": "lef.17",
+    "papel": "Rito",
+    "desc": "impugnação e julgamento"
+   }
+  ],
+  "alertas": [
+   "embargos-lef-x-cpc",
+   "anulatoria-x-embargos"
+  ],
+  "precedentes": [
+   "stj.tema.526",
+   "stf.adi.5165",
+   "stj.tema.288",
+   "stj.sum.393",
+   "stj.sum.153"
+  ],
+  "checklist": [
+   {
+    "q": "A execução está garantida (depósito, fiança, seguro garantia ou penhora)?",
+    "f": "lef.16",
+    "obs": "Sem garantia, os embargos não são admitidos; avalie a exceção de pré-executividade para matérias de ordem pública."
+   },
+   {
+    "q": "Qual o termo inicial do prazo de 30 dias: depósito, juntada da fiança ou do seguro, ou intimação da penhora?",
+    "f": "lef.16",
+    "obs": ""
+   },
+   {
+    "q": "Toda a matéria de defesa, as provas e o rol de testemunhas foram apresentados no prazo?",
+    "f": "lef.16",
+    "obs": "O § 2º concentra a defesa nos embargos."
+   },
+   {
+    "q": "Há pedido de efeito suspensivo com garantia, relevância da fundamentação e risco de dano?",
+    "f": "cpc.919",
+    "obs": "Requisitos cumulativos (Tema 526/STJ)."
+   },
+   {
+    "q": "Houve reforço ou substituição da penhora? Novos embargos restritos aos aspectos formais do novo ato são admitidos.",
+    "f": "stj.tema.288",
+    "obs": ""
+   },
+   {
+    "q": "Existe ação anulatória anterior sobre o mesmo débito? Avalie conexão e litispendência.",
+    "f": "cpc.55",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Sustentar a inadmissibilidade dos embargos sem garantia integral.",
+     "refs": [
+      "lef.16"
+     ]
+    },
+    {
+     "a": "Opor-se ao efeito suspensivo por ausência de algum dos requisitos.",
+     "refs": [
+      "cpc.919",
+      "stj.tema.526"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Pedir efeito suspensivo demonstrando garantia, relevância e risco de dano.",
+     "refs": [
+      "cpc.919",
+      "stj.tema.526"
+     ]
+    },
+    {
+     "a": "Opor novos embargos contra vícios formais de penhora reforçada ou substituída.",
+     "refs": [
+      "stj.tema.288"
+     ]
+    },
+    {
+     "a": "Cobrar honorários se a Fazenda desistir da execução depois dos embargos.",
+     "refs": [
+      "stj.sum.153",
+      "cpc.85"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [
+   {
+    "data": "2009-12-02",
+    "t": "Tema 288/STJ: novos embargos restritos aos aspectos formais da nova penhora.",
+    "ref": "stj.tema.288"
+   },
+   {
+    "data": "2013-05-22",
+    "t": "Tema 526/STJ: efeito suspensivo depende de garantia, relevância e risco de dano.",
+    "ref": "stj.tema.526"
+   },
+   {
+    "data": "2022-02-21",
+    "t": "ADI 5165/STF: arts. 739-A do CPC/1973 e 919 do CPC/2015 aplicáveis à execução fiscal.",
+    "ref": "stf.adi.5165"
+   }
+  ],
+  "estado": "verificado-ia",
+  "atualizado_em": "2026-09-25"
+ },
+ {
+  "id": "acao-anulatoria",
+  "grupo": "acoes",
+  "area": "trib",
+  "destaque": true,
+  "nome": "Ação anulatória de débito fiscal",
+  "sinonimos": [
+   "ação anulatória",
+   "anulatória de débito fiscal",
+   "anular lançamento",
+   "anular auto de infração",
+   "ação antiexacional",
+   "depósito do art. 38 da LEF"
+  ],
+  "perguntas": [
+   "Precisa depositar para propor ação anulatória?",
+   "A ação anulatória suspende a execução fiscal?",
+   "Qual a diferença entre ação anulatória e embargos à execução?"
+  ],
+  "conceito": "A ação anulatória é a via de conhecimento pela qual o contribuinte busca desconstituir o lançamento ou a inscrição em dívida ativa, antes ou durante a execução fiscal. O art. 38 da LEF a admite ao lado do mandado de segurança e da repetição de indébito e menciona depósito preparatório, mas o STF fixou que é inconstitucional exigir depósito prévio como requisito de admissibilidade de ação que discuta a exigibilidade de crédito tributário (Súmula Vinculante 28). O depósito integral continua relevante para outro efeito: suspender a exigibilidade (CTN, art. 151, II) e, se feito antes, impedir a própria execução fiscal (Tema 271/STJ). Sem depósito ou tutela de urgência, a propositura da ação não impede a execução (CPC, art. 784, § 1º). A propositura importa renúncia ao recurso administrativo (LEF, art. 38, parágrafo único).",
+  "fundamentos": [
+   {
+    "d": "lef.38",
+    "conteudo": "Vias judiciais admitidas fora da execução e renúncia à esfera administrativa.",
+    "aplicacao": "Base legal da anulatória; a exigência de depósito deve ser lida à luz da SV 28."
+   },
+   {
+    "d": "ctn.151",
+    "conteudo": "Depósito integral (II) e tutela provisória (V) suspendem a exigibilidade.",
+    "aplicacao": "Meios para impedir a cobrança enquanto a ação tramita."
+   },
+   {
+    "d": "cpc.784",
+    "conteudo": "§ 1º: ação relativa ao débito não inibe a execução.",
+    "aplicacao": "A anulatória, por si só, não trava a execução fiscal."
+   },
+   {
+    "d": "cpc.55",
+    "conteudo": "§ 2º, I: conexão entre execução e ação de conhecimento relativa ao mesmo ato jurídico.",
+    "aplicacao": "Reunião da anulatória com a execução fiscal."
+   },
+   {
+    "d": "cpc.300",
+    "conteudo": "Requisitos da tutela de urgência.",
+    "aplicacao": "Pedido de suspensão da exigibilidade sem depósito."
+   },
+   {
+    "d": "l14973.35",
+    "conteudo": "Depósitos judiciais de tributos federais na Caixa Econômica Federal, por Darf específico.",
+    "aplicacao": "Forma do depósito em causas contra a União."
+   },
+   {
+    "d": "ctn.204",
+    "conteudo": "Presunção relativa de certeza e liquidez da dívida inscrita.",
+    "aplicacao": "Ônus do autor de ilidir a presunção com prova inequívoca."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "lef.38",
+    "papel": "Admissibilidade",
+    "desc": "via de conhecimento prevista em lei"
+   },
+   {
+    "p": "stf.sv.28",
+    "papel": "Sem depósito prévio obrigatório",
+    "desc": "acesso à jurisdição"
+   },
+   {
+    "d": "ctn.151",
+    "papel": "Suspensão da exigibilidade",
+    "desc": "depósito integral ou tutela"
+   },
+   {
+    "d": "cpc.784",
+    "papel": "Relação com a execução",
+    "desc": "não impede a cobrança por si só"
+   }
+  ],
+  "alertas": [
+   "anulatoria-x-embargos",
+   "deposito-lef38-x-sv28",
+   "anulatoria-nao-suspende"
+  ],
+  "precedentes": [
+   "stf.sv.28",
+   "stj.tema.271",
+   "stj.sum.112"
+  ],
+  "checklist": [
+   {
+    "q": "O objetivo é só discutir o débito ou também impedir a cobrança? Para suspender, é preciso depósito integral ou tutela.",
+    "f": "ctn.151",
+    "obs": ""
+   },
+   {
+    "q": "O depósito será feito antes do ajuizamento da execução? Nesse caso, a execução fica impedida.",
+    "f": "stj.tema.271",
+    "obs": ""
+   },
+   {
+    "q": "O depósito é integral e em dinheiro?",
+    "f": "stj.sum.112",
+    "obs": "Em tributos federais, na Caixa, por Darf específico (Lei 14.973/2024, art. 35)."
+   },
+   {
+    "q": "Há recurso administrativo pendente? A propositura importa renúncia a ele.",
+    "f": "lef.38",
+    "obs": ""
+   },
+   {
+    "q": "Já existe execução fiscal ou embargos sobre o mesmo débito?",
+    "f": "cpc.55",
+    "obs": "Avalie conexão com a execução e litispendência com embargos."
+   },
+   {
+    "q": "A prova afasta a presunção de certeza e liquidez da CDA?",
+    "f": "ctn.204",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Prosseguir na execução, pois a ação não inibe a cobrança sem suspensão da exigibilidade.",
+     "refs": [
+      "cpc.784"
+     ]
+    },
+    {
+     "a": "Arguir renúncia à discussão administrativa.",
+     "refs": [
+      "lef.38"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Propor a anulatória sem depósito prévio obrigatório.",
+     "refs": [
+      "stf.sv.28"
+     ]
+    },
+    {
+     "a": "Depositar o montante integral antes da execução para impedi-la.",
+     "refs": [
+      "stj.tema.271",
+      "ctn.151"
+     ]
+    },
+    {
+     "a": "Pedir tutela de urgência para suspender a exigibilidade sem depósito.",
+     "refs": [
+      "cpc.300",
+      "ctn.151"
+     ]
+    },
+    {
+     "a": "Pedir a reunião com a execução fiscal por conexão.",
+     "refs": [
+      "cpc.55"
+     ]
+    }
+   ]
+  },
+  "controversias": [
+   {
+    "q": "Reunião da ação anulatória com a execução fiscal e competência",
+    "status": "aberta",
+    "ref": null,
+    "posicoes": [
+     {
+      "t": "A conexão do art. 55, § 2º, I, do CPC impõe a reunião para evitar decisões conflitantes.",
+      "refs": [
+       "cpc.55"
+      ]
+     },
+     {
+      "t": "A reunião encontra limites na competência absoluta das varas especializadas de execução fiscal, e a anulatória não suspende a execução sem garantia ou tutela.",
+      "refs": [
+       "lef.5",
+       "cpc.784"
+      ]
+     }
+    ],
+    "predominante": "Precedentes qualificados sobre o ponto ainda não carregados na base; verifique a organização judiciária do foro."
+   }
+  ],
+  "timeline": [
+   {
+    "data": "2010-11-24",
+    "t": "Tema 271/STJ: depósito integral em ação anterior impede a execução fiscal.",
+    "ref": "stj.tema.271"
+   },
+   {
+    "data": null,
+    "t": "Súmula Vinculante 28/STF: depósito prévio não pode ser requisito de admissibilidade.",
+    "ref": "stf.sv.28"
+   }
+  ],
+  "estado": "verificado-ia",
+  "atualizado_em": "2026-09-25"
+ },
+ {
+  "id": "repeticao-indebito",
+  "grupo": "acoes",
+  "area": "trib",
+  "nome": "Repetição de indébito tributário",
+  "sinonimos": [
+   "restituição de tributo",
+   "repetição de indébito",
+   "tributo pago indevidamente",
+   "prazo para restituição",
+   "compensação de indébito"
+  ],
+  "perguntas": [
+   "Qual o prazo para pedir restituição de tributo pago a maior?",
+   "Posso compensar o indébito reconhecido em sentença?"
+  ],
+  "conceito": "O sujeito passivo tem direito à restituição do tributo pago indevidamente ou a maior (CTN, art. 165), com juros de mora e penalidades na mesma proporção (art. 167). O prazo é de 5 anos contados da extinção do crédito (art. 168, I) ou da decisão que reformar a condenação (art. 168, II). Distinto é o prazo de 2 anos da ação anulatória da decisão administrativa que denega a restituição (art. 169). O indébito reconhecido em sentença pode ser recebido por precatório ou compensado (Súmula 461/STJ), observado o art. 170-A do CTN.",
+  "fundamentos": [
+   {
+    "d": "ctn.165",
+    "conteudo": "Hipóteses de restituição.",
+    "aplicacao": "Fundamento do direito."
+   },
+   {
+    "d": "ctn.167",
+    "conteudo": "Restituição de juros e penalidades; juros a partir do trânsito em julgado.",
+    "aplicacao": "Consectários."
+   },
+   {
+    "d": "ctn.168",
+    "conteudo": "Prazo de 5 anos e habilitação do indébito.",
+    "aplicacao": "Prazo da ação de repetição."
+   },
+   {
+    "d": "ctn.169",
+    "conteudo": "Prazo de 2 anos da anulatória da decisão que denega a restituição.",
+    "aplicacao": "Via própria após indeferimento administrativo."
+   },
+   {
+    "d": "ctn.170",
+    "conteudo": "Compensação autorizada por lei.",
+    "aplicacao": "Alternativa à restituição em dinheiro."
+   },
+   {
+    "d": "ctn.170-A",
+    "conteudo": "Vedação de compensação antes do trânsito em julgado.",
+    "aplicacao": "Limite temporal."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "ctn.165",
+    "papel": "Direito",
+    "desc": "pagamento indevido"
+   },
+   {
+    "d": "ctn.168",
+    "papel": "Prazo",
+    "desc": "cinco anos"
+   },
+   {
+    "d": "ctn.170-A",
+    "papel": "Compensação",
+    "desc": "após o trânsito em julgado"
+   }
+  ],
+  "alertas": [
+   "restituicao-168-x-169"
+  ],
+  "precedentes": [
+   "stj.sum.162",
+   "stj.sum.188",
+   "stj.sum.461",
+   "stj.sum.625",
+   "stj.sum.523",
+   "stj.sum.213",
+   "stj.sum.460",
+   "stj.sum.212",
+   "stj.sum.464"
+  ],
+  "checklist": [
+   {
+    "q": "Qual a data da extinção do crédito (pagamento) de cada competência?",
+    "f": "ctn.168",
+    "obs": "Marca o início dos 5 anos."
+   },
+   {
+    "q": "Houve pedido administrativo? Ele não interrompe o prazo da ação.",
+    "f": "stj.sum.625",
+    "obs": ""
+   },
+   {
+    "q": "Houve indeferimento administrativo expresso? O prazo da anulatória é de 2 anos.",
+    "f": "ctn.169",
+    "obs": ""
+   },
+   {
+    "q": "A opção será precatório ou compensação?",
+    "f": "stj.sum.461",
+    "obs": "Compensação só após o trânsito em julgado."
+   },
+   {
+    "q": "A via será mandado de segurança para declarar o direito à compensação?",
+    "f": "stj.sum.213",
+    "obs": "O MS não serve para convalidar compensação já feita (Súmula 460)."
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Arguir prescrição quinquenal contada da extinção do crédito.",
+     "refs": [
+      "ctn.168",
+      "stj.sum.625"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Optar entre precatório e compensação do indébito reconhecido.",
+     "refs": [
+      "stj.sum.461"
+     ]
+    },
+    {
+     "a": "Usar mandado de segurança para declarar o direito à compensação.",
+     "refs": [
+      "stj.sum.213"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [],
+  "estado": "verificado-ia",
+  "atualizado_em": "2026-09-25"
+ },
+ {
+  "id": "mandado-seguranca-tributario",
+  "grupo": "acoes",
+  "area": "trib",
+  "nome": "Mandado de segurança em matéria tributária",
+  "sinonimos": [
+   "mandado de segurança tributário",
+   "MS contra cobrança de tributo",
+   "liminar em mandado de segurança",
+   "prazo de 120 dias",
+   "mandado de segurança preventivo"
+  ],
+  "perguntas": [
+   "Qual o prazo do mandado de segurança?",
+   "Liminar em mandado de segurança suspende a exigibilidade?"
+  ],
+  "conceito": "O mandado de segurança protege direito líquido e certo contra ato ilegal ou abusivo de autoridade (Lei 12.016/2009, art. 1º) e é uma das vias que o art. 38 da LEF admite fora da execução. Exige prova pré-constituída, tem prazo decadencial de 120 dias contados da ciência do ato (art. 23), salvo quando preventivo, e a liminar suspende a exigibilidade do crédito (CTN, art. 151, IV). Serve para declarar o direito à compensação (Súmula 213/STJ), mas não para convalidar compensação já realizada (Súmula 460/STJ).",
+  "fundamentos": [
+   {
+    "d": "l12016.1",
+    "conteudo": "Cabimento: direito líquido e certo contra ato de autoridade.",
+    "aplicacao": "Ato do Fisco ilegal ou abusivo, atual ou iminente."
+   },
+   {
+    "d": "l12016.7",
+    "conteudo": "Liminar e possibilidade de exigir caução, fiança ou depósito.",
+    "aplicacao": "Suspensão do ato impugnado."
+   },
+   {
+    "d": "l12016.23",
+    "conteudo": "Prazo decadencial de 120 dias.",
+    "aplicacao": "Contado da ciência do ato."
+   },
+   {
+    "d": "ctn.151",
+    "conteudo": "Liminar em mandado de segurança suspende a exigibilidade (IV).",
+    "aplicacao": "Efeito sobre o crédito."
+   },
+   {
+    "d": "lef.38",
+    "conteudo": "MS entre as vias admitidas fora da execução.",
+    "aplicacao": "Convivência com a execução fiscal."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "l12016.1",
+    "papel": "Cabimento",
+    "desc": "direito líquido e certo"
+   },
+   {
+    "d": "l12016.23",
+    "papel": "Prazo",
+    "desc": "120 dias"
+   },
+   {
+    "d": "ctn.151",
+    "papel": "Efeito da liminar",
+    "desc": "suspensão da exigibilidade"
+   }
+  ],
+  "alertas": [],
+  "precedentes": [
+   "stj.sum.213",
+   "stj.sum.460",
+   "stj.sum.212",
+   "stj.tema.271"
+  ],
+  "checklist": [
+   {
+    "q": "O direito se prova só com documentos, sem dilação probatória?",
+    "f": "l12016.1",
+    "obs": ""
+   },
+   {
+    "q": "O ato já ocorreu? Conte os 120 dias da ciência; se iminente, o MS é preventivo.",
+    "f": "l12016.23",
+    "obs": ""
+   },
+   {
+    "q": "O pedido envolve compensação? Declaração do direito é cabível; convalidação, não.",
+    "f": "stj.sum.460",
+    "obs": ""
+   },
+   {
+    "q": "Haverá depósito para suspender a exigibilidade antes de eventual execução?",
+    "f": "stj.tema.271",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Arguir decadência do prazo de 120 dias ou necessidade de dilação probatória.",
+     "refs": [
+      "l12016.23",
+      "l12016.1"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Obter liminar para suspender a exigibilidade.",
+     "refs": [
+      "l12016.7",
+      "ctn.151"
+     ]
+    },
+    {
+     "a": "Declarar o direito à compensação.",
+     "refs": [
+      "stj.sum.213"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [],
+  "estado": "verificado-ia",
+  "atualizado_em": "2026-09-25"
+ },
+ {
+  "id": "extincao-execucao-fiscal",
+  "grupo": "exec",
+  "area": "ef",
+  "nome": "Extinção e arquivamento da execução fiscal",
+  "sinonimos": [
+   "execução fiscal de baixo valor",
+   "extinção por falta de interesse de agir",
+   "cancelamento da CDA",
+   "desistência da execução fiscal",
+   "arquivamento art. 20 Lei 10.522",
+   "Tema 1184"
+  ],
+  "perguntas": [
+   "Execução fiscal de baixo valor pode ser extinta?",
+   "Se a CDA for cancelada, há honorários?"
+  ],
+  "conceito": "A execução fiscal pode terminar por causas próprias: cancelamento da inscrição antes da decisão de primeira instância, extinção sem ônus (LEF, art. 26); desistência após embargos, que mantém os encargos de sucumbência (Súmula 153/STJ); e, para débitos de baixo valor, extinção por falta de interesse de agir, desde que respeitada a competência de cada ente, com exigência de conciliação ou solução administrativa e protesto prévio para novos ajuizamentos (Tema 1184/STF). Na União, débitos de valor até o limite fixado pela PGFN são arquivados sem baixa (Lei 10.522/2002, art. 20), regra que não se aplica a conselhos profissionais e autarquias (Súmula 583/STJ).",
+  "fundamentos": [
+   {
+    "d": "lef.26",
+    "conteudo": "Cancelamento da inscrição antes da decisão de primeira instância extingue a execução sem ônus.",
+    "aplicacao": "Após embargos, observar a Súmula 153/STJ."
+   },
+   {
+    "d": "l10522.20",
+    "conteudo": "Arquivamento sem baixa das execuções de pequeno valor da União.",
+    "aplicacao": "Limite fixado em ato do Procurador-Geral."
+   },
+   {
+    "d": "l9492.1",
+    "conteudo": "Parágrafo único: CDA sujeita a protesto.",
+    "aplicacao": "Fundamento legal invocado no Tema 1184/STF."
+   },
+   {
+    "d": "l10522.20-C",
+    "conteudo": "Ajuizamento condicionado a indícios de bens.",
+    "aplicacao": "Racionalização das execuções federais."
+   },
+   {
+    "d": "cpc.85",
+    "conteudo": "Honorários de sucumbência, inclusive contra a Fazenda.",
+    "aplicacao": "Desistência ou extinção após defesa."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "lef.26",
+    "papel": "Cancelamento",
+    "desc": "extinção sem ônus antes da sentença"
+   },
+   {
+    "p": "stf.tema.1184",
+    "papel": "Baixo valor",
+    "desc": "falta de interesse de agir"
+   },
+   {
+    "d": "l10522.20",
+    "papel": "Arquivamento federal",
+    "desc": "sem baixa na distribuição"
+   }
+  ],
+  "alertas": [],
+  "precedentes": [
+   "stf.tema.1184",
+   "stj.sum.153",
+   "stj.sum.583"
+  ],
+  "checklist": [
+   {
+    "q": "A inscrição foi cancelada antes da decisão de primeira instância?",
+    "f": "lef.26",
+    "obs": "Se já havia embargos, pleiteie honorários (Súmula 153/STJ)."
+   },
+   {
+    "q": "O valor é baixo e o ente não tentou conciliação nem protesto antes de ajuizar?",
+    "f": "stf.tema.1184",
+    "obs": "Verifique a legislação do ente sobre valor mínimo."
+   },
+   {
+    "q": "A execução é da PGFN? Conselhos e autarquias não se sujeitam ao art. 20 da Lei 10.522.",
+    "f": "stj.sum.583",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Pedir suspensão para protestar a CDA ou tentar conciliação.",
+     "refs": [
+      "stf.tema.1184"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Pedir extinção por falta de interesse de agir em execução de baixo valor.",
+     "refs": [
+      "stf.tema.1184"
+     ]
+    },
+    {
+     "a": "Cobrar honorários na desistência posterior aos embargos.",
+     "refs": [
+      "stj.sum.153",
+      "cpc.85"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [
+   {
+    "data": "2023-12-19",
+    "t": "Tema 1184/STF: extinção de execução fiscal de baixo valor e providências prévias ao ajuizamento.",
+    "ref": "stf.tema.1184"
+   }
+  ],
+  "estado": "verificado-ia",
+  "atualizado_em": "2026-09-25"
+ },
+ {
+  "id": "penhora-faturamento",
+  "grupo": "exec",
+  "area": "ef",
+  "nome": "Penhora de faturamento",
+  "sinonimos": [
+   "penhora sobre faturamento",
+   "percentual do faturamento",
+   "penhora de receita da empresa",
+   "Tema 769"
+  ],
+  "perguntas": [
+   "Quando cabe penhora de faturamento na execução fiscal?",
+   "Penhora de faturamento equivale a penhora de dinheiro?"
+  ],
+  "conceito": "A penhora de percentual do faturamento (CPC, art. 866) está em décimo lugar na ordem legal (art. 835, X). No regime do CPC/2015, pode ser deferida após demonstrada a inexistência de bens em posição superior ou sua difícil alienação, ou, excepcionalmente, fora da ordem por decisão fundamentada; não se equipara a dinheiro; e o percentual não pode inviabilizar a atividade (Tema 769/STJ).",
+  "fundamentos": [
+   {
+    "d": "cpc.866",
+    "conteudo": "Requisitos, percentual e administrador-depositário.",
+    "aplicacao": "Procedimento da penhora de faturamento."
+   },
+   {
+    "d": "cpc.835",
+    "conteudo": "Ordem preferencial; faturamento no inciso X.",
+    "aplicacao": "Posição na ordem."
+   },
+   {
+    "d": "lef.11",
+    "conteudo": "§ 1º: penhora excepcional sobre estabelecimento.",
+    "aplicacao": "Regra da LEF sobre bens da empresa."
+   },
+   {
+    "d": "cpc.805",
+    "conteudo": "Menor onerosidade.",
+    "aplicacao": "Fixação do percentual."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "cpc.835",
+    "papel": "Ordem",
+    "desc": "décimo lugar"
+   },
+   {
+    "d": "cpc.866",
+    "papel": "Procedimento",
+    "desc": "percentual e administrador"
+   },
+   {
+    "p": "stj.tema.769",
+    "papel": "Requisitos",
+    "desc": "tese de 2024"
+   }
+  ],
+  "alertas": [],
+  "precedentes": [
+   "stj.tema.769"
+  ],
+  "checklist": [
+   {
+    "q": "Foi demonstrada a inexistência ou a difícil alienação dos bens em posição superior?",
+    "f": "stj.tema.769",
+    "obs": ""
+   },
+   {
+    "q": "O percentual preserva a continuidade da atividade, com base em prova concreta?",
+    "f": "cpc.866",
+    "obs": ""
+   },
+   {
+    "q": "Foi nomeado administrador-depositário com prestação de contas?",
+    "f": "cpc.866",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Pedir penhora de faturamento fora da ordem com decisão fundamentada.",
+     "refs": [
+      "stj.tema.769",
+      "cpc.835"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Impugnar percentual que inviabilize a empresa e exigir prova concreta.",
+     "refs": [
+      "stj.tema.769",
+      "cpc.805"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [
+   {
+    "data": "2024-04-18",
+    "t": "Tema 769/STJ: requisitos da penhora de faturamento no CPC/2015.",
+    "ref": "stj.tema.769"
+   }
+  ],
+  "estado": "verificado-ia",
+  "atualizado_em": "2026-09-25"
+ },
+ {
+  "id": "competencia-execucao-fiscal",
+  "grupo": "exec",
+  "area": "ef",
+  "nome": "Competência e citação na execução fiscal",
+  "sinonimos": [
+   "foro da execução fiscal",
+   "competência da execução fiscal",
+   "mudança de domicílio do executado",
+   "citação na execução fiscal",
+   "citação por edital"
+  ],
+  "perguntas": [
+   "Onde deve ser proposta a execução fiscal?",
+   "Mudança de endereço do executado altera a competência?"
+  ],
+  "conceito": "A execução fiscal é proposta no foro do domicílio do réu, de sua residência ou do lugar onde for encontrado (CPC, art. 46, § 5º), e o juízo da execução exclui qualquer outro, inclusive o da falência (LEF, art. 5º). A mudança posterior de domicílio não desloca a competência (Súmula 58/STJ). A citação segue as modalidades sucessivas do art. 8º da LEF, e a citação por edital só cabe frustradas as demais (Súmula 414/STJ).",
+  "fundamentos": [
+   {
+    "d": "cpc.46",
+    "conteudo": "§ 5º: foro da execução fiscal.",
+    "aplicacao": "Definição territorial."
+   },
+   {
+    "d": "lef.5",
+    "conteudo": "Juízo da execução exclui qualquer outro.",
+    "aplicacao": "Não há atração para o juízo universal."
+   },
+   {
+    "d": "lef.8",
+    "conteudo": "Modalidades de citação e interrupção da prescrição pelo despacho.",
+    "aplicacao": "Sequência correio, oficial e edital."
+   },
+   {
+    "d": "lef.7",
+    "conteudo": "Efeitos do despacho que defere a inicial.",
+    "aplicacao": "Citação, penhora, arresto e registro."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "cpc.46",
+    "papel": "Foro",
+    "desc": "domicílio do réu"
+   },
+   {
+    "d": "lef.5",
+    "papel": "Exclusividade",
+    "desc": "juízo da execução"
+   },
+   {
+    "d": "lef.8",
+    "papel": "Citação",
+    "desc": "modalidades sucessivas"
+   }
+  ],
+  "alertas": [],
+  "precedentes": [
+   "stj.sum.58",
+   "stj.sum.414",
+   "stj.sum.558",
+   "stj.sum.559",
+   "stj.sum.66"
+  ],
+  "checklist": [
+   {
+    "q": "A execução foi proposta no foro do domicílio ou onde o executado foi encontrado?",
+    "f": "cpc.46",
+    "obs": ""
+   },
+   {
+    "q": "Houve mudança de domicílio após a propositura? Não desloca a competência.",
+    "f": "stj.sum.58",
+    "obs": ""
+   },
+   {
+    "q": "A citação por edital foi precedida das demais modalidades?",
+    "f": "stj.sum.414",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Manter a competência apesar da mudança de domicílio do executado.",
+     "refs": [
+      "stj.sum.58"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Arguir nulidade da citação por edital sem esgotamento das demais formas.",
+     "refs": [
+      "stj.sum.414",
+      "lef.8"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [],
+  "estado": "verificado-ia",
+  "atualizado_em": "2026-09-25"
+ },
+ {
+  "id": "medidas-pre-executorias",
+  "grupo": "exec",
+  "area": "ef",
+  "nome": "Protesto da CDA e averbação pré-executória",
+  "sinonimos": [
+   "protesto de CDA",
+   "protesto da certidão de dívida ativa",
+   "averbação pré-executória",
+   "indisponibilidade antes da execução",
+   "cobrança extrajudicial da dívida ativa"
+  ],
+  "perguntas": [
+   "A Fazenda pode protestar a CDA?",
+   "O que é averbação pré-executória?"
+  ],
+  "conceito": "Antes da execução, a Fazenda dispõe de meios extrajudiciais de cobrança. A CDA está entre os títulos sujeitos a protesto (Lei 9.492/1997, art. 1º, parágrafo único), e o STF passou a exigir, como regra, conciliação ou solução administrativa e protesto prévio para o ajuizamento de novas execuções (Tema 1184). Na União, inscrito o débito e notificado o devedor, a Fazenda pode comunicar a inscrição a cadastros de proteção ao crédito e averbar a CDA nos registros de bens, tornando-os indisponíveis (Lei 10.522/2002, art. 20-B). A averbação não se confunde com a penhora nem com a indisponibilidade judicial do art. 185-A do CTN.",
+  "fundamentos": [
+   {
+    "d": "l9492.1",
+    "conteudo": "Protesto e inclusão da CDA entre os títulos protestáveis.",
+    "aplicacao": "Cobrança extrajudicial."
+   },
+   {
+    "d": "l10522.20-B",
+    "conteudo": "Notificação, comunicação a cadastros e averbação da CDA nos registros de bens.",
+    "aplicacao": "Medidas da PGFN antes da execução."
+   },
+   {
+    "d": "l10522.20-C",
+    "conteudo": "Ajuizamento condicionado a indícios de bens.",
+    "aplicacao": "Filtro de viabilidade."
+   },
+   {
+    "d": "ctn.185-A",
+    "conteudo": "Indisponibilidade judicial após citação.",
+    "aplicacao": "Contraste com a averbação administrativa."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "l9492.1",
+    "papel": "Protesto",
+    "desc": "CDA protestável"
+   },
+   {
+    "d": "l10522.20-B",
+    "papel": "Averbação",
+    "desc": "indisponibilidade administrativa"
+   },
+   {
+    "p": "stf.tema.1184",
+    "papel": "Condição para executar",
+    "desc": "providências prévias"
+   }
+  ],
+  "alertas": [],
+  "precedentes": [
+   "stf.tema.1184"
+  ],
+  "checklist": [
+   {
+    "q": "O devedor foi notificado da inscrição e do prazo de 5 dias para pagar?",
+    "f": "l10522.20-B",
+    "obs": ""
+   },
+   {
+    "q": "A averbação recaiu sobre bens do devedor ou de corresponsável?",
+    "f": "l10522.20-B",
+    "obs": ""
+   },
+   {
+    "q": "A execução foi precedida de protesto ou de tentativa de solução administrativa?",
+    "f": "stf.tema.1184",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Protestar a CDA e averbar a certidão antes de ajuizar.",
+     "refs": [
+      "l9492.1",
+      "l10522.20-B"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Exigir a notificação prévia do art. 20-B antes de medidas restritivas.",
+     "refs": [
+      "l10522.20-B"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [],
+  "estado": "verificado-ia",
+  "atualizado_em": "2026-09-25"
  }
 ]

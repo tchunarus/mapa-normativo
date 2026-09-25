@@ -26,6 +26,10 @@ DIPLOMAS = [
   dict(id='lcp227', sigla='LC 227/2026', nome='Lei Complementar nº 227 (Comitê Gestor do IBS e ITCMD)', norma='Lei Complementar nº 227, de 13 de janeiro de 2026', area='rt',
        url=P+'leis/lcp/lcp227.htm', cache='lcp227', urn='urn:lex:br:federal:lei.complementar:2026-01-13;227', onda=1),
   # Onda 2: demais áreas (leis, decretos e códigos)
+  dict(id='l9492', sigla='Lei 9.492/97', nome='Lei do Protesto de Títulos', norma='Lei nº 9.492, de 10 de setembro de 1997', area='ef',
+       url=P+'leis/l9492.htm', cache='l9492', urn='urn:lex:br:federal:lei:1997-09-10;9492', onda=2),
+  dict(id='l14973', sigla='Lei 14.973/24', nome='Lei 14.973/2024 (depósitos judiciais e extrajudiciais federais, entre outras matérias)', norma='Lei nº 14.973, de 16 de setembro de 2024', area='trib',
+       url=P+'_ato2023-2026/2024/lei/L14973.htm', cache='l14973', urn='urn:lex:br:federal:lei:2024-09-16;14973', onda=2),
   dict(id='d70235', sigla='PAF', nome='Processo Administrativo Fiscal', norma='Decreto nº 70.235, de 6 de março de 1972', area='trib',
        url=P+'decreto/d70235cons.htm', cache='d70235', urn='urn:lex:br:federal:decreto:1972-03-06;70235', onda=2),
   dict(id='l9430', sigla='Lei 9.430/96', nome='Lei 9.430/1996 (legislação tributária federal)', norma='Lei nº 9.430, de 27 de dezembro de 1996', area='trib',

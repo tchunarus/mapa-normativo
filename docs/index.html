@@ -550,7 +550,7 @@ function precCard(p, compact){
     <h4><a href="#p.${esc(p.id)}">${esc(p.titulo)}</a></h4>
     ${p.tese?`<p class="tese"><span>${p.tipo==="Súmula"?"Enunciado":"Tese"}</span>${esc(p.tese)}</p>`:p.aviso_tese?`<p class="tese"><span>Tese</span>${esc(p.aviso_tese)}</p>`:""}
     ${!p.tese&&p.questao?`<p class="small" style="margin:8px 0 0;max-width:78ch"><span class="muted">Questão submetida a julgamento:</span> ${esc(p.questao)}</p>`:(p.questao&&!compact?`<details class="q"><summary>Questão submetida a julgamento</summary><p>${esc(p.questao)}</p></details>`:"")}
-    <div class="pmeta">${proc?`<span>${esc(proc.numero)}${proc.relator?` · Rel. ${esc(proc.relator)}`:""}${proc.julgado?` · julgado em ${esc(proc.julgado)}`:""}</span>`:""}<a href="${esc(p.url)}" target="_blank" rel="noopener">Fonte oficial</a><span>conferido em ${FMT(p.verificado_em)}</span></div>
+    <div class="pmeta">${proc?`<span>${esc(proc.numero)}${proc.relator?` · Rel. ${esc(proc.relator)}`:""}${proc.julgado?` · julgado em ${esc(proc.julgado)}`:""}</span>`:""}<a href="${esc(p.url)}" target="_blank" rel="noopener">Fonte oficial</a>${p.url_inteiro_teor?`<a href="${esc(p.url_inteiro_teor)}" target="_blank" rel="noopener">Inteiro teor</a>`:""}<span>conferido em ${FMT(p.verificado_em)}</span></div>
     ${!compact&&p.dispositivos?.length?`<div class="chips" style="margin-top:8px">${p.dispositivos.filter(isDisp).map(chip).join("")}</div>`:""}</div>`;
 }
 const TRIBS=["STF","STJ","TST","TRF1","TRF2","TRF3","TRF4","TRF5","TJSC"];

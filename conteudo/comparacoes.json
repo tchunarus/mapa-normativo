@@ -193,5 +193,72 @@
    "Consequências",
    "Jurisprudência"
   ]
+ },
+ {
+  "id": "anulatoria-x-embargos",
+  "a": "lef.38",
+  "b": "lef.16",
+  "titulo": "Ação anulatória (LEF, art. 38) x Embargos à execução fiscal (LEF, art. 16)",
+  "criterios": [
+   "Natureza",
+   "Campo de aplicação",
+   "Requisitos",
+   "Conduta necessária",
+   "Beneficiário",
+   "Responsabilizado",
+   "Ônus probatório",
+   "Procedimento",
+   "Consequências",
+   "Jurisprudência"
+  ],
+  "linhas": [
+   [
+    "Ação autônoma de conhecimento para desconstituir o lançamento ou a inscrição.",
+    "Ação de defesa incidental à execução fiscal já proposta."
+   ],
+   [
+    "Antes ou durante a execução; também contra créditos ainda não executados.",
+    "Somente depois de ajuizada a execução e garantido o juízo."
+   ],
+   [
+    "Interesse processual; depósito não é requisito de admissibilidade (SV 28).",
+    "Garantia da execução (art. 16, § 1º) e prazo de 30 dias."
+   ],
+   [
+    "Propor a ação; para suspender a cobrança, depositar o integral ou obter tutela.",
+    "Garantir o juízo e opor os embargos com toda a matéria de defesa."
+   ],
+   [
+    "O contribuinte autor.",
+    "O executado embargante."
+   ],
+   [
+    "A Fazenda, parte ré.",
+    "A Fazenda exequente, parte embargada."
+   ],
+   [
+    "Do autor, contra a presunção de certeza e liquidez da CDA (CTN, art. 204).",
+    "Do embargante, contra a mesma presunção."
+   ],
+   [
+    "Procedimento comum do CPC.",
+    "Rito da LEF (arts. 16 a 19), com o CPC subsidiário."
+   ],
+   [
+    "Não impede a execução, salvo suspensão da exigibilidade; importa renúncia ao recurso administrativo.",
+    "Sem efeito suspensivo automático; efeito suspensivo nos termos do art. 919, § 1º, do CPC."
+   ],
+   [
+    "SV 28/STF; Tema 271/STJ.",
+    "Tema 526/STJ; ADI 5165/STF; Tema 288/STJ."
+   ]
+  ],
+  "convergencias": "Ambas permitem discutir a validade do crédito com cognição ampla e enfrentam a presunção de certeza e liquidez da CDA.",
+  "diferencas": "Diferem no momento de propositura, na exigência de garantia e prazo e no efeito sobre a execução.",
+  "hipoteses": "Sem execução ajuizada ou sem garantia disponível, a anulatória é o caminho. Com execução garantida e dentro do prazo, os embargos concentram a defesa e permitem pedir efeito suspensivo.",
+  "conjunta": "Podem coexistir quando tratarem de fundamentos distintos; com o mesmo pedido e causa de pedir há litispendência, e a relação com a execução atrai conexão (CPC, art. 55, § 2º, I).",
+  "controversias": "Reunião dos processos quando há vara especializada de execução fiscal (sem precedente qualificado carregado na base).",
+  "estado": "verificado-ia",
+  "atualizado_em": "2026-09-25"
  }
 ]
