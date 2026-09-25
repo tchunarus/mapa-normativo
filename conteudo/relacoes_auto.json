@@ -208,5 +208,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-25T19:24:42+00:00"
+ },
+ {
+  "de": "lsa.99",
+  "para": "cc.1016",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 99 da LSA impõe aos primeiros administradores da companhia responsabilidade solidária por atraso no cumprimento das formalidades complementares à constituição, hipótese específica de responsabilidade por culpa no exercício da função, tema geral tratado pelo art. 1.016 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T19:50:54+00:00"
+ },
+ {
+  "de": "clt.10-A",
+  "para": "cc.1052",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 10-A da CLT impõe ao sócio retirante responsabilidade subsidiária, e em caso de fraude solidária, pelas obrigações trabalhistas do período em que foi sócio, mitigando na esfera trabalhista a regra geral de responsabilidade limitada às quotas do art. 1.052 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T19:50:54+00:00"
+ },
+ {
+  "de": "lsa.282",
+  "para": "cc.1052",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 282 da LSA atribui responsabilidade subsidiária, ilimitada e solidária ao sócio ou acionista que administra sociedade em comandita por ações, regime oposto ao da responsabilidade restrita às quotas da sociedade limitada do art. 1.052 do Código Civil, podendo gerar confusão entre os dois tipos societários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T19:50:54+00:00"
+ },
+ {
+  "de": "clt.795",
+  "para": "cc.168",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 795 da CLT sujeita a nulidade dos atos processuais trabalhistas à arguição pela parte na primeira oportunidade em que falar nos autos, regime distinto do dever do juiz de pronunciar de ofício a nulidade do negócio jurídico prevista no art. 168 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T19:50:54+00:00"
+ },
+ {
+  "de": "cpc.178",
+  "para": "cc.168",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 178 do CPC elenca as hipóteses em que a intervenção do Ministério Público como fiscal da ordem jurídica é obrigatória, dando efetividade processual à intervenção do Ministério Público referida pelo art. 168 do Código Civil para arguir nulidades do negócio jurídico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T19:50:54+00:00"
+ },
+ {
+  "de": "cpc.802",
+  "para": "cc.202",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 802 do CPC detalha, no âmbito da execução, a interrupção da prescrição pelo despacho que ordena a citação prevista no inciso I do art. 202 do Código Civil, acrescentando que a interrupção retroage à data da propositura da ação, regra próxima mas não idêntica à do art. 240 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T19:50:54+00:00"
+ },
+ {
+  "de": "l8036.13",
+  "para": "cc.406",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 13 da Lei 8.036/1990 fixa índice de correção monetária e juros próprios para os depósitos do FGTS, distintos da taxa legal Selic do art. 406 do Código Civil, o que pode gerar confusão quando se pretende aplicar a taxa legal civil a débitos fundiários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T19:50:54+00:00"
+ },
+ {
+  "de": "l13874.7",
+  "para": "cc.50",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 7º da Lei 13.874/2019 é o dispositivo que alterou o Código Civil para incluir a atual redação do art. 50, com os requisitos de desvio de finalidade e confusão patrimonial para a desconsideração da personalidade jurídica, além do art. 49-A sobre autonomia patrimonial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T19:50:54+00:00"
+ },
+ {
+  "de": "lsa.266",
+  "para": "cc.50",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 266 da LSA assegura que, mesmo reunidas em grupo de sociedades mediante convenção, cada sociedade conserva personalidade e patrimônios distintos, o que reforça a regra do § 4º do art. 50 do Código Civil de que a mera existência de grupo econômico não autoriza, por si só, a desconsideração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T19:50:54+00:00"
+ },
+ {
+  "de": "lcp87.6",
+  "para": "cf.155",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 6º da LC 87/1996 dispõe sobre a substituição tributária do ICMS, atribuindo a lei estadual a possibilidade de eleger substituto tributário, atendendo à reserva de lei complementar da alínea b do inciso XII do § 2º do art. 155 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T19:50:54+00:00"
+ },
+ {
+  "de": "lcp87.11",
+  "para": "cf.155",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 11 da LC 87/1996 fixa o local das operações e prestações para efeito de cobrança do ICMS e definição do estabelecimento responsável, atendendo textualmente à reserva de lei complementar da alínea d do inciso XII do § 2º do art. 155 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T19:50:54+00:00"
  }
 ]
