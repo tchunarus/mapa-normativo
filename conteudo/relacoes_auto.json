@@ -598,5 +598,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "adct.76",
+  "para": "cf.195",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 76 do ADCT disciplina a desvinculação parcial da arrecadação da União relativa às contribuições sociais que o art. 195 da CF institui para financiar a seguridade social, complementando o quadro constitucional de financiamento sem alterar a natureza das contribuições.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "adct.76",
+  "para": "l8212.11",
+  "tipo": "excepciona",
+  "grau": "contato",
+  "porque": "O art. 76 do ADCT ressalva que a desvinculação de 30% não prejudica o pagamento das despesas do Regime Geral de Previdência Social, preservando parte da destinação das receitas do orçamento da Seguridade Social discriminadas no art. 11 da Lei 8.212/91.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "ec132.2",
+  "para": "adct.76-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 2º da Emenda Constitucional 132/2023 é o dispositivo que introduziu o art. 76-A no Ato das Disposições Constitucionais Transitórias, com o mesmo texto hoje vigente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "adct.76-A",
+  "para": "cf.198",
+  "tipo": "excepciona",
+  "grau": "contato",
+  "porque": "O inciso I do parágrafo único do art. 76-A do ADCT excetua da desvinculação os recursos destinados às ações e aos serviços públicos de saúde de que trata o inciso II do § 2º do art. 198 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "ec132.2",
+  "para": "adct.76-B",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 2º da Emenda Constitucional 132/2023 é o dispositivo que introduziu o art. 76-B no Ato das Disposições Constitucionais Transitórias, com o mesmo texto hoje vigente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "adct.76-B",
+  "para": "cf.198",
+  "tipo": "excepciona",
+  "grau": "contato",
+  "porque": "O inciso I do § 1º do art. 76-B do ADCT excetua da desvinculação os recursos destinados às ações e aos serviços públicos de saúde de que trata o inciso III do § 2º do art. 198 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "l11101.81",
+  "para": "cc.1003",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 81 da Lei 11.101/2005 estende à falência o mesmo prazo de dois anos do art. 1.003 do CC, tornando extensiva a quebra da sociedade ao sócio que se retirou ou foi excluído dentro desse período, quanto às dívidas existentes na data do arquivamento da alteração contratual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "cpc.605",
+  "para": "cc.1032",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 605 do CPC regulamenta processualmente o marco temporal da resolução da sociedade que o art. 1.032 do CC usa como referência para contar os prazos de responsabilidade do sócio retirante, excluído ou falecido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "l11101.81",
+  "para": "cc.1032",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 81 da Lei 11.101/2005 aplica à falência a mesma regra de responsabilidade do sócio retirante ou excluído dentro de dois anos que o art. 1.032 do CC estabelece em geral, especializando-a para as dívidas existentes na data do arquivamento da alteração contratual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "ctn.125",
+  "para": "cc.204",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 125 do CTN especializa, para as obrigações tributárias solidárias, a mesma regra do art. 204 do CC segundo a qual a interrupção da prescrição em favor ou contra um dos obrigados solidários favorece ou prejudica os demais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "cpc.1005",
+  "para": "cc.204",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.005 do CPC complementa, no plano recursal, a lógica de aproveitamento entre devedores solidários do art. 204 do CC, prevendo que o recurso interposto por um dos litisconsortes solidários aproveita aos demais quando as defesas opostas ao credor lhes forem comuns.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "cf.152",
+  "para": "ctn.11",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 152 da CF complementa e amplia o art. 11 do CTN, pois mantém a mesma vedação de diferença tributária em razão da procedência ou do destino, estendendo-a expressamente também aos serviços, e não apenas aos bens.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "clt.855-A",
+  "para": "cpc.133",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 855-A da CLT aplica ao processo do trabalho o mesmo incidente de desconsideração da personalidade jurídica instituído pelo art. 133 do CPC, remetendo diretamente aos seus pressupostos de instauração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "clt.855-A",
+  "para": "cpc.134",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 855-A da CLT especializa, para o processo do trabalho, a regra de suspensão do processo do § 3º do art. 134 do CPC, criando exceção própria para a tutela de urgência de natureza cautelar, distinta da exceção prevista no CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T21:27:37+00:00"
  }
 ]
