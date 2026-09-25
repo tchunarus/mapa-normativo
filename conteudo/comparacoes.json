@@ -1,0 +1,197 @@
+[
+ {
+  "id": "cc50-x-ctn135",
+  "a": "cc.50",
+  "b": "ctn.135",
+  "titulo": "Art. 50 do CC x Art. 135 do CTN",
+  "linhas": [
+   [
+    "Desconsideração da personalidade jurídica: ineficácia episódica da autonomia patrimonial.",
+    "Responsabilidade tributária pessoal por ato próprio do gestor."
+   ],
+   [
+    "Relações civis e empresariais em geral; aplicado subsidiariamente em outras áreas.",
+    "Créditos tributários (e, pelo Tema 630, dívida ativa não tributária nos casos de dissolução irregular)."
+   ],
+   [
+    "Abuso da personalidade por desvio de finalidade ou confusão patrimonial (§§ 1º e 2º).",
+    "Ato com excesso de poderes ou infração de lei, contrato social ou estatutos, e condição de diretor, gerente ou representante."
+   ],
+   [
+    "Uso abusivo da pessoa jurídica; mera expansão de finalidade e mero grupo econômico não bastam (§§ 4º e 5º).",
+    "Conduta ilícita qualificada; o inadimplemento não basta (Súmula 430)."
+   ],
+   [
+    "O credor da relação obrigacional cuja satisfação foi frustrada.",
+    "A Fazenda Pública credora do tributo."
+   ],
+   [
+    "Administradores ou sócios beneficiados direta ou indiretamente pelo abuso.",
+    "Diretores, gerentes, representantes, mandatários, prepostos, empregados e pessoas do art. 134 que pratiquem o ato."
+   ],
+   [
+    "De quem requer a desconsideração.",
+    "Da Fazenda, em regra; do corresponsável quando seu nome consta da CDA (Tema 103)."
+   ],
+   [
+    "Incidente dos arts. 133 a 137 do CPC, obrigatório (art. 795, § 4º), salvo pedido na inicial.",
+    "Redirecionamento nos autos da execução ou inclusão na CDA; cabimento do IDPJ pendente (Tema 1209)."
+   ],
+   [
+    "Extensão de certas e determinadas obrigações aos bens dos atingidos.",
+    "Responsabilidade pessoal pelo crédito decorrente do ato."
+   ],
+   [
+    "Tema 1210/STJ (teoria maior; insuficiência de ausência de bens ou encerramento irregular).",
+    "Súmulas 430 e 435; Temas 97, 103, 962, 981, 444 e 1209/STJ."
+   ]
+  ],
+  "convergencias": "Ambos rompem a regra de que o patrimônio pessoal de sócios e administradores não responde pelas dívidas da sociedade (CC, arts. 1.024 e 1.052; CPC, art. 795) e exigem conduta qualificada, afastando responsabilização automática.",
+  "diferencas": "Diferem na natureza (ineficácia patrimonial x responsabilidade por ato próprio), no requisito (abuso da personalidade x ilícito do gestor), nos atingidos e no procedimento.",
+  "hipoteses": "Use o art. 135 quando houver ato de gestão ilícito em matéria tributária, incluindo a dissolução irregular. Use o art. 50 quando o problema for a separação patrimonial: confusão entre patrimônios ou uso da pessoa jurídica para lesar credores, típico em grupos e em pessoas jurídicas interpostas.",
+  "conjunta": "Podem coexistir no mesmo caso, com fundamentos e requisitos próprios, cada um demonstrado autonomamente. O que não se admite é usar os requisitos de um para obter o efeito do outro.",
+  "controversias": "Necessidade de IDPJ quando a Fazenda invoca o art. 50 ou busca atingir terceiro fora da CDA (Tema 1209/STJ, pendente).",
+  "criterios": [
+   "Natureza",
+   "Campo de aplicação",
+   "Requisitos",
+   "Conduta necessária",
+   "Beneficiário",
+   "Responsabilizado",
+   "Ônus probatório",
+   "Procedimento",
+   "Consequências",
+   "Jurisprudência"
+  ]
+ },
+ {
+  "id": "ctn150-x-ctn173",
+  "a": "ctn.150",
+  "b": "ctn.173",
+  "titulo": "Art. 150, § 4º x Art. 173, I, do CTN",
+  "linhas": [
+   [
+    "Prazo decadencial do lançamento por homologação.",
+    "Prazo decadencial geral do lançamento."
+   ],
+   [
+    "Tributos com pagamento antecipado.",
+    "Lançamento de ofício; homologação sem pagamento; dolo, fraude ou simulação."
+   ],
+   [
+    "Pagamento antecipado, ainda que parcial (§ 6º, LC 236/2026).",
+    "Ausência de pagamento, ou dolo, fraude ou simulação (§ 5º)."
+   ],
+   [
+    "Conduta do contribuinte: apurar e pagar.",
+    "Inércia da Fazenda em lançar."
+   ],
+   [
+    "Fazenda (prazo para homologar ou lançar diferença).",
+    "Fazenda (prazo para lançar)."
+   ],
+   [
+    "Sujeito passivo.",
+    "Sujeito passivo."
+   ],
+   [
+    "Contribuinte prova o pagamento; Fazenda prova dolo, fraude ou simulação.",
+    "Fazenda demonstra o termo inicial aplicável."
+   ],
+   [
+    "Homologação tácita após cinco anos.",
+    "Lançamento no prazo; medida preparatória antecipa o início."
+   ],
+   [
+    "Extinção do crédito (art. 156, VII).",
+    "Extinção do direito de lançar (art. 156, V)."
+   ],
+   [
+    "Tema 163/STJ; Súmula 555.",
+    "Tema 163/STJ; Súmula 555."
+   ]
+  ],
+  "convergencias": "Ambos fixam cinco anos e extinguem o direito de constituir o crédito.",
+  "diferencas": "O termo inicial: fato gerador x primeiro dia do exercício seguinte.",
+  "hipoteses": "Houve pagamento sem dolo: art. 150, § 4º. Sem pagamento e sem declaração, ou com dolo: art. 173, I.",
+  "conjunta": "Não se somam: são excludentes para o mesmo fato gerador.",
+  "controversias": "Aplicação dos novos §§ 5º e 6º a fatos geradores anteriores à LC 236/2026: ainda sem jurisprudência na base.",
+  "criterios": [
+   "Natureza",
+   "Campo de aplicação",
+   "Requisitos",
+   "Conduta necessária",
+   "Beneficiário",
+   "Responsabilizado",
+   "Ônus probatório",
+   "Procedimento",
+   "Consequências",
+   "Jurisprudência"
+  ]
+ },
+ {
+  "id": "garantia-x-suspensao",
+  "a": "lef.9",
+  "b": "ctn.151",
+  "titulo": "LEF, art. 9º x CTN, art. 151",
+  "linhas": [
+   [
+    "Garantia do juízo na execução.",
+    "Suspensão da exigibilidade do crédito."
+   ],
+   [
+    "Execução fiscal ajuizada.",
+    "Crédito tributário, antes ou durante a cobrança."
+   ],
+   [
+    "Depósito, fiança, seguro ou bens.",
+    "Hipóteses taxativas dos incisos I a X."
+   ],
+   [
+    "Oferecer garantia suficiente.",
+    "Enquadrar-se em hipótese legal; no inciso X, aceitação pelo credor."
+   ],
+   [
+    "Fazenda exequente.",
+    "Sujeito passivo."
+   ],
+   [
+    "Executado.",
+    "Sujeito passivo."
+   ],
+   [
+    "Executado demonstra suficiência.",
+    "Sujeito passivo demonstra a hipótese."
+   ],
+   [
+    "Nos autos da execução.",
+    "Administrativo ou judicial, conforme a hipótese."
+   ],
+   [
+    "Efeitos de penhora; prazo de embargos; CPEN (art. 206).",
+    "Impede atos de cobrança; CPEN (art. 206)."
+   ],
+   [
+    "Tema 1012/STJ.",
+    "Súmula 112; Tema 378/STJ (a reler após o inciso X)."
+   ]
+  ],
+  "convergencias": "Ambos permitem a certidão positiva com efeitos de negativa.",
+  "diferencas": "Garantia não impede, por si só, atos de cobrança; suspensão impede.",
+  "hipoteses": "Seguro garantia aceito pelo credor: hoje pode produzir ambos os efeitos.",
+  "conjunta": "Sim: a mesma apólice pode garantir a execução e, aceita, suspender a exigibilidade.",
+  "controversias": "Alcance do Tema 378 após a LC 236/2026.",
+  "criterios": [
+   "Natureza",
+   "Campo de aplicação",
+   "Requisitos",
+   "Conduta necessária",
+   "Beneficiário",
+   "Responsabilizado",
+   "Ônus probatório",
+   "Procedimento",
+   "Consequências",
+   "Jurisprudência"
+  ]
+ }
+]

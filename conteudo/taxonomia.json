@@ -1,0 +1,80 @@
+{
+ "areas": [
+  {
+   "id": "base",
+   "nome": "Constitucional e base comum"
+  },
+  {
+   "id": "trib",
+   "nome": "Tributário"
+  },
+  {
+   "id": "ef",
+   "nome": "Execução Fiscal"
+  },
+  {
+   "id": "pc",
+   "nome": "Processual Civil"
+  },
+  {
+   "id": "civ",
+   "nome": "Civil"
+  },
+  {
+   "id": "emp",
+   "nome": "Empresarial"
+  },
+  {
+   "id": "adm",
+   "nome": "Administrativo"
+  },
+  {
+   "id": "trab",
+   "nome": "Trabalhista"
+  },
+  {
+   "id": "rt",
+   "nome": "Reforma Tributária"
+  },
+  {
+   "id": "cons",
+   "nome": "Consumidor"
+  },
+  {
+   "id": "pen",
+   "nome": "Penal e processo penal"
+  }
+ ],
+ "grupos": [
+  {
+   "id": "resp",
+   "area": "trib",
+   "nome": "Responsabilidade tributária"
+  },
+  {
+   "id": "cred",
+   "area": "trib",
+   "nome": "Crédito tributário"
+  },
+  {
+   "id": "exec",
+   "area": "ef",
+   "nome": "Execução fiscal"
+  },
+  {
+   "id": "proc",
+   "area": "pc",
+   "nome": "Processo civil"
+  },
+  {
+   "id": "pj",
+   "area": "civ",
+   "nome": "Pessoa jurídica"
+  },
+  {
+   "id": "rtg",
+   "area": "rt",
+   "nome": "Reforma Tributária"
+  }
+ ]
+}

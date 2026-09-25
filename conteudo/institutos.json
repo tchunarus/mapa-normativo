@@ -1,0 +1,2254 @@
+[
+ {
+  "id": "resp-socios",
+  "grupo": "resp",
+  "area": "trib",
+  "destaque": true,
+  "nome": "Responsabilidade de sócios e administradores",
+  "sinonimos": [
+   "sócio responde por dívida tributária",
+   "responsabilidade do sócio-gerente",
+   "art. 135 CTN",
+   "administrador responde por tributo",
+   "responsabilidade pessoal do diretor",
+   "sócio quotista"
+  ],
+  "perguntas": [
+   "Sócio pode responder por dívida tributária da empresa?",
+   "O mero inadimplemento gera responsabilidade do sócio?",
+   "Sócio sem poderes de gestão pode ser responsabilizado?"
+  ],
+  "conceito": "O art. 135, III, do CTN torna pessoalmente responsáveis os diretores, gerentes ou representantes de pessoas jurídicas de direito privado pelos créditos resultantes de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos. É responsabilidade por ato próprio e ilícito do gestor: depende do exercício de poderes de administração e de uma conduta qualificada, e não da simples condição de sócio. O inadimplemento do tributo, por si só, não a configura (Súmula 430/STJ e Tema 97/STJ).",
+  "fundamentos": [
+   {
+    "d": "ctn.135",
+    "conteudo": "Responsabilidade pessoal por atos com excesso de poderes ou infração de lei, contrato social ou estatutos.",
+    "aplicacao": "Fundamento central para atingir diretores, gerentes e representantes (inciso III)."
+   },
+   {
+    "d": "ctn.134",
+    "conteudo": "Responsabilidade solidária de terceiros quando impossível exigir do contribuinte, nos atos em que intervierem ou pelas omissões.",
+    "aplicacao": "Hipótese distinta; o inciso VII alcança sócios na liquidação de sociedade de pessoas."
+   },
+   {
+    "d": "ctn.128",
+    "conteudo": "A lei pode atribuir a responsabilidade a terceira pessoa vinculada ao fato gerador.",
+    "aplicacao": "Base geral: a responsabilidade de terceiro exige previsão legal expressa."
+   },
+   {
+    "d": "ctn.137",
+    "conteudo": "Responsabilidade pessoal do agente por infrações.",
+    "aplicacao": "Relevante para multas ligadas a condutas dolosas do gestor contra a própria pessoa jurídica."
+   },
+   {
+    "d": "ctn.124",
+    "conteudo": "Solidariedade por interesse comum ou designação legal.",
+    "aplicacao": "Invocado pela Fazenda em grupo econômico; não substitui os requisitos do art. 135."
+   },
+   {
+    "d": "cc.1016",
+    "conteudo": "Administradores respondem solidariamente perante a sociedade e terceiros prejudicados por culpa no desempenho das funções.",
+    "aplicacao": "Responsabilidade civil societária; não é fundamento autônomo para redirecionar crédito tributário."
+   },
+   {
+    "d": "cc.1052",
+    "conteudo": "Na limitada, a responsabilidade do sócio é restrita ao valor de suas quotas.",
+    "aplicacao": "Regra de limitação que o art. 135 excepciona apenas diante de ato ilícito do gestor."
+   },
+   {
+    "d": "lsa.158",
+    "conteudo": "O administrador de S.A. não responde por atos regulares de gestão; responde civilmente por culpa, dolo ou violação da lei ou do estatuto.",
+    "aplicacao": "Paralelo societário para companhias; útil para qualificar o ato ilícito."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "ctn.135",
+    "papel": "Fundamento material",
+    "desc": "responsabilidade tributária pessoal do gestor"
+   },
+   {
+    "d": "lef.4",
+    "papel": "Legitimação passiva",
+    "desc": "execução contra o responsável, nos termos da lei"
+   },
+   {
+    "d": "cpc.779",
+    "papel": "Legitimação passiva (CPC)",
+    "desc": "responsável tributário como executado"
+   },
+   {
+    "i": "redirecionamento",
+    "papel": "Procedimento",
+    "desc": "redirecionamento nos autos da execução fiscal, conforme jurisprudência do STJ"
+   }
+  ],
+  "alertas": [
+   "cc50-x-ctn135",
+   "clt2-x-ctn124"
+  ],
+  "precedentes": [
+   "stj.sum.430",
+   "stj.tema.97",
+   "stj.tema.103",
+   "stj.tema.108",
+   "stj.sum.435",
+   "stj.tema.962",
+   "stj.tema.981",
+   "stj.tema.444",
+   "stj.tema.630",
+   "stf.tema.13"
+  ],
+  "checklist": [
+   {
+    "q": "O executado é diretor, gerente ou representante, e não mero sócio quotista?",
+    "f": "ctn.135",
+    "obs": "O inciso III refere-se a quem exerce gestão."
+   },
+   {
+    "q": "Há ato concreto com excesso de poderes ou infração de lei, contrato ou estatuto, além do não pagamento?",
+    "f": "stj.sum.430",
+    "obs": "Inadimplemento isolado não basta (Súmula 430 e Tema 97)."
+   },
+   {
+    "q": "O nome do sócio consta da CDA?",
+    "f": "stj.tema.103",
+    "obs": "Se consta, o ônus de afastar o art. 135 passa a ele (Tema 103), e a exceção de pré-executividade tende a ser incabível (Tema 108)."
+   },
+   {
+    "q": "Em caso de dissolução irregular: o sujeito tinha poderes de administração na data da dissolução ou da sua presunção?",
+    "f": "stj.tema.981",
+    "obs": "Critério do Tema 981."
+   },
+   {
+    "q": "Ele se retirou regularmente antes da dissolução, sem dar causa a ela?",
+    "f": "stj.tema.962",
+    "obs": "Se sim, o Tema 962 impede o redirecionamento."
+   },
+   {
+    "q": "Existe certidão do oficial de justiça atestando que a empresa deixou de funcionar no domicílio fiscal?",
+    "f": "stj.sum.435",
+    "obs": "Base usual da presunção de dissolução irregular."
+   },
+   {
+    "q": "O pedido de redirecionamento respeitou o prazo de cinco anos e houve inércia da Fazenda?",
+    "f": "stj.tema.444",
+    "obs": "Termo inicial varia conforme o ato ilícito seja anterior ou posterior à citação da empresa."
+   },
+   {
+    "q": "O crédito é tributário ou não tributário?",
+    "f": "stj.tema.630",
+    "obs": "O Tema 630 admite o redirecionamento por dissolução irregular também para dívida não tributária."
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Redirecionar a execução ao gestor com base na dissolução irregular presumida pelo não funcionamento no domicílio fiscal.",
+     "refs": [
+      "stj.sum.435",
+      "stj.tema.981",
+      "ctn.135"
+     ]
+    },
+    {
+     "a": "Incluir o gestor como corresponsável na CDA, transferindo a ele o ônus da prova.",
+     "refs": [
+      "ctn.202",
+      "lef.2",
+      "stj.tema.103"
+     ]
+    },
+    {
+     "a": "Estender a lógica do redirecionamento à dívida ativa não tributária.",
+     "refs": [
+      "stj.tema.630",
+      "lef.4"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Inadimplemento não é ato ilícito para fins do art. 135; exigir prova de conduta qualificada.",
+     "refs": [
+      "stj.sum.430",
+      "stj.tema.97"
+     ]
+    },
+    {
+     "a": "Ausência de poderes de gestão: mero sócio quotista não se enquadra no inciso III.",
+     "refs": [
+      "ctn.135",
+      "cc.1052"
+     ]
+    },
+    {
+     "a": "Retirada regular antes da dissolução, sem dar causa a ela.",
+     "refs": [
+      "stj.tema.962"
+     ]
+    },
+    {
+     "a": "Falta de poderes de administração na data da dissolução irregular ou de sua presunção.",
+     "refs": [
+      "stj.tema.981"
+     ]
+    },
+    {
+     "a": "Prescrição da pretensão de redirecionamento, com demonstração de inércia da Fazenda.",
+     "refs": [
+      "stj.tema.444"
+     ]
+    },
+    {
+     "a": "Ausência de prova idônea da dissolução irregular (diligência sem certificação adequada).",
+     "refs": [
+      "stj.sum.435"
+     ]
+    }
+   ]
+  },
+  "controversias": [
+   {
+    "q": "É necessária a instauração do IDPJ para redirecionar a execução fiscal?",
+    "status": "pendente",
+    "ref": "stj.tema.1209",
+    "posicoes": [
+     {
+      "t": "Quando o redirecionamento se funda diretamente nos arts. 134 ou 135 do CTN, a responsabilidade decorre da lei e não se confunde com desconsideração, o que dispensaria o incidente.",
+      "refs": [
+       "ctn.135",
+       "ctn.134"
+      ]
+     },
+     {
+      "t": "Quando o pedido se apoia em abuso da personalidade (art. 50 do CC), inclusive para atingir pessoa jurídica não indicada na CDA, a observância do incidente seria obrigatória.",
+      "refs": [
+       "cc.50",
+       "cpc.795",
+       "cpc.133"
+      ]
+     }
+    ],
+    "predominante": "Sem posição consolidada: a Primeira Seção do STJ afetou a questão ao Tema 1209, ainda sem julgamento."
+   }
+  ],
+  "timeline": [
+   {
+    "data": "2009-03-11",
+    "t": "Tema 97/STJ: a simples falta de pagamento não gera a responsabilidade do art. 135.",
+    "ref": "stj.tema.97"
+   },
+   {
+    "data": "2009-03-25",
+    "t": "Tema 103/STJ: nome na CDA inverte o ônus da prova para o sócio.",
+    "ref": "stj.tema.103"
+   },
+   {
+    "data": "2009-04-22",
+    "t": "Tema 108/STJ: não cabe exceção de pré-executividade contra sócio indicado na CDA.",
+    "ref": "stj.tema.108"
+   },
+   {
+    "data": null,
+    "t": "Súmulas 430 e 435/STJ consolidam, respectivamente, que inadimplemento não basta e que o não funcionamento no domicílio fiscal presume a dissolução irregular.",
+    "ref": "stj.sum.435"
+   },
+   {
+    "data": "2014-09-10",
+    "t": "Tema 630/STJ: redirecionamento por dissolução irregular também na dívida não tributária.",
+    "ref": "stj.tema.630"
+   },
+   {
+    "data": "2019-05-08",
+    "t": "Tema 444/STJ: regras de prescrição para o redirecionamento.",
+    "ref": "stj.tema.444"
+   },
+   {
+    "data": "2021-11-24",
+    "t": "Tema 962/STJ: não responde quem se retirou regularmente e não deu causa à dissolução.",
+    "ref": "stj.tema.962"
+   },
+   {
+    "data": "2022-05-25",
+    "t": "Tema 981/STJ: responde quem tinha poderes de administração na data da dissolução, ainda que ausente no fato gerador.",
+    "ref": "stj.tema.981"
+   },
+   {
+    "data": "atual",
+    "t": "Tema 1209/STJ afetado: compatibilidade do IDPJ com a execução fiscal ainda sem tese.",
+    "ref": "stj.tema.1209"
+   }
+  ]
+ },
+ {
+  "id": "redirecionamento",
+  "grupo": "exec",
+  "area": "ef",
+  "destaque": true,
+  "nome": "Redirecionamento da execução fiscal",
+  "sinonimos": [
+   "redirecionar execução fiscal",
+   "incluir sócio no polo passivo",
+   "responsabilizar sócio na execução",
+   "pedido de redirecionamento"
+  ],
+  "perguntas": [
+   "É possível redirecionar a execução fiscal para o sócio?",
+   "Qual o prazo para redirecionar a execução fiscal?",
+   "Precisa de IDPJ para redirecionar?"
+  ],
+  "conceito": "Redirecionamento é a inclusão, no polo passivo da execução fiscal já ajuizada, de pessoa diversa do devedor originário a quem a lei atribui responsabilidade pelo crédito. Não é um instituto de direito material autônomo: é o modo processual de fazer valer, na execução, uma responsabilidade prevista em lei (em regra, arts. 134 e 135 do CTN). Os requisitos são os da norma material invocada, acrescidos das exigências que o STJ fixou sobre dissolução irregular, momento da gestão e prescrição.",
+  "fundamentos": [
+   {
+    "d": "lef.4",
+    "conteudo": "A execução pode ser promovida contra o responsável, nos termos da lei, e contra sucessores.",
+    "aplicacao": "Legitima processualmente o redirecionamento."
+   },
+   {
+    "d": "lef.2",
+    "conteudo": "O termo de inscrição deve indicar devedor e corresponsáveis.",
+    "aplicacao": "Define se o corresponsável já consta do título."
+   },
+   {
+    "d": "ctn.202",
+    "conteudo": "Requisitos do termo de inscrição, incluindo corresponsáveis.",
+    "aplicacao": "Base para impugnar CDA que não individualiza o corresponsável."
+   },
+   {
+    "d": "ctn.135",
+    "conteudo": "Responsabilidade pessoal por ato ilícito do gestor.",
+    "aplicacao": "Fundamento material mais frequente."
+   },
+   {
+    "d": "cpc.779",
+    "conteudo": "A execução pode ser promovida contra o responsável tributário, assim definido em lei.",
+    "aplicacao": "Reforço no CPC, aplicável subsidiariamente."
+   },
+   {
+    "d": "cpc.795",
+    "conteudo": "Bens de sócios só respondem nos casos legais; desconsideração exige o incidente.",
+    "aplicacao": "Centro do debate sobre IDPJ na execução fiscal."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "ctn.135",
+    "papel": "Norma material",
+    "desc": "responsabilidade pessoal"
+   },
+   {
+    "d": "lef.4",
+    "papel": "Norma processual",
+    "desc": "execução contra o responsável"
+   },
+   {
+    "p": "stj.tema.981",
+    "papel": "Jurisprudência",
+    "desc": "quem pode ser atingido na dissolução irregular"
+   },
+   {
+    "p": "stj.tema.444",
+    "papel": "Jurisprudência",
+    "desc": "prazo para redirecionar"
+   }
+  ],
+  "alertas": [
+   "cc50-x-ctn135"
+  ],
+  "precedentes": [
+   "stj.sum.435",
+   "stj.tema.981",
+   "stj.tema.962",
+   "stj.tema.444",
+   "stj.tema.1209",
+   "stj.tema.103",
+   "stj.tema.108",
+   "stj.tema.630"
+  ],
+  "checklist": [
+   {
+    "q": "Qual é o fundamento material do pedido (art. 134, art. 135, art. 133, art. 124)?",
+    "f": "ctn.135",
+    "obs": "Cada fundamento tem requisitos próprios; exija que a Fazenda o identifique."
+   },
+   {
+    "q": "A Fazenda demonstrou o fato que ampara o pedido (ex.: certidão de não funcionamento)?",
+    "f": "stj.sum.435",
+    "obs": ""
+   },
+   {
+    "q": "O redirecionado exercia poderes de administração na data da dissolução irregular?",
+    "f": "stj.tema.981",
+    "obs": ""
+   },
+   {
+    "q": "Retirou-se regularmente antes, sem dar causa à dissolução?",
+    "f": "stj.tema.962",
+    "obs": ""
+   },
+   {
+    "q": "Passaram-se mais de cinco anos do termo inicial aplicável, com inércia da Fazenda?",
+    "f": "stj.tema.444",
+    "obs": ""
+   },
+   {
+    "q": "O pedido pretende atingir outra pessoa jurídica (grupo econômico) não indicada na CDA?",
+    "f": "stj.tema.1209",
+    "obs": "Hipótese no centro do Tema 1209; avalie exigir o incidente."
+   },
+   {
+    "q": "Houve oportunidade de defesa antes da constrição de bens do redirecionado?",
+    "f": "cpc.795",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Pedir o redirecionamento nos próprios autos, com base em certidão de não localização da empresa.",
+     "refs": [
+      "stj.sum.435",
+      "lef.4"
+     ]
+    },
+    {
+     "a": "Sustentar a dispensa do IDPJ por se tratar de responsabilidade legal, e não de desconsideração.",
+     "refs": [
+      "ctn.135",
+      "stj.tema.1209"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Exigir a indicação do fundamento legal específico e da conduta imputada.",
+     "refs": [
+      "ctn.135",
+      "stj.sum.430"
+     ]
+    },
+    {
+     "a": "Sustentar a necessidade do incidente quando o pedido se apoia em abuso da personalidade ou em grupo econômico.",
+     "refs": [
+      "cpc.795",
+      "cc.50",
+      "stj.tema.1209"
+     ]
+    },
+    {
+     "a": "Arguir a prescrição do redirecionamento.",
+     "refs": [
+      "stj.tema.444"
+     ]
+    }
+   ]
+  },
+  "controversias": [
+   {
+    "q": "Cabimento do IDPJ na execução fiscal",
+    "status": "pendente",
+    "ref": "stj.tema.1209",
+    "posicoes": [
+     {
+      "t": "Incompatível com o rito da LEF ou dispensável quando a responsabilidade decorre da lei.",
+      "refs": [
+       "lef.4",
+       "ctn.135"
+      ]
+     },
+     {
+      "t": "Compatível e obrigatório ao menos quando o fundamento é a desconsideração da personalidade jurídica.",
+      "refs": [
+       "cpc.795",
+       "cpc.134"
+      ]
+     }
+    ],
+    "predominante": "Pendente de definição no Tema 1209/STJ."
+   }
+  ],
+  "timeline": [
+   {
+    "data": "2009-03-25",
+    "t": "Tema 103/STJ: ônus da prova do sócio que consta da CDA.",
+    "ref": "stj.tema.103"
+   },
+   {
+    "data": "2019-05-08",
+    "t": "Tema 444/STJ: prazo e termo inicial do redirecionamento.",
+    "ref": "stj.tema.444"
+   },
+   {
+    "data": "2021-11-24",
+    "t": "Tema 962/STJ.",
+    "ref": "stj.tema.962"
+   },
+   {
+    "data": "2022-05-25",
+    "t": "Tema 981/STJ.",
+    "ref": "stj.tema.981"
+   },
+   {
+    "data": "atual",
+    "t": "Tema 1209/STJ afetado (IDPJ na execução fiscal).",
+    "ref": "stj.tema.1209"
+   }
+  ]
+ },
+ {
+  "id": "dissolucao-irregular",
+  "grupo": "resp",
+  "area": "trib",
+  "nome": "Dissolução irregular",
+  "sinonimos": [
+   "empresa fechada irregularmente",
+   "empresa não encontrada no endereço",
+   "encerramento irregular",
+   "Súmula 435"
+  ],
+  "perguntas": [
+   "Empresa não encontrada no endereço permite redirecionar?",
+   "O que caracteriza dissolução irregular?"
+  ],
+  "conceito": "A dissolução irregular é o encerramento de fato das atividades sem a liquidação e a baixa regulares. O STJ a presume quando a empresa deixa de funcionar no seu domicílio fiscal sem comunicar os órgãos competentes (Súmula 435), e a trata como infração de lei apta a atrair o art. 135, III, do CTN contra quem detinha poderes de administração no momento da dissolução (Tema 981). Na esfera civil e empresarial, o encerramento irregular, sozinho, não autoriza a desconsideração do art. 50 do CC (Tema 1210).",
+  "fundamentos": [
+   {
+    "d": "ctn.135",
+    "conteudo": "Infração de lei como hipótese de responsabilidade pessoal.",
+    "aplicacao": "A dissolução irregular é enquadrada como infração de lei pela jurisprudência."
+   },
+   {
+    "d": "cc.50",
+    "conteudo": "Desconsideração exige abuso (desvio de finalidade ou confusão patrimonial).",
+    "aplicacao": "Contraste: encerramento irregular não basta para desconsiderar (Tema 1210)."
+   }
+  ],
+  "cadeia": [
+   {
+    "p": "stj.sum.435",
+    "papel": "Presunção",
+    "desc": "não funcionamento no domicílio fiscal"
+   },
+   {
+    "d": "ctn.135",
+    "papel": "Enquadramento",
+    "desc": "infração de lei pelo gestor"
+   },
+   {
+    "p": "stj.tema.981",
+    "papel": "Sujeito alcançado",
+    "desc": "gestor na data da dissolução"
+   }
+  ],
+  "alertas": [
+   "dissolucao-trib-x-civil"
+  ],
+  "precedentes": [
+   "stj.sum.435",
+   "stj.tema.981",
+   "stj.tema.962",
+   "stj.tema.630",
+   "stj.tema.1210"
+  ],
+  "checklist": [
+   {
+    "q": "A certidão do oficial de justiça descreve diligência no domicílio fiscal atualizado?",
+    "f": "stj.sum.435",
+    "obs": ""
+   },
+   {
+    "q": "Houve comunicação da mudança de endereço aos órgãos competentes?",
+    "f": "stj.sum.435",
+    "obs": "A comunicação afasta a presunção."
+   },
+   {
+    "q": "Houve distrato, liquidação ou falência regularmente processados?",
+    "f": "stj.sum.435",
+    "obs": "Encerramento formal afasta a irregularidade."
+   },
+   {
+    "q": "A pretensão é tributária (art. 135) ou civil/empresarial (art. 50)?",
+    "f": "stj.tema.1210",
+    "obs": "No regime civil o encerramento irregular não basta."
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Usar a certidão de não localização como prova da presunção.",
+     "refs": [
+      "stj.sum.435"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Demonstrar funcionamento no domicílio ou comunicação da mudança.",
+     "refs": [
+      "stj.sum.435"
+     ]
+    },
+    {
+     "a": "Afastar a transposição do raciocínio para cobranças civis, onde se exige abuso.",
+     "refs": [
+      "stj.tema.1210",
+      "cc.50"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [
+   {
+    "data": "2014-09-10",
+    "t": "Tema 630/STJ.",
+    "ref": "stj.tema.630"
+   },
+   {
+    "data": "2021-11-24",
+    "t": "Tema 962/STJ.",
+    "ref": "stj.tema.962"
+   },
+   {
+    "data": "2022-05-25",
+    "t": "Tema 981/STJ.",
+    "ref": "stj.tema.981"
+   },
+   {
+    "data": "2026-05-07",
+    "t": "Tema 1210/STJ: no direito civil e empresarial, encerramento irregular não basta para desconsiderar.",
+    "ref": "stj.tema.1210"
+   }
+  ]
+ },
+ {
+  "id": "resp-terceiros",
+  "grupo": "resp",
+  "area": "trib",
+  "nome": "Responsabilidade de terceiros",
+  "sinonimos": [
+   "art. 134 CTN",
+   "responsabilidade solidária de terceiros",
+   "inventariante responde",
+   "liquidação de sociedade de pessoas"
+  ],
+  "perguntas": [
+   "Quando terceiros respondem solidariamente pelo tributo?"
+  ],
+  "conceito": "O art. 134 do CTN prevê responsabilidade de terceiros (pais, tutores, administradores de bens, inventariante, síndico, tabeliães e sócios na liquidação de sociedade de pessoas) condicionada à impossibilidade de exigir o tributo do contribuinte e limitada aos atos em que intervierem ou às omissões pelas quais forem responsáveis. Em penalidades, alcança só as de caráter moratório. Difere do art. 135, que exige ato com excesso de poderes ou infração de lei.",
+  "fundamentos": [
+   {
+    "d": "ctn.134",
+    "conteudo": "Responsabilidade de terceiros por atos ou omissões.",
+    "aplicacao": "Pressupõe impossibilidade de cobrança do contribuinte."
+   },
+   {
+    "d": "ctn.135",
+    "conteudo": "Inciso I remete às pessoas do art. 134 quando agem com ilicitude qualificada.",
+    "aplicacao": "Passagem do art. 134 para o 135 exige a conduta qualificada."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "ctn.134",
+    "papel": "Hipótese base",
+    "desc": "atos e omissões"
+   },
+   {
+    "d": "ctn.135",
+    "papel": "Hipótese agravada",
+    "desc": "excesso de poderes ou infração"
+   }
+  ],
+  "alertas": [],
+  "precedentes": [],
+  "checklist": [
+   {
+    "q": "Ficou demonstrada a impossibilidade de exigir o tributo do contribuinte?",
+    "f": "ctn.134",
+    "obs": ""
+   },
+   {
+    "q": "O terceiro interveio no ato ou foi omisso em dever próprio?",
+    "f": "ctn.134",
+    "obs": ""
+   },
+   {
+    "q": "A cobrança inclui multa punitiva? Pelo parágrafo único, só se transferem as moratórias.",
+    "f": "ctn.134",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [],
+   "defesa": [
+    {
+     "a": "Afastar multa punitiva com base no parágrafo único do art. 134.",
+     "refs": [
+      "ctn.134"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": []
+ },
+ {
+  "id": "sucessao-empresarial",
+  "grupo": "resp",
+  "area": "trib",
+  "nome": "Sucessão empresarial",
+  "sinonimos": [
+   "aquisição de fundo de comércio",
+   "trespasse",
+   "incorporação responde por tributos",
+   "sucessão tributária",
+   "art. 133 CTN",
+   "art. 1.146 CC"
+  ],
+  "perguntas": [
+   "Quem compra o estabelecimento responde pelos tributos anteriores?",
+   "A incorporadora responde pelos débitos da incorporada?"
+  ],
+  "conceito": "Os arts. 129 a 133 do CTN disciplinam a responsabilidade por sucessão. O art. 132 alcança fusão, transformação e incorporação. O art. 133 trata da aquisição de fundo de comércio ou estabelecimento com continuidade da exploração: responsabilidade integral se o alienante cessar a atividade, ou subsidiária se ele prosseguir ou retomar atividade em seis meses (com exceções introduzidas pela LC 118/2005 para alienações judiciais). O art. 1.146 do CC regula a sucessão civil no trespasse com outros requisitos (débitos contabilizados e prazo de um ano) e não substitui o regime tributário.",
+  "fundamentos": [
+   {
+    "d": "ctn.129",
+    "conteudo": "Alcance temporal da sucessão.",
+    "aplicacao": "Créditos constituídos ou em constituição relativos a fatos até a data do ato."
+   },
+   {
+    "d": "ctn.132",
+    "conteudo": "Fusão, transformação, incorporação e continuação por sócio remanescente.",
+    "aplicacao": "Reorganizações societárias."
+   },
+   {
+    "d": "ctn.133",
+    "conteudo": "Aquisição de fundo de comércio ou estabelecimento com continuidade da exploração.",
+    "aplicacao": "Trespasse e aquisições de ativos operacionais."
+   },
+   {
+    "d": "cc.1146",
+    "conteudo": "Adquirente do estabelecimento responde pelos débitos contabilizados; alienante solidário por um ano.",
+    "aplicacao": "Regime civil do trespasse, para dívidas não tributárias."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "ctn.133",
+    "papel": "Regime tributário",
+    "desc": "integral ou subsidiária"
+   },
+   {
+    "d": "cc.1146",
+    "papel": "Regime civil",
+    "desc": "débitos contabilizados"
+   }
+  ],
+  "alertas": [
+   "ctn133-x-cc1146"
+  ],
+  "precedentes": [],
+  "checklist": [
+   {
+    "q": "Houve aquisição de fundo de comércio ou estabelecimento, e não apenas de bens isolados?",
+    "f": "ctn.133",
+    "obs": ""
+   },
+   {
+    "q": "O adquirente continuou a exploração da mesma atividade?",
+    "f": "ctn.133",
+    "obs": ""
+   },
+   {
+    "q": "O alienante cessou a atividade ou a retomou em até seis meses?",
+    "f": "ctn.133",
+    "obs": "Define se a responsabilidade é integral ou subsidiária."
+   },
+   {
+    "q": "A alienação ocorreu em falência ou recuperação judicial?",
+    "f": "ctn.133",
+    "obs": "Verifique os §§ 1º a 3º."
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Caracterizar sucessão de fato por continuidade de atividade no mesmo endereço.",
+     "refs": [
+      "ctn.133"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Demonstrar aquisição de bens isolados, sem fundo de comércio, ou ausência de continuidade.",
+     "refs": [
+      "ctn.133"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": []
+ },
+ {
+  "id": "grupo-economico",
+  "grupo": "resp",
+  "area": "trib",
+  "destaque": true,
+  "nome": "Grupo econômico",
+  "sinonimos": [
+   "grupo econômico de fato",
+   "responsabilidade de empresas do mesmo grupo",
+   "interesse comum art. 124",
+   "solidariedade grupo"
+  ],
+  "perguntas": [
+   "Empresa do mesmo grupo responde pela dívida tributária?",
+   "Grupo econômico autoriza desconsideração?"
+  ],
+  "conceito": "Não há, no CTN, regra geral que torne solidárias as empresas de um mesmo grupo. A responsabilidade só surge por uma das vias legais: interesse comum na situação que constitui o fato gerador (art. 124, I), designação legal expressa (art. 124, II, como o art. 30, IX, da Lei 8.212/91 para contribuições previdenciárias), atos ilícitos do art. 135 ou desconsideração por abuso da personalidade (art. 50 do CC). O próprio CC afirma que a mera existência de grupo não autoriza a desconsideração (art. 50, § 4º), e a CLT limita sua regra de solidariedade às obrigações da relação de emprego.",
+  "fundamentos": [
+   {
+    "d": "ctn.124",
+    "conteudo": "Solidariedade por interesse comum ou designação legal.",
+    "aplicacao": "Principal fundamento fazendário; interesse comum exige participação na situação do fato gerador."
+   },
+   {
+    "d": "l8212.30",
+    "conteudo": "Empresas de grupo econômico respondem solidariamente pelas obrigações da Lei 8.212/91.",
+    "aplicacao": "Designação legal específica para contribuições previdenciárias."
+   },
+   {
+    "d": "cc.50",
+    "conteudo": "§ 4º: mera existência de grupo econômico não autoriza a desconsideração.",
+    "aplicacao": "Exige abuso da personalidade."
+   },
+   {
+    "d": "clt.2",
+    "conteudo": "§§ 2º e 3º: grupo econômico e solidariedade trabalhista; mera identidade de sócios não basta.",
+    "aplicacao": "Restrito às obrigações da relação de emprego."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "ctn.124",
+    "papel": "Via tributária",
+    "desc": "interesse comum ou lei"
+   },
+   {
+    "d": "cc.50",
+    "papel": "Via civil",
+    "desc": "abuso da personalidade"
+   },
+   {
+    "d": "cpc.133",
+    "papel": "Procedimento",
+    "desc": "incidente de desconsideração (debate no Tema 1209)"
+   }
+  ],
+  "alertas": [
+   "clt2-x-ctn124",
+   "cc50-x-ctn135"
+  ],
+  "precedentes": [
+   "stj.tema.1209",
+   "stj.tema.1210"
+  ],
+  "checklist": [
+   {
+    "q": "Qual a via legal invocada: art. 124, I; art. 124, II com lei específica; art. 135; ou art. 50 do CC?",
+    "f": "ctn.124",
+    "obs": "Sem via legal identificada, a responsabilização do grupo não se sustenta."
+   },
+   {
+    "q": "A empresa atingida participou da situação que constitui o fato gerador?",
+    "f": "ctn.124",
+    "obs": "Teste do interesse comum."
+   },
+   {
+    "q": "Há prova de confusão patrimonial ou desvio de finalidade?",
+    "f": "cc.50",
+    "obs": "Necessária para desconsiderar."
+   },
+   {
+    "q": "A empresa atingida consta da CDA?",
+    "f": "stj.tema.1209",
+    "obs": "Se não consta, avalie exigir o incidente."
+   },
+   {
+    "q": "O crédito é previdenciário (Lei 8.212/91, art. 30, IX)?",
+    "f": "l8212.30",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Invocar interesse comum para incluir empresas do grupo na CDA ou na execução.",
+     "refs": [
+      "ctn.124"
+     ]
+    },
+    {
+     "a": "Invocar a solidariedade legal previdenciária.",
+     "refs": [
+      "l8212.30"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Grupo econômico, por si só, não gera responsabilidade tributária nem autoriza desconsideração.",
+     "refs": [
+      "cc.50",
+      "ctn.124"
+     ]
+    },
+    {
+     "a": "A regra da CLT é restrita à relação de emprego e não se transpõe ao crédito tributário.",
+     "refs": [
+      "clt.2"
+     ]
+    },
+    {
+     "a": "Exigir o incidente de desconsideração quando o fundamento for abuso.",
+     "refs": [
+      "cpc.795",
+      "stj.tema.1209"
+     ]
+    }
+   ]
+  },
+  "controversias": [
+   {
+    "q": "Responsabilização de empresa do grupo não indicada na CDA",
+    "status": "pendente",
+    "ref": "stj.tema.1209",
+    "posicoes": [
+     {
+      "t": "Possível nos próprios autos quando houver fundamento legal de responsabilidade (art. 124 ou lei específica).",
+      "refs": [
+       "ctn.124"
+      ]
+     },
+     {
+      "t": "Exige incidente de desconsideração com contraditório prévio quando o fundamento for abuso da personalidade.",
+      "refs": [
+       "cc.50",
+       "cpc.133"
+      ]
+     }
+    ],
+    "predominante": "Pendente no Tema 1209/STJ."
+   }
+  ],
+  "timeline": [
+   {
+    "data": "2026-05-07",
+    "t": "Tema 1210/STJ reforça a teoria maior no direito civil e empresarial.",
+    "ref": "stj.tema.1210"
+   },
+   {
+    "data": "atual",
+    "t": "Tema 1209/STJ pendente.",
+    "ref": "stj.tema.1209"
+   }
+  ]
+ },
+ {
+  "id": "desconsideracao",
+  "grupo": "pj",
+  "area": "civ",
+  "destaque": true,
+  "nome": "Desconsideração da personalidade jurídica",
+  "sinonimos": [
+   "disregard",
+   "desconsideração",
+   "art. 50 CC",
+   "confusão patrimonial",
+   "desvio de finalidade",
+   "teoria maior"
+  ],
+  "perguntas": [
+   "Quando é possível desconsiderar a personalidade jurídica?",
+   "Encerramento irregular autoriza desconsideração?"
+  ],
+  "conceito": "A desconsideração (art. 50 do CC) afasta episodicamente a autonomia patrimonial da pessoa jurídica para estender certas obrigações aos bens de administradores ou sócios beneficiados pelo abuso, caracterizado por desvio de finalidade ou confusão patrimonial (teoria maior). Não é responsabilidade por ato próprio: é ineficácia pontual da separação patrimonial. O procedimento obrigatório é o incidente dos arts. 133 a 137 do CPC (art. 795, § 4º). O STJ fixou que inexistência de bens ou encerramento irregular, sozinhos, não bastam (Tema 1210).",
+  "fundamentos": [
+   {
+    "d": "cc.50",
+    "conteudo": "Requisitos materiais: abuso por desvio de finalidade ou confusão patrimonial.",
+    "aplicacao": "Fundamento material."
+   },
+   {
+    "d": "cpc.133",
+    "conteudo": "Instauração a pedido da parte ou do MP; pressupostos previstos em lei.",
+    "aplicacao": "Procedimento."
+   },
+   {
+    "d": "cpc.134",
+    "conteudo": "Cabimento em todas as fases; suspensão do processo.",
+    "aplicacao": "Procedimento."
+   },
+   {
+    "d": "cpc.795",
+    "conteudo": "§ 4º: observância obrigatória do incidente.",
+    "aplicacao": "Vincula a execução."
+   },
+   {
+    "d": "cpc.790",
+    "conteudo": "Bens do responsável nos casos de desconsideração sujeitam-se à execução.",
+    "aplicacao": "Efeito patrimonial."
+   },
+   {
+    "d": "cpc.792",
+    "conteudo": "§ 3º: fraude à execução a partir da citação da parte cuja personalidade se pretende desconsiderar.",
+    "aplicacao": "Marco temporal de fraude."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "cc.50",
+    "papel": "Fundamento material",
+    "desc": "abuso da personalidade"
+   },
+   {
+    "d": "cpc.133",
+    "papel": "Procedimento",
+    "desc": "incidente, arts. 133 a 137"
+   },
+   {
+    "d": "cpc.795",
+    "papel": "Execução",
+    "desc": "incidente obrigatório"
+   }
+  ],
+  "alertas": [
+   "cc50-x-ctn135",
+   "dissolucao-trib-x-civil"
+  ],
+  "precedentes": [
+   "stj.tema.1210",
+   "stj.tema.1209"
+  ],
+  "checklist": [
+   {
+    "q": "Há prova de desvio de finalidade (uso da PJ para lesar credores ou praticar ilícitos)?",
+    "f": "cc.50",
+    "obs": ""
+   },
+   {
+    "q": "Há prova de confusão patrimonial nos moldes do § 2º?",
+    "f": "cc.50",
+    "obs": ""
+   },
+   {
+    "q": "O pedido se apoia apenas em ausência de bens ou encerramento irregular?",
+    "f": "stj.tema.1210",
+    "obs": "Insuficiente no regime civil e empresarial."
+   },
+   {
+    "q": "Os atingidos foram beneficiados direta ou indiretamente pelo abuso?",
+    "f": "cc.50",
+    "obs": ""
+   },
+   {
+    "q": "Foi instaurado o incidente, com citação e prazo de defesa?",
+    "f": "cpc.135",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [],
+   "defesa": [
+    {
+     "a": "Inexistência de bens e encerramento irregular não bastam para desconsiderar.",
+     "refs": [
+      "stj.tema.1210",
+      "cc.50"
+     ]
+    },
+    {
+     "a": "Grupo econômico sem abuso não autoriza desconsideração.",
+     "refs": [
+      "cc.50"
+     ]
+    },
+    {
+     "a": "Nulidade de constrição sem o incidente.",
+     "refs": [
+      "cpc.795"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [
+   {
+    "data": "2026-05-07",
+    "t": "Tema 1210/STJ: teoria maior no direito civil e empresarial.",
+    "ref": "stj.tema.1210"
+   }
+  ]
+ },
+ {
+  "id": "idpj",
+  "grupo": "proc",
+  "area": "pc",
+  "nome": "Incidente de desconsideração (IDPJ)",
+  "sinonimos": [
+   "IDPJ",
+   "incidente de desconsideração",
+   "arts. 133 a 137 CPC"
+  ],
+  "perguntas": [
+   "Como funciona o incidente de desconsideração?",
+   "O IDPJ suspende o processo?"
+  ],
+  "conceito": "O IDPJ (arts. 133 a 137 do CPC) é o procedimento para decidir a desconsideração com contraditório prévio: instauração a pedido da parte ou do MP, comunicação ao distribuidor, suspensão do processo, citação do sócio ou da pessoa jurídica para manifestação em 15 dias e decisão interlocutória. É dispensado se a desconsideração for pedida na petição inicial. Seu cabimento na execução fiscal é o objeto do Tema 1209/STJ, ainda pendente.",
+  "fundamentos": [
+   {
+    "d": "cpc.133",
+    "conteudo": "Legitimidade e pressupostos.",
+    "aplicacao": ""
+   },
+   {
+    "d": "cpc.134",
+    "conteudo": "Cabimento, dispensa e suspensão.",
+    "aplicacao": ""
+   },
+   {
+    "d": "cpc.135",
+    "conteudo": "Citação e prazo de 15 dias.",
+    "aplicacao": ""
+   },
+   {
+    "d": "cpc.136",
+    "conteudo": "Decisão interlocutória e recurso.",
+    "aplicacao": ""
+   },
+   {
+    "d": "cpc.137",
+    "conteudo": "Ineficácia da alienação em fraude após acolhimento.",
+    "aplicacao": ""
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "cc.50",
+    "papel": "Pressuposto material",
+    "desc": ""
+   },
+   {
+    "d": "cpc.133",
+    "papel": "Procedimento",
+    "desc": ""
+   }
+  ],
+  "alertas": [
+   "cc50-x-ctn135"
+  ],
+  "precedentes": [
+   "stj.tema.1209",
+   "stj.tema.1210"
+  ],
+  "checklist": [
+   {
+    "q": "O pedido indica os pressupostos legais específicos?",
+    "f": "cpc.133",
+    "obs": ""
+   },
+   {
+    "q": "Houve suspensão do processo e citação para defesa em 15 dias?",
+    "f": "cpc.135",
+    "obs": ""
+   },
+   {
+    "q": "Na execução fiscal, qual o fundamento do pedido (lei tributária ou abuso)?",
+    "f": "stj.tema.1209",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [],
+   "defesa": [
+    {
+     "a": "Exigir o incidente antes de qualquer constrição sobre bens de terceiro.",
+     "refs": [
+      "cpc.795",
+      "cpc.134"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": []
+ },
+ {
+  "id": "decadencia",
+  "grupo": "cred",
+  "area": "trib",
+  "destaque": true,
+  "nome": "Decadência tributária",
+  "sinonimos": [
+   "prazo para lançar",
+   "art. 150 § 4º",
+   "art. 173 CTN",
+   "homologação tácita",
+   "decadência lançamento de ofício"
+  ],
+  "perguntas": [
+   "Qual a diferença entre a decadência do art. 150, § 4º, e do art. 173 do CTN?",
+   "Pagamento parcial altera o prazo decadencial?"
+  ],
+  "conceito": "Decadência é a perda do direito de a Fazenda constituir o crédito pelo lançamento. O CTN prevê dois marcos: (i) cinco anos do fato gerador, no lançamento por homologação com pagamento (art. 150, § 4º); (ii) cinco anos do primeiro dia do exercício seguinte àquele em que o lançamento poderia ser feito (art. 173, I), quando não há pagamento antecipado, ou há dolo, fraude ou simulação. A LC 236/2026 incorporou ao art. 150 as regras do § 5º (dolo, fraude ou simulação: contagem pelo art. 173, I) e do § 6º (pagamento parcial: contagem do fato gerador). Havendo declaração do débito, o crédito já está constituído (Súmula 436) e a discussão passa a ser de prescrição.",
+  "fundamentos": [
+   {
+    "d": "ctn.150",
+    "conteudo": "Lançamento por homologação; § 4º prazo do fato gerador; §§ 5º e 6º incluídos pela LC 236/2026.",
+    "aplicacao": "Tributos com pagamento antecipado."
+   },
+   {
+    "d": "ctn.173",
+    "conteudo": "Regra geral: primeiro dia do exercício seguinte; vício formal; medida preparatória.",
+    "aplicacao": "Lançamento de ofício, ausência de pagamento, dolo."
+   },
+   {
+    "d": "ctn.156",
+    "conteudo": "A decadência extingue o crédito (inciso V).",
+    "aplicacao": "Efeito."
+   },
+   {
+    "d": "ctn.142",
+    "conteudo": "Lançamento privativo da autoridade; § 2º lançamento para prevenir decadência sem multa.",
+    "aplicacao": "Crédito com exigibilidade suspensa."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "ctn.150",
+    "papel": "Com pagamento",
+    "desc": "fato gerador"
+   },
+   {
+    "d": "ctn.173",
+    "papel": "Sem pagamento ou com dolo",
+    "desc": "exercício seguinte"
+   },
+   {
+    "p": "stj.sum.436",
+    "papel": "Declaração",
+    "desc": "crédito já constituído"
+   }
+  ],
+  "alertas": [
+   "ctn150-x-ctn173"
+  ],
+  "precedentes": [
+   "stj.tema.163",
+   "stj.sum.555",
+   "stj.sum.436"
+  ],
+  "checklist": [
+   {
+    "q": "O tributo é sujeito a lançamento por homologação?",
+    "f": "ctn.150",
+    "obs": ""
+   },
+   {
+    "q": "Houve pagamento, ainda que parcial?",
+    "f": "ctn.150",
+    "obs": "§ 6º (LC 236/2026): pagamento parcial conta do fato gerador."
+   },
+   {
+    "q": "Houve declaração do débito (DCTF, GIA etc.)?",
+    "f": "stj.sum.436",
+    "obs": "Se sim, o crédito está constituído; examine prescrição."
+   },
+   {
+    "q": "A Fazenda imputa dolo, fraude ou simulação, com prova?",
+    "f": "ctn.150",
+    "obs": "§ 5º desloca a contagem para o art. 173, I."
+   },
+   {
+    "q": "Houve medida preparatória notificada antes do termo inicial?",
+    "f": "ctn.173",
+    "obs": "Parágrafo único antecipa o início."
+   },
+   {
+    "q": "Houve anulação anterior por vício formal?",
+    "f": "ctn.173",
+    "obs": "Inciso II reabre o prazo."
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Imputar dolo, fraude ou simulação para deslocar a contagem ao art. 173, I.",
+     "refs": [
+      "ctn.150",
+      "ctn.173"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Pagamento parcial atrai a contagem do fato gerador.",
+     "refs": [
+      "ctn.150",
+      "stj.tema.163"
+     ]
+    },
+    {
+     "a": "Exigir prova concreta de dolo, fraude ou simulação.",
+     "refs": [
+      "ctn.150"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [
+   {
+    "data": "2009-08-12",
+    "t": "Tema 163/STJ: sem pagamento nem declaração, aplica-se o art. 173, I.",
+    "ref": "stj.tema.163"
+   },
+   {
+    "data": null,
+    "t": "Súmula 555/STJ consolida a aplicação exclusiva do art. 173, I, sem declaração.",
+    "ref": "stj.sum.555"
+   },
+   {
+    "data": "2026-09-04",
+    "t": "LC 236/2026 inclui os §§ 5º e 6º no art. 150 do CTN.",
+    "ref": "ctn.150"
+   }
+  ]
+ },
+ {
+  "id": "prescricao",
+  "grupo": "cred",
+  "area": "trib",
+  "nome": "Prescrição tributária",
+  "sinonimos": [
+   "prescrição do crédito tributário",
+   "art. 174 CTN",
+   "prazo para cobrar tributo",
+   "interrupção da prescrição"
+  ],
+  "perguntas": [
+   "Quando começa a prescrição do tributo declarado e não pago?",
+   "O que interrompe a prescrição tributária?"
+  ],
+  "conceito": "A prescrição (art. 174 do CTN) é a perda da pretensão de cobrar o crédito definitivamente constituído, em cinco anos. Para tributo declarado e não pago, o termo inicial é o vencimento (Tema 383). A LC 236/2026 ampliou as causas de interrupção do § 1º, incluindo mediação, arbitragem especial tributária, sentença de extinção por não localização (antes do início da prescrição intercorrente), informação do crédito na falência e ato inicial da execução fiscal extrajudicial.",
+  "fundamentos": [
+   {
+    "d": "ctn.174",
+    "conteudo": "Prazo, causas de interrupção (incisos I a IX) e recontagem.",
+    "aplicacao": ""
+   },
+   {
+    "d": "lef.8",
+    "conteudo": "§ 2º: despacho que ordena a citação interrompe a prescrição.",
+    "aplicacao": ""
+   },
+   {
+    "d": "cpc.240",
+    "conteudo": "§ 1º: interrupção retroage à propositura.",
+    "aplicacao": "Aplicação subsidiária."
+   },
+   {
+    "d": "lef.2",
+    "conteudo": "§ 3º: inscrição suspende a prescrição por 180 dias.",
+    "aplicacao": "Verifique a compatibilidade com o art. 174 do CTN no caso concreto."
+   }
+  ],
+  "cadeia": [
+   {
+    "p": "stj.sum.436",
+    "papel": "Constituição",
+    "desc": "declaração"
+   },
+   {
+    "d": "ctn.174",
+    "papel": "Prazo",
+    "desc": "cinco anos"
+   },
+   {
+    "d": "lef.40",
+    "papel": "No processo",
+    "desc": "prescrição intercorrente"
+   }
+  ],
+  "alertas": [
+   "ctn150-x-ctn173"
+  ],
+  "precedentes": [
+   "stj.tema.383",
+   "stj.sum.436",
+   "stj.sum.409",
+   "stj.sum.106",
+   "stj.tema.82"
+  ],
+  "checklist": [
+   {
+    "q": "Qual a data de constituição definitiva (vencimento do declarado, notificação do lançamento, fim do processo administrativo)?",
+    "f": "stj.tema.383",
+    "obs": ""
+   },
+   {
+    "q": "Houve causa suspensiva (art. 151) no período?",
+    "f": "ctn.151",
+    "obs": ""
+   },
+   {
+    "q": "Qual causa interruptiva do art. 174, § 1º, é invocada e quando ocorreu?",
+    "f": "ctn.174",
+    "obs": "Verifique os novos incisos da LC 236/2026."
+   },
+   {
+    "q": "A demora na citação é imputável ao Judiciário?",
+    "f": "stj.sum.106",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Invocar retroação da interrupção à propositura.",
+     "refs": [
+      "cpc.240",
+      "stj.sum.106"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Arguir prescrição de ofício ou por exceção, se não depender de prova.",
+     "refs": [
+      "stj.sum.409",
+      "stj.sum.393"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [
+   {
+    "data": "2010-05-12",
+    "t": "Tema 383/STJ: termo inicial no vencimento do tributo declarado.",
+    "ref": "stj.tema.383"
+   },
+   {
+    "data": "2026-09-04",
+    "t": "LC 236/2026 amplia as causas de interrupção do art. 174.",
+    "ref": "ctn.174"
+   }
+  ]
+ },
+ {
+  "id": "suspensao-exigibilidade",
+  "grupo": "cred",
+  "area": "trib",
+  "nome": "Suspensão da exigibilidade",
+  "sinonimos": [
+   "art. 151 CTN",
+   "suspender exigibilidade",
+   "depósito integral",
+   "liminar suspende crédito",
+   "seguro garantia suspende exigibilidade"
+  ],
+  "perguntas": [
+   "Seguro garantia suspende a exigibilidade do crédito?",
+   "Quais hipóteses suspendem a exigibilidade?"
+  ],
+  "conceito": "As hipóteses de suspensão da exigibilidade estão no art. 151 do CTN. A LC 236/2026 acrescentou arbitragem especial, transação aceita, acordo de mediação e a aceitação pelo credor de seguro garantia ou fiança bancária oferecidos na execução fiscal (inciso X). Até então, o STJ afirmava a taxatividade do art. 151 e negava à fiança efeito suspensivo (Tema 378; Súmula 112). A tese deve ser relida à luz do novo inciso X, que condiciona o efeito à aceitação pelo credor e à regulamentação dos órgãos de cobrança.",
+  "fundamentos": [
+   {
+    "d": "ctn.151",
+    "conteudo": "Hipóteses de suspensão (incisos I a X).",
+    "aplicacao": ""
+   },
+   {
+    "d": "ctn.206",
+    "conteudo": "Certidão positiva com efeitos de negativa.",
+    "aplicacao": "Efeito prático da suspensão ou da penhora."
+   },
+   {
+    "d": "ctn.155-A",
+    "conteudo": "Parcelamento na forma da lei específica.",
+    "aplicacao": ""
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "ctn.151",
+    "papel": "Hipóteses",
+    "desc": ""
+   },
+   {
+    "d": "ctn.206",
+    "papel": "Efeito",
+    "desc": "CPEN"
+   }
+  ],
+  "alertas": [
+   "garantia-x-suspensao"
+  ],
+  "precedentes": [
+   "stj.sum.112",
+   "stj.tema.378",
+   "stj.sum.446"
+  ],
+  "checklist": [
+   {
+    "q": "Qual inciso do art. 151 se aplica?",
+    "f": "ctn.151",
+    "obs": ""
+   },
+   {
+    "q": "Se for seguro garantia ou fiança: houve aceitação pelo credor e conformidade com a regulamentação?",
+    "f": "ctn.151",
+    "obs": "Inciso X (LC 236/2026)."
+   },
+   {
+    "q": "O depósito é integral e em dinheiro?",
+    "f": "stj.sum.112",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Negar efeito suspensivo a garantia não aceita ou fora da regulamentação.",
+     "refs": [
+      "ctn.151"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Invocar o inciso X para obter suspensão com seguro garantia aceito.",
+     "refs": [
+      "ctn.151"
+     ]
+    }
+   ]
+  },
+  "controversias": [
+   {
+    "q": "Alcance do Tema 378/STJ após a LC 236/2026",
+    "status": "aberta",
+    "ref": "stj.tema.378",
+    "posicoes": [
+     {
+      "t": "O Tema 378 perdeu seu fundamento, a taxatividade do art. 151 sem previsão da garantia, quanto às garantias aceitas pelo credor.",
+      "refs": [
+       "ctn.151"
+      ]
+     },
+     {
+      "t": "Fora das condições do inciso X (sem aceitação ou em desconformidade), segue a orientação do Tema 378 e da Súmula 112.",
+      "refs": [
+       "stj.tema.378",
+       "stj.sum.112"
+      ]
+     }
+    ],
+    "predominante": "Análise do escritório: alteração legislativa recente, ainda sem jurisprudência sobre o inciso X."
+   }
+  ],
+  "timeline": [
+   {
+    "data": null,
+    "t": "Súmula 112/STJ: só o depósito integral e em dinheiro suspende.",
+    "ref": "stj.sum.112"
+   },
+   {
+    "data": null,
+    "t": "Tema 378/STJ: fiança não equivale ao depósito para suspender.",
+    "ref": "stj.tema.378"
+   },
+   {
+    "data": "2026-09-04",
+    "t": "LC 236/2026 inclui o inciso X no art. 151.",
+    "ref": "ctn.151"
+   }
+  ]
+ },
+ {
+  "id": "garantia-execucao",
+  "grupo": "exec",
+  "area": "ef",
+  "destaque": true,
+  "nome": "Garantia da execução e seguro garantia",
+  "sinonimos": [
+   "seguro garantia",
+   "fiança bancária",
+   "substituição da penhora",
+   "garantir a execução",
+   "depósito judicial",
+   "ordem de penhora"
+  ],
+  "perguntas": [
+   "Posso substituir penhora por seguro garantia?",
+   "Seguro garantia pode ser liquidado antes do trânsito?"
+  ],
+  "conceito": "Na execução fiscal, o executado garante o juízo por depósito, fiança bancária, seguro garantia ou nomeação de bens (LEF, art. 9º). Depósito, fiança e seguro produzem os mesmos efeitos da penhora (§ 3º) e não podem ser liquidados antes do trânsito em julgado de decisão de mérito desfavorável (§ 7º, Lei 14.689/2023). O executado pode substituir a penhora por depósito, fiança ou seguro em qualquer fase (art. 15, I). A garantia abre o prazo de embargos (art. 16). Garantir a execução não se confunde com suspender a exigibilidade (art. 151 do CTN).",
+  "fundamentos": [
+   {
+    "d": "lef.9",
+    "conteudo": "Modalidades de garantia; efeitos da penhora; vedação de liquidação antecipada.",
+    "aplicacao": ""
+   },
+   {
+    "d": "lef.11",
+    "conteudo": "Ordem de penhora, com dinheiro em primeiro lugar.",
+    "aplicacao": ""
+   },
+   {
+    "d": "lef.15",
+    "conteudo": "Substituição da penhora por depósito, fiança ou seguro a pedido do executado.",
+    "aplicacao": ""
+   },
+   {
+    "d": "lef.16",
+    "conteudo": "Prazo de embargos a partir da garantia; embargos só após garantida a execução.",
+    "aplicacao": ""
+   },
+   {
+    "d": "cpc.835",
+    "conteudo": "§ 2º: fiança e seguro equiparam-se a dinheiro com acréscimo de 30%.",
+    "aplicacao": "Subsidiário; a LEF não prevê o acréscimo."
+   },
+   {
+    "d": "cpc.848",
+    "conteudo": "Parágrafo único: substituição por fiança ou seguro com 30% a mais.",
+    "aplicacao": "Subsidiário."
+   },
+   {
+    "d": "cpc.805",
+    "conteudo": "Menor onerosidade para o executado.",
+    "aplicacao": "Argumento para substituição."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "lef.9",
+    "papel": "Garantia",
+    "desc": "efeitos de penhora"
+   },
+   {
+    "d": "lef.16",
+    "papel": "Defesa",
+    "desc": "abre prazo de embargos"
+   },
+   {
+    "d": "ctn.206",
+    "papel": "Certidão",
+    "desc": "CPEN com penhora efetivada"
+   }
+  ],
+  "alertas": [
+   "garantia-x-suspensao"
+  ],
+  "precedentes": [
+   "stj.tema.378",
+   "stj.tema.1012"
+  ],
+  "checklist": [
+   {
+    "q": "A apólice cobre o valor integral do débito atualizado com encargos?",
+    "f": "lef.9",
+    "obs": ""
+   },
+   {
+    "q": "A Fazenda exige o acréscimo de 30% do CPC? A LEF não o prevê.",
+    "f": "cpc.835",
+    "obs": ""
+   },
+   {
+    "q": "A garantia atende à regulamentação do órgão de cobrança (para fins do art. 151, X)?",
+    "f": "ctn.151",
+    "obs": ""
+   },
+   {
+    "q": "Há bloqueio online anterior? Verifique o Tema 1012 se houver parcelamento.",
+    "f": "stj.tema.1012",
+    "obs": ""
+   },
+   {
+    "q": "O prazo de embargos foi contado da juntada da garantia?",
+    "f": "lef.16",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Recusar a garantia por desconformidade com a ordem legal ou a regulamentação.",
+     "refs": [
+      "lef.11",
+      "ctn.151"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Substituir penhora por seguro garantia em qualquer fase.",
+     "refs": [
+      "lef.15",
+      "cpc.805"
+     ]
+    },
+    {
+     "a": "Impedir a liquidação antecipada do seguro.",
+     "refs": [
+      "lef.9"
+     ]
+    },
+    {
+     "a": "Obter CPEN com a garantia efetivada.",
+     "refs": [
+      "ctn.206"
+     ]
+    }
+   ]
+  },
+  "controversias": [
+   {
+    "q": "Exigência do acréscimo de 30% na execução fiscal",
+    "status": "aberta",
+    "ref": null,
+    "posicoes": [
+     {
+      "t": "Aplica-se o CPC subsidiariamente (arts. 835, § 2º, e 848, parágrafo único).",
+      "refs": [
+       "cpc.835",
+       "cpc.848"
+      ]
+     },
+     {
+      "t": "A LEF regula a matéria e não prevê acréscimo (arts. 9º e 15).",
+      "refs": [
+       "lef.9",
+       "lef.15"
+      ]
+     }
+    ],
+    "predominante": "Precedentes a carregar na próxima atualização jurisprudencial."
+   }
+  ],
+  "timeline": [
+   {
+    "data": "2023",
+    "t": "Lei 14.689/2023 inclui o § 7º no art. 9º da LEF (vedação de liquidação antecipada).",
+    "ref": "lef.9"
+   },
+   {
+    "data": "2026-09-04",
+    "t": "LC 236/2026: garantia aceita pelo credor passa a suspender a exigibilidade (CTN, art. 151, X).",
+    "ref": "ctn.151"
+   }
+  ]
+ },
+ {
+  "id": "bloqueio-sisbajud",
+  "grupo": "exec",
+  "area": "ef",
+  "nome": "Penhora online (SISBAJUD) e indisponibilidade",
+  "sinonimos": [
+   "bloqueio de conta",
+   "BACENJUD",
+   "SISBAJUD",
+   "penhora online",
+   "art. 185-A",
+   "indisponibilidade de bens",
+   "bloqueio antes da citação"
+  ],
+  "perguntas": [
+   "É possível bloquear conta antes da citação?",
+   "Precisa esgotar diligências para bloquear via SISBAJUD?"
+  ],
+  "conceito": "A penhora de dinheiro por sistema eletrônico (CPC, art. 854) é prioritária e, segundo o Tema 425/STJ, dispensa o esgotamento prévio de diligências. Não se confunde com a indisponibilidade geral de bens do art. 185-A do CTN, que exige devedor citado que não pagou nem nomeou bens e exaurimento das diligências (Súmula 560). Antes da citação, a LEF e o CPC só preveem arresto em hipóteses específicas (LEF, art. 7º, III; CPC, art. 830).",
+  "fundamentos": [
+   {
+    "d": "cpc.854",
+    "conteudo": "Indisponibilidade de ativos por sistema eletrônico, sem ciência prévia.",
+    "aplicacao": ""
+   },
+   {
+    "d": "lef.11",
+    "conteudo": "Dinheiro em primeiro lugar.",
+    "aplicacao": ""
+   },
+   {
+    "d": "ctn.185-A",
+    "conteudo": "Indisponibilidade geral após citação sem pagamento nem bens.",
+    "aplicacao": ""
+   },
+   {
+    "d": "lef.7",
+    "conteudo": "Arresto se o executado não tiver domicílio ou se ocultar.",
+    "aplicacao": "Única via prevista antes da citação."
+   },
+   {
+    "d": "cpc.830",
+    "conteudo": "Arresto pelo oficial quando o executado não é encontrado.",
+    "aplicacao": ""
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "cpc.854",
+    "papel": "Penhora de ativos",
+    "desc": "sem exaurimento"
+   },
+   {
+    "d": "ctn.185-A",
+    "papel": "Indisponibilidade geral",
+    "desc": "com exaurimento"
+   }
+  ],
+  "alertas": [
+   "ctn185a-x-cpc854"
+  ],
+  "precedentes": [
+   "stj.tema.425",
+   "stj.sum.560",
+   "stj.tema.1012"
+  ],
+  "checklist": [
+   {
+    "q": "O executado já foi citado?",
+    "f": "ctn.185-A",
+    "obs": "Sem citação, examine se há arresto nos termos da LEF, art. 7º, III."
+   },
+   {
+    "q": "O bloqueio é do art. 854 do CPC ou indisponibilidade geral do art. 185-A?",
+    "f": "ctn.185-A",
+    "obs": ""
+   },
+   {
+    "q": "Os valores bloqueados são impenhoráveis ou excessivos? Prazo de 5 dias.",
+    "f": "cpc.854",
+    "obs": ""
+   },
+   {
+    "q": "Havia parcelamento anterior à constrição?",
+    "f": "stj.tema.1012",
+    "obs": "Se anterior, o bloqueio deve ser levantado."
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Pedir penhora online sem diligências prévias.",
+     "refs": [
+      "stj.tema.425"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Impugnar indisponibilidade geral sem exaurimento das diligências.",
+     "refs": [
+      "stj.sum.560"
+     ]
+    },
+    {
+     "a": "Levantar o bloqueio quando o parcelamento é anterior.",
+     "refs": [
+      "stj.tema.1012"
+     ]
+    },
+    {
+     "a": "Pedir substituição do bloqueio por seguro garantia com base na menor onerosidade.",
+     "refs": [
+      "stj.tema.1012",
+      "cpc.805"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [
+   {
+    "data": "2010-11-24",
+    "t": "Tema 425/STJ: BACEN-JUD dispensa exaurimento de diligências.",
+    "ref": "stj.tema.425"
+   },
+   {
+    "data": "2022-06-08",
+    "t": "Tema 1012/STJ: bloqueio e parcelamento.",
+    "ref": "stj.tema.1012"
+   }
+  ]
+ },
+ {
+  "id": "prescricao-intercorrente",
+  "grupo": "exec",
+  "area": "ef",
+  "destaque": true,
+  "nome": "Prescrição intercorrente",
+  "sinonimos": [
+   "art. 40 LEF",
+   "prescrição no curso da execução",
+   "arquivamento da execução fiscal",
+   "suspensão por um ano"
+  ],
+  "perguntas": [
+   "Quando começa a prescrição intercorrente?",
+   "Pedido de penhora interrompe a prescrição intercorrente?"
+  ],
+  "conceito": "Não localizado o devedor ou bens, a execução fiscal é suspensa por um ano, e depois se inicia automaticamente o prazo prescricional (LEF, art. 40; Súmula 314). O STJ fixou, nos Temas 566 a 571, que o prazo de suspensão começa na ciência da Fazenda sobre a não localização, corre independentemente de despacho, e só é interrompido por efetiva citação ou constrição, e não por meros pedidos. A LC 236/2026 incluiu entre as causas de interrupção do art. 174 a sentença de extinção por não localização, desde que a prescrição intercorrente ainda não tenha começado (inciso VII).",
+  "fundamentos": [
+   {
+    "d": "lef.40",
+    "conteudo": "Suspensão, arquivamento e decretação de ofício.",
+    "aplicacao": ""
+   },
+   {
+    "d": "cpc.921",
+    "conteudo": "Regras do CPC sobre prescrição no curso da execução.",
+    "aplicacao": "Subsidiárias."
+   },
+   {
+    "d": "ctn.174",
+    "conteudo": "Prazo e novas causas de interrupção (LC 236/2026).",
+    "aplicacao": ""
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "lef.40",
+    "papel": "Regra especial",
+    "desc": "execução fiscal"
+   },
+   {
+    "d": "cpc.921",
+    "papel": "Regra geral",
+    "desc": "CPC"
+   }
+  ],
+  "alertas": [],
+  "precedentes": [
+   "stj.sum.314",
+   "stj.tema.566",
+   "stj.tema.567",
+   "stj.tema.568",
+   "stj.tema.569",
+   "stj.tema.570",
+   "stj.tema.571"
+  ],
+  "checklist": [
+   {
+    "q": "Quando a Fazenda teve ciência da primeira tentativa frustrada de citação ou de localização de bens?",
+    "f": "stj.tema.566",
+    "obs": "Termo inicial da suspensão de um ano."
+   },
+   {
+    "q": "Houve efetiva citação ou constrição depois disso?",
+    "f": "stj.tema.568",
+    "obs": "Pedidos sem resultado não interrompem."
+   },
+   {
+    "q": "Passaram-se um ano de suspensão mais o prazo prescricional?",
+    "f": "stj.sum.314",
+    "obs": ""
+   },
+   {
+    "q": "A Fazenda alega nulidade por falta de intimação? Deve demonstrar prejuízo.",
+    "f": "stj.tema.570",
+    "obs": ""
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Apontar causa interruptiva efetiva no período.",
+     "refs": [
+      "stj.tema.568",
+      "ctn.174"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Contagem automática desde a ciência da não localização.",
+     "refs": [
+      "stj.tema.566",
+      "stj.tema.567"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [
+   {
+    "data": null,
+    "t": "Súmula 314/STJ.",
+    "ref": "stj.sum.314"
+   },
+   {
+    "data": "2018-09-12",
+    "t": "Temas 566 a 571/STJ (REsp 1.340.553/RS).",
+    "ref": "stj.tema.566"
+   },
+   {
+    "data": "2026-09-04",
+    "t": "LC 236/2026 inclui o inciso VII no art. 174 do CTN.",
+    "ref": "ctn.174"
+   }
+  ]
+ },
+ {
+  "id": "excecao-pre-executividade",
+  "grupo": "exec",
+  "area": "ef",
+  "nome": "Exceção de pré-executividade",
+  "sinonimos": [
+   "exceção de pré-executividade",
+   "objeção de pré-executividade",
+   "defesa sem garantia"
+  ],
+  "perguntas": [
+   "Posso me defender na execução fiscal sem garantir o juízo?"
+  ],
+  "conceito": "Criação doutrinária e jurisprudencial que permite ao executado arguir, sem garantia do juízo, matérias conhecíveis de ofício que não demandem dilação probatória (Súmula 393). Não cabe para discutir ilegitimidade do sócio que figura na CDA, porque isso exige prova (Tema 108).",
+  "fundamentos": [
+   {
+    "d": "lef.16",
+    "conteudo": "Embargos só depois de garantida a execução.",
+    "aplicacao": "A exceção é a via sem garantia."
+   }
+  ],
+  "cadeia": [],
+  "alertas": [],
+  "precedentes": [
+   "stj.sum.393",
+   "stj.tema.104",
+   "stj.tema.108"
+  ],
+  "checklist": [
+   {
+    "q": "A matéria é conhecível de ofício (prescrição, nulidade formal da CDA, ilegitimidade evidente)?",
+    "f": "stj.sum.393",
+    "obs": ""
+   },
+   {
+    "q": "Dispensa dilação probatória?",
+    "f": "stj.sum.393",
+    "obs": ""
+   },
+   {
+    "q": "O excipiente consta da CDA como corresponsável?",
+    "f": "stj.tema.108",
+    "obs": "Se sim, a via tende a ser incabível para ilegitimidade."
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Arguir necessidade de dilação probatória.",
+     "refs": [
+      "stj.tema.108"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Arguir prescrição com prova documental pré-constituída.",
+     "refs": [
+      "stj.sum.393",
+      "stj.sum.409"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": []
+ },
+ {
+  "id": "cda",
+  "grupo": "exec",
+  "area": "ef",
+  "nome": "Certidão de Dívida Ativa (CDA)",
+  "sinonimos": [
+   "CDA",
+   "título executivo fiscal",
+   "nulidade da CDA",
+   "substituição da CDA",
+   "inscrição em dívida ativa"
+  ],
+  "perguntas": [
+   "A CDA pode ser substituída para mudar o devedor?",
+   "Quais os requisitos da CDA?"
+  ],
+  "conceito": "A CDA é o título executivo da Fazenda e goza de presunção relativa de certeza e liquidez (CTN, art. 204). Deve conter os requisitos do art. 202 do CTN e do art. 2º, § 5º, da LEF, inclusive nome dos corresponsáveis. Vícios podem ser sanados por substituição até a decisão de primeira instância (CTN, art. 203), mas é vedado modificar o sujeito passivo (Súmula 392).",
+  "fundamentos": [
+   {
+    "d": "ctn.202",
+    "conteudo": "Requisitos do termo de inscrição.",
+    "aplicacao": ""
+   },
+   {
+    "d": "ctn.203",
+    "conteudo": "Nulidade e substituição.",
+    "aplicacao": ""
+   },
+   {
+    "d": "ctn.204",
+    "conteudo": "Presunção relativa de certeza e liquidez.",
+    "aplicacao": ""
+   },
+   {
+    "d": "lef.2",
+    "conteudo": "Requisitos e substituição na LEF.",
+    "aplicacao": ""
+   }
+  ],
+  "cadeia": [],
+  "alertas": [],
+  "precedentes": [
+   "stj.sum.392",
+   "stj.tema.103"
+  ],
+  "checklist": [
+   {
+    "q": "A CDA indica origem, natureza e fundamento legal específico?",
+    "f": "ctn.202",
+    "obs": ""
+   },
+   {
+    "q": "Indica forma de cálculo de juros e atualização?",
+    "f": "lef.2",
+    "obs": ""
+   },
+   {
+    "q": "A substituição pretendida altera o sujeito passivo?",
+    "f": "stj.sum.392",
+    "obs": "Vedado."
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Substituir a CDA para corrigir erro material ou formal.",
+     "refs": [
+      "stj.sum.392",
+      "ctn.203"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Nulidade da CDA sem fundamento legal específico.",
+     "refs": [
+      "ctn.202",
+      "ctn.203"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": []
+ },
+ {
+  "id": "fraude-execucao-fiscal",
+  "grupo": "exec",
+  "area": "ef",
+  "nome": "Fraude à execução fiscal",
+  "sinonimos": [
+   "fraude à execução",
+   "art. 185 CTN",
+   "alienação de bens pelo devedor",
+   "Súmula 375",
+   "terceiro adquirente de boa-fé"
+  ],
+  "perguntas": [
+   "Venda de bem após inscrição em dívida ativa é fraude?",
+   "A Súmula 375 se aplica à execução fiscal?"
+  ],
+  "conceito": "No crédito tributário, presume-se fraudulenta a alienação ou oneração de bens por devedor com crédito inscrito em dívida ativa (CTN, art. 185), salvo reserva de bens suficientes. Para atos a partir de 9/6/2005 (LC 118/2005), basta a inscrição, sem necessidade de registro da penhora ou prova de má-fé do adquirente (Tema 290), o que afasta a lógica da Súmula 375, própria do processo civil.",
+  "fundamentos": [
+   {
+    "d": "ctn.185",
+    "conteudo": "Presunção de fraude a partir da inscrição.",
+    "aplicacao": ""
+   },
+   {
+    "d": "cpc.792",
+    "conteudo": "Hipóteses de fraude no CPC.",
+    "aplicacao": "Regime geral; § 3º na desconsideração."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "ctn.185",
+    "papel": "Regra especial",
+    "desc": "inscrição basta"
+   },
+   {
+    "d": "cpc.792",
+    "papel": "Regra geral",
+    "desc": "registro ou má-fé"
+   }
+  ],
+  "alertas": [
+   "sum375-x-tema290"
+  ],
+  "precedentes": [
+   "stj.tema.290",
+   "stj.sum.375"
+  ],
+  "checklist": [
+   {
+    "q": "A alienação foi posterior à inscrição em dívida ativa?",
+    "f": "ctn.185",
+    "obs": ""
+   },
+   {
+    "q": "O ato é posterior a 9/6/2005?",
+    "f": "stj.tema.290",
+    "obs": ""
+   },
+   {
+    "q": "O devedor reservou bens suficientes ao pagamento?",
+    "f": "ctn.185",
+    "obs": "Parágrafo único afasta a presunção."
+   }
+  ],
+  "pratica": {
+   "fazenda": [
+    {
+     "a": "Declarar ineficaz alienação posterior à inscrição.",
+     "refs": [
+      "ctn.185",
+      "stj.tema.290"
+     ]
+    }
+   ],
+   "defesa": [
+    {
+     "a": "Demonstrar reserva de bens suficientes.",
+     "refs": [
+      "ctn.185"
+     ]
+    }
+   ]
+  },
+  "controversias": [],
+  "timeline": [
+   {
+    "data": "2010-11-10",
+    "t": "Tema 290/STJ.",
+    "ref": "stj.tema.290"
+   }
+  ]
+ }
+]

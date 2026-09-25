@@ -1,0 +1,66 @@
+[
+ {
+  "id": "cc50-x-ctn135",
+  "titulo": "Art. 50 do CC e art. 135 do CTN não são o mesmo fundamento",
+  "a": "cc.50",
+  "b": "ctn.135",
+  "texto": "O art. 50 do CC autoriza a desconsideração da personalidade jurídica por abuso (desvio de finalidade ou confusão patrimonial): a pessoa jurídica continua sendo a devedora, e certas obrigações se estendem aos bens de sócios ou administradores beneficiados. O art. 135 do CTN cria responsabilidade tributária pessoal do gestor por ato próprio com excesso de poderes ou infração de lei, contrato ou estatuto. Um exige abuso da personalidade; o outro, ilícito do gestor. Um depende do incidente dos arts. 133 a 137 do CPC (art. 795, § 4º); o outro é veiculado, na prática, por redirecionamento nos autos, com o cabimento do IDPJ pendente no Tema 1209/STJ.",
+  "repercussao": "Pedido fundado em um e instruído com os requisitos do outro é vulnerável. Na defesa, identifique qual fundamento a Fazenda realmente invocou e exija os requisitos correspondentes."
+ },
+ {
+  "id": "clt2-x-ctn124",
+  "titulo": "Grupo econômico trabalhista não gera solidariedade tributária",
+  "a": "clt.2",
+  "b": "ctn.124",
+  "texto": "O art. 2º, § 2º, da CLT torna solidárias as empresas do grupo pelas obrigações decorrentes da relação de emprego, e o § 3º exige mais que identidade de sócios. O art. 124 do CTN só admite solidariedade por interesse comum no fato gerador ou por designação legal expressa. A regra trabalhista não se estende ao crédito tributário.",
+  "repercussao": "Contribuições previdenciárias têm regra própria (Lei 8.212/91, art. 30, IX); fora delas, exija a via do art. 124."
+ },
+ {
+  "id": "dissolucao-trib-x-civil",
+  "titulo": "Dissolução irregular pesa de forma diferente no tributário e no civil",
+  "a": "ctn.135",
+  "b": "cc.50",
+  "texto": "No tributário, a dissolução irregular é tratada como infração de lei que autoriza o redirecionamento ao gestor (Súmula 435 e Tema 981). No civil e empresarial, o encerramento irregular, sozinho, não autoriza a desconsideração (Tema 1210).",
+  "repercussao": "Em cobrança não tributária baseada no CC, o precedente tributário não substitui a prova de abuso. Atenção à dívida ativa não tributária, alcançada pelo Tema 630."
+ },
+ {
+  "id": "ctn150-x-ctn173",
+  "titulo": "Decadência: art. 150, § 4º, ou art. 173, I",
+  "a": "ctn.150",
+  "b": "ctn.173",
+  "texto": "O art. 150, § 4º, conta do fato gerador e pressupõe pagamento antecipado, ainda que parcial (§ 6º). O art. 173, I, conta do primeiro dia do exercício seguinte e se aplica sem pagamento ou com dolo, fraude ou simulação (§ 5º). Havendo declaração do débito, o crédito está constituído (Súmula 436) e não há decadência a discutir, mas prescrição.",
+  "repercussao": "A escolha do dispositivo desloca o termo inicial e pode decidir o caso. Verifique pagamento, declaração e imputação de dolo."
+ },
+ {
+  "id": "garantia-x-suspensao",
+  "titulo": "Garantir a execução não é o mesmo que suspender a exigibilidade",
+  "a": "lef.9",
+  "b": "ctn.151",
+  "texto": "O art. 9º, § 3º, da LEF dá à garantia os efeitos da penhora: viabiliza embargos e a certidão do art. 206 do CTN. A suspensão da exigibilidade depende de hipótese do art. 151 do CTN. Desde a LC 236/2026, a aceitação pelo credor de seguro garantia ou fiança, nos termos da regulamentação, passou a suspender a exigibilidade (inciso X), o que exige reler o Tema 378/STJ.",
+  "repercussao": "Para obter suspensão com seguro, comprove aceitação e conformidade regulamentar; sem isso, a garantia opera apenas como penhora."
+ },
+ {
+  "id": "ctn185a-x-cpc854",
+  "titulo": "Penhora online (CPC, art. 854) e indisponibilidade geral (CTN, art. 185-A)",
+  "a": "ctn.185-A",
+  "b": "cpc.854",
+  "texto": "A penhora de ativos do art. 854 do CPC dispensa o esgotamento de diligências (Tema 425). A indisponibilidade geral do art. 185-A do CTN pressupõe citação, ausência de pagamento e de bens, e exaurimento das diligências (Súmula 560).",
+  "repercussao": "Ordens genéricas de indisponibilidade sem exaurimento podem ser impugnadas mesmo quando a penhora online seria válida."
+ },
+ {
+  "id": "ctn133-x-cc1146",
+  "titulo": "Sucessão no trespasse: regime tributário e regime civil",
+  "a": "ctn.133",
+  "b": "cc.1146",
+  "texto": "O art. 1.146 do CC exige débitos regularmente contabilizados e prevê solidariedade do alienante por um ano. O art. 133 do CTN independe de contabilização e define responsabilidade integral ou subsidiária conforme o alienante cesse ou prossiga a atividade.",
+  "repercussao": "Em due diligence de aquisição, os passivos tributários seguem o CTN, e não o prazo de um ano do CC."
+ },
+ {
+  "id": "sum375-x-tema290",
+  "titulo": "Súmula 375/STJ não governa a fraude à execução fiscal",
+  "a": "stj.sum.375",
+  "b": "stj.tema.290",
+  "texto": "A Súmula 375 exige registro da penhora ou prova de má-fé do adquirente. Para alienações posteriores a 9/6/2005, a fraude contra o crédito tributário se configura com a inscrição em dívida ativa (CTN, art. 185; Tema 290).",
+  "repercussao": "Na aquisição de bens de devedores fiscais, a certidão de dívida ativa do alienante é determinante."
+ }
+]

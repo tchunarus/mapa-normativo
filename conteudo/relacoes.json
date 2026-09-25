@@ -1,0 +1,426 @@
+{
+ "arestas": [
+  {
+   "de": "ctn.135",
+   "para": "ctn.134",
+   "tipo": "remete_a",
+   "grau": "conexo",
+   "porque": "O inciso I do art. 135 remete às pessoas do art. 134. A passagem da responsabilidade solidária do art. 134 para a pessoal do art. 135 exige ato com excesso de poderes ou infração de lei.",
+   "refs": []
+  },
+  {
+   "de": "ctn.135",
+   "para": "cc.50",
+   "tipo": "confundivel_com",
+   "grau": "contato",
+   "porque": "Ambos alcançam o patrimônio de sócios e administradores, mas por fundamentos distintos: ilícito do gestor, de um lado, e abuso da personalidade jurídica, de outro.",
+   "refs": [
+    "stj.tema.1210"
+   ]
+  },
+  {
+   "de": "ctn.135",
+   "para": "cpc.133",
+   "tipo": "conflito_aparente",
+   "grau": "contato",
+   "porque": "A exigência do incidente de desconsideração no redirecionamento fundado no art. 135 está em debate no STJ.",
+   "refs": [
+    "stj.tema.1209"
+   ]
+  },
+  {
+   "de": "lef.4",
+   "para": "ctn.135",
+   "tipo": "procedimento_de",
+   "grau": "conexo",
+   "porque": "A LEF legitima a execução contra o responsável definido em lei; é a porta processual do art. 135 na execução fiscal.",
+   "refs": []
+  },
+  {
+   "de": "cpc.779",
+   "para": "ctn.135",
+   "tipo": "procedimento_de",
+   "grau": "conexo",
+   "porque": "O inciso VI admite a execução contra o responsável tributário assim definido em lei; aplica-se subsidiariamente à LEF.",
+   "refs": []
+  },
+  {
+   "de": "ctn.135",
+   "para": "ctn.128",
+   "tipo": "especializa",
+   "grau": "conexo",
+   "porque": "O art. 128 é a cláusula geral de atribuição de responsabilidade a terceiros; o art. 135 é uma de suas hipóteses específicas.",
+   "refs": []
+  },
+  {
+   "de": "ctn.135",
+   "para": "ctn.137",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "O art. 137 trata da responsabilidade pessoal por infrações, inclusive de diretores e gerentes contra a própria pessoa jurídica.",
+   "refs": []
+  },
+  {
+   "de": "ctn.135",
+   "para": "ctn.124",
+   "tipo": "confundivel_com",
+   "grau": "contato",
+   "porque": "A solidariedade por interesse comum ou designação legal não se confunde com a responsabilidade pessoal por ilícito, embora ambas sejam invocadas contra sócios e empresas do grupo.",
+   "refs": []
+  },
+  {
+   "de": "ctn.135",
+   "para": "cc.1016",
+   "tipo": "confundivel_com",
+   "grau": "contato",
+   "porque": "O CC regula a responsabilidade civil do administrador perante a sociedade e terceiros; não é fundamento tributário autônomo.",
+   "refs": []
+  },
+  {
+   "de": "ctn.135",
+   "para": "lsa.158",
+   "tipo": "complementa",
+   "grau": "contato",
+   "porque": "O art. 158 da LSA delimita ato regular de gestão e ato ilícito do administrador de companhia, parâmetro útil para qualificar a conduta do art. 135.",
+   "refs": []
+  },
+  {
+   "de": "ctn.135",
+   "para": "cc.1052",
+   "tipo": "excepciona",
+   "grau": "contato",
+   "porque": "A limitação de responsabilidade do sócio da limitada cede diante de ato ilícito do gestor em matéria tributária.",
+   "refs": []
+  },
+  {
+   "de": "ctn.135",
+   "para": "cpc.795",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "Os bens do sócio só respondem nos casos previstos em lei; o art. 135 do CTN é um desses casos.",
+   "refs": []
+  },
+  {
+   "de": "ctn.135",
+   "para": "ctn.202",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "A indicação do corresponsável na CDA desloca o ônus da prova para ele.",
+   "refs": [
+    "stj.tema.103"
+   ]
+  },
+  {
+   "de": "ctn.133",
+   "para": "cc.1146",
+   "tipo": "confundivel_com",
+   "grau": "conexo",
+   "porque": "O mesmo fato (trespasse) tem regimes distintos: o tributário, do CTN, e o civil, do CC, com requisitos e prazos diferentes.",
+   "refs": []
+  },
+  {
+   "de": "ctn.132",
+   "para": "ctn.133",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "Ambos compõem a responsabilidade por sucessão empresarial: reorganizações societárias (132) e aquisição de estabelecimento (133).",
+   "refs": []
+  },
+  {
+   "de": "ctn.129",
+   "para": "ctn.133",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "O art. 129 define o alcance temporal das regras de sucessão da seção.",
+   "refs": []
+  },
+  {
+   "de": "l8212.30",
+   "para": "ctn.124",
+   "tipo": "especializa",
+   "grau": "mesmo",
+   "porque": "O art. 30, IX, é a designação legal expressa exigida pelo art. 124, II, para contribuições previdenciárias.",
+   "refs": []
+  },
+  {
+   "de": "ctn.124",
+   "para": "clt.2",
+   "tipo": "confundivel_com",
+   "grau": "contato",
+   "porque": "A solidariedade trabalhista do grupo econômico é restrita à relação de emprego e não se transpõe ao crédito tributário.",
+   "refs": []
+  },
+  {
+   "de": "cc.50",
+   "para": "clt.2",
+   "tipo": "confundivel_com",
+   "grau": "contato",
+   "porque": "Ambos tratam de grupo econômico com efeitos opostos: no CC, a mera existência de grupo não autoriza desconsideração (§ 4º); na CLT, gera solidariedade trabalhista.",
+   "refs": []
+  },
+  {
+   "de": "cpc.133",
+   "para": "cc.50",
+   "tipo": "procedimento_de",
+   "grau": "mesmo",
+   "porque": "O incidente dos arts. 133 a 137 é o procedimento para aplicar a desconsideração do art. 50.",
+   "refs": []
+  },
+  {
+   "de": "cpc.134",
+   "para": "cpc.133",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "Cabimento, dispensa e efeito suspensivo do incidente.",
+   "refs": []
+  },
+  {
+   "de": "cpc.135",
+   "para": "cpc.133",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "Citação e prazo de defesa no incidente.",
+   "refs": []
+  },
+  {
+   "de": "cpc.136",
+   "para": "cpc.133",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "Forma da decisão e recurso no incidente.",
+   "refs": []
+  },
+  {
+   "de": "cpc.137",
+   "para": "cpc.133",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "Efeito do acolhimento sobre alienações em fraude.",
+   "refs": []
+  },
+  {
+   "de": "cpc.795",
+   "para": "cpc.133",
+   "tipo": "remete_a",
+   "grau": "mesmo",
+   "porque": "O § 4º torna obrigatório o incidente para a desconsideração na execução.",
+   "refs": []
+  },
+  {
+   "de": "cpc.790",
+   "para": "cc.50",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "O inciso VII sujeita à execução os bens do responsável nos casos de desconsideração.",
+   "refs": []
+  },
+  {
+   "de": "cpc.792",
+   "para": "cpc.137",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "O § 3º fixa o marco da fraude à execução na desconsideração: a citação da parte cuja personalidade se pretende desconsiderar.",
+   "refs": []
+  },
+  {
+   "de": "ctn.150",
+   "para": "ctn.173",
+   "tipo": "confundivel_com",
+   "grau": "conexo",
+   "porque": "São marcos distintos da decadência; a escolha depende de pagamento, declaração e imputação de dolo.",
+   "refs": [
+    "stj.tema.163",
+    "stj.sum.555"
+   ]
+  },
+  {
+   "de": "ctn.156",
+   "para": "ctn.173",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "A decadência é causa de extinção do crédito (inciso V).",
+   "refs": []
+  },
+  {
+   "de": "ctn.174",
+   "para": "ctn.173",
+   "tipo": "confundivel_com",
+   "grau": "contato",
+   "porque": "A decadência corre antes da constituição do crédito; a prescrição, depois.",
+   "refs": []
+  },
+  {
+   "de": "lef.8",
+   "para": "ctn.174",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "O § 2º do art. 8º repete, no rito da LEF, que o despacho citatório interrompe a prescrição.",
+   "refs": []
+  },
+  {
+   "de": "cpc.240",
+   "para": "ctn.174",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "A interrupção retroage à data da propositura, com aplicação subsidiária.",
+   "refs": [
+    "stj.sum.106"
+   ]
+  },
+  {
+   "de": "lef.40",
+   "para": "ctn.174",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "A prescrição intercorrente conta o mesmo prazo quinquenal no curso da execução.",
+   "refs": [
+    "stj.tema.566"
+   ]
+  },
+  {
+   "de": "lef.40",
+   "para": "cpc.921",
+   "tipo": "especializa",
+   "grau": "mesmo",
+   "porque": "A LEF é regra especial para a prescrição intercorrente; o CPC aplica-se no que não conflitar.",
+   "refs": []
+  },
+  {
+   "de": "lef.9",
+   "para": "ctn.151",
+   "tipo": "confundivel_com",
+   "grau": "conexo",
+   "porque": "Garantir a execução não suspende, por si só, a exigibilidade; após a LC 236/2026, a garantia aceita pelo credor pode suspendê-la (art. 151, X).",
+   "refs": [
+    "stj.tema.378"
+   ]
+  },
+  {
+   "de": "ctn.206",
+   "para": "ctn.151",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "A suspensão da exigibilidade e a penhora efetivada permitem a certidão positiva com efeitos de negativa.",
+   "refs": []
+  },
+  {
+   "de": "ctn.155-A",
+   "para": "ctn.151",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "O parcelamento (art. 151, VI) segue a lei específica.",
+   "refs": []
+  },
+  {
+   "de": "lef.15",
+   "para": "lef.9",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "Substituição da penhora pelas modalidades de garantia do art. 9º.",
+   "refs": []
+  },
+  {
+   "de": "lef.16",
+   "para": "lef.9",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "A garantia abre o prazo de embargos e é pressuposto para opô-los.",
+   "refs": []
+  },
+  {
+   "de": "lef.15",
+   "para": "cpc.848",
+   "tipo": "especializa",
+   "grau": "mesmo",
+   "porque": "A LEF regula a substituição sem prever acréscimo; o CPC exige 30% a mais.",
+   "refs": []
+  },
+  {
+   "de": "lef.11",
+   "para": "cpc.835",
+   "tipo": "especializa",
+   "grau": "mesmo",
+   "porque": "Ordens de penhora distintas; na execução fiscal prevalece a da LEF.",
+   "refs": []
+  },
+  {
+   "de": "cpc.854",
+   "para": "ctn.185-A",
+   "tipo": "confundivel_com",
+   "grau": "conexo",
+   "porque": "Penhora de ativos financeiros e indisponibilidade geral de bens têm requisitos distintos.",
+   "refs": [
+    "stj.tema.425",
+    "stj.sum.560"
+   ]
+  },
+  {
+   "de": "cpc.854",
+   "para": "lef.11",
+   "tipo": "complementa",
+   "grau": "conexo",
+   "porque": "Operacionaliza a prioridade do dinheiro na ordem da LEF.",
+   "refs": []
+  },
+  {
+   "de": "lef.7",
+   "para": "cpc.830",
+   "tipo": "especializa",
+   "grau": "mesmo",
+   "porque": "Arresto antes da citação: hipóteses da LEF e do CPC.",
+   "refs": []
+  },
+  {
+   "de": "ctn.185",
+   "para": "cpc.792",
+   "tipo": "especializa",
+   "grau": "mesmo",
+   "porque": "A fraude à execução fiscal tem regra própria: basta a inscrição em dívida ativa.",
+   "refs": [
+    "stj.tema.290"
+   ]
+  },
+  {
+   "de": "ctn.202",
+   "para": "lef.2",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "Requisitos do termo de inscrição e da CDA no CTN e na LEF.",
+   "refs": []
+  },
+  {
+   "de": "ctn.203",
+   "para": "lef.2",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "Nulidade e substituição da CDA.",
+   "refs": [
+    "stj.sum.392"
+   ]
+  },
+  {
+   "de": "ctn.204",
+   "para": "ctn.202",
+   "tipo": "complementa",
+   "grau": "mesmo",
+   "porque": "A presunção de certeza e liquidez pressupõe inscrição regular.",
+   "refs": []
+  }
+ ],
+ "tipos": {
+  "procedimento_de": "Procedimento de",
+  "complementa": "Complementa",
+  "especializa": "Regra especial",
+  "excepciona": "Excepciona",
+  "remete_a": "Remete a",
+  "regulamenta": "Regulamenta",
+  "altera": "Alterou",
+  "conflito_aparente": "Conflito aparente",
+  "confundivel_com": "Confundível com"
+ },
+ "graus": {
+  "mesmo": "Mesmo instituto",
+  "conexo": "Instituto conexo",
+  "contato": "Ponto de contato"
+ }
+}
