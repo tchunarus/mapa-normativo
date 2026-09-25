@@ -318,5 +318,285 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-25T19:50:54+00:00"
+ },
+ {
+  "de": "adct.99",
+  "para": "cf.152",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "À primeira vista, a partilha desigual do imposto entre Estado de origem e de destino, prevista no art. 99 do ADCT, poderia parecer contrária à vedação de diferenciação tributária por procedência ou destino do art. 152 da Constituição. Não há conflito real, pois o art. 99 reparte a arrecadação entre os cofres estaduais, sem estabelecer tratamento tributário diferente para o bem ou serviço em si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "adct.99",
+  "para": "lcp214.15",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos tratam da alocação, entre entes federativos, de tributo incidente sobre operações interestaduais a consumidor final, mas o art. 99 do ADCT rege regra transitória e exclusiva do ICMS, partilhando a arrecadação entre origem e destino de 2015 a 2019, enquanto o art. 15 da LC 214/2025 fixa a alíquota do IBS integralmente pela soma das alíquotas do Estado e do Município de destino, sem partilha com a origem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "adct.99",
+  "para": "lcp227.109",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos os dispositivos estabelecem cronogramas percentuais graduais de repartição de arrecadação tributária entre entes federativos ao longo de anos determinados, mas o art. 99 do ADCT trata da partilha do diferencial de alíquota do ICMS entre 2015 e 2019, ao passo que o art. 109 da LC 227/2026 disciplina a retenção de parcela da arrecadação do IBS entre 2029 e 2077 no período de transição para o novo imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cf.212",
+  "para": "adct.76",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 76 do ADCT desvincula 30% da arrecadação da União relativa a contribuições sociais, mas seu § 2º excetua expressamente a arrecadação do salário-educação a que se refere o § 5º do art. 212 da Constituição, preservando a vinculação de recursos ao ensino ali estabelecida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cf.212",
+  "para": "adct.76-A",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 76-A do ADCT desvincula 30% das receitas de Estados e do Distrito Federal relativas a impostos, taxas e multas, ressalvando os recursos destinados à manutenção e ao desenvolvimento do ensino de que trata o art. 212 da Constituição, de modo que a vinculação mínima à educação prevalece sobre a desvinculação geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cf.212",
+  "para": "adct.76-B",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 76-B do ADCT desvincula receitas dos Municípios relativas a impostos, contribuições, taxas e multas, mas a mesma lógica de ressalva aos recursos vinculados ao ensino do art. 212 da Constituição se aplica a essa desvinculação municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cf.212",
+  "para": "lcp227.170",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 170 da LC 227/2026 altera a LC 141/2012 para fixar piso mínimo de 12% da arrecadação de impostos para ações e serviços públicos de saúde, regime de vinculação orçamentária mínima análogo ao piso de 25% para manutenção e desenvolvimento do ensino do art. 212 da Constituição, mas aplicável a área e percentual distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "clt.10-A",
+  "para": "cc.1003",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 1.003 do Código Civil prevê, em termos gerais, a responsabilidade solidária do sócio cedente de quotas pelas obrigações sociais durante dois anos após a averbação da modificação contratual, regra geral que o art. 10-A da CLT especializa para as obrigações trabalhistas, estabelecendo ordem de preferência própria entre empresa devedora, sócios atuais e sócios retirantes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "clt.10-A",
+  "para": "cc.1032",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1.032 do Código Civil estabelece, no plano geral do direito societário, que a retirada, exclusão ou morte do sócio não o exime da responsabilidade pelas obrigações sociais anteriores pelo prazo de dois anos após a averbação da resolução da sociedade, regra geral que o art. 10-A da CLT especializa para as obrigações trabalhistas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "clt.2",
+  "para": "l8212.15",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 15 da Lei 8.212/91 define empresa para fins de custeio da Seguridade Social de modo mais amplo que o conceito de empregador do art. 2º da CLT, pois inclui órgãos e entidades da administração pública direta, indireta e fundacional, o que pode gerar confusão entre os dois regimes de sujeição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "clt.2",
+  "para": "l8213.14",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 14 da Lei 8.213/91 repete, para fins de benefícios previdenciários, a mesma definição ampla de empresa da legislação de custeio, distinta do conceito de empregador do art. 2º da CLT, cujo âmbito é restrito à relação de emprego.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "clt.2",
+  "para": "lsa.269",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 269 da Lei das S.A. disciplina o grupo de sociedades formalmente constituído por convenção registrada, distinto do grupo econômico trabalhista de que tratam os §§ 2º e 3º do art. 2º da CLT, que independe de qualquer formalização e se caracteriza pela direção, controle ou comunhão de interesses entre as empresas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "clt.2",
+  "para": "l11101.69-J",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 69-J da Lei 11.101/05 trata da consolidação substancial de ativos e passivos de empresas do mesmo grupo econômico em recuperação judicial, hipótese que exige interconexão e confusão patrimonial comprovadas, distinta da solidariedade trabalhista automática entre integrantes de grupo econômico prevista no art. 2º da CLT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "clt.795",
+  "para": "cpc.278",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 278 do CPC estabelece a regra geral de que a nulidade deve ser alegada na primeira oportunidade em que a parte tiver de falar nos autos, sob pena de preclusão, da qual o art. 795 da CLT constitui especialização para o processo do trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "clt.795",
+  "para": "cpc.64",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 64 do CPC determina que a incompetência absoluta seja declarada de ofício em qualquer tempo e grau de jurisdição, regra geral da qual o § 1º do art. 795 da CLT é aplicação específica quanto à incompetência de foro no processo do trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "clt.795",
+  "para": "cpp.567",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 567 do CPP adota solução idêntica à dos §§ 1º e 2º do art. 795 da CLT quanto à incompetência do juízo, restringindo a nulidade aos atos decisórios e determinando a remessa dos autos ao juízo competente, mas em regime processual penal autônomo, o que pode levar à aplicação equivocada de um diploma pelo outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "clt.795",
+  "para": "l9307.20",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 20 da Lei de Arbitragem exige que a parte argua nulidade, invalidade ou ineficácia da convenção de arbitragem na primeira oportunidade de se manifestar, princípio de preclusão semelhante ao do art. 795 da CLT, mas aplicado a vícios próprios do juízo arbitral, de natureza extrajudicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cp.117",
+  "para": "d20910.9",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "Enquanto o § 2º do art. 117 do CP determina que, interrompida a prescrição penal, todo o prazo recomeça a correr integralmente, o art. 9º do Decreto 20.910/32 prevê que a prescrição interrompida contra a Fazenda Pública recomeça a correr pela metade do prazo, solução distinta que pode ser confundida se aplicada fora do contexto das dívidas da Fazenda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cp.117",
+  "para": "cc.204",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 204 do Código Civil estabelece, como regra geral, que a interrupção da prescrição não aproveita nem prejudica os demais coobrigados, ao passo que o § 1º do art. 117 do CP prevê a extensão automática da interrupção a todos os autores do crime nos crimes conexos julgados no mesmo processo, solução oposta à do regime civil geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cp.117",
+  "para": "ctn.174",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 174 do CTN prevê causas próprias de interrupção da prescrição da cobrança do crédito tributário, como o despacho que ordena a citação em execução fiscal e o protesto extrajudicial, distintas das hipóteses do art. 117 do CP, aplicáveis à responsabilização penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cp.117",
+  "para": "l12846.25",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 25 da Lei Anticorrupção prevê a interrupção da prescrição sancionatória das pessoas jurídicas pela instauração de processo administrativo ou judicial, hipótese distinta das causas de interrupção da prescrição penal do art. 117 do CP, ainda que ambas tratem do instituto da interrupção prescricional aplicada a ilícitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cpc.1010",
+  "para": "cpp.600",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 600 do CPP disciplina prazo e forma de razões e contrarrazões na apelação criminal de modo assemelhado ao art. 1.010 do CPC, mas com prazos e regime recursal próprios do processo penal, o que pode gerar confusão entre os dois procedimentos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cpc.1010",
+  "para": "l9099.42",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 42 da Lei 9.099/95 disciplina o recurso inominado dos Juizados Especiais Cíveis, que cumpre função equivalente à apelação e ao qual se aplicam subsidiariamente os requisitos e o regime de contrarrazões do art. 1.010 do CPC, naquilo que a lei especial não dispuser de modo diverso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cpc.1015",
+  "para": "clt.855-A",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "Enquanto o inciso IV do art. 1.015 do CPC admite agravo de instrumento imediato contra a decisão que resolve o incidente de desconsideração da personalidade jurídica, o art. 855-A da CLT restringe a recorribilidade imediata dessa mesma decisão no processo do trabalho, tornando-a agravável apenas na fase de execução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cpc.1015",
+  "para": "l11101.58-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 58-A da Lei 11.101/05 prevê expressamente o cabimento de agravo de instrumento contra a sentença que convola a recuperação judicial em falência, hipótese legal específica que se enquadra no inciso XIII do art. 1.015 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cpc.1015",
+  "para": "l11101.100",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 100 da Lei 11.101/05 prevê o cabimento de agravo contra a decisão que decreta a falência, outra hipótese legal específica que se soma ao rol do art. 1.015 do CPC por força de seu inciso XIII.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cpc.1015",
+  "para": "l11101.17",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 17 da Lei 11.101/05 prevê o cabimento de agravo contra a decisão sobre impugnação de crédito na recuperação judicial ou falência, hipótese legal que também se enquadra no inciso XIII do art. 1.015 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
+ },
+ {
+  "de": "cpc.1015",
+  "para": "l9099.10",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 10 da Lei 9.099/95 veda, no processo dos Juizados Especiais Cíveis, qualquer forma de intervenção de terceiro, afastando por completo a hipótese de decisão agravável prevista no inciso IX do art. 1.015 do CPC quanto à admissão ou inadmissão dessa modalidade de intervenção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-25T20:12:05+00:00"
  }
 ]
