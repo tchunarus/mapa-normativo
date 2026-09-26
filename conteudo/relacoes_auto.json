@@ -538,5 +538,275 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-25T21:27:37+00:00"
+ },
+ {
+  "de": "cc.1016",
+  "para": "ctn.134",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.016 do CC trata da responsabilidade civil solidária dos administradores de sociedade por culpa no desempenho de suas funções perante a sociedade e terceiros, enquanto o art. 134 do CTN disciplina a responsabilidade tributária solidária de administradores de bens de terceiros pelos tributos devidos por estes. A semelhança do vocabulário, como \"respondem solidariamente\" e \"administradores\", cria risco de se confundirem os dois regimes, que têm pressupostos e finalidades distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.1016",
+  "para": "d9580.200",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.016 do CC exige apenas culpa no desempenho da função para a responsabilização civil do administrador perante a sociedade e terceiros, ao passo que o art. 200 do RIR/2018 impõe responsabilidade pessoal tributária ao administrador somente em caso de excesso de poderes ou infração à lei, ao contrato social ou aos estatutos, padrão mais restrito que pode ser indevidamente equiparado ao da responsabilidade civil geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.1016",
+  "para": "lsa.158",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos os dispositivos tratam da responsabilidade civil pessoal do administrador por culpa ou violação da lei ou do estatuto no exercício de suas funções, mas regem sociedades de tipos distintos, a sociedade simples e a sociedade anônima, com regimes autônomos, o que exige cautela para não se aplicarem automaticamente as excludentes próprias da Lei das Sociedades por Ações à sociedade regida pelo Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.1052",
+  "para": "lsa.1",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam do mesmo instituto, a limitação da responsabilidade dos sócios pelo capital social, mas fixam parâmetros diferentes: o art. 1.052 do CC limita a responsabilidade ao valor das quotas, com solidariedade pela integralização do capital, enquanto o art. 1º da LSA limita a responsabilidade ao preço de emissão das ações, sem a mesma solidariedade, o que gera risco de se confundirem os regimes da sociedade limitada e da sociedade anônima.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.1052",
+  "para": "cpc.795",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 795 do CPC disciplina, no plano processual da execução, a mesma regra de limitação patrimonial estabelecida pelo art. 1.052 do CC, ao prever que os bens particulares dos sócios não respondem pelas dívidas da sociedade, salvo os casos previstos em lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.168",
+  "para": "cpc.278",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 168 do CC trata da nulidade do negócio jurídico, que pode ser alegada por qualquer interessado ou pelo Ministério Público e deve ser pronunciada de ofício pelo juiz, sem possibilidade de suprimento, ao passo que o art. 278 do CPC rege a nulidade dos atos processuais, sujeita a preclusão se não alegada na primeira oportunidade, salvo quando o juiz deva decretá-la de ofício. A proximidade vocabular pode levar à confusão entre os dois institutos, de naturezas distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.202",
+  "para": "ctn.174",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 174 do CTN especializa, para o crédito tributário, o instituto da interrupção da prescrição de que trata o art. 202 do CC, prevendo causas próprias, como o protesto extrajudicial da certidão de dívida ativa, ao lado de hipóteses semelhantes às do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.202",
+  "para": "cp.117",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 117 do CP disciplina de modo autônomo a interrupção da prescrição penal, com causas específicas, como o recebimento da denúncia e a pronúncia, que nada têm em comum com as hipóteses civis do art. 202 do CC, exceto o pertencimento ao mesmo instituto geral da interrupção da prescrição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.202",
+  "para": "d20910.9",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 9º do Decreto 20.910/32 especializa, para as dívidas da Fazenda Pública, a regra de retomada do curso da prescrição após a interrupção, determinando que ela recomeça a correr pela metade do prazo, o que difere da regra geral do parágrafo único do art. 202 do CC, segundo a qual a prescrição interrompida recomeça a correr integralmente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.202",
+  "para": "cpc.240",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 240 do CPC disciplina o modo processual pelo qual se opera a interrupção da prescrição prevista no inciso I do art. 202 do CC, esclarecendo que o efeito retroage à data de propositura da ação e que a citação, ainda que ordenada por juízo incompetente, produz esse efeito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.202",
+  "para": "l9492.9",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 9º da Lei 9.492/97 complementa o inciso II do art. 202 do CC ao disciplinar o procedimento do protesto perante o tabelião, esclarecendo que este examina apenas os caracteres formais do título, sem investigar a ocorrência de prescrição, o que não impede que o protesto assim lavrado produza o efeito interruptivo previsto no Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.50",
+  "para": "l8078.28",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 28 do CDC autoriza a desconsideração da personalidade jurídica em hipóteses mais amplas que as do art. 50 do CC, como má administração, encerramento ou inatividade da pessoa jurídica, sem exigir cumulativamente desvio de finalidade ou confusão patrimonial. O aparente conflito se resolve pela especialidade, aplicando-se a teoria menor do CDC às relações de consumo e a teoria maior do CC às demais relações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.50",
+  "para": "l12846.14",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 14 da Lei 12.846/13 especializa a desconsideração da personalidade jurídica para o âmbito da responsabilização por atos lesivos à administração pública, adotando como critério o abuso do direito para facilitar, encobrir ou dissimular a prática dos ilícitos previstos naquela lei, ou para provocar confusão patrimonial, o que se aproxima, mas não coincide exatamente, com o desvio de finalidade exigido pelo art. 50 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.50",
+  "para": "l14133.160",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 160 da Lei 14.133/21 reproduz, para as licitações e contratos administrativos, o mesmo critério de desconsideração por abuso do direito ou confusão patrimonial adotado pela Lei Anticorrupção, especializando o instituto do art. 50 do CC para estender os efeitos das sanções aos administradores, sócios e a empresas coligadas do sancionado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cc.50",
+  "para": "l11101.82-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 82-A da Lei 11.101/05 remete expressamente ao art. 50 do CC como fundamento exigido para a desconsideração da personalidade jurídica da sociedade falida, vedando, fora dessa hipótese, a extensão dos efeitos da falência aos sócios de responsabilidade limitada e aos administradores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cf.155",
+  "para": "lcp87.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º da LC 87/96 regulamenta, em termos praticamente idênticos, a competência estadual para instituir o ICMS estabelecida no art. 155, II, da CF, disciplinando o imposto sobre operações de circulação de mercadorias e prestações de serviço de transporte interestadual, intermunicipal e de comunicação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cf.155",
+  "para": "lcp227.159",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 159 da LC 227/2026 regulamenta a competência para instituir o imposto sobre transmissão causa mortis e doação relativamente a bens móveis, créditos e direitos, dando cumprimento à exigência de lei complementar prevista no art. 155, §1º, III, da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cf.155",
+  "para": "lcp227.158",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 158 da LC 227/2026 regulamenta a competência para instituir o imposto sobre transmissão causa mortis e doação relativamente a bens imóveis e respectivos direitos, complementando, quanto a essa espécie de bem, a regra de competência do art. 155, §1º, I, da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cf.155",
+  "para": "ec132.16",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 16 da EC 132/2023 disciplinou, em caráter transitório, a competência para instituir o imposto de que trata o art. 155, §1º, III, da CF enquanto não editada a lei complementar exigida por esse dispositivo, lacuna hoje suprida pela LC 227/2026.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cf.155",
+  "para": "adct.99",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 99 do ADCT disciplina a partilha, entre os Estados de origem e de destino, do diferencial de alíquota do ICMS nas operações e prestações destinadas a consumidor final não contribuinte, complementando a regra do art. 155, §2º, VII, da CF, a que expressamente se refere.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cf.195",
+  "para": "l8212.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 10 da Lei 8.212/91 regulamenta expressamente o financiamento da seguridade social \"nos termos do art. 195 da Constituição Federal e desta Lei\", dando execução, no plano infraconstitucional, ao conjunto de contribuições sociais ali previstas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cf.195",
+  "para": "l8212.26",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 26 da Lei 8.212/91 regulamenta especificamente o inciso III do art. 195 da CF, definindo a contribuição sobre a receita de concursos de prognósticos como receita da seguridade social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cf.195",
+  "para": "l8212.23",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 23 da Lei 8.212/91 disciplina o cálculo das contribuições da empresa incidentes sobre a receita bruta e sobre o lucro, dando concretude às bases de incidência previstas nas alíneas \"b\" e \"c\" do inciso I do art. 195 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cf.195",
+  "para": "adct.133",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 133 do ADCT complementa o art. 195 da CF ao disciplinar a transição das contribuições previstas no inciso I, alínea \"b\", e no inciso IV do caput daquele artigo para a nova contribuição sobre bens e serviços, de que trata o inciso V, excluindo-as da base de cálculo desta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cf.198",
+  "para": "lcp227.170",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 170 da LC 227/2026, ao alterar o art. 6º da LC 141/2012, regulamenta o percentual mínimo de 12% que Estados e Distrito Federal devem aplicar anualmente em ações e serviços públicos de saúde, dando cumprimento ao piso estabelecido pelo art. 198, §2º, II, da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cf.198",
+  "para": "l8212.2",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 2º da Lei 8.212/91 reproduz e desenvolve, no plano infraconstitucional, as diretrizes de descentralização, atendimento integral e organização em rede regionalizada e hierarquizada que o art. 198, caput, da CF estabelece para o sistema único de saúde.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "cf.198",
+  "para": "adct.77",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 77 do ADCT fixou, em caráter transitório até o exercício financeiro de 2004, os percentuais mínimos de recursos a serem aplicados em ações e serviços públicos de saúde, matéria hoje disciplinada de modo permanente pelos §§2º e 3º do art. 198 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T01:16:45+00:00"
  }
 ]

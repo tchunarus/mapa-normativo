@@ -1,1 +1,15 @@
-[]
+[
+ {
+  "titulo": "LEI Nº 15.517, DE 22 DE SETEMBRO DE 2026",
+  "tipo": "Lei",
+  "orgao": "Atos do Poder Legislativo",
+  "data": "23/09/2026",
+  "resumo": "LEI Nº 15.517, DE 22 DE SETEMBRO DE 2026 Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e a Lei nº 8.176, de 8 de fevereiro de 1991, para dispor sobre os crimes de furto e roubo de petróleo e derivados, gás natural e suas frações recuperáveis, álcool etílico hidratado carburante e demais combustíveis fluidos carburantes, inclusive biocombustíveis, e óleos lubrificantes, bem",
+  "url": "https://www.in.gov.br/web/dou/-/lei-n-15.517-de-22-de-setembro-de-2026-733476267",
+  "diplomas": [
+   "cp"
+  ],
+  "id": "lei-n-15.517-de-22-de-setembro-de-2026-733476267",
+  "detectado_em": "2026-09-26T01:07:25+00:00"
+ }
+]
