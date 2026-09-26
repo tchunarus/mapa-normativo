@@ -808,5 +808,205 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-26T01:16:45+00:00"
+ },
+ {
+  "de": "adct.133",
+  "para": "lcp214.1",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 133 do ADCT exclui da base de cálculo do imposto de que trata o art. 156-A e da contribuição de que trata o art. 195, V, os tributos que enumera, e o art. 1º da LC 214/2025 é o dispositivo que institui exatamente esses dois tributos, o IBS no inciso I e a CBS no inciso II, ambos referidos aos mesmos artigos constitucionais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "adct.133",
+  "para": "cf.239",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 133 do ADCT determina que a contribuição para o Programa de Integração Social, de que trata o art. 239 da Constituição Federal, não integra a base de cálculo do IBS e da CBS, remetendo diretamente a esse dispositivo constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "adct.133",
+  "para": "lcp214.12",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 12 da LC 214/2025 define a regra geral da base de cálculo do IBS e da CBS como o valor da operação, e o art. 133 do ADCT excepciona essa base geral ao excluir dela os tributos antigos que enumera.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "adct.133",
+  "para": "lcp214.348",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "Enquanto o art. 133 do ADCT exclui os tributos que enumera da base de cálculo do IBS e da CBS, o art. 348 da LC 214/2025 complementa esse regime de transição ao disciplinar, para os fatos geradores de 2026, a compensação entre o montante recolhido de IBS e CBS e os débitos das mesmas contribuições citadas no art. 195, I, \"b\" e IV, e no art. 239 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "adct.133",
+  "para": "ec132.22",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 22 da EC 132/2023 complementa o desenho transitório ao determinar a revogação, em 2027, do art. 195, I, \"b\", e IV, da Constituição Federal, exatamente os tributos que o art. 133 do ADCT já exclui da base de cálculo do IBS e da CBS enquanto vigentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "adct.77",
+  "para": "cf.159",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "Os incisos II e III do art. 77 do ADCT calculam os recursos mínimos de saúde com base nos recursos de que tratam o art. 159, inciso I, alíneas \"a\" e \"b\", e inciso II, da Constituição Federal, remetendo diretamente a esse dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "adct.77",
+  "para": "cf.157",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 77 do ADCT inclui, na base de cálculo dos recursos mínimos de saúde dos Estados e do Distrito Federal, os recursos de que trata o art. 157 da Constituição Federal, remetendo diretamente a esse dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "adct.77",
+  "para": "lcp227.170",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 170 da LC 227/2026 altera o art. 6º da LC 141/2012 para atualizar o percentual mínimo de saúde dos Estados e do Distrito Federal, complementando o mesmo mecanismo do art. 77 do ADCT ao somar à base de cálculo, além dos impostos do art. 155 e dos recursos dos arts. 157 e 159, a nova receita do art. 156-A.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "adct.77",
+  "para": "cf.212",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 212 da Constituição Federal fixa percentual mínimo de receita de impostos vinculado ao ensino, mecanismo estrutural semelhante ao do art. 77 do ADCT para a saúde, mas sobre instituto conexo e distinto, o que gera risco real de confusão entre as duas vinculações mínimas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "adct.77",
+  "para": "cf.212-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 212-A da Constituição Federal institui o fundo de manutenção da educação básica de modo paralelo ao Fundo de Saúde referido no § 3º do art. 77 do ADCT, ambos fundos de vinculação mínima de receita para políticas públicas distintas, o que pode gerar confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "cpc.1005",
+  "para": "cpp.580",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 580 do CPP estende ao corréu a decisão de recurso interposto por outro quando fundada em motivo não exclusivamente pessoal, regra próxima à do art. 1.005 do CPC, mas o CPP exige ausência de caráter pessoal do fundamento, enquanto o CPC exige apenas que os interesses dos litisconsortes não sejam distintos ou opostos, o que pode gerar confusão entre os dois regimes de aproveitamento do recurso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "cpc.1005",
+  "para": "ctn.125",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 125 do CTN disciplina os efeitos da solidariedade passiva tributária, entre eles o aproveitamento de atos a todos os obrigados, instituto conexo ao do parágrafo único do art. 1.005 do CPC sobre o aproveitamento do recurso ao codevedor solidário, mas com pressupostos e consequências próprios de cada ramo, o que pode gerar confusão entre os regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "cpc.1005",
+  "para": "cc.274",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 274 do Código Civil dispõe que o julgamento favorável a um dos credores solidários aproveita aos demais, regra próxima à do art. 1.005 do CPC quanto ao recurso do litisconsorte, mas tratando da solidariedade ativa entre credores e não do aproveitamento do recurso entre litisconsortes ou devedores solidários, o que pode gerar confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "cpc.133",
+  "para": "l11101.82-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 82-A da Lei 11.101/05 remete expressamente aos arts. 133 a 137 do CPC, exigindo a observância desse incidente para a decretação da desconsideração da personalidade jurídica da sociedade falida pelo juízo falimentar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "cpc.133",
+  "para": "l8078.28",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O incidente de desconsideração do art. 133 do CPC também serve de rito processual à hipótese mais ampla de desconsideração prevista no art. 28 do CDC, cujos pressupostos, como abuso de direito, má administração e insolvência, diferem dos exigidos pelo art. 50 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "cpc.134",
+  "para": "l11101.82-A",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 82-A da Lei 11.101/05 afasta a suspensão do processo prevista no art. 134 do CPC (§ 3º), determinando rito próprio, conduzido pelo juízo falimentar, para a desconsideração da personalidade jurídica da sociedade falida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "cpc.136",
+  "para": "clt.855-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso III do § 1º do art. 855-A da CLT reproduz, para o processo do trabalho, a mesma regra do parágrafo único do art. 136 do CPC, cabendo agravo interno quando a decisão sobre o incidente de desconsideração for proferida pelo relator.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "cpc.137",
+  "para": "ctn.185",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 185 do CTN presume fraudulenta a alienação ou oneração de bens pela simples inscrição do débito tributário em dívida ativa, enquanto o art. 137 do CPC condiciona a ineficácia ao acolhimento do incidente de desconsideração da personalidade jurídica, regimes de ineficácia por fraude distintos que podem ser confundidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "cpc.137",
+  "para": "l11101.66-A",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 66-A da Lei 11.101/05 veda que a alienação de bens autorizada judicialmente na recuperação seja tornada ineficaz após a consumação do negócio, excepcionando, nesse contexto, a lógica geral de ineficácia por fraude de execução do art. 137 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "cpc.137",
+  "para": "l11101.138",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 138 da Lei 11.101/05 permite declarar ineficaz o ato do devedor falido nas hipóteses objetivas do art. 129 da mesma Lei, independentemente de prova de fraude, regime distinto da ineficácia por fraude de execução do art. 137 do CPC, que pressupõe o acolhimento do incidente de desconsideração, o que pode gerar confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-26T06:11:30+00:00"
  }
 ]
