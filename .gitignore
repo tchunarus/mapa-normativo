@@ -2,4 +2,6 @@
 __pycache__/
 *.pyc
 .DS_Store
-.claude/
+.claude/settings.local.json
+.claude/launch.json
+.claude/serve.py
