@@ -1988,5 +1988,235 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T13:30:49+00:00"
+ },
+ {
+  "de": "adct.87",
+  "para": "cf.100",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 87 do ADCT fixa, para efeito do § 3º do art. 100 da Constituição Federal, os valores considerados de pequeno valor enquanto os entes federados não editam suas leis definidoras, complementando o regime de precatórios e requisições de pequeno valor ali estabelecido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "adct.87",
+  "para": "l8213.128",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos tratam de dispensa de precatório para débitos de pequeno valor, mas o art. 87 do ADCT usa como critério múltiplos de salário mínimo para débitos das Fazendas estaduais, distritais e municipais, enquanto o art. 128 da Lei 8.213/91 fixa valor próprio em reais para demandas previdenciárias, o que pode levar à aplicação do limite equivocado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.55",
+  "para": "l7347.2",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 55 do CPC disciplina a conexão entre ações com pedido ou causa de pedir comuns, determinando a reunião dos processos, enquanto o parágrafo único do art. 2º da Lei 7.347/85 trata da prevenção da competência funcional do juízo da ação civil pública para ações posteriores com a mesma causa de pedir ou objeto, instituto próximo mas com efeito processual distinto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.55",
+  "para": "lef.28",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 28 da LEF estabelece critério próprio para a reunião de processos de execução fiscal contra o mesmo devedor, fundado na conveniência da unidade da garantia da execução, distinto do critério de conexão do art. 55 do CPC, que exige pedido ou causa de pedir comuns entre as ações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.605",
+  "para": "cc.1028",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 605 do CPC fixa a data do óbito como marco da resolução da sociedade por morte do sócio, dando efeito processual à liquidação da quota disciplinada pelo art. 1.028 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.605",
+  "para": "cc.1029",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 605 do CPC fixa o sexagésimo dia após a notificação como marco da resolução na retirada imotivada, replicando o prazo de sessenta dias que o art. 1.029 do Código Civil exige para a notificação do sócio retirante em sociedade de prazo indeterminado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.605",
+  "para": "cc.1077",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 605 do CPC fixa o dia do recebimento da notificação do sócio dissidente como marco do recesso, hipótese de retirada por modificação do contrato, fusão ou incorporação disciplinada pelo art. 1.077 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.605",
+  "para": "cc.1030",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 605 do CPC fixa o trânsito em julgado da decisão como marco da resolução na exclusão judicial do sócio, hipótese cujos requisitos materiais, como falta grave ou incapacidade superveniente, estão no art. 1.030 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.605",
+  "para": "cc.1085",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 605 do CPC fixa a data da assembleia ou reunião de sócios como marco da resolução na exclusão extrajudicial, hipótese de exclusão por justa causa, mediante alteração do contrato social, disciplinada pelo art. 1.085 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.64",
+  "para": "clt.799",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 64 do CPC trata a incompetência como preliminar de contestação, sem suspensão do feito, enquanto o art. 799 da CLT ainda a disciplina como exceção autônoma que suspende o processo trabalhista, terminologia e rito que podem ser confundidos entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.64",
+  "para": "cpp.108",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 64 do CPC incorporou a incompetência à contestação como questão preliminar, enquanto o art. 108 do CPP mantém a exceção de incompetência como incidente autônomo oposto verbalmente ou por escrito no prazo de defesa, o que pode gerar confusão de rito entre os processos civil e penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.657",
+  "para": "cc.178",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 657 do CPC fixa prazo especial de um ano para a anulação da partilha amigável por coação, erro, dolo ou incapacidade, especializando o prazo geral de quatro anos que o art. 178 do Código Civil prevê para a decadência da anulação do negócio jurídico pelos mesmos vícios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.779",
+  "para": "lef.4",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 4º da LEF estabelece rol próprio de legitimados passivos para a execução fiscal, devedor, fiador, espólio, massa, responsável e sucessores, especializando para essa execução o rol geral de legitimados que o art. 779 do CPC prevê para a execução civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.779",
+  "para": "cc.836",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "Os incisos II e IV do art. 779 do CPC autorizam a execução contra os herdeiros do devedor e contra o fiador do débito, hipótese complementada pelo art. 836 do Código Civil, que limita a responsabilidade dos herdeiros do fiador às forças da herança e ao período anterior à morte do afiançador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.779",
+  "para": "cc.302",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 779 do CPC autoriza a execução contra o novo devedor que assumiu a obrigação com o consentimento do credor, figura da assunção de dívida cujo regime de defesas o art. 302 do Código Civil complementa ao vedar que o novo devedor oponha exceções pessoais do devedor primitivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.779",
+  "para": "cc.362",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 779 do CPC refere se ao novo devedor que assumiu a obrigação do título executivo, hipótese de assunção de dívida que não se confunde com a novação subjetiva passiva do art. 362 do Código Civil, na qual se extingue a obrigação originária mediante a constituição de outra, independentemente do consentimento do devedor primitivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.784",
+  "para": "lef.2",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso IX do art. 784 do CPC atribui eficácia de título executivo extrajudicial à certidão de dívida ativa, cujo conceito é definido pelo art. 2º da LEF, que caracteriza a Dívida Ativa da Fazenda Pública como tributária ou não tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.784",
+  "para": "cc.1424",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 784 do CPC atribui eficácia executiva ao contrato garantido por penhor, anticrese ou hipoteca, cuja validade depende dos requisitos de conteúdo exigidos pelo art. 1.424 do Código Civil, sob pena de ineficácia da garantia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.784",
+  "para": "cc.221",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 784 do CPC atribui eficácia de título executivo ao documento particular assinado pelo devedor e por duas testemunhas, independentemente de registro, o que não se confunde com a exigência de registro do art. 221 do Código Civil para que o instrumento particular produza efeitos perante terceiros, questão distinta da executividade entre as partes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.790",
+  "para": "l11101.82-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 82-A da Lei 11.101/05 veda a extensão automática dos efeitos da falência aos sócios e administradores, admitindo apenas a desconsideração da personalidade jurídica, disciplina que complementa a hipótese de sujeição patrimonial do inciso VII do art. 790 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.790",
+  "para": "lef.30",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 30 da LEF estabelece a regra geral de que todos os bens e rendas do sujeito passivo respondem pela Dívida Ativa, mas não disciplina hipóteses específicas de sujeição de bens de terceiros, como sucessor a título singular, cônjuge ou bens alienados em fraude à execução, que o art. 790 do CPC detalha e aplica subsidiariamente à execução fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.790",
+  "para": "cc.391",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 391 do Código Civil estabelece a regra geral de que o patrimônio do devedor responde pelo inadimplemento das obrigações, regime que o art. 790 do CPC complementa ao estender a responsabilidade patrimonial, em hipóteses específicas, a bens de terceiros, como sucessores, sócios, cônjuge ou companheiro e responsáveis por desconsideração da personalidade jurídica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cpc.790",
+  "para": "cc.171",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso VI do art. 790 do CPC sujeita à execução os bens cuja alienação ou gravação tenha sido anulada por fraude contra credores em ação autônoma, hipótese de anulabilidade do negócio jurídico prevista no inciso II do art. 171 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T14:30:55+00:00"
  }
 ]
