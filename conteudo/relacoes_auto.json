@@ -2948,5 +2948,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cc.1033",
+  "para": "lsa.206",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.033 do Código Civil disciplina as causas de dissolução da sociedade simples (vencimento de prazo, consenso ou deliberação dos sócios e extinção de autorização para funcionar), enquanto o art. 206 da Lei das S.A. disciplina as causas de dissolução da companhia, inclusive por extinção de autorização para funcionar. Os dois dispositivos tratam de institutos conexos, mas aplicáveis a tipos societários distintos, existindo risco real de se aplicar a um tipo social as causas de dissolução previstas para o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.422",
+  "para": "cc.225",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 225 do Código Civil estabelece a regra substantiva de que reproduções fotográficas, cinematográficas e fonográficas fazem prova plena dos fatos ou coisas retratados, salvo impugnação da exatidão pela parte contrária. O art. 422 do CPC trata do mesmo instituto no plano processual, detalhando hipóteses específicas, como fotografias digitais, imagens extraídas da internet e mensagens eletrônicas impressas, de modo que os dois dispositivos compõem o mesmo regime probatório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.424",
+  "para": "cc.217",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 217 do Código Civil confere aos traslados e às certidões extraídos por tabelião ou oficial de registro a mesma força probante dos originais lançados em suas notas. O art. 424 do CPC trata do mesmo instituto de equivalência probatória entre cópia e original, mas no âmbito da cópia de documento particular conferida pelo escrivão no processo judicial, de modo que os dois dispositivos integram o mesmo regime de autenticação de cópias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.424",
+  "para": "l8934.39-A",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 39-A da Lei 8.934/94 dispensa qualquer outra autenticação para documentos de empresas já autenticados por sistemas públicos eletrônicos das juntas comerciais, excepcionando, nesse âmbito registral específico, a exigência geral do art. 424 do CPC de conferência e certificação da cópia pelo escrivão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.424",
+  "para": "cpp.232",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 232 do Código de Processo Penal atribui à fotografia de documento, devidamente autenticada, o mesmo valor do original, tratando do mesmo instituto regulado pelo art. 424 do CPC para a cópia de documento particular no processo civil, com procedimentos de autenticação distintos entre os dois ramos, o que gera risco de confusão sobre qual regra de autenticação se aplica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.424",
+  "para": "l9492.39",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 39 da Lei 9.492/97 é regra especial que atribui à reprodução de microfilme ou ao processamento eletrônico de imagem de documento arquivado em tabelionato de protesto o mesmo valor do original, especializando, nesse contexto próprio dos tabelionatos de protesto, o regime geral de equivalência entre cópia e original tratado pelo art. 424 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.429",
+  "para": "clt.818",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 818 da CLT fixa a regra geral de distribuição do ônus da prova no processo do trabalho, sem tratar da hipótese específica de impugnação de falsidade ou autenticidade documental. Nessa lacuna, aplica-se subsidiariamente ao processo do trabalho a regra específica do art. 429 do CPC, que atribui o ônus da prova à parte que argui a falsidade ou que impugna a autenticidade do documento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.429",
+  "para": "cpp.145",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 145 do Código de Processo Penal disciplina o incidente de arguição de falsidade documental no processo penal, com prazos e poderes de ofício do juiz próprios, enquanto o art. 429 do CPC define apenas a distribuição do ônus da prova sobre a falsidade ou a autenticidade no processo civil. Os dois dispositivos tratam de institutos conexos, com risco de se transporem indevidamente as regras de um ramo processual para o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.604",
+  "para": "cc.1031",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.031 do Código Civil fixa o critério substantivo de apuração do valor da quota do sócio cuja sociedade se resolveu, com base na situação patrimonial verificada em balanço especial na data da resolução. O art. 604 do CPC estabelece o procedimento judicial para essa apuração, com fixação da data da resolução, definição do critério e nomeação de perito, tratando-se do mesmo instituto de apuração de haveres, apenas em planos substantivo e processual distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.604",
+  "para": "l11101.123",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 123 da Lei 11.101/05 determina que os haveres do sócio comanditário ou cotista falido sejam apurados na forma do contrato ou do estatuto social e, no silêncio deste, judicialmente. Nessa omissão do instrumento social, aplica-se subsidiariamente o procedimento de apuração de haveres do art. 604 do CPC, que disciplina como o juízo deve fixar a data da resolução, o critério de apuração e a nomeação de perito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.608",
+  "para": "d9580.355",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 608 do CPC inclui, entre os valores devidos ao ex-sócio até a data da resolução, os juros sobre o capital próprio declarados pela sociedade. Essa expressão técnica remete ao instituto disciplinado pelo art. 355 do RIR de 2018, que define a base de cálculo e a condição de pagamento dos juros sobre capital próprio, de modo que a norma processual pressupõe o regime tributário e societário desse instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.609",
+  "para": "cc.1031",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 609 do CPC determina expressamente que, no silêncio do contrato social quanto à forma de pagamento dos haveres apurados, aplica-se o critério fixado no art. 1.031 do Código Civil, que trata da liquidação da quota do sócio retirante mediante correção monetária e prazo determinado. Trata-se de remissão explícita e literal feita pelo próprio texto do CPC ao dispositivo do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.789",
+  "para": "cc.1667",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.667 do Código Civil também emprega a expressão bens presentes e futuros, mas para tratar da comunicação de bens dos cônjuges no regime da comunhão universal, instituto totalmente distinto da responsabilidade patrimonial geral do devedor tratada pelo art. 789 do CPC. A semelhança terminológica cria risco real de se confundirem os dois institutos, apesar de não guardarem relação de conteúdo além do ponto de contato linguístico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.789",
+  "para": "l11101.5",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 5 da Lei 11.101/05 exclui da exigibilidade em face do devedor, na recuperação judicial ou na falência, as obrigações a título gratuito e certas despesas dos credores, excepcionando, nesse contexto concursal, a regra geral de responsabilidade patrimonial ampla do devedor prevista no art. 789 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:22:59+00:00"
  }
 ]
