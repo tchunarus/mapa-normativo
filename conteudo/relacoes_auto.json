@@ -1858,5 +1858,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T12:39:01+00:00"
+ },
+ {
+  "de": "cc.70",
+  "para": "ctn.127",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 127, I, do CTN adota, para fins de domicílio tributário da pessoa física, o critério da residência habitual, próximo do ânimo definitivo de residir de que trata o art. 70 do Código Civil, mas cria regime autônomo aplicável apenas às relações tributárias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T13:30:49+00:00"
+ },
+ {
+  "de": "cc.73",
+  "para": "ctn.127",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos tratam do domicílio subsidiário da pessoa natural sem residência habitual, mas adotam critérios diferentes: o art. 73 do CC elege o lugar onde a pessoa for encontrada, enquanto o art. 127, I, do CTN, para fins tributários, elege o centro habitual de sua atividade, o que gera risco de confusão entre os dois critérios subsidiários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T13:30:49+00:00"
+ },
+ {
+  "de": "cc.75",
+  "para": "ctn.127",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 127, II, do CTN especializa, para o domicílio tributário da pessoa jurídica, a regra do art. 75, IV e §1º, do Código Civil, elegendo o local da sede ou, quanto aos atos e fatos que derem origem à obrigação, o de cada estabelecimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T13:30:49+00:00"
+ },
+ {
+  "de": "cc.75",
+  "para": "d9580.202",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 202 do RIR/2018 regulamenta, para fins de imposto sobre a renda, o domicílio fiscal da pessoa jurídica com base no critério da sede ou do estabelecimento centralizador, refletindo em âmbito tributário-regulamentar a lógica de domicílio por estabelecimento do art. 75, §1º, do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T13:30:49+00:00"
+ },
+ {
+  "de": "cf.179",
+  "para": "lcp123.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º da LC 123/06 regulamenta diretamente o comando do art. 179 da CF, estabelecendo as normas gerais de tratamento diferenciado e favorecido às microempresas e empresas de pequeno porte no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T13:30:49+00:00"
+ },
+ {
+  "de": "cf.182",
+  "para": "ctn.32",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 182, §4º, II, da CF autoriza modalidade especial de IPTU progressivo no tempo, como sanção urbanística ao proprietário que não promove o adequado aproveitamento do solo urbano, excepcionando o regime ordinário do imposto cujo fato gerador é definido pelo art. 32 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T13:30:49+00:00"
+ },
+ {
+  "de": "cf.182",
+  "para": "lcp214.159",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 159 da LC 214/2025 complementa a política de desenvolvimento urbano prevista no art. 182 da CF ao instituir instrumento voltado à reabilitação urbana de zonas históricas e áreas críticas dos Municípios, para preservação patrimonial, qualificação de espaços públicos e melhoria da infraestrutura urbana.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T13:30:49+00:00"
+ },
+ {
+  "de": "clt.818",
+  "para": "lindb.13",
+  "tipo": "excepciona",
+  "grau": "contato",
+  "porque": "O art. 13 da LINDB excepciona a regra geral de distribuição do ônus da prova do art. 818 da CLT quando o fato a ser provado tiver ocorrido em país estrangeiro, hipótese em que o ônus e os meios de prova se regem pela lei estrangeira, respeitado o limite de não admitir prova que a lei brasileira desconheça.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T13:30:49+00:00"
+ },
+ {
+  "de": "cpc.535",
+  "para": "l8213.128",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 128 da Lei 8.213/91 especializa, para as demandas previdenciárias de pequeno valor, o mecanismo do art. 535, §3º, II, do CPC, que dispensa a expedição de precatório e prevê a quitação da obrigação de pequeno valor em prazo próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T13:30:49+00:00"
+ },
+ {
+  "de": "cpc.535",
+  "para": "adct.87",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 87 do ADCT complementa o art. 535, §3º, II, do CPC ao fixar, em salários mínimos, os valores que caracterizam a obrigação de pequeno valor da Fazenda dos Estados, do Distrito Federal e dos Municípios para fins de dispensa de precatório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T13:30:49+00:00"
+ },
+ {
+  "de": "cpc.537",
+  "para": "l7347.11",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 11 da Lei 7.347/85 prevê, para a ação civil pública, a cominação de multa diária independentemente de requerimento do autor para o cumprimento de obrigação de fazer ou não fazer, mesmo instituto da multa coercitiva de que trata o art. 537 do CPC, aplicável desde que suficiente e compatível com a obrigação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T13:30:49+00:00"
+ },
+ {
+  "de": "cpc.537",
+  "para": "l8078.84",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 84 do CDC especializa, para as relações de consumo, a tutela específica da obrigação de fazer ou não fazer com cominação de multa, mesmo instituto disciplinado de forma geral pelo art. 537 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T13:30:49+00:00"
+ },
+ {
+  "de": "cpc.537",
+  "para": "l13709.54",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 54 da LGPD trata de multa diária aplicada pela autoridade nacional como sanção administrativa por infração à lei, distinta da multa coercitiva do art. 537 do CPC para o cumprimento de obrigação de fazer ou não fazer, havendo risco de confusão entre as duas figuras por compartilharem a mesma denominação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T13:30:49+00:00"
  }
 ]
