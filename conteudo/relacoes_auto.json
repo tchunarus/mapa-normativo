@@ -2428,5 +2428,195 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.221",
+  "para": "cpc.408",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 408 do CPC detalha o alcance probatório do documento particular referido no art. 221 do CC, estabelecendo que as declarações nele contidas se presumem verdadeiras em relação ao signatário, ao passo que o CC apenas afirma, em termos gerais, que o instrumento particular prova as obrigações convencionais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cc.221",
+  "para": "cpc.409",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 409 do CPC complementa a regra do art. 221 do CC sobre a produção de efeitos do instrumento particular perante terceiros, especificando os eventos que fixam a data do documento para esse fim além do registro público mencionado no CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cc.221",
+  "para": "cpc.410",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 410 do CPC complementa o art. 221 do CC ao definir quem se considera autor do documento particular cuja força probatória este último disciplina, hipótese que abrange inclusive aquele que mandou compô-lo sem firmá-lo, conforme o inciso III.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cc.221",
+  "para": "cpc.412",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 412 do CPC complementa a regra do art. 221 do CC sobre a prova do instrumento particular, esclarecendo que o documento cuja autenticidade não se duvida prova a declaração nele contida e que sua admissão pela parte é indivisível.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cc.221",
+  "para": "cpc.428",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 428 do CPC complementa o art. 221 do CC ao definir as hipóteses em que cessa a fé do documento particular, como a impugnação da autenticidade ainda não comprovada ou o preenchimento abusivo de documento assinado em branco, conforme os incisos I e II.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cc.302",
+  "para": "cpp.95",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo exceções empregado no art. 95 do CPP designa instituto processual penal, isto é, defesas de suspeição, incompetência, litispendência, ilegitimidade de parte e coisa julgada, distinto das exceções pessoais de direito material de que trata o art. 302 do CC, relativas às defesas próprias do devedor primitivo na assunção de dívida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cc.362",
+  "para": "l11101.59",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 59 da Lei 11.101/05 institui regime especial de novação no âmbito da recuperação judicial, que obriga devedor e credores por força do plano homologado e independe de manifestação individual de vontade, diversamente da novação civil do art. 362 do CC, que depende de negócio jurídico entre as partes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cc.391",
+  "para": "cpc.789",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 789 do CPC complementa o princípio da responsabilidade patrimonial consagrado no art. 391 do CC, especificando que o devedor responde com seus bens presentes e futuros, ressalvadas as restrições legais, na fase de cumprimento forçado da obrigação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cc.391",
+  "para": "l11101.6-C",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 6º-C da Lei 11.101/05 especializa, no âmbito da falência e da recuperação judicial, o princípio geral do art. 391 do CC ao vedar a atribuição de responsabilidade a terceiros pelo mero inadimplemento do devedor, ressalvadas as garantias reais e fidejussórias e as demais hipóteses da própria lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cc.391",
+  "para": "cpc.795",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 795 do CPC complementa o princípio do art. 391 do CC ao esclarecer que, tratando-se de sociedade devedora, os bens particulares dos sócios não respondem pela dívida social senão nos casos previstos em lei, preservando a autonomia patrimonial entre devedor e terceiros.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cc.836",
+  "para": "l8245.40",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 40, I, da Lei 8.245/91 complementa a consequência prevista no art. 836 do CC para a morte do fiador ao autorizar o locador a exigir novo fiador ou a substituição da garantia justamente em razão desse evento, que limita a responsabilidade da fiança às forças da herança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cc.836",
+  "para": "cpc.796",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 796 do CPC aplica o mesmo critério do art. 836 do CC, segundo o qual a responsabilidade sucessória se limita às forças da herança, ao dispor que o espólio responde pelas dívidas do falecido e, feita a partilha, cada herdeiro responde na proporção da parte que lhe coube.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cc.836",
+  "para": "cpp.322",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A fiança de que trata o art. 322 do CPP é instituto de direito processual penal, consistente em caução para a liberdade provisória arbitrada pela autoridade policial ou pelo juiz, distinto da fiança civil do art. 836 do CC, que é contrato de garantia pessoal cuja obrigação se transmite aos herdeiros do fiador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cf.100",
+  "para": "adct.97",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 97 do ADCT excepciona expressamente o regime do art. 100 da Constituição Federal, tornando inaplicável a ordem cronológica de precatórios, exceto quanto aos parágrafos ali indicados, para os entes federativos em mora na quitação de precatórios na data de publicação da emenda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cf.100",
+  "para": "adct.104",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 104 do ADCT complementa o mecanismo de sequestro previsto no art. 100, § 6º, da Constituição Federal, ao autorizar o Presidente do Tribunal de Justiça local a determinar o sequestro de valores quando os recursos do regime especial de pagamento de precatórios não forem liberados tempestivamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cf.100",
+  "para": "adct.86",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 86 do ADCT remete expressamente ao art. 100 da Constituição Federal, determinando que os débitos ali qualificados como de pequeno valor sejam pagos conforme esse regime, afastando apenas a regra de parcelamento do art. 78 do próprio ADCT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cf.100",
+  "para": "adct.105",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 105 do ADCT complementa o regime especial de pagamento de precatórios vinculado ao art. 100 da Constituição Federal, facultando aos credores a compensação de precatórios com débitos tributários ou de outra natureza inscritos em dívida ativa até a data ali fixada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "clt.799",
+  "para": "cc.281",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo exceções pessoais utilizado no art. 281 do CC refere-se a defesas de direito material que o codevedor solidário pode opor ao credor, instituto distinto das exceções processuais de suspeição e incompetência de que trata o art. 799 da CLT, malgrado a identidade terminológica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "cpc.283",
+  "para": "l9099.27",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 27 da Lei 9.099/95 aplica, para a hipótese específica de não instituição do juízo arbitral nos Juizados Especiais, o mesmo critério de aproveitamento dos atos processuais do art. 283, parágrafo único, do CPC, ao autorizar o prosseguimento da audiência desde que não resulte prejuízo para a defesa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T16:19:58+00:00"
  }
 ]
