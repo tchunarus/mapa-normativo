@@ -1448,5 +1448,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "cpc.657",
+  "para": "cc.2027",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 657 do CPC especializa a regra geral do art. 2.027 do CC ao disciplinar a anulação da partilha amigável, fixando no parágrafo único o termo inicial do prazo de um ano conforme o vício alegado, enquanto o CC apenas estabelece a regra geral do prazo decadencial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
+ },
+ {
+  "de": "lsa.285",
+  "para": "cc.2027",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 285 da LSA e o art. 2.027 do CC preveem, cada qual para seu instituto, prazo de um ano para anular por vício um ato jurídico (a constituição da companhia e a partilha, respectivamente), o que pode gerar confusão indevida entre institutos que não se comunicam.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
+ },
+ {
+  "de": "ec132.4",
+  "para": "cf.146",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 4º da EC 132/2023 deu nova redação ao art. 146, III, d, da CF, fazendo a alínea abranger também o tratamento diferenciado relativo aos tributos previstos nos arts. 156-A e 195, V, instituídos pela reforma tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
+ },
+ {
+  "de": "lcp123.1",
+  "para": "cf.146",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º da LC 123/2006 institui o tratamento diferenciado e favorecido a que se refere o art. 146, III, d, da CF, cumprindo a reserva constitucional de lei complementar para normas gerais em matéria tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
+ },
+ {
+  "de": "adct.94",
+  "para": "cf.146",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 94 do ADCT determina que os regimes especiais de tributação para microempresas e empresas de pequeno porte cessarão com a entrada em vigor do regime previsto no art. 146, III, d, da CF, ao qual remete expressamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
+ },
+ {
+  "de": "cc.1240",
+  "para": "cf.183",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.240 do CC regulamenta, no plano infraconstitucional, o direito de usucapião especial urbana assegurado pelo art. 183 da CF, reproduzindo os mesmos requisitos de área, prazo e ausência de oposição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
+ },
+ {
+  "de": "cc.1240-A",
+  "para": "cf.183",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.240-A do CC cria modalidade distinta de usucapião especial urbana, fundada no abandono do lar por ex-cônjuge ou ex-companheiro e exigindo apenas dois anos de posse, o que pode ser confundido com a usucapião do art. 183 da CF apesar do fundamento diverso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
+ },
+ {
+  "de": "clt.883",
+  "para": "cpc.831",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 883 da CLT especializa, para a execução trabalhista, a regra geral do art. 831 do CPC sobre a extensão da penhora, dela se distinguindo por não mencionar expressamente os honorários advocatícios entre as verbas garantidas pelos bens penhorados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
+ },
+ {
+  "de": "cpc.836",
+  "para": "clt.883",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 836 do CPC, de aplicação subsidiária ao processo do trabalho, complementa a regra do art. 883 da CLT ao vedar a penhora quando o produto da alienação dos bens for totalmente absorvido pelas custas da execução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
+ },
+ {
+  "de": "l12846.19",
+  "para": "cpc.182",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 19 da Lei 12.846/2013 complementa o art. 182 do CPC ao atribuir expressamente às Advocacias Públicas dos entes federativos legitimidade para ajuizar ação pela prática de atos lesivos previstos no art. 5º da mesma lei, em exercício da representação judicial dos interesses públicos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
+ },
+ {
+  "de": "l14133.10",
+  "para": "cpc.182",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 10 da Lei 14.133/2021 complementa o art. 182 do CPC ao estender a atuação da Advocacia Pública à representação judicial ou extrajudicial de agentes públicos que tenham seguido parecer jurídico vinculante, hipótese distinta da defesa das pessoas jurídicas de direito público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
+ },
+ {
+  "de": "cpp.572",
+  "para": "cpc.278",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 572 do CPP especializa a regra de preclusão do art. 278 do CPC ao definir, para o processo penal, quais nulidades específicas se consideram sanadas quando não arguidas em tempo oportuno, quando praticado o ato por outra forma ou quando a parte aceitar tacitamente seus efeitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
+ },
+ {
+  "de": "lef.6",
+  "para": "cpc.292",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 6º, § 4º, da LEF especializa a regra geral do art. 292, I, do CPC ao fixar o valor da causa na execução fiscal como o da dívida constante da certidão, acrescida dos encargos legais, sem exigir a apuração de juros e penalidades até a data de propositura da ação como faz o CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
+ },
+ {
+  "de": "l9099.15",
+  "para": "cpc.292",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 15 da Lei 9.099/95 especializa, no âmbito dos Juizados Especiais, a regra de cumulação de pedidos do inciso VI do art. 292 do CPC, ao condicionar a soma dos valores pedidos à conexão entre eles e ao limite de alçada previsto para aquele procedimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T11:29:33+00:00"
  }
 ]
