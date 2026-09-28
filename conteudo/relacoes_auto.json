@@ -2218,5 +2218,215 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T14:30:55+00:00"
+ },
+ {
+  "de": "cc.1028",
+  "para": "cpc.600",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 600 disciplina quem pode propor a ação de dissolução parcial de sociedade, inclusive o espólio ou os sucessores do sócio falecido, dando efetividade processual à liquidação da quota prevista no art. 1.028 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.1028",
+  "para": "cpc.599",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 599 define como objeto da ação de dissolução parcial de sociedade a resolução em relação ao sócio falecido e a apuração de seus haveres, regulando processualmente a mesma liquidação de quota tratada pelo art. 1.028 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.1028",
+  "para": "cpc.608",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 608 especifica que integram o valor devido ao espólio ou aos sucessores, até a data da resolução, a participação nos lucros e os juros sobre capital próprio, complementando a disciplina da liquidação da quota do sócio falecido prevista no art. 1.028 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.1028",
+  "para": "cpc.604",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 604 estabelece o procedimento judicial de apuração dos haveres, com fixação da data da resolução, definição do critério de apuração e nomeação de perito, dando efetividade processual à liquidação da quota do sócio falecido de que trata o art. 1.028 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.1029",
+  "para": "cpc.600",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 600, inciso IV, legitima o sócio que exerceu o direito de retirada ou recesso a propor a ação de dissolução parcial quando não formalizada a alteração contratual, dando efetividade processual ao direito assegurado pelo art. 1.029 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.1029",
+  "para": "cpc.601",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 601 disciplina a citação dos sócios e da sociedade na ação de dissolução parcial que veicula o exercício do direito de retirada previsto no art. 1.029 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.1029",
+  "para": "lsa.221",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A LSA, art. 221 assegura direito de retirada ao sócio dissidente na transformação da sociedade em companhia, instituto conexo ao direito de retirada por prazo indeterminado ou justa causa do art. 1.029 do Código Civil, mas sujeito a hipótese e regime próprios, o que gera risco de confusão entre os dois direitos de retirada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.1030",
+  "para": "cpc.599",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 599 inclui a resolução da sociedade em relação ao sócio excluído como objeto da ação de dissolução parcial, dando efetividade processual à exclusão judicial de sócio prevista no art. 1.030 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.1030",
+  "para": "l11101.123",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A Lei 11.101/05, art. 123 disciplina como se apuram, para a massa falida, os haveres do sócio comanditário ou cotista que também for falido, complementando a exclusão de pleno direito do sócio declarado falido prevista no parágrafo único do art. 1.030 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.1077",
+  "para": "lsa.221",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A LSA, art. 221 assegura ao sócio dissidente da transformação em companhia o direito de retirada, instituto conexo ao direito de retirada do sócio que dissentir da fusão ou incorporação previsto no art. 1.077 do Código Civil, mas sujeito a regime societário próprio das sociedades anônimas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.1077",
+  "para": "cpc.609",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 609 disciplina o pagamento dos haveres do sócio retirante segundo o contrato social e, no silêncio deste, segundo o § 2º do art. 1.031, hipótese para a qual remete também o art. 1.077 do Código Civil quando o sócio dissentir da fusão ou incorporação, complementando a disciplina da retirada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.1085",
+  "para": "lcp123.70",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "A LC 123/06, art. 70, § 1º, exclui as microempresas e empresas de pequeno porte da dispensa geral de reuniões e assembleias quando houver hipótese de justa causa que enseje a exclusão de sócio ou atos de inegável gravidade que coloquem em risco a continuidade da empresa, excepcionando essa dispensa exatamente para preservar a deliberação em assembleia exigida pelo art. 1.085 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.1424",
+  "para": "cpc.495",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CPC, art. 495 estabelece que a decisão condenatória ao pagamento de quantia vale como título constitutivo de hipoteca judiciária, instituto distinto da hipoteca convencional cujos requisitos de validade o art. 1.424 do Código Civil disciplina, com risco de confusão entre as duas modalidades por ambas serem chamadas de hipoteca.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.1424",
+  "para": "cpp.135",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CPP, art. 135 disciplina a especialização da hipoteca legal para garantir a responsabilidade civil decorrente de infração penal, modalidade distinta da hipoteca convencional cujos requisitos contratuais são fixados pelo art. 1.424 do Código Civil, com risco de confusão entre hipoteca legal e hipoteca negocial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.171",
+  "para": "cpc.657",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 657, parágrafo único, fixa prazo decadencial de um ano para anular partilha amigável por dolo, coação, erro essencial ou intervenção de incapaz, especializando, para essa hipótese, as causas de anulabilidade do negócio jurídico enumeradas no art. 171 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.171",
+  "para": "cpc.393",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 393 aplica à confissão as causas de anulação por erro de fato ou coação, especializando para esse ato processual as hipóteses gerais de erro e coação como vícios do negócio jurídico previstas no art. 171 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.171",
+  "para": "lsa.286",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A LSA, art. 286 admite ação para anular deliberação assemblear eivada de simulação, quando a simulação é, pela teoria geral do negócio jurídico, causa de nulidade e não de anulabilidade, o que gera risco de confusão com o rol de vícios do art. 171 do Código Civil, que não inclui a simulação entre as hipóteses de anulabilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.171",
+  "para": "l11101.19",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "A Lei 11.101/05, art. 19 permite a exclusão, reclassificação ou retificação de crédito na falência ou na recuperação judicial em razão de dolo, simulação, fraude ou erro essencial, especializando para a verificação de créditos falimentares as causas gerais de invalidade do negócio jurídico referidas no art. 171 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.178",
+  "para": "lsa.232",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "A LSA, art. 232 fixa prazo de sessenta dias para o credor anterior prejudicado pleitear a anulação de incorporação ou fusão, especializando, para essa hipótese societária, o prazo decadencial geral de quatro anos previsto no art. 178 do Código Civil para a anulação do negócio jurídico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.178",
+  "para": "l11101.66-A",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "A Lei 11.101/05, art. 66-A veda a anulação da alienação de bens ou da garantia outorgada a adquirente ou financiador de boa-fé, uma vez autorizada judicialmente e consumada, excepcionando, na recuperação judicial ou extrajudicial, as hipóteses gerais de anulabilidade sujeitas ao prazo do art. 178 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
+ },
+ {
+  "de": "cc.178",
+  "para": "cpc.283",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O CPC, art. 283 trata da anulação de atos processuais por erro de forma, hipótese de invalidade processual distinta da anulação do negócio jurídico por erro, dolo, coação ou os demais vícios do art. 178 do Código Civil, com risco de confusão entre os dois regimes de invalidade pelo uso comum dos termos erro e anulação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T15:23:48+00:00"
  }
 ]
