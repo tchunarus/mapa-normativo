@@ -12076,5 +12076,37 @@
   "url": "https://portal.stf.jus.br/jurisprudencia/obterInteiroTeor.asp?idDocumento=759346670",
   "fonte": "STF, inteiro teor oficial",
   "verificado_em": "2026-09-25"
+ },
+ "stj.tema.1134": {
+  "id": "stj.tema.1134",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "numero": "1134",
+  "titulo": "Tema 1134/STJ",
+  "orgao": "PRIMEIRA SEÇÃO",
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "Diante do disposto no art. 130, parágrafo único, do Código Tributário Nacional, é inválida a previsão em edital de leilão atribuindo responsabilidade ao arrematante pelos débitos tributários que já incidiam sobre o imóvel na data de sua alienação.",
+  "processos": [
+   {
+    "numero": "REsp 1944757",
+    "origem": null,
+    "relator": "TEODORO SILVA SANTOS",
+    "julgado": "2024-10-09",
+    "publicado": null
+   }
+  ],
+  "data": "2024-10-09",
+  "dispositivos": [
+   "ctn.130"
+  ],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101883214&dt_publicacao=24/10/2024",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-09-28",
+  "novo": true,
+  "institutos_auto": [
+   "resp-terceiros"
+  ]
  }
 }

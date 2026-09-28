@@ -8,5 +8,13 @@
   "diplomas": [
    "cp"
   ]
+ },
+ {
+  "data": "2026-09-28T09:55:22+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1134/STJ incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101883214&dt_publicacao=24/10/2024",
+  "p": "stj.tema.1134"
  }
 ]

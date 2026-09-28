@@ -1008,5 +1008,265 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-26T06:11:30+00:00"
+ },
+ {
+  "de": "cc.274",
+  "para": "cpc.1068",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 1.068 do CPC é o dispositivo que deu a redação atualmente vigente ao art. 274 do Código Civil, substituindo o texto anterior sobre os efeitos do julgamento entre credores solidários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cc.274",
+  "para": "ctn.125",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O CTN disciplina de modo próprio os efeitos da solidariedade tributária passiva (pagamento, isenção, remissão e prescrição), regime que prevalece sobre o efeito do julgamento entre credores solidários do art. 274 do Código Civil quando a obrigação for tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cf.157",
+  "para": "d9580.933",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 933 do RIR/2018 regulamenta expressamente o art. 157, I, da Constituição, disciplinando a entrega aos Estados, ao Distrito Federal e aos Municípios do produto do imposto de renda retido na fonte sobre os proventos de seus servidores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cf.157",
+  "para": "ctn.85",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 85, II, do CTN detalha, em nível infraconstitucional, a mesma regra de pertencimento aos Estados e ao Distrito Federal do produto do imposto de renda retido na fonte sobre pagamentos a seus servidores e autarquias, disciplinada pelo art. 157, I, da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cf.157",
+  "para": "ctn.84",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 84 do CTN permite que lei federal atribua aos Estados e ao Distrito Federal o encargo de arrecadar o imposto cujo produto lhes pertence por força do art. 157 da Constituição, complementando o regime constitucional de repartição de receitas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cf.159",
+  "para": "adct.34",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 34 do ADCT, em seu § 1º, dispõe sobre a entrada em vigor da alínea c do inciso I do art. 159 da Constituição, e o § 2º trata da instituição dos Fundos de Participação dos Estados e dos Municípios previstos naquele artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cf.159",
+  "para": "lcp214.477",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 477 da LC 214/2025 institui a compensação, a partir de 2027, de eventual redução dos valores entregues aos Estados e Municípios nos termos do art. 159, I e II, da Constituição, em razão da substituição da arrecadação do IPI pelo Imposto Seletivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cf.159",
+  "para": "lcp87.31",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 31 da LC 87/96 (Lei Kandir) também prevê entrega mensal de recursos da União aos Estados e Municípios, mas cuida de compensação pela desoneração de exportações no ICMS, regime distinto e com fonte de custeio própria, que não deve ser confundido com a repartição constitucional de receitas do art. 159 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cf.212-A",
+  "para": "adct.60",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 60 do ADCT implementa progressivamente a complementação da União ao Fundeb referida nos incisos IV e V do caput do art. 212-A da Constituição, fixando percentuais mínimos anuais até alcançar o patamar constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cf.212-A",
+  "para": "lcp227.122",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 122 da LC 227/2026 opera, no novo regime do IBS, a dedução do percentual destinado ao Fundeb nos termos do inciso II do caput do art. 212-A da Constituição, antes da apuração do Fundo de Combate à Pobreza do Estado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cf.212-A",
+  "para": "adct.76-A",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 76-A do ADCT desvincula parte das receitas dos Estados e do Distrito Federal, mas exclui dessa desvinculação, conforme seu parágrafo único, os recursos destinados à manutenção e ao desenvolvimento do ensino de que trata o art. 212-A da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cf.239",
+  "para": "ec132.20",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 20 da EC 132/2023 disciplina a cobrança transitória da contribuição para o PASEP referida no art. 239 da Constituição, mantendo, até que lei disponha em contrário, a forma de cobrança então vigente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cf.239",
+  "para": "adct.126",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 126 do ADCT determina, a partir de 2027 e mediante a instituição da nova contribuição do art. 195, V, a extinção da contribuição para o Programa de Integração Social de que trata o art. 239 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cf.239",
+  "para": "lcp214.500",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 500 da LC 214/2025 altera a Lei nº 8.019/1990 para destinar ao Fundo de Amparo ao Trabalhador, além de percentual da CBS, a arrecadação da contribuição para o PASEP referida no art. 239 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cpc.178",
+  "para": "cf.129",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 178 do CPC concretiza, no processo civil, as funções institucionais do Ministério Público de zelar pelos direitos assegurados na Constituição e de promover a tutela de interesses difusos e coletivos, previstas no art. 129, II e III, da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cpc.178",
+  "para": "l8078.92",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 92 do CDC torna obrigatória, de forma incondicionada, a intervenção do Ministério Público como fiscal da lei nas ações coletivas de consumo, especializando a regra geral do art. 178 do CPC, que sujeita a intervenção a critérios como o interesse público ou social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cpc.178",
+  "para": "l12016.12",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 12 da Lei do Mandado de Segurança impõe a oitiva obrigatória do Ministério Público em todo mandado de segurança, independentemente dos critérios do art. 178 do CPC, que no processo civil comum condicionam a intervenção à presença de interesse público, social, de incapaz ou de litígio coletivo por terra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cpc.178",
+  "para": "cc.1239",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.239 do Código Civil trata da usucapião especial rural individual, hipótese distinta do litígio coletivo pela posse de terra rural referido no inciso III do art. 178 do CPC, que exige a intervenção do Ministério Público apenas quando a disputa envolver posse coletiva de terra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cpc.178",
+  "para": "cpp.268",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 268 do CPP trata da intervenção do ofendido como assistente do Ministério Público na ação penal pública, situação inversa e distinta daquela do art. 178 do CPC, em que é o próprio Ministério Público quem intervém como fiscal da ordem jurídica no processo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cpc.240",
+  "para": "lef.8",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 8º da Lei de Execução Fiscal disciplina o procedimento específico da citação do executado na execução fiscal, ato ao qual se aplicam os efeitos gerais previstos no art. 240 do CPC, como a constituição em mora e a interrupção da prescrição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cpc.240",
+  "para": "d20910.7",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 7º do Decreto nº 20.910/32 excepciona, nas ações contra a Fazenda Pública, a regra do art. 240, § 1º, do CPC, dispondo que a citação inicial não interrompe a prescrição quando o processo tenha sido anulado por qualquer motivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cpc.240",
+  "para": "cc.405",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 405 do Código Civil fixa que os juros de mora se contam desde a citação inicial, complementando o efeito do art. 240, caput, do CPC, segundo o qual a citação válida constitui em mora o devedor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cpc.256",
+  "para": "l9099.18",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 18 da Lei dos Juizados Especiais excepciona, no rito sumaríssimo, a citação por edital disciplinada pelo art. 256 do CPC, vedando expressamente essa modalidade de citação nesse procedimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cpc.256",
+  "para": "cpp.365",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 365 do CPP estabelece, para o processo penal, requisitos próprios do edital de citação, especializando em relação ao rito criminal o instituto da citação por edital tratado de forma geral pelo art. 256 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cpc.256",
+  "para": "cpp.363",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 363 do CPP determina a citação por edital do acusado não encontrado e o § 4º regula a retomada do processo quando o citado por edital comparece, complementando no processo penal a disciplina geral da citação por edital do art. 256 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "cpc.256",
+  "para": "clt.636",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 2º do art. 636 da CLT prevê notificação por edital ao infrator em lugar incerto e não sabido, ato de natureza administrativa que não se confunde com a citação por edital do processo civil regulada pelo art. 256 do CPC, ainda que ambos sirvam a finalidade semelhante de dar ciência quando o destinatário não é localizado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T09:51:25+00:00"
  }
 ]
