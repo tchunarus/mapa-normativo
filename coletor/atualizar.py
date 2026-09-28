@@ -67,6 +67,9 @@ def etapa_planalto(agora, log, status, completo=False):
     etags = ler('etags.json', {})
     baixados, mudancas, inalterados = {}, 0, set()
     for f in DIPLOMAS:
+        if f.get('automatico') is False:
+            status['Planalto: ' + f['sigla']] = 'fonte com verificação manual, não incluída na coleta automática'
+            continue
         cam = os.path.join(CACHE, f['cache'] + '.htm')
         if f['cache'] not in baixados and f['cache'] not in inalterados and not completo:
             cab = planalto.cabecalho(f['url'])

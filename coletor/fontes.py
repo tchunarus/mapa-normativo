@@ -116,6 +116,13 @@ DIPLOMAS = [
        url=P+'leis/l8212cons.htm', cache='l8212', urn='urn:lex:br:federal:lei:1991-07-24;8212', onda=2),
 ]
 
+# Ondas 4 e 5: legislação estadual (SC) e municipal (Florianópolis, São José). Cada
+# ente novo entra num módulo próprio, porque o formato do portal varia de ente para
+# ente; ver coletor/fontes_estaduais.py e coletor/fontes_municipais.py.
+from fontes_estaduais import DIPLOMAS_ESTADUAIS
+from fontes_municipais import DIPLOMAS_MUNICIPAIS
+DIPLOMAS += DIPLOMAS_ESTADUAIS + DIPLOMAS_MUNICIPAIS
+
 # Normas acompanhadas no DOU: um ato que cite qualquer destes marcadores gera alerta
 # de "alteração publicada, compilação oficial pendente" para o diploma correspondente.
 MARCADORES_DOU = {

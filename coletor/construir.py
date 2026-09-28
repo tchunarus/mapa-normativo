@@ -3,6 +3,7 @@ import json, os, re, sys
 from datetime import datetime, timezone
 sys.path.insert(0, os.path.dirname(__file__))
 import planalto
+import fontes_municipais
 from fontes import DIPLOMAS, ENTES
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -72,10 +73,14 @@ def construir(agora=None):
     todos_ids = set()
     extraidos = {}
     for f in DIPLOMAS:
-        cam = os.path.join(CACHE, f['cache'] + '.htm')
+        ext = '.doc' if f.get('extrator') else '.htm'
+        cam = os.path.join(CACHE, f['cache'] + ext)
         pub = os.path.join(OUT, 'diplomas', f['id'] + '.json')
         if os.path.exists(cam):
-            arts = planalto.extrair(cam, f)
+            if f.get('extrator'):
+                arts = fontes_municipais.EXTRATORES[f['extrator']](cam, f)
+            else:
+                arts = planalto.extrair(cam, f)
         elif os.path.exists(pub):
             arts = json.load(open(pub))['artigos']
             avisos.append(f"Fonte indisponível nesta execução, mantida a última versão publicada: {f['id']}")

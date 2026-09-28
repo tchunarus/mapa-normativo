@@ -651,8 +651,8 @@ function vDisp(id){
   const nodes=edges.map(e=>{const o=e.de===id?e.para:e.de; return {id:o,label:dShort(o),sub:(S.graus[e.grau]||e.grau),href:"#d."+o,side:sideOf(o),cls:e.tipo==="confundivel_com"?"alerta":e.grau,tipo:S.tipos[e.tipo]||e.tipo};});
   const alerts=S.alertas.filter(a=>a.a===id||a.b===id).map(a=>a.id);
   const comps=Object.values(S.comps).filter(c=>c.a===id||c.b===id);
-  const args=[]; Object.values(S.inst).forEach(i=>["fazenda","defesa"].forEach(l=>i.pratica[l].forEach(a=>{ if(a.refs.includes(id)) args.push({lado:l,a}); })));
-  const pr={fazenda:args.filter(x=>x.lado==="fazenda").map(x=>x.a),defesa:args.filter(x=>x.lado==="defesa").map(x=>x.a)};
+  const args=[]; Object.values(S.inst).forEach(i=>(i.pratica||[]).forEach(g=>g.argumentos.forEach(a=>{ if(a.refs.includes(id)) args.push({polo:g.polo,a}); })));
+  const pr=[...new Set(args.map(x=>x.polo))].map(polo=>({polo,argumentos:args.filter(x=>x.polo===polo).map(x=>x.a)}));
   const contros=[]; Object.values(S.inst).forEach(i=>i.controversias.forEach(c=>{ if(c.posicoes.some(p=>p.refs.includes(id))&&!contros.includes(c)) contros.push(c); }));
   const chkIn=Object.values(S.inst).filter(i=>i.checklist.some(c=>c.f===id));
   const norms=[...new Set(d.a.l.map(l=>l[1]).filter(Boolean).flatMap(n=>n.split("; ")))];
