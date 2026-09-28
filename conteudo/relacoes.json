@@ -47,10 +47,11 @@
   {
    "de": "ctn.135",
    "para": "ctn.128",
-   "tipo": "especializa",
+   "tipo": "complementa",
    "grau": "conexo",
-   "porque": "O art. 128 é a cláusula geral de atribuição de responsabilidade a terceiros; o art. 135 é uma de suas hipóteses específicas.",
-   "refs": []
+   "porque": "O art. 128 autoriza a lei a atribuir responsabilidade a terceiro vinculado ao fato gerador sem prejuízo das hipóteses do próprio capítulo, das quais o art. 135 é uma. A diferença é que o art. 135 fixa ele mesmo a responsabilidade pessoal e a condiciona a ato praticado com excesso de poderes ou infração de lei, contrato social ou estatutos.",
+   "refs": [],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "ctn.135",
@@ -79,18 +80,20 @@
   {
    "de": "ctn.135",
    "para": "lsa.158",
-   "tipo": "complementa",
+   "tipo": "confundivel_com",
    "grau": "contato",
-   "porque": "O art. 158 da LSA delimita ato regular de gestão e ato ilícito do administrador de companhia, parâmetro útil para qualificar a conduta do art. 135.",
-   "refs": []
+   "porque": "O art. 158 da LSA afasta a responsabilidade pessoal do administrador por ato regular de gestão e o faz responder civilmente pelos prejuízos quando age com culpa ou dolo ou com violação da lei ou do estatuto. O art. 135 do CTN usa hipótese semelhante, mas trata da responsabilidade pessoal pelo crédito tributário, e não da reparação civil de prejuízos.",
+   "refs": [],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "ctn.135",
    "para": "cc.1052",
    "tipo": "excepciona",
    "grau": "contato",
-   "porque": "A limitação de responsabilidade do sócio da limitada cede diante de ato ilícito do gestor em matéria tributária.",
-   "refs": []
+   "porque": "A limitação da responsabilidade do sócio ao valor das quotas não protege quem, como diretor, gerente ou representante da sociedade limitada, pratica ato com excesso de poderes ou infração de lei, contrato social ou estatutos, pois o art. 135, III, o torna pessoalmente responsável pelo crédito tributário resultante. O sócio sem poderes de gestão continua sujeito à regra do art. 1.052.",
+   "refs": [],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "ctn.135",
@@ -105,10 +108,11 @@
    "para": "ctn.202",
    "tipo": "complementa",
    "grau": "conexo",
-   "porque": "A indicação do corresponsável na CDA desloca o ônus da prova para ele.",
+   "porque": "O inciso I do art. 202 exige que o termo de inscrição da dívida ativa indique o nome do devedor e dos corresponsáveis. É por essa indicação que o responsável do art. 135 passa a constar do termo e da certidão que embasam a execução.",
    "refs": [
     "stj.tema.103"
-   ]
+   ],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "ctn.133",
@@ -227,11 +231,12 @@
    "para": "ctn.173",
    "tipo": "confundivel_com",
    "grau": "conexo",
-   "porque": "São marcos distintos da decadência; a escolha depende de pagamento, declaração e imputação de dolo.",
+   "porque": "Os dois artigos fixam prazo decadencial de cinco anos com termos iniciais distintos: no art. 150, § 4º, conta-se da ocorrência do fato gerador, também no pagamento parcial (§ 6º), e no art. 173, I, do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado. Havendo dolo, fraude ou simulação, o § 5º do art. 150 manda contar o prazo na forma do art. 173, I.",
    "refs": [
     "stj.tema.163",
     "stj.sum.555"
-   ]
+   ],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "ctn.156",
@@ -245,9 +250,10 @@
    "de": "ctn.174",
    "para": "ctn.173",
    "tipo": "confundivel_com",
-   "grau": "contato",
-   "porque": "A decadência corre antes da constituição do crédito; a prescrição, depois.",
-   "refs": []
+   "grau": "conexo",
+   "porque": "A decadência do art. 173 atinge o direito de constituir o crédito e corre antes do lançamento. A prescrição do art. 174 atinge a ação de cobrança e corre da constituição definitiva do crédito.",
+   "refs": [],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "lef.8",
@@ -260,12 +266,13 @@
   {
    "de": "cpc.240",
    "para": "ctn.174",
-   "tipo": "complementa",
+   "tipo": "aplica_subsidiariamente",
    "grau": "conexo",
-   "porque": "A interrupção retroage à data da propositura, com aplicação subsidiária.",
+   "porque": "O § 1º do art. 240 faz retroagir à data da propositura da ação a interrupção da prescrição operada pelo despacho que ordena a citação. O CPC aplica-se na omissão do CTN, que no art. 174, § 1º, I, apenas elege esse despacho como causa interruptiva.",
    "refs": [
     "stj.sum.106"
-   ]
+   ],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "lef.40",
@@ -290,10 +297,11 @@
    "para": "ctn.151",
    "tipo": "confundivel_com",
    "grau": "conexo",
-   "porque": "Garantir a execução não suspende, por si só, a exigibilidade; após a LC 236/2026, a garantia aceita pelo credor pode suspendê-la (art. 151, X).",
+   "porque": "Garantir a execução pelas modalidades do art. 9º não suspende, por si só, a exigibilidade do crédito. Suspendem-na apenas o depósito do montante integral (art. 151, II) e, após a LC 236/2026, a aceitação pelo credor do seguro garantia ou da fiança bancária oferecidos em execução fiscal (art. 151, X), e não a penhora de bens.",
    "refs": [
     "stj.tema.378"
-   ]
+   ],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "ctn.206",
@@ -357,10 +365,11 @@
   {
    "de": "cpc.854",
    "para": "lef.11",
-   "tipo": "complementa",
+   "tipo": "aplica_subsidiariamente",
    "grau": "conexo",
-   "porque": "Operacionaliza a prioridade do dinheiro na ordem da LEF.",
-   "refs": []
+   "porque": "Na execução fiscal, a penhora de dinheiro, primeira na ordem do art. 11, I, da LEF, efetiva-se pelo procedimento do art. 854 do CPC, aplicado subsidiariamente, com a indisponibilidade de ativos financeiros por sistema eletrônico e sua posterior conversão em penhora.",
+   "refs": [],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "lef.7",
@@ -425,13 +434,14 @@
   {
    "de": "cpc.919",
    "para": "lef.16",
-   "tipo": "complementa",
+   "tipo": "aplica_subsidiariamente",
    "grau": "mesmo",
-   "porque": "A LEF não regula o efeito suspensivo dos embargos; aplica-se o art. 919 do CPC, com garantia, relevância e risco de dano.",
+   "porque": "A LEF não regula o efeito suspensivo dos embargos, e por isso se aplica subsidiariamente o art. 919 do CPC, cujo § 1º admite atribuí-lo a requerimento do embargante quando presentes os requisitos da tutela provisória e garantida a execução por penhora, depósito ou caução suficientes.",
    "refs": [
     "stj.tema.526",
     "stf.adi.5165"
-   ]
+   ],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "lef.17",
@@ -444,29 +454,32 @@
   {
    "de": "lef.38",
    "para": "cpc.784",
-   "tipo": "complementa",
+   "tipo": "aplica_subsidiariamente",
    "grau": "conexo",
-   "porque": "O art. 38 da LEF admite a anulatória fora da execução, e o art. 784, § 1º, do CPC esclarece que essa ação não impede a cobrança por si só.",
-   "refs": []
+   "porque": "O art. 38 da LEF admite a ação anulatória fora da execução, e o art. 784, § 1º, do CPC, aplicado subsidiariamente, estabelece que a propositura de ação relativa ao débito constante de título executivo não impede o credor de promover a execução.",
+   "refs": [],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "cpc.55",
    "para": "lef.38",
-   "tipo": "procedimento_de",
+   "tipo": "aplica_subsidiariamente",
    "grau": "conexo",
-   "porque": "O § 2º, I, do art. 55 do CPC prevê a conexão entre a execução e a ação de conhecimento relativa ao mesmo ato jurídico, o que alcança a anulatória.",
-   "refs": []
+   "porque": "O art. 55, § 2º, I, do CPC, aplicado subsidiariamente, estende a conexão à execução de título extrajudicial e à ação de conhecimento relativa ao mesmo ato jurídico, o que alcança a execução fiscal e a ação anulatória admitida pelo art. 38 da LEF.",
+   "refs": [],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "lef.38",
    "para": "ctn.151",
    "tipo": "confundivel_com",
    "grau": "conexo",
-   "porque": "Propor a anulatória não suspende a exigibilidade; a suspensão depende de depósito integral ou tutela provisória, hipóteses do art. 151 do CTN.",
+   "porque": "O art. 38 da LEF prevê a ação anulatória precedida do depósito preparatório do valor do débito, mas a suspensão da exigibilidade decorre das hipóteses do art. 151 do CTN, como o depósito do montante integral (inciso II) ou a liminar ou tutela provisória (inciso V), e não da mera propositura da ação.",
    "refs": [
     "stj.tema.271",
     "stf.sv.28"
-   ]
+   ],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "lef.38",
@@ -531,10 +544,11 @@
   {
    "de": "cpc.866",
    "para": "lef.11",
-   "tipo": "complementa",
+   "tipo": "aplica_subsidiariamente",
    "grau": "conexo",
-   "porque": "A LEF admite, excepcionalmente, penhora sobre o estabelecimento (art. 11, § 1º); o CPC regula a penhora de percentual do faturamento.",
-   "refs": []
+   "porque": "A LEF não disciplina a penhora de faturamento e admite apenas, excepcionalmente, a penhora sobre estabelecimento comercial, industrial ou agrícola (art. 11, § 1º); na execução fiscal, aplica-se subsidiariamente o art. 866 do CPC, que regula a penhora de percentual do faturamento de empresa.",
+   "refs": [],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "cpc.46",
@@ -581,12 +595,13 @@
   {
    "de": "lef.26",
    "para": "cpc.85",
-   "tipo": "complementa",
-   "grau": "contato",
-   "porque": "O cancelamento da inscrição antes da sentença extingue a execução sem ônus, mas a desistência após os embargos mantém os encargos de sucumbência.",
+   "tipo": "excepciona",
+   "grau": "conexo",
+   "porque": "O art. 26 da LEF prevê a extinção da execução fiscal sem ônus para as partes quando a inscrição é cancelada antes da decisão de primeira instância, o que excepciona a regra do art. 85 do CPC de que o vencido paga honorários ao advogado do vencedor, inclusive na execução (§ 1º).",
    "refs": [
     "stj.sum.153"
-   ]
+   ],
+   "revisado_em": "2026-09-28T21:56:24+00:00"
   },
   {
    "de": "l10522.20",
@@ -606,7 +621,7 @@
   "excepciona": "Excepciona",
   "remete_a": "Remete a",
   "regulamenta": "Regulamenta",
- "aplica_subsidiariamente": "Aplica-se subsidiariamente",
+  "aplica_subsidiariamente": "Aplica-se subsidiariamente",
   "altera": "Alterou",
   "conflito_aparente": "Conflito aparente",
   "confundivel_com": "Confundível com"

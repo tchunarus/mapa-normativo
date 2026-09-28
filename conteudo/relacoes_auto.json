@@ -1,23 +1,14 @@
 [
  {
-  "de": "cc.406",
-  "para": "l10522.30",
-  "tipo": "confundivel_com",
-  "grau": "conexo",
-  "porque": "Os dois dispositivos prevêem juros calculados pela taxa Selic, mas em bases distintas: o art. 406 do Codigo Civil fixa a taxa legal civil descontado o indice de atualizacao monetaria do art. 389, enquanto o art. 30 da Lei 10.522/02 aplica a Selic cheia, que ja embute correcao monetaria, aos debitos inscritos em divida ativa da Uniao.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-25T19:24:42+00:00"
- },
- {
   "de": "lsa.99",
   "para": "cc.1016",
-  "tipo": "especializa",
-  "grau": "conexo",
-  "porque": "O art. 99 da LSA impõe aos primeiros administradores da companhia responsabilidade solidária por atraso no cumprimento das formalidades complementares à constituição, hipótese específica de responsabilidade por culpa no exercício da função, tema geral tratado pelo art. 1.016 do Código Civil.",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos preveem responsabilidade solidária de administradores, mas o art. 99 da LSA restringe-se aos primeiros administradores da companhia, perante ela, pelos prejuízos causados pela demora nas formalidades complementares à constituição, enquanto o art. 1.016 do Código Civil trata da responsabilidade dos administradores perante a sociedade e os terceiros prejudicados por culpa no desempenho de suas funções.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T19:50:54+00:00"
+  "em": "2026-09-25T19:50:54+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "clt.10-A",
@@ -64,20 +55,22 @@
   "para": "cc.202",
   "tipo": "complementa",
   "grau": "mesmo",
-  "porque": "O art. 802 do CPC detalha, no âmbito da execução, a interrupção da prescrição pelo despacho que ordena a citação prevista no inciso I do art. 202 do Código Civil, acrescentando que a interrupção retroage à data da propositura da ação, regra próxima mas não idêntica à do art. 240 do CPC.",
+  "porque": "O art. 802 do CPC aplica à execução a interrupção da prescrição pelo despacho que ordena a citação, prevista no art. 202, I, do Código Civil, desde que observado o § 2º do art. 240 do CPC, e determina que a interrupção retroaja à data de propositura da ação.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T19:50:54+00:00"
+  "em": "2026-09-25T19:50:54+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "l8036.13",
   "para": "cc.406",
   "tipo": "confundivel_com",
   "grau": "contato",
-  "porque": "O art. 13 da Lei 8.036/1990 fixa índice de correção monetária e juros próprios para os depósitos do FGTS, distintos da taxa legal Selic do art. 406 do Código Civil, o que pode gerar confusão quando se pretende aplicar a taxa legal civil a débitos fundiários.",
+  "porque": "O art. 13 da Lei 8.036/1990 fixa a remuneração dos depósitos nas contas vinculadas do FGTS, com correção pelos parâmetros da poupança e juros de 3% ao ano, ao passo que o art. 406 do Código Civil define a taxa legal de juros, correspondente à Selic deduzida a atualização monetária, aplicável quando os juros não forem convencionados ou provierem de determinação da lei.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T19:50:54+00:00"
+  "em": "2026-09-25T19:50:54+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "l13874.7",
@@ -134,30 +127,33 @@
   "para": "lcp214.15",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "Os dois dispositivos tratam da alocação, entre entes federativos, de tributo incidente sobre operações interestaduais a consumidor final, mas o art. 99 do ADCT rege regra transitória e exclusiva do ICMS, partilhando a arrecadação entre origem e destino de 2015 a 2019, enquanto o art. 15 da LC 214/2025 fixa a alíquota do IBS integralmente pela soma das alíquotas do Estado e do Município de destino, sem partilha com a origem.",
+  "porque": "Ambos destinam ao ente de destino tributo sobre o consumo, mas o art. 99 do ADCT é regra transitória do ICMS que partilhou o diferencial de alíquota nas operações destinadas a consumidor final não contribuinte em outro Estado, com percentuais progressivos até 100% para o destino a partir de 2019, enquanto o art. 15 da LC 214/2025 fixa a alíquota do IBS de toda operação pela soma das alíquotas do Estado e do Município de destino.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
+  "em": "2026-09-25T20:12:05+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "adct.99",
   "para": "lcp227.109",
   "tipo": "confundivel_com",
-  "grau": "conexo",
-  "porque": "Ambos os dispositivos estabelecem cronogramas percentuais graduais de repartição de arrecadação tributária entre entes federativos ao longo de anos determinados, mas o art. 99 do ADCT trata da partilha do diferencial de alíquota do ICMS entre 2015 e 2019, ao passo que o art. 109 da LC 227/2026 disciplina a retenção de parcela da arrecadação do IBS entre 2029 e 2077 no período de transição para o novo imposto.",
+  "grau": "contato",
+  "porque": "Ambos fixam cronogramas percentuais anuais aplicados à arrecadação tributária de entes federativos, mas o art. 99 do ADCT partilhou o diferencial de alíquota do ICMS entre os Estados de origem e de destino, com 100% para o destino a partir de 2019, ao passo que o art. 109 da LC 227/2026 determina a retenção de parcela do produto da arrecadação do IBS destinada a cada ente, de 2029 a 2077.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
+  "em": "2026-09-25T20:12:05+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cf.212",
   "para": "adct.76",
   "tipo": "excepciona",
-  "grau": "mesmo",
+  "grau": "conexo",
   "porque": "O art. 76 do ADCT desvincula 30% da arrecadação da União relativa a contribuições sociais, mas seu § 2º excetua expressamente a arrecadação do salário-educação a que se refere o § 5º do art. 212 da Constituição, preservando a vinculação de recursos ao ensino ali estabelecida.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
+  "em": "2026-09-25T20:12:05+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cf.212",
@@ -174,20 +170,22 @@
   "para": "adct.76-B",
   "tipo": "excepciona",
   "grau": "conexo",
-  "porque": "O art. 76-B do ADCT desvincula receitas dos Municípios relativas a impostos, contribuições, taxas e multas, mas a mesma lógica de ressalva aos recursos vinculados ao ensino do art. 212 da Constituição se aplica a essa desvinculação municipal.",
+  "porque": "O inciso I do § 1º do art. 76-B do ADCT excetua expressamente da desvinculação das receitas municipais os recursos destinados à manutenção e ao desenvolvimento do ensino de que trata o art. 212 da Constituição, de modo que a aplicação mínima no ensino prevalece sobre a desvinculação.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
+  "em": "2026-09-25T20:12:05+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cf.212",
   "para": "lcp227.170",
   "tipo": "confundivel_com",
-  "grau": "conexo",
-  "porque": "O art. 170 da LC 227/2026 altera a LC 141/2012 para fixar piso mínimo de 12% da arrecadação de impostos para ações e serviços públicos de saúde, regime de vinculação orçamentária mínima análogo ao piso de 25% para manutenção e desenvolvimento do ensino do art. 212 da Constituição, mas aplicável a área e percentual distintos.",
+  "grau": "contato",
+  "porque": "O art. 170 da LC 227/2026 altera os arts. 6º e 7º da LC 141/2012 para fixar a aplicação mínima em ações e serviços públicos de saúde em 12% para os Estados e o Distrito Federal e em 15% para os Municípios e o Distrito Federal, pisos análogos, mas distintos, da aplicação mínima de receita de impostos na manutenção e no desenvolvimento do ensino prevista no art. 212 da Constituição.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
+  "em": "2026-09-25T20:12:05+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "clt.10-A",
@@ -234,20 +232,22 @@
   "para": "lsa.269",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O art. 269 da Lei das S.A. disciplina o grupo de sociedades formalmente constituído por convenção registrada, distinto do grupo econômico trabalhista de que tratam os §§ 2º e 3º do art. 2º da CLT, que independe de qualquer formalização e se caracteriza pela direção, controle ou comunhão de interesses entre as empresas.",
+  "porque": "O art. 269 da Lei das S.A. disciplina o grupo de sociedades constituído por convenção aprovada pelas sociedades que o componham, com o conteúdo mínimo previsto em seus incisos I a VIII, distinto do grupo econômico trabalhista dos §§ 2º e 3º do art. 2º da CLT, cuja configuração não depende de convenção e exige a demonstração do interesse integrado, da efetiva comunhão de interesses e da atuação conjunta das empresas.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
+  "em": "2026-09-25T20:12:05+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "clt.2",
   "para": "l11101.69-J",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O art. 69-J da Lei 11.101/05 trata da consolidação substancial de ativos e passivos de empresas do mesmo grupo econômico em recuperação judicial, hipótese que exige interconexão e confusão patrimonial comprovadas, distinta da solidariedade trabalhista automática entre integrantes de grupo econômico prevista no art. 2º da CLT.",
+  "porque": "O art. 69-J da Lei 11.101/2005 autoriza, de forma excepcional, a consolidação substancial de ativos e passivos de devedores do mesmo grupo econômico em recuperação judicial, desde que constatadas a interconexão e a confusão entre ativos ou passivos e ao menos duas das hipóteses de seus incisos, instituto distinto da responsabilidade solidária pelas obrigações trabalhistas dos integrantes de grupo econômico prevista no § 2º do art. 2º da CLT.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
+  "em": "2026-09-25T20:12:05+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "clt.795",
@@ -270,44 +270,26 @@
   "em": "2026-09-25T20:12:05+00:00"
  },
  {
-  "de": "clt.795",
-  "para": "cpp.567",
-  "tipo": "confundivel_com",
-  "grau": "conexo",
-  "porque": "O art. 567 do CPP adota solução idêntica à dos §§ 1º e 2º do art. 795 da CLT quanto à incompetência do juízo, restringindo a nulidade aos atos decisórios e determinando a remessa dos autos ao juízo competente, mas em regime processual penal autônomo, o que pode levar à aplicação equivocada de um diploma pelo outro.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
- },
- {
-  "de": "clt.795",
-  "para": "l9307.20",
-  "tipo": "confundivel_com",
-  "grau": "contato",
-  "porque": "O art. 20 da Lei de Arbitragem exige que a parte argua nulidade, invalidade ou ineficácia da convenção de arbitragem na primeira oportunidade de se manifestar, princípio de preclusão semelhante ao do art. 795 da CLT, mas aplicado a vícios próprios do juízo arbitral, de natureza extrajudicial.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
- },
- {
   "de": "cp.117",
   "para": "d20910.9",
-  "tipo": "conflito_aparente",
-  "grau": "conexo",
-  "porque": "Enquanto o § 2º do art. 117 do CP determina que, interrompida a prescrição penal, todo o prazo recomeça a correr integralmente, o art. 9º do Decreto 20.910/32 prevê que a prescrição interrompida contra a Fazenda Pública recomeça a correr pela metade do prazo, solução distinta que pode ser confundida se aplicada fora do contexto das dívidas da Fazenda.",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 2º do art. 117 do Código Penal determina que, interrompida a prescrição, salvo a hipótese do inciso V, todo o prazo recomece a correr do dia da interrupção, ao passo que o art. 9º do Decreto 20.910/1932 prevê que a prescrição interrompida recomeça a correr pela metade do prazo. As soluções distintas para o reinício da contagem podem ser confundidas, embora cada regra se restrinja ao seu regime.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
+  "em": "2026-09-25T20:12:05+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cp.117",
   "para": "cc.204",
-  "tipo": "conflito_aparente",
+  "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O art. 204 do Código Civil estabelece, como regra geral, que a interrupção da prescrição não aproveita nem prejudica os demais coobrigados, ao passo que o § 1º do art. 117 do CP prevê a extensão automática da interrupção a todos os autores do crime nos crimes conexos julgados no mesmo processo, solução oposta à do regime civil geral.",
+  "porque": "O § 1º do art. 117 do Código Penal estende a interrupção da prescrição a todos os autores do crime, salvo nos casos dos incisos V e VI, e, nos crimes conexos objeto do mesmo processo, aos demais crimes, ao passo que o caput do art. 204 do Código Civil dispõe que a interrupção operada contra um codevedor não prejudica os demais coobrigados, ressalvada a extensão aos devedores solidários prevista em seu § 1º.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
+  "em": "2026-09-25T20:12:05+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cp.117",
@@ -342,22 +324,13 @@
  {
   "de": "cpc.1010",
   "para": "l9099.42",
-  "tipo": "especializa",
-  "grau": "mesmo",
-  "porque": "O art. 42 da Lei 9.099/95 disciplina o recurso inominado dos Juizados Especiais Cíveis, que cumpre função equivalente à apelação e ao qual se aplicam subsidiariamente os requisitos e o regime de contrarrazões do art. 1.010 do CPC, naquilo que a lei especial não dispuser de modo diverso.",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 42 da Lei 9.099/1995 regula o recurso dos Juizados Especiais Cíveis com regras próprias de prazo, preparo (§ 1º) e resposta (§ 2º), de modo que o art. 1.010 do Código de Processo Civil, relativo à apelação, só se aplica naquilo em que a lei especial for omissa.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
- },
- {
-  "de": "cpc.1015",
-  "para": "clt.855-A",
-  "tipo": "excepciona",
-  "grau": "mesmo",
-  "porque": "Enquanto o inciso IV do art. 1.015 do CPC admite agravo de instrumento imediato contra a decisão que resolve o incidente de desconsideração da personalidade jurídica, o art. 855-A da CLT restringe a recorribilidade imediata dessa mesma decisão no processo do trabalho, tornando-a agravável apenas na fase de execução.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
+  "em": "2026-09-25T20:12:05+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.1015",
@@ -384,70 +357,55 @@
   "para": "l11101.17",
   "tipo": "complementa",
   "grau": "mesmo",
-  "porque": "O parágrafo único do art. 17 da Lei 11.101/05 prevê o cabimento de agravo contra a decisão sobre impugnação de crédito na recuperação judicial ou falência, hipótese legal que também se enquadra no inciso XIII do art. 1.015 do CPC.",
+  "porque": "O caput do art. 17 da Lei 11.101/2005 prevê o cabimento de agravo contra a decisão judicial sobre a impugnação, hipótese legal específica que se enquadra no inciso XIII do art. 1.015 do Código de Processo Civil.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
- },
- {
-  "de": "cpc.1015",
-  "para": "l9099.10",
-  "tipo": "excepciona",
-  "grau": "conexo",
-  "porque": "O art. 10 da Lei 9.099/95 veda, no processo dos Juizados Especiais Cíveis, qualquer forma de intervenção de terceiro, afastando por completo a hipótese de decisão agravável prevista no inciso IX do art. 1.015 do CPC quanto à admissão ou inadmissão dessa modalidade de intervenção.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-25T20:12:05+00:00"
+  "em": "2026-09-25T20:12:05+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "adct.76",
   "para": "cf.195",
-  "tipo": "complementa",
+  "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O art. 76 do ADCT disciplina a desvinculação parcial da arrecadação da União relativa às contribuições sociais que o art. 195 da CF institui para financiar a seguridade social, complementando o quadro constitucional de financiamento sem alterar a natureza das contribuições.",
+  "porque": "O art. 76 do ADCT desvincula 30% da arrecadação da União relativa às contribuições sociais, mas seu § 4º afasta a desvinculação das receitas das contribuições sociais destinadas ao custeio da seguridade social, previstas no art. 195 da Constituição. Há risco de se supor que a desvinculação alcança essas contribuições, o que o texto vigente exclui.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T21:27:37+00:00"
- },
- {
-  "de": "adct.76",
-  "para": "l8212.11",
-  "tipo": "excepciona",
-  "grau": "contato",
-  "porque": "O art. 76 do ADCT ressalva que a desvinculação de 30% não prejudica o pagamento das despesas do Regime Geral de Previdência Social, preservando parte da destinação das receitas do orçamento da Seguridade Social discriminadas no art. 11 da Lei 8.212/91.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-25T21:27:37+00:00"
+  "em": "2026-09-25T21:27:37+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "ec132.2",
   "para": "adct.76-A",
   "tipo": "altera",
   "grau": "mesmo",
-  "porque": "O art. 2º da Emenda Constitucional 132/2023 é o dispositivo que introduziu o art. 76-A no Ato das Disposições Constitucionais Transitórias, com o mesmo texto hoje vigente.",
+  "porque": "O art. 2º da Emenda Constitucional 132/2023 deu nova redação ao caput do art. 76-A do ADCT, que desvincula até 31 de dezembro de 2032 30% das receitas dos Estados e do Distrito Federal; o parágrafo único, com as exceções à desvinculação, provém da Emenda Constitucional 93/2016.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T21:27:37+00:00"
+  "em": "2026-09-25T21:27:37+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "adct.76-A",
   "para": "cf.198",
   "tipo": "excepciona",
   "grau": "contato",
-  "porque": "O inciso I do parágrafo único do art. 76-A do ADCT excetua da desvinculação os recursos destinados às ações e aos serviços públicos de saúde de que trata o inciso II do § 2º do art. 198 da Constituição Federal.",
+  "porque": "O inciso I do parágrafo único do art. 76-A do ADCT excetua da desvinculação das receitas estaduais e distritais os recursos destinados às ações e aos serviços públicos de saúde de que tratam os incisos II e III do § 2º do art. 198 da Constituição Federal.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T21:27:37+00:00"
+  "em": "2026-09-25T21:27:37+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "ec132.2",
   "para": "adct.76-B",
   "tipo": "altera",
   "grau": "mesmo",
-  "porque": "O art. 2º da Emenda Constitucional 132/2023 é o dispositivo que introduziu o art. 76-B no Ato das Disposições Constitucionais Transitórias, com o mesmo texto hoje vigente.",
+  "porque": "O art. 2º da Emenda Constitucional 132/2023 deu nova redação ao caput do art. 76-B do ADCT, texto depois substituído pela Emenda Constitucional 136/2025, que fixou os percentuais de desvinculação de 50% até 2026 e de 30% de 2027 a 2032 e incluiu as contribuições entre as receitas desvinculadas.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T21:27:37+00:00"
+  "em": "2026-09-25T21:27:37+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "adct.76-B",
@@ -460,24 +418,15 @@
   "em": "2026-09-25T21:27:37+00:00"
  },
  {
-  "de": "l11101.81",
-  "para": "cc.1003",
-  "tipo": "especializa",
-  "grau": "conexo",
-  "porque": "O § 1º do art. 81 da Lei 11.101/2005 estende à falência o mesmo prazo de dois anos do art. 1.003 do CC, tornando extensiva a quebra da sociedade ao sócio que se retirou ou foi excluído dentro desse período, quanto às dívidas existentes na data do arquivamento da alteração contratual.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-25T21:27:37+00:00"
- },
- {
   "de": "cpc.605",
   "para": "cc.1032",
-  "tipo": "regulamenta",
-  "grau": "mesmo",
-  "porque": "O art. 605 do CPC regulamenta processualmente o marco temporal da resolução da sociedade que o art. 1.032 do CC usa como referência para contar os prazos de responsabilidade do sócio retirante, excluído ou falecido.",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 605 do Código de Processo Civil fixa a data da resolução da sociedade em relação ao sócio falecido, retirante ou excluído, enquanto o art. 1.032 do Código Civil conta a responsabilidade desse sócio pelas obrigações sociais a partir da averbação da resolução, marco distinto que não se confunde com a data fixada no Código de Processo Civil.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-25T21:27:37+00:00"
+  "em": "2026-09-25T21:27:37+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "l11101.81",
@@ -495,16 +444,6 @@
   "tipo": "especializa",
   "grau": "mesmo",
   "porque": "O inciso III do art. 125 do CTN especializa, para as obrigações tributárias solidárias, a mesma regra do art. 204 do CC segundo a qual a interrupção da prescrição em favor ou contra um dos obrigados solidários favorece ou prejudica os demais.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-25T21:27:37+00:00"
- },
- {
-  "de": "cpc.1005",
-  "para": "cc.204",
-  "tipo": "complementa",
-  "grau": "conexo",
-  "porque": "O art. 1.005 do CPC complementa, no plano recursal, a lógica de aproveitamento entre devedores solidários do art. 204 do CC, prevendo que o recurso interposto por um dos litisconsortes solidários aproveita aos demais quando as defesas opostas ao credor lhes forem comuns.",
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-25T21:27:37+00:00"
@@ -583,11 +522,12 @@
   "de": "cc.1052",
   "para": "cpc.795",
   "tipo": "procedimento_de",
-  "grau": "mesmo",
-  "porque": "O art. 795 do CPC disciplina, no plano processual da execução, a mesma regra de limitação patrimonial estabelecida pelo art. 1.052 do CC, ao prever que os bens particulares dos sócios não respondem pelas dívidas da sociedade, salvo os casos previstos em lei.",
+  "grau": "conexo",
+  "porque": "O art. 795 do CPC estabelece, no plano da execução, que os bens particulares dos sócios não respondem pelas dívidas da sociedade, salvo nos casos previstos em lei, regra geral que alcança a limitação de responsabilidade da sociedade limitada. O art. 1.052 do Código Civil, por sua vez, restringe a responsabilidade de cada sócio ao valor de suas quotas e impõe a todos solidariedade pela integralização do capital social.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T01:16:45+00:00"
+  "em": "2026-09-26T01:16:45+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.168",
@@ -612,12 +552,13 @@
  {
   "de": "cc.202",
   "para": "cp.117",
-  "tipo": "especializa",
-  "grau": "mesmo",
-  "porque": "O art. 117 do CP disciplina de modo autônomo a interrupção da prescrição penal, com causas específicas, como o recebimento da denúncia e a pronúncia, que nada têm em comum com as hipóteses civis do art. 202 do CC, exceto o pertencimento ao mesmo instituto geral da interrupção da prescrição.",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 202 do Código Civil admite uma única interrupção da prescrição civil, por causas como o despacho que ordena a citação e o protesto, enquanto o art. 117 do Código Penal prevê causas próprias de interrupção da prescrição penal, como o recebimento da denúncia ou da queixa e a pronúncia, sem essa limitação. Pelo § 2º do art. 117, interrompida a prescrição, todo o prazo recomeça do dia da interrupção, salvo na hipótese do inciso V.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T01:16:45+00:00"
+  "em": "2026-09-26T01:16:45+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.202",
@@ -634,30 +575,33 @@
   "para": "cpc.240",
   "tipo": "procedimento_de",
   "grau": "mesmo",
-  "porque": "O art. 240 do CPC disciplina o modo processual pelo qual se opera a interrupção da prescrição prevista no inciso I do art. 202 do CC, esclarecendo que o efeito retroage à data de propositura da ação e que a citação, ainda que ordenada por juízo incompetente, produz esse efeito.",
+  "porque": "O § 1º do art. 240 do CPC disciplina o efeito processual da interrupção da prescrição prevista no inciso I do art. 202 do Código Civil, ao determinar que a interrupção operada pelo despacho que ordena a citação, ainda que proferido por juízo incompetente, retroage à data de propositura da ação. O § 2º condiciona esse efeito retroativo à adoção, pelo autor, das providências necessárias para viabilizar a citação no prazo de 10 dias.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T01:16:45+00:00"
+  "em": "2026-09-26T01:16:45+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.202",
   "para": "l9492.9",
   "tipo": "complementa",
   "grau": "conexo",
-  "porque": "O art. 9º da Lei 9.492/97 complementa o inciso II do art. 202 do CC ao disciplinar o procedimento do protesto perante o tabelião, esclarecendo que este examina apenas os caracteres formais do título, sem investigar a ocorrência de prescrição, o que não impede que o protesto assim lavrado produza o efeito interruptivo previsto no Código Civil.",
+  "porque": "O art. 9º da Lei 9.492/97 complementa o inciso III do art. 202 do Código Civil, que prevê a interrupção da prescrição pelo protesto cambial, ao disciplinar o exame do título pelo Tabelião de Protesto, limitado aos caracteres formais. O dispositivo esclarece que não cabe ao tabelião investigar a ocorrência de prescrição ou caducidade.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T01:16:45+00:00"
+  "em": "2026-09-26T01:16:45+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.50",
   "para": "l8078.28",
   "tipo": "conflito_aparente",
   "grau": "mesmo",
-  "porque": "O art. 28 do CDC autoriza a desconsideração da personalidade jurídica em hipóteses mais amplas que as do art. 50 do CC, como má administração, encerramento ou inatividade da pessoa jurídica, sem exigir cumulativamente desvio de finalidade ou confusão patrimonial. O aparente conflito se resolve pela especialidade, aplicando-se a teoria menor do CDC às relações de consumo e a teoria maior do CC às demais relações.",
+  "porque": "O art. 28 do CDC autoriza a desconsideração da personalidade jurídica em hipóteses mais amplas que as do art. 50 do Código Civil, como excesso de poder, infração da lei e falência, insolvência, encerramento ou inatividade provocados por má administração, sem exigir desvio de finalidade ou confusão patrimonial. O conflito aparente resolve-se pela especialidade: aplica-se o art. 28 do CDC às relações de consumo e o art. 50 do Código Civil às demais relações.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T01:16:45+00:00"
+  "em": "2026-09-26T01:16:45+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.50",
@@ -674,10 +618,11 @@
   "para": "l14133.160",
   "tipo": "especializa",
   "grau": "mesmo",
-  "porque": "O art. 160 da Lei 14.133/21 reproduz, para as licitações e contratos administrativos, o mesmo critério de desconsideração por abuso do direito ou confusão patrimonial adotado pela Lei Anticorrupção, especializando o instituto do art. 50 do CC para estender os efeitos das sanções aos administradores, sócios e a empresas coligadas do sancionado.",
+  "porque": "O art. 160 da Lei 14.133/21 especializa, para licitações e contratos administrativos, a desconsideração do art. 50 do Código Civil, adotando como critério o abuso do direito para facilitar, encobrir ou dissimular os ilícitos daquela lei ou para provocar confusão patrimonial. Os efeitos das sanções estendem-se aos administradores e sócios com poderes de administração, à pessoa jurídica sucessora e à empresa do mesmo ramo com relação de coligação ou controle com o sancionado, observada a análise jurídica prévia.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T01:16:45+00:00"
+  "em": "2026-09-26T01:16:45+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.50",
@@ -774,20 +719,22 @@
   "para": "adct.133",
   "tipo": "complementa",
   "grau": "mesmo",
-  "porque": "O art. 133 do ADCT complementa o art. 195 da CF ao disciplinar a transição das contribuições previstas no inciso I, alínea \"b\", e no inciso IV do caput daquele artigo para a nova contribuição sobre bens e serviços, de que trata o inciso V, excluindo-as da base de cálculo desta.",
+  "porque": "O art. 133 do ADCT exclui da base de cálculo da contribuição do inciso V do art. 195 da Constituição Federal, entre outros tributos, as contribuições do inciso I, alínea \"b\", e do inciso IV do mesmo artigo. O § 17 do art. 195 estabelece a regra inversa, pela qual a contribuição do inciso V não integra a base de cálculo dessas contribuições.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T01:16:45+00:00"
+  "em": "2026-09-26T01:16:45+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cf.198",
   "para": "lcp227.170",
   "tipo": "regulamenta",
   "grau": "mesmo",
-  "porque": "O art. 170 da LC 227/2026, ao alterar o art. 6º da LC 141/2012, regulamenta o percentual mínimo de 12% que Estados e Distrito Federal devem aplicar anualmente em ações e serviços públicos de saúde, dando cumprimento ao piso estabelecido pelo art. 198, §2º, II, da CF.",
+  "porque": "O art. 170 da LC 227/2026, ao alterar o art. 6º da LC 141/2012, fixa em 12% o percentual mínimo que Estados e Distrito Federal devem aplicar anualmente em ações e serviços públicos de saúde, matéria que o art. 198, § 3º, I, da Constituição Federal reserva à lei complementar. A base adotada corresponde à do § 2º, II, do art. 198, incluída a receita do imposto do art. 156-A.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T01:16:45+00:00"
+  "em": "2026-09-26T01:16:45+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cf.198",
@@ -804,40 +751,33 @@
   "para": "adct.77",
   "tipo": "complementa",
   "grau": "mesmo",
-  "porque": "O art. 77 do ADCT fixou, em caráter transitório até o exercício financeiro de 2004, os percentuais mínimos de recursos a serem aplicados em ações e serviços públicos de saúde, matéria hoje disciplinada de modo permanente pelos §§2º e 3º do art. 198 da CF.",
+  "porque": "O art. 77 do ADCT fixou os recursos mínimos a serem aplicados em ações e serviços públicos de saúde até o exercício financeiro de 2004 e, pelo § 4º, estendeu essa regra a partir de 2005 enquanto ausente a lei complementar do art. 198, § 3º, da Constituição Federal. O art. 198 disciplina a matéria de modo permanente nos §§ 2º e 3º, remetendo à lei complementar os percentuais de Estados, Distrito Federal e Municípios.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T01:16:45+00:00"
- },
- {
-  "de": "adct.133",
-  "para": "lcp214.1",
-  "tipo": "remete_a",
-  "grau": "mesmo",
-  "porque": "O art. 133 do ADCT exclui da base de cálculo do imposto de que trata o art. 156-A e da contribuição de que trata o art. 195, V, os tributos que enumera, e o art. 1º da LC 214/2025 é o dispositivo que institui exatamente esses dois tributos, o IBS no inciso I e a CBS no inciso II, ambos referidos aos mesmos artigos constitucionais.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-26T06:11:30+00:00"
+  "em": "2026-09-26T01:16:45+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "adct.133",
   "para": "cf.239",
   "tipo": "remete_a",
-  "grau": "mesmo",
-  "porque": "O art. 133 do ADCT determina que a contribuição para o Programa de Integração Social, de que trata o art. 239 da Constituição Federal, não integra a base de cálculo do IBS e da CBS, remetendo diretamente a esse dispositivo constitucional.",
+  "grau": "contato",
+  "porque": "O art. 133 do ADCT determina que a contribuição para o Programa de Integração Social, de que trata o art. 239 da Constituição Federal, não integra a base de cálculo do IBS e da CBS, remetendo diretamente a esse dispositivo. O art. 239 disciplina a destinação da arrecadação dessa contribuição, matéria distinta da base de cálculo dos novos tributos.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T06:11:30+00:00"
+  "em": "2026-09-26T06:11:30+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "adct.133",
   "para": "lcp214.12",
-  "tipo": "excepciona",
+  "tipo": "regulamenta",
   "grau": "mesmo",
-  "porque": "O art. 12 da LC 214/2025 define a regra geral da base de cálculo do IBS e da CBS como o valor da operação, e o art. 133 do ADCT excepciona essa base geral ao excluir dela os tributos antigos que enumera.",
+  "porque": "O § 2º do art. 12 da LC 214/2025 dá cumprimento ao art. 133 do ADCT ao excluir da base de cálculo do IBS e da CBS o IPI, no inciso II, e, no inciso V, os tributos dos arts. 155, II, 156, III, e 195, I, \"b\", e IV, e a contribuição para o PIS/Pasep do art. 239 da Constituição Federal. A exclusão do inciso V vale de 1º de janeiro de 2026 a 31 de dezembro de 2032, limite temporal ausente no texto do art. 133.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T06:11:30+00:00"
+  "em": "2026-09-26T06:11:30+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "adct.133",
@@ -854,40 +794,44 @@
   "para": "ec132.22",
   "tipo": "complementa",
   "grau": "conexo",
-  "porque": "O art. 22 da EC 132/2023 complementa o desenho transitório ao determinar a revogação, em 2027, do art. 195, I, \"b\", e IV, da Constituição Federal, exatamente os tributos que o art. 133 do ADCT já exclui da base de cálculo do IBS e da CBS enquanto vigentes.",
+  "porque": "O art. 22 da EC 132/2023 determina a revogação, em 2027, do art. 195, I, \"b\", e IV, e, em 2033, dos arts. 155, II, e 156, III, da Constituição Federal, tributos que o art. 133 do ADCT exclui da base de cálculo do IBS e da CBS enquanto vigentes. Os dois dispositivos integram o regime de transição da reforma tributária: um fixa o fim desses tributos e o outro regula sua relação com os novos.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T06:11:30+00:00"
+  "em": "2026-09-26T06:11:30+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "adct.77",
   "para": "cf.159",
   "tipo": "remete_a",
-  "grau": "mesmo",
-  "porque": "Os incisos II e III do art. 77 do ADCT calculam os recursos mínimos de saúde com base nos recursos de que tratam o art. 159, inciso I, alíneas \"a\" e \"b\", e inciso II, da Constituição Federal, remetendo diretamente a esse dispositivo.",
+  "grau": "contato",
+  "porque": "O inciso II do art. 77 do ADCT inclui, na base dos recursos mínimos de saúde, os recursos do art. 159, I, \"a\", e II, e o inciso III inclui os do art. 159, I, \"b\", e § 3º, da Constituição Federal, remetendo diretamente a esse dispositivo. O art. 159 disciplina a entrega de receitas pela União, matéria distinta da vinculação mínima de recursos à saúde.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T06:11:30+00:00"
+  "em": "2026-09-26T06:11:30+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "adct.77",
   "para": "cf.157",
   "tipo": "remete_a",
-  "grau": "mesmo",
-  "porque": "O inciso II do art. 77 do ADCT inclui, na base de cálculo dos recursos mínimos de saúde dos Estados e do Distrito Federal, os recursos de que trata o art. 157 da Constituição Federal, remetendo diretamente a esse dispositivo.",
+  "grau": "contato",
+  "porque": "O inciso II do art. 77 do ADCT inclui, na base de cálculo dos recursos mínimos de saúde dos Estados e do Distrito Federal, os recursos de que trata o art. 157 da Constituição Federal, remetendo diretamente a esse dispositivo. O art. 157 disciplina a repartição de receitas tributárias, matéria distinta da vinculação mínima à saúde.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T06:11:30+00:00"
+  "em": "2026-09-26T06:11:30+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "adct.77",
   "para": "lcp227.170",
-  "tipo": "complementa",
+  "tipo": "confundivel_com",
   "grau": "mesmo",
-  "porque": "O art. 170 da LC 227/2026 altera o art. 6º da LC 141/2012 para atualizar o percentual mínimo de saúde dos Estados e do Distrito Federal, complementando o mesmo mecanismo do art. 77 do ADCT ao somar à base de cálculo, além dos impostos do art. 155 e dos recursos dos arts. 157 e 159, a nova receita do art. 156-A.",
+  "porque": "O art. 6º da LC 141/2012, na redação do art. 170 da LC 227/2026, fixa para Estados e Distrito Federal o mesmo percentual de 12% e a mesma base do inciso II do art. 77 do ADCT, acrescida da receita do imposto do art. 156-A. O art. 77 regia a matéria até 2004 e, pelo § 4º, apenas na ausência da lei complementar do art. 198, § 3º, da Constituição Federal, de modo que não se aplica ao lado da regra da LC 141/2012.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T06:11:30+00:00"
+  "em": "2026-09-26T06:11:30+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "adct.77",
@@ -900,31 +844,11 @@
   "em": "2026-09-26T06:11:30+00:00"
  },
  {
-  "de": "adct.77",
-  "para": "cf.212-A",
-  "tipo": "confundivel_com",
-  "grau": "conexo",
-  "porque": "O art. 212-A da Constituição Federal institui o fundo de manutenção da educação básica de modo paralelo ao Fundo de Saúde referido no § 3º do art. 77 do ADCT, ambos fundos de vinculação mínima de receita para políticas públicas distintas, o que pode gerar confusão entre os dois regimes.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-26T06:11:30+00:00"
- },
- {
   "de": "cpc.1005",
   "para": "cpp.580",
   "tipo": "confundivel_com",
   "grau": "conexo",
   "porque": "O art. 580 do CPP estende ao corréu a decisão de recurso interposto por outro quando fundada em motivo não exclusivamente pessoal, regra próxima à do art. 1.005 do CPC, mas o CPP exige ausência de caráter pessoal do fundamento, enquanto o CPC exige apenas que os interesses dos litisconsortes não sejam distintos ou opostos, o que pode gerar confusão entre os dois regimes de aproveitamento do recurso.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-26T06:11:30+00:00"
- },
- {
-  "de": "cpc.1005",
-  "para": "ctn.125",
-  "tipo": "confundivel_com",
-  "grau": "conexo",
-  "porque": "O art. 125 do CTN disciplina os efeitos da solidariedade passiva tributária, entre eles o aproveitamento de atos a todos os obrigados, instituto conexo ao do parágrafo único do art. 1.005 do CPC sobre o aproveitamento do recurso ao codevedor solidário, mas com pressupostos e consequências próprios de cada ramo, o que pode gerar confusão entre os regimes.",
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-26T06:11:30+00:00"
@@ -964,10 +888,11 @@
   "para": "l11101.82-A",
   "tipo": "excepciona",
   "grau": "mesmo",
-  "porque": "O parágrafo único do art. 82-A da Lei 11.101/05 afasta a suspensão do processo prevista no art. 134 do CPC (§ 3º), determinando rito próprio, conduzido pelo juízo falimentar, para a desconsideração da personalidade jurídica da sociedade falida.",
+  "porque": "O parágrafo único do art. 82-A da Lei 11.101/05 exige, para a desconsideração da personalidade jurídica da sociedade falida, a observância dos arts. 133 a 137 do CPC, mas afasta expressamente a suspensão do processo prevista no § 3º do art. 134 do CPC. A decretação cabe exclusivamente ao juízo falimentar.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T06:11:30+00:00"
+  "em": "2026-09-26T06:11:30+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.136",
@@ -1004,10 +929,11 @@
   "para": "l11101.138",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O art. 138 da Lei 11.101/05 permite declarar ineficaz o ato do devedor falido nas hipóteses objetivas do art. 129 da mesma Lei, independentemente de prova de fraude, regime distinto da ineficácia por fraude de execução do art. 137 do CPC, que pressupõe o acolhimento do incidente de desconsideração, o que pode gerar confusão entre os dois regimes.",
+  "porque": "O art. 138 da Lei 11.101/05 permite que o ato do devedor seja declarado ineficaz ou revogado, ainda que praticado com base em decisão judicial, observado o art. 131 da mesma Lei. É regime próprio da falência que não se confunde com a ineficácia da alienação ou oneração de bens em fraude de execução do art. 137 do CPC, condicionada ao acolhimento do pedido de desconsideração.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-26T06:11:30+00:00"
+  "em": "2026-09-26T06:11:30+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.274",
@@ -1015,16 +941,6 @@
   "tipo": "altera",
   "grau": "mesmo",
   "porque": "O art. 1.068 do CPC é o dispositivo que deu a redação atualmente vigente ao art. 274 do Código Civil, substituindo o texto anterior sobre os efeitos do julgamento entre credores solidários.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T09:51:25+00:00"
- },
- {
-  "de": "cc.274",
-  "para": "ctn.125",
-  "tipo": "especializa",
-  "grau": "conexo",
-  "porque": "O CTN disciplina de modo próprio os efeitos da solidariedade tributária passiva (pagamento, isenção, remissão e prescrição), regime que prevalece sobre o efeito do julgamento entre credores solidários do art. 274 do Código Civil quando a obrigação for tributária.",
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T09:51:25+00:00"
@@ -1042,12 +958,13 @@
  {
   "de": "cf.157",
   "para": "ctn.85",
-  "tipo": "regulamenta",
+  "tipo": "complementa",
   "grau": "mesmo",
-  "porque": "O art. 85, II, do CTN detalha, em nível infraconstitucional, a mesma regra de pertencimento aos Estados e ao Distrito Federal do produto do imposto de renda retido na fonte sobre pagamentos a seus servidores e autarquias, disciplinada pelo art. 157, I, da Constituição.",
+  "porque": "O art. 85, II, do CTN determina que a União distribua aos Estados, ao Distrito Federal e aos Municípios o produto da arrecadação, na fonte, do imposto sobre a renda incidente sobre a renda das obrigações de sua dívida pública e sobre os proventos dos seus servidores e dos de suas autarquias. O art. 157, I, da Constituição trata o imposto retido na fonte sobre rendimentos pagos pelos Estados e pelo Distrito Federal como receita que lhes pertence.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T09:51:25+00:00"
+  "em": "2026-09-28T09:51:25+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cf.157",
@@ -1064,10 +981,11 @@
   "para": "adct.34",
   "tipo": "regulamenta",
   "grau": "mesmo",
-  "porque": "O art. 34 do ADCT, em seu § 1º, dispõe sobre a entrada em vigor da alínea c do inciso I do art. 159 da Constituição, e o § 2º trata da instituição dos Fundos de Participação dos Estados e dos Municípios previstos naquele artigo.",
+  "porque": "O art. 34, § 1º, do ADCT antecipou para a promulgação da Constituição a vigência do art. 159, I, \"c\". O § 2º fixou percentuais transitórios e progressivos para o Fundo de Participação dos Estados e do Distrito Federal e para o Fundo de Participação dos Municípios até atingirem os previstos no art. 159, I, \"a\" e \"b\".",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T09:51:25+00:00"
+  "em": "2026-09-28T09:51:25+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cf.159",
@@ -1084,10 +1002,11 @@
   "para": "lcp87.31",
   "tipo": "confundivel_com",
   "grau": "contato",
-  "porque": "O art. 31 da LC 87/96 (Lei Kandir) também prevê entrega mensal de recursos da União aos Estados e Municípios, mas cuida de compensação pela desoneração de exportações no ICMS, regime distinto e com fonte de custeio própria, que não deve ser confundido com a repartição constitucional de receitas do art. 159 da Constituição.",
+  "porque": "O art. 31 da LC 87/96 previu entregas mensais de recursos da União aos Estados e seus Municípios nos exercícios de 2003 a 2006, segundo o Anexo da própria Lei e com recursos do Tesouro Nacional. É regime transitório que não se confunde com a repartição constitucional de receitas do art. 159 da Constituição, embora ambos envolvam entrega de recursos federais e o inciso II deste considere o valor das exportações de produtos industrializados.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T09:51:25+00:00"
+  "em": "2026-09-28T09:51:25+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cf.212-A",
@@ -1103,21 +1022,12 @@
   "de": "cf.212-A",
   "para": "lcp227.122",
   "tipo": "regulamenta",
-  "grau": "mesmo",
-  "porque": "O art. 122 da LC 227/2026 opera, no novo regime do IBS, a dedução do percentual destinado ao Fundeb nos termos do inciso II do caput do art. 212-A da Constituição, antes da apuração do Fundo de Combate à Pobreza do Estado.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T09:51:25+00:00"
- },
- {
-  "de": "cf.212-A",
-  "para": "adct.76-A",
-  "tipo": "excepciona",
   "grau": "conexo",
-  "porque": "O art. 76-A do ADCT desvincula parte das receitas dos Estados e do Distrito Federal, mas exclui dessa desvinculação, conforme seu parágrafo único, os recursos destinados à manutenção e ao desenvolvimento do ensino de que trata o art. 212-A da Constituição.",
+  "porque": "O art. 122, § 1º, I, da LC 227/2026 determina que, do montante do IBS destinado a cada Estado e do valor destinado ao Fundo de Combate à Pobreza, seja deduzido o percentual previsto no inciso II do caput do art. 212-A da Constituição destinado ao Fundeb. Assim, a LC 227/2026 operacionaliza essa destinação na distribuição do produto da arrecadação do IBS.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T09:51:25+00:00"
+  "em": "2026-09-28T09:51:25+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cf.239",
@@ -1152,12 +1062,13 @@
  {
   "de": "cpc.178",
   "para": "cf.129",
-  "tipo": "regulamenta",
+  "tipo": "complementa",
   "grau": "conexo",
-  "porque": "O art. 178 do CPC concretiza, no processo civil, as funções institucionais do Ministério Público de zelar pelos direitos assegurados na Constituição e de promover a tutela de interesses difusos e coletivos, previstas no art. 129, II e III, da Constituição.",
+  "porque": "O art. 178 do CPC disciplina a intervenção do Ministério Público como fiscal da ordem jurídica no processo civil, inclusive nas hipóteses previstas na Constituição Federal. Essa função é distinta da promoção do inquérito civil e da ação civil pública como parte, prevista no art. 129, III, da Constituição, embora ambas se voltem à tutela de interesses públicos e coletivos.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T09:51:25+00:00"
+  "em": "2026-09-28T09:51:25+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.178",
@@ -1180,34 +1091,15 @@
   "em": "2026-09-28T09:51:25+00:00"
  },
  {
-  "de": "cpc.178",
-  "para": "cc.1239",
-  "tipo": "confundivel_com",
-  "grau": "contato",
-  "porque": "O art. 1.239 do Código Civil trata da usucapião especial rural individual, hipótese distinta do litígio coletivo pela posse de terra rural referido no inciso III do art. 178 do CPC, que exige a intervenção do Ministério Público apenas quando a disputa envolver posse coletiva de terra.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T09:51:25+00:00"
- },
- {
-  "de": "cpc.178",
-  "para": "cpp.268",
-  "tipo": "confundivel_com",
-  "grau": "contato",
-  "porque": "O art. 268 do CPP trata da intervenção do ofendido como assistente do Ministério Público na ação penal pública, situação inversa e distinta daquela do art. 178 do CPC, em que é o próprio Ministério Público quem intervém como fiscal da ordem jurídica no processo civil.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T09:51:25+00:00"
- },
- {
   "de": "cpc.240",
   "para": "lef.8",
-  "tipo": "procedimento_de",
+  "tipo": "aplica_subsidiariamente",
   "grau": "conexo",
-  "porque": "O art. 8º da Lei de Execução Fiscal disciplina o procedimento específico da citação do executado na execução fiscal, ato ao qual se aplicam os efeitos gerais previstos no art. 240 do CPC, como a constituição em mora e a interrupção da prescrição.",
+  "porque": "O art. 8º da Lei de Execução Fiscal disciplina a forma da citação do executado e, no § 2º, dispõe que o despacho do juiz que ordenar a citação interrompe a prescrição. O art. 240 do CPC aplica-se apenas subsidiariamente, quanto aos efeitos da citação válida que a lei especial não regula, como a litispendência e a constituição em mora.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T09:51:25+00:00"
+  "em": "2026-09-28T09:51:25+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.240",
@@ -1223,11 +1115,12 @@
   "de": "cpc.240",
   "para": "cc.405",
   "tipo": "complementa",
-  "grau": "mesmo",
+  "grau": "conexo",
   "porque": "O art. 405 do Código Civil fixa que os juros de mora se contam desde a citação inicial, complementando o efeito do art. 240, caput, do CPC, segundo o qual a citação válida constitui em mora o devedor.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T09:51:25+00:00"
+  "em": "2026-09-28T09:51:25+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.256",
@@ -1241,23 +1134,14 @@
  },
  {
   "de": "cpc.256",
-  "para": "cpp.365",
-  "tipo": "especializa",
-  "grau": "conexo",
-  "porque": "O art. 365 do CPP estabelece, para o processo penal, requisitos próprios do edital de citação, especializando em relação ao rito criminal o instituto da citação por edital tratado de forma geral pelo art. 256 do CPC.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T09:51:25+00:00"
- },
- {
-  "de": "cpc.256",
   "para": "cpp.363",
-  "tipo": "complementa",
+  "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O § 1º do art. 363 do CPP determina a citação por edital do acusado não encontrado e o § 4º regula a retomada do processo quando o citado por edital comparece, complementando no processo penal a disciplina geral da citação por edital do art. 256 do CPC.",
+  "porque": "O § 1º do art. 363 do CPP determina a citação por edital do acusado não encontrado, e o § 4º manda observar os arts. 394 e seguintes do mesmo Código quando o citado por edital comparece. É disciplina própria do processo penal, que não se confunde com as hipóteses de citação por edital do art. 256 do CPC, aplicáveis ao processo civil.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T09:51:25+00:00"
+  "em": "2026-09-28T09:51:25+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.256",
@@ -1294,10 +1178,11 @@
   "para": "ec132.7",
   "tipo": "complementa",
   "grau": "conexo",
-  "porque": "Enquanto o art. 126 do ADCT determina a substituição, a partir de 2027, do imposto do art. 153, IV, pelo imposto do art. 153, VIII, o art. 7º da EC 132/2023 complementa essa transição ao prever a compensação, pela União, da eventual redução na arrecadação repartida com Estados e Municípios em razão dessa mesma substituição tributária.",
+  "porque": "O art. 126 do ADCT determina, a partir de 2027, a cobrança do imposto do art. 153, VIII, e a redução a zero das alíquotas do imposto do art. 153, IV, ressalvados os produtos com industrialização incentivada na Zona Franca de Manaus. O art. 7º da EC 132/2023 complementa essa transição ao prever que a União compense a eventual redução dos valores entregues nos termos do art. 159, I e II, decorrente da substituição da arrecadação de um imposto pelo outro.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T10:18:27+00:00"
+  "em": "2026-09-28T10:18:27+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "adct.126",
@@ -1313,11 +1198,12 @@
   "de": "adct.34",
   "para": "ctn.1",
   "tipo": "complementa",
-  "grau": "mesmo",
-  "porque": "O art. 34, § 5º, do ADCT assegura a aplicação da legislação tributária anterior à Constituição de 1988, no que não seja incompatível com o novo sistema, e o art. 1º do CTN, editado sob a Emenda Constitucional n. 18 de 1965, é precisamente essa legislação anterior que continua a regular o sistema tributário nacional enquanto compatível.",
+  "grau": "conexo",
+  "porque": "O art. 34, § 5º, do ADCT assegura a aplicação da legislação tributária anterior à Constituição de 1988, no que não seja incompatível com o novo sistema. O art. 1º do CTN, editado com fundamento na Emenda Constitucional n. 18 de 1965, integra essa legislação anterior, que continua a regular o sistema tributário nacional enquanto for compatível.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T10:18:27+00:00"
+  "em": "2026-09-28T10:18:27+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "adct.34",
@@ -1334,10 +1220,11 @@
   "para": "cf.155",
   "tipo": "excepciona",
   "grau": "conexo",
-  "porque": "O art. 34, § 6º, do ADCT excepciona, até 31 de dezembro de 1989, a regra de anterioridade nonagesimal do art. 150, III, b, quanto aos impostos do art. 155, I, a e b, e 156, II e III, permitindo a cobrança trinta dias após a publicação da lei instituidora, regra transitória que incide diretamente sobre a competência tributária estadual do art. 155.",
+  "porque": "O art. 34, § 6º, do ADCT afastou, até 31 de dezembro de 1989, a aplicação do art. 150, III, \"b\", aos impostos dos arts. 155, I, \"a\" e \"b\", e 156, II e III, permitindo cobrá-los trinta dias após a publicação da lei que os instituiu ou aumentou. É regra transitória já exaurida, que remete à numeração original do art. 155, hoje correspondente aos seus incisos I e II.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T10:18:27+00:00"
+  "em": "2026-09-28T10:18:27+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cf.129",
@@ -1374,10 +1261,11 @@
   "para": "l8429.17-D",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O art. 17-D da Lei de Improbidade Administrativa declara expressamente que a ação por improbidade não constitui ação civil e veda seu ajuizamento para a proteção do patrimônio público e social e de outros interesses difusos referidos no art. 129, III, da Constituição, distinção relevante porque ambas as ações tutelam o patrimônio público mas seguem regimes jurídicos próprios e não podem ser confundidas.",
+  "porque": "O art. 17-D da Lei de Improbidade Administrativa qualifica a ação por improbidade como repressiva e sancionatória, declara que ela não constitui ação civil e veda seu ajuizamento para a proteção do patrimônio público e social e de outros interesses difusos e coletivos. Essa proteção é a finalidade da ação civil pública prevista no art. 129, III, da Constituição, o que torna real o risco de confusão entre as duas ações.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T10:18:27+00:00"
+  "em": "2026-09-28T10:18:27+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cf.129",
@@ -1410,14 +1298,15 @@
   "em": "2026-09-28T10:18:27+00:00"
  },
  {
-  "de": "cc.405",
-  "para": "clt.883",
+  "de": "clt.883",
+  "para": "cc.405",
   "tipo": "especializa",
   "grau": "mesmo",
-  "porque": "O art. 405 do Código Civil fixa que os juros de mora se contam desde a citação inicial, e o art. 883 da CLT especializa essa mesma regra para o processo do trabalho, determinando que os juros de mora incidam a partir da data do ajuizamento da reclamação trabalhista, marco próprio desse rito.",
+  "porque": "O art. 883 da CLT fixa, para o processo do trabalho, que os juros de mora são devidos a partir da data em que for ajuizada a reclamação inicial, regra especial em relação ao art. 405 do Código Civil, que conta os juros de mora desde a citação inicial.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T10:18:27+00:00"
+  "em": "2026-09-28T10:18:27+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.405",
@@ -1425,16 +1314,6 @@
   "tipo": "confundivel_com",
   "grau": "conexo",
   "porque": "O art. 161 do CTN fixa que os juros de mora sobre crédito tributário incidem a partir do vencimento não pago, regra distinta da do art. 405 do Código Civil, que conta os juros de mora desde a citação inicial, de modo que a aplicação de um regime ao caso do outro pode induzir a erro prático relevante.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T10:18:27+00:00"
- },
- {
-  "de": "cc.405",
-  "para": "d20910.7",
-  "tipo": "confundivel_com",
-  "grau": "contato",
-  "porque": "O art. 7º do Decreto 20.910/32 trata dos efeitos da citação inicial sobre a interrupção da prescrição contra a Fazenda Pública quando o processo é anulado, situação distinta da regulada pelo art. 405 do Código Civil, que toma a mesma citação inicial apenas como termo a quo dos juros de mora.",
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T10:18:27+00:00"
@@ -1460,24 +1339,15 @@
   "em": "2026-09-28T11:29:33+00:00"
  },
  {
-  "de": "lsa.285",
-  "para": "cc.2027",
-  "tipo": "confundivel_com",
-  "grau": "contato",
-  "porque": "O art. 285 da LSA e o art. 2.027 do CC preveem, cada qual para seu instituto, prazo de um ano para anular por vício um ato jurídico (a constituição da companhia e a partilha, respectivamente), o que pode gerar confusão indevida entre institutos que não se comunicam.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T11:29:33+00:00"
- },
- {
   "de": "ec132.4",
   "para": "cf.146",
   "tipo": "altera",
   "grau": "mesmo",
-  "porque": "O art. 4º da EC 132/2023 deu nova redação ao art. 146, III, d, da CF, fazendo a alínea abranger também o tratamento diferenciado relativo aos tributos previstos nos arts. 156-A e 195, V, instituídos pela reforma tributária.",
+  "porque": "O art. 4º da EC 132/2023 altera a redação do art. 146, III, d, da Constituição Federal, para prever o tratamento diferenciado e favorecido das microempresas e empresas de pequeno porte, inclusive regimes especiais ou simplificados, no caso do imposto previsto no art. 156-A e das contribuições sociais previstas no art. 195, I e V.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T11:29:33+00:00"
+  "em": "2026-09-28T11:29:33+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "lcp123.1",
@@ -1532,42 +1402,46 @@
  {
   "de": "cpc.836",
   "para": "clt.883",
-  "tipo": "complementa",
+  "tipo": "aplica_subsidiariamente",
   "grau": "conexo",
-  "porque": "O art. 836 do CPC, de aplicação subsidiária ao processo do trabalho, complementa a regra do art. 883 da CLT ao vedar a penhora quando o produto da alienação dos bens for totalmente absorvido pelas custas da execução.",
+  "porque": "O art. 836 do CPC aplica-se subsidiariamente à execução trabalhista para impedir a penhora quando ficar evidente que o produto da execução dos bens encontrados será totalmente absorvido pelo pagamento das custas, hipótese que o art. 883 da CLT não disciplina.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T11:29:33+00:00"
+  "em": "2026-09-28T11:29:33+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "l12846.19",
   "para": "cpc.182",
   "tipo": "complementa",
-  "grau": "mesmo",
-  "porque": "O art. 19 da Lei 12.846/2013 complementa o art. 182 do CPC ao atribuir expressamente às Advocacias Públicas dos entes federativos legitimidade para ajuizar ação pela prática de atos lesivos previstos no art. 5º da mesma lei, em exercício da representação judicial dos interesses públicos.",
+  "grau": "conexo",
+  "porque": "O art. 19 da Lei 12.846/2013 prevê que os entes federativos, por meio das respectivas Advocacias Públicas ou órgãos de representação judicial, e o Ministério Público poderão ajuizar ação para aplicar sanções às pessoas jurídicas pelos atos do art. 5º, o que concretiza, em matéria específica, a representação judicial atribuída à Advocacia Pública pelo art. 182 do CPC.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T11:29:33+00:00"
+  "em": "2026-09-28T11:29:33+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "l14133.10",
   "para": "cpc.182",
   "tipo": "complementa",
   "grau": "conexo",
-  "porque": "O art. 10 da Lei 14.133/2021 complementa o art. 182 do CPC ao estender a atuação da Advocacia Pública à representação judicial ou extrajudicial de agentes públicos que tenham seguido parecer jurídico vinculante, hipótese distinta da defesa das pessoas jurídicas de direito público.",
+  "porque": "O art. 10 da Lei 14.133/2021 determina que a advocacia pública promova, a critério do agente público, a representação judicial ou extrajudicial de autoridades e servidores que precisem defender-se por ato praticado com estrita observância de parecer jurídico elaborado na forma do § 1º do art. 53. A hipótese amplia a atuação prevista no art. 182 do CPC, que se refere à representação das pessoas jurídicas de direito público.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T11:29:33+00:00"
+  "em": "2026-09-28T11:29:33+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpp.572",
   "para": "cpc.278",
-  "tipo": "especializa",
-  "grau": "mesmo",
-  "porque": "O art. 572 do CPP especializa a regra de preclusão do art. 278 do CPC ao definir, para o processo penal, quais nulidades específicas se consideram sanadas quando não arguidas em tempo oportuno, quando praticado o ato por outra forma ou quando a parte aceitar tacitamente seus efeitos.",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 572 do CPP enumera as nulidades do processo penal que se consideram sanadas se não arguidas em tempo oportuno, se o ato praticado por outra forma tiver atingido o seu fim ou se a parte tiver aceito seus efeitos, ao passo que o art. 278 do CPC impõe preclusão à nulidade não alegada na primeira oportunidade, ressalvadas as decretáveis de ofício. São regimes próprios de cada processo, e transpor a regra civil ao processo penal pode levar a tratar como preclusas nulidades não abrangidas pelo art. 572.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T11:29:33+00:00"
+  "em": "2026-09-28T11:29:33+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "lef.6",
@@ -1580,124 +1454,81 @@
   "em": "2026-09-28T11:29:33+00:00"
  },
  {
-  "de": "l9099.15",
-  "para": "cpc.292",
-  "tipo": "especializa",
-  "grau": "conexo",
-  "porque": "O art. 15 da Lei 9.099/95 especializa, no âmbito dos Juizados Especiais, a regra de cumulação de pedidos do inciso VI do art. 292 do CPC, ao condicionar a soma dos valores pedidos à conexão entre eles e ao limite de alçada previsto para aquele procedimento.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T11:29:33+00:00"
- },
- {
-  "de": "adct.94",
-  "para": "lcp123.12",
-  "tipo": "regulamenta",
-  "grau": "mesmo",
-  "porque": "O art. 94 do ADCT prevê a cessação dos regimes especiais de tributação para microempresas e empresas de pequeno porte com a entrada em vigor do regime unificado do art. 146, III, d, da Constituição; o art. 12 da LC 123/06 institui exatamente esse regime unificado, o Simples Nacional, cuja vigência é o marco que produz o efeito extintivo previsto na ADCT.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
- },
- {
-  "de": "adct.94",
-  "para": "cf.179",
-  "tipo": "complementa",
-  "grau": "conexo",
-  "porque": "O art. 179 da CF estabelece o mandamento geral de tratamento diferenciado às microempresas e empresas de pequeno porte, inclusive na esfera tributária; o art. 94 do ADCT é regra de transição específica sobre a cessação dos regimes especiais de tributação anteriores, e não sobre o tratamento diferenciado em si, que é instituto mais amplo.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
- },
- {
   "de": "cc.1240",
   "para": "ctn.32",
   "tipo": "confundivel_com",
   "grau": "contato",
-  "porque": "O art. 32 do CTN define a posse como fato gerador do IPTU para fins tributários, independentemente de ânimo de dono; a posse relevante para a usucapião especial urbana do art. 1.240 do CC exige posse com ânimo de dono e demais requisitos legais, o que pode gerar confusão entre a posse que gera obrigação tributária e a que gera aquisição de domínio.",
+  "porque": "O art. 32 do CTN inclui a posse de bem imóvel localizado na zona urbana entre os fatos geradores do IPTU, enquanto o art. 1.240 do Código Civil exige posse como sua, por cinco anos ininterruptos, sem oposição e para moradia, como requisito de aquisição do domínio. A mesma palavra cumpre funções distintas nos dois dispositivos, o que pode levar a confundir a posse que gera obrigação tributária com a que conduz à usucapião.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
- },
- {
-  "de": "cc.1240",
-  "para": "cf.182",
-  "tipo": "complementa",
-  "grau": "conexo",
-  "porque": "O art. 182 da CF fixa a função social da propriedade urbana como objetivo da política de desenvolvimento urbano; o art. 1.240 do CC concretiza esse objetivo ao permitir a aquisição do domínio por quem confere uso residencial efetivo ao imóvel urbano, mas os institutos são conexos, não idênticos, pois um trata de política urbana e o outro de modo de aquisição da propriedade.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.300",
   "para": "l9307.22-A",
-  "tipo": "procedimento_de",
+  "tipo": "complementa",
   "grau": "mesmo",
-  "porque": "O art. 22-A da Lei de Arbitragem permite que as partes recorram ao Poder Judiciário para obter medida cautelar ou de urgência antes de instituída a arbitragem, valendo-se do mesmo instituto da tutela de urgência regulado no art. 300 do CPC, apenas indicando o procedimento cabível nesse contexto especial.",
+  "porque": "O art. 22-A da Lei de Arbitragem autoriza as partes a pedir ao Poder Judiciário medida cautelar ou de urgência antes de instituída a arbitragem, cuja concessão observa os requisitos do art. 300 do CPC. O parágrafo único acrescenta regra própria: a medida perde a eficácia se a instituição da arbitragem não for requerida em 30 dias da efetivação da decisão.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.300",
   "para": "l9307.22-B",
   "tipo": "complementa",
-  "grau": "mesmo",
-  "porque": "O art. 22-B da Lei de Arbitragem complementa o regime do art. 300 do CPC ao definir que, uma vez instituída a arbitragem, cabe aos árbitros manter, modificar ou revogar a medida de urgência antes concedida pelo Judiciário, transferindo a competência sobre a mesma tutela.",
+  "grau": "conexo",
+  "porque": "O art. 22-B da Lei de Arbitragem atribui aos árbitros, uma vez instituída a arbitragem, a competência para manter, modificar ou revogar a medida de urgência concedida pelo Poder Judiciário e para apreciar os novos pedidos. Não altera os requisitos da tutela de urgência do art. 300 do CPC, e sim define quem decide sobre ela.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.300",
   "para": "l8078.84",
   "tipo": "confundivel_com",
-  "grau": "contato",
-  "porque": "O art. 84 do CDC trata da tutela específica das obrigações de fazer ou não fazer, cujo deferimento não depende dos requisitos de urgência do art. 300 do CPC; a proximidade terminológica entre tutela específica e tutela de urgência pode induzir à confusão entre institutos com pressupostos distintos.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
- },
- {
-  "de": "cpc.300",
-  "para": "d9580.995",
-  "tipo": "complementa",
   "grau": "conexo",
-  "porque": "O art. 995 do RIR disciplina o efeito tributário da concessão de medida liminar ou de tutela antecipada em ação judicial, interrompendo a multa de mora; complementa o art. 300 do CPC ao definir consequência fiscal específica da tutela de urgência concedida com base nesse dispositivo, sem alterar seus requisitos.",
+  "porque": "O § 3º do art. 84 do CDC admite a concessão liminar da tutela específica quando relevante o fundamento da demanda e houver justificado receio de ineficácia do provimento final, requisitos formulados de modo diverso da probabilidade do direito e do perigo de dano ou risco ao resultado útil do processo exigidos pelo art. 300 do CPC. A proximidade entre as duas liminares pode levar à aplicação indistinta de pressupostos que cada dispositivo enuncia de forma própria.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
-  "de": "cpc.300",
-  "para": "l8036.29-B",
+  "de": "l8036.29-B",
+  "para": "cpc.300",
   "tipo": "excepciona",
   "grau": "mesmo",
-  "porque": "A Lei 8.036/90 excepciona o regime geral do art. 300 do CPC ao vedar expressamente a concessão de medida liminar ou de tutela antecipada que implique saque ou movimentação da conta vinculada do FGTS, restringindo o alcance da tutela de urgência nessa matéria específica.",
+  "porque": "O art. 29-B da Lei 8.036/1990 veda medida liminar e tutela antecipada que impliquem saque ou movimentação da conta vinculada do trabalhador no FGTS, restringindo, nessa matéria, a concessão da tutela de urgência regulada pelo art. 300 do CPC.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
-  "de": "cpc.300",
-  "para": "l11101.167-L",
-  "tipo": "procedimento_de",
-  "grau": "mesmo",
-  "porque": "A Lei 11.101/05 autoriza o juiz a conceder liminarmente medidas de tutela provisória fundadas em urgência ou evidência no processo de reconhecimento de insolvência estrangeira, aplicando o mesmo instituto do art. 300 do CPC ao procedimento específico de cooperação internacional em insolvência.",
+  "de": "l11101.167-L",
+  "para": "cpc.300",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 167-L da Lei 11.101/2005 autoriza o juiz a conceder liminarmente, entre o ajuizamento e a decisão do pedido de reconhecimento do processo estrangeiro, medidas de tutela provisória fundadas em urgência ou evidência. Diferentemente do art. 300 do CPC, que trata só da tutela de urgência, abrange também a evidência, e suas medidas encerram-se com a decisão sobre o reconhecimento, salvo no caso do inciso IV do caput do art. 167-N (§ 1º).",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
-  "de": "cpc.334",
-  "para": "l9099.16",
+  "de": "l9099.16",
+  "para": "cpc.334",
   "tipo": "especializa",
   "grau": "mesmo",
-  "porque": "A Lei 9.099/95 especializa, para os Juizados Especiais, a designação da audiência de conciliação prevista no art. 334 do CPC, reduzindo o prazo para realização da sessão a apenas quinze dias, sem observar a antecedência mínima de trinta dias exigida na regra geral.",
+  "porque": "O art. 16 da Lei 9.099/1995 determina que, registrado o pedido, a Secretaria do Juizado designe a sessão de conciliação para o prazo de quinze dias, independentemente de distribuição e autuação, regra especial em relação ao art. 334 do CPC, que exige antecedência mínima de 30 dias.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.334",
@@ -1710,104 +1541,103 @@
   "em": "2026-09-28T12:39:01+00:00"
  },
  {
-  "de": "cpc.334",
-  "para": "l8245.68",
-  "tipo": "complementa",
-  "grau": "mesmo",
-  "porque": "O inciso II do art. 68 da Lei 8.245/91 complementa o art. 334 do CPC ao atribuir efeito adicional à audiência de conciliação na ação revisional de aluguel, permitindo ao juiz fixar aluguel provisório desde a citação, hipótese não prevista na regra geral do CPC.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
- },
- {
-  "de": "cpc.334",
-  "para": "l11101.20-C",
-  "tipo": "especializa",
-  "grau": "conexo",
-  "porque": "A Lei 11.101/05 disciplina conciliação ou mediação pré-processual própria da recuperação judicial, anterior ao ajuizamento da ação, o que a distingue da audiência de conciliação do art. 334 do CPC, realizada após a distribuição da petição inicial, embora ambos os institutos busquem a autocomposição.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
- },
- {
-  "de": "cpc.373",
-  "para": "clt.818",
+  "de": "l8245.68",
+  "para": "cpc.334",
   "tipo": "especializa",
   "grau": "mesmo",
-  "porque": "O art. 818 da CLT especializa, para o processo do trabalho, a distribuição do ônus da prova do art. 373 do CPC, reproduzindo a mesma lógica de imputação ao reclamante quanto ao fato constitutivo e ao reclamado quanto a fato impeditivo, modificativo ou extintivo, com a terminologia própria da relação trabalhista.",
+  "porque": "O art. 68 da Lei 8.245/1991 disciplina de forma própria a audiência de conciliação na ação revisional de aluguel: ao designá-la, o juiz fixa, se houver pedido, aluguel provisório devido desde a citação (inciso II), e nela é apresentada a contestação (inciso IV). Por isso é regra especial em relação ao art. 334 do CPC.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
-  "de": "cpc.373",
-  "para": "l9279.81",
+  "de": "clt.818",
+  "para": "cpc.373",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 818 da CLT reproduz, para o processo do trabalho, a distribuição do ônus da prova do art. 373 do CPC, atribuindo ao reclamante o fato constitutivo e ao reclamado o fato impeditivo, modificativo ou extintivo. Diferencia-se no § 2º, que exige que a decisão de distribuição diversa seja proferida antes da abertura da instrução e, a requerimento da parte, implique o adiamento da audiência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
+ },
+ {
+  "de": "l9279.81",
+  "para": "cpc.373",
+  "tipo": "excepciona",
+  "grau": "contato",
+  "porque": "O art. 81 da LPI atribui ao titular, no procedimento administrativo de caducidade, o ônus da prova quanto à exploração, e não a quem requer a caducidade, afastando nesse âmbito a lógica de distribuição do art. 373 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
+ },
+ {
+  "de": "d9580.968",
+  "para": "cpc.373",
+  "tipo": "excepciona",
+  "grau": "contato",
+  "porque": "O art. 968 do RIR atribui à autoridade administrativa a prova da inveracidade dos fatos registrados na escrituração em observância ao art. 967, regra própria da fiscalização do imposto sobre a renda que afasta a distribuição genérica do ônus da prova do art. 373 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
+ },
+ {
+  "de": "l8078.38",
+  "para": "cpc.373",
   "tipo": "excepciona",
   "grau": "conexo",
-  "porque": "O art. 81 da LPI excepciona a distribuição geral do art. 373 do CPC ao atribuir ao próprio titular do registro, e não a quem alega o fato, o ônus de provar a exploração no procedimento administrativo de caducidade, invertendo a lógica processual comum.",
+  "porque": "O art. 38 do CDC atribui a quem patrocina a informação ou comunicação publicitária o ônus de provar sua veracidade e correção, afastando por força de lei a distribuição geral do art. 373 do CPC.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
-  "de": "cpc.373",
-  "para": "d9580.968",
-  "tipo": "excepciona",
-  "grau": "conexo",
-  "porque": "O art. 968 do RIR excepciona a regra geral do art. 373 do CPC ao atribuir à autoridade administrativa, e não ao contribuinte, o ônus de provar a inveracidade dos fatos registrados na escrituração, em regime de inversão do ônus da prova próprio da matéria fiscal.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
- },
- {
-  "de": "cpc.373",
-  "para": "l8078.38",
-  "tipo": "excepciona",
-  "grau": "conexo",
-  "porque": "O art. 38 do CDC excepciona a distribuição do art. 373 do CPC ao atribuir a quem patrocina a publicidade o ônus de provar a veracidade da informação veiculada, hipótese clássica de inversão do ônus da prova em favor do consumidor.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
- },
- {
-  "de": "cpc.373",
-  "para": "lindb.13",
+  "de": "lindb.13",
+  "para": "cpc.373",
   "tipo": "especializa",
   "grau": "conexo",
-  "porque": "O art. 13 da LINDB especializa a disciplina do ônus da prova para fatos ocorridos em país estrangeiro, submetendo-o à lei estrangeira quanto ao ônus e aos meios de produção, hipótese distinta da distribuição geral e doméstica do art. 373 do CPC.",
+  "porque": "O art. 13 da LINDB submete a prova dos fatos ocorridos em país estrangeiro, quanto ao ônus e aos meios de produção, à lei que nele vigorar, afastando para esses fatos a distribuição geral do art. 373 do CPC, vedada a admissão de provas que a lei brasileira desconheça.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.46",
   "para": "cc.70",
   "tipo": "complementa",
-  "grau": "mesmo",
-  "porque": "O art. 70 do CC define o domicílio da pessoa natural como o lugar de residência com ânimo definitivo, conceito substantivo que complementa a aplicação do art. 46 do CPC ao fixar o foro competente pelo domicílio do réu.",
+  "grau": "conexo",
+  "porque": "O art. 70 do Código Civil define o domicílio da pessoa natural como o lugar onde ela estabelece sua residência com ânimo definitivo, conceito de que depende a aplicação do art. 46 do CPC, que fixa o foro competente pelo domicílio do réu.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.46",
   "para": "cc.73",
   "tipo": "complementa",
-  "grau": "mesmo",
-  "porque": "O art. 73 do CC complementa o art. 46 do CPC ao definir que, na ausência de residência habitual, o domicílio da pessoa natural é o lugar onde for encontrada; é exatamente o critério subsidiário que o próprio art. 46 adota quando incerto ou desconhecido o domicílio do réu.",
+  "grau": "conexo",
+  "porque": "O art. 73 do Código Civil considera domicílio da pessoa natural sem residência habitual o lugar onde for encontrada, o que define o foro do art. 46 do CPC nesse caso. Difere do § 2º do art. 46, que, para domicílio incerto ou desconhecido, permite demandar o réu onde for encontrado ou no foro de domicílio do autor.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.46",
   "para": "cc.75",
   "tipo": "complementa",
-  "grau": "mesmo",
-  "porque": "O art. 75 do CC complementa o art. 46 do CPC ao definir o domicílio das pessoas jurídicas, elemento necessário para fixar o foro competente quando a ré for pessoa jurídica de direito público ou privado.",
+  "grau": "conexo",
+  "porque": "O art. 75 do Código Civil define o domicílio das pessoas jurídicas de direito público e privado, elemento necessário para aplicar o art. 46 do CPC, que fixa o foro pelo domicílio do réu, quando a ré for pessoa jurídica.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.46",
@@ -1820,34 +1650,26 @@
   "em": "2026-09-28T12:39:01+00:00"
  },
  {
-  "de": "cpc.46",
-  "para": "cpp.72",
-  "tipo": "complementa",
-  "grau": "conexo",
-  "porque": "O art. 72 do CPP adota, para a ação penal privada quando desconhecido o lugar da infração, o domicílio ou residência do réu como critério subsidiário de competência, instituto conexo ao do art. 46 do CPC, que também elege o domicílio do réu como critério de fixação do foro.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
- },
- {
-  "de": "cpc.485",
-  "para": "l9099.51",
+  "de": "l9099.51",
+  "para": "cpc.485",
   "tipo": "especializa",
   "grau": "mesmo",
-  "porque": "A Lei 9.099/95 especializa, para os Juizados Especiais, as hipóteses de extinção do processo do art. 485 do CPC, acrescentando causas próprias como o não comparecimento do autor a qualquer audiência, hipótese que no procedimento comum não gera, por si só, a extinção sem resolução do mérito.",
+  "porque": "O art. 51 da Lei 9.099/1995 acrescenta, para os Juizados Especiais, causas próprias de extinção do processo às do art. 485 do CPC, como a ausência do autor a qualquer das audiências (inciso I), hipótese que no procedimento comum não gera, por si só, a extinção sem resolução do mérito.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.485",
   "para": "cpp.95",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O art. 95 do CPP trata como exceções processuais a suspeição, a incompetência, a litispendência, a ilegitimidade de parte e a coisa julgada, matérias que no processo civil configuram, pelo art. 485 do CPC, causas de extinção sem resolução do mérito reconhecíveis de ofício, o que pode confundir os dois regimes de arguição.",
+  "porque": "O art. 95 do CPP prevê como exceções a suspeição, a incompetência de juízo, a litispendência, a ilegitimidade de parte e a coisa julgada, ao passo que o art. 485 do CPC trata a litispendência e a coisa julgada (inciso V) e a ausência de legitimidade (inciso VI) como causas de extinção sem resolução do mérito, cognoscíveis de ofício pelo § 3º. A coincidência parcial dessas matérias pode levar a confundir a via de arguição do processo penal com o regime de extinção do processo civil.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T12:39:01+00:00"
+  "em": "2026-09-28T12:39:01+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.485",
@@ -1870,16 +1692,6 @@
   "em": "2026-09-28T13:30:49+00:00"
  },
  {
-  "de": "cc.73",
-  "para": "ctn.127",
-  "tipo": "confundivel_com",
-  "grau": "conexo",
-  "porque": "Ambos tratam do domicílio subsidiário da pessoa natural sem residência habitual, mas adotam critérios diferentes: o art. 73 do CC elege o lugar onde a pessoa for encontrada, enquanto o art. 127, I, do CTN, para fins tributários, elege o centro habitual de sua atividade, o que gera risco de confusão entre os dois critérios subsidiários.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T13:30:49+00:00"
- },
- {
   "de": "cc.75",
   "para": "ctn.127",
   "tipo": "especializa",
@@ -1890,41 +1702,11 @@
   "em": "2026-09-28T13:30:49+00:00"
  },
  {
-  "de": "cc.75",
-  "para": "d9580.202",
-  "tipo": "regulamenta",
-  "grau": "conexo",
-  "porque": "O art. 202 do RIR/2018 regulamenta, para fins de imposto sobre a renda, o domicílio fiscal da pessoa jurídica com base no critério da sede ou do estabelecimento centralizador, refletindo em âmbito tributário-regulamentar a lógica de domicílio por estabelecimento do art. 75, §1º, do Código Civil.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T13:30:49+00:00"
- },
- {
   "de": "cf.179",
   "para": "lcp123.1",
   "tipo": "regulamenta",
   "grau": "mesmo",
   "porque": "O art. 1º da LC 123/06 regulamenta diretamente o comando do art. 179 da CF, estabelecendo as normas gerais de tratamento diferenciado e favorecido às microempresas e empresas de pequeno porte no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T13:30:49+00:00"
- },
- {
-  "de": "cf.182",
-  "para": "ctn.32",
-  "tipo": "excepciona",
-  "grau": "conexo",
-  "porque": "O art. 182, §4º, II, da CF autoriza modalidade especial de IPTU progressivo no tempo, como sanção urbanística ao proprietário que não promove o adequado aproveitamento do solo urbano, excepcionando o regime ordinário do imposto cujo fato gerador é definido pelo art. 32 do CTN.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T13:30:49+00:00"
- },
- {
-  "de": "cf.182",
-  "para": "lcp214.159",
-  "tipo": "complementa",
-  "grau": "conexo",
-  "porque": "O art. 159 da LC 214/2025 complementa a política de desenvolvimento urbano prevista no art. 182 da CF ao instituir instrumento voltado à reabilitação urbana de zonas históricas e áreas críticas dos Municípios, para preservação patrimonial, qualificação de espaços públicos e melhoria da infraestrutura urbana.",
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T13:30:49+00:00"
@@ -1945,16 +1727,6 @@
   "tipo": "especializa",
   "grau": "conexo",
   "porque": "O art. 128 da Lei 8.213/91 especializa, para as demandas previdenciárias de pequeno valor, o mecanismo do art. 535, §3º, II, do CPC, que dispensa a expedição de precatório e prevê a quitação da obrigação de pequeno valor em prazo próprio.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T13:30:49+00:00"
- },
- {
-  "de": "cpc.535",
-  "para": "adct.87",
-  "tipo": "complementa",
-  "grau": "mesmo",
-  "porque": "O art. 87 do ADCT complementa o art. 535, §3º, II, do CPC ao fixar, em salários mínimos, os valores que caracterizam a obrigação de pequeno valor da Fazenda dos Estados, do Distrito Federal e dos Municípios para fins de dispensa de precatório.",
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T13:30:49+00:00"
@@ -2084,10 +1856,11 @@
   "para": "clt.799",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O art. 64 do CPC trata a incompetência como preliminar de contestação, sem suspensão do feito, enquanto o art. 799 da CLT ainda a disciplina como exceção autônoma que suspende o processo trabalhista, terminologia e rito que podem ser confundidos entre os dois regimes.",
+  "porque": "O art. 64 do CPC determina que a incompetência, absoluta ou relativa, seja alegada como questão preliminar de contestação, enquanto o art. 799 da CLT ainda a disciplina como exceção oposta com suspensão do feito no processo trabalhista, diferença de terminologia e de rito que pode gerar confusão entre os dois regimes.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T14:30:55+00:00"
+  "em": "2026-09-28T14:30:55+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.64",
@@ -2144,10 +1917,11 @@
   "para": "cc.362",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O inciso III do art. 779 do CPC refere se ao novo devedor que assumiu a obrigação do título executivo, hipótese de assunção de dívida que não se confunde com a novação subjetiva passiva do art. 362 do Código Civil, na qual se extingue a obrigação originária mediante a constituição de outra, independentemente do consentimento do devedor primitivo.",
+  "porque": "O inciso III do art. 779 do CPC refere-se ao novo devedor que assumiu, com o consentimento do credor, a obrigação resultante do título executivo, hipótese de assunção de dívida que não se confunde com a novação por substituição do devedor do art. 362 do Código Civil, que pode ser efetuada independentemente do consentimento do devedor primitivo.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T14:30:55+00:00"
+  "em": "2026-09-28T14:30:55+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.784",
@@ -2164,30 +1938,33 @@
   "para": "cc.1424",
   "tipo": "complementa",
   "grau": "mesmo",
-  "porque": "O inciso V do art. 784 do CPC atribui eficácia executiva ao contrato garantido por penhor, anticrese ou hipoteca, cuja validade depende dos requisitos de conteúdo exigidos pelo art. 1.424 do Código Civil, sob pena de ineficácia da garantia.",
+  "porque": "O inciso V do art. 784 do CPC atribui eficácia executiva ao contrato garantido por hipoteca, penhor ou anticrese, cuja eficácia depende da declaração dos elementos exigidos pelos incisos I a IV do art. 1.424 do Código Civil, como o valor do crédito, o prazo, a taxa de juros e o bem dado em garantia.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T14:30:55+00:00"
+  "em": "2026-09-28T14:30:55+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.784",
   "para": "cc.221",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O inciso III do art. 784 do CPC atribui eficácia de título executivo ao documento particular assinado pelo devedor e por duas testemunhas, independentemente de registro, o que não se confunde com a exigência de registro do art. 221 do Código Civil para que o instrumento particular produza efeitos perante terceiros, questão distinta da executividade entre as partes.",
+  "porque": "O inciso III do art. 784 do CPC atribui eficácia de título executivo ao documento particular assinado pelo devedor e por duas testemunhas, sem condicioná-la a registro, o que não se confunde com a exigência de registro do art. 221 do Código Civil para que o instrumento particular produza efeitos perante terceiros, questão distinta da executividade entre as partes.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T14:30:55+00:00"
+  "em": "2026-09-28T14:30:55+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.790",
   "para": "l11101.82-A",
   "tipo": "complementa",
-  "grau": "mesmo",
-  "porque": "O art. 82-A da Lei 11.101/05 veda a extensão automática dos efeitos da falência aos sócios e administradores, admitindo apenas a desconsideração da personalidade jurídica, disciplina que complementa a hipótese de sujeição patrimonial do inciso VII do art. 790 do CPC.",
+  "grau": "conexo",
+  "porque": "O art. 82-A da Lei 11.101/05 veda a extensão da falência ou de seus efeitos aos sócios de responsabilidade limitada, aos controladores e aos administradores da sociedade falida, admitida a desconsideração da personalidade jurídica decretada pelo juízo falimentar na forma do parágrafo único. A regra se relaciona com a sujeição à execução dos bens do responsável nos casos de desconsideração, prevista no inciso VII do art. 790 do CPC.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T14:30:55+00:00"
+  "em": "2026-09-28T14:30:55+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.790",
@@ -2273,21 +2050,23 @@
   "de": "cc.1029",
   "para": "cpc.601",
   "tipo": "procedimento_de",
-  "grau": "mesmo",
-  "porque": "O CPC, art. 601 disciplina a citação dos sócios e da sociedade na ação de dissolução parcial que veicula o exercício do direito de retirada previsto no art. 1.029 do Código Civil.",
+  "grau": "conexo",
+  "porque": "O art. 601 do CPC disciplina a citação dos sócios e da sociedade na ação de dissolução parcial, regra comum a todas as hipóteses dessa ação e aplicável quando ela veicula o exercício do direito de retirada previsto no art. 1.029 do Código Civil.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T15:23:48+00:00"
+  "em": "2026-09-28T15:23:48+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.1029",
   "para": "lsa.221",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "A LSA, art. 221 assegura direito de retirada ao sócio dissidente na transformação da sociedade em companhia, instituto conexo ao direito de retirada por prazo indeterminado ou justa causa do art. 1.029 do Código Civil, mas sujeito a hipótese e regime próprios, o que gera risco de confusão entre os dois direitos de retirada.",
+  "porque": "O art. 221 da LSA assegura direito de retirada ao sócio dissidente quando a transformação, por estar prevista no estatuto ou no contrato social, dispensar o consentimento unânime, hipótese distinta do direito de retirada por prazo indeterminado ou por justa causa do art. 1.029 do Código Civil. A proximidade entre os dois direitos de retirada, com pressupostos e regimes próprios, gera risco de confusão.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T15:23:48+00:00"
+  "em": "2026-09-28T15:23:48+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.1030",
@@ -2303,41 +2082,45 @@
   "de": "cc.1030",
   "para": "l11101.123",
   "tipo": "complementa",
-  "grau": "mesmo",
-  "porque": "A Lei 11.101/05, art. 123 disciplina como se apuram, para a massa falida, os haveres do sócio comanditário ou cotista que também for falido, complementando a exclusão de pleno direito do sócio declarado falido prevista no parágrafo único do art. 1.030 do Código Civil.",
+  "grau": "conexo",
+  "porque": "O art. 123 da Lei 11.101/05 determina que, se o falido for sócio comanditário ou cotista, entrarão para a massa falida somente os haveres que possuir na sociedade, apurados na forma do contrato ou estatuto ou, no silêncio destes, judicialmente, nos termos do § 1º. A regra se relaciona com a exclusão de pleno direito do sócio declarado falido prevista no parágrafo único do art. 1.030 do Código Civil.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T15:23:48+00:00"
+  "em": "2026-09-28T15:23:48+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.1077",
   "para": "lsa.221",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "A LSA, art. 221 assegura ao sócio dissidente da transformação em companhia o direito de retirada, instituto conexo ao direito de retirada do sócio que dissentir da fusão ou incorporação previsto no art. 1.077 do Código Civil, mas sujeito a regime societário próprio das sociedades anônimas.",
+  "porque": "O art. 221 da LSA assegura direito de retirada ao sócio dissidente quando a transformação, por estar prevista no estatuto ou no contrato social, dispensar o consentimento unânime, instituto próximo do direito de retirada do sócio que dissentir da modificação do contrato, da fusão ou da incorporação previsto no art. 1.077 do Código Civil, mas com hipótese e regime próprios.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T15:23:48+00:00"
+  "em": "2026-09-28T15:23:48+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.1077",
   "para": "cpc.609",
   "tipo": "complementa",
   "grau": "mesmo",
-  "porque": "O CPC, art. 609 disciplina o pagamento dos haveres do sócio retirante segundo o contrato social e, no silêncio deste, segundo o § 2º do art. 1.031, hipótese para a qual remete também o art. 1.077 do Código Civil quando o sócio dissentir da fusão ou incorporação, complementando a disciplina da retirada.",
+  "porque": "O art. 1.077 do Código Civil assegura ao sócio que dissentiu da modificação do contrato, da fusão ou da incorporação o direito de retirada, aplicando-se, no silêncio do contrato social, o art. 1.031, e o art. 609 do Código de Processo Civil disciplina o pagamento dos haveres do sócio retirante conforme o contrato social e, no silêncio deste, nos termos do § 2º do art. 1.031 do Código Civil.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T15:23:48+00:00"
+  "em": "2026-09-28T15:23:48+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.1085",
   "para": "lcp123.70",
-  "tipo": "excepciona",
+  "tipo": "complementa",
   "grau": "mesmo",
-  "porque": "A LC 123/06, art. 70, § 1º, exclui as microempresas e empresas de pequeno porte da dispensa geral de reuniões e assembleias quando houver hipótese de justa causa que enseje a exclusão de sócio ou atos de inegável gravidade que coloquem em risco a continuidade da empresa, excepcionando essa dispensa exatamente para preservar a deliberação em assembleia exigida pelo art. 1.085 do Código Civil.",
+  "porque": "O art. 70 da Lei Complementar 123/06 dispensa as microempresas e empresas de pequeno porte das reuniões e assembleias previstas na legislação civil, mas o § 1º afasta a dispensa na hipótese de justa causa para exclusão de sócio ou de atos de inegável gravidade, e o § 2º determina a reunião ou assembleia conforme a legislação civil, mantendo para essas empresas a exigência do parágrafo único do art. 1.085 do Código Civil.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T15:23:48+00:00"
+  "em": "2026-09-28T15:23:48+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.1424",
@@ -2373,11 +2156,12 @@
   "de": "cc.171",
   "para": "cpc.393",
   "tipo": "especializa",
-  "grau": "mesmo",
-  "porque": "O CPC, art. 393 aplica à confissão as causas de anulação por erro de fato ou coação, especializando para esse ato processual as hipóteses gerais de erro e coação como vícios do negócio jurídico previstas no art. 171 do Código Civil.",
+  "grau": "conexo",
+  "porque": "O art. 393 do Código de Processo Civil admite a anulação da confissão que decorreu de erro de fato ou de coação, aplicando a esse meio de prova vícios que o art. 171, II, do Código Civil enumera entre as causas de anulabilidade do negócio jurídico.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T15:23:48+00:00"
+  "em": "2026-09-28T15:23:48+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.171",
@@ -2394,10 +2178,11 @@
   "para": "l11101.19",
   "tipo": "especializa",
   "grau": "conexo",
-  "porque": "A Lei 11.101/05, art. 19 permite a exclusão, reclassificação ou retificação de crédito na falência ou na recuperação judicial em razão de dolo, simulação, fraude ou erro essencial, especializando para a verificação de créditos falimentares as causas gerais de invalidade do negócio jurídico referidas no art. 171 do Código Civil.",
+  "porque": "O art. 19 da Lei 11.101/05 permite pedir, até o encerramento da recuperação judicial ou da falência, a exclusão, outra classificação ou a retificação de crédito nos casos de descoberta de falsidade, dolo, simulação, fraude, erro essencial ou documentos ignorados, aplicando à verificação de créditos vícios que coincidem em parte com as causas de anulabilidade do art. 171, II, do Código Civil (erro, dolo e fraude contra credores).",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T15:23:48+00:00"
+  "em": "2026-09-28T15:23:48+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.178",
@@ -2480,41 +2265,11 @@
   "em": "2026-09-28T16:19:58+00:00"
  },
  {
-  "de": "cc.302",
-  "para": "cpp.95",
-  "tipo": "confundivel_com",
-  "grau": "contato",
-  "porque": "O termo exceções empregado no art. 95 do CPP designa instituto processual penal, isto é, defesas de suspeição, incompetência, litispendência, ilegitimidade de parte e coisa julgada, distinto das exceções pessoais de direito material de que trata o art. 302 do CC, relativas às defesas próprias do devedor primitivo na assunção de dívida.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T16:19:58+00:00"
- },
- {
-  "de": "cc.362",
-  "para": "l11101.59",
-  "tipo": "especializa",
-  "grau": "conexo",
-  "porque": "O art. 59 da Lei 11.101/05 institui regime especial de novação no âmbito da recuperação judicial, que obriga devedor e credores por força do plano homologado e independe de manifestação individual de vontade, diversamente da novação civil do art. 362 do CC, que depende de negócio jurídico entre as partes.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T16:19:58+00:00"
- },
- {
   "de": "cc.391",
   "para": "cpc.789",
   "tipo": "complementa",
   "grau": "mesmo",
   "porque": "O art. 789 do CPC complementa o princípio da responsabilidade patrimonial consagrado no art. 391 do CC, especificando que o devedor responde com seus bens presentes e futuros, ressalvadas as restrições legais, na fase de cumprimento forçado da obrigação.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T16:19:58+00:00"
- },
- {
-  "de": "cc.391",
-  "para": "l11101.6-C",
-  "tipo": "especializa",
-  "grau": "conexo",
-  "porque": "O art. 6º-C da Lei 11.101/05 especializa, no âmbito da falência e da recuperação judicial, o princípio geral do art. 391 do CC ao vedar a atribuição de responsabilidade a terceiros pelo mero inadimplemento do devedor, ressalvadas as garantias reais e fidejussórias e as demais hipóteses da própria lei.",
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T16:19:58+00:00"
@@ -2543,11 +2298,12 @@
   "de": "cc.836",
   "para": "cpc.796",
   "tipo": "complementa",
-  "grau": "mesmo",
+  "grau": "conexo",
   "porque": "O art. 796 do CPC aplica o mesmo critério do art. 836 do CC, segundo o qual a responsabilidade sucessória se limita às forças da herança, ao dispor que o espólio responde pelas dívidas do falecido e, feita a partilha, cada herdeiro responde na proporção da parte que lhe coube.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T16:19:58+00:00"
+  "em": "2026-09-28T16:19:58+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.836",
@@ -2574,10 +2330,11 @@
   "para": "adct.104",
   "tipo": "complementa",
   "grau": "conexo",
-  "porque": "O art. 104 do ADCT complementa o mecanismo de sequestro previsto no art. 100, § 6º, da Constituição Federal, ao autorizar o Presidente do Tribunal de Justiça local a determinar o sequestro de valores quando os recursos do regime especial de pagamento de precatórios não forem liberados tempestivamente.",
+  "porque": "O art. 104 do ADCT determina o sequestro das contas do ente inadimplente, por ordem do Presidente do Tribunal de Justiça local, quando não forem tempestivamente liberados os recursos do regime especial do art. 101 do ADCT, providência que o art. 100 da Constituição Federal prevê no § 6º para o preterimento do direito de precedência ou a não alocação orçamentária e no § 27, II, para a não liberação dos recursos sujeitos aos limites do § 23.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T16:19:58+00:00"
+  "em": "2026-09-28T16:19:58+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cf.100",
@@ -2600,54 +2357,26 @@
   "em": "2026-09-28T16:19:58+00:00"
  },
  {
-  "de": "clt.799",
-  "para": "cc.281",
-  "tipo": "confundivel_com",
-  "grau": "contato",
-  "porque": "O termo exceções pessoais utilizado no art. 281 do CC refere-se a defesas de direito material que o codevedor solidário pode opor ao credor, instituto distinto das exceções processuais de suspeição e incompetência de que trata o art. 799 da CLT, malgrado a identidade terminológica.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T16:19:58+00:00"
- },
- {
-  "de": "cpc.283",
-  "para": "l9099.27",
-  "tipo": "especializa",
-  "grau": "mesmo",
-  "porque": "O art. 27 da Lei 9.099/95 aplica, para a hipótese específica de não instituição do juízo arbitral nos Juizados Especiais, o mesmo critério de aproveitamento dos atos processuais do art. 283, parágrafo único, do CPC, ao autorizar o prosseguimento da audiência desde que não resulte prejuízo para a defesa.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T16:19:58+00:00"
- },
- {
   "de": "adct.86",
   "para": "l14133.141",
   "tipo": "confundivel_com",
-  "grau": "conexo",
+  "grau": "contato",
   "porque": "O art. 86 do ADCT determina que os débitos de precatório de pequeno valor sejam pagos observada a ordem cronológica de apresentação, enquanto o art. 141 da Lei 14.133/21 estabelece ordem cronológica distinta para os pagamentos devidos pela Administração em contratos administrativos, o que pode gerar confusão entre os dois regimes de prioridade de pagamento.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T17:19:34+00:00"
+  "em": "2026-09-28T17:19:34+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.281",
   "para": "cpc.1005",
   "tipo": "complementa",
-  "grau": "mesmo",
+  "grau": "conexo",
   "porque": "O art. 281 do Código Civil distingue as exceções pessoais das exceções comuns a todos os codevedores solidários, e o parágrafo único do art. 1.005 do CPC aplica essa mesma distinção ao definir que o recurso de um devedor solidário aproveita aos demais quando as defesas opostas ao credor lhes forem comuns.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T17:19:34+00:00"
- },
- {
-  "de": "cc.281",
-  "para": "cpp.95",
-  "tipo": "confundivel_com",
-  "grau": "contato",
-  "porque": "O art. 281 do Código Civil cuida das exceções como defesas de direito material do codevedor solidário, ao passo que o art. 95 do Código de Processo Penal lista as exceções processuais de suspeição, incompetência, litispendência, ilegitimidade de parte e coisa julgada, institutos homônimos mas sem relação de conteúdo entre si.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T17:19:34+00:00"
+  "em": "2026-09-28T17:19:34+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.393",
@@ -2684,60 +2413,66 @@
   "para": "cc.1177",
   "tipo": "especializa",
   "grau": "conexo",
-  "porque": "O inciso III do art. 410 do CPC inclui, como exemplo de documento cujo autor não é quem assina, os livros empresariais; o art. 1.177 do CC especializa essa regra ao determinar que os assentos lançados nos livros do preponente por qualquer preposto produzem os mesmos efeitos como se lançados pelo próprio preponente, salvo má fé. São institutos conexos, o civil aplicando concretamente a atribuição de autoria prevista na lei processual.",
+  "porque": "O art. 410, III, do Código de Processo Civil considera autor do documento particular aquele que, mandando compô-lo, não o firmou porque não se costuma assinar, como os livros empresariais, e o art. 1.177 do Código Civil atribui ao preponente, salvo má-fé, os efeitos dos assentos lançados em seus livros ou fichas por qualquer dos prepostos encarregados da escrituração.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T19:18:43+00:00"
+  "em": "2026-09-28T19:18:43+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.412",
   "para": "cc.223",
   "tipo": "complementa",
   "grau": "conexo",
-  "porque": "O art. 412 do CPC estabelece que o documento particular cuja autenticidade não se questiona prova a declaração nele atribuída ao autor; o art. 223 do CC estende raciocínio semelhante à cópia fotográfica conferida por tabelião, que vale como prova da declaração de vontade enquanto não impugnada sua autenticidade, caso em que se exige a exibição do original. São institutos conexos dentro do mesmo tema da eficácia probatória dos documentos, cada um tratando de um suporte diferente.",
+  "porque": "O art. 412 do Código de Processo Civil estabelece que o documento particular de cuja autenticidade não se duvida prova que o autor fez a declaração que lhe é atribuída, e o art. 223 do Código Civil dá à cópia fotográfica conferida por tabelião valor de prova da declaração de vontade, exigindo a exibição do original se impugnada a autenticidade. Ambos tratam da eficácia probatória de documentos, mas em suportes diferentes (original e cópia autenticada).",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T19:18:43+00:00"
+  "em": "2026-09-28T19:18:43+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.428",
   "para": "clt.830",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O art. 428 do CPC dispõe que cessa a fé do documento particular quando impugnada sua autenticidade, até que se comprove sua veracidade; o art. 830 da CLT, ao tratar de cópia impugnada no processo do trabalho, determina consequência diversa, a intimação da parte para apresentar cópia autenticada ou o original. Há risco real de confusão entre os dois regimes, pois ambos regulam o efeito da impugnação de autenticidade, mas cada um se aplica a um objeto e a uma consequência processual distintos.",
+  "porque": "O art. 428, I, do Código de Processo Civil faz cessar a fé do documento particular impugnado quanto à autenticidade, enquanto não se comprovar sua veracidade, ao passo que o parágrafo único do art. 830 da Consolidação das Leis do Trabalho determina, impugnada a autenticidade da cópia, a intimação da parte para apresentar cópias autenticadas ou o original. O risco de confusão decorre de ambos regularem o efeito da impugnação de autenticidade, com objeto e consequência distintos.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T19:18:43+00:00"
+  "em": "2026-09-28T19:18:43+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.495",
   "para": "cc.1422",
   "tipo": "especializa",
   "grau": "conexo",
-  "porque": "O § 4º do art. 495 do CPC atribui ao credor da hipoteca judiciária o direito de preferência no pagamento, observada a prioridade no registro; o art. 1.422 do CC estabelece a mesma regra de preferência por prioridade de registro para o credor hipotecário em geral. O art. 495 do CPC especializa, para a hipoteca judiciária, o regime geral de preferência da hipoteca convencional previsto no CC.",
+  "porque": "O § 4º do art. 495 do Código de Processo Civil confere ao credor da hipoteca judiciária direito de preferência no pagamento em relação a outros credores, observada a prioridade no registro, aplicando a essa modalidade a regra que o art. 1.422 do Código Civil estabelece para o credor hipotecário em geral.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T19:18:43+00:00"
+  "em": "2026-09-28T19:18:43+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.495",
   "para": "cc.1492",
   "tipo": "complementa",
   "grau": "mesmo",
-  "porque": "O § 2º do art. 495 do CPC permite constituir a hipoteca judiciária mediante apresentação de cópia da sentença ao cartório de registro imobiliário; o art. 1.492 do CC exige que a hipoteca seja registrada no cartório do lugar do imóvel, mediante exibição do título ao interessado. Tratam do mesmo instituto do registro da hipoteca, sendo a sentença o título hábil para a hipoteca judiciária.",
+  "porque": "O § 2º do art. 495 do Código de Processo Civil permite realizar a hipoteca judiciária mediante apresentação de cópia da sentença perante o cartório de registro imobiliário, e o art. 1.492 do Código Civil determina que as hipotecas sejam registradas no cartório do lugar do imóvel, competindo aos interessados, exibido o título, requerer o registro.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T19:18:43+00:00"
+  "em": "2026-09-28T19:18:43+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.599",
   "para": "cc.1029",
   "tipo": "procedimento_de",
   "grau": "mesmo",
-  "porque": "O inciso I do art. 599 do CPC prevê a ação de dissolução parcial de sociedade para o sócio que exerceu o direito de retirada ou recesso; o art. 1.029 do CC disciplina esse direito material, exigindo notificação com antecedência mínima de sessenta dias se a sociedade for de prazo indeterminado, ou prova judicial de justa causa se de prazo determinado. O art. 599 do CPC é o procedimento para a ação decorrente do exercício desse direito.",
+  "porque": "O art. 599, I e II, do Código de Processo Civil prevê a ação de dissolução parcial para a resolução da sociedade e a apuração de haveres em relação ao sócio que exerceu o direito de retirada, direito material que o art. 1.029 do Código Civil disciplina, exigindo notificação com antecedência mínima de sessenta dias na sociedade de prazo indeterminado ou prova judicial de justa causa na de prazo determinado.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T19:18:43+00:00"
+  "em": "2026-09-28T19:18:43+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.599",
@@ -2752,22 +2487,24 @@
  {
   "de": "cpc.599",
   "para": "lsa.206",
-  "tipo": "especializa",
-  "grau": "mesmo",
-  "porque": "O § 2º do art. 599 do CPC estende a ação de dissolução parcial à sociedade anônima de capital fechado quando demonstrado, por acionistas com cinco por cento ou mais do capital, que a companhia não pode preencher o seu fim; o art. 206, II, b, da LSA já previa a dissolução judicial da companhia por essa mesma causa, a impossibilidade de preencher o fim social. O CPC especializa, para a ação de dissolução parcial, a mesma causa de dissolução judicial já prevista na LSA.",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 599 do CPC admite a ação de dissolução parcial da sociedade anônima de capital fechado quando acionistas que representem cinco por cento ou mais do capital social demonstrarem que ela não pode preencher o seu fim, mesma hipótese que o art. 206, II, b, da LSA prevê para a dissolução judicial da companhia. Os remédios são distintos, pois a LSA conduz à dissolução total e o CPC apenas à dissolução parcial, o que gera risco real de confusão entre eles.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T19:18:43+00:00"
+  "em": "2026-09-28T19:18:43+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.1031",
   "para": "cpc.600",
   "tipo": "procedimento_de",
   "grau": "conexo",
-  "porque": "O art. 1.031 do CC fixa o critério de apuração do valor da quota do sócio cuja saída resolve a sociedade, e o parágrafo único do art. 600 do CPC legitima o cônjuge ou companheiro do sócio a requerer essa apuração de haveres, a ser paga à conta da quota titulada por ele. O CPC disciplina a legitimidade processual para o exercício do direito material regulado pelo CC.",
+  "porque": "O parágrafo único do art. 600 do CPC permite ao cônjuge ou companheiro do sócio, terminado o casamento, a união estável ou a convivência, requerer a apuração de seus haveres na sociedade, pagos à conta da quota titulada pelo sócio. O art. 1.031 do CC fixa o critério de liquidação da quota quando a sociedade se resolve em relação a um sócio, hipótese conexa, mas diversa, pois o ex-cônjuge não é sócio e a apuração a seu pedido não resolve a sociedade quanto ao titular da quota.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T20:18:14+00:00"
+  "em": "2026-09-28T20:18:14+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.1031",
@@ -2784,10 +2521,11 @@
   "para": "cpc.608",
   "tipo": "complementa",
   "grau": "mesmo",
-  "porque": "O art. 1.031 do CC determina que a quota seja liquidada conforme a situação patrimonial da sociedade na data da resolução, mas não especifica todas as parcelas que compõem o valor devido ao ex-sócio. O art. 608 do CPC complementa esse critério ao incluir, até a data da resolução, a participação nos lucros, os juros sobre capital próprio e a remuneração como administrador.",
+  "porque": "O art. 1.031 do CC determina que a quota seja liquidada conforme a situação patrimonial da sociedade na data da resolução, mas não especifica todas as parcelas que compõem o valor devido ao ex-sócio. O art. 608 do CPC complementa esse critério ao incluir, até a data da resolução, a participação nos lucros ou os juros sobre o capital próprio declarados pela sociedade e, se for o caso, a remuneração como administrador.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T20:18:14+00:00"
+  "em": "2026-09-28T20:18:14+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.1031",
@@ -2804,10 +2542,11 @@
   "para": "l8078.34",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O art. 1.177 do CC responsabiliza o preponente perante terceiros apenas solidariamente com o preposto pelos atos dolosos, respondendo o preposto pessoalmente, perante o preponente, pelos atos culposos. O art. 34 do CDC impõe ao fornecedor responsabilidade solidária pelos atos de prepostos e representantes autônomos sem distinguir dolo e culpa, o que gera risco de confusão sobre qual regime de responsabilidade se aplica nas relações de consumo.",
+  "porque": "O parágrafo único do art. 1.177 do CC torna os prepostos pessoalmente responsáveis perante os preponentes pelos atos culposos e, perante terceiros, solidariamente com o preponente pelos atos dolosos. O art. 34 do CDC torna o fornecedor solidariamente responsável pelos atos de seus prepostos ou representantes autônomos, sem distinguir dolo e culpa, o que gera risco de confusão sobre o regime aplicável nas relações de consumo.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T20:18:14+00:00"
+  "em": "2026-09-28T20:18:14+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.1177",
@@ -2824,50 +2563,44 @@
   "para": "cc.1422",
   "tipo": "excepciona",
   "grau": "conexo",
-  "porque": "O art. 1.422 do CC garante ao credor hipotecário e ao pignoratício o direito de excutir a coisa e preferir no pagamento, observada a prioridade no registro. O inciso III do art. 129 da Lei 11.101/05 excepciona essa preferência ao declarar ineficaz, em relação à massa falida, a constituição de direito real de garantia realizada dentro do termo legal anterior à falência, ainda que o credor desconheça a crise econômico financeira do devedor.",
+  "porque": "O art. 1.422 do CC garante ao credor hipotecário e ao pignoratício o direito de excutir a coisa e de preferir no pagamento, observada, quanto à hipoteca, a prioridade no registro. O inciso III do art. 129 da Lei 11.101/05 excepciona essa preferência ao declarar ineficaz em relação à massa falida a constituição de direito real de garantia dentro do termo legal, quando se tratar de dívida contraída anteriormente, tenha ou não o contratante conhecimento da crise econômico-financeira do devedor.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T20:18:14+00:00"
+  "em": "2026-09-28T20:18:14+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.804",
   "para": "cc.1422",
   "tipo": "complementa",
-  "grau": "mesmo",
-  "porque": "O art. 1.422 do CC assegura ao credor hipotecário e ao pignoratício o direito de excutir o bem gravado e de preferir no pagamento. O art. 804 do CPC complementa esse direito na execução ao tornar ineficaz, em relação ao credor pignoratício, hipotecário ou anticrético, a alienação do bem gravado quando ele não tiver sido intimado, garantindo na prática a preferência assegurada pelo CC.",
+  "grau": "conexo",
+  "porque": "O art. 1.422 do CC assegura ao credor hipotecário e ao pignoratício o direito de excutir o bem gravado e de preferir no pagamento. O art. 804 do CPC protege esse credor na execução ao tornar ineficaz em relação a ele, quando não intimado, a alienação do bem gravado por penhor, hipoteca ou anticrese, regra conexa que não regula a preferência em si.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T20:18:14+00:00"
- },
- {
-  "de": "cpp.143",
-  "para": "cc.1492",
-  "tipo": "confundivel_com",
-  "grau": "contato",
-  "porque": "O art. 1.492 do CC trata do registro da hipoteca convencional no cartório do lugar do imóvel, mediante requerimento do interessado que exiba o título. O art. 143 do CPP cuida da hipoteca legal decretada no processo penal, cujos autos são remetidos ao juízo cível após o trânsito em julgado da sentença condenatória, regime de constituição e registro totalmente diverso do civil, o que gera risco de confusão entre as duas figuras.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T20:18:14+00:00"
+  "em": "2026-09-28T20:18:14+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.223",
   "para": "cpc.424",
   "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O art. 223 do CC atribui à cópia fotográfica de documento, quando conferida por tabelião de notas, o mesmo valor da declaração de vontade original, em regime extrajudicial. O art. 424 do CPC confere o mesmo valor probante à cópia de documento particular, mas mediante conferência do escrivão dentro do processo judicial, de modo que há risco de confundir qual autoridade deve certificar a cópia conforme o documento esteja ou não em juízo.",
+  "porque": "O art. 223 do CC dispõe que a cópia fotográfica de documento, conferida por tabelião de notas, vale como prova de declaração da vontade, devendo ser exibido o original se impugnada sua autenticidade. O art. 424 do CPC atribui à cópia de documento particular o mesmo valor probante do original, cabendo ao escrivão, intimadas as partes, conferir e certificar a conformidade no processo, o que gera risco de confusão sobre quem deve certificar a cópia.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T20:18:14+00:00"
+  "em": "2026-09-28T20:18:14+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "l9492.39",
   "para": "cc.223",
   "tipo": "especializa",
-  "grau": "mesmo",
-  "porque": "O art. 223 do CC estabelece a regra geral de que a cópia fotográfica de documento, conferida por tabelião de notas, tem o mesmo valor da declaração de vontade original. O art. 39 da Lei 9.492/97 especializa essa regra para o âmbito do Tabelionato de Protesto, ao atribuir o mesmo valor do original à reprodução de microfilme ou de processamento eletrônico da imagem do título arquivado, quando autenticada pelo tabelião de protesto ou por seu substituto.",
+  "grau": "conexo",
+  "porque": "O art. 223 do CC dispõe que a cópia fotográfica de documento, conferida por tabelião de notas, vale como prova de declaração da vontade. O art. 39 da Lei 9.492/97 trata de hipótese própria do Tabelionato de Protesto, ao atribuir o mesmo valor do original à reprodução de microfilme ou do processamento eletrônico da imagem do título ou de documento arquivado, quando autenticada pelo Tabelião de Protesto, por seu substituto ou por escrevente autorizado.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T20:18:14+00:00"
+  "em": "2026-09-28T20:18:14+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.429",
@@ -2883,11 +2616,12 @@
   "de": "cpc.422",
   "para": "cc.223",
   "tipo": "confundivel_com",
-  "grau": "contato",
-  "porque": "O art. 223 do CC trata da cópia fotográfica que substitui o próprio documento como prova da declaração de vontade nele contida. O art. 422 do CPC trata da fotografia e de outras reproduções mecânicas como prova dos fatos ou das coisas que elas representam, instituto distinto, apesar de ambos tratarem do valor probatório de imagens, o que pode gerar confusão sobre qual regra rege uma fotografia usada como prova em juízo.",
+  "grau": "conexo",
+  "porque": "O art. 223 do CC trata da cópia fotográfica que substitui o próprio documento como prova da declaração de vontade nele contida. O art. 422 do CPC trata da fotografia e de outras reproduções mecânicas como prova dos fatos ou das coisas que representam, desde que não impugnada sua conformidade com o original, instituto conexo que pode ser confundido com o do CC quando uma fotografia de documento é usada como prova em juízo.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T20:18:14+00:00"
+  "em": "2026-09-28T20:18:14+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "clt.830",
@@ -2933,21 +2667,12 @@
   "de": "l11101.123",
   "para": "cpc.600",
   "tipo": "confundivel_com",
-  "grau": "contato",
-  "porque": "O art. 600 do CPC legitima o espólio ou os sucessores do sócio falecido a propor a ação de dissolução parcial de sociedade para apurar os haveres devidos. O art. 123 da Lei 11.101/05 trata da apuração dos haveres do sócio falido perante a massa falida, apuração conduzida no próprio processo falimentar e sujeita ao pagamento apenas após quitado todo o passivo da sociedade, regime diverso que pode ser confundido com a ação civil do CPC.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T20:18:14+00:00"
- },
- {
-  "de": "cc.1033",
-  "para": "cpc.601",
-  "tipo": "confundivel_com",
   "grau": "conexo",
-  "porque": "O art. 601 do CPC disciplina a citação dos sócios e da sociedade na ação de dissolução parcial, que trata apenas da resolução da sociedade quanto a um sócio determinado. O art. 1.033 do CC relaciona as hipóteses de dissolução total da sociedade, como o vencimento do prazo de duração ou o consenso unânime dos sócios, instituto conexo mas distinto, pois extingue a própria pessoa jurídica em vez de apenas excluir um sócio.",
+  "porque": "O art. 600 do CPC indica quem pode propor a ação de dissolução parcial de sociedade, como o espólio, os sucessores, a sociedade e o sócio retirante ou excluído. O art. 123 da Lei 11.101/05 manda apurar os haveres do sócio falido na forma do contrato ou do estatuto e, no silêncio, judicialmente, e o § 1º prevê que, se a sociedade tiver de liquidar-se, esses haveres só entram para a massa após o pagamento de todo o passivo social, regime próprio que pode ser confundido com a ação do CPC.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T20:18:14+00:00"
+  "em": "2026-09-28T20:18:14+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cc.1033",
@@ -2972,22 +2697,24 @@
  {
   "de": "cpc.424",
   "para": "cc.217",
-  "tipo": "complementa",
-  "grau": "mesmo",
-  "porque": "O art. 217 do Código Civil confere aos traslados e às certidões extraídos por tabelião ou oficial de registro a mesma força probante dos originais lançados em suas notas. O art. 424 do CPC trata do mesmo instituto de equivalência probatória entre cópia e original, mas no âmbito da cópia de documento particular conferida pelo escrivão no processo judicial, de modo que os dois dispositivos integram o mesmo regime de autenticação de cópias.",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 217 do CC atribui a mesma força probante aos traslados e às certidões extraídos por tabelião ou oficial de registro de instrumentos ou documentos lançados em suas notas. O art. 424 do CPC trata da cópia de documento particular, cuja conformidade com o original o escrivão confere e certifica no processo, instituto conexo, mas diverso, que pode ser confundido com o do CC.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T21:22:59+00:00"
+  "em": "2026-09-28T21:22:59+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.424",
   "para": "l8934.39-A",
   "tipo": "excepciona",
-  "grau": "conexo",
-  "porque": "O art. 39-A da Lei 8.934/94 dispensa qualquer outra autenticação para documentos de empresas já autenticados por sistemas públicos eletrônicos das juntas comerciais, excepcionando, nesse âmbito registral específico, a exigência geral do art. 424 do CPC de conferência e certificação da cópia pelo escrivão.",
+  "grau": "contato",
+  "porque": "O art. 39-A da Lei 8.934/94 dispõe que a autenticação de documentos de empresas de qualquer porte realizada por sistemas públicos eletrônicos dispensa qualquer outra. A regra toca o art. 424 do CPC, que atribui ao escrivão a conferência e a certificação da cópia de documento particular, ao dispensar outra autenticação dos documentos já autenticados por esse meio.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T21:22:59+00:00"
+  "em": "2026-09-28T21:22:59+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.424",
@@ -3014,10 +2741,11 @@
   "para": "clt.818",
   "tipo": "aplica_subsidiariamente",
   "grau": "conexo",
-  "porque": "O art. 818 da CLT fixa a regra geral de distribuição do ônus da prova no processo do trabalho, sem tratar da hipótese específica de impugnação de falsidade ou autenticidade documental. Nessa lacuna, aplica-se subsidiariamente ao processo do trabalho a regra específica do art. 429 do CPC, que atribui o ônus da prova à parte que argui a falsidade ou que impugna a autenticidade do documento.",
+  "porque": "O art. 818 da CLT fixa a regra geral de distribuição do ônus da prova no processo do trabalho, sem tratar da falsidade ou da autenticidade documental. Nessa lacuna, aplica-se subsidiariamente o art. 429 do CPC, que atribui o ônus à parte que arguir a falsidade ou o preenchimento abusivo (inciso I) e, na impugnação da autenticidade, à parte que produziu o documento (inciso II).",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T21:22:59+00:00"
+  "em": "2026-09-28T21:22:59+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.429",
@@ -3050,24 +2778,15 @@
   "em": "2026-09-28T21:22:59+00:00"
  },
  {
-  "de": "cpc.608",
-  "para": "d9580.355",
-  "tipo": "remete_a",
-  "grau": "conexo",
-  "porque": "O art. 608 do CPC inclui, entre os valores devidos ao ex-sócio até a data da resolução, os juros sobre o capital próprio declarados pela sociedade. Essa expressão técnica remete ao instituto disciplinado pelo art. 355 do RIR de 2018, que define a base de cálculo e a condição de pagamento dos juros sobre capital próprio, de modo que a norma processual pressupõe o regime tributário e societário desse instituto.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-09-28T21:22:59+00:00"
- },
- {
   "de": "cpc.609",
   "para": "cc.1031",
   "tipo": "remete_a",
   "grau": "mesmo",
-  "porque": "O art. 609 do CPC determina expressamente que, no silêncio do contrato social quanto à forma de pagamento dos haveres apurados, aplica-se o critério fixado no art. 1.031 do Código Civil, que trata da liquidação da quota do sócio retirante mediante correção monetária e prazo determinado. Trata-se de remissão explícita e literal feita pelo próprio texto do CPC ao dispositivo do Código Civil.",
+  "porque": "O art. 609 do CPC determina que, no silêncio do contrato social, os haveres apurados do sócio retirante sejam pagos nos termos do § 2º do art. 1.031 do CC. Esse parágrafo manda pagar a quota liquidada em dinheiro, no prazo de noventa dias a partir da liquidação, salvo acordo ou estipulação contratual em contrário.",
   "refs": [],
   "origem": "rotina",
-  "em": "2026-09-28T21:22:59+00:00"
+  "em": "2026-09-28T21:22:59+00:00",
+  "revisado_em": "2026-09-28T21:56:24+00:00"
  },
  {
   "de": "cpc.789",
@@ -3088,6 +2807,66 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cc.406",
+  "para": "l10522.30",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos adotam a taxa Selic, mas em bases distintas: o art. 406, § 1º, do Código Civil fixa a taxa legal pela Selic deduzido o índice de atualização monetária do parágrafo único do art. 389, enquanto o art. 30 da Lei 10.522/02 manda aplicar aos débitos inscritos em Dívida Ativa da União juros de mora equivalentes à Selic acumulada mensalmente, sem essa dedução, e de 1% no mês do pagamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:50:33+00:00"
+ },
+ {
+  "de": "cc.73",
+  "para": "ctn.127",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos definem domicílio subsidiário da pessoa natural com critérios diferentes: o art. 73 do Código Civil, para quem não tenha residência habitual, adota o lugar onde a pessoa for encontrada, enquanto o art. 127, I, do Código Tributário Nacional, quando a residência habitual for incerta ou desconhecida, adota o centro habitual de sua atividade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:50:33+00:00"
+ },
+ {
+  "de": "cpc.535",
+  "para": "adct.87",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 87 do ADCT fixa, supletivamente e até a publicação das leis definidoras de cada ente, os limites de quarenta e trinta salários mínimos para a obrigação de pequeno valor das Fazendas estaduais, distrital e municipais, cujo pagamento sem precatório o art. 535, § 3º, II, do Código de Processo Civil disciplina no processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:50:33+00:00"
+ },
+ {
+  "de": "cf.182",
+  "para": "ctn.32",
+  "tipo": "complementa",
+  "grau": "contato",
+  "porque": "O art. 182, § 4º, II, da Constituição Federal autoriza o IPTU progressivo no tempo como sanção ao proprietário de solo urbano não edificado, subutilizado ou não utilizado, sem alterar o fato gerador do imposto, que continua definido no art. 32 do Código Tributário Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:50:33+00:00"
+ },
+ {
+  "de": "adct.94",
+  "para": "lcp123.12",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 94 do ADCT faz cessar os regimes especiais de tributação das microempresas e empresas de pequeno porte próprios de cada ente a partir da entrada em vigor do regime previsto no art. 146, III, d, da Constituição Federal. O art. 12 da Lei Complementar nº 123/2006 instituiu o Simples Nacional, regime único de arrecadação de que trata o art. 146, § 1º, e sua vigência marca essa cessação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:50:33+00:00"
+ },
+ {
+  "de": "d9580.202",
+  "para": "ctn.127",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 202 do Regulamento do Imposto de Renda indica o art. 127 do Código Tributário Nacional como sua base e detalha, para o imposto sobre a renda, o domicílio fiscal da pessoa jurídica; seus §§ 2º e 3º reproduzem as regras dos §§ 1º e 2º do art. 127 sobre a falta de domicílio aplicável e a recusa do domicílio eleito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T21:50:33+00:00"
  },
  {
   "de": "cpc.731",
