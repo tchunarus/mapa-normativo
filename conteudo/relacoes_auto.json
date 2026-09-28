@@ -2758,5 +2758,195 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T19:18:43+00:00"
+ },
+ {
+  "de": "cc.1031",
+  "para": "cpc.600",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 1.031 do CC fixa o critério de apuração do valor da quota do sócio cuja saída resolve a sociedade, e o parágrafo único do art. 600 do CPC legitima o cônjuge ou companheiro do sócio a requerer essa apuração de haveres, a ser paga à conta da quota titulada por ele. O CPC disciplina a legitimidade processual para o exercício do direito material regulado pelo CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cc.1031",
+  "para": "cpc.605",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.031 do CC manda apurar o valor da quota com base na situação patrimonial da sociedade à data da resolução, mas não define esse termo. O art. 605 do CPC complementa a regra ao fixar, para cada causa de saída do sócio, seja morte, retirada, recesso ou exclusão, qual é exatamente essa data da resolução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cc.1031",
+  "para": "cpc.608",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.031 do CC determina que a quota seja liquidada conforme a situação patrimonial da sociedade na data da resolução, mas não especifica todas as parcelas que compõem o valor devido ao ex-sócio. O art. 608 do CPC complementa esse critério ao incluir, até a data da resolução, a participação nos lucros, os juros sobre capital próprio e a remuneração como administrador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cc.1031",
+  "para": "cpc.861",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.031 do CC rege a liquidação da quota quando a sociedade se resolve em relação a um sócio que se retira, é excluído ou falece, com pagamento em dinheiro em noventa dias. O art. 861 do CPC rege a liquidação da quota penhorada em execução movida por terceiro contra o sócio, hipótese em que o prazo, o balanço especial e a possibilidade de aquisição pelos demais sócios seguem regime próprio, distinto da resolução societária do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cc.1177",
+  "para": "l8078.34",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.177 do CC responsabiliza o preponente perante terceiros apenas solidariamente com o preposto pelos atos dolosos, respondendo o preposto pessoalmente, perante o preponente, pelos atos culposos. O art. 34 do CDC impõe ao fornecedor responsabilidade solidária pelos atos de prepostos e representantes autônomos sem distinguir dolo e culpa, o que gera risco de confusão sobre qual regime de responsabilidade se aplica nas relações de consumo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cc.1177",
+  "para": "ctn.135",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.177 do CC trata da responsabilidade pessoal do preposto perante o preponente pelos atos culposos praticados no exercício de suas funções. O inciso II do art. 135 do CTN também fala em responsabilidade pessoal de mandatários, prepostos e empregados, mas por créditos tributários resultantes de atos com excesso de poderes ou infração de lei, de modo que os dois dispositivos apenas tocam o mesmo termo em institutos distintos, um civil e outro de responsabilidade tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "l11101.129",
+  "para": "cc.1422",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 1.422 do CC garante ao credor hipotecário e ao pignoratício o direito de excutir a coisa e preferir no pagamento, observada a prioridade no registro. O inciso III do art. 129 da Lei 11.101/05 excepciona essa preferência ao declarar ineficaz, em relação à massa falida, a constituição de direito real de garantia realizada dentro do termo legal anterior à falência, ainda que o credor desconheça a crise econômico financeira do devedor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cpc.804",
+  "para": "cc.1422",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.422 do CC assegura ao credor hipotecário e ao pignoratício o direito de excutir o bem gravado e de preferir no pagamento. O art. 804 do CPC complementa esse direito na execução ao tornar ineficaz, em relação ao credor pignoratício, hipotecário ou anticrético, a alienação do bem gravado quando ele não tiver sido intimado, garantindo na prática a preferência assegurada pelo CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cpp.143",
+  "para": "cc.1492",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.492 do CC trata do registro da hipoteca convencional no cartório do lugar do imóvel, mediante requerimento do interessado que exiba o título. O art. 143 do CPP cuida da hipoteca legal decretada no processo penal, cujos autos são remetidos ao juízo cível após o trânsito em julgado da sentença condenatória, regime de constituição e registro totalmente diverso do civil, o que gera risco de confusão entre as duas figuras.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cc.223",
+  "para": "cpc.424",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 223 do CC atribui à cópia fotográfica de documento, quando conferida por tabelião de notas, o mesmo valor da declaração de vontade original, em regime extrajudicial. O art. 424 do CPC confere o mesmo valor probante à cópia de documento particular, mas mediante conferência do escrivão dentro do processo judicial, de modo que há risco de confundir qual autoridade deve certificar a cópia conforme o documento esteja ou não em juízo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "l9492.39",
+  "para": "cc.223",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 223 do CC estabelece a regra geral de que a cópia fotográfica de documento, conferida por tabelião de notas, tem o mesmo valor da declaração de vontade original. O art. 39 da Lei 9.492/97 especializa essa regra para o âmbito do Tabelionato de Protesto, ao atribuir o mesmo valor do original à reprodução de microfilme ou de processamento eletrônico da imagem do título arquivado, quando autenticada pelo tabelião de protesto ou por seu substituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cpc.429",
+  "para": "cc.223",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 223 do CC exige a exibição do original quando impugnada a autenticidade da cópia fotográfica do documento, mas não diz a quem cabe provar a autenticidade. O inciso II do art. 429 do CPC complementa essa exigência ao atribuir à parte que produziu o documento o ônus de provar a autenticidade impugnada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cpc.422",
+  "para": "cc.223",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 223 do CC trata da cópia fotográfica que substitui o próprio documento como prova da declaração de vontade nele contida. O art. 422 do CPC trata da fotografia e de outras reproduções mecânicas como prova dos fatos ou das coisas que elas representam, instituto distinto, apesar de ambos tratarem do valor probatório de imagens, o que pode gerar confusão sobre qual regra rege uma fotografia usada como prova em juízo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "clt.830",
+  "para": "cpc.424",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 424 do CPC estabelece a regra geral de que a cópia de documento particular tem o mesmo valor probante do original, mediante conferência e certificação pelo escrivão. O art. 830 da CLT especializa essa regra para o processo do trabalho, ao permitir que o próprio advogado declare a cópia autêntica sob sua responsabilidade pessoal, reservando a conferência pelo serventuário apenas para a hipótese de impugnação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "clt.830",
+  "para": "cc.223",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 830 da CLT permite que o advogado declare autêntica a cópia oferecida como prova no processo do trabalho, cabendo ao serventuário conferir e certificar a conformidade somente se impugnada a autenticidade. O art. 223 do CC exige, para a cópia fotográfica de documento, conferência prévia por tabelião de notas, regime extrajudicial distinto que pode ser confundido com a autenticação processual trabalhista pelo próprio advogado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cpc.429",
+  "para": "clt.830",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 830 da CLT determina que, impugnada a autenticidade da cópia, a parte que a produziu seja intimada para apresentar cópia autenticada ou o original, sem dizer a quem cabe o ônus de provar a autenticidade. Na omissão da CLT, aplica-se subsidiariamente o inciso II do art. 429 do CPC, que atribui esse ônus à parte que produziu o documento impugnado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cc.1030",
+  "para": "cpc.600",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.030 do CC autoriza a exclusão judicial do sócio por falta grave no cumprimento de suas obrigações ou por incapacidade superveniente, mediante iniciativa da maioria dos demais sócios. O inciso V do art. 600 do CPC disciplina o procedimento ao legitimar a sociedade a propor a ação de dissolução parcial nos casos em que a lei não autoriza a exclusão extrajudicial, hipótese que abrange a exclusão judicial regulada pelo CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "l11101.123",
+  "para": "cpc.600",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 600 do CPC legitima o espólio ou os sucessores do sócio falecido a propor a ação de dissolução parcial de sociedade para apurar os haveres devidos. O art. 123 da Lei 11.101/05 trata da apuração dos haveres do sócio falido perante a massa falida, apuração conduzida no próprio processo falimentar e sujeita ao pagamento apenas após quitado todo o passivo da sociedade, regime diverso que pode ser confundido com a ação civil do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
+ },
+ {
+  "de": "cc.1033",
+  "para": "cpc.601",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 601 do CPC disciplina a citação dos sócios e da sociedade na ação de dissolução parcial, que trata apenas da resolução da sociedade quanto a um sócio determinado. O art. 1.033 do CC relaciona as hipóteses de dissolução total da sociedade, como o vencimento do prazo de duração ou o consenso unânime dos sócios, instituto conexo mas distinto, pois extingue a própria pessoa jurídica em vez de apenas excluir um sócio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T20:18:14+00:00"
  }
 ]
