@@ -1,4 +1,10 @@
-"""Cadastro das fontes. Para incluir um diploma novo, basta acrescentar uma entrada."""
+"""Cadastro das fontes. Para incluir um diploma novo, basta acrescentar uma entrada.
+
+Cada diploma tem uma jurisdição (federal, estadual ou municipal). Diplomas federais
+não precisam declarar `jurisdicao` nem `ente`: o padrão é federal/BR, aplicado no
+final deste arquivo. Um diploma estadual ou municipal declara os dois, por exemplo
+`jurisdicao='estadual', ente='SC'` ou `jurisdicao='municipal', ente='SC/Florianópolis'`.
+"""
 
 P = 'https://www.planalto.gov.br/ccivil_03/'
 ADCT = 'ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS'
@@ -128,9 +134,22 @@ MARCADORES_DOU = {
 TIPOS_DOU = ['Emenda Constitucional', 'Lei Complementar', 'Lei', 'Medida Provisória', 'Decreto', 'Resolução', 'Instrução Normativa', 'Ato Declaratório']
 ORGAOS_DOU = ['Presidência da República', 'Ministério da Fazenda', 'Congresso Nacional', 'Comitê Gestor']
 
+# Entes federativos cadastrados (além da União). Um diploma estadual ou municipal
+# aponta para um destes por `ente`; a página usa este registro para nome de exibição.
+ENTES = {
+  'SC': {'nome': 'Santa Catarina', 'tipo': 'estado', 'capital': 'SC/Florianópolis'},
+  'SC/Florianópolis': {'nome': 'Florianópolis', 'tipo': 'municipio', 'uf': 'SC'},
+  'SC/São José': {'nome': 'São José', 'tipo': 'municipio', 'uf': 'SC'},
+}
 
-# Todo diploma cadastrado é acompanhado no DOU pelo número da própria norma.
+# Todo diploma federal cadastrado é acompanhado no DOU pelo número da própria norma;
+# diplomas estaduais e municipais não são (o DOU é federal), e por isso ficam fora
+# deste laço. A jurisdição e o ente têm padrão federal/BR quando o diploma não os declara.
 for _d in DIPLOMAS:
+    _d.setdefault('jurisdicao', 'federal')
+    _d.setdefault('ente', 'BR')
+    if _d['jurisdicao'] != 'federal':
+        continue
     _m = _d['norma'].split(',')[0]
     MARCADORES_DOU.setdefault(_d['id'], [])
     if _m not in MARCADORES_DOU[_d['id']] and not _d['id'] in ('cf', 'adct'):

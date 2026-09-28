@@ -35,6 +35,9 @@ seguir (por exemplo, com um laço `until` que confere a data em
      tratam do mesmo instituto, de institutos conexos ou só têm ponto de contato, e
      nunca presuma que dispositivos relacionados regulam a mesma matéria;
    - use `confundivel_com` quando houver risco real de confusão entre institutos;
+   - use `aplica_subsidiariamente` quando um diploma só rege a matéria na omissão do
+     outro (ex.: CPC aplicado subsidiariamente à LEF), e não `complementa`, reservado a
+     quando os dois integram o mesmo regime e um apenas detalha o outro;
    - a justificativa (`porque`) deve explicar em uma ou duas frases por que os
      dispositivos se relacionam e qual a diferença entre eles, em português formal,
      com acentuação correta e sem travessões;

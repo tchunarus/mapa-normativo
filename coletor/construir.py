@@ -3,7 +3,7 @@ import json, os, re, sys
 from datetime import datetime, timezone
 sys.path.insert(0, os.path.dirname(__file__))
 import planalto
-from fontes import DIPLOMAS
+from fontes import DIPLOMAS, ENTES
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE, OUT = os.path.join(RAIZ, '.cache'), os.path.join(RAIZ, 'docs', 'data')
@@ -90,7 +90,7 @@ def construir(agora=None):
         if arts is None:
             continue
         ordem = sorted(arts, key=lambda x: (int(x.split('-')[0]), x))
-        meta = {k: f[k] for k in ('id', 'sigla', 'nome', 'norma', 'area', 'url', 'urn', 'onda')}
+        meta = {k: f[k] for k in ('id', 'sigla', 'nome', 'norma', 'area', 'url', 'urn', 'onda', 'jurisdicao', 'ente')}
         meta.update({'completo': not f.get('sel'), 'n': len(arts), 'verificado_em': hashes.get('_verificado', {}).get(f['id'], agora)})
         salvar(f"diplomas/{f['id']}.json", dict(meta, artigos=arts, ordem=ordem))
         diplomas.append(meta)
@@ -102,6 +102,7 @@ def construir(agora=None):
                 nota = next(l[1] for l in a['l'] if str(ano) in (l[1] or ''))
                 alterados.append({'d': did, 'rotulo': f"{f['sigla']}, {a['r']}", 'norma': nota})
     institutos = J('conteudo/institutos.json')
+    conceitos = ler('conteudo/conceitos.json', [])
     alertas = J('conteudo/alertas.json')
     comps = J('conteudo/comparacoes.json')
     rel = J('conteudo/relacoes.json')
@@ -111,6 +112,7 @@ def construir(agora=None):
     # vínculos de institutos
     for p in prec.values():
         p['institutos'] = []
+        p.setdefault('natureza', 'jurisdicional')
     for ins in institutos:
         for pid in ins.get('precedentes', []):
             if pid in prec:
@@ -130,12 +132,14 @@ def construir(agora=None):
     for ins in institutos:
         usados |= {x['d'] for x in ins['fundamentos']} | {c.get('d') for c in ins.get('cadeia', []) if c.get('d')}
         usados |= {c['f'] for c in ins['checklist']}
-        for lado in ('fazenda', 'defesa'):
-            for a in ins['pratica'][lado]:
+        for polo in ins.get('pratica', []):
+            for a in polo['argumentos']:
                 usados |= set(a['refs'])
         for c in ins['controversias']:
             for pos in c['posicoes']:
                 usados |= set(pos['refs'])
+    for cj in conceitos:
+        usados |= set(cj.get('dispositivos', []))
     for e in rel['arestas']:
         usados |= {e['de'], e['para']}
     for a in alertas:
@@ -155,7 +159,7 @@ def construir(agora=None):
     idx = {
         'versao': 3,
         'taxonomia': J('conteudo/taxonomia.json'), 'alteradoras': J('conteudo/alteradoras.json'),
-        'diplomas': diplomas, 'institutos': institutos, 'alertas': alertas, 'comparacoes': comps,
+        'diplomas': diplomas, 'entes': ENTES, 'institutos': institutos, 'conceitos': conceitos, 'alertas': alertas, 'comparacoes': comps,
         'relacoes': rel, 'precedentes': prec, 'refs': refs, 'alterados_ano': alterados,
         'changelog': ler('estado/changelog.json', [])[-80:], 'pendencias': ler('estado/pendencias.json', []),
         'dou': ler('estado/dou.json', [])[-60:], 'proposicoes': ler('estado/proposicoes.json', []),

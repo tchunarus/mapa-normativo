@@ -141,73 +141,79 @@
     "obs": "O Tema 630 admite o redirecionamento por dissolução irregular também para dívida não tributária."
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Redirecionar a execução ao gestor com base na dissolução irregular presumida pelo não funcionamento no domicílio fiscal.",
-     "refs": [
-      "stj.sum.435",
-      "stj.tema.981",
-      "ctn.135"
-     ]
-    },
-    {
-     "a": "Incluir o gestor como corresponsável na CDA, transferindo a ele o ônus da prova.",
-     "refs": [
-      "ctn.202",
-      "lef.2",
-      "stj.tema.103"
-     ]
-    },
-    {
-     "a": "Estender a lógica do redirecionamento à dívida ativa não tributária.",
-     "refs": [
-      "stj.tema.630",
-      "lef.4"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Inadimplemento não é ato ilícito para fins do art. 135; exigir prova de conduta qualificada.",
-     "refs": [
-      "stj.sum.430",
-      "stj.tema.97"
-     ]
-    },
-    {
-     "a": "Ausência de poderes de gestão: mero sócio quotista não se enquadra no inciso III.",
-     "refs": [
-      "ctn.135",
-      "cc.1052"
-     ]
-    },
-    {
-     "a": "Retirada regular antes da dissolução, sem dar causa a ela.",
-     "refs": [
-      "stj.tema.962"
-     ]
-    },
-    {
-     "a": "Falta de poderes de administração na data da dissolução irregular ou de sua presunção.",
-     "refs": [
-      "stj.tema.981"
-     ]
-    },
-    {
-     "a": "Prescrição da pretensão de redirecionamento, com demonstração de inércia da Fazenda.",
-     "refs": [
-      "stj.tema.444"
-     ]
-    },
-    {
-     "a": "Ausência de prova idônea da dissolução irregular (diligência sem certificação adequada).",
-     "refs": [
-      "stj.sum.435"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Redirecionar a execução ao gestor com base na dissolução irregular presumida pelo não funcionamento no domicílio fiscal.",
+      "refs": [
+       "stj.sum.435",
+       "stj.tema.981",
+       "ctn.135"
+      ]
+     },
+     {
+      "a": "Incluir o gestor como corresponsável na CDA, transferindo a ele o ônus da prova.",
+      "refs": [
+       "ctn.202",
+       "lef.2",
+       "stj.tema.103"
+      ]
+     },
+     {
+      "a": "Estender a lógica do redirecionamento à dívida ativa não tributária.",
+      "refs": [
+       "stj.tema.630",
+       "lef.4"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Inadimplemento não é ato ilícito para fins do art. 135; exigir prova de conduta qualificada.",
+      "refs": [
+       "stj.sum.430",
+       "stj.tema.97"
+      ]
+     },
+     {
+      "a": "Ausência de poderes de gestão: mero sócio quotista não se enquadra no inciso III.",
+      "refs": [
+       "ctn.135",
+       "cc.1052"
+      ]
+     },
+     {
+      "a": "Retirada regular antes da dissolução, sem dar causa a ela.",
+      "refs": [
+       "stj.tema.962"
+      ]
+     },
+     {
+      "a": "Falta de poderes de administração na data da dissolução irregular ou de sua presunção.",
+      "refs": [
+       "stj.tema.981"
+      ]
+     },
+     {
+      "a": "Prescrição da pretensão de redirecionamento, com demonstração de inércia da Fazenda.",
+      "refs": [
+       "stj.tema.444"
+      ]
+     },
+     {
+      "a": "Ausência de prova idônea da dissolução irregular (diligência sem certificação adequada).",
+      "refs": [
+       "stj.sum.435"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [
    {
     "q": "É necessária a instauração do IDPJ para redirecionar a execução fiscal?",
@@ -403,47 +409,53 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Pedir o redirecionamento nos próprios autos, com base em certidão de não localização da empresa.",
-     "refs": [
-      "stj.sum.435",
-      "lef.4"
-     ]
-    },
-    {
-     "a": "Sustentar a dispensa do IDPJ por se tratar de responsabilidade legal, e não de desconsideração.",
-     "refs": [
-      "ctn.135",
-      "stj.tema.1209"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Exigir a indicação do fundamento legal específico e da conduta imputada.",
-     "refs": [
-      "ctn.135",
-      "stj.sum.430"
-     ]
-    },
-    {
-     "a": "Sustentar a necessidade do incidente quando o pedido se apoia em abuso da personalidade ou em grupo econômico.",
-     "refs": [
-      "cpc.795",
-      "cc.50",
-      "stj.tema.1209"
-     ]
-    },
-    {
-     "a": "Arguir a prescrição do redirecionamento.",
-     "refs": [
-      "stj.tema.444"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Pedir o redirecionamento nos próprios autos, com base em certidão de não localização da empresa.",
+      "refs": [
+       "stj.sum.435",
+       "lef.4"
+      ]
+     },
+     {
+      "a": "Sustentar a dispensa do IDPJ por se tratar de responsabilidade legal, e não de desconsideração.",
+      "refs": [
+       "ctn.135",
+       "stj.tema.1209"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Exigir a indicação do fundamento legal específico e da conduta imputada.",
+      "refs": [
+       "ctn.135",
+       "stj.sum.430"
+      ]
+     },
+     {
+      "a": "Sustentar a necessidade do incidente quando o pedido se apoia em abuso da personalidade ou em grupo econômico.",
+      "refs": [
+       "cpc.795",
+       "cc.50",
+       "stj.tema.1209"
+      ]
+     },
+     {
+      "a": "Arguir a prescrição do redirecionamento.",
+      "refs": [
+       "stj.tema.444"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [
    {
     "q": "Cabimento do IDPJ na execução fiscal",
@@ -573,31 +585,37 @@
     "obs": "No regime civil o encerramento irregular não basta."
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Usar a certidão de não localização como prova da presunção.",
-     "refs": [
-      "stj.sum.435"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Demonstrar funcionamento no domicílio ou comunicação da mudança.",
-     "refs": [
-      "stj.sum.435"
-     ]
-    },
-    {
-     "a": "Afastar a transposição do raciocínio para cobranças civis, onde se exige abuso.",
-     "refs": [
-      "stj.tema.1210",
-      "cc.50"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Usar a certidão de não localização como prova da presunção.",
+      "refs": [
+       "stj.sum.435"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Demonstrar funcionamento no domicílio ou comunicação da mudança.",
+      "refs": [
+       "stj.sum.435"
+      ]
+     },
+     {
+      "a": "Afastar a transposição do raciocínio para cobranças civis, onde se exige abuso.",
+      "refs": [
+       "stj.tema.1210",
+       "cc.50"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [
    {
@@ -680,17 +698,19 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [],
-   "defesa": [
-    {
-     "a": "Afastar multa punitiva com base no parágrafo único do art. 134.",
-     "refs": [
-      "ctn.134"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Afastar multa punitiva com base no parágrafo único do art. 134.",
+      "refs": [
+       "ctn.134"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": []
  },
@@ -772,24 +792,30 @@
     "obs": "Verifique os §§ 1º a 3º."
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Caracterizar sucessão de fato por continuidade de atividade no mesmo endereço.",
-     "refs": [
-      "ctn.133"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Demonstrar aquisição de bens isolados, sem fundo de comércio, ou ausência de continuidade.",
-     "refs": [
-      "ctn.133"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Caracterizar sucessão de fato por continuidade de atividade no mesmo endereço.",
+      "refs": [
+       "ctn.133"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Demonstrar aquisição de bens isolados, sem fundo de comércio, ou ausência de continuidade.",
+      "refs": [
+       "ctn.133"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": []
  },
@@ -884,44 +910,50 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Invocar interesse comum para incluir empresas do grupo na CDA ou na execução.",
-     "refs": [
-      "ctn.124"
-     ]
-    },
-    {
-     "a": "Invocar a solidariedade legal previdenciária.",
-     "refs": [
-      "l8212.30"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Grupo econômico, por si só, não gera responsabilidade tributária nem autoriza desconsideração.",
-     "refs": [
-      "cc.50",
-      "ctn.124"
-     ]
-    },
-    {
-     "a": "A regra da CLT é restrita à relação de emprego e não se transpõe ao crédito tributário.",
-     "refs": [
-      "clt.2"
-     ]
-    },
-    {
-     "a": "Exigir o incidente de desconsideração quando o fundamento for abuso.",
-     "refs": [
-      "cpc.795",
-      "stj.tema.1209"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Invocar interesse comum para incluir empresas do grupo na CDA ou na execução.",
+      "refs": [
+       "ctn.124"
+      ]
+     },
+     {
+      "a": "Invocar a solidariedade legal previdenciária.",
+      "refs": [
+       "l8212.30"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Grupo econômico, por si só, não gera responsabilidade tributária nem autoriza desconsideração.",
+      "refs": [
+       "cc.50",
+       "ctn.124"
+      ]
+     },
+     {
+      "a": "A regra da CLT é restrita à relação de emprego e não se transpõe ao crédito tributário.",
+      "refs": [
+       "clt.2"
+      ]
+     },
+     {
+      "a": "Exigir o incidente de desconsideração quando o fundamento for abuso.",
+      "refs": [
+       "cpc.795",
+       "stj.tema.1209"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [
    {
     "q": "Responsabilização de empresa do grupo não indicada na CDA",
@@ -1061,30 +1093,32 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [],
-   "defesa": [
-    {
-     "a": "Inexistência de bens e encerramento irregular não bastam para desconsiderar.",
-     "refs": [
-      "stj.tema.1210",
-      "cc.50"
-     ]
-    },
-    {
-     "a": "Grupo econômico sem abuso não autoriza desconsideração.",
-     "refs": [
-      "cc.50"
-     ]
-    },
-    {
-     "a": "Nulidade de constrição sem o incidente.",
-     "refs": [
-      "cpc.795"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Inexistência de bens e encerramento irregular não bastam para desconsiderar.",
+      "refs": [
+       "stj.tema.1210",
+       "cc.50"
+      ]
+     },
+     {
+      "a": "Grupo econômico sem abuso não autoriza desconsideração.",
+      "refs": [
+       "cc.50"
+      ]
+     },
+     {
+      "a": "Nulidade de constrição sem o incidente.",
+      "refs": [
+       "cpc.795"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [
    {
@@ -1172,18 +1206,20 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [],
-   "defesa": [
-    {
-     "a": "Exigir o incidente antes de qualquer constrição sobre bens de terceiro.",
-     "refs": [
-      "cpc.795",
-      "cpc.134"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Exigir o incidente antes de qualquer constrição sobre bens de terceiro.",
+      "refs": [
+       "cpc.795",
+       "cpc.134"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": []
  },
@@ -1284,32 +1320,38 @@
     "obs": "Inciso II reabre o prazo."
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Imputar dolo, fraude ou simulação para deslocar a contagem ao art. 173, I.",
-     "refs": [
-      "ctn.150",
-      "ctn.173"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Pagamento parcial atrai a contagem do fato gerador.",
-     "refs": [
-      "ctn.150",
-      "stj.tema.163"
-     ]
-    },
-    {
-     "a": "Exigir prova concreta de dolo, fraude ou simulação.",
-     "refs": [
-      "ctn.150"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Imputar dolo, fraude ou simulação para deslocar a contagem ao art. 173, I.",
+      "refs": [
+       "ctn.150",
+       "ctn.173"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Pagamento parcial atrai a contagem do fato gerador.",
+      "refs": [
+       "ctn.150",
+       "stj.tema.163"
+      ]
+     },
+     {
+      "a": "Exigir prova concreta de dolo, fraude ou simulação.",
+      "refs": [
+       "ctn.150"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [
    {
@@ -1416,26 +1458,32 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Invocar retroação da interrupção à propositura.",
-     "refs": [
-      "cpc.240",
-      "stj.sum.106"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Arguir prescrição de ofício ou por exceção, se não depender de prova.",
-     "refs": [
-      "stj.sum.409",
-      "stj.sum.393"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Invocar retroação da interrupção à propositura.",
+      "refs": [
+       "cpc.240",
+       "stj.sum.106"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Arguir prescrição de ofício ou por exceção, se não depender de prova.",
+      "refs": [
+       "stj.sum.409",
+       "stj.sum.393"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [
    {
@@ -1521,24 +1569,30 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Negar efeito suspensivo a garantia não aceita ou fora da regulamentação.",
-     "refs": [
-      "ctn.151"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Invocar o inciso X para obter suspensão com seguro garantia aceito.",
-     "refs": [
-      "ctn.151"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Negar efeito suspensivo a garantia não aceita ou fora da regulamentação.",
+      "refs": [
+       "ctn.151"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Invocar o inciso X para obter suspensão com seguro garantia aceito.",
+      "refs": [
+       "ctn.151"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [
    {
     "q": "Alcance do Tema 378/STJ após a LC 236/2026",
@@ -1687,38 +1741,44 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Recusar a garantia por desconformidade com a ordem legal ou a regulamentação.",
-     "refs": [
-      "lef.11",
-      "ctn.151"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Substituir penhora por seguro garantia em qualquer fase.",
-     "refs": [
-      "lef.15",
-      "cpc.805"
-     ]
-    },
-    {
-     "a": "Impedir a liquidação antecipada do seguro.",
-     "refs": [
-      "lef.9"
-     ]
-    },
-    {
-     "a": "Obter CPEN com a garantia efetivada.",
-     "refs": [
-      "ctn.206"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Recusar a garantia por desconformidade com a ordem legal ou a regulamentação.",
+      "refs": [
+       "lef.11",
+       "ctn.151"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Substituir penhora por seguro garantia em qualquer fase.",
+      "refs": [
+       "lef.15",
+       "cpc.805"
+      ]
+     },
+     {
+      "a": "Impedir a liquidação antecipada do seguro.",
+      "refs": [
+       "lef.9"
+      ]
+     },
+     {
+      "a": "Obter CPEN com a garantia efetivada.",
+      "refs": [
+       "ctn.206"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [
    {
     "q": "Exigência do acréscimo de 30% na execução fiscal",
@@ -1844,37 +1904,43 @@
     "obs": "Se anterior, o bloqueio deve ser levantado."
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Pedir penhora online sem diligências prévias.",
-     "refs": [
-      "stj.tema.425"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Impugnar indisponibilidade geral sem exaurimento das diligências.",
-     "refs": [
-      "stj.sum.560"
-     ]
-    },
-    {
-     "a": "Levantar o bloqueio quando o parcelamento é anterior.",
-     "refs": [
-      "stj.tema.1012"
-     ]
-    },
-    {
-     "a": "Pedir substituição do bloqueio por seguro garantia com base na menor onerosidade.",
-     "refs": [
-      "stj.tema.1012",
-      "cpc.805"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Pedir penhora online sem diligências prévias.",
+      "refs": [
+       "stj.tema.425"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Impugnar indisponibilidade geral sem exaurimento das diligências.",
+      "refs": [
+       "stj.sum.560"
+      ]
+     },
+     {
+      "a": "Levantar o bloqueio quando o parcelamento é anterior.",
+      "refs": [
+       "stj.tema.1012"
+      ]
+     },
+     {
+      "a": "Pedir substituição do bloqueio por seguro garantia com base na menor onerosidade.",
+      "refs": [
+       "stj.tema.1012",
+       "cpc.805"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [
    {
@@ -1967,26 +2033,32 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Apontar causa interruptiva efetiva no período.",
-     "refs": [
-      "stj.tema.568",
-      "ctn.174"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Contagem automática desde a ciência da não localização.",
-     "refs": [
-      "stj.tema.566",
-      "stj.tema.567"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Apontar causa interruptiva efetiva no período.",
+      "refs": [
+       "stj.tema.568",
+       "ctn.174"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Contagem automática desde a ciência da não localização.",
+      "refs": [
+       "stj.tema.566",
+       "stj.tema.567"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [
    {
@@ -2051,25 +2123,31 @@
     "obs": "Se sim, a via tende a ser incabível para ilegitimidade."
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Arguir necessidade de dilação probatória.",
-     "refs": [
-      "stj.tema.108"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Arguir prescrição com prova documental pré-constituída.",
-     "refs": [
-      "stj.sum.393",
-      "stj.sum.409"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Arguir necessidade de dilação probatória.",
+      "refs": [
+       "stj.tema.108"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Arguir prescrição com prova documental pré-constituída.",
+      "refs": [
+       "stj.sum.393",
+       "stj.sum.409"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": []
  },
@@ -2135,26 +2213,32 @@
     "obs": "Vedado."
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Substituir a CDA para corrigir erro material ou formal.",
-     "refs": [
-      "stj.sum.392",
-      "ctn.203"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Nulidade da CDA sem fundamento legal específico.",
-     "refs": [
-      "ctn.202",
-      "ctn.203"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Substituir a CDA para corrigir erro material ou formal.",
+      "refs": [
+       "stj.sum.392",
+       "ctn.203"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Nulidade da CDA sem fundamento legal específico.",
+      "refs": [
+       "ctn.202",
+       "ctn.203"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": []
  },
@@ -2223,25 +2307,31 @@
     "obs": "Parágrafo único afasta a presunção."
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Declarar ineficaz alienação posterior à inscrição.",
-     "refs": [
-      "ctn.185",
-      "stj.tema.290"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Demonstrar reserva de bens suficientes.",
-     "refs": [
-      "ctn.185"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Declarar ineficaz alienação posterior à inscrição.",
+      "refs": [
+       "ctn.185",
+       "stj.tema.290"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Demonstrar reserva de bens suficientes.",
+      "refs": [
+       "ctn.185"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [
    {
@@ -2382,45 +2472,51 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Sustentar a inadmissibilidade dos embargos sem garantia integral.",
-     "refs": [
-      "lef.16"
-     ]
-    },
-    {
-     "a": "Opor-se ao efeito suspensivo por ausência de algum dos requisitos.",
-     "refs": [
-      "cpc.919",
-      "stj.tema.526"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Pedir efeito suspensivo demonstrando garantia, relevância e risco de dano.",
-     "refs": [
-      "cpc.919",
-      "stj.tema.526"
-     ]
-    },
-    {
-     "a": "Opor novos embargos contra vícios formais de penhora reforçada ou substituída.",
-     "refs": [
-      "stj.tema.288"
-     ]
-    },
-    {
-     "a": "Cobrar honorários se a Fazenda desistir da execução depois dos embargos.",
-     "refs": [
-      "stj.sum.153",
-      "cpc.85"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Sustentar a inadmissibilidade dos embargos sem garantia integral.",
+      "refs": [
+       "lef.16"
+      ]
+     },
+     {
+      "a": "Opor-se ao efeito suspensivo por ausência de algum dos requisitos.",
+      "refs": [
+       "cpc.919",
+       "stj.tema.526"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Pedir efeito suspensivo demonstrando garantia, relevância e risco de dano.",
+      "refs": [
+       "cpc.919",
+       "stj.tema.526"
+      ]
+     },
+     {
+      "a": "Opor novos embargos contra vícios formais de penhora reforçada ou substituída.",
+      "refs": [
+       "stj.tema.288"
+      ]
+     },
+     {
+      "a": "Cobrar honorários se a Fazenda desistir da execução depois dos embargos.",
+      "refs": [
+       "stj.sum.153",
+       "cpc.85"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [
    {
@@ -2563,50 +2659,56 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Prosseguir na execução, pois a ação não inibe a cobrança sem suspensão da exigibilidade.",
-     "refs": [
-      "cpc.784"
-     ]
-    },
-    {
-     "a": "Arguir renúncia à discussão administrativa.",
-     "refs": [
-      "lef.38"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Propor a anulatória sem depósito prévio obrigatório.",
-     "refs": [
-      "stf.sv.28"
-     ]
-    },
-    {
-     "a": "Depositar o montante integral antes da execução para impedi-la.",
-     "refs": [
-      "stj.tema.271",
-      "ctn.151"
-     ]
-    },
-    {
-     "a": "Pedir tutela de urgência para suspender a exigibilidade sem depósito.",
-     "refs": [
-      "cpc.300",
-      "ctn.151"
-     ]
-    },
-    {
-     "a": "Pedir a reunião com a execução fiscal por conexão.",
-     "refs": [
-      "cpc.55"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Prosseguir na execução, pois a ação não inibe a cobrança sem suspensão da exigibilidade.",
+      "refs": [
+       "cpc.784"
+      ]
+     },
+     {
+      "a": "Arguir renúncia à discussão administrativa.",
+      "refs": [
+       "lef.38"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Propor a anulatória sem depósito prévio obrigatório.",
+      "refs": [
+       "stf.sv.28"
+      ]
+     },
+     {
+      "a": "Depositar o montante integral antes da execução para impedi-la.",
+      "refs": [
+       "stj.tema.271",
+       "ctn.151"
+      ]
+     },
+     {
+      "a": "Pedir tutela de urgência para suspender a exigibilidade sem depósito.",
+      "refs": [
+       "cpc.300",
+       "ctn.151"
+      ]
+     },
+     {
+      "a": "Pedir a reunião com a execução fiscal por conexão.",
+      "refs": [
+       "cpc.55"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [
    {
     "q": "Reunião da ação anulatória com a execução fiscal e competência",
@@ -2752,31 +2854,37 @@
     "obs": "O MS não serve para convalidar compensação já feita (Súmula 460)."
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Arguir prescrição quinquenal contada da extinção do crédito.",
-     "refs": [
-      "ctn.168",
-      "stj.sum.625"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Optar entre precatório e compensação do indébito reconhecido.",
-     "refs": [
-      "stj.sum.461"
-     ]
-    },
-    {
-     "a": "Usar mandado de segurança para declarar o direito à compensação.",
-     "refs": [
-      "stj.sum.213"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Arguir prescrição quinquenal contada da extinção do crédito.",
+      "refs": [
+       "ctn.168",
+       "stj.sum.625"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Optar entre precatório e compensação do indébito reconhecido.",
+      "refs": [
+       "stj.sum.461"
+      ]
+     },
+     {
+      "a": "Usar mandado de segurança para declarar o direito à compensação.",
+      "refs": [
+       "stj.sum.213"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [],
   "estado": "verificado-ia",
@@ -2872,32 +2980,38 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Arguir decadência do prazo de 120 dias ou necessidade de dilação probatória.",
-     "refs": [
-      "l12016.23",
-      "l12016.1"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Obter liminar para suspender a exigibilidade.",
-     "refs": [
-      "l12016.7",
-      "ctn.151"
-     ]
-    },
-    {
-     "a": "Declarar o direito à compensação.",
-     "refs": [
-      "stj.sum.213"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Arguir decadência do prazo de 120 dias ou necessidade de dilação probatória.",
+      "refs": [
+       "l12016.23",
+       "l12016.1"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Obter liminar para suspender a exigibilidade.",
+      "refs": [
+       "l12016.7",
+       "ctn.151"
+      ]
+     },
+     {
+      "a": "Declarar o direito à compensação.",
+      "refs": [
+       "stj.sum.213"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [],
   "estado": "verificado-ia",
@@ -2988,31 +3102,37 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Pedir suspensão para protestar a CDA ou tentar conciliação.",
-     "refs": [
-      "stf.tema.1184"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Pedir extinção por falta de interesse de agir em execução de baixo valor.",
-     "refs": [
-      "stf.tema.1184"
-     ]
-    },
-    {
-     "a": "Cobrar honorários na desistência posterior aos embargos.",
-     "refs": [
-      "stj.sum.153",
-      "cpc.85"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Pedir suspensão para protestar a CDA ou tentar conciliação.",
+      "refs": [
+       "stf.tema.1184"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Pedir extinção por falta de interesse de agir em execução de baixo valor.",
+      "refs": [
+       "stf.tema.1184"
+      ]
+     },
+     {
+      "a": "Cobrar honorários na desistência posterior aos embargos.",
+      "refs": [
+       "stj.sum.153",
+       "cpc.85"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [
    {
@@ -3100,26 +3220,32 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Pedir penhora de faturamento fora da ordem com decisão fundamentada.",
-     "refs": [
-      "stj.tema.769",
-      "cpc.835"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Impugnar percentual que inviabilize a empresa e exigir prova concreta.",
-     "refs": [
-      "stj.tema.769",
-      "cpc.805"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Pedir penhora de faturamento fora da ordem com decisão fundamentada.",
+      "refs": [
+       "stj.tema.769",
+       "cpc.835"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Impugnar percentual que inviabilize a empresa e exigir prova concreta.",
+      "refs": [
+       "stj.tema.769",
+       "cpc.805"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [
    {
@@ -3212,25 +3338,31 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Manter a competência apesar da mudança de domicílio do executado.",
-     "refs": [
-      "stj.sum.58"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Arguir nulidade da citação por edital sem esgotamento das demais formas.",
-     "refs": [
-      "stj.sum.414",
-      "lef.8"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Manter a competência apesar da mudança de domicílio do executado.",
+      "refs": [
+       "stj.sum.58"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Arguir nulidade da citação por edital sem esgotamento das demais formas.",
+      "refs": [
+       "stj.sum.414",
+       "lef.8"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [],
   "estado": "verificado-ia",
@@ -3313,25 +3445,31 @@
     "obs": ""
    }
   ],
-  "pratica": {
-   "fazenda": [
-    {
-     "a": "Protestar a CDA e averbar a certidão antes de ajuizar.",
-     "refs": [
-      "l9492.1",
-      "l10522.20-B"
-     ]
-    }
-   ],
-   "defesa": [
-    {
-     "a": "Exigir a notificação prévia do art. 20-B antes de medidas restritivas.",
-     "refs": [
-      "l10522.20-B"
-     ]
-    }
-   ]
-  },
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Protestar a CDA e averbar a certidão antes de ajuizar.",
+      "refs": [
+       "l9492.1",
+       "l10522.20-B"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Exigir a notificação prévia do art. 20-B antes de medidas restritivas.",
+      "refs": [
+       "l10522.20-B"
+      ]
+     }
+    ]
+   }
+  ],
   "controversias": [],
   "timeline": [],
   "estado": "verificado-ia",

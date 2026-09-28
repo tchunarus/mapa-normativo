@@ -1,9 +1,17 @@
-"""Registra precedentes encontrados pela rotina no Jusratio.
+"""Registra precedentes e entendimentos administrativos encontrados pela rotina.
 
 Uso: python3 coletor/registrar.py < precedentes.json
-Entrada: lista de objetos com tribunal, tipo, titulo, processo, orgao, relator, data,
-tese (ou ementa), url (link do inteiro teor na fonte oficial), instituto (id em
-conteudo/institutos.json) e, se houver, dispositivos (ids como "ctn.135").
+Entrada: lista de objetos com tribunal (ou, para entendimento administrativo, o órgão:
+"Receita Federal", "CONFAZ", "SEF/SC" etc., no mesmo campo `tribunal`), tipo, titulo,
+processo (ou o número do ato administrativo), orgao, relator, data, tese (ou ementa),
+url (link do inteiro teor na fonte oficial), instituto (id em conteudo/institutos.json)
+e, se houver, dispositivos (ids como "ctn.135").
+Um registro é administrativo, e não jurisdicional, quando `natureza` vem como
+"administrativa", ou automaticamente quando `tipo` é um dos listados em TIPOS_ADMIN
+(Solução de Consulta, Parecer Normativo, Convênio ICMS, Ato Declaratório
+Interpretativo, Instrução Normativa). Nesse caso, `orgao_emissor` identifica quem
+emitiu o ato (ex.: "Receita Federal do Brasil", "CONFAZ", "Secretaria de Estado da
+Fazenda de Santa Catarina").
 Só são aceitos registros com URL em domínio oficial (.jus.br ou .gov.br) e com tese
 ou ementa; o resto é recusado e listado na saída. Nada é sobrescrito sem registro.
 """
@@ -14,7 +22,10 @@ from urllib.parse import urlparse
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EST = os.path.join(RAIZ, 'estado')
 NIVEL = {'Súmula vinculante': 'A', 'Súmula': 'A', 'Controle concentrado': 'A', 'Repercussão geral': 'B', 'Tema repetitivo': 'B',
-         'IRDR': 'B', 'IAC': 'B', 'IRR': 'B', 'Órgão especial': 'C', 'Acórdão': 'D'}
+         'IRDR': 'B', 'IAC': 'B', 'IRR': 'B', 'Órgão especial': 'C', 'Acórdão': 'D',
+         'Convênio ICMS': 'C', 'Parecer Normativo': 'C', 'Ato Declaratório Interpretativo': 'C',
+         'Instrução Normativa': 'C', 'Solução de Consulta': 'D'}
+TIPOS_ADMIN = {'Solução de Consulta', 'Parecer Normativo', 'Convênio ICMS', 'Ato Declaratório Interpretativo', 'Instrução Normativa'}
 
 
 def slug(s):
@@ -48,9 +59,12 @@ def main():
         if base and base.get('fonte', '').startswith('STJ') and base.get('tese') and not novo:
             # dados lidos diretamente do portal oficial têm precedência; só atualiza a situação
             base['situacao'] = x.get('situacao') or base.get('situacao'); base['verificado_em'] = agora[:10]; prec[pid] = base; aceitos.append(pid); continue
-        base.update({'id': pid, 'trib': x['tribunal'].upper(), 'tipo': x.get('tipo') or 'Acórdão', 'nivel': NIVEL.get(x.get('tipo'), 'D'),
+        tipo = x.get('tipo') or 'Acórdão'
+        natureza = x.get('natureza') or ('administrativa' if tipo in TIPOS_ADMIN else 'jurisdicional')
+        base.update({'id': pid, 'trib': x['tribunal'].upper(), 'tipo': tipo, 'nivel': NIVEL.get(tipo, 'D'), 'natureza': natureza,
                      'numero': tema or sumula or x['processo'], 'titulo': x.get('titulo') or (f"Tema {tema}/{trib}" if tema.isdigit() else f"Súmula {sumula}/{trib}" if sumula.isdigit() else f"{trib} · {x['processo']}"), 'orgao': x.get('orgao'),
-                     'situacao': x.get('situacao') or 'Julgado', 'questao': None, 'tese': x['tese'].strip(),
+                     'orgao_emissor': x.get('orgao_emissor') if natureza == 'administrativa' else None,
+                     'situacao': x.get('situacao') or ('Vigente' if natureza == 'administrativa' else 'Julgado'), 'questao': None, 'tese': x['tese'].strip(),
                      'processos': [{'numero': x['processo'], 'origem': None, 'relator': x.get('relator'), 'julgado': x.get('data'), 'publicado': None}],
                      'data': x.get('data'), 'dispositivos': [d for d in x.get('dispositivos', []) if re.match(r'^[a-z0-9]+\.[\dA-Z\-]+$', d)],
                      'url': x['url'], 'fonte': 'Jusratio, com link para a fonte oficial', 'verificado_em': agora[:10], 'novo': novo})
