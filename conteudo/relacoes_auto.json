@@ -2678,5 +2678,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T17:19:34+00:00"
+ },
+ {
+  "de": "cpc.410",
+  "para": "cc.1177",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 410 do CPC inclui, como exemplo de documento cujo autor não é quem assina, os livros empresariais; o art. 1.177 do CC especializa essa regra ao determinar que os assentos lançados nos livros do preponente por qualquer preposto produzem os mesmos efeitos como se lançados pelo próprio preponente, salvo má fé. São institutos conexos, o civil aplicando concretamente a atribuição de autoria prevista na lei processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T19:18:43+00:00"
+ },
+ {
+  "de": "cpc.412",
+  "para": "cc.223",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 412 do CPC estabelece que o documento particular cuja autenticidade não se questiona prova a declaração nele atribuída ao autor; o art. 223 do CC estende raciocínio semelhante à cópia fotográfica conferida por tabelião, que vale como prova da declaração de vontade enquanto não impugnada sua autenticidade, caso em que se exige a exibição do original. São institutos conexos dentro do mesmo tema da eficácia probatória dos documentos, cada um tratando de um suporte diferente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T19:18:43+00:00"
+ },
+ {
+  "de": "cpc.428",
+  "para": "clt.830",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 428 do CPC dispõe que cessa a fé do documento particular quando impugnada sua autenticidade, até que se comprove sua veracidade; o art. 830 da CLT, ao tratar de cópia impugnada no processo do trabalho, determina consequência diversa, a intimação da parte para apresentar cópia autenticada ou o original. Há risco real de confusão entre os dois regimes, pois ambos regulam o efeito da impugnação de autenticidade, mas cada um se aplica a um objeto e a uma consequência processual distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T19:18:43+00:00"
+ },
+ {
+  "de": "cpc.495",
+  "para": "cc.1422",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 495 do CPC atribui ao credor da hipoteca judiciária o direito de preferência no pagamento, observada a prioridade no registro; o art. 1.422 do CC estabelece a mesma regra de preferência por prioridade de registro para o credor hipotecário em geral. O art. 495 do CPC especializa, para a hipoteca judiciária, o regime geral de preferência da hipoteca convencional previsto no CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T19:18:43+00:00"
+ },
+ {
+  "de": "cpc.495",
+  "para": "cc.1492",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 495 do CPC permite constituir a hipoteca judiciária mediante apresentação de cópia da sentença ao cartório de registro imobiliário; o art. 1.492 do CC exige que a hipoteca seja registrada no cartório do lugar do imóvel, mediante exibição do título ao interessado. Tratam do mesmo instituto do registro da hipoteca, sendo a sentença o título hábil para a hipoteca judiciária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T19:18:43+00:00"
+ },
+ {
+  "de": "cpc.599",
+  "para": "cc.1029",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 599 do CPC prevê a ação de dissolução parcial de sociedade para o sócio que exerceu o direito de retirada ou recesso; o art. 1.029 do CC disciplina esse direito material, exigindo notificação com antecedência mínima de sessenta dias se a sociedade for de prazo indeterminado, ou prova judicial de justa causa se de prazo determinado. O art. 599 do CPC é o procedimento para a ação decorrente do exercício desse direito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T19:18:43+00:00"
+ },
+ {
+  "de": "cpc.599",
+  "para": "cc.1031",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 599 do CPC prevê a apuração de haveres do sócio falecido, excluído ou que se retirou; o art. 1.031 do CC estabelece o critério material para essa apuração, com base na situação patrimonial da sociedade na data da resolução, verificada em balanço especialmente levantado. O art. 599 do CPC disciplina o procedimento judicial da apuração cujo critério de cálculo vem do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T19:18:43+00:00"
+ },
+ {
+  "de": "cpc.599",
+  "para": "lsa.206",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 599 do CPC estende a ação de dissolução parcial à sociedade anônima de capital fechado quando demonstrado, por acionistas com cinco por cento ou mais do capital, que a companhia não pode preencher o seu fim; o art. 206, II, b, da LSA já previa a dissolução judicial da companhia por essa mesma causa, a impossibilidade de preencher o fim social. O CPC especializa, para a ação de dissolução parcial, a mesma causa de dissolução judicial já prevista na LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T19:18:43+00:00"
  }
 ]
