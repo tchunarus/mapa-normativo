@@ -54,8 +54,11 @@ Se o ente não existir em `ENTES` (`coletor/fontes.py`), acrescente-o.
 python3 coletor/atualizar.py
 ```
 
-Use o tempo máximo do Bash (600000 ms). O script baixa só o que mudou, grava
-`docs/data/diplomas/<id>.json` e registra a inclusão em `estado/changelog.json`.
+Use o tempo máximo do Bash (600000 ms). O script baixa só o que mudou e grava
+`docs/data/diplomas/<id>.json`. A primeira coleta forma a linha de base dos hashes e
+não gera registro em `estado/changelog.json`; só as mudanças seguintes aparecem lá.
+Diploma com `automatico=False` (coleta manual) precisa de `verificado_manual` com a
+data do download conferido, ou a página não mostra data de conferência.
 
 ## 4. Conferência
 

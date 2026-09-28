@@ -1,6 +1,7 @@
 """Fontes do Poder Legislativo: Senado Federal (normas publicadas) e Câmara dos Deputados
 (proposições em tramitação que alteram diplomas acompanhados). Ambas por dados abertos oficiais."""
 import json, subprocess
+from fontes import cita
 
 SENADO = 'https://legis.senado.leg.br/dadosabertos/legislacao/lista?tipo={t}&ano={a}'
 SENADO_NORMA = 'https://legis.senado.leg.br/norma/{id}'
@@ -44,7 +45,7 @@ def proposicoes_camara(ano, marcadores, paginas=3):
                 break
             for x in d['dados']:
                 em = x.get('ementa') or ''
-                afeta = [k for k, ms in marcadores.items() if any(m.lower() in em.lower() for m in ms)]
+                afeta = [k for k, ms in marcadores.items() if cita(em, ms)]
                 if afeta:
                     out[str(x['id'])] = {'id': f"camara.{x['id']}", 'titulo': f"{x['siglaTipo']} {x['numero']}/{x['ano']}", 'ementa': em,
                                          'apresentacao': (x.get('dataApresentacao') or '')[:10], 'diplomas': afeta,

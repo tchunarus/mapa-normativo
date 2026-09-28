@@ -72,6 +72,7 @@ def construir(agora=None):
     avisos, diplomas, refs, busca, alterados = [], [], {}, [], []
     todos_ids = set()
     extraidos = {}
+    fontes_status = ler('estado/fontes_status.json', {})
     for f in DIPLOMAS:
         ext = '.doc' if f.get('extrator') else '.htm'
         cam = os.path.join(CACHE, f['cache'] + ext)
@@ -82,8 +83,11 @@ def construir(agora=None):
             else:
                 arts = planalto.extrair(cam, f)
         elif os.path.exists(pub):
+            # sem cache local (caso normal na nuvem, quando o ETag não mudou): a versão
+            # publicada é a vigente; só é aviso se o download desta execução falhou
             arts = json.load(open(pub))['artigos']
-            avisos.append(f"Fonte indisponível nesta execução, mantida a última versão publicada: {f['id']}")
+            if 'falha' in fontes_status.get('Planalto: ' + f['sigla'], {}).get('status', ''):
+                avisos.append(f"Fonte indisponível nesta execução, mantida a última versão publicada: {f['id']}")
         else:
             avisos.append(f"Diploma sem fonte nem versão publicada: {f['id']}"); continue
         extraidos[f['id']] = arts
@@ -96,7 +100,11 @@ def construir(agora=None):
             continue
         ordem = sorted(arts, key=lambda x: (int(x.split('-')[0]), x))
         meta = {k: f[k] for k in ('id', 'sigla', 'nome', 'norma', 'area', 'url', 'urn', 'onda', 'jurisdicao', 'ente')}
-        meta.update({'completo': not f.get('sel'), 'n': len(arts), 'verificado_em': hashes.get('_verificado', {}).get(f['id'], agora)})
+        # diploma fora da coleta automática: vale a data da última conferência manual,
+        # nunca a hora desta execução
+        verificado = hashes.get('_verificado', {}).get(f['id']) or f.get('verificado_manual') or (None if f.get('automatico') is False else agora)
+        meta.update({'completo': not f.get('sel'), 'n': len(arts), 'verificado_em': verificado, 'fonte': f.get('fonte', 'Planalto'),
+                     'automatico': f.get('automatico') is not False})
         salvar(f"diplomas/{f['id']}.json", dict(meta, artigos=arts, ordem=ordem))
         diplomas.append(meta)
         ano = datetime.now().year

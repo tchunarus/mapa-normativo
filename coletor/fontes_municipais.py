@@ -28,6 +28,7 @@ DIPLOMAS_MUNICIPAIS = [
        area='trib', jurisdicao='municipal', ente='SC/Florianópolis',
        url='https://www.cmf.sc.gov.br/proposicoes/Leis-Complementares/1997/1/0/75248', cache='floripa_ctm',
        urn='urn:lex:br:sc:florianopolis:lei.complementar:1997-01-06;7', onda=5, automatico=False,
+       fonte='Câmara Municipal de Florianópolis', verificado_manual='2026-09-28T13:59:00+00:00',  # download do .doc oficial
        extrator='floripa_ctm', fonte_doc='https://www.cloudsoftcam.com.br/SC/FLORIANOPOLIS/upload/2026/05/202605271405241779901524235c80.DOC'),
 ]
 

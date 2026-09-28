@@ -16,9 +16,9 @@ DIPLOMAS_ESTADUAIS = [
   # Os ids não usam ponto: o roteamento da página lê "diploma.artigo" pelo primeiro
   # ponto do endereço, então um id de diploma com ponto quebra essa separação.
   dict(id='sc_icms_lei', sigla='Lei 10.297/96-SC', nome='Lei do ICMS de Santa Catarina', norma='Lei nº 10.297, de 26 de dezembro de 1996',
-       area='trib', jurisdicao='estadual', ente='SC', url=SEF + 'html/leis/1996/Lei_96_10297.htm', cache='sc_icms_lei',
+       area='trib', jurisdicao='estadual', ente='SC', fonte='SEF/SC', url=SEF + 'html/leis/1996/Lei_96_10297.htm', cache='sc_icms_lei',
        urn='urn:lex:br:sc:estadual:lei:1996-12-26;10297', onda=4),
   dict(id='sc_ricms', sigla='RICMS-SC', nome='Regulamento do ICMS de Santa Catarina', norma='Decreto nº 2.870, de 27 de agosto de 2001 (corpo principal, sem os Anexos)',
-       area='trib', jurisdicao='estadual', ente='SC', url=SEF + 'HTML/REGULAMENTOS/ICMS/RICMS_01_00.htm', cache='sc_ricms',
+       area='trib', jurisdicao='estadual', ente='SC', fonte='SEF/SC', url=SEF + 'HTML/REGULAMENTOS/ICMS/RICMS_01_00.htm', cache='sc_ricms',
        urn='urn:lex:br:sc:estadual:decreto:2001-08-27;2870', onda=4),
 ]

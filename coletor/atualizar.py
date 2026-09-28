@@ -6,12 +6,11 @@ execução e busca de temas novos na primeira execução do dia; (4) súmulas do
 por dia; (5) geração dos arquivos publicados. Nada é apagado: toda mudança vai para
 estado/changelog.json com data e fonte.
 """
-import argparse, json, os, sys
+import argparse, json, os, re, sys
 from datetime import datetime, timedelta, timezone
 sys.path.insert(0, os.path.dirname(__file__))
 import planalto, dou, stj, congresso
-from fontes import MARCADORES_DOU
-from fontes import DIPLOMAS
+from fontes import MARCADORES_DOU, DIPLOMAS, cita
 from construir import construir, RAIZ, CACHE
 
 EST = os.path.join(RAIZ, 'estado')
@@ -61,6 +60,13 @@ def etapa_dou(agora, log, status):
     return novos
 
 
+def nota_recente(art):
+    """Nota de alteração com o ano mais recente; no empate, a última do artigo."""
+    notas = [l[1] for l in art['l'] if l[1]]
+    ano = lambda s: max([int(a) for a in re.findall(r'\b(?:19|20)\d{2}\b', s)] or [0])
+    return max(reversed(notas), key=ano) if notas else ''
+
+
 def etapa_planalto(agora, log, status, completo=False):
     hashes = ler('hashes.json', {})
     verif = hashes.setdefault('_verificado', {})
@@ -99,8 +105,7 @@ def etapa_planalto(agora, log, status, completo=False):
                 if n not in antigos:
                     log.append({'data': agora.isoformat(timespec='seconds'), 'fonte': 'Planalto', 'tipo': 'incluido', 'd': f"{f['id']}.{n}", 'titulo': f"{f['sigla']}, {arts[n]['r']}: dispositivo incluído", 'url': f['url']}); mudancas += 1
                 elif antigos[n] != h:
-                    notas = sorted({l[1] for l in arts[n]['l'] if l[1]})[-1:] 
-                    log.append({'data': agora.isoformat(timespec='seconds'), 'fonte': 'Planalto', 'tipo': 'revogado' if arts[n]['rev'] else 'alterado', 'd': f"{f['id']}.{n}", 'titulo': f"{f['sigla']}, {arts[n]['r']}: texto alterado", 'nota': notas[0] if notas else '', 'url': f['url']}); mudancas += 1
+                    log.append({'data': agora.isoformat(timespec='seconds'), 'fonte': 'Planalto', 'tipo': 'revogado' if arts[n]['rev'] else 'alterado', 'd': f"{f['id']}.{n}", 'titulo': f"{f['sigla']}, {arts[n]['r']}: texto alterado", 'nota': nota_recente(arts[n]), 'url': f['url']}); mudancas += 1
         if antigos != atuais:
             hashes[f['id']] = atuais
             if antigos:
@@ -205,10 +210,11 @@ def etapa_congresso(agora, log, status, diario):
             if n['id'] in ids:
                 continue
             if vistas is not None:  # na primeira leitura, só forma a linha de base
-                afeta = [d for d, ms in MARCADORES_DOU.items() if any(m.lower() in n['ementa'].lower() for m in ms)]
+                afeta = [d for d, ms in MARCADORES_DOU.items() if cita(n['ementa'], ms)]
                 log.append({'data': agora.isoformat(timespec='seconds'), 'fonte': 'Senado', 'tipo': 'nova_norma', 'titulo': n['titulo'] + ' publicada', 'nota': n['ementa'][:220], 'url': n['url'], 'diplomas': afeta})
-                pend.append({'diploma': afeta[0] if afeta else None, 'ato': n['titulo'], 'url': n['url'], 'desde': agora.isoformat(timespec='seconds'),
-                             'situacao': 'alteração publicada, compilação oficial pendente' if afeta else 'nova norma a avaliar para inclusão na base'})
+                for dip in afeta or [None]:
+                    pend.append({'diploma': dip, 'ato': n['titulo'], 'url': n['url'], 'desde': agora.isoformat(timespec='seconds'),
+                                 'situacao': 'alteração publicada, compilação oficial pendente' if dip else 'nova norma a avaliar para inclusão na base'})
         gravar('normas_vistas.json', (vistas or []) + [n for n in normas if n['id'] not in ids])
         gravar('pendencias.json', pend)
     if diario:
@@ -228,16 +234,20 @@ def main():
     diario = a.diario or local.hour == 6
     semanal = diario and local.weekday() == 0  # segunda-feira: jurisprudência pelo Jusratio
     log, status, resumo = [], {}, {}
-    if not a.sem_rede:
-        limpar_pendencias(agora)
-        resumo['dou'] = etapa_dou(agora, log, status)
-        resumo['planalto'] = etapa_planalto(agora, log, status, completo=semanal)
-        etapa_congresso(agora, log, status, diario)
-        resumo['stj'] = etapa_stj(agora, log, status, diario)
-        if diario:
-            resumo['sumulas'] = etapa_sumulas(agora, log, status)
-    ch = ler('changelog.json', []) + log
-    gravar('changelog.json', ch[-2000:])
+    try:
+        if not a.sem_rede:
+            limpar_pendencias(agora)
+            resumo['dou'] = etapa_dou(agora, log, status)
+            resumo['planalto'] = etapa_planalto(agora, log, status, completo=semanal)
+            etapa_congresso(agora, log, status, diario)
+            resumo['stj'] = etapa_stj(agora, log, status, diario)
+            if diario:
+                resumo['sumulas'] = etapa_sumulas(agora, log, status)
+    finally:
+        # etapa_planalto já gravou os hashes novos: se uma etapa seguinte falhar, o registro
+        # das mudanças detectadas precisa ser gravado mesmo assim, ou se perde de vez.
+        ch = ler('changelog.json', []) + log
+        gravar('changelog.json', ch[-2000:])
     if a.sem_rede:  # só regenera os arquivos publicados; preserva o registro da última coleta
         idx = construir(ler('ultima_execucao.json', {}).get('em') or agora.isoformat(timespec='seconds'))
         print(json.dumps({'regenerado': True, 'avisos': idx['avisos'][:10]}, ensure_ascii=False)); return

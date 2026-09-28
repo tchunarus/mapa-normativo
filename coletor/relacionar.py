@@ -8,6 +8,14 @@ duplicatas. Marca os artigos analisados para não voltarem à fila.
 import json, os, re, sys
 from datetime import datetime, timezone
 
+# Palavras que só existem com acento (ou terminações como -ção grafadas sem til nem
+# cedilha). Formas que também são verbos válidos sem acento (especifica, publica,
+# valida) ficam de fora.
+SEM_ACENTO = re.compile(r'\b(?:\w+(?:cao|coes|soes)|codigos?|indices?|creditos?|debitos?|tributari[oa]s?|juridic[oa]s?'
+                        r'|publicos?|publicas|unic[oa]s?|paragrafos?|periodos?|orgaos?|nao|sao|ja|tambem|alem|apos|ate|sera|serao'
+                        r'|estao|beneficios?|responsave(?:l|is)|possive(?:l|is)|aplicave(?:l|is)|disponive(?:l|is)|minim[oa]s?'
+                        r'|maxim[oa]s?|previdenciari[oa]s?|obrigatori[oa]s?|necessari[oa]s?|exercicios?|salarios?|patrimonio'
+                        r'|domicilios?|comercio|proprio|propria|materias?)\b', re.I)
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA, EST, CONT = os.path.join(RAIZ, 'docs', 'data'), os.path.join(RAIZ, 'estado'), os.path.join(RAIZ, 'conteudo')
 
@@ -37,6 +45,9 @@ def main():
         for m in re.finditer(r'art(?:igo)?\.?\s*(\d{1,4}(?:\.\d{3})?)[^.;]{0,25}?(par[áa]grafo [úu]nico|§\s*\d+)', porque, re.I):
             alvo = numeros.get(m.group(1).replace('.', ''))
             if not alvo:
+                # parágrafo de um terceiro artigo, fora da relação: não há texto para
+                # conferir aqui, e ele não deve ser confrontado com os dois artigos abaixo
+                porque = porque.replace(m.group(0), ' ')
                 continue
             t = texto(alvo)
             ref = m.group(2)
@@ -65,6 +76,7 @@ def main():
         elif '—' in e['porque']: motivo = 'travessão no texto'
         elif (e['de'], e['para']) in existentes: motivo = 'relação já registrada'
         elif not re.search(r'[áàâãéêíóôõúç]', e['porque'], re.I): motivo = 'texto sem acentuação'
+        elif SEM_ACENTO.search(e['porque']): motivo = f"palavra sem acento: {SEM_ACENTO.search(e['porque']).group(0)}"
         elif referencias_inexistentes(e): motivo = referencias_inexistentes(e)
         if motivo:
             recusadas.append({'de': e.get('de'), 'para': e.get('para'), 'motivo': motivo}); continue

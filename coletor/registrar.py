@@ -66,7 +66,7 @@ def main():
                      'orgao_emissor': x.get('orgao_emissor') if natureza == 'administrativa' else None,
                      'situacao': x.get('situacao') or ('Vigente' if natureza == 'administrativa' else 'Julgado'), 'questao': None, 'tese': x['tese'].strip(),
                      'processos': [{'numero': x['processo'], 'origem': None, 'relator': x.get('relator'), 'julgado': x.get('data'), 'publicado': None}],
-                     'data': x.get('data'), 'dispositivos': [d for d in x.get('dispositivos', []) if re.match(r'^[a-z0-9]+\.[\dA-Z\-]+$', d)],
+                     'data': x.get('data'), 'dispositivos': [d for d in x.get('dispositivos', []) if re.match(r'^[a-z0-9_]+\.[\dA-Z\-]+$', d)],
                      'url': x['url'], 'fonte': 'Jusratio, com link para a fonte oficial', 'verificado_em': agora[:10], 'novo': novo})
         if x.get('instituto') in inst:
             base['institutos_auto'] = sorted(set(base.get('institutos_auto', [])) | {x['instituto']})

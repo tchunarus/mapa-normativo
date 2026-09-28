@@ -1,6 +1,6 @@
 """Leitura do Diário Oficial da União (seção 1 e edição extra) pela página oficial de leitura."""
 import json, re, subprocess
-from fontes import MARCADORES_DOU, TIPOS_DOU, ORGAOS_DOU
+from fontes import MARCADORES_DOU, TIPOS_DOU, ORGAOS_DOU, cita
 
 URL = 'https://www.in.gov.br/leiturajornal?data={d}&secao={s}'
 ATO = 'https://www.in.gov.br/web/dou/-/{slug}'
@@ -24,7 +24,7 @@ def relevantes(atos):
         if not any(o in orgao for o in ORGAOS_DOU) and not tipo.startswith(('Lei', 'Emenda', 'Medida')):
             continue
         texto = (a.get('title') or '') + ' ' + (a.get('content') or '')
-        afeta = [d for d, marcas in MARCADORES_DOU.items() if any(m.lower() in texto.lower() for m in marcas)]
+        afeta = [d for d, marcas in MARCADORES_DOU.items() if cita(texto, marcas)]
         novo_diploma = tipo.startswith(('Lei Complementar', 'Emenda Constitucional'))
         if afeta or novo_diploma:
             out.append({'titulo': a.get('title'), 'tipo': tipo, 'orgao': orgao, 'data': a.get('pubDate'),

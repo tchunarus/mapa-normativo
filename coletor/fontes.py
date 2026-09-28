@@ -6,6 +6,8 @@ final deste arquivo. Um diploma estadual ou municipal declara os dois, por exemp
 `jurisdicao='estadual', ente='SC'` ou `jurisdicao='municipal', ente='SC/Florianópolis'`.
 """
 
+import re
+
 P = 'https://www.planalto.gov.br/ccivil_03/'
 ADCT = 'ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS'
 
@@ -138,6 +140,12 @@ MARCADORES_DOU = {
   'clt': ['Decreto-Lei nº 5.452', 'Consolidação das Leis do Trabalho'],
   'l8212': ['Lei nº 8.212'],
 }
+def cita(texto, marcas):
+    """O texto cita algum dos marcadores, como norma inteira: "Lei Complementar nº 87" não
+    casa com "nº 870", e "Lei nº 5.172" não casa com "Decreto-Lei nº 5.172"."""
+    return any(re.search(r'(?<![\w-])' + re.escape(m) + r'(?![\d.]*\d)', texto or '', re.I) for m in marcas)
+
+
 TIPOS_DOU = ['Emenda Constitucional', 'Lei Complementar', 'Lei', 'Medida Provisória', 'Decreto', 'Resolução', 'Instrução Normativa', 'Ato Declaratório']
 ORGAOS_DOU = ['Presidência da República', 'Ministério da Fazenda', 'Congresso Nacional', 'Comitê Gestor']
 
