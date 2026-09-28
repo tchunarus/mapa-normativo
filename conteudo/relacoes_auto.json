@@ -2618,5 +2618,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T16:19:58+00:00"
+ },
+ {
+  "de": "adct.86",
+  "para": "l14133.141",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 86 do ADCT determina que os débitos de precatório de pequeno valor sejam pagos observada a ordem cronológica de apresentação, enquanto o art. 141 da Lei 14.133/21 estabelece ordem cronológica distinta para os pagamentos devidos pela Administração em contratos administrativos, o que pode gerar confusão entre os dois regimes de prioridade de pagamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T17:19:34+00:00"
+ },
+ {
+  "de": "cc.281",
+  "para": "cpc.1005",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 281 do Código Civil distingue as exceções pessoais das exceções comuns a todos os codevedores solidários, e o parágrafo único do art. 1.005 do CPC aplica essa mesma distinção ao definir que o recurso de um devedor solidário aproveita aos demais quando as defesas opostas ao credor lhes forem comuns.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T17:19:34+00:00"
+ },
+ {
+  "de": "cc.281",
+  "para": "cpp.95",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 281 do Código Civil cuida das exceções como defesas de direito material do codevedor solidário, ao passo que o art. 95 do Código de Processo Penal lista as exceções processuais de suspeição, incompetência, litispendência, ilegitimidade de parte e coisa julgada, institutos homônimos mas sem relação de conteúdo entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T17:19:34+00:00"
+ },
+ {
+  "de": "cpc.393",
+  "para": "cc.214",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 393 do CPC repete, no âmbito processual, a mesma regra do art. 214 do Código Civil sobre a irrevogabilidade da confissão e sua anulação por erro de fato ou coação, disciplinando ainda a legitimidade para essa ação e sua transmissibilidade aos herdeiros do confitente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T17:19:34+00:00"
+ },
+ {
+  "de": "cpc.408",
+  "para": "cc.219",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 219 do Código Civil estabelece a presunção de veracidade das declarações constantes de documento assinado em relação ao signatário, e o art. 408 do CPC repete essa presunção no processo civil, especificando que a declaração de ciência de um fato prova apenas a ciência, e não o fato em si, cujo ônus cabe a quem alega a veracidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T17:19:34+00:00"
+ },
+ {
+  "de": "cpc.409",
+  "para": "cc.288",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 409 do CPC estabelece regras gerais para provar a data de documento particular perante terceiros, e o art. 288 do Código Civil exige, para a cessão de crédito especificamente, que o instrumento particular observe solenidade própria para produzir efeitos perante terceiros, tratando-se de instituto conexo com exigência mais específica que a regra geral do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T17:19:34+00:00"
  }
 ]
