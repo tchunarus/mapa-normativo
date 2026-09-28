@@ -1268,5 +1268,185 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T09:51:25+00:00"
+ },
+ {
+  "de": "adct.126",
+  "para": "lcp214.454",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 126, III, a, do ADCT determina que as alíquotas do IPI sejam reduzidas a zero a partir de 2027, exceto quanto a produtos com industrialização incentivada na Zona Franca de Manaus, conforme critérios a serem fixados em lei complementar, e é exatamente esse critério que o art. 454 da LC 214/2025 estabelece.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "adct.126",
+  "para": "lcp214.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 126, I, a, do ADCT prevê a cobrança, a partir de 2027, da contribuição de que trata o art. 195, V, da Constituição, e é o art. 1º, II, da LC 214/2025 que institui essa contribuição, denominando-a CBS e atribuindo-lhe competência à União.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "adct.126",
+  "para": "ec132.7",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "Enquanto o art. 126 do ADCT determina a substituição, a partir de 2027, do imposto do art. 153, IV, pelo imposto do art. 153, VIII, o art. 7º da EC 132/2023 complementa essa transição ao prever a compensação, pela União, da eventual redução na arrecadação repartida com Estados e Municípios em razão dessa mesma substituição tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "adct.126",
+  "para": "lcp214.348",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 348 da LC 214/2025 disciplina a fase de teste do IBS e da CBS em 2026, com compensação em relação às contribuições do art. 195, I, b, e IV, e à contribuição do art. 239, todas da Constituição, complementando o regime de extinção dessas mesmas contribuições que o art. 126, II, do ADCT estabelece a partir de 2027.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "adct.34",
+  "para": "ctn.1",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 34, § 5º, do ADCT assegura a aplicação da legislação tributária anterior à Constituição de 1988, no que não seja incompatível com o novo sistema, e o art. 1º do CTN, editado sob a Emenda Constitucional n. 18 de 1965, é precisamente essa legislação anterior que continua a regular o sistema tributário nacional enquanto compatível.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "adct.34",
+  "para": "cf.146",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 34, §§ 3º e 4º, do ADCT autoriza a edição de leis necessárias à aplicação do sistema tributário nacional previsto na Constituição, e o art. 146 da própria Constituição é quem define, de modo permanente, as matérias reservadas a lei complementar em direito tributário, entre elas as normas gerais que o art. 1º do CTN contempla.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "adct.34",
+  "para": "cf.155",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 34, § 6º, do ADCT excepciona, até 31 de dezembro de 1989, a regra de anterioridade nonagesimal do art. 150, III, b, quanto aos impostos do art. 155, I, a e b, e 156, II e III, permitindo a cobrança trinta dias após a publicação da lei instituidora, regra transitória que incide diretamente sobre a competência tributária estadual do art. 155.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "cf.129",
+  "para": "cpp.257",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 129, I, da Constituição atribui ao Ministério Público, privativamente, a promoção da ação penal pública, e o art. 257, I, do CPP regulamenta essa mesma função no âmbito processual penal, acrescentando ainda o dever de fiscalizar a execução da lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "cf.129",
+  "para": "l7347.5",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 129, III, da Constituição confere ao Ministério Público a promoção da ação civil pública para proteção do patrimônio público e social e de outros interesses difusos e coletivos, e o art. 5º da Lei 7.347/85 regulamenta a legitimidade para essa ação, atribuindo-a também a outros entes, em conformidade com o § 1º do próprio art. 129, que não impede a legitimação de terceiros.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "cf.129",
+  "para": "l8429.22",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 22 da Lei de Improbidade Administrativa regulamenta, no âmbito da apuração de atos de improbidade, os poderes que o art. 129, III e VIII, da Constituição confere ao Ministério Público de instaurar inquérito civil e de requisitar a instauração de inquérito policial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "cf.129",
+  "para": "l8429.17-D",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 17-D da Lei de Improbidade Administrativa declara expressamente que a ação por improbidade não constitui ação civil e veda seu ajuizamento para a proteção do patrimônio público e social e de outros interesses difusos referidos no art. 129, III, da Constituição, distinção relevante porque ambas as ações tutelam o patrimônio público mas seguem regimes jurídicos próprios e não podem ser confundidas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "cf.129",
+  "para": "cpc.182",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 182 do CPC atribui à Advocacia Pública a representação judicial das pessoas jurídicas de direito público, competência que o art. 129, IX, da Constituição expressamente veda ao Ministério Público exercer, de modo que os dois dispositivos demarcam funções distintas e não intercambiáveis quanto à defesa em juízo do interesse público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "cc.1239",
+  "para": "cf.191",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.239 do Código Civil reproduz, em lei ordinária, a mesma hipótese de usucapião especial rural individual já prevista no art. 191 da Constituição, com requisitos de área, prazo, ausência de oposição, produtividade pelo trabalho e moradia praticamente idênticos aos do texto constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "cc.1239",
+  "para": "cf.183",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 183 da Constituição disciplina a usucapião especial urbana, instituto conexo ao da usucapião especial rural do art. 1.239 do Código Civil, mas com requisitos distintos quanto à área máxima, à zona do imóvel e à ausência de exigência de trabalho produtivo, o que gera risco real de confusão entre as duas modalidades.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "cc.405",
+  "para": "clt.883",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 405 do Código Civil fixa que os juros de mora se contam desde a citação inicial, e o art. 883 da CLT especializa essa mesma regra para o processo do trabalho, determinando que os juros de mora incidam a partir da data do ajuizamento da reclamação trabalhista, marco próprio desse rito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "cc.405",
+  "para": "ctn.161",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 161 do CTN fixa que os juros de mora sobre crédito tributário incidem a partir do vencimento não pago, regra distinta da do art. 405 do Código Civil, que conta os juros de mora desde a citação inicial, de modo que a aplicação de um regime ao caso do outro pode induzir a erro prático relevante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "cc.405",
+  "para": "d20910.7",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 7º do Decreto 20.910/32 trata dos efeitos da citação inicial sobre a interrupção da prescrição contra a Fazenda Pública quando o processo é anulado, situação distinta da regulada pelo art. 405 do Código Civil, que toma a mesma citação inicial apenas como termo a quo dos juros de mora.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
+ },
+ {
+  "de": "cpc.1068",
+  "para": "cc.2027",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 1.068 do CPC alterou expressamente a redação do caput do art. 2.027 do Código Civil, que trata da anulabilidade da partilha pelos vícios e defeitos que invalidam, em geral, os negócios jurídicos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-28T10:18:27+00:00"
  }
 ]
