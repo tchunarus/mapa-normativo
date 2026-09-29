@@ -4207,5 +4207,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T18:19:01+00:00"
+ },
+ {
+  "de": "cpc.759",
+  "para": "cc.24",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 24 do Código Civil remete, no que for aplicável, ao regime da tutela e da curatela para fixar os poderes e as obrigações do curador nomeado ao ausente. O art. 759 do CPC detalha uma dessas obrigações, ao exigir que o curador preste compromisso antes de assumir a administração dos bens, conforme o seu § 2º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "cc.24",
+  "para": "cpp.262",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo curador designa, no art. 262 do Código de Processo Penal, a pessoa que assiste o acusado menor no processo penal, instituto distinto do curador de que trata o art. 24 do Código Civil, nomeado para administrar os bens do ausente. A identidade do nome gera risco real de confusão entre figuras de natureza e finalidade diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "cpc.49",
+  "para": "cc.28",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 49 do CPC fixa o foro competente para o inventário e a partilha dos bens do ausente, que o art. 28 do Código Civil determina que se processem como se o ausente fosse falecido, logo que transite em julgado a sentença de abertura da sucessão provisória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "cc.28",
+  "para": "cpc.611",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 28 do Código Civil determina que, transitada em julgado a sentença de abertura da sucessão provisória, se proceda ao inventário e à partilha dos bens do ausente como se este fosse falecido, o que aciona os prazos gerais do art. 611 do CPC para a instauração e o encerramento desse inventário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "clt.882",
+  "para": "lef.9",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos disciplinam a garantia da execução mediante depósito, seguro garantia e nomeação de bens à penhora, mas em regimes distintos: o art. 882 da CLT observa a ordem de penhora do art. 835 do CPC, e o art. 9º da LEF observa a ordem do art. 11 da mesma lei, o que gera risco de se aplicar a ordem errada conforme o processo seja trabalhista ou fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "l8245.67",
+  "para": "cpc.542",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 67 da Lei 8.245/91 regula a ação de consignação em pagamento dos aluguéis como modalidade especial da ação de consignação disciplinada nos arts. 539 a 549 do CPC, da qual o art. 542 integra o procedimento comum, reduzindo o prazo do depósito para vinte e quatro horas em vez dos cinco dias do inciso I deste último.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "clt.791-A",
+  "para": "cpc.85",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos regulam os honorários de sucumbência com os mesmos critérios de fixação, como o grau de zelo do profissional e a natureza da causa, mas com faixas percentuais diferentes: de cinco a quinze por cento na Justiça do Trabalho e de dez a vinte por cento no processo civil, o que gera risco de se aplicar o percentual do código errado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "l9099.55",
+  "para": "cpc.85",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 55 da Lei 9.099/95 excepciona a regra geral do art. 85 do CPC ao afastar a condenação em honorários advocatícios na sentença de primeiro grau nos Juizados Especiais Cíveis, ressalvada a litigância de má-fé, e só a impõe ao recorrente vencido em segundo grau.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "l12016.25",
+  "para": "cpc.85",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 25 da Lei 12.016/09 excepciona a regra geral de condenação em honorários do art. 85 do CPC ao vedar expressamente essa condenação no processo de mandado de segurança, ressalvada apenas a sanção por litigância de má-fé.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "l7347.18",
+  "para": "cpc.85",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 18 da Lei 7.347/85 excepciona a regra geral do art. 85 do CPC ao afastar a condenação da associação autora em honorários advocatícios na ação civil pública, salvo comprovada má-fé.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "l8429.16",
+  "para": "cpc.854",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos usam o termo indisponibilidade de bens, mas para finalidades distintas: o art. 16 da LIA trata de medida cautelar, antecedente ou incidente, na ação de improbidade, para garantir a recomposição do erário, enquanto o art. 854 do CPC bloqueia ativos financeiros já na fase de cumprimento ou execução de título, para viabilizar a penhora.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "l8212.53",
+  "para": "cpc.854",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos tornam bens indisponíveis sem prévia manifestação do executado, mas por mecanismos diferentes: o § 1º do art. 53 da Lei 8.212/91 torna indisponíveis os bens já indicados à penhora pelo exequente na execução fiscal, enquanto o art. 854 do CPC bloqueia ativos financeiros por sistema eletrônico, independentemente de indicação prévia de bens.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "cpc.861",
+  "para": "cc.1026",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.026 do Código Civil autoriza, em seu parágrafo único, o credor particular do sócio a requerer a liquidação da quota penhorada, com depósito do valor apurado no juízo da execução, e o art. 861 do CPC disciplina o procedimento dessa liquidação perante a sociedade, inclusive o prazo para oferta das quotas aos demais sócios antes do depósito judicial do valor apurado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "l11101.116",
+  "para": "cpc.861",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 116 da Lei 11.101/05 suspende, na falência da sociedade, o direito de recebimento do valor das quotas ou ações do sócio, o que excepciona a liquidação prevista no art. 861 do CPC enquanto durar a falência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "cpc.861",
+  "para": "lsa.30",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 861 do CPC permite que a sociedade adquira, para manutenção em tesouraria, as próprias quotas ou ações penhoradas, sem redução do capital social e com uso de reservas, no mesmo regime que a alínea b do § 1º do art. 30 da LSA já prevê para a aquisição de ações em tesouraria pela companhia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T19:21:33+00:00"
  }
 ]
