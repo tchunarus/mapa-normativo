@@ -4127,5 +4127,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T16:22:17+00:00"
+ },
+ {
+  "de": "cc.334",
+  "para": "cpc.542",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 334 do Código Civil estabelece que o depósito judicial ou em estabelecimento bancário da coisa devida extingue a obrigação como pagamento, e o inciso I do art. 542 do CPC disciplina o procedimento da ação de consignação, exigindo que o autor requeira, já na petição inicial, o depósito da quantia ou da coisa devida para produzir esse efeito extintivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T18:19:01+00:00"
+ },
+ {
+  "de": "cpc.744",
+  "para": "cc.22",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 22 do Código Civil estabelece o pressuposto material da declaração de ausência e da nomeação de curador, quando a pessoa desaparece do domicílio sem notícia e sem representante que administre seus bens, e o art. 744 do CPC disciplina o procedimento subsequente a essa declaração, determinando que o juiz mande arrecadar os bens do ausente e nomeie o curador na forma legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T18:19:01+00:00"
+ },
+ {
+  "de": "cpc.744",
+  "para": "cc.24",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 744 do CPC determina que o juiz nomeie curador ao arrecadar os bens do ausente, e o art. 24 do Código Civil complementa essa nomeação ao exigir que o juiz fixe, na mesma oportunidade, os poderes e as obrigações do curador, observando, no que couber, as normas da tutela.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T18:19:01+00:00"
+ },
+ {
+  "de": "cpc.745",
+  "para": "cc.28",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O primeiro parágrafo do art. 745 do CPC autoriza os interessados a requerer a abertura da sucessão provisória após findo o prazo do edital de arrecadação, remetendo ao disposto em lei, e o art. 28 do Código Civil complementa esse comando ao regular os efeitos da sentença que determina essa abertura, inclusive o prazo de cento e oitenta dias necessário para sua eficácia plena.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T18:19:01+00:00"
+ },
+ {
+  "de": "cpc.833",
+  "para": "lef.30",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 30 da Lei de Execução Fiscal sujeita a totalidade dos bens e das rendas do executado ao pagamento da dívida ativa, excetuados unicamente os bens e rendas que a lei declara absolutamente impenhoráveis, sem definir esse rol, lacuna suprida subsidiariamente pelo art. 833 do CPC, que enumera os bens impenhoráveis nos incisos do caput.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T18:19:01+00:00"
+ },
+ {
+  "de": "cpc.835",
+  "para": "clt.882",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 882 da CLT determina expressamente que a nomeação de bens à penhora na execução trabalhista observe a ordem preferencial estabelecida no art. 835 do CPC, remetendo o executado trabalhista à mesma sequência de bens penhoráveis prevista na lei processual civil, do dinheiro aos demais direitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T18:19:01+00:00"
+ },
+ {
+  "de": "cpc.836",
+  "para": "lef.40",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O parágrafo primeiro do art. 836 do CPC prevê que, não encontrados bens penhoráveis do executado, o oficial de justiça apenas descreva os bens que guarnecem sua residência, nomeando-o depositário provisório, ao passo que o art. 40 da Lei de Execução Fiscal, para a mesma hipótese de bens não localizados, estabelece consequência processual distinta e própria da execução fiscal, a suspensão do curso do processo sem correr o prazo de prescrição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T18:19:01+00:00"
+ },
+ {
+  "de": "cpc.836",
+  "para": "ctn.185-A",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O parágrafo primeiro do art. 836 do CPC prevê que, não encontrados bens penhoráveis do executado, o oficial de justiça apenas descreva os bens que guarnecem sua residência, nomeando-o depositário provisório, ao passo que o art. 185-A do CTN especializa essa mesma hipótese para o devedor tributário devidamente citado, autorizando o juiz a determinar a indisponibilidade de seus bens e direitos, consequência mais gravosa e própria da execução fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T18:19:01+00:00"
  }
 ]
