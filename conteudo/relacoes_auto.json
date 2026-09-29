@@ -3618,5 +3618,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cpc.804",
+  "para": "cc.1418",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 804 do CPC comina de ineficácia, perante o promitente comprador não intimado, a alienação judicial do bem objeto de promessa de compra e venda registrada, dando consequência prática ao mesmo direito real que o art. 1.418 do CC confere ao promitente comprador para exigir a escritura definitiva ou a adjudicação do imóvel.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T09:18:40+00:00"
+ },
+ {
+  "de": "cpc.889",
+  "para": "cc.1418",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "Os incisos VI e VII do art. 889 do CPC determinam a cientificação do promitente comprador e do promitente vendedor antes da alienação judicial do bem objeto de promessa de compra e venda registrada, dando efeito processual, no leilão, ao mesmo direito que o art. 1.418 do CC assegura ao promitente comprador de exigir a escritura definitiva ou a adjudicação do imóvel.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T09:18:40+00:00"
+ },
+ {
+  "de": "cc.1418",
+  "para": "cpc.877",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A adjudicação de que trata o art. 1.418 do CC é a via judicial de suprimento da vontade do promitente vendedor renitente na outorga da escritura definitiva, enquanto a adjudicação regulada pelo art. 877 do CPC é o ato pelo qual o próprio credor exequente adquire o bem penhorado em pagamento da dívida executada, o que gera risco real de confusão entre os dois institutos homônimos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T09:18:40+00:00"
+ },
+ {
+  "de": "cc.1582",
+  "para": "cpc.71",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "Para a ação de divórcio, o parágrafo único do art. 1.582 do CC amplia a legitimidade de atuação em nome do cônjuge incapaz ao curador, ao ascendente ou ao irmão, regra especial que se sobrepõe à regência geral do art. 71 do CPC, que só admite a representação ou a assistência do incapaz por seus pais, por tutor ou por curador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T09:18:40+00:00"
+ },
+ {
+  "de": "cc.1703",
+  "para": "cf.229",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.703 do CC regulamenta, no plano infraconstitucional, o dever de assistência material aos filhos que o art. 229 da Constituição impõe aos pais, especificando que, após a separação judicial, cada cônjuge contribuirá para a manutenção dos filhos na proporção de seus próprios recursos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T09:18:40+00:00"
  }
 ]
