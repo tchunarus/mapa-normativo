@@ -4357,5 +4357,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T19:21:33+00:00"
+ },
+ {
+  "de": "cpc.49",
+  "para": "cc.1785",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.785 do CC fixa o último domicílio do falecido como critério de competência para a sucessão; o art. 49 do CPC estende o mesmo critério territorial à ação em que o ausente for réu e aos atos de arrecadação, inventário, partilha e cumprimento de disposições testamentárias a ele relativos, tratando o ausente, para fins de foro, como se falecido fosse.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T20:18:17+00:00"
+ },
+ {
+  "de": "cpc.611",
+  "para": "cc.1796",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 1.796 do CC fixa em trinta dias, a contar da abertura da sucessão, o prazo para instaurar o inventário, enquanto o art. 611 do CPC fixa prazo de dois meses para o mesmo ato, configurando conflito aparente de normas quanto ao termo para a instauração do processo de inventário e partilha.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T20:18:17+00:00"
+ },
+ {
+  "de": "cpc.759",
+  "para": "cc.1741",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 759 do CPC disciplina a intimação e o prazo de cinco dias para o tutor ou curador prestar compromisso, ato que, nos termos do § 2º, o investe na administração dos bens do tutelado ou do interditado, dever substantivo estabelecido no art. 1.741 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T20:18:17+00:00"
+ },
+ {
+  "de": "cpc.759",
+  "para": "cc.1745",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "Prestado o compromisso na forma do art. 759 do CPC, o tutor assume a administração dos bens do tutelado; o art. 1.745 do CC complementa esse regime ao exigir que os bens do menor lhe sejam entregues mediante termo especificado de seus valores, podendo o juiz exigir caução quando o patrimônio for de valor considerável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T20:18:17+00:00"
+ },
+ {
+  "de": "cpc.877",
+  "para": "lef.24",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 24 da LEF disciplina quando e pelo preço da avaliação a Fazenda Pública pode adjudicar os bens penhorados na execução fiscal, mas não regula os aspectos procedimentais da adjudicação; nesses pontos omissos, como a lavratura e os efeitos do auto, a expedição da carta de adjudicação e a remição do bem hipotecado, aplica-se subsidiariamente o art. 877 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T20:18:17+00:00"
+ },
+ {
+  "de": "cpc.877",
+  "para": "cc.1499",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.499, V, do CC inclui a remição entre as causas de extinção da hipoteca; o § 3º do art. 877 do CPC disciplina o procedimento pelo qual o executado pode remir o bem hipotecado até a assinatura do auto de adjudicação, oferecendo preço igual ao da avaliação ou ao maior lance.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T20:18:17+00:00"
+ },
+ {
+  "de": "cpc.886",
+  "para": "lef.22",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "A LEF disciplina, no art. 22, o prazo entre a publicação do edital e a realização do leilão e a intimação pessoal da Fazenda Pública, mas não especifica o conteúdo do edital; nesse ponto omisso, aplica-se subsidiariamente o rol de requisitos do art. 886 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T20:18:17+00:00"
  }
 ]
