@@ -1,7 +1,0 @@
-[
- {"id": "fx-pessoa-ana", "nome_urna": "Candidata Exemplo Ana", "nome_urna_oficial": "CANDIDATA EXEMPLO ANA", "ocupacao": "Ocupação fictícia", "fonte_id": "fx-registro"},
- {"id": "fx-pessoa-bruno", "nome_urna": "Candidato Exemplo Bruno", "nome_urna_oficial": "CANDIDATO EXEMPLO BRUNO", "ocupacao": "Ocupação fictícia", "fonte_id": "fx-registro"},
- {"id": "fx-pessoa-clara", "nome_urna": "Candidata Exemplo Clara", "nome_urna_oficial": "CANDIDATA EXEMPLO CLARA", "ocupacao": "Ocupação fictícia", "fonte_id": "fx-registro"},
- {"id": "fx-pessoa-davi", "nome_urna": "Candidato Exemplo Davi", "nome_urna_oficial": "CANDIDATO EXEMPLO DAVI", "ocupacao": "Ocupação fictícia", "fonte_id": "fx-registro"},
- {"id": "fx-pessoa-elisa", "nome_urna": "Candidata Exemplo Elisa", "nome_urna_oficial": "CANDIDATA EXEMPLO ELISA", "ocupacao": "Ocupação fictícia", "fonte_id": "fx-registro"}
-]

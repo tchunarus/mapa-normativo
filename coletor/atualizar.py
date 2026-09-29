@@ -224,26 +224,6 @@ def etapa_congresso(agora, log, status, diario):
             gravar('proposicoes.json', props)
 
 
-def etapa_eleicoes(status, rede, diario):
-    """Mapa Eleitoral: sincroniza o TSE e o Senado (uma vez por dia, com rede), refaz as
-    análises e publica docs/data/eleicoes/. Isolada: uma falha aqui fica registrada no
-    status e no log de ingestão, mas não interrompe a atualização do Mapa Normativo."""
-    from eleicoes.tse import sincronizar as tse_sync, cliente as tse_cliente
-    from eleicoes import legislativo, analisar, publicar
-    try:
-        if rede and diario:
-            log = tse_sync.sincronizar('2026-geral', tse_cliente.TransporteHTTP())
-            status['TSE, candidaturas'] = ('ok' if not log['errors'] else
-                                           f"{log['errors']} erro(s); mantidos os dados da última sincronização ({log['erros'][0][:120]})")
-            lv = legislativo.sincronizar_vagas_senado()
-            status['Senado, vagas em disputa'] = 'ok' if not lv['errors'] else 'falha na leitura'
-        la = analisar.analisar_tudo(registrar_sem_mudanca=False)
-        pub = publicar.construir()
-        status['Mapa Eleitoral, publicação'] = 'ok' if pub['publicado'] and not la['errors'] else 'dados inconsistentes; mantida a última publicação'
-    except Exception as e:  # noqa: BLE001 - registrar e seguir com o Mapa Normativo
-        status['Mapa Eleitoral, publicação'] = f'falha ({e.__class__.__name__}: {str(e)[:120]})'
-
-
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--diario', action='store_true', help='inclui busca de temas novos e súmulas')
@@ -269,10 +249,8 @@ def main():
         ch = ler('changelog.json', []) + log
         gravar('changelog.json', ch[-2000:])
     if a.sem_rede:  # só regenera os arquivos publicados; preserva o registro da última coleta
-        etapa_eleicoes({}, rede=False, diario=False)
         idx = construir(ler('ultima_execucao.json', {}).get('em') or agora.isoformat(timespec='seconds'))
         print(json.dumps({'regenerado': True, 'avisos': idx['avisos'][:10]}, ensure_ascii=False)); return
-    etapa_eleicoes(status, rede=True, diario=diario)
     gravar('fontes_status.json', {k: {'status': v, 'em': agora.isoformat(timespec='seconds')} for k, v in status.items()} | {k: v for k, v in ler('fontes_status.json', {}).items() if k not in status})
     gravar('ultima_execucao.json', {'em': agora.isoformat(timespec='seconds'), 'diario': diario, 'semanal': semanal, 'resumo': resumo, 'mudancas': len(log)})
     idx = construir(agora.isoformat(timespec='seconds'))

@@ -33,22 +33,6 @@ rodar `python3 coletor/atualizar.py --sem-rede` para regenerar `docs/data/`.
 - Relações entre dispositivos seguem os critérios do passo 2 do `ROTINA.md` (tipos,
   graus, `confundivel_com`, `aplica_subsidiariamente` versus `complementa`).
 
-## Mapa Eleitoral
-
-- Esquema, camadas e comandos no `README.md` (seção Mapa Eleitoral). A análise jurídica
-  fica em `conteudo/eleicoes/` e `coletor/eleicoes/analise/`; a página só lê o resultado.
-- `estado/eleicoes/` só muda pelos scripts de `coletor/eleicoes/` (hook bloqueia edição).
-- Fundamento jurídico: sempre uma entrada de `conteudo/eleicoes/regras.json` apontando
-  para dispositivo publicado no Mapa Normativo; o validador confere dispositivo e
-  localizador contra a redação vigente. Diploma ausente da base entra como `fora_da_base`.
-- Nunca atribuir proposta a candidatura real sem fonte que a sustente (afirmação com
-  `afirmacao_fontes`); proposta sem fonte não é publicada.
-- Dados fictícios só em `conteudo/eleicoes/fixtures/`; o validador recusa cruzamento
-  entre fixture e dado real.
-- Dados pessoais do TSE: só os campos da lista branca de `coletor/eleicoes/tse/cliente.py`
-  (nunca CPF, título de eleitor, data de nascimento, cor ou raça, bens).
-- Neutralidade: sem recomendação de voto, ranking ou classificação ideológica.
-
 ## Git e credenciais
 
 - Execução local: preparar o commit; a usuária roda `git push`. Nunca usar credencial,

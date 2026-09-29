@@ -33,16 +33,6 @@ let toastT;
 function toast(msg){ let t=$(".toast"); if(!t){t=document.createElement("div");t.className="toast";t.setAttribute("role","status");document.body.appendChild(t);} t.textContent=msg; t.hidden=false; clearTimeout(toastT); toastT=setTimeout(()=>t.hidden=true,2600); }
 const ls = { get(k,d){ try{ const v=localStorage.getItem(k); return v?JSON.parse(v):d; }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k,JSON.stringify(v)); }catch(e){} } };
 
-// ------------------------------------------------------------ módulos (ex.: Mapa Eleitoral)
-// Um módulo registra rota, aba e seção de busca e reaproveita roteamento, tema, estilos e
-// dados do Mapa Normativo. Contrato: {id, aba:[id,rótulo], corresponde(h), render(h), depois(h), busca(q)}.
-const EXT=[];
-window.MapaNormativo={
-  registrar(m){ EXT.push(m); if(S.ready){ renderTabs(route().v); if(m.corresponde(location.hash.replace(/^#/,""))) render(true); } },
-  render(soft){ render(soft); },
-  util:{ esc, norm, FMT, FMTH, toast, ls, getJSON, dLabel, refHref, loadDip, loadBusca, get S(){ return S; } }
-};
-
 // ------------------------------------------------------------ dados
 async function getJSON(p){ const r=await fetch(DATA+p,{cache:"no-cache"}); if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); }
 async function loadDip(k){
@@ -109,17 +99,15 @@ function setStatus(ok){
 function route(){
   const h=decodeURIComponent(location.hash.replace(/^#/,""));
   if(!h||h==="inicio") return {v:"home"};
-  const mod=EXT.find(m=>m.corresponde(h)); if(mod) return {v:"ext", mod, h};
   const [p,...r]=h.split("."); const rest=r.join(".");
   const map={t:"tema",d:"disp",p:"prec",dip:"diploma",a:"area",dos:"dossie",cmp:"comparar",cj:"conceito"};
   return map[p]?{v:map[p],id:rest}:{v:h};
 }
 const TABS=[["inicio","Início"],["diplomas","Diplomas"],["temas","Temas"],["comparar","Comparar"],["atualizacoes","Atualizações"],["dossies","Dossiês"],["favoritos","Favoritos"]];
 function renderTabs(v){
-  const r=route(); const cur=r.v==="ext"?r.mod.aba[0]:({home:"inicio",tema:"temas",area:"temas",disp:"diplomas",diploma:"diplomas",prec:"temas",dossie:"dossies"}[v]||v);
+  const cur={home:"inicio",tema:"temas",area:"temas",disp:"diplomas",diploma:"diplomas",prec:"temas",dossie:"dossies"}[v]||v;
   const fav=ls.get("favoritos",[]).length, dos=ls.get("dossies",[]).length;
-  const abas=[...TABS]; EXT.forEach(m=>{ if(m.aba) abas.splice(abas.length-2,0,m.aba); });
-  $("#tabs").innerHTML=abas.map(([id,l])=>{ const n=id==="favoritos"?fav:id==="dossies"?dos:0; return `<a class="tab" href="#${id}" ${cur===id?'aria-current="page"':""}>${l}${n?`<span class="n">${n}</span>`:""}</a>`; }).join("");
+  $("#tabs").innerHTML=TABS.map(([id,l])=>{ const n=id==="favoritos"?fav:id==="dossies"?dos:0; return `<a class="tab" href="#${id}" ${cur===id?'aria-current="page"':""}>${l}${n?`<span class="n">${n}</span>`:""}</a>`; }).join("");
 }
 function render(soft){
   if(!S.ready) return;
@@ -141,13 +129,11 @@ function render(soft){
       case "dossies": html=vDossies(); break;
       case "dossie": html=vDossie(r.id); break;
       case "favoritos": html=vFavoritos(); break;
-      case "ext": html=r.mod.render(r.h); break;
       default: html=`<div class="empty">Página não encontrada. <a class="ref" href="#inicio">Voltar ao início</a></div>`;
     }
   }catch(e){ console.error(e); html=`<div class="empty">Não foi possível montar esta página (${esc(e.message)}).</div>`; }
   app.innerHTML=html; if(soft) window.scrollTo(0,y); else window.scrollTo(0,0);
   afterRender(r);
-  if(r.v==="ext"&&r.mod.depois) try{ r.mod.depois(r.h); }catch(e){ console.error(e); }
 }
 function needDip(id){
   const [k]=split(id); if(!S.dipMeta[k]) return null; if(S.dip[k]) return null;
@@ -194,7 +180,6 @@ function vBusca(){
   const q=S.q; const cit=parseCitation(q); const r=searchLocal(q); const main=r.inst[0]?.i;
   const concPrincipal=!main&&!cit?r.conc[0]?.c:null;
   return `<div class="page-head"><p class="crumbs"><a href="#inicio">Início</a><span>Pesquisa</span></p>${searchForm(q)}${S.busca?"":'<p class="small muted">Carregando o índice de artigos…</p>'}</div>
-  ${EXT.filter(m=>m.busca).map(m=>{ try{ return m.busca(q); }catch(e){ console.error(e); return ""; } }).join("")}
   ${cit?`<section class="blk"><div class="sec-head"><h3>Citação reconhecida</h3></div><ul class="list"><li><a class="row" href="${refHref(cit)}"><div><div class="rt">${esc(refLabel(cit))}</div><div class="rs">${esc(isPrec(cit)?(S.prec[cit].tese||S.prec[cit].questao||""):(R(cit)||{}).fl||"")}</div></div><span class="rm">abrir →</span></a></li></ul></section>`:""}
   ${main&&!cit?`<div class="ai"><p class="lab">Instituto identificado</p><h3 style="margin-top:6px">${esc(main.nome)}</h3>
     <p class="small muted" style="margin-top:10px">Normas a analisar em conjunto</p><div class="chips" style="margin-top:4px">${main.fundamentos.map(f=>chip(f.d)).join("")}</div>
