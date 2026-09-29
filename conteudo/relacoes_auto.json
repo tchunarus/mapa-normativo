@@ -3447,5 +3447,245 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T09:18:40+00:00"
+ },
+ {
+  "de": "cc.218",
+  "para": "cpp.232",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CPP, no art. 232, parágrafo único, equipara ao original a fotografia autenticada do documento no processo penal, o que pode ser confundido com a regra civil do art. 218 do CC sobre traslados e certidões produzidos em juízo, embora se trate de institutos distintos quanto ao objeto e ao regime aplicável, um relativo à prova documental no processo penal e outro à classificação do traslado ou certidão como instrumento público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.218",
+  "para": "cpp.547",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CPP, no art. 547, estabelece que os autos da restauração valerão pelos originais após julgada a restauração, o que pode ser confundido com a equiparação do art. 218 do CC entre traslados ou certidões e instrumentos públicos, mas os institutos diferem porque a restauração pressupõe autos extraviados ou destruídos, enquanto o art. 218 trata de traslados e certidões extraídos de autos íntegros que documentam ato já produzido em juízo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.218",
+  "para": "lcp227.58",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A LC 227/2026, no art. 58, considera originais, para todos os efeitos legais, os documentos eletrônicos transmitidos com garantia de autoria, autenticidade e integridade, regra que pode ser confundida com a equiparação do art. 218 do CC entre traslados ou certidões judiciais e instrumentos públicos, mas os institutos diferem quanto ao objeto e ao fundamento legal de cada equiparação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.320",
+  "para": "l9492.19",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "A Lei 9.492/97, no art. 19, § 2º, especializa, para o procedimento de protesto, o instituto geral da quitação regulado pelo art. 320 do CC, ao atribuir ao Tabelionato de Protesto o dever de dar a respectiva quitação no ato do pagamento do título ou documento de dívida levado a protesto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.320",
+  "para": "clt.477",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "A CLT, no art. 477, § 2º, especializa o mesmo instituto da quitação do art. 320 do CC ao exigir, na rescisão do contrato de trabalho, que o instrumento de rescisão ou recibo especifique a natureza de cada parcela paga, restringindo a validade da quitação apenas às parcelas efetivamente discriminadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.320",
+  "para": "clt.507-B",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "A CLT, no art. 507-B, institui o termo de quitação anual de obrigações trabalhistas, firmado perante o sindicato, especializando o instituto geral da quitação do art. 320 do CC para o âmbito trabalhista, inclusive quanto aos requisitos de forma e à eficácia liberatória do termo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.320",
+  "para": "cpc.546",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O CPC, no art. 546, parágrafo único, remete ao instituto da quitação do art. 320 do CC ao equiparar, para os efeitos da ação de consignação em pagamento, o recebimento da dívida com quitação pelo credor à sentença de procedência do pedido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.828",
+  "para": "l11101.6-C",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A Lei 11.101/05, no art. 6º-C, ressalva expressamente as garantias reais e fidejussórias da vedação de atribuição de responsabilidade a terceiros pelo mero inadimplemento do devedor falido ou em recuperação judicial, complementando o regime do art. 828, III, do CC sobre a perda do benefício de ordem do fiador quando o devedor é insolvente ou falido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.828",
+  "para": "ctn.124",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CTN, no art. 124, parágrafo único, afasta de modo absoluto o benefício de ordem na solidariedade tributária, regra que pode ser confundida com a hipótese do art. 828, II, do CC sobre o fiador que se obriga como devedor solidário, mas os institutos diferem porque a solidariedade tributária nunca comporta benefício de ordem, ao passo que na fiança civil a perda desse benefício depende das hipóteses taxativas do art. 828 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.839",
+  "para": "lef.4",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O CC aplica-se subsidiariamente à execução fiscal regulada pela Lei 6.830/80 quanto à exoneração do fiador prevista no art. 839, uma vez que a LEF, no art. 4º, II, apenas admite o fiador como sujeito passivo da execução, sem disciplinar as consequências do retardamento da execução sobre a garantia fidejussória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.839",
+  "para": "l8245.40",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A Lei 8.245/91, no art. 40, II, permite ao locador exigir novo fiador em razão da insolvência do próprio fiador, hipótese que tem apenas ponto de contato com a exoneração do fiador prevista no art. 839 do CC, pois este trata da insolvência do devedor afiançado, e não da insolvência do fiador, como pressuposto da exoneração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.968",
+  "para": "lcp123.18-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 968, § 4º, do CC remete expressamente ao art. 18-A da LC 123/06 para definir o microempreendedor individual submetido a trâmite especial e simplificado de abertura, registro, alteração e baixa, na forma disciplinada pelo CGSIM.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.968",
+  "para": "l8934.2",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A Lei 8.934/94, no art. 2º, complementa o mesmo instituto do Registro Público de Empresas Mercantis referido no art. 968, § 1º, do CC, ao determinar que os atos das firmas mercantis individuais sejam arquivados nesse registro, salvo as exceções previstas em lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.968",
+  "para": "lcp123.10",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A LC 123/06, no art. 10, I, complementa o regime de inscrição do empresário do art. 968 do CC ao vedar, nos processos de abertura de empresas, a exigência de documentos adicionais aos requeridos pelos órgãos executores do Registro Público de Empresas Mercantis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.968",
+  "para": "lcp123.4",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A LC 123/06, no art. 4º, complementa o processo de inscrição do empresário disciplinado pelo art. 968 do CC ao determinar aos órgãos envolvidos no registro empresarial que articulem suas competências para garantir a unicidade e a linearidade desse processo, evitando a duplicidade de exigências.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cf.229",
+  "para": "cc.1696",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O CC, no art. 1.696, regulamenta o dever constitucional recíproco de amparo entre pais e filhos previsto no art. 229 da CF, mediante o instituto da obrigação alimentar recíproca entre ascendentes e descendentes, extensiva a todos os graus de parentesco em linha reta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cf.229",
+  "para": "cc.1690",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O CC, no art. 1.690, regulamenta o dever dos pais de assistir os filhos menores previsto no art. 229 da CF, ao atribuir aos pais a representação dos filhos menores de dezesseis anos e a assistência até completarem a maioridade ou serem emancipados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cf.229",
+  "para": "clt.424",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "A CLT, no art. 424, especializa o dever constitucional de educar os filhos menores previsto no art. 229 da CF ao impor aos pais, mães ou tutores o dever de afastar o menor de empregos que diminuam consideravelmente seu tempo de estudo ou prejudiquem sua educação moral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cf.229",
+  "para": "d9580.22",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O RIR/2018, no art. 22, I, atribui aos pais responsabilidade solidária pelo imposto sobre a renda devido pelos filhos menores, regra que pode ser confundida com o dever constitucional de assistência do art. 229 da CF, mas decorre de instituto tributário distinto, o da responsabilidade de terceiros por dever de gestão dos bens do incapaz, cuja base legal consta expressamente do próprio texto do RIR/2018.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cpc.71",
+  "para": "cc.1690",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O CC, no art. 1.690, complementa o mesmo instituto da representação processual do incapaz previsto no art. 71 do CPC, ao atribuir aos pais a representação dos filhos menores de dezesseis anos e a assistência até completarem a maioridade ou serem emancipados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cpc.71",
+  "para": "cc.1692",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O CC, no art. 1.692, excepciona a regra geral de representação do incapaz pelos pais prevista no art. 71 do CPC quando houver colisão entre o interesse dos pais e o do filho, hipótese em que o juiz, a requerimento deste ou do Ministério Público, dará ao menor curador especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cpc.71",
+  "para": "cc.974",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O CC, no art. 974, § 1º, especializa a representação do incapaz prevista no art. 71 do CPC para a hipótese de continuidade de empresa antes exercida pelo incapaz, exigindo prévia autorização judicial após exame das circunstâncias e dos riscos da empresa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cpc.71",
+  "para": "cpp.262",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O CPP, no art. 262, determina que se dê curador ao acusado menor, regra que pode ser confundida com a representação do incapaz prevista no art. 71 do CPC, mas os institutos têm apenas ponto de contato, pois um disciplina a assistência do acusado no processo penal e o outro a representação ou assistência civil do incapaz em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cpc.805",
+  "para": "lef.9",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O CPC aplica-se subsidiariamente à execução fiscal regulada pela Lei 6.830/80 quanto ao princípio da execução pelo modo menos gravoso ao executado, previsto no art. 805, para orientar a escolha entre os meios de garantia da execução fiscal indicados no art. 9º da LEF, que a lei especial não disciplina expressamente sob esse critério.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T10:23:02+00:00"
  }
 ]
