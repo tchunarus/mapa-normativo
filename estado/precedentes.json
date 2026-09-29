@@ -12108,5 +12108,150 @@
   "institutos_auto": [
    "resp-terceiros"
   ]
+ },
+ "stj.tema.131": {
+  "id": "stj.tema.131",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "numero": "131",
+  "titulo": "Tema 131/STJ",
+  "orgao": "Primeira Seção",
+  "situacao": "Trânsito em Julgado",
+  "questao": "Questão referente ao termo inicial do prazo para oferecimento dos embargos à execução fiscal, quando a garantia consiste na penhora de bens ou de direitos.",
+  "tese": "O termo inicial para a oposição dos Embargos à Execução Fiscal é a data da efetiva intimação da penhora, e não a da juntada aos autos do mandado cumprido.",
+  "processos": [
+   {
+    "numero": "REsp 1112416/MG",
+    "origem": "TRF1",
+    "relator": "Herman Benjamin",
+    "julgado": "27/05/2009",
+    "publicado": "09/09/2009"
+   }
+  ],
+  "data": "27/05/2009",
+  "dispositivos": [
+   "lef.16"
+  ],
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=131&cod_tema_final=131",
+  "fonte": "STJ, Precedentes Qualificados",
+  "verificado_em": "2026-09-29",
+  "novo": true
+ },
+ "stj.tema.260": {
+  "id": "stj.tema.260",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "numero": "260",
+  "titulo": "Tema 260/STJ",
+  "orgao": "Primeira Seção",
+  "situacao": "Trânsito em Julgado",
+  "questao": "Questiona-se a impossibilidade de deferimento ex officio de reforço da penhora realizada validamente no executivo fiscal, a teor dos artigos 15, II, da LEF e 667 e 685 do CPC.",
+  "tese": "O reforço da penhora não pode ser deferido ex officio, a teor dos artigos 15, II, da LEF e 685 do CPC.",
+  "processos": [
+   {
+    "numero": "REsp 1127815/SP",
+    "origem": "TJSP",
+    "relator": "Luiz Fux",
+    "julgado": "24/11/2010",
+    "publicado": "14/12/2010"
+   }
+  ],
+  "data": "24/11/2010",
+  "dispositivos": [
+   "lef.15"
+  ],
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=260&cod_tema_final=260",
+  "fonte": "STJ, Precedentes Qualificados",
+  "verificado_em": "2026-09-29",
+  "novo": true
+ },
+ "stj.tema.1076": {
+  "id": "stj.tema.1076",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "numero": "1076",
+  "titulo": "Tema 1076/STJ",
+  "orgao": "Corte Especial",
+  "situacao": "Acórdão Publicado, RE Pendente",
+  "questao": "Definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados.",
+  "tese": "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC, a depender da presença da Fazenda Pública na lide, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.",
+  "processos": [
+   {
+    "numero": "REsp 1850512/SP",
+    "origem": "TJSP",
+    "relator": "Presidente do STJ",
+    "julgado": "16/03/2022",
+    "publicado": "31/05/2022"
+   },
+   {
+    "numero": "REsp 1877883/SP",
+    "origem": "TJSP",
+    "relator": "Og Fernandes",
+    "julgado": "16/03/2022",
+    "publicado": "31/05/2022"
+   }
+  ],
+  "data": "16/03/2022",
+  "dispositivos": [
+   "cpc.85"
+  ],
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1076&cod_tema_final=1076",
+  "fonte": "STJ, Precedentes Qualificados",
+  "verificado_em": "2026-09-29",
+  "novo": true
+ },
+ "stj.sum.406": {
+  "id": "stj.sum.406",
+  "trib": "STJ",
+  "tipo": "Súmula",
+  "nivel": "A",
+  "numero": "406",
+  "titulo": "Súmula 406/STJ",
+  "orgao": null,
+  "situacao": "Vigente",
+  "questao": null,
+  "tese": "A Fazenda Pública pode recusar a substituição do bem penhorado por precatório.",
+  "processos": [],
+  "data": null,
+  "dispositivos": [
+   "lef.15",
+   "lef.11"
+  ],
+  "url": "https://www.stj.jus.br/docs_internet/VerbetesSTJ_asc.pdf",
+  "fonte": "STJ, Verbetes sumulares (PDF oficial)",
+  "verificado_em": "2026-09-29",
+  "novo": true
+ },
+ "stf.tema.1255": {
+  "id": "stf.tema.1255",
+  "trib": "STF",
+  "tipo": "Repercussão geral",
+  "nivel": "B",
+  "numero": "1255",
+  "titulo": "Tema 1255/STF",
+  "orgao": null,
+  "situacao": "Repercussão geral reconhecida; acórdão de repercussão geral publicado em 24/05/2024; mérito ainda pendente de julgamento",
+  "questao": "Recurso extraordinário em que se discute, à luz dos arts. 2º, 3º, I e IV, 5º, caput, XXXIV e XXXV, 37, caput, e 66, § 1º, da Constituição Federal, a interpretação conferida pelo STJ ao art. 85, §§ 2º, 3º e 8º, do CPC, no julgamento do Tema 1076/STJ, quanto à possibilidade de fixação de honorários por apreciação equitativa quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes.",
+  "tese": null,
+  "processos": [
+   {
+    "numero": "RE 1412069",
+    "origem": null,
+    "relator": "André Mendonça",
+    "julgado": null,
+    "publicado": "24/05/2024"
+   }
+  ],
+  "data": null,
+  "dispositivos": [
+   "cpc.85"
+  ],
+  "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=1255",
+  "fonte": "STF, Repercussão Geral",
+  "verificado_em": "2026-09-29",
+  "novo": true
  }
 }

@@ -612,6 +612,30 @@
    "refs": [
     "stj.sum.583"
    ]
+  },
+  {
+   "de": "l8397.4",
+   "para": "ctn.185",
+   "tipo": "complementa",
+   "grau": "contato",
+   "porque": "A indisponibilidade da cautelar fiscal e a presunção de fraude do art. 185 do CTN protegem o mesmo crédito em momentos distintos: a cautelar antes ou independentemente da inscrição, e a presunção a partir dela.",
+   "refs": []
+  },
+  {
+   "de": "l8397.10",
+   "para": "lef.9",
+   "tipo": "remete_a",
+   "grau": "mesmo",
+   "porque": "O art. 10 da Lei 8.397/1992 permite substituir a indisponibilidade por garantia equivalente, remetendo expressamente às modalidades do art. 9º da LEF.",
+   "refs": []
+  },
+  {
+   "de": "l8397.1",
+   "para": "lef.1",
+   "tipo": "complementa",
+   "grau": "contato",
+   "porque": "A cautelar fiscal é referível à execução judicial da dívida ativa disciplinada pela LEF, podendo ser instaurada antes dela ou no seu curso.",
+   "refs": []
   }
  ],
  "tipos": {

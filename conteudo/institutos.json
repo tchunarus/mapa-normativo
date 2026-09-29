@@ -1712,7 +1712,8 @@
   ],
   "precedentes": [
    "stj.tema.378",
-   "stj.tema.1012"
+   "stj.tema.1012",
+   "stj.sum.406"
   ],
   "checklist": [
    {
@@ -1739,6 +1740,11 @@
     "q": "O prazo de embargos foi contado da juntada da garantia?",
     "f": "lef.16",
     "obs": ""
+   },
+   {
+    "q": "A garantia oferecida é precatório? A Fazenda pode recusar a substituição do bem penhorado por precatório.",
+    "f": "stj.sum.406",
+    "obs": ""
    }
   ],
   "pratica": [
@@ -1750,6 +1756,12 @@
       "refs": [
        "lef.11",
        "ctn.151"
+      ]
+     },
+     {
+      "a": "Recusar a substituição do bem penhorado por precatório.",
+      "refs": [
+       "stj.sum.406"
       ]
      }
     ]
@@ -1814,7 +1826,8 @@
     "t": "LC 236/2026: garantia aceita pelo credor passa a suspender a exigibilidade (CTN, art. 151, X).",
     "ref": "ctn.151"
    }
-  ]
+  ],
+  "atualizado_em": "2026-09-29"
  },
  {
   "id": "bloqueio-sisbajud",
@@ -2188,13 +2201,20 @@
     "d": "lef.2",
     "conteudo": "Requisitos e substituição na LEF.",
     "aplicacao": ""
+   },
+   {
+    "d": "cpc.85",
+    "conteudo": "Honorários de sucumbência; § 8º admite apreciação equitativa quando o proveito econômico for inestimável, irrisório, ou o valor da causa muito baixo.",
+    "aplicacao": "Fixação de honorários na extinção da execução fiscal pelo art. 26 da LEF."
    }
   ],
   "cadeia": [],
   "alertas": [],
   "precedentes": [
    "stj.sum.392",
-   "stj.tema.103"
+   "stj.tema.103",
+   "stj.tema.1076",
+   "stf.tema.1255"
   ],
   "checklist": [
    {
@@ -2211,6 +2231,11 @@
     "q": "A substituição pretendida altera o sujeito passivo?",
     "f": "stj.sum.392",
     "obs": "Vedado."
+   },
+   {
+    "q": "A extinção decorreu do art. 26 da LEF (cancelamento da inscrição) ou de acolhimento de exceção de pré-executividade? Nesses casos, o STJ distingue o caso do Tema 1076, que trata da regra geral do § 8º do art. 85 do CPC.",
+    "f": "stj.tema.1076",
+    "obs": "Verificar também se, no caso concreto da Fazenda Pública, a matéria se aproxima do Tema 1255/STF, ainda sem tese fixada."
    }
   ],
   "pratica": [
@@ -2240,7 +2265,8 @@
    }
   ],
   "controversias": [],
-  "timeline": []
+  "timeline": [],
+  "atualizado_em": "2026-09-29"
  },
  {
   "id": "fraude-execucao-fiscal",
@@ -2438,7 +2464,9 @@
    "stf.adi.5165",
    "stj.tema.288",
    "stj.sum.393",
-   "stj.sum.153"
+   "stj.sum.153",
+   "stj.tema.131",
+   "stj.tema.260"
   ],
   "checklist": [
    {
@@ -2469,6 +2497,11 @@
    {
     "q": "Existe ação anulatória anterior sobre o mesmo débito? Avalie conexão e litispendência.",
     "f": "cpc.55",
+    "obs": ""
+   },
+   {
+    "q": "O prazo foi contado da data da efetiva intimação da penhora, e não da juntada do mandado aos autos?",
+    "f": "stj.tema.131",
     "obs": ""
    }
   ],
@@ -2513,6 +2546,12 @@
        "stj.sum.153",
        "cpc.85"
       ]
+     },
+     {
+      "a": "Opor-se ao reforço de penhora determinado de ofício pelo juiz, sem requerimento da Fazenda.",
+      "refs": [
+       "stj.tema.260"
+      ]
      }
     ]
    }
@@ -2536,7 +2575,7 @@
    }
   ],
   "estado": "verificado-ia",
-  "atualizado_em": "2026-09-25"
+  "atualizado_em": "2026-09-29"
  },
  {
   "id": "acao-anulatoria",
@@ -3474,5 +3513,237 @@
   "timeline": [],
   "estado": "verificado-ia",
   "atualizado_em": "2026-09-25"
+ },
+ {
+  "id": "medida-cautelar-fiscal",
+  "grupo": "exec",
+  "area": "ef",
+  "destaque": true,
+  "nome": "Medida cautelar fiscal",
+  "sinonimos": [
+   "cautelar fiscal",
+   "indisponibilidade de bens antes da execução",
+   "Lei 8.397/1992",
+   "arresto cautelar fiscal",
+   "bloqueio preventivo do devedor fiscal"
+  ],
+  "perguntas": [
+   "Quando a Fazenda pode pedir a indisponibilidade dos bens do devedor antes da execução fiscal?",
+   "A cautelar fiscal pode ser pedida antes de o crédito estar definitivamente constituído?",
+   "O indeferimento da cautelar fiscal impede a execução?"
+  ],
+  "conceito": "A medida cautelar fiscal (Lei nº 8.397, de 6 de janeiro de 1992) é o instrumento pelo qual a Fazenda Pública obtém, antes ou no curso da execução fiscal, a indisponibilidade dos bens do devedor, para evitar que ele os dilapide antes da satisfação do crédito. Não é uma antecipação da execução: sua eficácia é conservativa, e sua utilidade está em assegurar que, quando a execução vier, ainda existam bens a penhorar. A lei exige um vínculo com a execução fiscal a ser proposta ou já em curso, e a jurisprudência trata a cautelar como instituto autônomo, ainda que a disciplina geral das tutelas cautelares tenha mudado com o CPC de 2015.",
+  "fundamentos": [
+   {
+    "d": "l8397.1",
+    "conteudo": "Cabimento após a constituição do crédito, inclusive no curso da execução; dispensa de constituição prévia nas hipóteses dos incisos V, b, e VII do art. 2º.",
+    "aplicacao": "Momento processual para o pedido."
+   },
+   {
+    "d": "l8397.2",
+    "conteudo": "Nove hipóteses de cabimento (incisos I a IX): ausência ou tentativa de ausência do devedor, insolvência, contração de dívidas que comprometam a liquidez, inadimplemento após notificação, transferência de bens a terceiros, débitos que somados superem 30% do patrimônio conhecido, alienação sem comunicação devida, inaptidão cadastral e outros atos que dificultem a satisfação do crédito.",
+    "aplicacao": "Requisito material: uma das patologias listadas."
+   },
+   {
+    "d": "l8397.3",
+    "conteudo": "Prova literal da constituição do crédito e prova documental de uma das hipóteses do art. 2º.",
+    "aplicacao": "Requisitos probatórios cumulativos."
+   },
+   {
+    "d": "l8397.4",
+    "conteudo": "Indisponibilidade imediata dos bens, até o limite da satisfação da obrigação; na pessoa jurídica, recai sobre o ativo permanente e pode alcançar sócios controladores e administradores; pode atingir bens adquiridos de terceiros capazes de frustrar a pretensão fazendária.",
+    "aplicacao": "Efeito e alcance subjetivo da medida."
+   },
+   {
+    "d": "l8397.9",
+    "conteudo": "Presunção de veracidade dos fatos alegados se o pedido não for contestado; audiência de instrução se houver contestação.",
+    "aplicacao": "Rito."
+   },
+   {
+    "d": "l8397.10",
+    "conteudo": "Substituição da indisponibilidade por garantia equivalente, nos termos do art. 9º da LEF.",
+    "aplicacao": "Alternativa à indisponibilidade."
+   },
+   {
+    "d": "l8397.11",
+    "conteudo": "Prazo de 60 dias para a Fazenda propor a execução fiscal, contado da exigência tornar-se irrecorrível na esfera administrativa, quando a cautelar for preparatória.",
+    "aplicacao": "Referibilidade à execução."
+   },
+   {
+    "d": "l8397.13",
+    "conteudo": "Cessação da eficácia se a execução não for proposta no prazo, não for citada em 30 dias, for extinta, ou se o devedor quitar o débito; vedada a repetição do pedido pelo mesmo fundamento.",
+    "aplicacao": "Limites temporais da medida."
+   },
+   {
+    "d": "l8397.15",
+    "conteudo": "O indeferimento não impede a execução fiscal nem influi no seu julgamento, salvo se acolhida, na cautelar, alegação de extinção do crédito (pagamento, compensação, transação, remissão, prescrição, decadência ou conversão do depósito em renda).",
+    "aplicacao": "Relação entre a cautelar e a execução."
+   },
+   {
+    "d": "l8397.16",
+    "conteudo": "A sentença na cautelar fiscal não faz coisa julgada quanto à execução, ressalvada a hipótese do art. 15.",
+    "aplicacao": "Limite da coisa julgada."
+   },
+   {
+    "d": "l8397.18",
+    "conteudo": "Aplicação também às contribuições sociais do art. 195 da Constituição.",
+    "aplicacao": "Abrangência material."
+   },
+   {
+    "d": "ctn.185",
+    "conteudo": "Presunção de fraude na alienação de bens após a inscrição em dívida ativa.",
+    "aplicacao": "A cautelar fiscal continua útil mesmo após a inscrição, para impedir novas alienações; a presunção do art. 185 só alcança as que já ocorreram a partir dela."
+   },
+   {
+    "d": "lef.9",
+    "conteudo": "Modalidades de garantia da execução.",
+    "aplicacao": "Parâmetro da garantia equivalente do art. 10 da Lei 8.397/1992."
+   }
+  ],
+  "cadeia": [
+   {
+    "d": "l8397.2",
+    "papel": "Requisito material",
+    "desc": "uma das hipóteses de risco ao crédito"
+   },
+   {
+    "d": "l8397.3",
+    "papel": "Requisito probatório",
+    "desc": "prova literal do crédito e documental do risco"
+   },
+   {
+    "d": "l8397.4",
+    "papel": "Efeito",
+    "desc": "indisponibilidade imediata dos bens"
+   },
+   {
+    "d": "l8397.11",
+    "papel": "Referibilidade",
+    "desc": "execução fiscal em 60 dias"
+   }
+  ],
+  "alertas": [
+   "cautelar-fiscal-x-fraude-execucao"
+  ],
+  "precedentes": [],
+  "checklist": [
+   {
+    "q": "O crédito já está constituído? Se ainda não, o pedido só se sustenta nas hipóteses do art. 2º, V, b, ou VII.",
+    "f": "l8397.1",
+    "obs": ""
+   },
+   {
+    "q": "Qual das nove hipóteses do art. 2º foi demonstrada, com prova documental?",
+    "f": "l8397.2",
+    "obs": ""
+   },
+   {
+    "q": "Há prova literal da constituição do crédito?",
+    "f": "l8397.3",
+    "obs": ""
+   },
+   {
+    "q": "O pedido se funda na hipótese do art. 2º, V, \"a\" (inadimplemento após notificação)? Só nessa hipótese a lei ressalva expressamente a suspensão da exigibilidade; nas demais oito hipóteses do art. 2º, a suspensão não afasta, por si só, a cautelar.",
+    "f": "ctn.151",
+    "obs": ""
+   },
+   {
+    "q": "A indisponibilidade recaiu sobre o ativo permanente da pessoa jurídica, ou foi estendida a sócios e administradores? Há prova do vínculo exigido pelo § 1º do art. 4º?",
+    "f": "l8397.4",
+    "obs": ""
+   },
+   {
+    "q": "A cautelar é preparatória? A execução foi proposta em até 60 dias da exigência tornar-se irrecorrível?",
+    "f": "l8397.11",
+    "obs": ""
+   },
+   {
+    "q": "Há proposta de substituição da indisponibilidade por garantia equivalente?",
+    "f": "l8397.10",
+    "obs": ""
+   }
+  ],
+  "pratica": [
+   {
+    "polo": "Fazenda",
+    "argumentos": [
+     {
+      "a": "Demonstrar risco concreto de dilapidação patrimonial, com prova documental de uma das hipóteses do art. 2º.",
+      "refs": [
+       "l8397.2",
+       "l8397.3"
+      ]
+     },
+     {
+      "a": "Pedir a extensão da indisponibilidade a sócios e administradores que tenham poderes para fazer a empresa cumprir suas obrigações fiscais.",
+      "refs": [
+       "l8397.4"
+      ]
+     },
+     {
+      "a": "Estender a indisponibilidade a bens transferidos a terceiros capazes de frustrar a satisfação do crédito.",
+      "refs": [
+       "l8397.4"
+      ]
+     }
+    ]
+   },
+   {
+    "polo": "Contribuinte",
+    "argumentos": [
+     {
+      "a": "Arguir a incompatibilidade da cautelar com crédito de exigibilidade suspensa, fora das hipóteses excepcionais dos incisos V, b, e VII do art. 2º.",
+      "refs": [
+       "l8397.2",
+       "ctn.151"
+      ]
+     },
+     {
+      "a": "Impugnar a ausência de prova literal da constituição do crédito quando este ainda não estiver definitivo.",
+      "refs": [
+       "l8397.1",
+       "l8397.3"
+      ]
+     },
+     {
+      "a": "Oferecer garantia equivalente para substituir a indisponibilidade.",
+      "refs": [
+       "l8397.10",
+       "lef.9"
+      ]
+     },
+     {
+      "a": "Arguir a cessação da eficácia da medida por decurso do prazo do art. 11 sem o ajuizamento da execução.",
+      "refs": [
+       "l8397.13"
+      ]
+     }
+    ]
+   }
+  ],
+  "controversias": [
+   {
+    "q": "Mensuração do patrimônio conhecido para o limite de 30% do art. 2º, VI",
+    "status": "aberta",
+    "ref": null,
+    "posicoes": [
+     {
+      "t": "O cálculo deve considerar o valor contábil dos bens, apurado por balanço.",
+      "refs": [
+       "l8397.2"
+      ]
+     },
+     {
+      "t": "Bens depreciados contabilmente ou intangíveis, como marcas, exigem critério próprio de avaliação, sob pena de distorcer o percentual.",
+      "refs": [
+       "l8397.2"
+      ]
+     }
+    ],
+    "predominante": "Sem precedente qualificado carregado na base sobre o critério de mensuração; avalie a prova pericial no caso concreto."
+   }
+  ],
+  "timeline": [],
+  "atualizado_em": "2026-09-29"
  }
 ]

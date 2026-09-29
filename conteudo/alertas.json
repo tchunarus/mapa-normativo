@@ -102,5 +102,13 @@
   "b": "ctn.169",
   "texto": "O art. 168 do CTN fixa 5 anos para pleitear a restituição, contados da extinção do crédito. O art. 169 fixa 2 anos para a ação anulatória da decisão administrativa que denegar a restituição. O pedido administrativo não interrompe o prazo do art. 168 (Súmula 625/STJ).",
   "repercussao": "Depois de indeferimento administrativo, confira os dois prazos; esperar a decisão administrativa pode consumir o prazo da ação."
+ },
+ {
+  "id": "cautelar-fiscal-x-fraude-execucao",
+  "titulo": "A cautelar fiscal previne o risco, a fraude à execução já pressupõe a inscrição",
+  "a": "l8397.4",
+  "b": "ctn.185",
+  "texto": "A indisponibilidade da medida cautelar fiscal (art. 4º da Lei 8.397/1992) atua antes ou independentemente da inscrição em dívida ativa, para impedir que o devedor esvazie o patrimônio antes de o crédito estar protegido pela presunção de fraude. Já a presunção de fraude do art. 185 do CTN só nasce com a inscrição regular em dívida ativa: alienações anteriores a ela não são atingidas por essa presunção, e é justamente nesse vão que a cautelar fiscal se torna útil como instrumento preventivo, muitas vezes preparatório para uma futura ação revocatória se a alienação já tiver ocorrido antes da inscrição.",
+  "repercussao": "A cautelar fiscal cabe antes e depois da inscrição em dívida ativa, inclusive no curso da execução (art. 1º da Lei 8.397/1992); a presunção do art. 185 do CTN só socorre alienações posteriores à inscrição e não impede novas dilapidações, o que preserva a utilidade da cautelar mesmo depois de inscrito o crédito."
  }
 ]
