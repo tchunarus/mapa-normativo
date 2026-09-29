@@ -3088,5 +3088,225 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-28T21:22:59+00:00"
+ },
+ {
+  "de": "cpc.731",
+  "para": "cc.1667",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 731 do CPC é o procedimento de partilha dos bens comuns na homologação do divórcio consensual, os mesmos bens cuja comunicação entre os cônjuges o art. 1.667 do CC determina no regime de comunhão universal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cpc.734",
+  "para": "cc.1667",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 734 do CPC é o procedimento para alteração judicial do regime de bens do casamento, inclusive para a adoção ou o abandono do regime de comunhão universal disciplinado no art. 1.667 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cpc.425",
+  "para": "cc.217",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 425 do CPC complementa o art. 217 do CC ao inserir a mesma regra, força probante equivalente à do original para os traslados e as certidões extraídos por oficial público de instrumentos lançados em suas notas, no rol processual de documentos com igual valor probatório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "floripa_ctm.102",
+  "para": "cpc.792",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 102 do Código Tributário Municipal de Florianópolis excepciona, para a execução fiscal municipal, o regime geral do art. 792 do CPC, ao presumir fraudulenta a alienação de bens do sujeito passivo em débito inscrito como dívida ativa municipal, ressalvada a reserva de bens suficientes ao pagamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cpc.792",
+  "para": "l8078.28",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 792 do CPC é o procedimento que fixa o momento processual a partir do qual se considera caracterizada a fraude à execução quando decretada a desconsideração da personalidade jurídica, instituto cujos fundamentos materiais, nas relações de consumo, estão no art. 28 do CDC, como o abuso de direito e o estado de insolvência da pessoa jurídica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "l11101.66-A",
+  "para": "cpc.792",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 66-A da Lei 11.101/05 excepciona a ineficácia por fraude à execução prevista no § 1º do art. 792 do CPC: a alienação de bem ou a garantia outorgada pelo devedor a adquirente ou financiador de boa-fé, quando autorizada judicialmente ou prevista em plano de recuperação aprovado, não pode ser anulada nem tornada ineficaz após a consumação do negócio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "l11101.74",
+  "para": "cpc.792",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 74 da Lei 11.101/05 também excepciona o regime do art. 792 do CPC quanto aos atos praticados durante a recuperação judicial: na convolação da recuperação em falência, os atos de administração, endividamento, oneração ou alienação praticados nesse período presumem-se válidos, desde que realizados na forma da lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cpc.795",
+  "para": "cc.1024",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "Os §§ 1º a 3º do art. 795 do CPC são o procedimento para o exercício do benefício de ordem do sócio, previsto materialmente no art. 1.024 do CC, segundo o qual os bens particulares dos sócios não podem ser executados por dívidas da sociedade senão depois de executados os bens sociais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cpc.795",
+  "para": "cc.827",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O benefício de ordem do sócio, previsto no § 1º do art. 795 do CPC, e o benefício de ordem do fiador, previsto no art. 827 do CC, seguem lógica semelhante ao exigirem a excussão prévia dos bens do devedor principal ou da sociedade, mas decorrem de institutos distintos, o que gera risco real de confusão quanto ao regime aplicável a cada hipótese.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cpc.795",
+  "para": "cc.50",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 795 do CPC é o procedimento que exige a observância do incidente processual de desconsideração da personalidade jurídica sempre que se pretenda alcançar os bens particulares dos sócios pela desconsideração de que trata o art. 50 do CC, fundada no desvio de finalidade ou na confusão patrimonial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "l11101.82-A",
+  "para": "cpc.795",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 82-A da Lei 11.101/05 especializa, para o juízo falimentar, o regime do incidente de desconsideração da personalidade jurídica a que se refere o § 4º do art. 795 do CPC, exigindo a observância do art. 50 do CC para responsabilizar sócios, controladores ou administradores da sociedade falida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cc.1997",
+  "para": "cpc.796",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.997 do CC contém a mesma regra do art. 796 do CPC sobre a responsabilidade patrimonial pelas dívidas do falecido, e a complementa ao dispor, no § 1º, sobre a reserva de bens pelo inventariante quando, antes da partilha, for requerido o pagamento de dívida comprovada e houver impugnação sem prova de pagamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cc.1792",
+  "para": "cpc.796",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.792 do CC complementa a regra do art. 796 do CPC sobre a responsabilidade do herdeiro nos limites das forças da herança, ao atribuir ao próprio herdeiro o ônus de provar o excesso do encargo em relação ao valor herdado, salvo se houver inventário que dispense essa prova.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cc.1821",
+  "para": "cpc.796",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.821 do CC complementa a regra do art. 796 do CPC ao assegurar aos credores da herança o direito de pedir o pagamento das dívidas reconhecidas, nos mesmos limites das forças da herança que orientam a responsabilidade dos herdeiros após a partilha.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "d20910.7",
+  "para": "cpc.802",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 7º do Decreto 20.910/32 excepciona, para as ações contra a Fazenda Pública, a regra de interrupção da prescrição pela citação de que trata o art. 802 do CPC, pois afasta o efeito interruptivo quando o processo, por qualquer motivo, tiver sido anulado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cpc.802",
+  "para": "ctn.174",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "Quando o art. 174 do CTN não dispõe sobre o momento a que retroage a interrupção da prescrição pelo despacho que ordena a citação em execução fiscal, aplica-se subsidiariamente a regra do parágrafo único do art. 802 do CPC, segundo a qual essa interrupção retroage à data de propositura da ação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cpc.802",
+  "para": "floripa_ctm.92",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "Assim como ocorre com o art. 174 do CTN, quando o art. 92 do Código Tributário Municipal de Florianópolis não disciplina o momento a que retroage a interrupção da prescrição pela citação do devedor, aplica-se subsidiariamente a regra do parágrafo único do art. 802 do CPC, que fixa a retroação à data de propositura da ação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cpc.802",
+  "para": "cp.117",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "As causas de interrupção da prescrição civil de que cuida o art. 802 do CPC não se confundem com as causas de interrupção da prescrição penal do art. 117 do CP, como o recebimento da denúncia ou da queixa e a pronúncia, distinção relevante quando o mesmo fato gera repercussão cível e criminal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cpc.804",
+  "para": "cc.1419",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O caput do art. 804 do CPC é o procedimento que dá efeito processual, a ineficácia da alienação em relação ao credor não intimado, ao vínculo real de que trata o art. 1.419 do CC, que sujeita o bem empenhado, hipotecado ou dado em anticrese ao cumprimento da obrigação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cpc.804",
+  "para": "cc.1417",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 804 do CPC protege processualmente, mediante a ineficácia da alienação em relação ao promitente comprador não intimado, o direito real à aquisição do imóvel que o art. 1.417 do CC confere a quem registrou a promessa de compra e venda em que não se pactuou arrependimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cpc.804",
+  "para": "cc.1225",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 804 do CPC regulamenta os efeitos processuais da alienação do bem gravado por diversos direitos reais elencados no art. 1.225 do CC, como a superfície, o usufruto, o uso, a habitação, a hipoteca, a anticrese e o direito do promitente comprador do imóvel, tornando ineficaz a alienação em relação ao titular não intimado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cpc.804",
+  "para": "cc.1368-B",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 804 do CPC protege processualmente, mediante a ineficácia da alienação do direito aquisitivo em relação ao proprietário fiduciário não intimado, o direito real de aquisição que o art. 1.368-B do CC confere ao fiduciante na alienação fiduciária em garantia de bem móvel ou imóvel.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T00:17:37+00:00"
  }
 ]
