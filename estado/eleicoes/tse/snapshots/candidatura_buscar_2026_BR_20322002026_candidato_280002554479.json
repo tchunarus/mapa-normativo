@@ -1,0 +1,81 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002554479",
+ "capturado_em": "2026-09-29T10:36:10.411Z",
+ "http_status": 200,
+ "sha256": "a4a32757b6bdb5fa716abe7535f85c64208d38a8b615cf24341ac5a66506dcb7",
+ "bytes": 8520,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 280002554479,
+  "nomeUrna": "LEONARDO AVALANCHE",
+  "nomeCompleto": "LEONARDO ALVES DE ARAUJO",
+  "numero": 28,
+  "ufCandidatura": "BR",
+  "descricaoSituacao": "Pendente de julgamento",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "PRTB",
+  "composicaoColigacao": "**",
+  "descricaoTipoDrap": "Partido Isolado",
+  "grauInstrucao": "Superior incompleto",
+  "ocupacao": "Empresário",
+  "nomeMunicipioNascimento": "ANÁPOLIS",
+  "sgUfNascimento": "GO",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/280002554479/BR",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-17 11:22",
+  "numeroProcesso": "06020339420266000000",
+  "partido": {
+   "numero": 28,
+   "sigla": "PRTB",
+   "nome": "PARTIDO RENOVADOR TRABALHISTA BRASILEIRO"
+  },
+  "cargo": {
+   "codigo": 1,
+   "nome": "Presidente"
+  },
+  "arquivos": [
+   {
+    "idArquivo": 280017142413,
+    "nome": "PLANO DE GOVERNO CHAPA BRASIL PROSPERO.pdf",
+    "codTipo": "5"
+   }
+  ],
+  "vices": [
+   {
+    "sq_CANDIDATO": 280002554490,
+    "nm_URNA": "SILVIA",
+    "ds_CARGO": "Vice-presidente",
+    "sg_PARTIDO": "PRTB",
+    "nr_CANDIDATO": "28"
+   }
+  ]
+ }
+}

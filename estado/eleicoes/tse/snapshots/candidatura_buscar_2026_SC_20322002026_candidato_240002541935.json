@@ -1,0 +1,82 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541935",
+ "capturado_em": "2026-09-29T10:36:14.101Z",
+ "http_status": 200,
+ "sha256": "37bd41cd467d35a5272ed69c216a7b9f2c6a5e37f926a2e58edd203dac5c9bb8",
+ "bytes": 11552,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 240002541935,
+  "nomeUrna": "CARLOS BOLSONARO",
+  "nomeCompleto": "CARLOS NANTES BOLSONARO",
+  "numero": 222,
+  "ufCandidatura": "SC",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "FÉ NO TRABALHO E PÉ NA TÁBUA",
+  "composicaoColigacao": "REPUBLICANOS / PODE / PL / DC / NOVO / AGIR / AVANTE / FEDERAÇÃO PSDB CIDADANIA(45-PSDB/23-CIDADANIA)",
+  "descricaoTipoDrap": "Coligação",
+  "grauInstrucao": "Superior completo",
+  "ocupacao": "Outros",
+  "nomeMunicipioNascimento": "RESENDE",
+  "sgUfNascimento": "RJ",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/240002541935/SC",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-18 14:39",
+  "numeroProcesso": "06006216220266240000",
+  "partido": {
+   "numero": 22,
+   "sigla": "PL",
+   "nome": "PARTIDO LIBERAL"
+  },
+  "cargo": {
+   "codigo": 5,
+   "nome": "Senador"
+  },
+  "arquivos": [],
+  "vices": [
+   {
+    "sq_CANDIDATO": 240002541930,
+    "nm_URNA": "RAFAEL CALEFFI",
+    "ds_CARGO": "1º Suplente",
+    "sg_PARTIDO": "PL",
+    "nr_CANDIDATO": "222"
+   },
+   {
+    "sq_CANDIDATO": 240002541934,
+    "nm_URNA": "BALDUINO RODRIGUES",
+    "ds_CARGO": "2º Suplente",
+    "sg_PARTIDO": "PL",
+    "nr_CANDIDATO": "222"
+   }
+  ]
+ }
+}

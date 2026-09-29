@@ -1,0 +1,8 @@
+[
+ {"id": "af-2026-1t-tse", "afirmacao_id": "eleicao-2026-primeiro-turno", "fonte_id": "tse-eleicoes-ordinarias", "relacao": "SUPPORTS", "localizador": "registro 20322002026, campo dataEleicao", "trecho": "Eleição Geral Federal 2026; dataEleicao 2026-10-04"},
+ {"id": "af-2026-1t-cf", "afirmacao_id": "eleicao-2026-primeiro-turno", "fonte_id": "fonte-cf-planalto", "relacao": "SUPPORTS", "localizador": "art. 77, caput"},
+ {"id": "af-2026-2t-cf77", "afirmacao_id": "eleicao-2026-segundo-turno", "fonte_id": "fonte-cf-planalto", "relacao": "SUPPORTS", "localizador": "arts. 28 e 77, caput"},
+ {"id": "af-mun-2024-tse", "afirmacao_id": "municipais-2024", "fonte_id": "tse-eleicoes-ordinarias", "relacao": "SUPPORTS", "localizador": "registro 2045202024, campo dataEleicao", "trecho": "Eleições Municipais 2024; dataEleicao 2024-10-06"},
+ {"id": "af-mun-2028-tse", "afirmacao_id": "municipais-2028", "fonte_id": "tse-eleicoes-ordinarias", "relacao": "SUPPORTS", "localizador": "registro 2045202024, campo dataEleicao"},
+ {"id": "af-mun-2028-cf", "afirmacao_id": "municipais-2028", "fonte_id": "fonte-cf-planalto", "relacao": "SUPPORTS", "localizador": "art. 29, I e II"}
+]

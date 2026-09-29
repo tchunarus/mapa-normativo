@@ -1,0 +1,1223 @@
+[
+ {
+  "id": "analise-2026-09-29T11:04:52+00:00",
+  "fonte": "Mapa Eleitoral",
+  "rotulo": "Análise de competência",
+  "iniciado_em": "2026-09-29T11:04:52+00:00",
+  "transporte": "local",
+  "fetched": 19,
+  "created": 19,
+  "updated": 0,
+  "unchanged": 0,
+  "missing": 0,
+  "errors": 0,
+  "erros": [],
+  "avisos": [],
+  "snapshots": [],
+  "origem_dado": "DERIVED",
+  "concluido_em": "2026-09-29T11:04:52+00:00"
+ },
+ {
+  "id": "analise-2026-09-29T11:05:56+00:00",
+  "fonte": "Mapa Eleitoral",
+  "rotulo": "Análise de competência",
+  "iniciado_em": "2026-09-29T11:05:56+00:00",
+  "transporte": "local",
+  "fetched": 19,
+  "created": 0,
+  "updated": 19,
+  "unchanged": 0,
+  "missing": 0,
+  "errors": 0,
+  "erros": [],
+  "avisos": [],
+  "snapshots": [],
+  "origem_dado": "DERIVED",
+  "concluido_em": "2026-09-29T11:05:56+00:00"
+ },
+ {
+  "id": "analise-2026-09-29T11:06:41+00:00",
+  "fonte": "Mapa Eleitoral",
+  "rotulo": "Análise de competência",
+  "iniciado_em": "2026-09-29T11:06:41+00:00",
+  "transporte": "local",
+  "fetched": 19,
+  "created": 0,
+  "updated": 2,
+  "unchanged": 17,
+  "missing": 0,
+  "errors": 0,
+  "erros": [],
+  "avisos": [],
+  "snapshots": [],
+  "origem_dado": "DERIVED",
+  "concluido_em": "2026-09-29T11:06:41+00:00"
+ },
+ {
+  "id": "analise-2026-09-29T11:20:38+00:00",
+  "fonte": "Mapa Eleitoral",
+  "rotulo": "Análise de competência",
+  "iniciado_em": "2026-09-29T11:20:38+00:00",
+  "transporte": "local",
+  "fetched": 19,
+  "created": 0,
+  "updated": 0,
+  "unchanged": 19,
+  "missing": 0,
+  "errors": 0,
+  "erros": [],
+  "avisos": [],
+  "snapshots": [],
+  "origem_dado": "DERIVED",
+  "concluido_em": "2026-09-29T11:20:38+00:00"
+ },
+ {
+  "id": "senado-vagas-sc-2026-09-29T10:57:46+00:00",
+  "fonte": "Senado Federal, dados abertos",
+  "rotulo": "Senado, vagas em disputa",
+  "iniciado_em": "2026-09-29T10:57:46+00:00",
+  "transporte": "http",
+  "fetched": 1,
+  "created": 1,
+  "updated": 0,
+  "unchanged": 0,
+  "missing": 0,
+  "errors": 0,
+  "erros": [],
+  "avisos": [],
+  "snapshots": [
+   {
+    "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+    "sha256": "23fbf0d1482c43d8ad40a123e4625755f367990a27866c352a89301db125bd30",
+    "capturado_em": "2026-09-29T10:57:46+00:00"
+   }
+  ],
+  "origem_dado": "OFFICIAL",
+  "concluido_em": "2026-09-29T10:57:48+00:00"
+ },
+ {
+  "id": "tse-candidaturas-2026-09-29T10:57:46+00:00",
+  "fonte": "TSE, DivulgaCandContas",
+  "rotulo": "TSE Candidates",
+  "iniciado_em": "2026-09-29T10:57:46+00:00",
+  "transporte": "snapshot",
+  "fetched": 680,
+  "created": 680,
+  "updated": 0,
+  "unchanged": 0,
+  "missing": 0,
+  "errors": 2,
+  "erros": [
+   "integridade: candidaturas.tse-280002553884: duplicidade em (eleicao_id, cargo_id, ente, numero) com candidaturas.tse-280002554479",
+   "integridade: candidaturas.tse-240002554271: duplicidade em (eleicao_id, cargo_id, ente, numero) com candidaturas.tse-240002552123"
+  ],
+  "avisos": [
+   "candidatura 240002544683: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002544686: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002551669: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002541405: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002551663: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002537839: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002554185: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002551665: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002552192: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002541372: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002543552: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002543553: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002537805: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002552226: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002541380: situação \"Pedido não conhecido\" não mapeada; registrada como OUTRO",
+   "candidatura 240002540081: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002552224: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002552228: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "dados não gravados: a validação de integridade falhou"
+  ],
+  "snapshots": [
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/BR/20322002026/1/candidatos",
+    "sha256": "d0211b2264c19e6c7127a2494c65a1c2bf01b9b7e637656b283e269b17f6bcc8",
+    "capturado_em": "2026-09-29T10:36:09.408Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002552484",
+    "sha256": "79904505fbd0a127b1d6c0228384241fdd8b75657f801fa875b68a0ab2be6ea4",
+    "capturado_em": "2026-09-29T10:36:09.444Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551975",
+    "sha256": "2412fd42f6fbdcff0d01987e125d1b1e01a41f19fa4d02d983472525bfdaf464",
+    "capturado_em": "2026-09-29T10:36:09.642Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551547",
+    "sha256": "105039f067e489f7d3064f5164d6aae3d100afec35f3183201f94a7569fd2ddd",
+    "capturado_em": "2026-09-29T10:36:09.835Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551544",
+    "sha256": "fdb3863b0a5f96480842040ff1aca455a1ce475f9c6afc2f96c9df52226ed77f",
+    "capturado_em": "2026-09-29T10:36:10.029Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002541457",
+    "sha256": "3d21edf3dbf2e3dc18c1371a0225437abc4dcb63232e0a54bfd905c5302dfc9c",
+    "capturado_em": "2026-09-29T10:36:10.217Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002554479",
+    "sha256": "a4a32757b6bdb5fa716abe7535f85c64208d38a8b615cf24341ac5a66506dcb7",
+    "capturado_em": "2026-09-29T10:36:10.411Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002542548",
+    "sha256": "0e36084e5c9397e8093f100e4d07df0cf0a02e475d4fea64b6c78b90b81413e4",
+    "capturado_em": "2026-09-29T10:36:10.603Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002553884",
+    "sha256": "c7115c9b30cb1107684598090d2c6b1a0d379491f1f848b549f5efe4d56fb9dc",
+    "capturado_em": "2026-09-29T10:36:10.793Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002540694",
+    "sha256": "9e1b3551570eb97a25c3f9055b5448e8d5eefa486c6efdd9684cc97c10e6725f",
+    "capturado_em": "2026-09-29T10:36:10.979Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551932",
+    "sha256": "8bfc87ab1677a489fa213b89b058f0a5d7bda7d6e47af3160ed4697c247e3636",
+    "capturado_em": "2026-09-29T10:36:11.172Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002552487",
+    "sha256": "a7c1d079499fe5fb87e6779d0197619625b3d5e7a735c969ddb6e6a315c41c0d",
+    "capturado_em": "2026-09-29T10:36:11.383Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002538811",
+    "sha256": "a5b19503d8903320dbcb1c81dc97396638f73562347d9b35be3355d0e3c8ca20",
+    "capturado_em": "2026-09-29T10:36:11.604Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002548139",
+    "sha256": "592254713b594afca3d0e7f7e416cce32dce2a6cd26e8ef966f48508567d674c",
+    "capturado_em": "2026-09-29T10:36:11.823Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002539826",
+    "sha256": "40e9c3c76cfcf3724797f783dc14bc7ef5a2618933da14f552df64e7c34b506b",
+    "capturado_em": "2026-09-29T10:36:12.018Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/3/candidatos",
+    "sha256": "aeebe6afe66117148e88485dc5587a60f9df7c101749d61cc289adc6c7ec4fdf",
+    "capturado_em": "2026-09-29T10:36:12.178Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002553718",
+    "sha256": "21840c87a24da360d8fef342c1d388d99c0fc9d80ccfcb1b9147257c6fc6061a",
+    "capturado_em": "2026-09-29T10:36:12.183Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548628",
+    "sha256": "4a99a3da509ee8fbd8c2ce3178999acceeca7a081418d3d7b8325f4f9ced3ea7",
+    "capturado_em": "2026-09-29T10:36:12.378Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002551001",
+    "sha256": "52d5bc79bbdf51004af38a6283caa63da86373301bc8d945950fed67c0f2fa3c",
+    "capturado_em": "2026-09-29T10:36:12.567Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002537073",
+    "sha256": "9c12fa60c5770bc6df78ae11f2496357f669a6932473b9a3172e16db85259aea",
+    "capturado_em": "2026-09-29T10:36:12.761Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002550544",
+    "sha256": "188a271ec8a81bb43fa37bb60a16eb97ea93c8715d882e2d1641c91bde8b1cb3",
+    "capturado_em": "2026-09-29T10:36:12.952Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002544118",
+    "sha256": "e8affc65893d4afa691a5a7dc3cf9732b832f0439dbfc3da24e80710a5cb1e80",
+    "capturado_em": "2026-09-29T10:36:13.142Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541913",
+    "sha256": "c04142bc626ceeb2e4c06f095a0e5650742784bb9f61bd6bca76f0e2033be1b5",
+    "capturado_em": "2026-09-29T10:36:13.334Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002552157",
+    "sha256": "a0ac7ceac259cc7cfda6da96a6c7cc82eb713c7f3bde5690a954e3c0da036d6c",
+    "capturado_em": "2026-09-29T10:36:13.524Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/5/candidatos",
+    "sha256": "bcd6fe89b5275945c0df4a4da8a9dd74b1b5c09dc976b78a25c3cad6f6a2a559",
+    "capturado_em": "2026-09-29T10:36:13.683Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002535770",
+    "sha256": "b9bad52406ed9e83ca084d5268720e5c6e5d5b25971a300cab8fa5781385a894",
+    "capturado_em": "2026-09-29T10:36:13.719Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002539636",
+    "sha256": "ed4bbca20f83f1f55eea1d787f91ec8e22c90901b402358d7c96c18ad0a0146d",
+    "capturado_em": "2026-09-29T10:36:13.908Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541935",
+    "sha256": "37bd41cd467d35a5272ed69c216a7b9f2c6a5e37f926a2e58edd203dac5c9bb8",
+    "capturado_em": "2026-09-29T10:36:14.101Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002553005",
+    "sha256": "ad3ab6ec0c773560c9104edb22e5ea1adc653758d0b9edc0d5af707f604ea191",
+    "capturado_em": "2026-09-29T10:36:14.285Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541931",
+    "sha256": "7dc32647f0cf5877f9bc3e4fe70ffea252a2e00a00b6a86ac8b7682f95afd2c9",
+    "capturado_em": "2026-09-29T10:36:14.475Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002533898",
+    "sha256": "b73afdb8245fa3b0ea0c53b76935cf89e18f3a3888a7484dce0dcedc6a718b99",
+    "capturado_em": "2026-09-29T10:36:14.667Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548632",
+    "sha256": "acc1c9c313b2dfe0df9fa8f69d66a76555a44e5601811c660a0c08029569747c",
+    "capturado_em": "2026-09-29T10:36:15.113Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002551377",
+    "sha256": "64ba7895e0afad3371a14109a5b734546a23dc38e774d1f2b945ee63631b558e",
+    "capturado_em": "2026-09-29T10:36:15.308Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002537632",
+    "sha256": "987df033093aed60f3a4d18f3de94225f216f03d99ccb5129152e64792453b63",
+    "capturado_em": "2026-09-29T10:36:15.503Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548630",
+    "sha256": "f88d3e333edfec941ee9886fd835642f12ebfc8a94b1463422136666aa9ce791",
+    "capturado_em": "2026-09-29T10:36:15.701Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002537630",
+    "sha256": "7782024d73707c18554eed58fa851f9bdc512688e20292e2721233226f9ba8bc",
+    "capturado_em": "2026-09-29T10:36:15.888Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002550218",
+    "sha256": "5f9685edc4f51d8435f07e051e488d0d771a2b96dba8df20117d17e1e1084ddb",
+    "capturado_em": "2026-09-29T10:36:16.080Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002544094",
+    "sha256": "5c29cec35cef35f47706b3824fd1d03b963070977771ef61bb677bd0b7e63760",
+    "capturado_em": "2026-09-29T10:36:16.272Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/6/candidatos",
+    "sha256": "5a90d647ddb6329c2a1520d416058b07251125253294b1f2d5e06dce51eb58ec",
+    "capturado_em": "2026-09-29T10:36:16.434Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/7/candidatos",
+    "sha256": "517dcd3810cd15b625ea4f42c05a21ddfeeef4411de5101f0771bea91ed05bc6",
+    "capturado_em": "2026-09-29T10:36:16.443Z"
+   }
+  ],
+  "por_escopo": [
+   {
+    "escopo": "2026-presidente",
+    "fetched": 14,
+    "erros": 0,
+    "created": 14,
+    "updated": 0,
+    "unchanged": 0,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-governador",
+    "fetched": 8,
+    "erros": 0,
+    "created": 8,
+    "updated": 0,
+    "unchanged": 0,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-senador",
+    "fetched": 13,
+    "erros": 0,
+    "created": 13,
+    "updated": 0,
+    "unchanged": 0,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-deputado-federal",
+    "fetched": 231,
+    "erros": 0,
+    "created": 231,
+    "updated": 0,
+    "unchanged": 0,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-deputado-estadual",
+    "fetched": 414,
+    "erros": 0,
+    "created": 414,
+    "updated": 0,
+    "unchanged": 0,
+    "missing": 0
+   }
+  ],
+  "origem_dado": "OFFICIAL",
+  "concluido_em": "2026-09-29T10:57:46+00:00"
+ },
+ {
+  "id": "tse-candidaturas-2026-09-29T10:58:09+00:00",
+  "fonte": "TSE, DivulgaCandContas",
+  "rotulo": "TSE Candidates",
+  "iniciado_em": "2026-09-29T10:58:09+00:00",
+  "transporte": "snapshot",
+  "fetched": 680,
+  "created": 680,
+  "updated": 0,
+  "unchanged": 0,
+  "missing": 0,
+  "errors": 0,
+  "erros": [],
+  "avisos": [
+   "candidatura 240002544683: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002544686: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002551669: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002541405: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002551663: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002537839: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002554185: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002551665: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002552192: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002541372: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002543552: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002543553: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002537805: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002552226: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002541380: situação \"Pedido não conhecido\" não mapeada; registrada como OUTRO",
+   "candidatura 240002540081: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002552224: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002552228: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO"
+  ],
+  "snapshots": [
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/BR/20322002026/1/candidatos",
+    "sha256": "d0211b2264c19e6c7127a2494c65a1c2bf01b9b7e637656b283e269b17f6bcc8",
+    "capturado_em": "2026-09-29T10:36:09.408Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002552484",
+    "sha256": "79904505fbd0a127b1d6c0228384241fdd8b75657f801fa875b68a0ab2be6ea4",
+    "capturado_em": "2026-09-29T10:36:09.444Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551975",
+    "sha256": "2412fd42f6fbdcff0d01987e125d1b1e01a41f19fa4d02d983472525bfdaf464",
+    "capturado_em": "2026-09-29T10:36:09.642Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551547",
+    "sha256": "105039f067e489f7d3064f5164d6aae3d100afec35f3183201f94a7569fd2ddd",
+    "capturado_em": "2026-09-29T10:36:09.835Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551544",
+    "sha256": "fdb3863b0a5f96480842040ff1aca455a1ce475f9c6afc2f96c9df52226ed77f",
+    "capturado_em": "2026-09-29T10:36:10.029Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002541457",
+    "sha256": "3d21edf3dbf2e3dc18c1371a0225437abc4dcb63232e0a54bfd905c5302dfc9c",
+    "capturado_em": "2026-09-29T10:36:10.217Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002554479",
+    "sha256": "a4a32757b6bdb5fa716abe7535f85c64208d38a8b615cf24341ac5a66506dcb7",
+    "capturado_em": "2026-09-29T10:36:10.411Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002542548",
+    "sha256": "0e36084e5c9397e8093f100e4d07df0cf0a02e475d4fea64b6c78b90b81413e4",
+    "capturado_em": "2026-09-29T10:36:10.603Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002553884",
+    "sha256": "c7115c9b30cb1107684598090d2c6b1a0d379491f1f848b549f5efe4d56fb9dc",
+    "capturado_em": "2026-09-29T10:36:10.793Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002540694",
+    "sha256": "9e1b3551570eb97a25c3f9055b5448e8d5eefa486c6efdd9684cc97c10e6725f",
+    "capturado_em": "2026-09-29T10:36:10.979Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551932",
+    "sha256": "8bfc87ab1677a489fa213b89b058f0a5d7bda7d6e47af3160ed4697c247e3636",
+    "capturado_em": "2026-09-29T10:36:11.172Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002552487",
+    "sha256": "a7c1d079499fe5fb87e6779d0197619625b3d5e7a735c969ddb6e6a315c41c0d",
+    "capturado_em": "2026-09-29T10:36:11.383Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002538811",
+    "sha256": "a5b19503d8903320dbcb1c81dc97396638f73562347d9b35be3355d0e3c8ca20",
+    "capturado_em": "2026-09-29T10:36:11.604Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002548139",
+    "sha256": "592254713b594afca3d0e7f7e416cce32dce2a6cd26e8ef966f48508567d674c",
+    "capturado_em": "2026-09-29T10:36:11.823Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002539826",
+    "sha256": "40e9c3c76cfcf3724797f783dc14bc7ef5a2618933da14f552df64e7c34b506b",
+    "capturado_em": "2026-09-29T10:36:12.018Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/3/candidatos",
+    "sha256": "aeebe6afe66117148e88485dc5587a60f9df7c101749d61cc289adc6c7ec4fdf",
+    "capturado_em": "2026-09-29T10:36:12.178Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002553718",
+    "sha256": "21840c87a24da360d8fef342c1d388d99c0fc9d80ccfcb1b9147257c6fc6061a",
+    "capturado_em": "2026-09-29T10:36:12.183Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548628",
+    "sha256": "4a99a3da509ee8fbd8c2ce3178999acceeca7a081418d3d7b8325f4f9ced3ea7",
+    "capturado_em": "2026-09-29T10:36:12.378Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002551001",
+    "sha256": "52d5bc79bbdf51004af38a6283caa63da86373301bc8d945950fed67c0f2fa3c",
+    "capturado_em": "2026-09-29T10:36:12.567Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002537073",
+    "sha256": "9c12fa60c5770bc6df78ae11f2496357f669a6932473b9a3172e16db85259aea",
+    "capturado_em": "2026-09-29T10:36:12.761Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002550544",
+    "sha256": "188a271ec8a81bb43fa37bb60a16eb97ea93c8715d882e2d1641c91bde8b1cb3",
+    "capturado_em": "2026-09-29T10:36:12.952Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002544118",
+    "sha256": "e8affc65893d4afa691a5a7dc3cf9732b832f0439dbfc3da24e80710a5cb1e80",
+    "capturado_em": "2026-09-29T10:36:13.142Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541913",
+    "sha256": "c04142bc626ceeb2e4c06f095a0e5650742784bb9f61bd6bca76f0e2033be1b5",
+    "capturado_em": "2026-09-29T10:36:13.334Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002552157",
+    "sha256": "a0ac7ceac259cc7cfda6da96a6c7cc82eb713c7f3bde5690a954e3c0da036d6c",
+    "capturado_em": "2026-09-29T10:36:13.524Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/5/candidatos",
+    "sha256": "bcd6fe89b5275945c0df4a4da8a9dd74b1b5c09dc976b78a25c3cad6f6a2a559",
+    "capturado_em": "2026-09-29T10:36:13.683Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002535770",
+    "sha256": "b9bad52406ed9e83ca084d5268720e5c6e5d5b25971a300cab8fa5781385a894",
+    "capturado_em": "2026-09-29T10:36:13.719Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002539636",
+    "sha256": "ed4bbca20f83f1f55eea1d787f91ec8e22c90901b402358d7c96c18ad0a0146d",
+    "capturado_em": "2026-09-29T10:36:13.908Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541935",
+    "sha256": "37bd41cd467d35a5272ed69c216a7b9f2c6a5e37f926a2e58edd203dac5c9bb8",
+    "capturado_em": "2026-09-29T10:36:14.101Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002553005",
+    "sha256": "ad3ab6ec0c773560c9104edb22e5ea1adc653758d0b9edc0d5af707f604ea191",
+    "capturado_em": "2026-09-29T10:36:14.285Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541931",
+    "sha256": "7dc32647f0cf5877f9bc3e4fe70ffea252a2e00a00b6a86ac8b7682f95afd2c9",
+    "capturado_em": "2026-09-29T10:36:14.475Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002533898",
+    "sha256": "b73afdb8245fa3b0ea0c53b76935cf89e18f3a3888a7484dce0dcedc6a718b99",
+    "capturado_em": "2026-09-29T10:36:14.667Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548632",
+    "sha256": "acc1c9c313b2dfe0df9fa8f69d66a76555a44e5601811c660a0c08029569747c",
+    "capturado_em": "2026-09-29T10:36:15.113Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002551377",
+    "sha256": "64ba7895e0afad3371a14109a5b734546a23dc38e774d1f2b945ee63631b558e",
+    "capturado_em": "2026-09-29T10:36:15.308Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002537632",
+    "sha256": "987df033093aed60f3a4d18f3de94225f216f03d99ccb5129152e64792453b63",
+    "capturado_em": "2026-09-29T10:36:15.503Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548630",
+    "sha256": "f88d3e333edfec941ee9886fd835642f12ebfc8a94b1463422136666aa9ce791",
+    "capturado_em": "2026-09-29T10:36:15.701Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002537630",
+    "sha256": "7782024d73707c18554eed58fa851f9bdc512688e20292e2721233226f9ba8bc",
+    "capturado_em": "2026-09-29T10:36:15.888Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002550218",
+    "sha256": "5f9685edc4f51d8435f07e051e488d0d771a2b96dba8df20117d17e1e1084ddb",
+    "capturado_em": "2026-09-29T10:36:16.080Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002544094",
+    "sha256": "5c29cec35cef35f47706b3824fd1d03b963070977771ef61bb677bd0b7e63760",
+    "capturado_em": "2026-09-29T10:36:16.272Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/6/candidatos",
+    "sha256": "5a90d647ddb6329c2a1520d416058b07251125253294b1f2d5e06dce51eb58ec",
+    "capturado_em": "2026-09-29T10:36:16.434Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/7/candidatos",
+    "sha256": "517dcd3810cd15b625ea4f42c05a21ddfeeef4411de5101f0771bea91ed05bc6",
+    "capturado_em": "2026-09-29T10:36:16.443Z"
+   }
+  ],
+  "por_escopo": [
+   {
+    "escopo": "2026-presidente",
+    "fetched": 14,
+    "erros": 0,
+    "created": 14,
+    "updated": 0,
+    "unchanged": 0,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-governador",
+    "fetched": 8,
+    "erros": 0,
+    "created": 8,
+    "updated": 0,
+    "unchanged": 0,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-senador",
+    "fetched": 13,
+    "erros": 0,
+    "created": 13,
+    "updated": 0,
+    "unchanged": 0,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-deputado-federal",
+    "fetched": 231,
+    "erros": 0,
+    "created": 231,
+    "updated": 0,
+    "unchanged": 0,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-deputado-estadual",
+    "fetched": 414,
+    "erros": 0,
+    "created": 414,
+    "updated": 0,
+    "unchanged": 0,
+    "missing": 0
+   }
+  ],
+  "origem_dado": "OFFICIAL",
+  "concluido_em": "2026-09-29T10:58:09+00:00"
+ },
+ {
+  "id": "tse-candidaturas-2026-09-29T10:58:10+00:00",
+  "fonte": "TSE, DivulgaCandContas",
+  "rotulo": "TSE Candidates",
+  "iniciado_em": "2026-09-29T10:58:10+00:00",
+  "transporte": "snapshot",
+  "fetched": 680,
+  "created": 0,
+  "updated": 0,
+  "unchanged": 680,
+  "missing": 0,
+  "errors": 0,
+  "erros": [],
+  "avisos": [
+   "candidatura 240002544683: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002544686: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002551669: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002541405: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002551663: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002537839: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002554185: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002551665: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002552192: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002541372: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002543552: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002543553: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002537805: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002552226: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002541380: situação \"Pedido não conhecido\" não mapeada; registrada como OUTRO",
+   "candidatura 240002540081: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002552224: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO",
+   "candidatura 240002552228: situação \"Indeferido em prazo recursal ou com recurso\" não mapeada; registrada como OUTRO"
+  ],
+  "snapshots": [
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/BR/20322002026/1/candidatos",
+    "sha256": "d0211b2264c19e6c7127a2494c65a1c2bf01b9b7e637656b283e269b17f6bcc8",
+    "capturado_em": "2026-09-29T10:36:09.408Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002552484",
+    "sha256": "79904505fbd0a127b1d6c0228384241fdd8b75657f801fa875b68a0ab2be6ea4",
+    "capturado_em": "2026-09-29T10:36:09.444Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551975",
+    "sha256": "2412fd42f6fbdcff0d01987e125d1b1e01a41f19fa4d02d983472525bfdaf464",
+    "capturado_em": "2026-09-29T10:36:09.642Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551547",
+    "sha256": "105039f067e489f7d3064f5164d6aae3d100afec35f3183201f94a7569fd2ddd",
+    "capturado_em": "2026-09-29T10:36:09.835Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551544",
+    "sha256": "fdb3863b0a5f96480842040ff1aca455a1ce475f9c6afc2f96c9df52226ed77f",
+    "capturado_em": "2026-09-29T10:36:10.029Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002541457",
+    "sha256": "3d21edf3dbf2e3dc18c1371a0225437abc4dcb63232e0a54bfd905c5302dfc9c",
+    "capturado_em": "2026-09-29T10:36:10.217Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002554479",
+    "sha256": "a4a32757b6bdb5fa716abe7535f85c64208d38a8b615cf24341ac5a66506dcb7",
+    "capturado_em": "2026-09-29T10:36:10.411Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002542548",
+    "sha256": "0e36084e5c9397e8093f100e4d07df0cf0a02e475d4fea64b6c78b90b81413e4",
+    "capturado_em": "2026-09-29T10:36:10.603Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002553884",
+    "sha256": "c7115c9b30cb1107684598090d2c6b1a0d379491f1f848b549f5efe4d56fb9dc",
+    "capturado_em": "2026-09-29T10:36:10.793Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002540694",
+    "sha256": "9e1b3551570eb97a25c3f9055b5448e8d5eefa486c6efdd9684cc97c10e6725f",
+    "capturado_em": "2026-09-29T10:36:10.979Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551932",
+    "sha256": "8bfc87ab1677a489fa213b89b058f0a5d7bda7d6e47af3160ed4697c247e3636",
+    "capturado_em": "2026-09-29T10:36:11.172Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002552487",
+    "sha256": "a7c1d079499fe5fb87e6779d0197619625b3d5e7a735c969ddb6e6a315c41c0d",
+    "capturado_em": "2026-09-29T10:36:11.383Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002538811",
+    "sha256": "a5b19503d8903320dbcb1c81dc97396638f73562347d9b35be3355d0e3c8ca20",
+    "capturado_em": "2026-09-29T10:36:11.604Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002548139",
+    "sha256": "592254713b594afca3d0e7f7e416cce32dce2a6cd26e8ef966f48508567d674c",
+    "capturado_em": "2026-09-29T10:36:11.823Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002539826",
+    "sha256": "40e9c3c76cfcf3724797f783dc14bc7ef5a2618933da14f552df64e7c34b506b",
+    "capturado_em": "2026-09-29T10:36:12.018Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/3/candidatos",
+    "sha256": "aeebe6afe66117148e88485dc5587a60f9df7c101749d61cc289adc6c7ec4fdf",
+    "capturado_em": "2026-09-29T10:36:12.178Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002553718",
+    "sha256": "21840c87a24da360d8fef342c1d388d99c0fc9d80ccfcb1b9147257c6fc6061a",
+    "capturado_em": "2026-09-29T10:36:12.183Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548628",
+    "sha256": "4a99a3da509ee8fbd8c2ce3178999acceeca7a081418d3d7b8325f4f9ced3ea7",
+    "capturado_em": "2026-09-29T10:36:12.378Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002551001",
+    "sha256": "52d5bc79bbdf51004af38a6283caa63da86373301bc8d945950fed67c0f2fa3c",
+    "capturado_em": "2026-09-29T10:36:12.567Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002537073",
+    "sha256": "9c12fa60c5770bc6df78ae11f2496357f669a6932473b9a3172e16db85259aea",
+    "capturado_em": "2026-09-29T10:36:12.761Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002550544",
+    "sha256": "188a271ec8a81bb43fa37bb60a16eb97ea93c8715d882e2d1641c91bde8b1cb3",
+    "capturado_em": "2026-09-29T10:36:12.952Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002544118",
+    "sha256": "e8affc65893d4afa691a5a7dc3cf9732b832f0439dbfc3da24e80710a5cb1e80",
+    "capturado_em": "2026-09-29T10:36:13.142Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541913",
+    "sha256": "c04142bc626ceeb2e4c06f095a0e5650742784bb9f61bd6bca76f0e2033be1b5",
+    "capturado_em": "2026-09-29T10:36:13.334Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002552157",
+    "sha256": "a0ac7ceac259cc7cfda6da96a6c7cc82eb713c7f3bde5690a954e3c0da036d6c",
+    "capturado_em": "2026-09-29T10:36:13.524Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/5/candidatos",
+    "sha256": "bcd6fe89b5275945c0df4a4da8a9dd74b1b5c09dc976b78a25c3cad6f6a2a559",
+    "capturado_em": "2026-09-29T10:36:13.683Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002535770",
+    "sha256": "b9bad52406ed9e83ca084d5268720e5c6e5d5b25971a300cab8fa5781385a894",
+    "capturado_em": "2026-09-29T10:36:13.719Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002539636",
+    "sha256": "ed4bbca20f83f1f55eea1d787f91ec8e22c90901b402358d7c96c18ad0a0146d",
+    "capturado_em": "2026-09-29T10:36:13.908Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541935",
+    "sha256": "37bd41cd467d35a5272ed69c216a7b9f2c6a5e37f926a2e58edd203dac5c9bb8",
+    "capturado_em": "2026-09-29T10:36:14.101Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002553005",
+    "sha256": "ad3ab6ec0c773560c9104edb22e5ea1adc653758d0b9edc0d5af707f604ea191",
+    "capturado_em": "2026-09-29T10:36:14.285Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541931",
+    "sha256": "7dc32647f0cf5877f9bc3e4fe70ffea252a2e00a00b6a86ac8b7682f95afd2c9",
+    "capturado_em": "2026-09-29T10:36:14.475Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002533898",
+    "sha256": "b73afdb8245fa3b0ea0c53b76935cf89e18f3a3888a7484dce0dcedc6a718b99",
+    "capturado_em": "2026-09-29T10:36:14.667Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548632",
+    "sha256": "acc1c9c313b2dfe0df9fa8f69d66a76555a44e5601811c660a0c08029569747c",
+    "capturado_em": "2026-09-29T10:36:15.113Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002551377",
+    "sha256": "64ba7895e0afad3371a14109a5b734546a23dc38e774d1f2b945ee63631b558e",
+    "capturado_em": "2026-09-29T10:36:15.308Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002537632",
+    "sha256": "987df033093aed60f3a4d18f3de94225f216f03d99ccb5129152e64792453b63",
+    "capturado_em": "2026-09-29T10:36:15.503Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548630",
+    "sha256": "f88d3e333edfec941ee9886fd835642f12ebfc8a94b1463422136666aa9ce791",
+    "capturado_em": "2026-09-29T10:36:15.701Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002537630",
+    "sha256": "7782024d73707c18554eed58fa851f9bdc512688e20292e2721233226f9ba8bc",
+    "capturado_em": "2026-09-29T10:36:15.888Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002550218",
+    "sha256": "5f9685edc4f51d8435f07e051e488d0d771a2b96dba8df20117d17e1e1084ddb",
+    "capturado_em": "2026-09-29T10:36:16.080Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002544094",
+    "sha256": "5c29cec35cef35f47706b3824fd1d03b963070977771ef61bb677bd0b7e63760",
+    "capturado_em": "2026-09-29T10:36:16.272Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/6/candidatos",
+    "sha256": "5a90d647ddb6329c2a1520d416058b07251125253294b1f2d5e06dce51eb58ec",
+    "capturado_em": "2026-09-29T10:36:16.434Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/7/candidatos",
+    "sha256": "517dcd3810cd15b625ea4f42c05a21ddfeeef4411de5101f0771bea91ed05bc6",
+    "capturado_em": "2026-09-29T10:36:16.443Z"
+   }
+  ],
+  "por_escopo": [
+   {
+    "escopo": "2026-presidente",
+    "fetched": 14,
+    "erros": 0,
+    "created": 0,
+    "updated": 0,
+    "unchanged": 14,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-governador",
+    "fetched": 8,
+    "erros": 0,
+    "created": 0,
+    "updated": 0,
+    "unchanged": 8,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-senador",
+    "fetched": 13,
+    "erros": 0,
+    "created": 0,
+    "updated": 0,
+    "unchanged": 13,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-deputado-federal",
+    "fetched": 231,
+    "erros": 0,
+    "created": 0,
+    "updated": 0,
+    "unchanged": 231,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-deputado-estadual",
+    "fetched": 414,
+    "erros": 0,
+    "created": 0,
+    "updated": 0,
+    "unchanged": 414,
+    "missing": 0
+   }
+  ],
+  "origem_dado": "OFFICIAL",
+  "concluido_em": "2026-09-29T10:58:10+00:00"
+ },
+ {
+  "id": "tse-candidaturas-2026-09-29T10:58:34+00:00",
+  "fonte": "TSE, DivulgaCandContas",
+  "rotulo": "TSE Candidates",
+  "iniciado_em": "2026-09-29T10:58:34+00:00",
+  "transporte": "snapshot",
+  "fetched": 680,
+  "created": 0,
+  "updated": 18,
+  "unchanged": 662,
+  "missing": 0,
+  "errors": 0,
+  "erros": [],
+  "avisos": [],
+  "snapshots": [
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/BR/20322002026/1/candidatos",
+    "sha256": "d0211b2264c19e6c7127a2494c65a1c2bf01b9b7e637656b283e269b17f6bcc8",
+    "capturado_em": "2026-09-29T10:36:09.408Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002552484",
+    "sha256": "79904505fbd0a127b1d6c0228384241fdd8b75657f801fa875b68a0ab2be6ea4",
+    "capturado_em": "2026-09-29T10:36:09.444Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551975",
+    "sha256": "2412fd42f6fbdcff0d01987e125d1b1e01a41f19fa4d02d983472525bfdaf464",
+    "capturado_em": "2026-09-29T10:36:09.642Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551547",
+    "sha256": "105039f067e489f7d3064f5164d6aae3d100afec35f3183201f94a7569fd2ddd",
+    "capturado_em": "2026-09-29T10:36:09.835Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551544",
+    "sha256": "fdb3863b0a5f96480842040ff1aca455a1ce475f9c6afc2f96c9df52226ed77f",
+    "capturado_em": "2026-09-29T10:36:10.029Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002541457",
+    "sha256": "3d21edf3dbf2e3dc18c1371a0225437abc4dcb63232e0a54bfd905c5302dfc9c",
+    "capturado_em": "2026-09-29T10:36:10.217Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002554479",
+    "sha256": "a4a32757b6bdb5fa716abe7535f85c64208d38a8b615cf24341ac5a66506dcb7",
+    "capturado_em": "2026-09-29T10:36:10.411Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002542548",
+    "sha256": "0e36084e5c9397e8093f100e4d07df0cf0a02e475d4fea64b6c78b90b81413e4",
+    "capturado_em": "2026-09-29T10:36:10.603Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002553884",
+    "sha256": "c7115c9b30cb1107684598090d2c6b1a0d379491f1f848b549f5efe4d56fb9dc",
+    "capturado_em": "2026-09-29T10:36:10.793Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002540694",
+    "sha256": "9e1b3551570eb97a25c3f9055b5448e8d5eefa486c6efdd9684cc97c10e6725f",
+    "capturado_em": "2026-09-29T10:36:10.979Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551932",
+    "sha256": "8bfc87ab1677a489fa213b89b058f0a5d7bda7d6e47af3160ed4697c247e3636",
+    "capturado_em": "2026-09-29T10:36:11.172Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002552487",
+    "sha256": "a7c1d079499fe5fb87e6779d0197619625b3d5e7a735c969ddb6e6a315c41c0d",
+    "capturado_em": "2026-09-29T10:36:11.383Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002538811",
+    "sha256": "a5b19503d8903320dbcb1c81dc97396638f73562347d9b35be3355d0e3c8ca20",
+    "capturado_em": "2026-09-29T10:36:11.604Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002548139",
+    "sha256": "592254713b594afca3d0e7f7e416cce32dce2a6cd26e8ef966f48508567d674c",
+    "capturado_em": "2026-09-29T10:36:11.823Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002539826",
+    "sha256": "40e9c3c76cfcf3724797f783dc14bc7ef5a2618933da14f552df64e7c34b506b",
+    "capturado_em": "2026-09-29T10:36:12.018Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/3/candidatos",
+    "sha256": "aeebe6afe66117148e88485dc5587a60f9df7c101749d61cc289adc6c7ec4fdf",
+    "capturado_em": "2026-09-29T10:36:12.178Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002553718",
+    "sha256": "21840c87a24da360d8fef342c1d388d99c0fc9d80ccfcb1b9147257c6fc6061a",
+    "capturado_em": "2026-09-29T10:36:12.183Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548628",
+    "sha256": "4a99a3da509ee8fbd8c2ce3178999acceeca7a081418d3d7b8325f4f9ced3ea7",
+    "capturado_em": "2026-09-29T10:36:12.378Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002551001",
+    "sha256": "52d5bc79bbdf51004af38a6283caa63da86373301bc8d945950fed67c0f2fa3c",
+    "capturado_em": "2026-09-29T10:36:12.567Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002537073",
+    "sha256": "9c12fa60c5770bc6df78ae11f2496357f669a6932473b9a3172e16db85259aea",
+    "capturado_em": "2026-09-29T10:36:12.761Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002550544",
+    "sha256": "188a271ec8a81bb43fa37bb60a16eb97ea93c8715d882e2d1641c91bde8b1cb3",
+    "capturado_em": "2026-09-29T10:36:12.952Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002544118",
+    "sha256": "e8affc65893d4afa691a5a7dc3cf9732b832f0439dbfc3da24e80710a5cb1e80",
+    "capturado_em": "2026-09-29T10:36:13.142Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541913",
+    "sha256": "c04142bc626ceeb2e4c06f095a0e5650742784bb9f61bd6bca76f0e2033be1b5",
+    "capturado_em": "2026-09-29T10:36:13.334Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002552157",
+    "sha256": "a0ac7ceac259cc7cfda6da96a6c7cc82eb713c7f3bde5690a954e3c0da036d6c",
+    "capturado_em": "2026-09-29T10:36:13.524Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/5/candidatos",
+    "sha256": "bcd6fe89b5275945c0df4a4da8a9dd74b1b5c09dc976b78a25c3cad6f6a2a559",
+    "capturado_em": "2026-09-29T10:36:13.683Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002535770",
+    "sha256": "b9bad52406ed9e83ca084d5268720e5c6e5d5b25971a300cab8fa5781385a894",
+    "capturado_em": "2026-09-29T10:36:13.719Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002539636",
+    "sha256": "ed4bbca20f83f1f55eea1d787f91ec8e22c90901b402358d7c96c18ad0a0146d",
+    "capturado_em": "2026-09-29T10:36:13.908Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541935",
+    "sha256": "37bd41cd467d35a5272ed69c216a7b9f2c6a5e37f926a2e58edd203dac5c9bb8",
+    "capturado_em": "2026-09-29T10:36:14.101Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002553005",
+    "sha256": "ad3ab6ec0c773560c9104edb22e5ea1adc653758d0b9edc0d5af707f604ea191",
+    "capturado_em": "2026-09-29T10:36:14.285Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541931",
+    "sha256": "7dc32647f0cf5877f9bc3e4fe70ffea252a2e00a00b6a86ac8b7682f95afd2c9",
+    "capturado_em": "2026-09-29T10:36:14.475Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002533898",
+    "sha256": "b73afdb8245fa3b0ea0c53b76935cf89e18f3a3888a7484dce0dcedc6a718b99",
+    "capturado_em": "2026-09-29T10:36:14.667Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548632",
+    "sha256": "acc1c9c313b2dfe0df9fa8f69d66a76555a44e5601811c660a0c08029569747c",
+    "capturado_em": "2026-09-29T10:36:15.113Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002551377",
+    "sha256": "64ba7895e0afad3371a14109a5b734546a23dc38e774d1f2b945ee63631b558e",
+    "capturado_em": "2026-09-29T10:36:15.308Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002537632",
+    "sha256": "987df033093aed60f3a4d18f3de94225f216f03d99ccb5129152e64792453b63",
+    "capturado_em": "2026-09-29T10:36:15.503Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548630",
+    "sha256": "f88d3e333edfec941ee9886fd835642f12ebfc8a94b1463422136666aa9ce791",
+    "capturado_em": "2026-09-29T10:36:15.701Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002537630",
+    "sha256": "7782024d73707c18554eed58fa851f9bdc512688e20292e2721233226f9ba8bc",
+    "capturado_em": "2026-09-29T10:36:15.888Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002550218",
+    "sha256": "5f9685edc4f51d8435f07e051e488d0d771a2b96dba8df20117d17e1e1084ddb",
+    "capturado_em": "2026-09-29T10:36:16.080Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002544094",
+    "sha256": "5c29cec35cef35f47706b3824fd1d03b963070977771ef61bb677bd0b7e63760",
+    "capturado_em": "2026-09-29T10:36:16.272Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/6/candidatos",
+    "sha256": "5a90d647ddb6329c2a1520d416058b07251125253294b1f2d5e06dce51eb58ec",
+    "capturado_em": "2026-09-29T10:36:16.434Z"
+   },
+   {
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/SC/20322002026/7/candidatos",
+    "sha256": "517dcd3810cd15b625ea4f42c05a21ddfeeef4411de5101f0771bea91ed05bc6",
+    "capturado_em": "2026-09-29T10:36:16.443Z"
+   }
+  ],
+  "por_escopo": [
+   {
+    "escopo": "2026-presidente",
+    "fetched": 14,
+    "erros": 0,
+    "created": 0,
+    "updated": 0,
+    "unchanged": 14,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-governador",
+    "fetched": 8,
+    "erros": 0,
+    "created": 0,
+    "updated": 0,
+    "unchanged": 8,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-senador",
+    "fetched": 13,
+    "erros": 0,
+    "created": 0,
+    "updated": 0,
+    "unchanged": 13,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-deputado-federal",
+    "fetched": 231,
+    "erros": 0,
+    "created": 0,
+    "updated": 9,
+    "unchanged": 222,
+    "missing": 0
+   },
+   {
+    "escopo": "2026-sc-deputado-estadual",
+    "fetched": 414,
+    "erros": 0,
+    "created": 0,
+    "updated": 9,
+    "unchanged": 405,
+    "missing": 0
+   }
+  ],
+  "origem_dado": "OFFICIAL",
+  "concluido_em": "2026-09-29T10:58:34+00:00"
+ }
+]

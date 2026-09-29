@@ -1,0 +1,82 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541931",
+ "capturado_em": "2026-09-29T10:36:14.475Z",
+ "http_status": 200,
+ "sha256": "7dc32647f0cf5877f9bc3e4fe70ffea252a2e00a00b6a86ac8b7682f95afd2c9",
+ "bytes": 10273,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 240002541931,
+  "nomeUrna": "CAROL DE TONI",
+  "nomeCompleto": "CAROLINE RODRIGUES DE TONI",
+  "numero": 221,
+  "ufCandidatura": "SC",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "FÉ NO TRABALHO E PÉ NA TÁBUA",
+  "composicaoColigacao": "REPUBLICANOS / PODE / PL / DC / NOVO / AGIR / AVANTE / FEDERAÇÃO PSDB CIDADANIA(45-PSDB/23-CIDADANIA)",
+  "descricaoTipoDrap": "Coligação",
+  "grauInstrucao": "Superior completo",
+  "ocupacao": "Deputado",
+  "nomeMunicipioNascimento": "CHAPECÓ",
+  "sgUfNascimento": "SC",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/240002541931/SC",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-18 14:39",
+  "numeroProcesso": "06006224720266240000",
+  "partido": {
+   "numero": 22,
+   "sigla": "PL",
+   "nome": "PARTIDO LIBERAL"
+  },
+  "cargo": {
+   "codigo": 5,
+   "nome": "Senador"
+  },
+  "arquivos": [],
+  "vices": [
+   {
+    "sq_CANDIDATO": 240002541933,
+    "nm_URNA": "GERALDO WETZEL NETO",
+    "ds_CARGO": "1º Suplente",
+    "sg_PARTIDO": "NOVO",
+    "nr_CANDIDATO": "221"
+   },
+   {
+    "sq_CANDIDATO": 240002541932,
+    "nm_URNA": "ANDREY TOMAZI",
+    "ds_CARGO": "2º Suplente",
+    "sg_PARTIDO": "PL",
+    "nr_CANDIDATO": "221"
+   }
+  ]
+ }
+}

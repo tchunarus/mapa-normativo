@@ -1,0 +1,81 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002550544",
+ "capturado_em": "2026-09-29T10:36:12.952Z",
+ "http_status": 200,
+ "sha256": "188a271ec8a81bb43fa37bb60a16eb97ea93c8715d882e2d1641c91bde8b1cb3",
+ "bytes": 6852,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 240002550544,
+  "nomeUrna": "LAÍS CHAUD",
+  "nomeCompleto": "LAÍS PAGANELLI CHAUD",
+  "numero": 80,
+  "ufCandidatura": "SC",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "UP",
+  "composicaoColigacao": "**",
+  "descricaoTipoDrap": "Partido Isolado",
+  "grauInstrucao": "Superior completo",
+  "ocupacao": "Psicólogo",
+  "nomeMunicipioNascimento": "PIRACICABA",
+  "sgUfNascimento": "SP",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/240002550544/SC",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-18 14:39",
+  "numeroProcesso": "06007558920266240000",
+  "partido": {
+   "numero": 80,
+   "sigla": "UP",
+   "nome": "UNIDADE POPULAR"
+  },
+  "cargo": {
+   "codigo": 3,
+   "nome": "Governador"
+  },
+  "arquivos": [
+   {
+    "idArquivo": 240017093741,
+    "nome": "PROGRAMA 80.pdf",
+    "codTipo": "5"
+   }
+  ],
+  "vices": [
+   {
+    "sq_CANDIDATO": 240002550545,
+    "nm_URNA": "NATHÁLIA MELO",
+    "ds_CARGO": "Vice-governador",
+    "sg_PARTIDO": "UP",
+    "nr_CANDIDATO": "80"
+   }
+  ]
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002548139",
+ "capturado_em": "2026-09-29T10:36:11.823Z",
+ "http_status": 200,
+ "sha256": "592254713b594afca3d0e7f7e416cce32dce2a6cd26e8ef966f48508567d674c",
+ "bytes": 8162,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 280002548139,
+  "nomeUrna": "VETERINÁRIO WILSON GRASSI",
+  "nomeCompleto": "WILSON GRASSI JUNIOR",
+  "numero": 35,
+  "ufCandidatura": "BR",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "DEMOCRATA",
+  "composicaoColigacao": "**",
+  "descricaoTipoDrap": "Partido Isolado",
+  "grauInstrucao": "Superior completo",
+  "ocupacao": "Veterinário",
+  "nomeMunicipioNascimento": "SÃO PAULO",
+  "sgUfNascimento": "SP",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/280002548139/BR",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-26 14:38",
+  "numeroProcesso": "06014440520266000000",
+  "partido": {
+   "numero": 35,
+   "sigla": "DEMOCRATA",
+   "nome": "DEMOCRATA"
+  },
+  "cargo": {
+   "codigo": 1,
+   "nome": "Presidente"
+  },
+  "arquivos": [
+   {
+    "idArquivo": 280017075366,
+    "nome": "Brasil em Primeiro Lugar.pdf",
+    "codTipo": "5"
+   }
+  ],
+  "vices": [
+   {
+    "sq_CANDIDATO": 280002548140,
+    "nm_URNA": "SUÊD HAIDAR",
+    "ds_CARGO": "Vice-presidente",
+    "sg_PARTIDO": "DEMOCRATA",
+    "nr_CANDIDATO": "35"
+   }
+  ]
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548630",
+ "capturado_em": "2026-09-29T10:36:15.701Z",
+ "http_status": 200,
+ "sha256": "f88d3e333edfec941ee9886fd835642f12ebfc8a94b1463422136666aa9ce791",
+ "bytes": 8826,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 240002548630,
+  "nomeUrna": "LUNELLI",
+  "nomeCompleto": "ANTIDIO ALEIXO LUNELLI",
+  "numero": 155,
+  "ufCandidatura": "SC",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "SANTA CATARINA ACIMA DE TUDO",
+  "composicaoColigacao": "MDB / PSD / FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "descricaoTipoDrap": "Coligação",
+  "grauInstrucao": "Ensino Médio completo",
+  "ocupacao": "Empresário",
+  "nomeMunicipioNascimento": "CORUPÁ",
+  "sgUfNascimento": "SC",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/240002548630/SC",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-18 14:39",
+  "numeroProcesso": "06007471520266240000",
+  "partido": {
+   "numero": 15,
+   "sigla": "MDB",
+   "nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO"
+  },
+  "cargo": {
+   "codigo": 5,
+   "nome": "Senador"
+  },
+  "arquivos": [],
+  "vices": [
+   {
+    "sq_CANDIDATO": 240002548629,
+    "nm_URNA": "CLENILTON",
+    "ds_CARGO": "1º Suplente",
+    "sg_PARTIDO": "UNIÃO",
+    "nr_CANDIDATO": "155"
+   },
+   {
+    "sq_CANDIDATO": 240002548633,
+    "nm_URNA": "GENESIO SPILLERE",
+    "ds_CARGO": "2º Suplente",
+    "sg_PARTIDO": "PP",
+    "nr_CANDIDATO": "155"
+   }
+  ]
+ }
+}

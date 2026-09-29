@@ -1,0 +1,11 @@
+[
+ {"id": "2026-presidente", "eleicao_id": "2026-geral", "cargo_id": "presidente", "ente": "BR", "rota": "presidente", "ordem": 1, "origem_dado": "CURATED"},
+ {"id": "2026-sc-governador", "eleicao_id": "2026-geral", "cargo_id": "governador", "ente": "SC", "rota": "sc/governador", "ordem": 2, "origem_dado": "CURATED"},
+ {"id": "2026-sc-senador", "eleicao_id": "2026-geral", "cargo_id": "senador", "ente": "SC", "rota": "sc/senador", "ordem": 3, "vagas_afirmacao_id": "vagas-2026-senado-sc", "origem_dado": "CURATED"},
+ {"id": "2026-sc-deputado-federal", "eleicao_id": "2026-geral", "cargo_id": "deputado-federal", "ente": "SC", "rota": "sc/deputado-federal", "ordem": 4, "observacao": "O número de vagas de cada Estado é fixado por lei complementar (CF, art. 45, § 1º) e publicado pelo TSE no arquivo Vagas, ainda não sincronizado por esta ferramenta.", "origem_dado": "CURATED"},
+ {"id": "2026-sc-deputado-estadual", "eleicao_id": "2026-geral", "cargo_id": "deputado-estadual", "ente": "SC", "rota": "sc/deputado-estadual", "ordem": 5, "observacao": "O número de Deputados Estaduais decorre da representação do Estado na Câmara dos Deputados (CF, art. 27) e é publicado pelo TSE no arquivo Vagas, ainda não sincronizado por esta ferramenta.", "origem_dado": "CURATED"},
+ {"id": "2028-florianopolis-prefeito", "eleicao_id": "2028-municipal", "cargo_id": "prefeito", "ente": "SC/Florianópolis", "rota": "florianopolis/prefeito", "ordem": 1, "origem_dado": "CURATED"},
+ {"id": "2028-florianopolis-vereador", "eleicao_id": "2028-municipal", "cargo_id": "vereador", "ente": "SC/Florianópolis", "rota": "florianopolis/vereador", "ordem": 2, "origem_dado": "CURATED"},
+ {"id": "2028-sao-jose-prefeito", "eleicao_id": "2028-municipal", "cargo_id": "prefeito", "ente": "SC/São José", "rota": "sao-jose/prefeito", "ordem": 3, "origem_dado": "CURATED"},
+ {"id": "2028-sao-jose-vereador", "eleicao_id": "2028-municipal", "cargo_id": "vereador", "ente": "SC/São José", "rota": "sao-jose/vereador", "ordem": 4, "origem_dado": "CURATED"}
+]

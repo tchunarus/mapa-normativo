@@ -1,0 +1,81 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551932",
+ "capturado_em": "2026-09-29T10:36:11.172Z",
+ "http_status": 200,
+ "sha256": "8bfc87ab1677a489fa213b89b058f0a5d7bda7d6e47af3160ed4697c247e3636",
+ "bytes": 10523,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 280002551932,
+  "nomeUrna": "RONALDO CAIADO",
+  "nomeCompleto": "RONALDO RAMOS CAIADO",
+  "numero": 55,
+  "ufCandidatura": "BR",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "PSD",
+  "composicaoColigacao": "**",
+  "descricaoTipoDrap": "Partido Isolado",
+  "grauInstrucao": "Superior completo",
+  "ocupacao": "Médico",
+  "nomeMunicipioNascimento": "ANÁPOLIS",
+  "sgUfNascimento": "GO",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/280002551932/BR",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-18 14:39",
+  "numeroProcesso": "06015523420266000000",
+  "partido": {
+   "numero": 55,
+   "sigla": "PSD",
+   "nome": "PARTIDO SOCIAL DEMOCRÁTICO"
+  },
+  "cargo": {
+   "codigo": 1,
+   "nome": "Presidente"
+  },
+  "arquivos": [
+   {
+    "idArquivo": 280017106566,
+    "nome": "Plano de Governo Ronaldo Caiado Presidente.pdf",
+    "codTipo": "5"
+   }
+  ],
+  "vices": [
+   {
+    "sq_CANDIDATO": 280002551933,
+    "nm_URNA": "GILBERTO KASSAB",
+    "ds_CARGO": "Vice-presidente",
+    "sg_PARTIDO": "PSD",
+    "nr_CANDIDATO": "55"
+   }
+  ]
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002541913",
+ "capturado_em": "2026-09-29T10:36:13.334Z",
+ "http_status": 200,
+ "sha256": "c04142bc626ceeb2e4c06f095a0e5650742784bb9f61bd6bca76f0e2033be1b5",
+ "bytes": 8148,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 240002541913,
+  "nomeUrna": "PROFESSOR MARCUS SODRÉ",
+  "nomeCompleto": "MARCUS ALEXANDRE SODRE",
+  "numero": 16,
+  "ufCandidatura": "SC",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "PSTU",
+  "composicaoColigacao": "**",
+  "descricaoTipoDrap": "Partido Isolado",
+  "grauInstrucao": "Superior completo",
+  "ocupacao": "Professor de Ensino Médio",
+  "nomeMunicipioNascimento": "CUBATÃO",
+  "sgUfNascimento": "SP",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/240002541913/SC",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-18 14:39",
+  "numeroProcesso": "06006051120266240000",
+  "partido": {
+   "numero": 16,
+   "sigla": "PSTU",
+   "nome": "PARTIDO SOCIALISTA  DOS TRABALHADORES UNIFICADO"
+  },
+  "cargo": {
+   "codigo": 3,
+   "nome": "Governador"
+  },
+  "arquivos": [
+   {
+    "idArquivo": 240017140305,
+    "nome": "pje-PROGRAMA DO PSTU EM SANTA CATARINA PARA AS ELEIÇÕES DE 2026 final.pdf",
+    "codTipo": "5"
+   }
+  ],
+  "vices": [
+   {
+    "sq_CANDIDATO": 240002541914,
+    "nm_URNA": "PROFESSORA TATY",
+    "ds_CARGO": "Vice-governador",
+    "sg_PARTIDO": "PSTU",
+    "nr_CANDIDATO": "16"
+   }
+  ]
+ }
+}

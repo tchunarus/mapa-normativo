@@ -1,0 +1,82 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002553005",
+ "capturado_em": "2026-09-29T10:36:14.285Z",
+ "http_status": 200,
+ "sha256": "ad3ab6ec0c773560c9104edb22e5ea1adc653758d0b9edc0d5af707f604ea191",
+ "bytes": 7680,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 240002553005,
+  "nomeUrna": "CAROL",
+  "nomeCompleto": "CAROLINE SANT ANNA",
+  "numero": 290,
+  "ufCandidatura": "SC",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "PCO",
+  "composicaoColigacao": "**",
+  "descricaoTipoDrap": "Partido Isolado",
+  "grauInstrucao": "Superior incompleto",
+  "ocupacao": "Professor de Ensino Fundamental",
+  "nomeMunicipioNascimento": "BLUMENAU",
+  "sgUfNascimento": "SC",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/240002553005/SC",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-28 08:39",
+  "numeroProcesso": "06008762020266240000",
+  "partido": {
+   "numero": 29,
+   "sigla": "PCO",
+   "nome": "PARTIDO DA CAUSA OPERÁRIA"
+  },
+  "cargo": {
+   "codigo": 5,
+   "nome": "Senador"
+  },
+  "arquivos": [],
+  "vices": [
+   {
+    "sq_CANDIDATO": 240002553004,
+    "nm_URNA": "DOMINGOS",
+    "ds_CARGO": "1º Suplente",
+    "sg_PARTIDO": "PCO",
+    "nr_CANDIDATO": "290"
+   },
+   {
+    "sq_CANDIDATO": 240002553003,
+    "nm_URNA": "GILBERTO SILVEIRA",
+    "ds_CARGO": "2º Suplente",
+    "sg_PARTIDO": "PCO",
+    "nr_CANDIDATO": "290"
+   }
+  ]
+ }
+}

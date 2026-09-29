@@ -1,0 +1,19 @@
+[
+ {
+  "id": "vagas-2026-senado-sc",
+  "tipo": "COMPUTED",
+  "confianca": "HIGH",
+  "status_revisao": "AUTO_GENERATED",
+  "valor": {
+   "vagas": 2,
+   "mandatos": [
+    "571",
+    "572"
+   ]
+  },
+  "texto": "Em 2026 estão em disputa 2 das três cadeiras de SC no Senado: são os mandatos que terminam em 31/01/2027.",
+  "criado_em": "2026-09-29T10:57:46+00:00",
+  "atualizado_em": "2026-09-29T10:57:46+00:00",
+  "origem_dado": "DERIVED"
+ }
+]

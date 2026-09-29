@@ -66,6 +66,13 @@ seguir (por exemplo, com um laço `until` que confere a data em
      como veio), `instituto`, `dispositivos`. Em matéria penal, apenas STF e STJ.
    - Rode `python3 coletor/atualizar.py --sem-rede`.
 
+   O mesmo comando `atualizar.py` roda, ao final, as etapas do Mapa Eleitoral: uma vez por
+   dia sincroniza as candidaturas do TSE e as vagas do Senado; a cada execução refaz as
+   análises de competência e publica `docs/data/eleicoes/`. Se o TSE recusar a conexão
+   (em 29/09/2026 ele respondeu HTTP 403 a requisições diretas feitas por curl), o erro fica em
+   `estado/eleicoes/ingestoes.json` e os dados da última sincronização são mantidos; não
+   tente contornar o bloqueio.
+
 4. **Publicação.** Se `git status` mostrar mudanças, faça commit no branch `main` com a
    mensagem "Atualização automática: <data e hora UTC>" e faça push. Se o push falhar,
    rode `git pull --rebase` uma vez e repita.

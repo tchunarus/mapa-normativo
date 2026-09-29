@@ -1,0 +1,18 @@
+[
+ {
+  "id": "vagas-2026-senado-sc-cf",
+  "afirmacao_id": "vagas-2026-senado-sc",
+  "fonte_id": "fonte-cf-planalto",
+  "relacao": "SUPPORTS",
+  "localizador": "art. 46, §§ 1º e 2º",
+  "origem_dado": "OFFICIAL"
+ },
+ {
+  "id": "vagas-2026-senado-sc-senado",
+  "afirmacao_id": "vagas-2026-senado-sc",
+  "fonte_id": "senado-senadores-em-exercicio",
+  "relacao": "SUPPORTS",
+  "origem_dado": "OFFICIAL",
+  "localizador": "mandatos de SC com SegundaLegislaturaDoMandato.DataFim = 2027-01-31: 571, 572"
+ }
+]

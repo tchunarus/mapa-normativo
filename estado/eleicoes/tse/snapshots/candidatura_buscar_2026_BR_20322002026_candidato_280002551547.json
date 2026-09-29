@@ -1,0 +1,86 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551547",
+ "capturado_em": "2026-09-29T10:36:09.835Z",
+ "http_status": 200,
+ "sha256": "105039f067e489f7d3064f5164d6aae3d100afec35f3183201f94a7569fd2ddd",
+ "bytes": 16863,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 280002551547,
+  "nomeUrna": "ESCRITOR AUGUSTO CURY",
+  "nomeCompleto": "AUGUSTO JORGE CURY",
+  "numero": 70,
+  "ufCandidatura": "BR",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "BRASIL DOS NOSSOS SONHOS",
+  "composicaoColigacao": "AGIR / AVANTE",
+  "descricaoTipoDrap": "Coligação",
+  "grauInstrucao": "Superior completo",
+  "ocupacao": "Escritor e Crítico",
+  "nomeMunicipioNascimento": "COLINA",
+  "sgUfNascimento": "SP",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/280002551547/BR",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-18 14:39",
+  "numeroProcesso": "06015368020266000000",
+  "partido": {
+   "numero": 70,
+   "sigla": "AVANTE",
+   "nome": "AVANTE"
+  },
+  "cargo": {
+   "codigo": 1,
+   "nome": "Presidente"
+  },
+  "arquivos": [
+   {
+    "idArquivo": 280017125643,
+    "nome": "pje-Plano de Governo - O BRASIL DOS NOSSOS SONHOS .pdf",
+    "codTipo": "5"
+   },
+   {
+    "idArquivo": 280017104778,
+    "nome": "PLANO DE GOVERNOO BRASIL DOS NOSSOS SONHOS.pdf",
+    "codTipo": "5"
+   }
+  ],
+  "vices": [
+   {
+    "sq_CANDIDATO": 280002551546,
+    "nm_URNA": "JÚLIO DELGADO",
+    "ds_CARGO": "Vice-presidente",
+    "sg_PARTIDO": "AVANTE",
+    "nr_CANDIDATO": "70"
+   }
+  ]
+ }
+}

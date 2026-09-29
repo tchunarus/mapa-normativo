@@ -1,0 +1,82 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002535770",
+ "capturado_em": "2026-09-29T10:36:13.719Z",
+ "http_status": 200,
+ "sha256": "b9bad52406ed9e83ca084d5268720e5c6e5d5b25971a300cab8fa5781385a894",
+ "bytes": 11592,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 240002535770,
+  "nomeUrna": "AFRÂNIO BOPPRÉ",
+  "nomeCompleto": "AFRANIO TADEU BOPPRE",
+  "numero": 500,
+  "ufCandidatura": "SC",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "CORAGEM PARA MUDAR",
+  "composicaoColigacao": "PDT / PSB / FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV) / FEDERAÇÃO PSOL REDE(50-PSOL/18-REDE)",
+  "descricaoTipoDrap": "Coligação",
+  "grauInstrucao": "Superior completo",
+  "ocupacao": "Vereador",
+  "nomeMunicipioNascimento": "FLORIANÓPOLIS",
+  "sgUfNascimento": "SC",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/240002535770/SC",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-18 14:39",
+  "numeroProcesso": "06002543820266240000",
+  "partido": {
+   "numero": 50,
+   "sigla": "PSOL",
+   "nome": "PARTIDO SOCIALISMO E LIBERDADE"
+  },
+  "cargo": {
+   "codigo": 5,
+   "nome": "Senador"
+  },
+  "arquivos": [],
+  "vices": [
+   {
+    "sq_CANDIDATO": 240002537629,
+    "nm_URNA": "LUCI CHOINACKI",
+    "ds_CARGO": "1º Suplente",
+    "sg_PARTIDO": "PT",
+    "nr_CANDIDATO": "500"
+   },
+   {
+    "sq_CANDIDATO": 240002537014,
+    "nm_URNA": "CIDA DA SILVA",
+    "ds_CARGO": "2º Suplente",
+    "sg_PARTIDO": "PT",
+    "nr_CANDIDATO": "500"
+   }
+  ]
+ }
+}

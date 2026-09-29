@@ -1,0 +1,722 @@
+[
+ {
+  "id": "fx-ana-ipi--presidente--cf-153-iv",
+  "analise_id": "fx-ana-ipi--presidente",
+  "regra_id": "cf-153-iv",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "04c883e2e43d",
+  "nota": "Instituir o imposto sobre produtos industrializados é competência da União.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-ipi--presidente--cf-153-p1",
+  "analise_id": "fx-ana-ipi--presidente",
+  "regra_id": "cf-153-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "04c883e2e43d",
+  "nota": "O Poder Executivo federal pode alterar as alíquotas do IPI, atendidas as condições e os limites estabelecidos em lei.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-ipi--presidente--cf-84-iv",
+  "analise_id": "fx-ana-ipi--presidente",
+  "regra_id": "cf-84-iv",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Decreto do Presidente da República",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-iptu--presidente--cf-150-i",
+  "analise_id": "fx-ana-iptu--presidente",
+  "regra_id": "cf-150-i",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-iptu--presidente--cf-156-i",
+  "analise_id": "fx-ana-iptu--presidente",
+  "regra_id": "cf-156-i",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "85e0cd7a8131",
+  "nota": "Instituir e alterar o IPTU é competência do Município, exercida por lei municipal.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-iptu--presidente--cf-29",
+  "analise_id": "fx-ana-iptu--presidente",
+  "regra_id": "cf-29",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "dd0e1bb5d829",
+  "nota": "Apresentação de projeto por Vereador, nos termos da lei orgânica.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-iptu--presidente--cf-30-i",
+  "analise_id": "fx-ana-iptu--presidente",
+  "regra_id": "cf-30-i",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Projeto de lei municipal",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-ir--presidente--cf-150-i",
+  "analise_id": "fx-ana-ir--presidente",
+  "regra_id": "cf-150-i",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-ir--presidente--cf-150-iii",
+  "analise_id": "fx-ana-ir--presidente",
+  "regra_id": "cf-150-iii",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-ir--presidente--cf-153-iii",
+  "analise_id": "fx-ana-ir--presidente",
+  "regra_id": "cf-153-iii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "04c883e2e43d",
+  "nota": "Instituir e alterar o imposto sobre a renda é competência da União, exercida por lei votada no Congresso Nacional.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-ir--presidente--cf-61",
+  "analise_id": "fx-ana-ir--presidente",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-ir--presidente--cf-62",
+  "analise_id": "fx-ana-ir--presidente",
+  "regra_id": "cf-62",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "dfeaf07064e7",
+  "nota": "Medida provisória",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-ir--presidente--cf-65",
+  "analise_id": "fx-ana-ir--presidente",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-ir--presidente--cf-66",
+  "analise_id": "fx-ana-ir--presidente",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-ir--presidente--cf-66-p4",
+  "analise_id": "fx-ana-ir--presidente",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-ir--presidente--cf-84-iii",
+  "analise_id": "fx-ana-ir--presidente",
+  "regra_id": "cf-84-iii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Apresentar projetos de lei ao Congresso Nacional; algumas matérias só podem ser propostas pelo Presidente (CF, art. 61, § 1º).",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-ir--presidente--cf-84-v",
+  "analise_id": "fx-ana-ir--presidente",
+  "regra_id": "cf-84-v",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Sancionar ou vetar, total ou parcialmente, os projetos aprovados pelo Congresso.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-reeleicao--presidente--cf-60-i",
+  "analise_id": "fx-ana-reeleicao--presidente",
+  "regra_id": "cf-60-i",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta subscrita por um terço, no mínimo, dos Deputados Federais.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-reeleicao--presidente--cf-60-ii",
+  "analise_id": "fx-ana-reeleicao--presidente",
+  "regra_id": "cf-60-ii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Propor emenda à Constituição, que depende de aprovação por três quintos nas duas Casas e não passa por sanção.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-reeleicao--presidente--cf-60-iii",
+  "analise_id": "fx-ana-reeleicao--presidente",
+  "regra_id": "cf-60-iii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta de mais da metade das Assembleias Legislativas, cada uma pela maioria relativa de seus membros.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-reeleicao--presidente--cf-60-p2",
+  "analise_id": "fx-ana-reeleicao--presidente",
+  "regra_id": "cf-60-p2",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Emendar a Constituição Federal cabe ao Congresso Nacional, por proposta aprovada em dois turnos nas duas Casas.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-reeleicao--presidente--cf-60-p3",
+  "analise_id": "fx-ana-reeleicao--presidente",
+  "regra_id": "cf-60-p3",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Promulgação pelas Mesas da Câmara e do Senado, sem sanção ou veto do Presidente da República.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-ana-reeleicao--presidente--cf-60-p4",
+  "analise_id": "fx-ana-reeleicao--presidente",
+  "regra_id": "cf-60-p4",
+  "papel": "LIMIT",
+  "hash_dispositivo": "914f96eb16dc",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-hospital--governador--ce-sc",
+  "analise_id": "fx-bruno-hospital--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-hospital--governador--cf-144-p6",
+  "analise_id": "fx-bruno-hospital--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-hospital--governador--cf-23-ii",
+  "analise_id": "fx-bruno-hospital--governador",
+  "regra_id": "cf-23-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Cuidar da saúde é competência comum; o Estado atua com sua própria rede e em cooperação com os Municípios.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-hospital--governador--cf-30-vii",
+  "analise_id": "fx-bruno-hospital--governador",
+  "regra_id": "cf-30-vii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Os Municípios prestam serviços de atendimento à saúde, com a cooperação técnica e financeira da União e do Estado.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-inss--governador--cf-22-xxiii",
+  "analise_id": "fx-bruno-inss--governador",
+  "regra_id": "cf-22-xxiii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "2225e31e6c81",
+  "nota": "Legislar sobre seguridade social é competência privativa da União.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-inss--governador--cf-61",
+  "analise_id": "fx-bruno-inss--governador",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-inss--governador--cf-65",
+  "analise_id": "fx-bruno-inss--governador",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-inss--governador--cf-66",
+  "analise_id": "fx-bruno-inss--governador",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-inss--governador--cf-66-p4",
+  "analise_id": "fx-bruno-inss--governador",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-ipva--governador--ce-sc",
+  "analise_id": "fx-bruno-ipva--governador",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar projetos de lei à Assembleia e sancioná-los ou vetá-los, nos termos da Constituição do Estado.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-ipva--governador--cf-150-i",
+  "analise_id": "fx-bruno-ipva--governador",
+  "regra_id": "cf-150-i",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-ipva--governador--cf-150-iii",
+  "analise_id": "fx-bruno-ipva--governador",
+  "regra_id": "cf-150-iii",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-ipva--governador--cf-155-iii",
+  "analise_id": "fx-bruno-ipva--governador",
+  "regra_id": "cf-155-iii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "c3593e6b50c5",
+  "nota": "Instituir e alterar o IPVA é competência do Estado, exercida por lei estadual.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-ipva--governador--cf-25",
+  "analise_id": "fx-bruno-ipva--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-policiamento--governador--ce-sc",
+  "analise_id": "fx-bruno-policiamento--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-bruno-policiamento--governador--cf-144-p6",
+  "analise_id": "fx-bruno-policiamento--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "A Polícia Militar, a quem cabem o policiamento ostensivo e a preservação da ordem pública, subordina-se ao Governador.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-ipva--senador--ce-sc",
+  "analise_id": "fx-clara-ipva--senador",
+  "regra_id": "ce-sc",
+  "papel": "PROCEDURE",
+  "nota": "Apresentação de projeto por Deputado Estadual, nos casos admitidos pela Constituição do Estado.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-ipva--senador--cf-150-i",
+  "analise_id": "fx-clara-ipva--senador",
+  "regra_id": "cf-150-i",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-ipva--senador--cf-150-iii",
+  "analise_id": "fx-clara-ipva--senador",
+  "regra_id": "cf-150-iii",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-ipva--senador--cf-155-iii",
+  "analise_id": "fx-clara-ipva--senador",
+  "regra_id": "cf-155-iii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "c3593e6b50c5",
+  "nota": "Instituir e alterar o IPVA é competência do Estado, exercida por lei estadual.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-ipva--senador--cf-25",
+  "analise_id": "fx-clara-ipva--senador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-ir--senador--cf-150-i",
+  "analise_id": "fx-clara-ir--senador",
+  "regra_id": "cf-150-i",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-ir--senador--cf-150-iii",
+  "analise_id": "fx-clara-ir--senador",
+  "regra_id": "cf-150-iii",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-ir--senador--cf-153-iii",
+  "analise_id": "fx-clara-ir--senador",
+  "regra_id": "cf-153-iii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "04c883e2e43d",
+  "nota": "Instituir e alterar o imposto sobre a renda é competência da União, exercida por lei votada no Congresso Nacional.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-ir--senador--cf-61",
+  "analise_id": "fx-clara-ir--senador",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-ir--senador--cf-65",
+  "analise_id": "fx-clara-ir--senador",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-ir--senador--cf-66",
+  "analise_id": "fx-clara-ir--senador",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-ir--senador--cf-66-p4",
+  "analise_id": "fx-clara-ir--senador",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-pec--senador--cf-60-i",
+  "analise_id": "fx-clara-pec--senador",
+  "regra_id": "cf-60-i",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Subscrever proposta de emenda à Constituição com, no mínimo, um terço dos Senadores, e votá-la.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-pec--senador--cf-60-ii",
+  "analise_id": "fx-clara-pec--senador",
+  "regra_id": "cf-60-ii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta do Presidente da República.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-pec--senador--cf-60-iii",
+  "analise_id": "fx-clara-pec--senador",
+  "regra_id": "cf-60-iii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta de mais da metade das Assembleias Legislativas, cada uma pela maioria relativa de seus membros.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-pec--senador--cf-60-p2",
+  "analise_id": "fx-clara-pec--senador",
+  "regra_id": "cf-60-p2",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Emendar a Constituição Federal cabe ao Congresso Nacional, por proposta aprovada em dois turnos nas duas Casas.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-pec--senador--cf-60-p3",
+  "analise_id": "fx-clara-pec--senador",
+  "regra_id": "cf-60-p3",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Promulgação pelas Mesas da Câmara e do Senado, sem sanção ou veto do Presidente da República.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-clara-pec--senador--cf-60-p4",
+  "analise_id": "fx-clara-pec--senador",
+  "regra_id": "cf-60-p4",
+  "papel": "LIMIT",
+  "hash_dispositivo": "914f96eb16dc",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-davi-ipi--deputado-federal--cf-153-iv",
+  "analise_id": "fx-davi-ipi--deputado-federal",
+  "regra_id": "cf-153-iv",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "04c883e2e43d",
+  "nota": "Instituir o imposto sobre produtos industrializados é competência da União.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-davi-ipi--deputado-federal--cf-153-p1",
+  "analise_id": "fx-davi-ipi--deputado-federal",
+  "regra_id": "cf-153-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "04c883e2e43d",
+  "nota": "O Poder Executivo federal pode alterar as alíquotas do IPI, atendidas as condições e os limites estabelecidos em lei.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-davi-ipi--deputado-federal--cf-84-iv",
+  "analise_id": "fx-davi-ipi--deputado-federal",
+  "regra_id": "cf-84-iv",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Decreto do Presidente da República",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-davi-penas--deputado-federal--cf-22-i",
+  "analise_id": "fx-davi-penas--deputado-federal",
+  "regra_id": "cf-22-i",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "2225e31e6c81",
+  "nota": "Legislar sobre direito penal é competência privativa da União.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-davi-penas--deputado-federal--cf-61",
+  "analise_id": "fx-davi-penas--deputado-federal",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-davi-penas--deputado-federal--cf-65",
+  "analise_id": "fx-davi-penas--deputado-federal",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-davi-penas--deputado-federal--cf-66",
+  "analise_id": "fx-davi-penas--deputado-federal",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-davi-penas--deputado-federal--cf-66-p4",
+  "analise_id": "fx-davi-penas--deputado-federal",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-davi-policlinica--deputado-federal--cf-166-p9",
+  "analise_id": "fx-davi-policlinica--deputado-federal",
+  "regra_id": "cf-166-p9",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "a2ac33c84949",
+  "nota": "Apresentar emendas individuais ao orçamento da União, dentro do limite constitucional.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-davi-policlinica--deputado-federal--cf-23-ii",
+  "analise_id": "fx-davi-policlinica--deputado-federal",
+  "regra_id": "cf-23-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Cuidar da saúde é competência comum; a União atua por seus programas e pela cooperação com Estados e Municípios.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-davi-policlinica--deputado-federal--cf-30-vii",
+  "analise_id": "fx-davi-policlinica--deputado-federal",
+  "regra_id": "cf-30-vii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Os Municípios prestam serviços de atendimento à saúde, com a cooperação técnica e financeira da União e do Estado.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-davi-policlinica--deputado-federal--cf-84-ii",
+  "analise_id": "fx-davi-policlinica--deputado-federal",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-elisa-animais--deputado-estadual--ce-sc",
+  "analise_id": "fx-elisa-animais--deputado-estadual",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar e votar projetos de lei estadual, nos termos da Constituição do Estado.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-elisa-animais--deputado-estadual--cf-24-p1",
+  "analise_id": "fx-elisa-animais--deputado-estadual",
+  "regra_id": "cf-24-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "Na legislação concorrente sobre fauna, a União edita normas gerais.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-elisa-animais--deputado-estadual--cf-24-p2",
+  "analise_id": "fx-elisa-animais--deputado-estadual",
+  "regra_id": "cf-24-p2",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "O Estado legisla de forma suplementar às normas gerais da União sobre fauna e proteção do meio ambiente.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-elisa-animais--deputado-estadual--cf-25",
+  "analise_id": "fx-elisa-animais--deputado-estadual",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-elisa-pec--deputado-estadual--cf-60-i",
+  "analise_id": "fx-elisa-pec--deputado-estadual",
+  "regra_id": "cf-60-i",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta subscrita por um terço, no mínimo, dos Deputados Federais.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-elisa-pec--deputado-estadual--cf-60-ii",
+  "analise_id": "fx-elisa-pec--deputado-estadual",
+  "regra_id": "cf-60-ii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta do Presidente da República.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-elisa-pec--deputado-estadual--cf-60-iii",
+  "analise_id": "fx-elisa-pec--deputado-estadual",
+  "regra_id": "cf-60-iii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Participar da deliberação pela qual a Assembleia Legislativa, junto com mais da metade das Assembleias do País, pode propor emenda à Constituição Federal.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-elisa-pec--deputado-estadual--cf-60-p2",
+  "analise_id": "fx-elisa-pec--deputado-estadual",
+  "regra_id": "cf-60-p2",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Emendar a Constituição Federal cabe ao Congresso Nacional, por proposta aprovada em dois turnos nas duas Casas.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-elisa-pec--deputado-estadual--cf-60-p3",
+  "analise_id": "fx-elisa-pec--deputado-estadual",
+  "regra_id": "cf-60-p3",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Promulgação pelas Mesas da Câmara e do Senado, sem sanção ou veto do Presidente da República.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-elisa-pec--deputado-estadual--cf-60-p4",
+  "analise_id": "fx-elisa-pec--deputado-estadual",
+  "regra_id": "cf-60-p4",
+  "papel": "LIMIT",
+  "hash_dispositivo": "914f96eb16dc",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-elisa-sem-fonte--deputado-estadual--ce-sc",
+  "analise_id": "fx-elisa-sem-fonte--deputado-estadual",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-elisa-sem-fonte--deputado-estadual--cf-23-ix",
+  "analise_id": "fx-elisa-sem-fonte--deputado-estadual",
+  "regra_id": "cf-23-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Promover programas de moradia e saneamento é competência comum da União, dos Estados e dos Municípios.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "fx-elisa-tarifa--deputado-estadual--cf-30-v",
+  "analise_id": "fx-elisa-tarifa--deputado-estadual",
+  "regra_id": "cf-30-v",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Organizar e prestar o transporte coletivo urbano é competência do Município.",
+  "origem_dado": "DEVELOPMENT_FIXTURE"
+ }
+]

@@ -1,0 +1,81 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002544118",
+ "capturado_em": "2026-09-29T10:36:13.142Z",
+ "http_status": 200,
+ "sha256": "e8affc65893d4afa691a5a7dc3cf9732b832f0439dbfc3da24e80710a5cb1e80",
+ "bytes": 8618,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 240002544118,
+  "nomeUrna": "MARCELO BRIGADEIRO",
+  "nomeCompleto": "MARCELO MARCEL FRANCO JOSE DA SILVA",
+  "numero": 14,
+  "ufCandidatura": "SC",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "MISSÃO",
+  "composicaoColigacao": "**",
+  "descricaoTipoDrap": "Partido Isolado",
+  "grauInstrucao": "Superior completo",
+  "ocupacao": "Empresário",
+  "nomeMunicipioNascimento": "RIO DE JANEIRO",
+  "sgUfNascimento": "RJ",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/240002544118/SC",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-18 14:39",
+  "numeroProcesso": "06007039320266240000",
+  "partido": {
+   "numero": 14,
+   "sigla": "MISSÃO",
+   "nome": "PARTIDO MISSÃO"
+  },
+  "cargo": {
+   "codigo": 3,
+   "nome": "Governador"
+  },
+  "arquivos": [
+   {
+    "idArquivo": 240017031822,
+    "nome": "17854436226375Lm60bSKLcompacted.pdf",
+    "codTipo": "5"
+   }
+  ],
+  "vices": [
+   {
+    "sq_CANDIDATO": 240002544117,
+    "nm_URNA": "CORONEL RODRIGUES",
+    "ds_CARGO": "Vice-governador",
+    "sg_PARTIDO": "MISSÃO",
+    "nr_CANDIDATO": "14"
+   }
+  ]
+ }
+}

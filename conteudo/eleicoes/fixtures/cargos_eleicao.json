@@ -1,0 +1,7 @@
+[
+ {"id": "demo-presidente", "eleicao_id": "demo", "cargo_id": "presidente", "ente": "BR", "rota": "presidente", "ordem": 1},
+ {"id": "demo-sc-governador", "eleicao_id": "demo", "cargo_id": "governador", "ente": "SC", "rota": "sc/governador", "ordem": 2},
+ {"id": "demo-sc-senador", "eleicao_id": "demo", "cargo_id": "senador", "ente": "SC", "rota": "sc/senador", "ordem": 3},
+ {"id": "demo-sc-deputado-federal", "eleicao_id": "demo", "cargo_id": "deputado-federal", "ente": "SC", "rota": "sc/deputado-federal", "ordem": 4},
+ {"id": "demo-sc-deputado-estadual", "eleicao_id": "demo", "cargo_id": "deputado-estadual", "ente": "SC", "rota": "sc/deputado-estadual", "ordem": 5}
+]

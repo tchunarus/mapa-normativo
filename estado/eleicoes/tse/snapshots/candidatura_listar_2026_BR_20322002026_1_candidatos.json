@@ -1,0 +1,254 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/BR/20322002026/1/candidatos",
+ "capturado_em": "2026-09-29T10:36:09.408Z",
+ "http_status": 200,
+ "sha256": "d0211b2264c19e6c7127a2494c65a1c2bf01b9b7e637656b283e269b17f6bcc8",
+ "bytes": 33712,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "numero",
+  "nomeCompleto",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "partido.sigla",
+  "st_REELEICAO",
+  "candidatoApto",
+  "ufCandidatura"
+ ],
+ "corpo": {
+  "unidadeEleitoral": {
+   "id": null,
+   "sigla": "BR",
+   "nome": "BRASIL",
+   "regiao": null,
+   "cargos": null,
+   "diretorios": null,
+   "codigo": "BR",
+   "capital": false,
+   "estado": null
+  },
+  "cargo": {
+   "codigo": 1,
+   "sigla": null,
+   "nome": "Presidente",
+   "codSuperior": 0,
+   "titular": false,
+   "contagem": 0
+  },
+  "candidatos": [
+   {
+    "id": 280002552484,
+    "nomeUrna": "CLARIANA BARAO",
+    "numero": 27,
+    "nomeCompleto": "CLARIANA ZACARKIM BARAO",
+    "descricaoSituacao": "Deferido",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "DC",
+    "st_REELEICAO": false,
+    "candidatoApto": true,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "DC"
+    }
+   },
+   {
+    "id": 280002551975,
+    "nomeUrna": "EDMILSON COSTA",
+    "numero": 21,
+    "nomeCompleto": "EDMILSON SILVA COSTA",
+    "descricaoSituacao": "Deferido",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "PCB",
+    "st_REELEICAO": false,
+    "candidatoApto": true,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "PCB"
+    }
+   },
+   {
+    "id": 280002551547,
+    "nomeUrna": "ESCRITOR AUGUSTO CURY",
+    "numero": 70,
+    "nomeCompleto": "AUGUSTO JORGE CURY",
+    "descricaoSituacao": "Deferido",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "BRASIL DOS NOSSOS SONHOS",
+    "st_REELEICAO": false,
+    "candidatoApto": true,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "AVANTE"
+    }
+   },
+   {
+    "id": 280002551544,
+    "nomeUrna": "FLAVIO BOLSONARO",
+    "numero": 22,
+    "nomeCompleto": "FLAVIO NANTES BOLSONARO",
+    "descricaoSituacao": "Deferido",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "PL",
+    "st_REELEICAO": false,
+    "candidatoApto": true,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "PL"
+    }
+   },
+   {
+    "id": 280002541457,
+    "nomeUrna": "HERTZ DIAS",
+    "numero": 16,
+    "nomeCompleto": "HERTZ DA CONCEICAO DIAS",
+    "descricaoSituacao": "Deferido",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "PSTU",
+    "st_REELEICAO": false,
+    "candidatoApto": true,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "PSTU"
+    }
+   },
+   {
+    "id": 280002554479,
+    "nomeUrna": "LEONARDO AVALANCHE",
+    "numero": 28,
+    "nomeCompleto": "LEONARDO ALVES DE ARAUJO",
+    "descricaoSituacao": "Pendente de julgamento",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "PRTB",
+    "st_REELEICAO": false,
+    "candidatoApto": true,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "PRTB"
+    }
+   },
+   {
+    "id": 280002542548,
+    "nomeUrna": "LULA",
+    "numero": 13,
+    "nomeCompleto": "LUIZ INÁCIO LULA DA SILVA",
+    "descricaoSituacao": "Deferido",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "BRASIL PRONTO PRA MAIS",
+    "st_REELEICAO": false,
+    "candidatoApto": true,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "PT"
+    }
+   },
+   {
+    "id": 280002553884,
+    "nomeUrna": "PABLO MARÇAL",
+    "numero": 28,
+    "nomeCompleto": "PABLO HENRIQUE COSTA MARCAL",
+    "descricaoSituacao": "Indeferido",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "PRTB",
+    "st_REELEICAO": false,
+    "candidatoApto": false,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "PRTB"
+    }
+   },
+   {
+    "id": 280002540694,
+    "nomeUrna": "RENAN SANTOS",
+    "numero": 14,
+    "nomeCompleto": "RENAN ANTONIO FERREIRA DOS SANTOS",
+    "descricaoSituacao": "Deferido",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "MISSÃO",
+    "st_REELEICAO": false,
+    "candidatoApto": true,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "MISSÃO"
+    }
+   },
+   {
+    "id": 280002551932,
+    "nomeUrna": "RONALDO CAIADO",
+    "numero": 55,
+    "nomeCompleto": "RONALDO RAMOS CAIADO",
+    "descricaoSituacao": "Deferido",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "PSD",
+    "st_REELEICAO": false,
+    "candidatoApto": true,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "PSD"
+    }
+   },
+   {
+    "id": 280002552487,
+    "nomeUrna": "RUI COSTA PIMENTA",
+    "numero": 29,
+    "nomeCompleto": "RUI COSTA PIMENTA",
+    "descricaoSituacao": "Deferido",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "PCO",
+    "st_REELEICAO": false,
+    "candidatoApto": true,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "PCO"
+    }
+   },
+   {
+    "id": 280002538811,
+    "nomeUrna": "SAMARA",
+    "numero": 80,
+    "nomeCompleto": "SAMARA MARTINS DA SILVA FEITOSA",
+    "descricaoSituacao": "Deferido",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "UP",
+    "st_REELEICAO": false,
+    "candidatoApto": true,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "UP"
+    }
+   },
+   {
+    "id": 280002548139,
+    "nomeUrna": "VETERINÁRIO WILSON GRASSI",
+    "numero": 35,
+    "nomeCompleto": "WILSON GRASSI JUNIOR",
+    "descricaoSituacao": "Deferido",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "DEMOCRATA",
+    "st_REELEICAO": false,
+    "candidatoApto": true,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "DEMOCRATA"
+    }
+   },
+   {
+    "id": 280002539826,
+    "nomeUrna": "ZEMA",
+    "numero": 30,
+    "nomeCompleto": "ROMEU ZEMA NETO",
+    "descricaoSituacao": "Deferido",
+    "descricaoTotalizacao": "Concorrendo",
+    "nomeColigacao": "NOVO",
+    "st_REELEICAO": false,
+    "candidatoApto": true,
+    "ufCandidatura": "BR",
+    "partido": {
+     "sigla": "NOVO"
+    }
+   }
+  ]
+ }
+}

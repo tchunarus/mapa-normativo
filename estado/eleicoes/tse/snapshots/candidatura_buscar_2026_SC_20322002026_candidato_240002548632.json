@@ -1,0 +1,82 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002548632",
+ "capturado_em": "2026-09-29T10:36:15.113Z",
+ "http_status": 200,
+ "sha256": "acc1c9c313b2dfe0df9fa8f69d66a76555a44e5601811c660a0c08029569747c",
+ "bytes": 14428,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 240002548632,
+  "nomeUrna": "ESPERIDIÃO AMIN",
+  "nomeCompleto": "ESPERIDIAO AMIN HELOU FILHO",
+  "numero": 111,
+  "ufCandidatura": "SC",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "SANTA CATARINA ACIMA DE TUDO",
+  "composicaoColigacao": "MDB / PSD / FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "descricaoTipoDrap": "Coligação",
+  "grauInstrucao": "Superior completo",
+  "ocupacao": "Professor de Ensino Superior",
+  "nomeMunicipioNascimento": "FLORIANÓPOLIS",
+  "sgUfNascimento": "SC",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/240002548632/SC",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-18 14:39",
+  "numeroProcesso": "06007515220266240000",
+  "partido": {
+   "numero": 11,
+   "sigla": "PP",
+   "nome": "PROGRESSISTAS"
+  },
+  "cargo": {
+   "codigo": 5,
+   "nome": "Senador"
+  },
+  "arquivos": [],
+  "vices": [
+   {
+    "sq_CANDIDATO": 240002548634,
+    "nm_URNA": "VOLNEI WEBER",
+    "ds_CARGO": "1º Suplente",
+    "sg_PARTIDO": "MDB",
+    "nr_CANDIDATO": "111"
+   },
+   {
+    "sq_CANDIDATO": 240002548631,
+    "nm_URNA": "ENI VOLTOLINI",
+    "ds_CARGO": "2º Suplente",
+    "sg_PARTIDO": "PP",
+    "nr_CANDIDATO": "111"
+   }
+  ]
+ }
+}

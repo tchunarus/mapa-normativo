@@ -7,6 +7,9 @@ Peças:
   web/app_css.html   estilo do app (a <style> completa)
   web/app_body.html  corpo da página, com o script embutido
   web/logo.txt       logo do escritório em data URI, colado onde %%LOGO%% aparece em app_body.html
+  web/eleicoes_css.html   estilo do Mapa Eleitoral
+  web/eleicoes_filtros.js funções puras de rota, filtro e paginação do Mapa Eleitoral (testadas em testes/js/)
+  web/eleicoes.js         interface do Mapa Eleitoral, registrada como módulo do app
 
 Não editar docs/index.html diretamente: ele é gerado. Editar as peças em web/ e rodar este script.
 """
@@ -31,7 +34,9 @@ def montar():
     body = ler('app_body.html')
     logo = ler('logo.txt').strip()
     body = body.replace('%%LOGO%%', logo)
-    pagina = f"{head}\n{RESET}\n{css}\n</head><body>\n{body}\n</body></html>"
+    css += '\n' + ler('eleicoes_css.html')
+    modulos = ''.join(f'<script>\n{ler(n)}\n</script>\n' for n in ('eleicoes_filtros.js', 'eleicoes.js'))
+    pagina = f"{head}\n{RESET}\n{css}\n</head><body>\n{body}\n{modulos}</body></html>"
     if '—' in pagina:
         raise SystemExit('Travessão encontrado na página montada; corrija antes de publicar.')
     with open(OUT, 'w', encoding='utf-8') as f:

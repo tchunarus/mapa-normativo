@@ -1,0 +1,82 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002539636",
+ "capturado_em": "2026-09-29T10:36:13.908Z",
+ "http_status": 200,
+ "sha256": "ed4bbca20f83f1f55eea1d787f91ec8e22c90901b402358d7c96c18ad0a0146d",
+ "bytes": 7729,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 240002539636,
+  "nomeUrna": "ANA LUCIA DA SILVEIRA MACHADO",
+  "nomeCompleto": "ANA LUCIA DA SILVEIRA MACHADO",
+  "numero": 800,
+  "ufCandidatura": "SC",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "UP",
+  "composicaoColigacao": "**",
+  "descricaoTipoDrap": "Partido Isolado",
+  "grauInstrucao": "Superior completo",
+  "ocupacao": "Professor de Ensino Médio",
+  "nomeMunicipioNascimento": "QUARAÍ",
+  "sgUfNascimento": "RS",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/240002539636/SC",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-18 14:39",
+  "numeroProcesso": "06005445320266240000",
+  "partido": {
+   "numero": 80,
+   "sigla": "UP",
+   "nome": "UNIDADE POPULAR"
+  },
+  "cargo": {
+   "codigo": 5,
+   "nome": "Senador"
+  },
+  "arquivos": [],
+  "vices": [
+   {
+    "sq_CANDIDATO": 240002539638,
+    "nm_URNA": "JAQUELINE ALMEIDA CAMARGO",
+    "ds_CARGO": "1º Suplente",
+    "sg_PARTIDO": "UP",
+    "nr_CANDIDATO": "800"
+   },
+   {
+    "sq_CANDIDATO": 240002539637,
+    "nm_URNA": "JORGE LUIZ ADÃO",
+    "ds_CARGO": "2º Suplente",
+    "sg_PARTIDO": "UP",
+    "nr_CANDIDATO": "800"
+   }
+  ]
+ }
+}

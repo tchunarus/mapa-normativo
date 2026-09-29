@@ -1,0 +1,81 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002551975",
+ "capturado_em": "2026-09-29T10:36:09.642Z",
+ "http_status": 200,
+ "sha256": "2412fd42f6fbdcff0d01987e125d1b1e01a41f19fa4d02d983472525bfdaf464",
+ "bytes": 8822,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 280002551975,
+  "nomeUrna": "EDMILSON COSTA",
+  "nomeCompleto": "EDMILSON SILVA COSTA",
+  "numero": 21,
+  "ufCandidatura": "BR",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "PCB",
+  "composicaoColigacao": "**",
+  "descricaoTipoDrap": "Partido Isolado",
+  "grauInstrucao": "Superior completo",
+  "ocupacao": "Aposentado (Exceto Servidor Público)",
+  "nomeMunicipioNascimento": "PEDREIRAS",
+  "sgUfNascimento": "MA",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/280002551975/BR",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-18 14:39",
+  "numeroProcesso": "06015471220266000000",
+  "partido": {
+   "numero": 21,
+   "sigla": "PCB",
+   "nome": "PARTIDO COMUNISTA BRASILEIRO"
+  },
+  "cargo": {
+   "codigo": 1,
+   "nome": "Presidente"
+  },
+  "arquivos": [
+   {
+    "idArquivo": 280017107286,
+    "nome": "Programa Politico do PCB eleicoes 20261.pdf",
+    "codTipo": "5"
+   }
+  ],
+  "vices": [
+   {
+    "sq_CANDIDATO": 280002551976,
+    "nm_URNA": "CLEUSA SANTOS",
+    "ds_CARGO": "Vice-presidente",
+    "sg_PARTIDO": "PCB",
+    "nr_CANDIDATO": "21"
+   }
+  ]
+ }
+}

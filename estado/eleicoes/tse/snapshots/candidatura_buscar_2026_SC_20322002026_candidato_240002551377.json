@@ -1,0 +1,82 @@
+{
+ "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/SC/20322002026/candidato/240002551377",
+ "capturado_em": "2026-09-29T10:36:15.308Z",
+ "http_status": 200,
+ "sha256": "64ba7895e0afad3371a14109a5b734546a23dc38e774d1f2b945ee63631b558e",
+ "bytes": 14703,
+ "via": "captura no navegador (API pública do DivulgaCandContas), importada por importar_captura.py",
+ "campos_selecionados": [
+  "id",
+  "nomeUrna",
+  "nomeCompleto",
+  "numero",
+  "partido",
+  "cargo",
+  "ufCandidatura",
+  "descricaoSituacao",
+  "descricaoTotalizacao",
+  "nomeColigacao",
+  "composicaoColigacao",
+  "descricaoTipoDrap",
+  "grauInstrucao",
+  "ocupacao",
+  "nomeMunicipioNascimento",
+  "sgUfNascimento",
+  "st_REELEICAO",
+  "candidatoApto",
+  "fotoUrl",
+  "fotoUrlPublicavel",
+  "dataUltimaAtualizacao",
+  "numeroProcesso",
+  "arquivos (só Proposta de Governo)",
+  "vices (nome, cargo, partido, número)"
+ ],
+ "corpo": {
+  "id": 240002551377,
+  "nomeUrna": "JEFERSON ROCHA",
+  "nomeCompleto": "JEFERSON DA ROCHA",
+  "numero": 250,
+  "ufCandidatura": "SC",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Concorrendo",
+  "nomeColigacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(25-PRD/77-SOLIDARIEDADE)",
+  "composicaoColigacao": "**",
+  "descricaoTipoDrap": "Federação",
+  "grauInstrucao": "Superior completo",
+  "ocupacao": "Produtor Agropecuário",
+  "nomeMunicipioNascimento": "LAGES",
+  "sgUfNascimento": "SC",
+  "st_REELEICAO": false,
+  "candidatoApto": true,
+  "fotoUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/240002551377/SC",
+  "fotoUrlPublicavel": true,
+  "dataUltimaAtualizacao": "2026-09-18 14:39",
+  "numeroProcesso": "06008692820266240000",
+  "partido": {
+   "numero": 25,
+   "sigla": "PRD",
+   "nome": "PARTIDO RENOVACAO DEMOCRATICA"
+  },
+  "cargo": {
+   "codigo": 5,
+   "nome": "Senador"
+  },
+  "arquivos": [],
+  "vices": [
+   {
+    "sq_CANDIDATO": 240002551376,
+    "nm_URNA": "CAMILA ZIMMER",
+    "ds_CARGO": "1º Suplente",
+    "sg_PARTIDO": "SOLIDARIEDADE",
+    "nr_CANDIDATO": "250"
+   },
+   {
+    "sq_CANDIDATO": 240002551378,
+    "nm_URNA": "JEANN LISBOA",
+    "ds_CARGO": "2º Suplente",
+    "sg_PARTIDO": "SOLIDARIEDADE",
+    "nr_CANDIDATO": "250"
+   }
+  ]
+ }
+}
