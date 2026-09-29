@@ -3687,5 +3687,205 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T10:23:02+00:00"
+ },
+ {
+  "de": "cc.1690",
+  "para": "ctn.134",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O CTN, art. 134, inciso I, atribui aos pais responsabilidade solidária pelos tributos devidos pelos filhos menores nos atos em que intervierem, consequência tributária do poder de representação que o CC, art. 1.690, confere aos pais sobre os filhos menores de dezesseis anos. São institutos conexos, a representação civil e a responsabilidade tributária de terceiro, e não o mesmo instituto, pois o CTN não regula a representação em si, apenas dela extrai efeito fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cc.1690",
+  "para": "floripa_ctm.42",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O CTM de Florianópolis, art. 42, inciso I, reproduz no âmbito municipal a responsabilidade solidária dos pais pelos tributos devidos pelos filhos menores nos atos em que intervierem, efeito tributário decorrente do poder de representação dos pais sobre os filhos menores de dezesseis anos estabelecido no CC, art. 1.690. São institutos conexos, não o mesmo instituto, pois o CTM não disciplina a representação civil, apenas a responsabilidade tributária dela decorrente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cc.1690",
+  "para": "d9580.22",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O RIR/2018, art. 22, inciso I, impõe aos pais responsabilidade solidária pelo imposto sobre a renda devido pelos filhos menores nos atos em que intervierem, efeito tributário federal específico do poder de representação dos pais sobre os filhos menores de dezesseis anos previsto no CC, art. 1.690. São institutos conexos, a representação civil e a responsabilidade tributária, não o mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cc.1690",
+  "para": "d9580.1034",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O RIR/2018, art. 1.034, parágrafo único, dispõe que os menores serão representados por seus pais ou por representante legal para fins de obrigações perante o fisco federal, aplicando no âmbito tributário o mesmo instituto da representação legal dos filhos menores de dezesseis anos pelos pais disciplinado no CC, art. 1.690.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cc.1692",
+  "para": "cpc.671",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 671, inciso II, especializa para a partilha em inventário a regra geral do CC, art. 1.692, que determina a nomeação de curador especial sempre que colidir o interesse dos pais com o do filho no exercício do poder familiar, aplicando o mesmo instituto da colisão de interesses entre representante e representado ao concurso do filho incapaz com seu representante na partilha de bens.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cc.1692",
+  "para": "cpp.33",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CPP, art. 33, especializa para o exercício do direito de queixa em matéria penal a regra geral do CC, art. 1.692, ao prever que, colidindo os interesses do ofendido menor com os de seu representante legal, o direito de queixa será exercido por curador especial nomeado pelo juiz, aplicando o mesmo instituto da colisão de interesses entre pais e filho que enseja a nomeação de curador especial no exercício do poder familiar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cc.1696",
+  "para": "l8213.114",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "A Lei 8.213/91, art. 114, excepciona a regra geral de impenhorabilidade do benefício previdenciário justamente quando a dívida decorrer da obrigação de prestar alimentos reconhecida em sentença judicial, obrigação que tem fundamento no direito recíproco a alimentos entre pais, filhos e ascendentes previsto no CC, art. 1.696. São institutos conexos, a impenhorabilidade de benefício previdenciário e o direito a alimentos, e não o mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cc.1696",
+  "para": "ec132.8",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A EC 132/2023, art. 8º, institui a Cesta Básica Nacional de Alimentos, matéria tributária relativa ao direito à alimentação, sem qualquer relação de conteúdo com o direito a alimentos entre pais, filhos e ascendentes disciplinado no CC, art. 1.696. Há risco real de confusão terminológica entre alimentação e alimentos, institutos que não se relacionam entre si além do ponto de contato da raiz da palavra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cc.1696",
+  "para": "cpc.531",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O CPC, art. 531, disciplina o procedimento de execução dos alimentos definitivos ou provisórios, tratando-se do procedimento processual do direito material a alimentos entre pais, filhos e ascendentes previsto no CC, art. 1.696. São institutos conexos, o direito material a alimentos e o procedimento de sua execução, não o mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cc.974",
+  "para": "l8934.35",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A Lei 8.934/94, art. 35, inciso I, veda o arquivamento de documentos que não obedecerem às prescrições legais, regra que complementa, no âmbito do registro público de empresas mercantis, as condições fixadas pelo CC, art. 974, § 3º, para o arquivamento de contratos ou alterações contratuais de sociedade que envolvam sócio incapaz. São institutos conexos, a disciplina civil da participação do incapaz na sociedade e a disciplina registral do arquivamento de atos societários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "clt.424",
+  "para": "cf.205",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A CF, art. 205, estabelece a educação como direito de todos e dever do Estado e da família, voltada ao pleno desenvolvimento da pessoa. A CLT, art. 424, complementa esse dever ao impor aos responsáveis legais de menores a obrigação de afastá-los de empregos que reduzam consideravelmente seu tempo de estudo ou prejudiquem sua educação moral. São institutos conexos, o dever geral de promoção da educação e o dever específico de proteção do menor trabalhador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "clt.424",
+  "para": "cc.1630",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O CC, art. 1.630, estabelece que os filhos estão sujeitos ao poder familiar enquanto menores. A CLT, art. 424, complementa esse instituto ao impor aos pais, mães ou tutores, no exercício desse poder familiar, o dever específico de afastar os menores de empregos que prejudiquem seu tempo de estudo, seu repouso ou sua educação moral. São institutos conexos, o poder familiar em geral e o dever específico de proteção do menor no trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "clt.477",
+  "para": "l8036.14",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "A Lei 8.036/90, art. 14, § 1º, remete expressamente aos arts. 477, 478 e 497 da CLT para reger a rescisão sem justa causa pelo empregador do trabalhador não optante do FGTS anterior a 5 de outubro de 1988, tratando-se do mesmo instituto da extinção do contrato de trabalho e do pagamento das verbas rescisórias disciplinado na CLT, art. 477.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "clt.477",
+  "para": "l8036.18",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A Lei 8.036/90, art. 18, complementa a CLT, art. 477, ao impor ao empregador, na rescisão do contrato de trabalho, o depósito dos valores do FGTS referentes ao mês da rescisão e ao mês imediatamente anterior, além do depósito de quarenta por cento na despedida sem justa causa, obrigações patronais que se somam ao pagamento das verbas rescisórias e à anotação na CTPS de que trata a CLT, art. 477. São institutos conexos, o conjunto de verbas rescisórias e o depósito do FGTS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "clt.477",
+  "para": "cf.239",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A CLT, art. 477, § 10, dispõe que a anotação da extinção do contrato na CTPS é documento hábil para requerer o benefício do seguro-desemprego. A CF, art. 239, complementa esse instituto ao definir a fonte de financiamento do programa do seguro-desemprego, cujo acesso pelo trabalhador dispensado depende da comunicação e da anotação de que trata a CLT, art. 477. São institutos conexos, a extinção do contrato de trabalho e o financiamento do seguro-desemprego.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "clt.507-B",
+  "para": "cc.319",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O CC, art. 319, estabelece o direito geral do devedor que paga a receber quitação regular. A CLT, art. 507-B, especializa esse instituto no âmbito trabalhista, criando o termo de quitação anual de obrigações trabalhistas firmado perante o sindicato da categoria, com eficácia liberatória das parcelas nele especificadas. São institutos conexos, o direito geral à quitação e a modalidade formal trabalhista de quitação anual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cpc.546",
+  "para": "cc.335",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CC, art. 335, estabelece as hipóteses de cabimento da consignação em pagamento, entre elas a recusa injusta do credor em receber o pagamento ou dar quitação na devida forma. O CPC, art. 546, disciplina o procedimento dessa mesma ação de consignação em pagamento, determinando que, julgado procedente o pedido, o juiz declare extinta a obrigação e condene o réu ao pagamento de custas e honorários advocatícios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cpc.546",
+  "para": "cc.343",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O CC, art. 343, dispõe que as despesas com o depósito, julgado procedente, correm à conta do credor. O CPC, art. 546, complementa esse mesmo instituto da consignação em pagamento ao especificar que a condenação do réu, na procedência do pedido, abrange também os honorários advocatícios, além das despesas gerais de que trata o dispositivo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cpc.546",
+  "para": "cc.339",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O CC, art. 339, dispõe que, julgado procedente o depósito, o devedor não poderá levantá-lo senão de acordo com os demais devedores e fiadores. O CPC, art. 546, complementa esse mesmo regime da consignação em pagamento ao definir a consequência processual da procedência do pedido quanto à extinção da obrigação e à condenação em custas e honorários advocatícios, aspecto diverso, mas do mesmo instituto, do levantamento do depósito de que trata o dispositivo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cpc.546",
+  "para": "l8245.67",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "A Lei 8.245/91, art. 67, especializa para as ações de consignação em pagamento de aluguéis e acessórios da locação o procedimento genérico da consignação em pagamento de que trata o CPC, notadamente o art. 546, que determina a extinção da obrigação e a condenação em custas e honorários quando julgado procedente o pedido. São institutos conexos, o procedimento geral e a modalidade especial da consignação locatícia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T11:27:35+00:00"
  }
 ]
