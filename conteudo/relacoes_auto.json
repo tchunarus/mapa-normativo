@@ -4427,5 +4427,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T20:18:17+00:00"
+ },
+ {
+  "de": "cpc.902",
+  "para": "cc.1499",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 1.499 do CC inclui a remição entre as causas de extinção da hipoteca. O art. 902 do CPC disciplina o procedimento dessa remição ao permitir que o executado hipotecário remia o bem até a assinatura do auto de arrematação, oferecendo preço igual ao do maior lance oferecido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T21:20:18+00:00"
+ },
+ {
+  "de": "cc.1499",
+  "para": "cpc.924",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O inciso IV do art. 1.499 do CC lista a renúncia do credor entre as causas de extinção da hipoteca, e o inciso IV do art. 924 do CPC lista a renúncia do exequente ao crédito entre as causas de extinção da execução. Os dispositivos tratam de institutos distintos, a extinção do direito real de garantia e a extinção do processo executivo, apesar da semelhança das causas enumeradas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T21:20:18+00:00"
+ },
+ {
+  "de": "cpc.761",
+  "para": "cc.1741",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.741 do CC impõe ao tutor o dever de administrar os bens do tutelado com zelo e boa-fé, sob a inspeção do juiz. O art. 761 do CPC complementa esse regime ao atribuir ao Ministério Público ou a quem tenha legítimo interesse a iniciativa de requerer a remoção do tutor que descumprir esse dever.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T21:20:18+00:00"
+ },
+ {
+  "de": "cc.1741",
+  "para": "cpc.618",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.741 do CC impõe ao tutor o dever de administrar os bens do tutelado com zelo e boa-fé. O inciso II do art. 618 do CPC impõe ao inventariante dever semelhante de administrar o espólio com a mesma diligência que teria se os bens fossem seus, mas os regimes de tutela e de inventariança não se confundem quanto aos seus pressupostos e à sua extensão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T21:20:18+00:00"
+ },
+ {
+  "de": "cc.1745",
+  "para": "cpc.300",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O parágrafo único do art. 1.745 do CC permite ao juiz condicionar o exercício da tutela à prestação de caução, dispensável se o tutor for de reconhecida idoneidade. O § 1º do art. 300 do CPC trata de caução para a concessão da tutela de urgência processual, dispensável se a parte for economicamente hipossuficiente, instituto distinto que não deve ser confundido com a tutela de menores apesar do termo comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T21:20:18+00:00"
+ },
+ {
+  "de": "cpc.48",
+  "para": "cc.1785",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.785 do CC fixa o último domicílio do falecido como o lugar de abertura da sucessão. O art. 48 do CPC complementa esse critério ao atribuir ao foro desse mesmo domicílio a competência para o inventário, a partilha e as ações em que o espólio for réu, com regras subsidiárias para a falta de domicílio certo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T21:20:18+00:00"
+ },
+ {
+  "de": "cc.1785",
+  "para": "cpc.110",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.785 do CC trata da abertura da sucessão hereditária no domicílio do falecido. O art. 110 do CPC trata da sucessão processual da parte falecida pelo espólio ou pelos seus sucessores. Os dois dispositivos empregam o termo sucessão em sentidos distintos, a transmissão da herança e a substituição da parte no processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T21:20:18+00:00"
+ },
+ {
+  "de": "cpc.615",
+  "para": "cc.1796",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.796 do CC fixa o prazo para a instauração do inventário do patrimônio hereditário. O art. 615 do CPC disciplina o procedimento ao atribuir esse requerimento a quem estiver na posse e na administração do espólio, instruído com a certidão de óbito do autor da herança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T21:20:18+00:00"
+ },
+ {
+  "de": "cpc.889",
+  "para": "cc.1369",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "Os incisos III e IV do art. 889 do CPC determinam a cientificação do titular do direito de superfície e do proprietário do terreno gravado quando a penhora recair sobre esse direito real. O art. 1.369 do CC define o direito de superfície como a concessão, pelo proprietário, do direito de construir ou de plantar em seu terreno, mediante escritura pública registrada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T21:20:18+00:00"
+ },
+ {
+  "de": "cpc.889",
+  "para": "cc.1373",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.373 do CC assegura ao superficiário e ao proprietário direito de preferência em igualdade de condições na alienação do imóvel ou do direito de superfície. O art. 889 do CPC complementa esse direito ao impor a cientificação prévia desses titulares quando a penhora recair sobre bem gravado com direito de superfície, viabilizando o exercício da preferência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T21:20:18+00:00"
+ },
+ {
+  "de": "cpc.906",
+  "para": "cc.338",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 906 do CPC trata do levantamento, pelo exequente, do valor depositado para a satisfação da execução. O art. 338 do CC trata do levantamento do depósito pelo devedor na consignação em pagamento, enquanto o credor não o aceitar nem o impugnar, hipótese distinta que não deve ser confundida com aquela apesar do termo comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T21:20:18+00:00"
+ },
+ {
+  "de": "lef.20",
+  "para": "cpc.914",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 914 do CPC atribui ao juízo deprecante a competência para julgar os embargos opostos na execução por carta, salvo quando versarem unicamente sobre vícios da penhora, da avaliação ou da alienação praticados no juízo deprecado. O art. 20 da LEF especializa essa regra para a execução fiscal ao determinar que os embargos sejam oferecidos no juízo deprecado, que os remete ao deprecante para instrução e julgamento, reservando ao deprecado apenas o julgamento dos vícios de seus próprios atos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T21:20:18+00:00"
+ },
+ {
+  "de": "clt.884",
+  "para": "cpc.914",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 914 do CPC permite ao executado opor embargos independentemente de penhora, depósito ou caução. O art. 884 da CLT especializa esse regime para a execução trabalhista ao exigir a garantia da execução ou a penhora de bens como condição para o prazo de cinco dias de embargos, restringindo a matéria de defesa ao cumprimento da decisão, à quitação ou à prescrição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T21:20:18+00:00"
  }
 ]
