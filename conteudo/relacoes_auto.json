@@ -3887,5 +3887,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T11:27:35+00:00"
+ },
+ {
+  "de": "cc.1630",
+  "para": "cf.229",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O Código Civil, art. 1.630 disciplina o poder familiar a que os filhos ficam sujeitos enquanto menores, dando concretude, no plano infraconstitucional, ao dever dos pais de assistir, criar e educar os filhos menores estabelecido no art. 229 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T12:34:27+00:00"
+ },
+ {
+  "de": "d9580.1034",
+  "para": "cc.1630",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O Código Civil, art. 1.630 sujeita os filhos menores ao poder familiar, que compreende a representação legal pelos pais; o RIR/2018, art. 1.034, parágrafo único, especializa esse efeito para o âmbito tributário, ao determinar que os menores sejam representados por seus pais ou por representante legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T12:34:27+00:00"
+ },
+ {
+  "de": "l9492.19",
+  "para": "cc.319",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O Código Civil, art. 319 assegura ao devedor que paga o direito à quitação regular; a Lei 9.492/97, art. 19, § 2º especializa esse direito no procedimento de pagamento de título levado a protesto, ao impor ao Tabelionato de Protesto o dever de dar a respectiva quitação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T12:34:27+00:00"
+ },
+ {
+  "de": "cpc.906",
+  "para": "cc.319",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O Código de Processo Civil, art. 906 disciplina o procedimento pelo qual o exequente dá quitação ao executado ao receber o mandado de levantamento na execução, efetivando na fase executiva o direito genérico à quitação regular previsto no Código Civil, art. 319.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T12:34:27+00:00"
+ },
+ {
+  "de": "cc.319",
+  "para": "ctn.191",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo quitação tem sentido diverso nos dois dispositivos: no Código Civil, art. 319 designa o recibo que comprova o pagamento e extingue a obrigação civil, ao passo que no Código Tributário Nacional, art. 191 designa a certidão de regularidade fiscal exigida como condição para a extinção das obrigações do falido, sem relação com o direito de retenção do pagamento tratado no art. 319.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T12:34:27+00:00"
+ },
+ {
+  "de": "cc.319",
+  "para": "clt.477",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O alcance do termo quitação difere nos dois dispositivos: no Código Civil, art. 319 o pagamento gera quitação regular com efeito liberatório amplo sobre a obrigação satisfeita, enquanto a CLT, art. 477, § 2º restringe a eficácia liberatória do termo de quitação trabalhista às parcelas nele expressamente discriminadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T12:34:27+00:00"
+ },
+ {
+  "de": "cpc.539",
+  "para": "cc.335",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O Código de Processo Civil, art. 539 disciplina o procedimento pelo qual o devedor ou terceiro exerce, nos casos previstos em lei, o direito de consignação em pagamento cujas hipóteses estão enumeradas no Código Civil, art. 335.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T12:34:27+00:00"
+ },
+ {
+  "de": "cpc.547",
+  "para": "cc.335",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O Código de Processo Civil, art. 547 regula o procedimento da consignação quando ocorrer dúvida sobre quem deva legitimamente receber o pagamento, hipótese prevista no inciso IV do art. 335 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T12:34:27+00:00"
+ },
+ {
+  "de": "cpc.544",
+  "para": "cc.335",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O Código de Processo Civil, art. 544 disciplina as defesas do réu na ação de consignação, correspondentes à hipótese do inciso I do art. 335 do Código Civil, ao permitir alegar que não houve recusa ou mora em receber a coisa devida, ou que a recusa foi justa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T12:34:27+00:00"
+ },
+ {
+  "de": "l8245.67",
+  "para": "cc.335",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "A Lei 8.245/91, art. 67 especializa, para a hipótese de aluguéis e acessórios da locação, o instituto da consignação em pagamento previsto no Código Civil, art. 335, com requisitos próprios quanto à petição inicial e ao depósito judicial do valor devido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T12:34:27+00:00"
+ },
+ {
+  "de": "cc.1568",
+  "para": "cf.205",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O Código Civil, art. 1.568 regulamenta, no âmbito das relações conjugais, o dever de educação atribuído à família pelo art. 205 da Constituição Federal, ao impor aos cônjuges a obrigação de concorrer, na proporção de seus bens e rendimentos do trabalho, para a educação dos filhos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T12:34:27+00:00"
+ },
+ {
+  "de": "cc.1706",
+  "para": "cpc.531",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O Código Civil, art. 1.706 remete à lei processual a fixação dos alimentos provisionais pelo juiz; o Código de Processo Civil, art. 531 é essa lei processual, ao disciplinar a execução dos alimentos provisórios e definitivos e o cumprimento da obrigação alimentar nos autos do processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T12:34:27+00:00"
+ },
+ {
+  "de": "cpc.671",
+  "para": "cc.25",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O Código Civil, art. 25 institui o cônjuge como curador legítimo do ausente; o Código de Processo Civil, art. 671, inciso I complementa esse regime ao determinar que o juiz nomeie curador especial ao ausente que não tiver curador nos termos da lei civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T12:34:27+00:00"
  }
 ]
