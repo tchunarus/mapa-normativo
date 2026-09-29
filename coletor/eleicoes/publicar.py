@@ -425,12 +425,22 @@ def construir(agora=None, com_fixtures=True, raiz=repositorio.RAIZ):
         pub.admin(erros, avisos, erros_regras)
     finally:
         DESTINO['pasta'] = OUT
-    velho = OUT + '.velho'
-    if os.path.isdir(OUT):
-        os.replace(OUT, velho)
-    os.replace(tmp, OUT)
-    if os.path.isdir(velho):
-        shutil.rmtree(velho)
+    # troca arquivo por arquivo (não a pasta inteira): renomear diretórios dentro de uma
+    # pasta sincronizada pelo sistema (Área de Trabalho no iCloud) gera cópias "nome 2"
+    novos = set()
+    for base, _, arqs in os.walk(tmp):
+        for n in arqs:
+            rel = os.path.relpath(os.path.join(base, n), tmp)
+            novos.add(rel)
+            dest = os.path.join(OUT, rel)
+            os.makedirs(os.path.dirname(dest), exist_ok=True)
+            if not (os.path.exists(dest) and open(dest, 'rb').read() == open(os.path.join(base, n), 'rb').read()):
+                os.replace(os.path.join(base, n), dest)
+    for base, _, arqs in os.walk(OUT):
+        for n in arqs:
+            if os.path.relpath(os.path.join(base, n), OUT) not in novos:
+                os.remove(os.path.join(base, n))
+    shutil.rmtree(tmp)
     return {'publicado': True, 'eleicoes': len(indice['eleicoes']), 'candidaturas': indice['contagens']['candidaturas'],
             'propostas_publicadas': indice['contagens']['propostas_publicadas'], 'nao_publicadas': sorted(set(pub.nao_publicadas)),
             'avisos': avisos[:20]}
