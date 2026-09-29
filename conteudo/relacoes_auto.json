@@ -3308,5 +3308,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T00:17:37+00:00"
+ },
+ {
+  "de": "cc.1024",
+  "para": "cpc.794",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O benefício de ordem do sócio previsto no art. 1.024 do CC, que impede a execução dos bens particulares antes dos bens sociais, não se confunde com o benefício de ordem do fiador de que trata o art. 794 do CPC, pois este favorece quem garante dívida alheia por fiança, enquanto aquele favorece o próprio integrante da sociedade devedora.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T01:10:47+00:00"
+ },
+ {
+  "de": "cpc.799",
+  "para": "cc.1225",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "Os incisos I a IV do art. 799 do CPC impõem ao exequente o dever de requerer a intimação dos titulares de penhor, hipoteca, anticrese, usufruto, uso, habitação e do promitente comprador quando a penhora recair sobre bem gravado por esses direitos, todos listados no art. 1.225 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T01:10:47+00:00"
+ },
+ {
+  "de": "cpc.889",
+  "para": "cc.1225",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "Os incisos III a VII do art. 889 do CPC determinam a cientificação prévia dos titulares de usufruto, uso, habitação, enfiteuse, direito de superfície, concessão de uso especial para fins de moradia, concessão de direito real de uso e do promitente comprador antes da alienação judicial, resguardando os mesmos direitos reais listados no art. 1.225 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T01:10:47+00:00"
+ },
+ {
+  "de": "cpc.799",
+  "para": "cc.1417",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 799 do CPC impõe ao exequente o dever de requerer a intimação do promitente comprador quando a penhora recair sobre bem em relação ao qual haja promessa de compra e venda registrada, dando efeito processual ao mesmo direito real à aquisição do imóvel de que trata o art. 1.417 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T01:10:47+00:00"
+ },
+ {
+  "de": "cpc.889",
+  "para": "cc.1417",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso VI do art. 889 do CPC exige a cientificação do promitente comprador, com pelo menos cinco dias de antecedência, quando a penhora recair sobre bem objeto de promessa de compra e venda registrada, resguardando na alienação judicial o mesmo direito real de que trata o art. 1.417 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T01:10:47+00:00"
+ },
+ {
+  "de": "cpc.799",
+  "para": "cc.1419",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 799 do CPC impõe ao exequente o dever de requerer a intimação do credor pignoratício, hipotecário ou anticrético quando a penhora recair sobre bens gravados por penhor, hipoteca ou anticrese, dando efeito processual ao vínculo real de que trata o art. 1.419 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T01:10:47+00:00"
+ },
+ {
+  "de": "cpc.784",
+  "para": "cc.1419",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 784 do CPC atribui força de título executivo extrajudicial ao contrato garantido por hipoteca, penhor ou anticrese, permitindo a execução imediata do crédito assegurado pelo vínculo real de que trata o art. 1.419 do CC, sem necessidade de prévio processo de conhecimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T01:10:47+00:00"
+ },
+ {
+  "de": "cpc.495",
+  "para": "cc.1419",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A hipoteca judiciária do art. 495 do CPC não se confunde com a hipoteca convencional de que cuida o art. 1.419 do CC, pois decorre diretamente da decisão condenatória, independentemente de ajuste entre as partes, ainda que a condenação seja genérica ou pendente de recurso com efeito suspensivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T01:10:47+00:00"
+ },
+ {
+  "de": "cc.1792",
+  "para": "cpc.789",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 1.792 do CC excepciona, quanto à responsabilidade do herdeiro após a partilha, a regra geral do art. 789 do CPC segundo a qual o devedor responde com todos os seus bens presentes e futuros, ao limitar essa responsabilidade às forças da herança recebida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T01:10:47+00:00"
+ },
+ {
+  "de": "l8429.8",
+  "para": "cc.1792",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 8º da Lei de Improbidade Administrativa especializa, para o dano ao erário e o enriquecimento ilícito causados pelo autor da herança, a mesma regra de limitação da responsabilidade do herdeiro às forças da herança que o art. 1.792 do CC estabelece em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T01:10:47+00:00"
+ },
+ {
+  "de": "cpc.642",
+  "para": "cc.1821",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 642 do CPC disciplina o procedimento pelo qual os credores do espólio requerem, antes da partilha, o pagamento das dívidas vencidas e exigíveis, dando efeito processual ao direito assegurado pelo art. 1.821 do CC nos limites das forças da herança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T01:10:47+00:00"
+ },
+ {
+  "de": "cpc.643",
+  "para": "cc.1997",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 643 do CPC determina a reserva de bens em poder do inventariante quando a dívida constar de documento que comprove suficientemente a obrigação e a impugnação não se fundar em quitação, disciplina processual equivalente à do parágrafo 1º do art. 1.997 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T01:10:47+00:00"
  }
 ]
