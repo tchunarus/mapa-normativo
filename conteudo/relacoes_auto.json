@@ -4017,5 +4017,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T12:34:27+00:00"
+ },
+ {
+  "de": "cpc.731",
+  "para": "cc.1568",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 731 do CPC disciplina, no inciso IV, o procedimento da separação e do divórcio consensuais, exigindo que o acordo fixe o valor da contribuição para criar e educar os filhos, dando efetividade processual ao dever de sustento e educação que o art. 1.568 do Código Civil impõe aos cônjuges, qualquer que seja o regime de bens.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T16:22:17+00:00"
+ },
+ {
+  "de": "cpc.744",
+  "para": "cc.25",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 744 do CPC regula o procedimento judicial da ausência, determinando a arrecadação dos bens do ausente e a nomeação do curador logo após a declaração, curador esse cuja ordem de escolha é definida pelo art. 25 do Código Civil, que indica o cônjuge como o legítimo curador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T16:22:17+00:00"
+ },
+ {
+  "de": "cpc.745",
+  "para": "cc.25",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "Nomeado o curador na forma do art. 25 do Código Civil, o art. 745 do CPC prossegue o procedimento da ausência, determinando a publicação de editais e, no § 2º do artigo, a citação pessoal do curador quando requerida a abertura da sucessão provisória dos bens do ausente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T16:22:17+00:00"
+ },
+ {
+  "de": "lindb.10",
+  "para": "cc.25",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 10 da LINDB complementa o regime da ausência ao resolver o conflito de leis na sucessão do desaparecido com elemento de estraneidade, submetendo a sucessão à lei do domicílio, ao passo que o art. 25 do Código Civil define apenas a ordem interna de nomeação do curador dos bens do ausente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T16:22:17+00:00"
+ },
+ {
+  "de": "cc.25",
+  "para": "l8213.76",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 1º do art. 76 da Lei 8.213/91 emprega a expressão cônjuge ausente em sentido previdenciário, referente a quem não habilitou dependência para fins de pensão por morte, expressão que pode ser confundida com o instituto da ausência regulado pelo art. 25 do Código Civil, hipótese de desaparecimento com declaração judicial e efeitos civis próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T16:22:17+00:00"
+ },
+ {
+  "de": "cpc.539",
+  "para": "cc.334",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 334 do Código Civil estabelece que o depósito judicial ou bancário da coisa devida extingue a obrigação como pagamento, e o art. 539 do CPC disciplina o procedimento da ação de consignação por meio do qual o devedor exerce esse direito, autorizando o depósito em estabelecimento bancário oficial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T16:22:17+00:00"
+ },
+ {
+  "de": "cpc.539",
+  "para": "ctn.164",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 164 do CTN autoriza a consignação judicial de crédito tributário apenas nas hipóteses de seus incisos I a III, sem regular o procedimento do depósito bancário, lacuna suprida subsidiariamente pelo procedimento da consignação em pagamento do art. 539 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T16:22:17+00:00"
+ },
+ {
+  "de": "cpc.539",
+  "para": "floripa_ctm.76",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 76 do Código Tributário Municipal de Florianópolis admite a consignação judicial do crédito tributário municipal apenas nos casos de seus incisos I a III, sem disciplinar o depósito bancário previsto no art. 539 do CPC, que se aplica subsidiariamente para viabilizar o procedimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T16:22:17+00:00"
+ },
+ {
+  "de": "l8245.67",
+  "para": "cpc.544",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 67 da Lei 8.245/91 especializa, para a ação de consignação de aluguéis, os mesmos fundamentos de defesa reproduzidos nos incisos I a IV do art. 544 do CPC, entre eles a ausência de recusa ou mora e a integralidade do depósito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T16:22:17+00:00"
+ },
+ {
+  "de": "cpc.544",
+  "para": "cc.313",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 544 do CPC permite ao réu alegar que o depósito não é integral, defesa que decorre da regra geral do art. 313 do Código Civil, segundo a qual o credor não é obrigado a receber prestação diversa da que lhe é devida, ainda que mais valiosa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T16:22:17+00:00"
+ },
+ {
+  "de": "cpc.831",
+  "para": "lef.10",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 10 da Lei de Execução Fiscal permite que a penhora recaia em qualquer bem do executado, exceto os impenhoráveis, sem especificar as parcelas do crédito por ela abrangidas, lacuna suprida subsidiariamente pelo art. 831 do CPC, que inclui expressamente os juros, as custas e os honorários advocatícios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T16:22:17+00:00"
  }
 ]
