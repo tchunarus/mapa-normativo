@@ -4707,5 +4707,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "cpc.611",
+  "para": "cc.1786",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 611 do CPC disciplina o prazo processual para instaurar o inventário e a partilha a partir da abertura da sucessão, dando efetividade prática ao modo de sucessão estabelecido pelo art. 1.786 do Código Civil, que admite a sucessão por lei ou por disposição de última vontade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T23:20:15+00:00"
+ },
+ {
+  "de": "cpc.617",
+  "para": "cc.1978",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 617 do CPC nomeia o testamenteiro inventariante quando lhe tiver sido confiada a administração do espólio, situação que corresponde à hipótese do art. 1.978 do Código Civil, em que o testamenteiro com posse e administração dos bens tem o dever de requerer o inventário e cumprir o testamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T23:20:15+00:00"
+ },
+ {
+  "de": "cpc.739",
+  "para": "cc.1985",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso I do § 1º do art. 739 do CPC incumbe ao curador da herança jacente representá-la em juízo ou fora dele, poder semelhante ao que o art. 1.985 do Código Civil confere ao testamenteiro para se fazer representar em juízo e fora dele por mandatário, mas os regimes não se confundem, pois tratam de administradores distintos, o curador da herança sem testamenteiro conhecido e o testamenteiro nomeado em testamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T23:20:15+00:00"
+ },
+ {
+  "de": "cpc.613",
+  "para": "cc.1991",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 613 do CPC estabelece que, antes da prestação do compromisso, o espólio permanece sob a posse do administrador provisório, complementando o art. 1.991 do Código Civil, que atribui a administração da herança ao inventariante a partir da assinatura do compromisso até a homologação da partilha.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T23:20:15+00:00"
+ },
+ {
+  "de": "cpc.617",
+  "para": "cc.1991",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 617 do CPC regula o procedimento de nomeação do inventariante, figura a quem o art. 1.991 do Código Civil atribui a administração da herança entre a assinatura do compromisso e a homologação da partilha, mas cuida apenas da ordem de escolha, sem tratar do período de exercício do cargo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T23:20:15+00:00"
+ },
+ {
+  "de": "lef.16",
+  "para": "cpc.525",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 16 da LEF prevê os embargos do executado na execução fiscal, no prazo de 30 dias contados do depósito, da fiança ou da intimação da penhora, enquanto o art. 525 do CPC disciplina a impugnação ao cumprimento de sentença, no prazo de 15 dias, independentemente de penhora ou nova intimação, regimes que tratam da defesa do executado mas não devem ser confundidos quanto ao título exequendo, ao prazo e ao termo inicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T23:20:15+00:00"
+ },
+ {
+  "de": "cpc.540",
+  "para": "cc.337",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 540 do CPC repete, no plano processual, a regra do art. 337 do Código Civil, segundo a qual a consignação se requer no lugar do pagamento e, a partir do depósito, cessam para o devedor os juros e os riscos, ressalvada a hipótese de a demanda ser julgada improcedente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T23:20:15+00:00"
+ },
+ {
+  "de": "cpc.761",
+  "para": "cc.1744",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 761 do CPC regula o procedimento de remoção do tutor ou curador, com citação para contestar em 5 dias, dando efetividade ao dever do juiz, previsto no inciso II do art. 1.744 do Código Civil, de remover o tutor tanto que se tornar suspeito, sob pena de responsabilidade subsidiária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T23:20:15+00:00"
+ },
+ {
+  "de": "cpc.791",
+  "para": "cc.1371",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 791 do CPC delimita a responsabilidade patrimonial na execução ao direito real do executado, o terreno se for o proprietário ou a construção ou a plantação se for o superficiário, complementando o art. 1.371 do Código Civil, que atribui ao superficiário a responsabilidade pelos encargos e tributos incidentes sobre o imóvel.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T23:20:15+00:00"
+ },
+ {
+  "de": "cpc.791",
+  "para": "cc.1225",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A regra de responsabilidade patrimonial restrita ao direito real do executado, prevista no art. 791 do CPC, estende-se pelo § 2º à concessão de uso especial para fins de moradia e à concessão de direito real de uso, direitos reais listados, respectivamente, nos incisos XI e XII do art. 1.225 do Código Civil, ao lado da superfície do inciso II, tratada no caput do art. 791.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T23:20:15+00:00"
  }
 ]
