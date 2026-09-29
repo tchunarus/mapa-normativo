@@ -4557,5 +4557,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T21:20:18+00:00"
+ },
+ {
+  "de": "cc.1369",
+  "para": "cpc.791",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 791 do CPC disciplina o procedimento de execução quando o direito de superfície constituído pelo art. 1.369 do CC é atingido por penhora, determinando que a constrição recaia exclusivamente sobre o terreno, se o executado for o proprietário, ou sobre a construção ou a plantação, se for o superficiário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "cc.1369",
+  "para": "cpc.804",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O parágrafo 2º do art. 804 do CPC torna ineficaz, em relação ao concedente ou ao concessionário não intimado, a alienação de bem sobre o qual tenha sido instituído direito de superfície, protegendo processualmente a concessão de que trata o art. 1.369 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "cc.1373",
+  "para": "l8245.27",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.373 do CC assegura ao superficiário ou ao proprietário direito de preferência, em igualdade de condições, na alienação do imóvel ou do direito de superfície, redação semelhante à do art. 27 da Lei 8.245 de 1991, que confere ao locatário preferência para adquirir o imóvel locado, em igualdade de condições com terceiros. Apesar da proximidade textual, tratam de institutos distintos (direito de superfície e locação), com titulares, fundamentos e formalidades de exercício diferentes, o que gera risco real de confusão entre os dois regimes de preferência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "cc.338",
+  "para": "cpc.539",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 539 do CPC disciplina o procedimento da ação de consignação em pagamento, pelo qual o devedor ou terceiro requer, com efeito de pagamento, o depósito da quantia ou da coisa devida, dando efetividade processual à consignação a que se refere o art. 338 do CC, que trata da faculdade de o devedor levantar o depósito enquanto o credor não o aceitar nem o impugnar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "cc.338",
+  "para": "cpc.540",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 540 do CPC fixa o lugar do pagamento como o da consignação e determina a cessação, para o devedor, dos juros e dos riscos a partir do depósito, complementando processualmente o regime da consignação em pagamento de que trata o art. 338 do CC quanto à subsistência da obrigação até a aceitação ou a impugnação pelo credor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "clt.884",
+  "para": "cpc.525",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo 1º do art. 884 da CLT restringe a matéria de defesa nos embargos à execução trabalhista ao cumprimento da decisão ou do acordo, à quitação ou à prescrição da dívida, regra especial em relação ao art. 525 do CPC, que admite, na impugnação ao cumprimento de sentença civil, hipóteses mais amplas, como inexequibilidade do título, penhora incorreta ou avaliação errônea e excesso de execução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "clt.884",
+  "para": "lef.16",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O parágrafo 1º do art. 884 da CLT restringe a defesa nos embargos à execução trabalhista às alegações de cumprimento da decisão ou do acordo, quitação ou prescrição da dívida, enquanto o parágrafo 2º do art. 16 da LEF permite ao executado alegar, nos embargos à execução fiscal, toda matéria útil à defesa. A semelhança de nomenclatura e de estrutura entre os dois embargos gera risco real de se aplicar, por engano, o rol mais amplo da LEF a uma execução trabalhista, ou o rol mais restrito da CLT a uma execução fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "cpc.110",
+  "para": "cc.1786",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 110 do CPC trata da sucessão processual, pela qual o espólio ou os sucessores substituem a parte falecida na relação processual, enquanto o art. 1.786 do CC cuida da sucessão hereditária, que se dá por lei ou por disposição de última vontade. O emprego do mesmo termo sucessão para institutos distintos, um processual e outro de direito das sucessões, gera risco de confusão entre os dois regimes, ainda que os dispositivos guardem apenas esse ponto de contato terminológico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "cpc.48",
+  "para": "ctn.192",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 192 do CTN condiciona a prolação de sentença de julgamento de partilha ou adjudicação à prova de quitação de todos os tributos relativos aos bens do espólio ou às suas rendas, complementando o regime da partilha e da impugnação ou anulação de partilha extrajudicial de que trata o art. 48 do CPC, ao acrescentar um requisito de ordem tributária para o encerramento do inventário processado no foro ali definido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "cpc.48",
+  "para": "floripa_ctm.109",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 109 do Código Tributário Municipal de Florianópolis reproduz, para os tributos municipais, a exigência de quitação tributária como condição para a sentença de julgamento de partilha ou adjudicação, complementando, no âmbito municipal, o mesmo regime de encerramento do inventário e da partilha de que trata o art. 48 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "cpc.48",
+  "para": "cc.1796",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.796 do CC fixa o prazo de trinta dias, a contar da abertura da sucessão, para a instauração do inventário perante o juízo competente no lugar da sucessão, complementando o art. 48 do CPC, que define esse mesmo foro como o do domicílio do autor da herança, com os critérios subsidiários dos incisos I a III do parágrafo único para as hipóteses de inventário, partilha e arrecadação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "cpc.615",
+  "para": "cc.1978",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.978 do CC estabelece que, tendo o testamenteiro a posse e a administração dos bens, incumbe-lhe requerer o inventário, hipótese que se enquadra na regra geral do art. 615 do CPC, segundo a qual o requerimento de inventário e partilha incumbe a quem estiver na posse e na administração do espólio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "cpc.615",
+  "para": "cc.1991",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.991 do CC estabelece que, desde a assinatura do compromisso até a homologação da partilha, a administração da herança passa a ser exercida pelo inventariante, complementando o art. 615 do CPC ao definir o momento em que a legitimidade para a administração do espólio, inicialmente atribuída a quem estiver na posse e administração dos bens, se transfere para o inventariante compromissado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "cpc.618",
+  "para": "cc.1985",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 618 do CPC incumbe ao inventariante representar o espólio ativa e passivamente, em juízo ou fora dele, ao passo que o art. 1.985 do CC permite ao testamenteiro fazer-se representar em juízo e fora dele mediante mandatário com poderes especiais. Os dois dispositivos tratam de poderes de representação de administradores distintos do acervo hereditário, o inventariante e o testamenteiro, o que pode gerar confusão quanto a qual deles efetivamente representa o espólio em determinado inventário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
+ },
+ {
+  "de": "cpc.618",
+  "para": "d9580.9",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O parágrafo 1º do art. 9º do RIR de 2018 atribui ao inventariante, a partir da abertura da sucessão, as obrigações estabelecidas nesse Regulamento, complementando o rol de incumbências do art. 618 do CPC, que já lhe impõe representar e administrar o espólio, ao acrescentar a responsabilidade pelo cumprimento das obrigações relativas ao imposto sobre a renda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T22:20:38+00:00"
  }
 ]
