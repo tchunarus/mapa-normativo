@@ -3428,5 +3428,195 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T01:10:47+00:00"
+ },
+ {
+  "de": "cpc.425",
+  "para": "cc.216",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 425 do CPC repete, atualizado para o processo eletrônico, o mesmo comando do art. 216 do CC sobre a equivalência probatória das certidões textuais extraídas pelo escrivão ou pelo chefe de secretaria, dispositivo que continua vigente e não foi revogado pelo Código de Processo Civil de 2015.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cpc.425",
+  "para": "cc.218",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "Enquanto o art. 425 do CPC trata da equivalência probatória de traslados e certidões em relação aos originais, o art. 218 do CC vai além ao qualificar esses traslados e certidões como instrumentos públicos quando os originais tiverem sido produzidos em juízo, consequência jurídica distinta que complementa a disciplina processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "d70235.64-B",
+  "para": "cpc.425",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 64-B do PAF especializa, para o processo administrativo fiscal, a mesma lógica do inciso VI e do § 1º do art. 425 do CPC, ao atribuir aos documentos digitalizados pela administração tributária o mesmo valor probante dos originais, ainda que em regime e órgão de preservação distintos do processo judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "ctn.189",
+  "para": "cpc.642",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 189 do CTN assegura que os créditos tributários vencidos ou vincendos a cargo do espólio sejam pagos preferencialmente a outros créditos habilitados em inventário, complementando o procedimento do art. 642 do CPC ao definir a ordem de preferência entre os credores que requerem o pagamento antes da partilha.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "lef.31",
+  "para": "cpc.642",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 31 da LEF condiciona qualquer alienação judicial em processos de inventário à prova de quitação da Dívida Ativa ou à concordância da Fazenda Pública, excepcionando a alienação de bens que o § 3º do art. 642 do CPC autoriza para pagamento dos credores habilitados no inventário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "ctn.188",
+  "para": "cpc.643",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 188 do CTN determina a reserva de bens quando contestado o crédito tributário extraconcursal na falência, mecanismo que não se confunde com a reserva de bens do parágrafo único do art. 643 do CPC, aplicável aos credores comuns do espólio no inventário quando a impugnação não se funda em quitação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cc.320",
+  "para": "cpc.643",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 320 do CC define os requisitos da quitação, conceito que o parágrafo único do art. 643 do CPC pressupõe ao afastar a reserva de bens apenas quando a impugnação do credor se fundar exatamente nessa quitação da dívida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cpc.731",
+  "para": "cc.1581",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 731 do CPC dá efeito processual à regra do art. 1.581 do CC segundo a qual o divórcio pode ser concedido sem prévia partilha de bens, permitindo a homologação consensual ainda que os cônjuges não tenham acordado sobre essa partilha, que se fará depois na forma dos arts. 647 a 658.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cc.1582",
+  "para": "cpc.731",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.582 do CC restringe a legitimidade para o pedido de divórcio aos próprios cônjuges, ressalvada a representação do incapaz pelo curador, ascendente ou irmão, regra que complementa o art. 731 do CPC ao definir quem pode assinar a petição de homologação consensual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cc.1703",
+  "para": "cpc.731",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.703 do CC obriga os cônjuges separados a contribuir para a manutenção dos filhos na proporção de seus recursos, base substantiva que o inciso IV do art. 731 do CPC concretiza ao exigir que a petição de divórcio consensual fixe o valor da contribuição para criar e educar os filhos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cpc.734",
+  "para": "cc.1639",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 734 do CPC disciplina o procedimento pelo qual os cônjuges exercem, mediante petição motivada e assinada por ambos, o direito de alterar o regime de bens que o § 2º do art. 1.639 do CC autoriza mediante autorização judicial e resguardo dos direitos de terceiros.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cpc.734",
+  "para": "cc.968",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 734 do CPC determina a expedição de mandado de averbação ao Registro Público de Empresas Mercantis quando qualquer dos cônjuges for empresário, atualizando ali o regime de bens que o inciso I do art. 968 do CC exige conste da inscrição do empresário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cc.1657",
+  "para": "cpc.734",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.657 do CC condiciona a eficácia da convenção antenupcial perante terceiros ao seu registro em livro especial, a mesma preocupação com a publicidade perante terceiros que o § 1º do art. 734 do CPC concretiza na alteração judicial do regime de bens, ao exigir intimação do Ministério Público e publicação de edital.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cpc.794",
+  "para": "cc.827",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 794 do CPC dá efeito processual ao benefício de ordem do fiador previsto no art. 827 do CC, permitindo que o fiador executado exija a excussão prévia dos bens do devedor, ainda que o CPC exija a indicação pormenorizada de bens situados na mesma comarca, e o CC fale em bens do devedor sitos no mesmo município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cpc.794",
+  "para": "lef.4",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 4º da LEF admite a execução fiscal contra o fiador, mas nada dispõe sobre o benefício de ordem que lhe socorre. Nessa omissão, aplica-se subsidiariamente o art. 794 do CPC, que assegura ao fiador demandado o direito de exigir a excussão prévia dos bens do devedor antes dos seus próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cc.828",
+  "para": "cpc.794",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 828 do CC amplia as hipóteses em que o fiador não pode invocar o benefício de ordem, ao acrescentar às hipóteses de devedor insolvente ou falido e de fiador obrigado como devedor solidário a renúncia expressa, que é a única causa de afastamento mencionada no § 3º do art. 794 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cc.839",
+  "para": "cpc.794",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 839 do CC excepciona a regra do § 1º do art. 794 do CPC, ao prever que o fiador ficará exonerado, e não sujeito à execução sobre seus próprios bens, se provar que os bens do devedor por ele indicados eram suficientes ao tempo da penhora e a insolvência posterior decorreu de retardamento da execução imputável ao credor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cpc.799",
+  "para": "cc.1418",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 799 do CPC exige a intimação do promitente vendedor quando a penhora recair sobre o direito aquisitivo derivado de promessa de compra e venda registrada, resguardando na execução a mesma pretensão à outorga da escritura definitiva ou à adjudicação judicial que o art. 1.418 do CC assegura ao promitente comprador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
+ },
+ {
+  "de": "cpc.799",
+  "para": "cc.1510-A",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "Os incisos X e XI do art. 799 do CPC determinam a intimação do titular da construção-base ou dos titulares de lajes quando a penhora recair sobre o direito real de laje, dando efeito processual ao regime desse direito real autônomo instituído pelo art. 1.510-A do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-29T06:13:24+00:00"
  }
 ]

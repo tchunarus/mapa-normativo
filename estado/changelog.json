@@ -16,5 +16,16 @@
   "titulo": "Tema 1134/STJ incluído",
   "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101883214&dt_publicacao=24/10/2024",
   "p": "stj.tema.1134"
+ },
+ {
+  "data": "2026-09-29T06:01:11+00:00",
+  "fonte": "DOU",
+  "tipo": "publicacao",
+  "titulo": "Resolução CGSN nº 194, DE 25 DE setembro DE 2026",
+  "url": "https://www.in.gov.br/web/dou/-/resolucao-cgsn-n-194-de-25-de-setembro-de-2026-735097948",
+  "diplomas": [
+   "lcp214",
+   "lcp123"
+  ]
  }
 ]
