@@ -6007,5 +6007,215 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T15:23:32+00:00"
+ },
+ {
+  "de": "cpp.135",
+  "para": "cc.1489",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 135 do CPP regula o procedimento de especialização da hipoteca legal, com estimativa da responsabilidade e avaliação do imóvel, dando cumprimento à garantia que o inciso III do art. 1.489 do Código Civil atribui ao ofendido sobre os imóveis do delinquente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpp.137",
+  "para": "cc.1489",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 137 do CPP autoriza o arresto de bens móveis do responsável quando não houver imóveis suficientes, nos mesmos termos em que o art. 1.489 do Código Civil faculta a hipoteca legal, criando garantia patrimonial alternativa em favor do ofendido pelo delito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpp.140",
+  "para": "cc.1489",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 140 do CPP estende as garantias do ressarcimento do dano, entre elas a hipoteca legal do inciso III do art. 1.489 do Código Civil, também às despesas processuais e às penas pecuniárias, dando preferência à reparação do dano ao ofendido sobre estas últimas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpc.495",
+  "para": "cc.1489",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A hipoteca judiciária do art. 495 do CPC e a hipoteca legal do art. 1.489 do Código Civil são garantias reais que independem de convenção entre as partes, mas têm fundamentos distintos: uma decorre de decisão condenatória em dinheiro, e a outra nasce diretamente da lei nas hipóteses taxativas do artigo, inclusive em favor do ofendido pelo delito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpc.755",
+  "para": "cc.1775-A",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 755 do CPC disciplina a sentença que decreta a interdição e nomeia o curador, fixando os limites da curatela conforme o estado e o desenvolvimento mental do interdito, sendo o instrumento processual pelo qual o juiz pode estabelecer a curatela compartilhada autorizada pelo art. 1.775-A do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpp.262",
+  "para": "cc.1775-A",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 262 do CPP determina a nomeação de curador ao acusado menor no processo penal, instituto homônimo mas distinto da curatela civil da pessoa com deficiência tratada pelo art. 1.775-A do Código Civil, que autoriza a curatela compartilhada entre mais de uma pessoa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpc.759",
+  "para": "cc.1775-A",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 759 do CPC prevê a intimação do curador nomeado para prestar compromisso, etapa processual necessária para que a curatela, inclusive a compartilhada entre mais de uma pessoa autorizada pelo art. 1.775-A do Código Civil, produza efeitos e o curador assuma a administração dos bens.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpc.735",
+  "para": "cc.1877",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 735 do CPC regula a abertura e a publicação do testamento cerrado pelo juiz, com oitiva do Ministério Público antes do registro, procedimento conexo ao dever de publicar em juízo o testamento com citação dos herdeiros legítimos estabelecido pelo art. 1.877 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpc.626",
+  "para": "cc.1877",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 626 do CPC determina a citação do cônjuge, do companheiro, dos herdeiros e dos legatários logo após as primeiras declarações do inventário, complementando, no âmbito do próprio processo sucessório, a citação dos herdeiros legítimos exigida pelo art. 1.877 do Código Civil para a publicação do testamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpc.737",
+  "para": "cc.1980",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 737 do CPC legitima o testamenteiro a requerer a publicação do testamento particular após a morte do testador, ato processual que antecede o cumprimento das disposições testamentárias e a prestação de contas a que se refere o art. 1.980 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpc.49",
+  "para": "cc.1980",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 49 do CPC fixa o foro do último domicílio do autor da herança como competente para o cumprimento de disposições testamentárias, complementando processualmente o dever do testamenteiro de cumprir essas disposições e prestar contas previsto no art. 1.980 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cp.168",
+  "para": "cc.1980",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 168 do Código Penal, cujo § 1º aumenta a pena de apropriação indébita quando o agente recebeu a coisa na qualidade de testamenteiro, complementa com sanção penal o dever civil de cumprir as disposições testamentárias e prestar contas estabelecido pelo art. 1.980 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpp.146",
+  "para": "cc.661",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 146 do CPP exige poderes especiais para a arguição de falsidade pelo procurador, especializando para o processo penal a regra geral do art. 661 do Código Civil, cujo § 1º condiciona a poderes especiais e expressos os atos que exorbitem da administração ordinária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpp.146",
+  "para": "cpc.430",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O incidente de arguição de falsidade documental é regulado autonomamente no processo civil pelo art. 430 do CPC e no processo penal pelo art. 146 do CPP, que trata especificamente da exigência de poderes especiais ao procurador que suscita a falsidade, existindo risco de se aplicar por engano o regime de um código ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "l9099.66",
+  "para": "cpp.366",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 66 da Lei 9.099/1995 determina que, não encontrado o acusado para citação no Juizado Especial Criminal, as peças sejam remetidas ao juízo comum para adoção do procedimento legal, afastando a aplicação da suspensão do processo e da prescrição prevista no art. 366 do CPP para a citação editalícia no rito comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpp.443",
+  "para": "cpc.157",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 157 do CPC permite ao perito escusar-se do encargo por motivo legítimo, com prazo próprio de apresentação, regime de escusa de função auxiliar da Justiça conexo ao do art. 443 do CPP, que também exige motivo relevante comprovado, ressalvada a força maior, para a escusa do jurado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpp.443",
+  "para": "lindb.3",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo escusa tem sentidos diferentes nos dois dispositivos: no art. 443 do CPP designa a dispensa justificada do jurado convocado, admitida por motivo relevante comprovado ou força maior, enquanto no art. 3º da LINDB significa a alegação de desconhecimento da lei como pretexto para descumpri-la, o que não se admite.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpp.53",
+  "para": "cp.105",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 53 do CPP disciplina quem deve aceitar o perdão em nome do querelado mentalmente enfermo ou retardado mental sem representante legal, dando efetividade processual ao perdão do ofendido nos crimes de ação privada previsto no art. 105 do Código Penal, que obsta o prosseguimento da ação quando aceito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpp.53",
+  "para": "cp.106",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 53 do CPP prevê a aceitação do perdão pelo curador do querelado incapaz, e o art. 106 do Código Penal complementa esse regime ao dispor, no inciso III, que a recusa do querelado obsta os efeitos do perdão, e que ele deixa de ser admissível depois de transitada em julgado a sentença condenatória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cc.24",
+  "para": "cpp.53",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 53 do CPP não disciplina o alcance dos poderes do curador nomeado para aceitar o perdão em nome do querelado incapaz, de modo que se aplica subsidiariamente o art. 24 do Código Civil, segundo o qual o juiz que nomeia curador fixa-lhe os poderes e obrigações observando, no que for aplicável, o disposto a respeito de tutores e curadores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cpp.53",
+  "para": "cp.26",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos empregam expressões semelhantes sobre doença mental ou desenvolvimento mental retardado, mas tratam de sujeitos processuais distintos: o art. 53 do CPP cuida do querelado incapaz, que figura como parte ativa na ação penal privada, enquanto o art. 26 do Código Penal trata da inimputabilidade do agente que praticou o fato criminoso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T16:22:02+00:00"
  }
 ]
