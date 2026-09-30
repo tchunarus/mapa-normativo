@@ -5537,5 +5537,185 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T12:32:00+00:00"
+ },
+ {
+  "de": "clt.49",
+  "para": "cp.297",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 49 da CLT qualifica como falsidade, sujeita à pena do art. 299 do Código Penal, a fabricação ou alteração de documento para fins de emissão da Carteira de Trabalho e Previdência Social. O art. 297, § 3º, II, do Código Penal já tipifica especificamente a inserção de declaração falsa nesse documento, com pena própria, o que gera risco de confusão sobre qual tipo penal incide sobre a falsificação da carteira de trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "l8137.1",
+  "para": "cp.297",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 1º, III, da Lei 8.137/1990 tipifica como crime contra a ordem tributária falsificar ou alterar nota fiscal, fatura, duplicata, nota de venda ou qualquer outro documento relativo a operação tributável. Fora desse contexto, a mesma conduta material corresponde ao tipo geral de falsificação de documento do art. 297 do Código Penal, prevalecendo a lei especial quando o documento falsificado tiver natureza fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "cc.907",
+  "para": "cpc.680",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 680 do CPC permite ao embargado alegar, nos embargos do credor com garantia real, que o título é nulo. O art. 907 do Código Civil detalha uma hipótese concreta dessa nulidade ao declarar nulo o título ao portador emitido sem autorização de lei especial, servindo de fundamento possível para a defesa do inciso II do art. 680.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "cc.1420",
+  "para": "cpc.680",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 680 do CPC permite alegar, nos embargos do credor com garantia real, que o título de garantia é nulo. O art. 1.420 do Código Civil estabelece que só quem pode alienar pode hipotecar, empenhar ou dar em anticrese, e que só bens alienáveis podem ser dados em garantia real, hipótese que fundamenta a nulidade referida no inciso II do art. 680 quando o bem gravado não pudesse ser alienado por quem o ofereceu.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "cc.1428",
+  "para": "cpc.680",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 680 do CPC autoriza o embargado a alegar, nos embargos do credor com garantia real, que o título é nulo. O art. 1.428 do Código Civil declara nula a cláusula que autoriza o credor pignoratício, anticrético ou hipotecário a ficar com o objeto da garantia se a dívida não for paga no vencimento, hipótese específica de nulidade aplicável à defesa do inciso II do art. 680.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "cpp.136",
+  "para": "cc.1492",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 136 do CPP impõe prazo de quinze dias para a promoção do processo de inscrição da hipoteca legal decorrente do arresto de imóvel, sob pena de revogação da medida. O art. 1.492 do Código Civil disciplina o registro da hipoteca no cartório do lugar do imóvel, regime geral de inscrição que a providência criminal deve observar dentro desse prazo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "cpp.136",
+  "para": "cc.1490",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 136 do CPP condiciona a manutenção do arresto de imóvel à inscrição da hipoteca legal no prazo de quinze dias. O art. 1.490 do Código Civil permite ao credor da hipoteca legal exigir reforço da garantia mediante prova da insuficiência dos imóveis especializados, hipótese que pode incidir sobre a mesma hipoteca cuja inscrição o art. 136 exige.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "lef.7",
+  "para": "cpp.136",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 7º da Lei de Execução Fiscal determina que o despacho que defere a inicial já importa em ordem de registro da penhora ou do arresto, independentemente de outras formalidades. O art. 136 do CPP também trata do registro de garantia decorrente de arresto, mas exige inscrição própria da hipoteca legal em processo distinto no prazo de quinze dias, o que pode gerar confusão entre os dois regimes de registro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "cpc.431",
+  "para": "cpp.147",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 431 do CPC exige que a parte argua a falsidade documental expondo os motivos de sua pretensão e os meios de prova, no âmbito do incidente civil de falsidade. O art. 147 do CPP permite que o próprio juiz, de ofício, proceda à verificação da falsidade no processo penal, sem depender de arguição da parte, o que pode gerar confusão sobre quem tem a iniciativa de suscitar a falsidade em cada processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "cc.1875",
+  "para": "cpp.147",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.875 do Código Civil autoriza o juiz a abrir e mandar cumprir o testamento apresentado após o falecimento do testador, se não achar vício externo que o torne suspeito de falsidade, verificação feita de ofício pelo próprio juiz. O art. 147 do CPP também permite ao juiz, de ofício, verificar a falsidade, mas no âmbito do processo penal, o que pode gerar confusão entre os dois regimes de verificação judicial ex officio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "cpc.207",
+  "para": "cpp.329",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 207 do CPC exige que o escrivão ou o chefe de secretaria numere e rubrique todas as folhas dos autos, formalidade geral aplicável aos processos cíveis. O art. 329 do CPP impõe formalidade semelhante, porém específica, ao determinar livro especial numerado e rubricado em todas as suas folhas para os termos de fiança criminal, o que pode gerar confusão sobre qual regime de numeração e rubrica se aplica a cada registro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "l9492.32",
+  "para": "cpp.329",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 32 da Lei 9.492/1997 disciplina o livro de Protocolo do tabelionato de protesto, com colunas próprias de anotação e escrituração diária encerrada por termo específico. O art. 329 do CPP disciplina outro livro especial, destinado aos termos de fiança em juízo criminal, com numeração e rubrica próprias, o que pode gerar confusão entre os requisitos formais de cada livro especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "cpc.759",
+  "para": "cpp.329",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 759, § 1º, do CPC determina que o tutor ou o curador preste compromisso por termo lavrado em livro rubricado pelo juiz. O art. 329 do CPP também exige termo lavrado em livro especial, rubricado pela autoridade, para os casos de fiança criminal, o que pode gerar confusão entre os requisitos de cada termo lavrado em livro próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "cpp.33",
+  "para": "cpc.72",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 33 do CPP determina que, sendo o ofendido menor de dezoito anos ou mentalmente enfermo ou retardado e não tendo representante legal, ou colidindo os interesses deste com os daquele, o direito de queixa seja exercido por curador especial nomeado pelo juiz competente para o processo penal. O art. 72 do CPC estabelece a regra geral de nomeação de curador especial ao incapaz sem representante legal ou com interesses colidentes, da qual o art. 33 do CPP constitui regra especial voltada ao exercício do direito de queixa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "cpc.671",
+  "para": "cpp.33",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 671 do CPC determina a nomeação de curador especial ao ausente ou ao incapaz que concorrer na partilha com seu representante, havendo colisão de interesses, no âmbito do inventário. O art. 33 do CPP também prevê curador especial por colisão de interesses, mas para o exercício do direito de queixa pelo ofendido menor ou incapaz, o que pode gerar confusão entre as hipóteses de nomeação previstas em cada código.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "l9099.66",
+  "para": "cpp.363",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 363, § 1º, do CPP autoriza a citação por edital do acusado não encontrado, permitindo o regular prosseguimento do processo penal comum. O art. 66, parágrafo único, da Lei 9.099/1995 excepciona essa regra nos Juizados Especiais Criminais, determinando que, não encontrado o acusado para a citação pessoal, as peças existentes sejam encaminhadas ao juízo comum, sem adoção da citação por edital própria daquele procedimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "l10522.19",
+  "para": "cpp.42",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 19 da Lei 10.522/2002 autoriza a Procuradoria-Geral da Fazenda Nacional a desistir de recursos já interpostos em determinadas matérias tributárias, quando inexistir outro fundamento relevante. O art. 42 do CPP veda ao Ministério Público desistir da ação penal já proposta, o que evidencia a diferença entre a disponibilidade da desistência em matéria tributária e a indisponibilidade da ação penal pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "l9784.51",
+  "para": "cpp.42",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 51 da Lei 9.784/1999 permite ao interessado desistir total ou parcialmente do pedido formulado no processo administrativo, ou renunciar a direitos disponíveis. O art. 42 do CPP, ao contrário, veda ao Ministério Público desistir da ação penal, o que evidencia a diferença entre a disponibilidade própria do processo administrativo e a indisponibilidade da ação penal pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T13:27:09+00:00"
  }
 ]
