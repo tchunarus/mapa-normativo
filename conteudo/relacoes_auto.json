@@ -5917,5 +5917,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "l8137.1",
+  "para": "cp.299",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 1º da Lei 8.137/1990 tipifica como crime contra a ordem tributária, nos incisos I e II, omitir informação ou prestar declaração falsa às autoridades fazendárias e inserir elementos inexatos ou omitir operação para fraudar a fiscalização tributária. Essa conduta especializa, para a matéria tributária, o crime genérico de falsidade ideológica do art. 299 do Código Penal, que pune omitir declaração devida ou inserir declaração falsa com o fim de alterar a verdade sobre fato juridicamente relevante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T15:23:32+00:00"
+ },
+ {
+  "de": "l11101.171",
+  "para": "cp.299",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 171 da Lei 11.101/2005 pune sonegar ou omitir informações ou prestar informações falsas no processo de falência, de recuperação judicial ou de recuperação extrajudicial, com o fim de induzir a erro o juiz, o Ministério Público, os credores ou o administrador judicial. Essa figura especializa, para o processo falimentar, o crime genérico de falsidade ideológica do art. 299 do Código Penal, que também pune a declaração falsa ou a omissão feita para alterar a verdade sobre fato juridicamente relevante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T15:23:32+00:00"
+ },
+ {
+  "de": "cpp.53",
+  "para": "cpc.72",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 53 do CPP atribui a curador nomeado pelo juiz a aceitação do perdão quando o querelado for mentalmente enfermo ou retardado mental e não tiver representante legal, ou quando colidirem os interesses deste com os do querelado. Essa regra especializa, para a ação penal privada, a nomeação de curador especial ao incapaz sem representante ou com interesses colidentes prevista no art. 72, I, do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T15:23:32+00:00"
+ },
+ {
+  "de": "cpp.631",
+  "para": "cpc.72",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 631 do CPP determina que o presidente do tribunal nomeie curador para a defesa quando falecer, no curso da revisão criminal, a pessoa cuja condenação deva ser revista. Essa nomeação aproxima-se do instituto do curador especial do art. 72 do CPC, ambos destinados a suprir, por decisão do juízo, a falta de quem possa exercer a defesa dos interesses da parte, ainda que por razões diversas, a incapacidade ou o conflito de interesses no CPC, e o falecimento do condenado no CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T15:23:32+00:00"
+ },
+ {
+  "de": "cpc.72",
+  "para": "cpp.366",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 72, II, do CPC determina que o juiz nomeie curador especial ao réu revel citado por edital ou com hora certa, enquanto não for constituído advogado. O art. 366 do CPP disciplina a mesma situação de fato, o acusado citado por edital que não comparece nem constitui advogado, mas dá a ela solução distinta, a suspensão do processo e do curso do prazo prescricional, o que gera risco de confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T15:23:32+00:00"
+ },
+ {
+  "de": "cpc.72",
+  "para": "cc.1775-A",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 72 do CPC trata do curador especial nomeado para representar, em um processo determinado, o incapaz sem representante ou o réu revel, encargo que se extingue com a superveniência de representação regular. O art. 1.775-A do Código Civil trata da curatela compartilhada da pessoa com deficiência, instituto permanente de direito material, distinto do curador especial processual, com o qual costuma ser confundido pela repetição do termo curador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T15:23:32+00:00"
+ },
+ {
+  "de": "cpp.134",
+  "para": "cc.1489",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.489, III, do Código Civil confere hipoteca legal ao ofendido, ou a seus herdeiros, sobre os imóveis do delinquente, para satisfação do dano causado pelo delito e pagamento das despesas judiciais. O art. 134 do CPP disciplina o procedimento para o exercício desse direito no processo penal, permitindo ao ofendido requerer a hipoteca legal em qualquer fase do processo, desde que haja certeza da infração e indícios suficientes da autoria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T15:23:32+00:00"
+ },
+ {
+  "de": "cpc.735",
+  "para": "cc.1980",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.980 do Código Civil impõe ao testamenteiro o dever de cumprir as disposições testamentárias no prazo marcado pelo testador e de dar contas do que recebeu e despendeu. O § 5º do art. 735 do CPC complementa esse dever ao determinar que a prestação de contas do testamenteiro, prevista em lei, seja feita em juízo, no mesmo processo em que se recebeu e se abriu o testamento cerrado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T15:23:32+00:00"
+ },
+ {
+  "de": "cpc.737",
+  "para": "cc.1877",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.877 do Código Civil determina que, morto o testador, o testamento seja publicado em juízo, com citação dos herdeiros legítimos. O art. 737 do CPC disciplina o procedimento dessa publicação para o testamento particular, definindo os legitimados a requerê-la, a intimação dos herdeiros que não a requereram e a confirmação pelo juiz após a oitiva do Ministério Público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T15:23:32+00:00"
  }
 ]
