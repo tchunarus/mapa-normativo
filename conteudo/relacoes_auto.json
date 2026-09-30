@@ -5447,5 +5447,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T11:22:43+00:00"
+ },
+ {
+  "de": "cpp.136",
+  "para": "cc.1491",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 136 do CPP autoriza o arresto do imóvel como medida provisória enquanto não é promovida a inscrição da hipoteca legal decorrente do crime, hipótese de hipoteca legal disciplinada pelo Código Civil. O art. 1.491 do CC permite que essa mesma hipoteca legal seja substituída por caução de títulos da dívida pública ou outra garantia; o arresto do art. 136 antecede e pressupõe a hipoteca legal cuja substituição o art. 1.491 regula.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T12:32:00+00:00"
+ },
+ {
+  "de": "cc.819",
+  "para": "cpp.329",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 819 do Código Civil exige forma escrita para a fiança civil, contrato de garantia pessoal que não admite interpretação extensiva. O art. 329 do CPP também exige forma escrita, por termo lavrado pelo escrivão e assinado pela autoridade e por quem presta a fiança, mas disciplina instituto diverso: a fiança criminal, medida cautelar que assegura o comparecimento do acusado, sem relação com a garantia de obrigação de terceiro do direito civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T12:32:00+00:00"
+ },
+ {
+  "de": "clt.793",
+  "para": "cpp.33",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 793 da CLT determina que a reclamação trabalhista do menor de 18 anos seja feita por seus representantes legais e, na falta destes, por curador nomeado em juízo, entre outros legitimados. O art. 33 do CPP prevê solução análoga para o menor ofendido sem representante legal no processo penal, por meio de curador especial nomeado pelo juiz; são regimes de representação processual do incapaz distintos, cada um com legitimados próprios conforme o ramo do processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T12:32:00+00:00"
+ },
+ {
+  "de": "clt.800",
+  "para": "cpc.64",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 800 da CLT disciplina procedimento próprio e autônomo para a exceção de incompetência territorial no processo do trabalho, com suspensão do processo até a decisão da exceção, nos termos do § 1º. O art. 64 do CPC trata a incompetência, absoluta ou relativa, como questão preliminar arguida na própria contestação, sem a suspensão do feito nem o incidente autônomo previsto na CLT; esta contém regra especial para a matéria no processo trabalhista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T12:32:00+00:00"
+ },
+ {
+  "de": "l11101.132",
+  "para": "cpc.177",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 132 da Lei 11.101/2005 legitima o Ministério Público a propor a ação revocatória falimentar no prazo de três anos contado da decretação da falência, hipótese concreta do exercício do direito de ação civil pelo Ministério Público referido de modo genérico no art. 177 do CPC, que remete às suas atribuições constitucionais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T12:32:00+00:00"
+ },
+ {
+  "de": "cpc.423",
+  "para": "cc.216",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 216 do Código Civil confere às certidões extraídas pelo escrivão, ou sob sua vigilância e por ele subscritas, o mesmo valor probatório dos originais. O art. 423 do CPC detalha essa mesma regra para as reproduções fotográficas ou por outros processos de repetição dos documentos particulares, que valem como certidão quando o escrivão ou o chefe de secretaria certificar sua conformidade com o original; os dois dispositivos integram o mesmo regime de prova documental extraída ou certificada por serventuário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T12:32:00+00:00"
+ },
+ {
+  "de": "cpc.423",
+  "para": "clt.830",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 423 do CPC exige que o escrivão ou o chefe de secretaria certifique a conformidade da reprodução do documento particular com o original para que ela valha como certidão. O art. 830 da CLT permite que o próprio advogado declare autêntica a cópia do documento oferecido no processo do trabalho, sob sua responsabilidade pessoal, só remetendo a conferência pelo serventuário competente ao caso de impugnação da autenticidade; a forma de autenticação exigida em cada processo não se confunde.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T12:32:00+00:00"
+ },
+ {
+  "de": "cpc.427",
+  "para": "cpp.147",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 427 do CPC define a falsidade documental civil como formar documento não verdadeiro ou alterar documento verdadeiro, e faz cessar a fé do documento quando ela é declarada judicialmente. O art. 147 do CPP permite que o juiz criminal proceda de ofício à verificação da falsidade, iniciativa que o processo civil não admite da mesma forma, pois a arguição de falsidade documental depende de provocação da parte; os regimes de apuração da falsidade documental não se confundem quanto à iniciativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T12:32:00+00:00"
+ },
+ {
+  "de": "cpc.427",
+  "para": "cp.297",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 427 do CPC declara a falsidade documental como formar documento não verdadeiro ou alterar documento verdadeiro, com o efeito civil de fazer cessar a fé do documento. O art. 297 do Código Penal tipifica como crime, com pena de reclusão, a mesma conduta de falsificar ou alterar documento público verdadeiro; a declaração de falsidade no incidente civil não implica, por si só, a condenação criminal, que depende de ação penal própria com apuração do dolo, e por isso os dois regimes não se confundem apesar da semelhança na definição da conduta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T12:32:00+00:00"
  }
 ]
