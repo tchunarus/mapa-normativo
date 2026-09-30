@@ -5007,5 +5007,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T01:09:44+00:00"
+ },
+ {
+  "de": "cc.1764",
+  "para": "cpc.763",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 763 do CPC disciplina o procedimento decorrente da cessação das funções do tutor pelo decurso do prazo, hipótese do inciso I do art. 1.764 do CC, autorizando o requerimento de exoneração e exigindo, no § 2º, a prestação de contas após cessada a tutela.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cc.1764",
+  "para": "cpc.760",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 760 do CPC regula o procedimento e o prazo da escusa do tutor perante o juiz, causa de cessação das funções prevista no inciso II do art. 1.764 do CC quando a escusa for legítima.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cc.1764",
+  "para": "cpc.761",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 761 do CPC disciplina a legitimidade e o procedimento contraditório para a remoção do tutor, hipótese de cessação das funções prevista no inciso III do art. 1.764 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cpc.645",
+  "para": "cc.1934",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.934 do CC atribui aos legatários, na falta de herdeiros, o cumprimento dos legados na proporção do que herdaram, o que fundamenta a legitimidade do legatário prevista no inciso II do art. 645 do CPC para se manifestar quando o reconhecimento de dívidas do espólio importar redução dos legados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cpc.743",
+  "para": "cc.1820",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.820 do CC estabelece a mesma regra reproduzida pelo art. 743 do CPC: decorrido um ano da primeira publicação do edital sem herdeiro habilitado ou com habilitação pendente, a herança será declarada vacante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cpc.743",
+  "para": "cc.1823",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 1.823 do CC excepciona o prazo de um ano do art. 743 do CPC, determinando a declaração de vacância desde logo quando todos os chamados a suceder renunciarem à herança, sem necessidade de aguardar o decurso do prazo edital.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cpc.917",
+  "para": "lef.16",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 16 da LEF disciplina os embargos à execução fiscal e determina genericamente, no § 2º, que o executado alegue toda matéria útil à defesa, de modo que o rol específico de matérias do art. 917 do CPC aplica-se subsidiariamente para preencher essa lacuna.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cpc.917",
+  "para": "clt.884",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 884 da CLT restringe as matérias alegáveis em embargos à execução trabalhista ao cumprimento da decisão ou do acordo, quitação ou prescrição da dívida, no § 1º, especializando para o processo do trabalho o rol mais amplo do art. 917 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cpc.917",
+  "para": "cc.1219",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.219 do CC assegura ao possuidor de boa-fé o direito de retenção pelo valor das benfeitorias necessárias e úteis, fundamento material da matéria de defesa prevista no inciso IV do art. 917 do CPC para a execução de entrega de coisa certa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cpc.919",
+  "para": "d70235.33",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 33 do PAF confere efeito suspensivo automático ao recurso voluntário em processo administrativo fiscal, em sentido oposto ao art. 919 do CPC, que nega efeito suspensivo automático aos embargos à execução, salvo requerimento e presença dos requisitos da tutela provisória, o que gera risco de confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cpc.919",
+  "para": "l9784.61",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A Lei 9.784/99 prevê no parágrafo único do art. 61 que a autoridade recorrida pode atribuir efeito suspensivo ao recurso administrativo ante justo receio de prejuízo, regime semelhante ao do § 1º do art. 919 do CPC, mas com requisitos distintos, o que gera risco de confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cpc.921",
+  "para": "cc.206-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 206-A do CC remete expressamente ao art. 921 do CPC ao dispor que a prescrição intercorrente observa o mesmo prazo da pretensão, aplicadas as causas de impedimento, suspensão e interrupção previstas no Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cpc.921",
+  "para": "ctn.174",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 174 do CTN estabelece rol próprio de causas de interrupção da prescrição do crédito tributário, distinto das hipóteses de suspensão da execução e da prescrição intercorrente do art. 921 do CPC, o que gera conflito aparente quanto ao regime aplicável à execução fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cpc.921",
+  "para": "l11101.6",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 6º da Lei 11.101/05 especializa, para o devedor em falência ou recuperação judicial, a suspensão das execuções contra ele ajuizadas e da prescrição de suas obrigações, hipótese distinta, mas conexa, das causas gerais de suspensão da execução previstas no art. 921 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T06:13:16+00:00"
  }
 ]
