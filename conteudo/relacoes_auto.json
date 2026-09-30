@@ -7047,5 +7047,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cc.652",
+  "para": "cp.168",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CC, art. 652, impõe ao depositário infiel, no depósito voluntário ou necessário, a prisão não excedente a um ano e o dever de ressarcir os prejuízos. O CP, art. 168, § 1º, inciso I, aumenta em um terço a pena de apropriação indébita quando o agente recebeu a coisa em depósito necessário. Há risco de confusão entre as duas consequências previstas para a mesma conduta de não restituir a coisa depositada, uma de natureza civil e outra de natureza penal, que exige, para esta última, o dolo de apropriação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T21:20:54+00:00"
+ },
+ {
+  "de": "cf.82",
+  "para": "adct.4",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "A CF, art. 82, fixa em quatro anos o mandato do Presidente da República, com início em 5 de janeiro do ano seguinte ao da eleição. O ADCT, art. 4º, excepcionou essa regra para o Presidente em exercício na data da promulgação da Constituição, cujo mandato terminaria em 15 de março de 1990, e fixou a data da primeira eleição presidencial subsequente à promulgação, não se lhe aplicando o art. 16 da Constituição. Trata-se de exceção transitória à regra geral de duração do mandato presidencial, aplicável apenas à situação específica do Presidente então em exercício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T21:20:54+00:00"
+ },
+ {
+  "de": "clt.855-B",
+  "para": "l9099.57",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "A Lei 9.099/95, art. 57, autoriza a homologação do acordo extrajudicial, de qualquer natureza ou valor, no juízo competente, valendo a sentença como título executivo judicial. A CLT, art. 855-B, especializa esse procedimento para o acordo extrajudicial trabalhista, exigindo que o processo de homologação se inicie por petição conjunta, com representação obrigatória das partes por advogado. O § 1º desse artigo veda a representação por advogado comum, e o § 2º faculta ao trabalhador ser assistido pelo advogado do sindicato de sua categoria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T21:20:54+00:00"
+ },
+ {
+  "de": "cpc.491",
+  "para": "cc.406",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O CPC, art. 491, determina que a decisão que reconhecer a obrigação de pagar quantia defina desde logo a taxa de juros aplicável. O CC, art. 406, complementa essa exigência ao fixar a taxa legal de juros, correspondente à taxa referencial do Selic deduzido o índice de atualização monetária de que trata o parágrafo único do art. 389 do mesmo Código, para as hipóteses em que os juros não foram convencionados ou o foram sem taxa estipulada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T21:20:54+00:00"
+ },
+ {
+  "de": "cpc.491",
+  "para": "cc.405",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O CPC, art. 491, determina que a decisão que reconhecer a obrigação de pagar quantia defina desde logo o termo inicial dos juros. O CC, art. 405, complementa essa exigência ao estabelecer que os juros de mora contam-se desde a citação inicial, suprindo o critério para a fixação do termo inicial exigido pela norma processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T21:20:54+00:00"
+ },
+ {
+  "de": "cpc.749",
+  "para": "cc.24",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 749, parágrafo único, faculta ao juiz, em caso de urgência justificada, nomear curador provisório ao interditando para a prática de determinados atos. O CC, art. 24, complementa essa norma ao determinar que o juiz que nomear o curador fixe seus poderes e obrigações conforme as circunstâncias, observando, no que for aplicável, o disposto a respeito dos tutores e curadores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T21:20:54+00:00"
  }
 ]
