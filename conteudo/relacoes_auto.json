@@ -7187,5 +7187,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T22:19:28+00:00"
+ },
+ {
+  "de": "cc.1774",
+  "para": "cpp.692",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.774 do Código Civil unifica o regime da curatela ao da tutela, e o art. 692 do Código de Processo Penal prevê a providência judicial para acautelar a pessoa e os bens do menor ou do interdito quando o responsável pela tutela ou curatela fica temporária ou permanentemente incapacitado para exercê-la, complementando, no âmbito processual penal, o mesmo regime protetivo unificado pelo dispositivo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cf.29",
+  "para": "adct.11",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 11 do ADCT impôs, como regra de transição para a primeira legislatura após a Constituição de 1988, a votação da lei orgânica municipal em dois turnos de discussão e votação, no prazo de seis meses, remetendo expressamente ao disposto na Constituição Federal, que corresponde à mesma exigência de votação em dois turnos fixada de modo permanente pelo art. 29 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cp.104",
+  "para": "cpp.57",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 104 do Código Penal define a renúncia tácita ao direito de queixa como a prática de ato incompatível com a vontade de exercê-lo, e o art. 57 do Código de Processo Penal disciplina o procedimento probatório dessa mesma renúncia tácita, admitindo todos os meios de prova para demonstrá-la.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cp.104",
+  "para": "cpp.50",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 104 do Código Penal permite a renúncia expressa ao direito de queixa, e o art. 50 do Código de Processo Penal disciplina a forma processual dessa renúncia, exigindo declaração assinada pelo ofendido, por seu representante legal ou por procurador com poderes especiais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cp.104",
+  "para": "cpp.49",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 104 do Código Penal estabelece o efeito extintivo da renúncia ao direito de queixa, e o art. 49 do Código de Processo Penal complementa esse regime ao determinar que a renúncia em relação a um dos autores do crime se estende a todos os demais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cp.104",
+  "para": "cc.191",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 104 do Código Penal e o art. 191 do Código Civil tratam, em termos quase idênticos, da renúncia tácita ou expressa, mas regulam institutos distintos, a extinção do direito de queixa penal e a renúncia à prescrição civil, o que gera risco real de confusão entre os dois regimes de renúncia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cp.120",
+  "para": "cpp.58",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 120 do Código Penal cuida do perdão judicial concedido pelo juiz na sentença, que não gera reincidência, enquanto o art. 58 do Código de Processo Penal disciplina o perdão concedido pelo querelante ao querelado na ação penal privada, instituto distinto que também extingue a punibilidade, mas depende de aceitação e gera risco real de confusão com o perdão judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cp.52",
+  "para": "cpp.152",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 52 do Código Penal trata da suspensão da execução da pena de multa por doença mental superveniente ao condenado já sentenciado, enquanto o art. 152 do Código de Processo Penal cuida da suspensão do próprio processo quando a doença mental sobrevém antes do julgamento, institutos distintos que compartilham a mesma causa e geram risco real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cp.56",
+  "para": "cpp.691",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 56 do Código Penal impõe as penas de interdição do art. 47, incisos I e II, a todo crime cometido no exercício de profissão, atividade, ofício, cargo ou função com violação dos deveres inerentes, e o art. 691 do Código de Processo Penal disciplina o procedimento de comunicação dessa mesma pena de interdição à autoridade administrativa competente após o trânsito em julgado da sentença.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cp.56",
+  "para": "l8078.78",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 78 do Código de Defesa do Consumidor autoriza a imposição da interdição temporária de direitos como pena acessória nos crimes contra as relações de consumo, observado o disposto nos arts. 44 a 47 do Código Penal, de modo que a disciplina da pena de interdição do art. 56 do Código Penal se aplica subsidiariamente aos crimes consumeristas na ausência de regime próprio na lei especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cp.56",
+  "para": "floripa_ctm.462",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 56 do Código Penal trata da pena de interdição de direitos imposta ao condenado por crime cometido no exercício de profissão, atividade, ofício, cargo ou função, enquanto o art. 462 do Código Tributário Municipal de Florianópolis disciplina a interdição administrativa, sempre temporária, de estabelecimento que descumpre obrigação tributária municipal, institutos distintos que compartilham o mesmo nome e geram risco real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cpc.121",
+  "para": "cpp.268",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 121 do Código de Processo Civil disciplina o assistente simples, terceiro que auxilia a parte principal em processo civil sujeitando-se aos mesmos poderes e ônus do assistido, enquanto o art. 268 do Código de Processo Penal trata do assistente do Ministério Público, figura distinta pela qual o ofendido intervém na ação penal pública para apoiar a acusação, institutos homônimos que geram risco real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cpc.121",
+  "para": "cpp.271",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 121 do Código de Processo Civil confere ao assistente simples os mesmos poderes e ônus processuais da parte assistida, enquanto o art. 271 do Código de Processo Penal atribui ao assistente criminal apenas poderes específicos e limitados, como propor meios de prova e arrazoar recursos, regime distinto que reforça o risco real de confusão entre as duas figuras chamadas assistente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cpp.52",
+  "para": "cp.104",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 52 do Código de Processo Penal trata do perdão exercido pelo querelante já no curso da ação penal privada, enquanto o art. 104 do Código Penal disciplina a renúncia ao direito de queixa, ato que impede o próprio ajuizamento da ação, institutos distintos e sucessivos no tempo que geram risco real de confusão entre renúncia e perdão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T23:20:13+00:00"
  }
 ]
