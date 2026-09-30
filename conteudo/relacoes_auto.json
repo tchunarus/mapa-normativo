@@ -6877,5 +6877,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "cc.628",
+  "para": "cpc.544",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 628 do Código Civil trata do depósito como contrato típico, presumido gratuito. O art. 544 do CPC emprega o termo depósito em sentido totalmente diverso, referindo-se à quantia ou coisa depositada na ação de consignação em pagamento para elidir a mora do devedor. Tratam de institutos distintos, apesar do termo comum depósito, havendo risco real de confusão para quem pesquisa apenas pela palavra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cc.628",
+  "para": "l9279.84",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O parágrafo único do art. 628 do Código Civil trata da retribuição do depositário no contrato civil de depósito. O art. 84 da Lei de Propriedade Industrial emprega a expressão retribuição anual e a data do depósito em sentido próprio do direito de patentes, referente ao pedido perante o INPI. Tratam de institutos totalmente distintos, com risco de confusão pelo uso comum dos termos depósito e retribuição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cc.644",
+  "para": "sc_ricms.77",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O parágrafo único do art. 644 do Código Civil permite a remoção da coisa para o Depósito Público quando as despesas ou prejuízos alegados pelo depositário não estiverem suficientemente provados. O art. 77 do RICMS-SC disciplina a retenção de mercadorias em depósito, mediante Termo de Ocorrência e Depósito, até a identificação do proprietário, em contexto de fiscalização tributária. Tratam de institutos distintos, o civil e o administrativo tributário, unidos apenas pelo uso do termo depósito público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cc.656",
+  "para": "cf.82",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 656 do Código Civil trata do mandato como contrato de outorga de poderes de representação, que pode ser expresso ou tácito, verbal ou escrito. O art. 82 da Constituição Federal emprega a palavra mandato em sentido inteiramente diverso, referente ao prazo de exercício do cargo de Presidente da República. Tratam de institutos totalmente distintos, com risco real de confusão pelo uso comum do termo mandato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cc.656",
+  "para": "lcp227.90",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 656 do Código Civil disciplina o mandato como negócio jurídico de representação voluntária, admitindo forma verbal ou escrita, expressa ou tácita. O art. 90 da Lei Complementar 227/2026 utiliza a palavra mandato para designar o prazo de exercício da função dos julgadores do processo administrativo tributário do IBS, sentido de cargo público e não de contrato. Tratam de institutos totalmente distintos, com risco de confusão pelo termo comum mandato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cc.656",
+  "para": "l9099.9",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 656 do Código Civil estabelece que o mandato pode ser expresso ou tácito, verbal ou escrito. O § 3º do art. 9º da Lei 9.099/95 especializa essa regra geral de forma para o mandato outorgado ao advogado no âmbito dos Juizados Especiais, admitindo a forma verbal, ressalvados os poderes especiais. Tratam do mesmo instituto da forma do mandato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cf.133",
+  "para": "cc.21",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 133 da Constituição Federal declara o advogado inviolável por seus atos e manifestações no exercício da profissão, imunidade profissional ligada à administração da justiça. O art. 21 do Código Civil emprega a palavra inviolável em sentido diverso, referente à proteção da vida privada da pessoa natural. Tratam de institutos distintos, unidos apenas pelo termo comum inviolável, com risco real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cf.133",
+  "para": "clt.855-B",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 133 da Constituição Federal firma a indispensabilidade do advogado à administração da justiça. O art. 855-B da CLT especializa esse princípio para o processo de homologação de acordo extrajudicial trabalhista, exigindo expressamente a representação das partes por advogado como requisito da petição conjunta. Tratam do mesmo instituto da indispensabilidade da advocacia perante o Poder Judiciário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "clt.484",
+  "para": "cc.945",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 484 da CLT reduz pela metade a indenização devida em razão de culpa recíproca na rescisão do contrato de trabalho, com critério fixo. O art. 945 do Código Civil estabelece a regra geral da concorrência de culpas, segundo a qual a indenização da vítima que concorreu culposamente para o dano é fixada proporcionalmente à gravidade de sua culpa em confronto com a do autor. O art. 484 especializa esse critério geral para a rescisão do contrato de trabalho, substituindo a proporcionalidade por fração fixa. Tratam do mesmo instituto da concorrência de culpas na fixação da indenização.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cpc.103",
+  "para": "cpp.430",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O parágrafo único do art. 103 do CPC permite à parte postular em causa própria quando tiver habilitação legal, no sentido de capacidade profissional para advogar. O art. 430 do CPP emprega a palavra habilitação em sentido processual diverso, referente à admissão do assistente de acusação no processo penal, mediante requerimento tempestivo. Tratam de institutos totalmente distintos, unidos apenas pelo termo comum habilitação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cpc.103",
+  "para": "clt.791-A",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 103 do CPC autoriza a parte a postular em causa própria quando tiver habilitação legal, regra que se aplica subsidiariamente ao processo do trabalho ante a omissão da CLT quanto à própria autorização da postulação em causa própria pelo advogado. O art. 791-A da CLT, partindo dessa possibilidade, assegura ao advogado honorários de sucumbência ainda quando atuar em causa própria. Tratam de institutos conexos, ligados pela postulação em causa própria pelo advogado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cpc.161",
+  "para": "cc.652",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 161 do CPC prevê que o depositário infiel responde civilmente pelos prejuízos causados, sem prejuízo de responsabilidade penal e de sanção por ato atentatório à dignidade da justiça. O art. 652 do Código Civil, tratando do mesmo depositário infiel, prescreve consequência diversa, a prisão não excedente a um ano além do ressarcimento dos prejuízos. Há conflito aparente entre os dois textos quanto à consequência jurídica atribuída ao mesmo instituto do depositário infiel.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cpc.161",
+  "para": "l11101.32",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 161 do CPC estabelece que o depositário ou o administrador responde pelos prejuízos que, por dolo ou culpa, causar à parte, perdendo a remuneração arbitrada. O art. 32 da Lei 11.101/05 especializa essa regra geral para o administrador judicial e os membros do Comitê na recuperação judicial e na falência, prevendo a forma de eximir-se da responsabilidade mediante consignação da discordância em ata de deliberação. Tratam do mesmo instituto da responsabilidade do auxiliar da justiça por dolo ou culpa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cpc.299",
+  "para": "l8397.5",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 299 do CPC estabelece que a tutela provisória será requerida ao juízo da causa. O art. 5º da Lei 8.397/92 especializa essa regra de competência para a medida cautelar fiscal, determinando que seja requerida ao juiz competente para a execução judicial da dívida ativa da Fazenda Pública, com regra específica de prevenção quando a execução estiver em tribunal. Tratam do mesmo instituto da competência para a tutela de urgência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cpc.299",
+  "para": "l11101.167-L",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 299 do CPC disciplina a competência para o requerimento da tutela provisória no processo civil. O art. 167-L da Lei 11.101/05 permite ao juiz conceder liminarmente medidas de tutela provisória, fundadas em urgência ou evidência, no processo de reconhecimento de processo estrangeiro, categorias que a lei de falências não define e que decorrem do regime geral do CPC aplicado subsidiariamente. Tratam de institutos conexos, ligados pela tutela provisória fundada em urgência ou evidência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cpc.299",
+  "para": "l8036.29-B",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 299 do CPC admite o requerimento da tutela provisória ao juízo da causa como regra geral. O art. 29-B da Lei 8.036/90 excepciona esse regime ao vedar medida liminar em mandado de segurança, em procedimento cautelar ou em qualquer tutela antecipada que implique saque ou movimentação da conta vinculada do trabalhador no FGTS. Tratam de institutos conexos, ligados pela vedação especial à tutela de urgência em matéria de FGTS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
+ },
+ {
+  "de": "cpc.299",
+  "para": "l13709.22",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 299 do CPC trata da tutela provisória como categoria processual de urgência ou evidência, prevista na Parte Geral do Código. O art. 22 da LGPD emprega a palavra tutela em sentido de proteção substantiva dos direitos do titular de dados, exercida individual ou coletivamente, sem relação com a tutela provisória processual. Tratam de institutos distintos, unidos apenas pelo termo comum tutela, com risco real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T20:22:25+00:00"
  }
 ]
