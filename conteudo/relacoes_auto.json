@@ -5147,5 +5147,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T06:13:16+00:00"
+ },
+ {
+  "de": "cc.1219",
+  "para": "l8245.35",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 35 da Lei 8.245/91 disciplina, para a locação de imóvel urbano, a indenização das benfeitorias necessárias e úteis e o direito de retenção previstos de modo geral no art. 1.219 do Código Civil, mas admite que as partes afastem esse direito por disposição contratual expressa, o que o Código Civil não permite ao possuidor de boa fé em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T09:20:40+00:00"
+ },
+ {
+  "de": "cc.1219",
+  "para": "l8245.36",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 36 da Lei 8.245/91 regula, para a locação de imóvel urbano, as benfeitorias voluptuárias de que trata o art. 1.219 do Código Civil, mantendo a vedação à indenização mas permitindo ao locatário levantá-las apenas quando a retirada não afetar a estrutura e a substância do imóvel.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T09:20:40+00:00"
+ },
+ {
+  "de": "cc.1219",
+  "para": "cpc.810",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 810 do CPC disciplina a liquidação prévia das benfeitorias indenizáveis na execução para entrega de coisa, dando efeito processual ao direito de indenização e retenção que o art. 1.219 do Código Civil confere ao possuidor de boa fé.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T09:20:40+00:00"
+ },
+ {
+  "de": "cc.1219",
+  "para": "cpc.793",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 793 do CPC limita a execução contra outros bens enquanto não excutida a coisa retida, aplicando na execução o direito de retenção que o art. 1.219 do Código Civil assegura ao possuidor de boa fé quanto às benfeitorias não indenizadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T09:20:40+00:00"
+ },
+ {
+  "de": "cc.1820",
+  "para": "cpc.741",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 741 do CPC disciplina a expedição do edital cuja primeira publicação é o marco inicial do prazo de um ano referido no art. 1.820 do Código Civil para a declaração de vacância da herança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T09:20:40+00:00"
+ },
+ {
+  "de": "cc.1820",
+  "para": "cpc.739",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 739 do CPC regula a curadoria da herança jacente até a entrega ao sucessor habilitado ou até a declaração de vacância mencionada no art. 1.820 do Código Civil, definindo os deveres do curador nesse período.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T09:20:40+00:00"
+ },
+ {
+  "de": "cc.206-A",
+  "para": "cpc.924",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 206-A do Código Civil fixa o prazo da prescrição intercorrente, e o inciso V do art. 924 do CPC prevê essa prescrição como causa de extinção da execução, dando efeito processual ao transcurso do prazo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T09:20:40+00:00"
+ },
+ {
+  "de": "cpc.760",
+  "para": "cc.1738",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 1.738 do Código Civil fixa em dez dias o prazo para a escusa do tutor, enquanto o art. 760 do CPC fixa cinco dias para o mesmo ato, o que gera conflito aparente de normas sobre qual prazo prevalece para a apresentação da escusa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T09:20:40+00:00"
+ },
+ {
+  "de": "cpc.760",
+  "para": "cc.1739",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 1.739 do Código Civil autoriza o nomeado a exercer a tutela enquanto pende recurso contra a decisão que não admite a escusa, ao passo que o art. 760 do CPC, no § 2º, prolonga esse exercício até a sentença transitada em julgado, criando conflito aparente sobre o momento em que cessa a obrigatoriedade do encargo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T09:20:40+00:00"
+ },
+ {
+  "de": "cpc.763",
+  "para": "cc.1765",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 763 do CPC disciplina a exoneração ou a recondução do tutor ou curador ao fim do prazo de dois anos de exercício obrigatório fixado no art. 1.765 do Código Civil, exigindo requerimento em dez dias sob pena de recondução tácita.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T09:20:40+00:00"
+ },
+ {
+  "de": "cpc.763",
+  "para": "cc.1758",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 763 do CPC, no § 2º, exige a prestação de contas ao cessar a tutela ou a curatela na forma da lei civil, requisito que o art. 1.758 do Código Civil complementa ao condicionar a eficácia da quitação do menor à aprovação das contas pelo juiz.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T09:20:40+00:00"
+ },
+ {
+  "de": "cpc.924",
+  "para": "clt.11-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 924 do CPC prevê a prescrição intercorrente como causa de extinção da execução, e o art. 11-A da CLT estabelece regra especial para o processo do trabalho, fixando prazo próprio de dois anos e admitindo a declaração de ofício, diverso do regime geral do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T09:20:40+00:00"
+ },
+ {
+  "de": "cpc.924",
+  "para": "lef.40",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 924 do CPC extingue a execução pela prescrição intercorrente, e o art. 40 da Lei de Execução Fiscal disciplina, para a execução fiscal, o mecanismo próprio de suspensão por um ano e arquivamento que antecede essa extinção, com prazo e requisitos próprios da cobrança da dívida ativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T09:20:40+00:00"
  }
 ]
