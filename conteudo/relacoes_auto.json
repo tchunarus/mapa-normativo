@@ -5277,5 +5277,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T09:20:40+00:00"
+ },
+ {
+  "de": "cc.1738",
+  "para": "lindb.3",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.738 do Código Civil trata da escusa do tutor ao encargo da tutela, um ato de recusa à função que lhe foi atribuída, enquanto o art. 3º da LINDB emprega a mesma palavra em sentido totalmente diverso, para negar que o desconhecimento da lei sirva de justificativa ao seu descumprimento, o que gera risco de confusão entre os dois institutos por mera coincidência terminológica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T10:20:22+00:00"
+ },
+ {
+  "de": "cc.1738",
+  "para": "cpp.443",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A escusa referida no art. 1.738 do Código Civil é a recusa do tutor ao encargo da tutela, enquanto a escusa do art. 443 do CPP diz respeito à dispensa do jurado do dever de comparecer ao júri, dois institutos distintos que apenas compartilham o mesmo termo, o que pode induzir a confusão em pesquisa por palavra-chave.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T10:20:22+00:00"
+ },
+ {
+  "de": "cc.1739",
+  "para": "cpc.300",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.739 do Código Civil emprega o termo tutela no sentido de encargo de proteção do menor sob responsabilidade do tutor, enquanto o art. 300 do CPC utiliza a mesma palavra para designar a tutela de urgência, medida processual de natureza cautelar ou antecipatória, institutos totalmente distintos que apenas compartilham a nomenclatura e podem gerar confusão em consultas por palavra-chave.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T10:20:22+00:00"
+ },
+ {
+  "de": "clt.11-A",
+  "para": "cc.206-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 11-A da CLT fixa prazo próprio de dois anos para a prescrição intercorrente no processo do trabalho, contado do descumprimento de determinação judicial na execução, enquanto o art. 206-A do Código Civil estabelece a regra geral de que a prescrição intercorrente segue o mesmo prazo da pretensão discutida, de modo que a norma trabalhista funciona como regra especial em relação à regra civil geral sobre o mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T10:20:22+00:00"
+ },
+ {
+  "de": "clt.11-A",
+  "para": "lef.40",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 11-A da CLT prevê prescrição intercorrente automática em dois anos quando o exequente deixa de cumprir determinação judicial na execução trabalhista, enquanto o art. 40 da Lei de Execução Fiscal condiciona a prescrição intercorrente à suspensão do feito por um ano sem localização do devedor ou de bens, seguida de arquivamento, dinâmica distinta que pode ser indevidamente transposta para o processo do trabalho por analogia com a execução fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T10:20:22+00:00"
+ },
+ {
+  "de": "cpc.793",
+  "para": "cc.1433",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 793 do CPC pressupõe a existência de direito de retenção do exequente sobre coisa do devedor sem definir sua origem, remetendo implicitamente a normas civis como o art. 1.433 do Código Civil, que concede ao credor pignoratício o direito de reter a coisa empenhada até ser indenizado das despesas comprovadas, instituto conexo que fundamenta a limitação processual imposta pelo CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T10:20:22+00:00"
  }
 ]
