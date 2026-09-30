@@ -4807,5 +4807,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-29T23:20:15+00:00"
+ },
+ {
+  "de": "cc.1371",
+  "para": "ctn.34",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.371 do Código Civil impõe ao superficiário o pagamento dos tributos que recaiam sobre o imóvel, e o art. 34 do CTN define como contribuinte do imposto predial e territorial urbano o proprietário, o titular do domínio útil ou o possuidor a qualquer título, categoria em que se enquadra o superficiário. O dispositivo civil regula a relação interna entre proprietário e superficiário, enquanto o tributário define quem responde perante o fisco, sem se confundirem os dois planos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cc.1371",
+  "para": "ctn.31",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.371 do Código Civil impõe ao superficiário o pagamento dos tributos que recaiam sobre o imóvel, e o art. 31 do CTN define como contribuinte do imposto territorial rural o proprietário, o titular do domínio útil ou o possuidor a qualquer título, categoria em que também se enquadra o superficiário de imóvel rural. O dispositivo civil regula a relação interna entre proprietário e superficiário, enquanto o tributário define quem responde perante o fisco, sem se confundirem os dois planos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cc.1744",
+  "para": "cpc.762",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 1.744 do Código Civil responsabiliza subsidiariamente o juiz que não remove o tutor suspeito, e o art. 762 do CPC lhe confere o instrumento para tanto, ao autorizar a suspensão do tutor em caso de extrema gravidade, com nomeação de substituto interino. O dispositivo processual complementa o civil ao fornecer a medida concreta que evita a responsabilização do magistrado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cc.337",
+  "para": "cpc.539",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 337 do Código Civil regula os efeitos do depósito da consignação em pagamento quanto à cessação de juros e riscos, e o art. 539 do CPC disciplina o procedimento pelo qual o devedor ou terceiro requer essa consignação perante o juízo do lugar do pagamento. O dispositivo civil descreve o efeito material do depósito, e o processual, o modo de efetuá-lo em juízo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cc.337",
+  "para": "cpc.544",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 337 do Código Civil condiciona a cessação de juros e riscos ao depósito feito no lugar do pagamento, e o inciso III do art. 544 do CPC prevê exatamente essa alegação como defesa do réu na ação de consignação, ao lado da falta de integralidade do depósito. O dispositivo processual complementa o civil ao definir os fundamentos pelos quais o credor pode afastar os efeitos favoráveis ao devedor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cpc.613",
+  "para": "cc.1797",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 613 do CPC atribui a posse do espólio, até o compromisso do inventariante, ao administrador provisório, e o art. 1.797 do Código Civil identifica quem exerce essa função, na ordem sucessiva do cônjuge ou companheiro, do herdeiro na posse, do testamenteiro e da pessoa de confiança do juiz. O dispositivo civil preenche de conteúdo o que o processual designa genericamente como administrador provisório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cpc.617",
+  "para": "cc.1990",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 617 do CPC nomeia inventariante o testamenteiro quando toda a herança estiver distribuída em legados, e o art. 1.990 do Código Civil enuncia a mesma regra material, atribuindo ao testamenteiro, nessa hipótese, as funções de inventariante. O dispositivo processual reproduz, no rito de nomeação, a consequência já prevista na lei civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cpc.617",
+  "para": "cc.1977",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 617 do CPC prevê a nomeação do testamenteiro como inventariante quando lhe tenha sido confiada a administração do espólio, e o art. 1.977 do Código Civil disciplina justamente essa hipótese, ao permitir que o testador conceda ao testamenteiro a posse e a administração da herança quando não houver cônjuge ou herdeiros necessários. O dispositivo civil fornece o pressuposto material para a nomeação processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cpc.617",
+  "para": "cc.1797",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 617 do CPC e o art. 1.797 do Código Civil estabelecem ordens de preferência semelhantes, envolvendo cônjuge, herdeiro na posse e testamenteiro, mas para fases distintas: o dispositivo civil rege a administração provisória antes do compromisso, e o processual, a nomeação definitiva do inventariante, com rol mais extenso, que inclui qualquer herdeiro, o herdeiro menor, o cessionário e a pessoa estranha idônea. Há risco real de se aplicar por engano a ordem de um dispositivo à hipótese do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cpc.739",
+  "para": "cc.1819",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 739 do CPC e o art. 1.819 do Código Civil regulam o mesmo instituto da herança jacente, com redação quase idêntica quanto à guarda e à administração dos bens por um curador até a entrega ao sucessor habilitado ou a declaração de vacância. O dispositivo civil enuncia a regra material da jacência, e o processual detalha as incumbências do curador nomeado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cpc.739",
+  "para": "cc.1822",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 739 do CPC mantém a herança jacente sob curatela até a declaração de vacância, e o art. 1.822 do Código Civil disciplina os efeitos dessa declaração, ressalvando a habilitação posterior de herdeiros e prevendo a transmissão dos bens ao Município ou ao Distrito Federal após cinco anos da abertura da sucessão. O dispositivo civil completa o processual ao definir o destino dos bens uma vez encerrada a curatela.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cpc.739",
+  "para": "cc.25",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 739 do CPC trata do curador da herança jacente, nomeado para guardar e administrar bens até a habilitação do sucessor ou a declaração de vacância, e o art. 25 do Código Civil trata do curador dos bens do ausente, nomeado quando o titular do patrimônio desaparece sem notícia de seu paradeiro. Ambos envolvem um curador de bens sem titular presente, mas em institutos distintos, herança jacente e ausência, que não devem ser confundidos apesar da semelhança funcional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cpc.902",
+  "para": "cc.1481",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 902 do CPC trata da remição do bem hipotecado pelo executado no curso do leilão judicial, mediante oferta de preço igual ao maior lance, e o art. 1.481 do Código Civil trata da remição da hipoteca pelo adquirente do imóvel hipotecado, que paga os credores hipotecários fora de qualquer execução judicial. Os dois institutos compartilham o nome remição e o objeto hipoteca, mas operam em contextos distintos, e a confusão entre eles é risco reconhecido pela doutrina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cpc.902",
+  "para": "cc.1510",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 902 do CPC disciplina a remição do bem hipotecado no leilão judicial pelo executado, e o art. 1.510 do Código Civil disciplina a remição dos bens dados em anticrese pelo adquirente, antes do vencimento da dívida. O ponto de contato está apenas no uso comum do termo remição, pois hipoteca e anticrese são direitos reais de garantia distintos, com mecanismos próprios de extinção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cpc.915",
+  "para": "l9099.83",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 915 do CPC trata dos embargos à execução, meio de defesa do executado contra a pretensão executiva, e o art. 83 da Lei 9.099/95 trata dos embargos de declaração, cabíveis contra sentença ou acórdão com obscuridade, contradição ou omissão. O ponto de contato está apenas na palavra embargos, pois se trata de institutos processuais inteiramente diferentes, um de defesa executiva e outro de integração de julgado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T00:14:07+00:00"
  }
 ]
