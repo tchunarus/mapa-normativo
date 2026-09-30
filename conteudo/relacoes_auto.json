@@ -5717,5 +5717,205 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T13:27:09+00:00"
+ },
+ {
+  "de": "cpc.799",
+  "para": "cc.1420",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 799 do CPC impõe ao exequente o dever de requerer a intimação do credor pignoratício, hipotecário ou anticrético quando a penhora recair sobre bem gravado por essas garantias reais. Essa exigência processual protege exatamente o credor cuja garantia real foi validamente constituída nos termos do art. 1.420 do Código Civil, que exige que só o titular do bem alienável possa empenhá-lo, hipotecá-lo ou dá-lo em anticrese.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "cpc.779",
+  "para": "cc.1420",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso V do art. 779 do CPC legitima a execução contra o responsável titular do bem vinculado por garantia real ao pagamento do débito. Essa legitimidade passiva pressupõe a garantia real validamente constituída segundo o art. 1.420 do Código Civil, que só permite ao titular do bem alienável empenhá-lo, hipotecá-lo ou dá-lo em anticrese.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "l11101.129",
+  "para": "cc.1420",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 129 da Lei 11.101/2005 torna ineficaz em relação à massa falida a constituição de direito real de garantia dentro do termo legal, ainda que essa garantia tenha sido validamente constituída pelo titular do bem alienável nos termos do art. 1.420 do Código Civil. A validade civil da garantia não afasta a ineficácia falimentar quando constituída no período suspeito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "cpc.495",
+  "para": "cc.1420",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "A hipoteca judiciária do art. 495 do CPC nasce da decisão condenatória, independentemente de manifestação de vontade do devedor, o que excepciona a regra do art. 1.420 do Código Civil de que só o titular do bem alienável pode constituir garantia real por ato próprio. Aqui a garantia real surge por efeito da lei processual, e não por ato negocial do titular do bem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "lcp214.200",
+  "para": "cc.1428",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 200 da LC 214/2025 disciplina os efeitos tributários da consolidação da propriedade do bem em favor do credor de garantia, quando essa propriedade lhe é transmitida em pagamento da dívida. O art. 1.428 do Código Civil veda a cláusula que autoriza o credor a ficar de antemão com o objeto da garantia se a dívida não for paga no vencimento, mas permite, no parágrafo único, que o devedor dê a coisa em pagamento após o vencimento, o que pode gerar confusão entre a consolidação lícita da propriedade em garantia e o pacto comissório vedado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "cc.1490",
+  "para": "cpp.134",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 134 do CPP disciplina a hipoteca legal sobre os imóveis do indiciado no processo penal, mas não regula a hipótese de insuficiência dos imóveis especializados. Aplica-se subsidiariamente o art. 1.490 do Código Civil, que autoriza o credor da hipoteca legal a exigir do devedor o reforço da garantia quando comprovada essa insuficiência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "cpp.135",
+  "para": "cc.1490",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 135 do CPP disciplina o procedimento de especialização da hipoteca legal, com estimação da responsabilidade e avaliação do imóvel pelo juiz. É esse procedimento que produz os imóveis especializados a que se refere o art. 1.490 do Código Civil ao autorizar o credor a exigir reforço da garantia quando esses imóveis se mostrarem insuficientes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "cpp.137",
+  "para": "cc.1490",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 137 do CPP permite o arresto de bens móveis suscetíveis de penhora quando o responsável não possuir imóveis ou os possuir de valor insuficiente, nos termos em que é facultada a hipoteca legal dos imóveis. Essa regra complementa o art. 1.490 do Código Civil, que trata do reforço da garantia mediante outros imóveis, ao oferecer alternativa em bens móveis quando não há imóveis suficientes para o reforço.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "cpc.495",
+  "para": "cc.1490",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A hipoteca legal do art. 1.490 do Código Civil e a hipoteca judiciária do art. 495 do CPC são modalidades de hipoteca que independem de negócio jurídico de constituição pelo proprietário do imóvel, o que pode gerar confusão entre os dois institutos. A primeira decorre de autorização legal em favor de credor determinado, e a segunda nasce automaticamente da decisão condenatória em dinheiro, ainda que a condenação seja genérica, conforme o § 1º, I, do art. 495.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "cpc.735",
+  "para": "cc.1875",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 735 do CPC detalha o procedimento pelo qual o juiz recebe o testamento cerrado e, não achando vício externo que o torne suspeito de nulidade ou falsidade, o abre e manda que o escrivão o leia em presença do apresentante. Esse é o procedimento que implementa a regra geral do art. 1.875 do Código Civil, segundo a qual o testamento é apresentado ao juiz, que o abre e manda registrar, se não achar vício externo que o torne eivado de nulidade ou suspeito de falsidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "cpc.427",
+  "para": "cc.1875",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 427 do CPC define a falsidade documental como formar documento não verdadeiro ou alterar documento verdadeiro. Esse conceito complementa o critério do art. 1.875 do Código Civil, que autoriza o juiz a recusar a abertura e o registro do testamento quando encontrar vício externo que o torne suspeito de falsidade, sem definir o que caracteriza essa falsidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "cpc.737",
+  "para": "cc.1875",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 737 do CPC regula a publicação do testamento particular, requerida após a morte do testador, com procedimento próprio de intimação dos herdeiros e confirmação pelo juiz. O art. 1.875 do Código Civil trata da abertura do testamento cerrado, com juízo de admissibilidade sobre vício externo de nulidade ou falsidade, o que pode gerar confusão entre os ritos de abertura e confirmação aplicáveis a cada modalidade de testamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "cp.292",
+  "para": "cc.907",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 292 do CP tipifica como crime emitir, sem permissão legal, título que contenha promessa de pagamento em dinheiro ao portador ou sem indicação do beneficiário. Essa norma penal complementa a nulidade civil do art. 907 do Código Civil, que declara nulo o título ao portador emitido sem autorização de lei especial, formando com ela o mesmo regime de proteção contra a emissão não autorizada de títulos ao portador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "lsa.292",
+  "para": "cc.907",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 292 da Lei das Sociedades por Ações autoriza as sociedades de que trata o art. 62 da Lei 4.728/1965 a emitir ações ao portador. Essa autorização especial excepciona a regra geral do art. 907 do Código Civil, que considera nulo o título ao portador emitido sem autorização de lei especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "clt.49",
+  "para": "cp.299",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O caput do art. 49 da CLT tipifica como crime de falsidade, para os efeitos de emissão, substituição ou anotação de Carteiras de Trabalho e Previdência Social, as condutas descritas em seus incisos, remetendo expressamente às penalidades previstas no art. 299 do Código Penal, que tipifica a falsidade ideológica em documento público ou particular.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "d70235.22",
+  "para": "cpc.207",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 22 do PAF determina que o processo administrativo fiscal seja organizado em ordem cronológica e tenha suas folhas numeradas e rubricadas. O art. 207 do CPC impõe exigência semelhante ao escrivão ou chefe de secretaria quanto aos autos judiciais, o que pode gerar confusão sobre qual regime de numeração e rubrica se aplica a cada tipo de processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "l9492.33",
+  "para": "cpc.207",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 33 da Lei 9.492/1997 exige que os livros de Registros de Protesto sejam abertos e encerrados pelo tabelião de protesto ou por escrevente autorizado, com folhas numeradas e rubricadas. O art. 207 do CPC impõe formalidade análoga aos autos judiciais, a cargo do escrivão ou chefe de secretaria, o que pode gerar confusão entre os requisitos de numeração e rubrica de cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "clt.784",
+  "para": "cpc.207",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 784 da CLT determina que as reclamações trabalhistas sejam registradas em livro próprio, rubricado em todas as folhas pela autoridade a que estiver subordinado o distribuidor. O art. 207 do CPC exige formalidade semelhante de numeração e rubrica para os autos do processo civil, o que pode gerar confusão entre os requisitos de cada regime processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "cpp.145",
+  "para": "cpc.431",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 145 do CPP disciplina o rito da arguição de falsidade de documento constante dos autos, com autuação em apartado, resposta da parte contrária e prazo para prova das alegações. O art. 431 do CPC exige que a parte, ao arguir a falsidade, exponha os motivos em que funda sua pretensão e os meios com que provará o alegado, o que pode gerar confusão entre os requisitos e o rito do mesmo incidente em cada código processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
+ },
+ {
+  "de": "cpp.146",
+  "para": "cpc.431",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 146 do CPP exige poderes especiais do procurador para arguir a falsidade, exigência que o art. 431 do CPC não reproduz ao tratar dos motivos e das provas que a parte deve apresentar ao arguir a falsidade, o que pode gerar confusão sobre os requisitos aplicáveis ao mandato do advogado em cada rito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T14:24:35+00:00"
  }
 ]
