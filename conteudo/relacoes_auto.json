@@ -7107,5 +7107,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T21:20:54+00:00"
+ },
+ {
+  "de": "adct.4",
+  "para": "cf.29",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 4º, § 4º, do ADCT encerra, em 1º de janeiro de 1989, o mandato dos então Prefeitos, Vice-Prefeitos e Vereadores, excepcionando, para esse grupo em transição, a duração de quatro anos fixada pelo inciso I do art. 29 da CF para o mandato municipal em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T22:19:28+00:00"
+ },
+ {
+  "de": "cpc.756",
+  "para": "cc.1774",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 756 do CPC disciplina o procedimento para o levantamento da curatela quando cessa a causa que a determinou, dando efetividade processual ao regime substantivo da curatela que o art. 1.774 do CC estabelece ao determinar a aplicação, com as modificações dos artigos seguintes do próprio Código Civil, das disposições relativas à tutela.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T22:19:28+00:00"
+ },
+ {
+  "de": "cpc.756",
+  "para": "floripa_ctm.462",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 756, § 3º, do CPC trata do levantamento da interdição decretada em processo de curatela, situação distinta da interdição prevista no art. 462 do Código Tributário Municipal de Florianópolis, que é sanção administrativa aplicada ao infrator fiscal, existindo risco de confusão pela identidade do termo empregado nos dois diplomas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T22:19:28+00:00"
+ },
+ {
+  "de": "cpp.375",
+  "para": "cp.56",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 375 do CPP exige fundamentação para o despacho que aplica, substitui ou revoga a interdição de direito, pena cujas hipóteses gerais, previstas nos incisos I e II do art. 47 do CP, estão definidas no art. 56 do próprio Código Penal para os crimes cometidos no exercício de profissão, atividade, ofício, cargo ou função.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T22:19:28+00:00"
+ },
+ {
+  "de": "cpp.154",
+  "para": "cp.52",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 154 do CPP regula, de modo geral, a insanidade mental superveniente no curso da execução da pena, ao passo que o art. 52 do CP especializa esse mesmo instituto para a pena de multa, suspendendo sua execução quando sobrevém ao condenado doença mental.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T22:19:28+00:00"
+ },
+ {
+  "de": "cpp.430",
+  "para": "cpc.121",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 430 do CPP fixa prazo para habilitação do assistente de acusação antes da sessão de julgamento no Tribunal do Júri, instituto que pode ser confundido com o assistente simples do art. 121 do CPC, auxiliar da parte principal no processo civil, cujos poderes e ônus processuais são distintos dos atribuídos ao assistente penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T22:19:28+00:00"
+ },
+ {
+  "de": "cpp.51",
+  "para": "cp.104",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 51 do CPP trata do perdão do ofendido, ato posterior ao oferecimento da queixa, que pode ser confundido com a renúncia ao direito de queixa prevista no art. 104 do CP, manifestada antes do exercício desse direito e com efeitos extintivos próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T22:19:28+00:00"
+ },
+ {
+  "de": "cpp.51",
+  "para": "cp.120",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 51 do CPP regula o perdão do ofendido em ação penal privada, instituto que pode ser confundido com o perdão judicial do art. 120 do CP, concedido pelo juiz em hipóteses específicas e cujos efeitos, ao contrário do perdão do ofendido, não geram reincidência nem dependem de aceitação do réu.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T22:19:28+00:00"
  }
 ]
