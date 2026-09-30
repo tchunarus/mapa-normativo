@@ -4957,5 +4957,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T00:14:07+00:00"
+ },
+ {
+  "de": "cc.1819",
+  "para": "cpc.743",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.819 do CC prevê que a administração da herança jacente pelo curador perdura até a entrega ao sucessor habilitado ou a declaração de vacância; o art. 743 do CPC complementa essa regra ao fixar o prazo, um ano da primeira publicação do edital, e o procedimento para a prolação da sentença que declara a vacância, evento que encerra o regime do art. 1.819.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T01:09:44+00:00"
+ },
+ {
+  "de": "cc.1822",
+  "para": "cpc.743",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.822 do CC disciplina os efeitos da declaração de vacância da herança, a preservação dos direitos dos herdeiros habilitados, a exclusão dos colaterais não habilitados e, decorridos cinco anos, a transferência dos bens ao Município, ao Distrito Federal ou à União; o art. 743 do CPC disciplina o procedimento e o prazo para a própria declaração de vacância ser proferida. Os dispositivos se complementam ao tratar, um dos efeitos materiais e outro do procedimento, do mesmo instituto, a declaração de vacância da herança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T01:09:44+00:00"
+ },
+ {
+  "de": "cc.1977",
+  "para": "cpc.616",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 1.977 do CC assegura a qualquer herdeiro o direito de requerer partilha imediata ou a devolução da herança quando a posse e a administração estiverem com o testamenteiro; o art. 616 do CPC atribui ao herdeiro, entre outros, legitimidade concorrente para requerer o inventário e a partilha. Os dispositivos se complementam ao assegurar, um pela via material e outro pela via processual, a possibilidade de o herdeiro provocar a partilha ainda quando a administração da herança esteja com o testamenteiro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T01:09:44+00:00"
+ },
+ {
+  "de": "cc.1990",
+  "para": "cpc.645",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.990 do CC atribui ao testamenteiro as funções de inventariante quando toda a herança é distribuída em legados; o art. 645 do CPC, na mesma hipótese, legitima o legatário a se manifestar sobre as dívidas do espólio. Os dispositivos disciplinam, em conjunto, os efeitos processuais dessa situação específica, herança integralmente dividida em legados, um definindo quem administra o espólio, o outro quem pode se manifestar sobre as dívidas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T01:09:44+00:00"
+ },
+ {
+  "de": "cpc.762",
+  "para": "cc.1764",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.764 do CC elenca as hipóteses de cessação definitiva das funções do tutor, expiração do termo, escusa legítima ou remoção; o art. 762 do CPC confere ao juiz poder de suspender cautelarmente o tutor ou o curador em caso de extrema gravidade, nomeando substituto interino, medida provisória distinta da cessação definitiva. Tratam de institutos conexos relativos ao afastamento do tutor ou curador, com naturezas e efeitos diversos, suspensão cautelar e cessação definitiva.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T01:09:44+00:00"
  }
 ]
