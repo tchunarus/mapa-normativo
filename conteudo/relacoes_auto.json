@@ -6677,5 +6677,205 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.1757",
+  "para": "cpc.763",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.757 do Código Civil fixa o dever do tutor de prestar contas de dois em dois anos, e o § 2º do art. 763 do CPC confirma que, cessada a tutela ou a curatela, é indispensável a prestação de contas pelo tutor ou pelo curador na forma da lei civil. Tratam do mesmo instituto, cabendo ao CPC o rito processual da obrigação material prevista no Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "cc.1757",
+  "para": "cpc.299",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.757 do Código Civil trata da tutela como instituto de proteção do menor incapaz, com dever periódico de prestação de contas, enquanto o art. 299 do CPC disciplina a tutela provisória, medida de urgência ou de evidência dentro do processo civil. Apesar do termo comum, tratam de institutos totalmente distintos, havendo risco real de confusão para quem pesquisa apenas pela palavra tutela.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "cc.1759",
+  "para": "cpc.763",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.759 do Código Civil impõe aos herdeiros ou representantes do tutor falecido, ausente ou interditado o dever de prestar as contas da tutela, e o § 2º do art. 763 do CPC confirma que a cessação das funções do tutor torna indispensável a prestação de contas na forma da lei civil. Tratam do mesmo instituto, cabendo ao CPC o rito da prestação de contas decorrente da cessação do encargo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "cc.1762",
+  "para": "cpc.491",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 491 do CPC exige que toda decisão condenatória a pagar quantia defina desde logo o índice de correção monetária, a taxa de juros e o termo inicial de ambos, como regra geral do processo civil. O art. 1.762 do Código Civil especializa essa regra para a tutela, antecipando o termo inicial dos juros sobre o alcance do tutor e o saldo contra o tutelado para a data do julgamento definitivo das contas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "l13709.42",
+  "para": "cc.927",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 927 do Código Civil estabelece o dever geral de reparar o dano causado por ato ilícito. O art. 42 da Lei Geral de Proteção de Dados especializa essa regra para o controlador ou o operador que, no tratamento de dados pessoais, causar dano patrimonial, moral, individual ou coletivo a outrem. Tratam do mesmo instituto da responsabilidade civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "lsa.246",
+  "para": "cc.927",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 246 da Lei das Sociedades por Ações especializa, para a sociedade controladora que praticar atos com infração ao disposto nos arts. 116 e 117 da mesma lei, o dever geral de reparar o dano decorrente de ato ilícito previsto no art. 927 do Código Civil. Tratam do mesmo instituto da responsabilidade civil por dano injusto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "l12846.21",
+  "para": "cc.927",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 21 da Lei 12.846/13 dispõe que a condenação em ação de responsabilização torna certa a obrigação de reparar integralmente o dano causado pelo ilícito, especializando para a responsabilidade de pessoas jurídicas por atos de corrupção o dever geral de reparação do dano previsto no art. 927 do Código Civil. Tratam do mesmo instituto da responsabilidade civil por ato ilícito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "cc.927",
+  "para": "cpp.63",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O dever de reparar o dano causado por ato ilícito, previsto no art. 927 do Código Civil, quando o ilícito também constituir crime, é executado no juízo cível conforme o art. 63 do CPP, que permite ao ofendido, a seu representante legal ou a seus herdeiros promover a execução da sentença penal condenatória para o efeito da reparação do dano. Tratam do mesmo instituto, cabendo ao CPP disciplinar essa via processual específica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "clt.484",
+  "para": "cc.944",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 944 do Código Civil permite ao juiz reduzir equitativamente a indenização quando houver excessiva desproporção entre a gravidade da culpa e o dano. O art. 484 da CLT especializa esse princípio para o contrato de trabalho, determinando a redução pela metade da indenização por culpa recíproca na rescisão, com critério fixo e não equitativo. Tratam de institutos conexos, ligados pela ideia de redução da indenização em razão da culpa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "cc.944",
+  "para": "cpp.63",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "A extensão do dano que, nos termos do art. 944 do Código Civil, mede a indenização é apurada, quando a reparação decorrer de sentença penal condenatória, pela liquidação prevista no parágrafo único do art. 63 do CPP, que ressalva a apuração do dano efetivamente sofrido ainda que já executado o valor mínimo fixado na sentença criminal. Tratam do mesmo instituto da mensuração do dano indenizável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "clt.791",
+  "para": "cpc.103",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 103 do CPC exige, como regra geral, que a parte seja representada em juízo por advogado inscrito na Ordem dos Advogados do Brasil. O art. 791 da CLT excepciona essa regra ao permitir que empregados e empregadores reclamem pessoalmente perante a Justiça do Trabalho e acompanhem suas reclamações até o final. Tratam do mesmo instituto da capacidade postulatória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "clt.791",
+  "para": "cf.133",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 133 da Constituição Federal afirma ser o advogado indispensável à administração da justiça, nos limites da lei. O art. 791 da CLT excepciona, nesses limites, a indispensabilidade do advogado ao facultar aos empregados e empregadores reclamar pessoalmente nos dissídios individuais perante a Justiça do Trabalho. Tratam do mesmo instituto da capacidade postulatória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "cc.656",
+  "para": "clt.791",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 791 da CLT permite a constituição de procurador mediante simples registro em ata de audiência, a requerimento verbal do advogado, com anuência da parte representada. O art. 656 do Código Civil, ao admitir que o mandato seja verbal, aplica-se subsidiariamente para fundamentar a validade dessa forma simplificada de outorga de poderes no processo do trabalho. Tratam do mesmo instituto da forma do mandato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "cp.57",
+  "para": "cc.1759",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 57 do Código Penal trata da pena de interdição prevista no inciso III do art. 47 do mesmo Código, sanção penal acessória que restringe o exercício de atividade. O art. 1.759 do Código Civil emprega a palavra interdição em sentido diverso, referindo-se à incapacidade civil do tutor declarada por sentença. Apesar do termo comum, tratam de institutos totalmente distintos, havendo risco real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "cp.57",
+  "para": "cpc.755",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A pena de interdição do art. 57 do Código Penal é sanção penal acessória imposta em sentença condenatória. O art. 755 do CPC disciplina a sentença que decreta a interdição civil, pela qual o juiz nomeia curador e fixa os limites da curatela segundo o estado e o desenvolvimento mental do interdito. Tratam de institutos totalmente distintos, apesar do termo comum interdição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "cp.57",
+  "para": "l8078.59",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A interdição do art. 57 do Código Penal é pena criminal acessória. O art. 59 do CDC trata a interdição como sanção administrativa aplicada ao fornecedor reincidente em infrações de maior gravidade, mediante procedimento administrativo com ampla defesa. Tratam de institutos totalmente distintos, apesar do termo comum interdição, havendo risco real de confusão para quem pesquisa apenas pela palavra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "cp.57",
+  "para": "cpp.375",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 375 do CPP exige que seja fundamentado o despacho que aplicar, provisoriamente, substituir ou revogar a interdição de direito, disciplinando o procedimento para a mesma pena de interdição prevista substantivamente no art. 47 do Código Penal e mencionada no art. 57. Tratam do mesmo instituto, cabendo ao CPP regular a aplicação provisória dessa pena no curso do processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "l11101.24",
+  "para": "cpc.160",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 160 do CPC estabelece que o juiz fixará a remuneração do depositário ou do administrador levando em conta a situação dos bens, o tempo do serviço e as dificuldades de sua execução. O art. 24 da Lei 11.101/05 especializa essa regra para o administrador judicial na falência e na recuperação judicial, acrescentando no § 1º o limite de cinco por cento do valor devido aos credores ou do valor de venda dos bens. Tratam do mesmo instituto da remuneração judicial do auxiliar da justiça.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "cpc.160",
+  "para": "cc.628",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 628 do Código Civil estabelece a regra geral de que o depósito é gratuito, salvo convenção em contrário, e que a retribuição do depositário, quando onerosa e não fixada em lei ou ajuste, será determinada pelos usos do lugar ou por arbitramento. O art. 160 do CPC especializa essa regra para o depósito judicial, atribuindo ao juiz a fixação da remuneração conforme a situação dos bens e as dificuldades do serviço. Tratam do mesmo instituto da retribuição do depositário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
+ },
+ {
+  "de": "cc.644",
+  "para": "cpc.160",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 644 do Código Civil confere ao depositário o direito de reter o depósito até que se lhe pague a retribuição devida, prevendo mecanismo de garantia do pagamento da remuneração fixada. Na omissão do CPC quanto a meio de coerção para o recebimento da remuneração fixada nos termos do art. 160, aplica-se subsidiariamente essa regra civil. Tratam de institutos conexos, ligados pela remuneração do depositário judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T19:21:51+00:00"
  }
 ]
