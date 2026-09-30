@@ -6427,5 +6427,255 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cc.1775",
+  "para": "cpc.756",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.775 do CC define quem exerce a curatela do cônjuge ou companheiro interdito, e o art. 756 do CPC complementa esse instituto ao regular o levantamento da curatela quando cessar a causa que a determinou, mediante pedido do interdito, do curador ou do Ministério Público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.1775",
+  "para": "cpc.752",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O curador do art. 1.775 do CC é o curador definitivo nomeado na sentença de interdição segundo a ordem legal ali prevista, e não se confunde com o curador especial do art. 752, § 2º, do CPC, nomeado provisoriamente para representar o interditando na fase de impugnação quando este não constituir advogado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.1775",
+  "para": "cpc.71",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.775 do CC estabelece a ordem legítima de curador do cônjuge ou companheiro interdito, e o art. 71 do CPC complementa esse instituto conexo ao atribuir a esse mesmo curador a função de representar o incapaz em juízo, na forma da lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.1782",
+  "para": "cpc.749",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.782 do CC restringe o pródigo interditado, sem curador, à prática de atos de disposição patrimonial e de administração extraordinária, e o art. 749 do CPC disciplina o procedimento dessa interdição ao exigir que a petição inicial especifique os fatos que demonstram a incapacidade do interditando para administrar seus bens e praticar atos da vida civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.1782",
+  "para": "cpc.756",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.782 do CC restringe os atos do pródigo enquanto durar a curatela, e o art. 756 do CPC complementa esse instituto ao regular o levantamento da curatela quando cessar a causa que a determinou, com o consequente fim dessas restrições patrimoniais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.1782",
+  "para": "floripa_ctm.462",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.782 do CC trata da interdição civil do pródigo, restrição à capacidade negocial declarada por sentença judicial, e não se confunde com a interdição do art. 462 do Código Tributário Municipal de Florianópolis, sanção administrativa temporária aplicada ao infrator para cumprimento de obrigação municipal, apesar do mesmo termo empregado para institutos totalmente distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.1782",
+  "para": "cp.57",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.782 do CC disciplina a interdição civil do pródigo, restrição de capacidade para atos patrimoniais, e não se confunde com a pena de interdição referida no art. 57 do CP, sanção penal aplicável aos crimes culposos de trânsito, institutos diversos que apenas compartilham o termo empregado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.627",
+  "para": "cpc.160",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 627 do CC define o contrato de depósito como aquele em que o depositário recebe um bem móvel para guardar até a reclamação do depositante, e o art. 160 do CPC complementa esse instituto conexo ao regular a remuneração devida ao depositário nomeado em juízo pelo trabalho de guarda dos bens sob sua responsabilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.627",
+  "para": "l14973.39",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 627 do CC define o contrato de depósito civil de bem móvel entre depositante e depositário, e não se confunde com o depósito judicial de que trata o art. 39 da Lei 14.973/24, conta bancária de valores à disposição do Poder Judiciário, sujeita a prazo próprio de levantamento e a prescrição de cinco anos para restituição, institutos diversos que apenas compartilham o termo empregado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.627",
+  "para": "l9279.61",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 627 do CC emprega os termos depositante e depositário para as partes do contrato civil de depósito de bem móvel, e não se confunde com o depositante do art. 61 da Lei 9.279/96, que designa o titular do pedido de patente protocolado perante o INPI, sentido inteiramente distinto conferido ao mesmo vocábulo pela legislação de propriedade industrial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.640",
+  "para": "cpc.161",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 640 do CC responsabiliza o depositário por culpa na escolha do terceiro a quem confiar a coisa depositada, e o art. 161 do CPC complementa esse instituto conexo ao impor ao depositário ou administrador judicial a mesma responsabilidade por dolo ou culpa nos prejuízos causados à parte, com a perda da remuneração arbitrada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.640",
+  "para": "cpc.542",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 640 do CC veda ao depositário usar a coisa depositada sem licença do depositante, regra do contrato civil de depósito, e não se confunde com o depósito do inciso I do art. 542 do CPC, na ação de consignação em pagamento, que designa a entrega em juízo da quantia ou coisa devida pelo próprio devedor para liberar-se da obrigação, instituto de pagamento e não de guarda de bem alheio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.9",
+  "para": "l8212.68",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 9º do CC sujeita a registro público os nascimentos, casamentos e óbitos, e o art. 68 da Lei 8.212/91 complementa esse instituto ao impor ao titular do cartório de registro civil a remessa ao INSS, em até um dia útil, da relação desses mesmos registros, além das averbações, anotações e retificações realizadas na serventia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.9",
+  "para": "l8213.78",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 9º do CC sujeita a registro público a sentença declaratória de ausência e de morte presumida, e o art. 78 da Lei 8.213/91 complementa esse instituto conexo ao prever a concessão de pensão provisória aos dependentes do segurado a partir dessa mesma declaração judicial de morte presumida, decorridos seis meses de ausência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.9",
+  "para": "cpc.748",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 9º do CC sujeita a registro público a interdição por incapacidade absoluta ou relativa, e o art. 748 do CPC disciplina o procedimento dessa interdição ao autorizar o Ministério Público a promovê-la em caso de doença mental grave, quando as pessoas legitimadas não existirem ou forem incapazes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cc.9",
+  "para": "cpc.756",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 9º do CC exige o registro público da interdição, e o art. 756, § 3º, do CPC complementa esse instituto ao determinar que a sentença de levantamento da curatela também seja publicada após o trânsito em julgado, conferindo a mesma publicidade ao fim da interdição anteriormente registrada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cpc.105",
+  "para": "clt.791",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 105 do CPC exige instrumento público ou particular assinado pela parte para outorga da procuração geral para o foro, e o art. 791, § 3º, da CLT especializa esse instituto conexo ao permitir, no processo do trabalho, a constituição do procurador com poderes para o foro em geral mediante simples registro em ata de audiência, a requerimento verbal da parte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cpc.105",
+  "para": "l13709.61",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 105 do CPC pressupõe a procuração como instrumento pelo qual a parte habilita o advogado a praticar atos processuais em seu nome, e o art. 61 da LGPD excepciona esse instituto conexo ao autorizar a notificação e a intimação de todos os atos processuais da empresa estrangeira na pessoa de seu representante no Brasil, independentemente de procuração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cpc.553",
+  "para": "cc.1757",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 553 do CPC determina que as contas do tutor, entre outros administradores, sejam prestadas em apenso aos autos do processo em que foi nomeado, e o art. 1.757 do CC complementa esse instituto ao fixar a periodicidade bienal dessa prestação de contas e o dever de o tutor recolher o saldo a estabelecimento bancário oficial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cpc.553",
+  "para": "cc.1762",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 553 do CPC autoriza o juiz a apurar o saldo na prestação de contas do tutor e a determinar medidas executivas para sua recomposição, e o art. 1.762 do CC complementa esse instituto ao qualificar o alcance do tutor e o saldo contra o tutelado como dívidas de valor, que vencem juros desde o julgamento definitivo das contas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cpc.553",
+  "para": "cc.1759",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 553 do CPC impõe ao tutor o dever de prestar contas em apenso aos autos do processo em que foi nomeado, e o art. 1.759 do CC complementa esse instituto ao determinar que, em caso de morte, ausência ou interdição do tutor, essas mesmas contas sejam prestadas por seus herdeiros ou representantes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cpc.553",
+  "para": "l11101.154",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 553 do CPC impõe a qualquer administrador nomeado em processo o dever de prestar contas em apenso aos autos, e o art. 154 da Lei 11.101/05 especializa esse instituto conexo ao disciplinar a prestação de contas do administrador judicial da falência, com prazo próprio de trinta dias e rito de impugnação em dez dias após a publicação do aviso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cpp.140",
+  "para": "cc.927",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 140 do CPP assegura preferência à reparação do dano ao ofendido sobre as despesas processuais e as penas pecuniárias na garantia do ressarcimento, e o art. 927 do CC complementa esse instituto ao fixar o dever geral de reparar o dano causado por ato ilícito, do qual decorre o crédito indenizatório que recebe essa preferência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cpp.140",
+  "para": "cc.944",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 140 do CPP garante prioridade à reparação do dano ao ofendido na satisfação das garantias patrimoniais do ressarcimento, e o art. 944 do CC complementa esse instituto conexo ao estabelecer que essa indenização se mede pela extensão do dano, podendo o juiz reduzi-la equitativamente em caso de desproporção excessiva entre a culpa e o prejuízo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
+ },
+ {
+  "de": "cpp.140",
+  "para": "l8137.10",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 140 do CPP subordina as penas pecuniárias à preferência da reparação do dano ao ofendido nas garantias do ressarcimento, e o art. 10 da Lei 8.137/90 complementa esse instituto conexo ao autorizar o juiz a reduzir ou elevar essas mesmas penas pecuniárias, considerando o ganho ilícito e a situação econômica do réu nos crimes contra a ordem tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T18:22:49+00:00"
  }
 ]
