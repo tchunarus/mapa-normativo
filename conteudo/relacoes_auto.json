@@ -5337,5 +5337,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T10:20:22+00:00"
+ },
+ {
+  "de": "l11079.18",
+  "para": "cc.1433",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 1.433 do Código Civil garante ao credor pignoratício, como regra geral do penhor, o direito à posse da coisa empenhada. O art. 18, § 1º, II, da Lei 11.079/2004 excepciona essa regra ao instituir o penhor de bens móveis do Fundo Garantidor de Parcerias sem transferência da posse da coisa empenhada antes da execução da garantia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T11:22:43+00:00"
+ },
+ {
+  "de": "cpc.680",
+  "para": "cc.1433",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 1.433 do Código Civil assegura ao credor pignoratício o direito de promover a execução judicial da garantia real. O art. 680 do CPC regulamenta aspecto processual dessa execução, ao disciplinar as defesas admissíveis nos embargos opostos pelo devedor contra o credor com garantia real, entre elas a alegação de que outra é a coisa dada em garantia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T11:22:43+00:00"
+ },
+ {
+  "de": "cpp.108",
+  "para": "clt.800",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Tanto o art. 108 do CPP quanto o art. 800 da CLT preservam a exceção de incompetência como incidente processual autônomo, distinto da preliminar de contestação do processo civil comum. Os regimes não se confundem quanto ao prazo e à forma: no processo penal a exceção é oposta verbalmente ou por escrito no prazo de defesa, ao passo que na Justiça do Trabalho depende de peça protocolada em até cinco dias da notificação, antes da audiência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T11:22:43+00:00"
+ },
+ {
+  "de": "cpp.135",
+  "para": "cc.1491",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 135, § 6º, do CPP permite que o juiz deixe de determinar a inscrição da hipoteca legal quando o réu oferecer caução suficiente, em dinheiro ou em títulos de dívida pública pelo valor de sua cotação em Bolsa, para garantir a responsabilidade civil do crime. O art. 1.491 do Código Civil estabelece a mesma possibilidade de substituição da hipoteca legal por caução de títulos da dívida pública, sendo o dispositivo penal a regra especial aplicável à especialização da hipoteca decorrente de infração penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T11:22:43+00:00"
+ },
+ {
+  "de": "cpp.145",
+  "para": "cpc.430",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 145 do CPP disciplina um procedimento incidental próprio para a arguição de falsidade documental no processo penal, com autuação em apartado, resposta em 48 horas e prazo sucessivo de três dias para provas, findo o qual, reconhecida a falsidade, os autos são remetidos ao Ministério Público. O art. 430 do CPC trata do mesmo incidente no processo civil, mas o resolve, em regra, como questão incidental dentro do próprio processo, sem o rito autônomo do processo penal, salvo requerimento de decisão como questão principal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T11:22:43+00:00"
+ },
+ {
+  "de": "cpp.145",
+  "para": "cpc.427",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 427 do CPC conceitua a falsidade documental, formar documento não verdadeiro ou alterar documento verdadeiro, e estabelece que a declaração judicial de falsidade faz cessar a fé do documento. O art. 145 do CPP disciplina o procedimento pelo qual essa mesma declaração de falsidade é obtida no processo penal, mediante autuação em apartado, resposta da parte contrária e instrução em prazos sucessivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T11:22:43+00:00"
+ },
+ {
+  "de": "cpp.232",
+  "para": "cpc.423",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 232 do CPP atribui à fotografia do documento, devidamente autenticada, o mesmo valor do original, sem especificar a quem cabe a autenticação. O art. 423 do CPC, ao tratar do mesmo efeito para reproduções fotográficas de documentos particulares no processo civil, exige que a conformidade com o original seja certificada especificamente pelo escrivão ou pelo chefe de secretaria, o que pode gerar confusão sobre a forma de autenticação exigida em cada processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T11:22:43+00:00"
+ },
+ {
+  "de": "cpp.257",
+  "para": "cpc.177",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 257 do CPP atribui ao Ministério Público a promoção privativa da ação penal pública no processo penal. O art. 177 do CPC trata do exercício do direito de ação pelo Ministério Público em conformidade com suas atribuições constitucionais no âmbito civil, regime distinto que não se confunde com a exclusividade penal do inciso I do art. 257, pois no processo civil a legitimidade do Ministério Público é excepcional e depende de previsão legal específica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T11:22:43+00:00"
+ },
+ {
+  "de": "cpp.262",
+  "para": "clt.793",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 262 do CPP determina, de forma direta, que se dê curador ao acusado menor no processo penal. O art. 793 da CLT prevê curador nomeado em juízo apenas como última alternativa para a reclamação trabalhista do menor de 18 anos, depois de esgotadas a representação pelos pais, pela Procuradoria da Justiça do Trabalho, pelo sindicato ou pelo Ministério Público estadual, regime que não se confunde com a exigência automática de curador da lei processual penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T11:22:43+00:00"
+ },
+ {
+  "de": "l8078.79",
+  "para": "cpp.322",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 322 do CPP disciplina a competência para conceder fiança, atribuindo-a à autoridade policial quando a pena privativa de liberdade máxima não superar quatro anos e, nos demais casos, ao juiz. O art. 79 do Código de Defesa do Consumidor complementa esse regime geral ao fixar parâmetro próprio de valor da fiança para as infrações penais previstas no código consumerista, a ser arbitrado pelo juiz ou pela autoridade que presidir o inquérito, entre cem e duzentas mil vezes o valor do Bônus do Tesouro Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T11:22:43+00:00"
+ },
+ {
+  "de": "cpp.322",
+  "para": "cc.819",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 322 do CPP trata da fiança criminal, caução processual que viabiliza a liberdade provisória do preso, concedida pela autoridade policial ou pelo juiz conforme a pena máxima cominada. O art. 819 do Código Civil disciplina a fiança civil, contrato de garantia pessoal firmado por escrito em favor do credor de uma obrigação, instituto de natureza e finalidade distintas que apenas compartilha o nome com a fiança processual penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T11:22:43+00:00"
  }
 ]
