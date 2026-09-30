@@ -6217,5 +6217,215 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T16:22:02+00:00"
+ },
+ {
+  "de": "cc.661",
+  "para": "cpc.105",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 661, § 1º, do Código Civil exige poderes especiais e expressos para transigir e firmar compromisso além da administração ordinária, e o art. 105 do CPC especializa essa exigência para a procuração ad judicia, exigindo cláusula específica para transigir, firmar compromisso e outros atos que exorbitam da representação processual comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cc.661",
+  "para": "lsa.211",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ao contrário do mandatário em termos gerais do art. 661 do Código Civil, que depende de poderes especiais e expressos para transigir, o liquidante de companhia, pelo art. 211 da Lei das Sociedades por Ações, já recebe da lei o poder de transigir no exercício regular de suas funções, sem necessidade de cláusula específica, o que pode gerar confusão entre os dois regimes de representação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cp.105",
+  "para": "cpp.55",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 105 do Código Penal estabelece o efeito substantivo do perdão do ofendido nos crimes de ação penal privada, e o art. 55 do Código de Processo Penal complementa esse instituto ao regular a forma de aceitação do perdão por procurador, exigindo poderes especiais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cp.105",
+  "para": "cpp.58",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 105 do Código Penal dispõe que o perdão obsta o prosseguimento da ação, e o art. 58 do Código de Processo Penal complementa esse instituto ao disciplinar o procedimento de concessão e aceitação do perdão, inclusive o prazo de três dias e a presunção de aceitação pelo silêncio, cujo acolhimento leva à extinção da punibilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cp.105",
+  "para": "cpp.56",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O perdão de que trata o art. 105 do Código Penal pode ocorrer fora do processo, e o art. 56 do Código de Processo Penal complementa esse instituto ao determinar que se aplique ao perdão extraprocessual expresso o mesmo procedimento previsto para a renúncia, no art. 50 do mesmo código.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cp.106",
+  "para": "cpp.51",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 106 do Código Penal dispõe que o perdão concedido a um dos querelados aproveita a todos, e o art. 51 do Código de Processo Penal complementa esse instituto ao repetir a regra na fase processual, ressalvando que o perdão não produz efeito em relação ao querelado que o recusar, na linha do inciso III do mesmo art. 106.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cp.106",
+  "para": "cpp.57",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 106 do Código Penal define o perdão tácito como o que resulta da prática de ato incompatível com a vontade de prosseguir na ação, e o art. 57 do Código de Processo Penal complementa esse instituto ao admitir todos os meios de prova para demonstrar essa incompatibilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cp.106",
+  "para": "cpp.52",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 106 do Código Penal regula os efeitos do perdão entre os envolvidos, e o art. 52 do Código de Processo Penal complementa esse instituto ao dispor que, sendo o querelante menor de vinte e um e maior de dezoito anos, o perdão pode ser exercido por ele ou por seu representante legal, mas não produz efeito se um concordar e o outro se opuser.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cp.106",
+  "para": "floripa_ctm.190",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O perdão de que trata o art. 106 do Código Penal é causa extintiva da punibilidade em crime de ação penal privada, e não se confunde com o perdão de dívida tributária vedado pelo art. 190 do Código Tributário Municipal de Florianópolis, que trata da remissão de créditos da dívida ativa municipal, apesar do uso do mesmo termo para institutos totalmente distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cp.168",
+  "para": "cc.627",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso I do § 1º do art. 168 do Código Penal aumenta a pena quando o agente recebeu a coisa em depósito necessário, e o art. 627 do Código Civil complementa esse instituto ao definir o contrato de depósito como aquele em que o depositário recebe um bem móvel para guardar até que o depositante o reclame.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cp.168",
+  "para": "cc.640",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 168 do Código Penal criminaliza a apropriação da coisa de que o agente tem a posse ou a detenção, e o art. 640 do Código Civil complementa esse instituto ao vedar civilmente que o depositário se sirva da coisa depositada sem licença expressa do depositante, sob pena de responder por perdas e danos, conduta civil que, se levada à apropriação, configura o crime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cp.168",
+  "para": "cpc.553",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso II do § 1º do art. 168 do Código Penal aumenta a pena quando o agente recebeu a coisa na qualidade de tutor, curador, síndico, liquidatário, inventariante, testamenteiro ou depositário judicial, e o art. 553 do CPC complementa esse instituto conexo ao impor a esses mesmos administradores o dever de prestar contas nos autos em que foram nomeados, mecanismo processual voltado a coibir o desvio dos bens que administram.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cp.168",
+  "para": "l11101.173",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 168 do Código Penal tipifica a apropriação indébita em geral, e o art. 173 da Lei 11.101/2005 especializa esse instituto conexo ao criminalizar a apropriação, o desvio ou a ocultação de bens pertencentes ao devedor em recuperação judicial ou à massa falida, com pena diversa da prevista no Código Penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cp.26",
+  "para": "cpp.153",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 26 do Código Penal define a inimputabilidade do agente que, ao tempo da ação ou da omissão, era inteiramente incapaz de entender o caráter ilícito do fato por doença mental, e o art. 153 do Código de Processo Penal complementa esse instituto ao regular o incidente de insanidade mental, que se processa em auto apartado e só é apensado ao processo principal após a apresentação do laudo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cp.26",
+  "para": "cpp.154",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A inimputabilidade do art. 26 do Código Penal pressupõe a doença mental ao tempo da ação ou da omissão, e não se confunde com a hipótese conexa do art. 154 do Código de Processo Penal, em que a insanidade mental sobrevém no curso da execução da pena, situação que não afasta a imputabilidade e se rege pelo art. 682 do mesmo código.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cpc.157",
+  "para": "lindb.3",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A escusa do perito prevista no art. 157 do CPC, fundada em motivo legítimo para não assumir o encargo, não se confunde com a vedação de escusa de cumprir a lei por alegada ignorância, prevista no art. 3º da LINDB, institutos que nada têm em comum além do uso do termo escusa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cpc.626",
+  "para": "cc.1978",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 626 do CPC determina a intimação do testamenteiro para os termos do inventário quando houver testamento, e o art. 1.978 do Código Civil complementa esse instituto ao atribuir ao testamenteiro que tenha a posse e a administração dos bens o encargo de requerer o inventário e cumprir o testamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cpc.626",
+  "para": "cc.1797",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 626 do CPC determina a citação do cônjuge, do companheiro, dos herdeiros e dos legatários para os termos do inventário e da partilha, e o art. 1.797 do Código Civil complementa esse instituto ao estabelecer a ordem sucessiva de administração da herança até o compromisso do inventariante entre essas mesmas pessoas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cpc.755",
+  "para": "cc.1775",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 755 do CPC atribui ao juiz a nomeação do curador considerando o estado e o desenvolvimento mental do interditado, suas potencialidades e preferências, nos termos do inciso II do mesmo artigo, o que aparentemente conflita com o art. 1.775 do Código Civil, que atribui a curatela de direito ao cônjuge ou companheiro não separado, sem submeter essa ordem legal à avaliação judicial das preferências do interditado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cpc.755",
+  "para": "cc.1782",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 755, caput, do CPC determina que a sentença de interdição fixe os limites da curatela, e o art. 1.782 do Código Civil complementa esse instituto ao definir, para a interdição do pródigo, que a curatela o priva apenas de emprestar, transigir, dar quitação, alienar, hipotecar, demandar ou ser demandado e praticar atos que não sejam de mera administração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
+ },
+ {
+  "de": "cpc.755",
+  "para": "cc.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 755 do CPC determina que a sentença de interdição seja inscrita no registro de pessoas naturais, e o inciso III do art. 9º do Código Civil complementa esse instituto ao incluir a interdição por incapacidade absoluta ou relativa entre os atos que devem ser registrados em registro público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-09-30T17:19:37+00:00"
  }
 ]
