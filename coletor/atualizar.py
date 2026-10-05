@@ -236,6 +236,7 @@ def main():
     log, status, resumo = [], {}, {}
     try:
         if not a.sem_rede:
+            os.makedirs(CACHE, exist_ok=True)
             limpar_pendencias(agora)
             resumo['dou'] = etapa_dou(agora, log, status)
             resumo['planalto'] = etapa_planalto(agora, log, status, completo=semanal)
