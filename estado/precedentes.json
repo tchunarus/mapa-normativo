@@ -192,7 +192,7 @@
   ],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=981&cod_tema_final=981",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-05",
   "institutos": [
    "resp-socios",
    "redirecionamento",
@@ -233,7 +233,7 @@
   ],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=444&cod_tema_final=444",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-05",
   "institutos": [
    "resp-socios",
    "redirecionamento"
@@ -562,7 +562,7 @@
   ],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=630&cod_tema_final=630",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-05",
   "institutos": [
    "resp-socios",
    "redirecionamento",
@@ -834,7 +834,7 @@
   ],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1210&cod_tema_final=1210",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-05",
   "institutos": [
    "dissolucao-irregular",
    "grupo-economico",
@@ -12253,5 +12253,182 @@
   "fonte": "STF, Repercussão Geral",
   "verificado_em": "2026-09-29",
   "novo": true
+ },
+ "stj.tema.1049": {
+  "id": "stj.tema.1049",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "1049",
+  "titulo": "Tema 1049/STJ: execução fiscal pode ser redirecionada à sucessora por incorporação sem substituição da CDA",
+  "orgao": "Primeira Seção",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "A execução fiscal pode ser redirecionada em desfavor da empresa sucessora para cobrança de crédito tributário relativo a fato gerador ocorrido posteriormente à incorporação empresarial e ainda lançado em nome da sucedida, sem a necessidade de modificação da Certidão de Dívida Ativa, quando verificado que esse negócio jurídico não foi informado oportunamente ao fisco.",
+  "processos": [
+   {
+    "numero": "REsp 1848993",
+    "origem": null,
+    "relator": "Gurgel de Faria",
+    "julgado": "2020-08-26",
+    "publicado": null
+   }
+  ],
+  "data": "2020-08-26",
+  "dispositivos": [
+   "ctn.121",
+   "ctn.123",
+   "ctn.132",
+   "cc.1116",
+   "cc.1118"
+  ],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201903434053&dt_publicacao=09/09/2020",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-10-05",
+  "novo": true,
+  "institutos_auto": [
+   "sucessao-empresarial"
+  ]
+ },
+ "stj.tema.382": {
+  "id": "stj.tema.382",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "382",
+  "titulo": "Tema 382/STJ: responsabilidade tributária do sucessor abrange multas moratórias ou punitivas",
+  "orgao": "Primeira Seção",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "A responsabilidade tributária do sucessor abrange, além dos tributos devidos pelo sucedido, as multas moratórias ou punitivas, que, por representarem dívida de valor, acompanham o passivo do patrimônio adquirido pelo sucessor, desde que seu fato gerador tenha ocorrido até a data da sucessão.",
+  "processos": [
+   {
+    "numero": "REsp 923012",
+    "origem": null,
+    "relator": "Luiz Fux",
+    "julgado": "2010-06-09",
+    "publicado": null
+   }
+  ],
+  "data": "2010-06-09",
+  "dispositivos": [
+   "ctn.129",
+   "ctn.132",
+   "ctn.133"
+  ],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200700314980&dt_publicacao=24/06/2010",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-10-05",
+  "novo": true,
+  "institutos_auto": [
+   "sucessao-empresarial"
+  ]
+ },
+ "stj.tema.551": {
+  "id": "stj.tema.551",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "551",
+  "titulo": "Tema 551/STJ: sucessão por incorporação e legitimidade passiva da incorporadora",
+  "orgao": "Segunda Seção",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "A sucessão, por incorporação, de empresas, determina a extinção da personalidade jurídica da incorporada, com a transmissão de seus direitos e obrigações à incorporadora. Legitimidade passiva da Brasil Telecom S/A para responder pelos atos praticados pela Telesc, quanto a credores cujo título não tiver sido constituído até o ato de incorporação, independentemente de se referir a obrigações anteriores, ante a sucessão empresarial.",
+  "processos": [
+   {
+    "numero": "REsp 1322624",
+    "origem": null,
+    "relator": "Paulo de Tarso Sanseverino",
+    "julgado": "2013-06-12",
+    "publicado": null
+   }
+  ],
+  "data": "2013-06-12",
+  "dispositivos": [
+   "cc.1116",
+   "cc.1118"
+  ],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201102163534&dt_publicacao=25/06/2013",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-10-05",
+  "novo": true,
+  "institutos_auto": [
+   "sucessao-empresarial"
+  ]
+ },
+ "stj.tema.467": {
+  "id": "stj.tema.467",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "467",
+  "titulo": "Temas 467 e 468/STJ: concessão de serviço público mediante licitação não caracteriza sucessão empresarial",
+  "orgao": "Segunda Seção",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "A concessão da exploração do serviço de transporte ferroviário de passageiros em favor da SUPERVIA, mediante prévio procedimento licitatório, não implicou sucessão empresarial entre esta e a FLUMITRENS. A SUPERVIA não tem legitimidade para responder por ilícitos praticados pela FLUMITRENS à época em que operava o serviço de transporte ferroviário de passageiros.",
+  "processos": [
+   {
+    "numero": "REsp 1120620",
+    "origem": null,
+    "relator": "Raul Araújo",
+    "julgado": "2012-10-24",
+    "publicado": null
+   }
+  ],
+  "data": "2012-10-24",
+  "dispositivos": [],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200901014085&dt_publicacao=29/10/2012",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-10-05",
+  "novo": true,
+  "institutos_auto": [
+   "sucessao-empresarial"
+  ]
+ },
+ "stf.tema.1232": {
+  "id": "stf.tema.1232",
+  "trib": "STF",
+  "tipo": "Repercussão geral",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "1232",
+  "titulo": "Tema 1232/STF: inclusão de empresa do mesmo grupo econômico na execução trabalhista exige IDPJ",
+  "orgao": "Tribunal Pleno",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "1 - O cumprimento de sentença trabalhista não poderá ser promovido em face de empresa que não tiver participado da fase de conhecimento do processo, devendo o reclamante indicar, na petição inicial, as pessoas jurídicas corresponsáveis solidárias contra as quais pretende direcionar a execução de eventual título judicial, inclusive nas hipóteses de grupo econômico (art. 2°, §§ 2° e 3°, da CLT), demonstrando concretamente, nessa hipótese, a presença dos requisitos legais; 2 - Admite-se, excepcionalmente, o redirecionamento da execução trabalhista a terceiro que não tenha participado do processo de conhecimento nas hipóteses de sucessão empresarial (art. 448-A da CLT) e abuso da personalidade jurídica (art. 50 do CC), observado o procedimento previsto no art. 855-A da CLT e nos arts. 133 a 137 do CPC; 3 - Aplica-se tal procedimento mesmo aos redirecionamentos operados antes da Reforma Trabalhista de 2017, ressalvada a indiscutibilidade relativa aos casos já transitados em julgado, aos créditos já satisfeitos e às execuções findas ou definitivamente arquivadas.",
+  "processos": [
+   {
+    "numero": "RE 1387795",
+    "origem": null,
+    "relator": "Dias Toffoli",
+    "julgado": "2025-10-13",
+    "publicado": null
+   }
+  ],
+  "data": "2025-10-13",
+  "dispositivos": [
+   "clt.2",
+   "clt.448-A",
+   "cc.50"
+  ],
+  "url": "https://portal.stf.jus.br/jurisprudencia/obterInteiroTeor.asp?idDocumento=793259514",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-10-05",
+  "novo": true,
+  "institutos_auto": [
+   "grupo-economico"
+  ]
  }
 }

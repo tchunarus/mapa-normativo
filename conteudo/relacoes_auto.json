@@ -7327,5 +7327,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-09-30T23:20:13+00:00"
+ },
+ {
+  "de": "cc.191",
+  "para": "cpc.1000",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos tratam de renúncia tácita a um direito, com redação semelhante sobre a presunção pelo comportamento do interessado. O art. 191 do CC rege a renúncia à prescrição civil, enquanto o art. 1.000 do CPC rege a renúncia ao direito de recorrer, institutos distintos apesar da proximidade textual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:04:23+00:00"
+ },
+ {
+  "de": "cpp.152",
+  "para": "cp.41",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 152 do CPP suspende o processo quando a doença mental sobrevém ao acusado durante a instrução criminal, enquanto o art. 41 do CP trata do recolhimento do condenado a hospital de custódia quando a doença mental sobrevém já na fase de execução da pena, momentos processuais distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:04:23+00:00"
+ },
+ {
+  "de": "cpp.268",
+  "para": "l8078.80",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 268 do CPP permite que o ofendido intervenha como assistente do Ministério Público na ação penal pública. O art. 80 do CDC especializa essa legitimidade nos crimes contra as relações de consumo, estendendo-a também aos legitimados do art. 82, incisos III e IV, do próprio código.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:04:23+00:00"
+ },
+ {
+  "de": "cpp.268",
+  "para": "cp.100",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 100 do CP define o regime geral da ação penal, distinguindo a pública da privada. O art. 268 do CPP integra esse mesmo regime ao detalhar como o ofendido pode intervir como assistente especificamente na ação penal pública, sem alterar a classificação estabelecida pelo Código Penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:04:23+00:00"
+ },
+ {
+  "de": "cpp.268",
+  "para": "cpc.119",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Ambos os dispositivos usam o termo assistente para quem ingressa no processo ao lado de uma das partes, mas em institutos diferentes: o art. 268 do CPP trata do ofendido que auxilia o Ministério Público na ação penal pública, e o art. 119 do CPC trata da assistência de terceiro juridicamente interessado no processo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:04:23+00:00"
+ },
+ {
+  "de": "cpp.49",
+  "para": "cp.117",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos tratam da extensão de um efeito processual a todos os autores do crime, mas em institutos diferentes: o art. 49 do CPP estende a renúncia à queixa a todos os autores, e o § 1º do art. 117 do CP estende a interrupção da prescrição aos autores de crimes conexos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:04:23+00:00"
+ },
+ {
+  "de": "cpp.50",
+  "para": "cc.1806",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos exigem forma específica para a renúncia expressa a um direito, mas em institutos diferentes: o art. 50 do CPP exige declaração assinada pelo ofendido ou seu representante para renunciar à queixa criminal, e o art. 1.806 do CC exige instrumento público ou termo judicial para a renúncia à herança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:04:23+00:00"
+ },
+ {
+  "de": "cpp.547",
+  "para": "cpc.716",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos regulam o mesmo instituto, a restauração de autos extraviados, com redação quase idêntica sobre o reaparecimento dos autos originais. O art. 547 do CPP aplica a regra ao processo penal, e o art. 716 do CPC a aplica ao processo civil, o que pode gerar confusão sobre qual regime disciplina cada caso concreto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:04:23+00:00"
  }
 ]

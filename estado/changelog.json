@@ -37,5 +37,63 @@
   "diplomas": [
    "l9430"
   ]
+ },
+ {
+  "data": "2026-10-05T09:57:36+00:00",
+  "fonte": "Planalto",
+  "tipo": "alterado",
+  "d": "l9430.2",
+  "titulo": "Lei 9.430/96, Art. 2º: texto alterado",
+  "nota": "Incluído pela Lei nº 15.525, de 2026; Produção de efeitos",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l9430.htm"
+ },
+ {
+  "data": "2026-10-05T09:57:36+00:00",
+  "fonte": "Planalto",
+  "tipo": "alterado",
+  "d": "l8078.57",
+  "titulo": "CDC, Art. 57: texto alterado",
+  "nota": "Incluído pela Medida Provisória nº 1.393, de 2026",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+ },
+ {
+  "data": "2026-10-05T10:10:13+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1049/STJ: execução fiscal pode ser redirecionada à sucessora por incorporação sem substituição da CDA incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201903434053&dt_publicacao=09/09/2020",
+  "p": "stj.tema.1049"
+ },
+ {
+  "data": "2026-10-05T10:10:13+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 382/STJ: responsabilidade tributária do sucessor abrange multas moratórias ou punitivas incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200700314980&dt_publicacao=24/06/2010",
+  "p": "stj.tema.382"
+ },
+ {
+  "data": "2026-10-05T10:10:13+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 551/STJ: sucessão por incorporação e legitimidade passiva da incorporadora incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201102163534&dt_publicacao=25/06/2013",
+  "p": "stj.tema.551"
+ },
+ {
+  "data": "2026-10-05T10:10:13+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Temas 467 e 468/STJ: concessão de serviço público mediante licitação não caracteriza sucessão empresarial incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200901014085&dt_publicacao=29/10/2012",
+  "p": "stj.tema.467"
+ },
+ {
+  "data": "2026-10-05T10:10:13+00:00",
+  "fonte": "STF",
+  "tipo": "precedente",
+  "titulo": "Tema 1232/STF: inclusão de empresa do mesmo grupo econômico na execução trabalhista exige IDPJ incluído",
+  "url": "https://portal.stf.jus.br/jurisprudencia/obterInteiroTeor.asp?idDocumento=793259514",
+  "p": "stf.tema.1232"
  }
 ]

@@ -40,8 +40,8 @@
   "modificado": "Thu, 23 Apr 2026 23:00:26 GMT"
  },
  "https://www.planalto.gov.br/ccivil_03/leis/l9430.htm": {
-  "etag": "\"895b0-650289ebbe3e3\"",
-  "modificado": "Thu, 23 Apr 2026 23:00:52 GMT"
+  "etag": "\"8992b-65ca0b6d2c70c\"",
+  "modificado": "Tue, 29 Sep 2026 15:19:52 GMT"
  },
  "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522.htm": {
   "etag": "\"51fb5-65028bfcac7cb\"",
@@ -160,8 +160,8 @@
   "modificado": "Tue, 08 Sep 2026 14:20:44 GMT"
  },
  "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm": {
-  "etag": "\"28f92-65a689aff9a4a\"",
-  "modificado": "Tue, 01 Sep 2026 09:33:03 GMT"
+  "etag": "\"293a2-65c5755852dcf\"",
+  "modificado": "Fri, 25 Sep 2026 23:47:06 GMT"
  },
  "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm": {
   "etag": "\"4b5d5-65029139bdf2f\"",
@@ -206,5 +206,9 @@
  "https://legislacao.sef.sc.gov.br/HTML/REGULAMENTOS/ICMS/RICMS_01_00.htm": {
   "etag": null,
   "modificado": null
+ },
+ "https://www.planalto.gov.br/ccivil_03/leis/l8397.htm": {
+  "etag": "\"5041-650289e6f7963\"",
+  "modificado": "Thu, 23 Apr 2026 23:00:47 GMT"
  }
 }
