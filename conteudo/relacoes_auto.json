@@ -8327,5 +8327,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T16:17:12+00:00"
+ },
+ {
+  "de": "cpp.772",
+  "para": "cp.78",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A alínea a do §2º do art. 78 do CP prevê a proibição de frequentar determinados lugares como condição substitutiva durante o período de suspensão condicional da pena, enquanto o art. 772 do CPP regula a execução dessa mesma proibição quando aplicada como pena de interdição temporária de direitos (art. 47, IV, do CP). Há risco de se confundir o regime de execução da pena autônoma com o da condição do sursis, que seguem disciplinas distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T17:15:55+00:00"
+ },
+ {
+  "de": "cpp.95",
+  "para": "cpc.337",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 95 do CPP relaciona as exceções processuais penais (suspeição, incompetência de juízo, litispendência, ilegitimidade de parte e coisa julgada), enquanto o art. 337 do CPC relaciona, em rol mais amplo, as preliminares que o réu deve alegar antes de discutir o mérito, entre elas a incompetência absoluta e relativa no inciso II, a litispendência no inciso VI e a coisa julgada no inciso VII. Os institutos são distintos, pois no processo penal essas matérias continuam veiculadas como exceção autônoma, ao passo que no processo civil passaram a integrar a própria contestação como preliminar, o que gera risco de se aplicar a um processo a forma de arguição prevista para o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T17:15:55+00:00"
+ },
+ {
+  "de": "cpp.95",
+  "para": "clt.799",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 95 do CPP admite cinco exceções no processo penal, ao passo que o art. 799 da CLT restringe as exceções processuais trabalhistas, com suspensão do feito, apenas à suspeição e à incompetência, determinando no §1º que as demais sejam alegadas como matéria de defesa. Os regimes de exceção de cada processo são distintos quanto ao rol de matérias e à forma de processamento, o que gera risco de se transportar o rol penal para o processo do trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T17:15:55+00:00"
+ },
+ {
+  "de": "ctn.1",
+  "para": "lcp214.1",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 1º do CTN estabelece as normas gerais de direito tributário aplicáveis à União, aos Estados, ao Distrito Federal e aos Municípios, ressalvando expressamente que isso ocorre sem prejuízo da respectiva legislação complementar. A LC 214/2025, em seu art. 1º, institui o IBS, de competência compartilhada entre Estados, Municípios e Distrito Federal, e a CBS, de competência da União, tributos que se submetem, naquilo que a LC 214/2025 não disciplinar de modo específico, às normas gerais do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T17:15:55+00:00"
+ },
+ {
+  "de": "ctn.121",
+  "para": "floripa_ctm.29",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 121 do CTN define o sujeito passivo da obrigação principal e distingue, nos incisos I e II do parágrafo único, contribuinte e responsável conforme a relação pessoal e direta com o fato gerador ou a previsão expressa em lei. O art. 29 do CTM de Florianópolis repete essa mesma definição e distinção no âmbito da obrigação tributária municipal, substituindo no inciso II a referência genérica a lei por disposição expressa na legislação tributária municipal, o que configura especialização da norma geral do CTN para o tributo municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T17:15:55+00:00"
  }
 ]
