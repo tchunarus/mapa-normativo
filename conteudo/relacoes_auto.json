@@ -7537,5 +7537,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T10:21:35+00:00"
+ },
+ {
+  "de": "lcp227.150",
+  "para": "cc.1805",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 150, I, b, da LC 227/2026 afasta a incidência do ITCMD sobre a renúncia à herança apenas se o renunciante não tiver praticado ato que demonstre aceitação da herança ou do legado. A qualificação desse ato como aceitação, expressa ou tácita, e as hipóteses que a lei civil não considera aceitação, como os atos meramente conservatórios ou de administração provisória, são as do art. 1.805 do Código Civil, de modo que a norma tributária depende do instituto civil para sua aplicação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T11:27:23+00:00"
+ },
+ {
+  "de": "cp.103",
+  "para": "cpp.24",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 103 do Código Penal fixa o prazo decadencial de seis meses para o ofendido exercer o direito de representação exigido pelo art. 24 do CPP como condição de procedibilidade da ação penal pública condicionada. As duas normas integram o mesmo regime da representação do ofendido, uma tratando da condição de procedibilidade e outra do prazo para exercê-la.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T11:27:23+00:00"
+ },
+ {
+  "de": "cp.102",
+  "para": "cpp.24",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 102 do Código Penal estabelece que a representação se torna irretratável depois de oferecida a denúncia, complementando o regime da representação do ofendido exigida pelo art. 24 do CPP como condição de procedibilidade da ação penal pública condicionada. As duas normas tratam do mesmo instituto em momentos processuais distintos, a exigência da representação e sua irretratabilidade posterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T11:27:23+00:00"
+ },
+ {
+  "de": "l9099.91",
+  "para": "cpp.24",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 91 da Lei 9.099/95 disciplina o prazo de trinta dias para o ofendido oferecer a representação exigida pelo art. 24 do CPP quando lei superveniente passa a condicionar a ação penal pública a essa manifestação de vontade. A norma complementa o regime geral da representação do ofendido com uma regra de direito intertemporal própria dos juizados especiais criminais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T11:27:23+00:00"
+ },
+ {
+  "de": "cpp.24",
+  "para": "cc.1852",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 24, § 1º, do CPP trata do direito de representação do ofendido, que, por morte deste, passa ao cônjuge, ascendente, descendente ou irmão, enquanto o art. 1.852 do Código Civil regula o direito de representação na sucessão hereditária, cabível apenas na linha descendente. A identidade de nome entre os dois institutos, de natureza e efeitos totalmente distintos, gera risco real de confusão na pesquisa e na redação de peças.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T11:27:23+00:00"
+ },
+ {
+  "de": "cpp.31",
+  "para": "cp.104",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 31 do CPP define a ordem de sucessão do direito de queixa por morte do ofendido, cônjuge, ascendente, descendente ou irmão, enquanto o art. 104 do Código Penal disciplina a perda desse mesmo direito de queixa pela renúncia expressa ou tácita. As duas normas regulam o mesmo instituto do direito de queixa em momentos e hipóteses distintas, a sucessão e a extinção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T11:27:23+00:00"
+ },
+ {
+  "de": "cpp.31",
+  "para": "cp.105",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 31 do CPP trata de quem pode prosseguir na ação penal privada após a morte do ofendido, e o art. 105 do Código Penal trata do perdão do ofendido como causa que obsta o prosseguimento dessa mesma ação. As duas normas integram o regime da ação penal privada mediante queixa, tratando de vicissitudes conexas que afetam o seu curso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T11:27:23+00:00"
+ },
+ {
+  "de": "cpp.55",
+  "para": "cc.661",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 55 do CPP exige procurador com poderes especiais para aceitar o perdão, sem definir o que caracteriza tais poderes, lacuna suprida pelo art. 661, § 1º, do Código Civil, segundo o qual atos que exorbitam a administração ordinária dependem de procuração com poderes especiais e expressos. Na omissão da lei processual penal, aplica-se subsidiariamente o regime civil do mandato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T11:27:23+00:00"
+ },
+ {
+  "de": "cpp.55",
+  "para": "cp.106",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 106 do Código Penal define os efeitos substantivos do perdão do ofendido, no processo ou fora dele, expresso ou tácito, e o art. 55 do CPP regula o procedimento de aceitação desse mesmo perdão por procurador com poderes especiais. O CPP disciplina, assim, a forma de exercício do instituto substantivo previsto no CP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T11:27:23+00:00"
+ },
+ {
+  "de": "cp.107",
+  "para": "cpp.55",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 107, V, do Código Penal estabelece que o perdão aceito extingue a punibilidade nos crimes de ação privada, e o art. 55 do CPP disciplina a forma de aceitação desse perdão por procurador com poderes especiais quando o querelado não manifesta a aceitação pessoalmente. As duas normas integram o mesmo regime do perdão como causa extintiva da punibilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T11:27:23+00:00"
+ },
+ {
+  "de": "cpp.56",
+  "para": "cp.106",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 56 do CPP determina que ao perdão extraprocessual expresso se aplique o disposto no art. 50 do próprio código, disciplina processual do mesmo instituto substantivo do perdão concedido fora do processo, previsto expressamente no art. 106, caput, do Código Penal. O CPP regula a forma desse perdão extraprocessual cujo conceito e efeitos vêm do CP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T11:27:23+00:00"
+ },
+ {
+  "de": "cp.107",
+  "para": "cpp.56",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 107, V, do Código Penal estabelece que o perdão aceito extingue a punibilidade nos crimes de ação privada, efeito que também alcança o perdão extraprocessual expresso disciplinado pelo art. 56 do CPP. As duas normas integram o mesmo regime do perdão do ofendido como causa extintiva da punibilidade, em sua modalidade extraprocessual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T11:27:23+00:00"
  }
 ]
