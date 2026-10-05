@@ -7407,5 +7407,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T10:04:23+00:00"
+ },
+ {
+  "de": "cc.1116",
+  "para": "lsa.227",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos definem a incorporação societária em termos quase idênticos, como a absorção de uma sociedade por outra, que lhe sucede em todos os direitos e obrigações, mas disciplinam regimes distintos: o art. 1.116 do Código Civil rege as sociedades em geral, remetendo à forma de cada tipo societário, e o art. 227 da Lei das S.A. rege especificamente as sociedades anônimas, o que pode levar a aplicar o procedimento equivocado conforme o tipo societário envolvido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:21:35+00:00"
+ },
+ {
+  "de": "cc.1118",
+  "para": "lsa.234",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos tratam da averbação decorrente da incorporação societária nos registros competentes. O art. 1.118 do Código Civil impõe o dever genérico de averbação no registro próprio após a incorporadora declarar extinta a incorporada, enquanto o art. 234 da Lei das S.A. especifica que a certidão do registro do comércio é o documento hábil para essa averbação, o que pode gerar dúvida sobre o documento exigido conforme o tipo societário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:21:35+00:00"
+ },
+ {
+  "de": "cc.1806",
+  "para": "l9784.51",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 51 da Lei 9.784/99 exige manifestação escrita para a renúncia a direitos disponíveis no processo administrativo, enquanto o art. 1.806 do Código Civil exige instrumento público ou termo judicial para a renúncia à herança, cada qual com formalidade própria para a renúncia expressa a um direito, o que pode gerar confusão sobre qual formalidade é exigida em cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:21:35+00:00"
+ },
+ {
+  "de": "clt.448-A",
+  "para": "l12846.4",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos regulam a responsabilidade do sucessor em caso de incorporação ou fusão com exceção para fraude, mas com alcance diferente: o art. 448-A da CLT impõe ao sucessor a integralidade das obrigações trabalhistas, com responsabilidade solidária da sucedida apenas se comprovada fraude na transferência, enquanto o § 1º do art. 4º da Lei 12.846/13 restringe a responsabilidade da sucessora à multa e à reparação do dano, até o limite do patrimônio transferido, salvo simulação ou evidente intuito de fraude, o que pode levar a aplicar o alcance de um regime ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:21:35+00:00"
+ },
+ {
+  "de": "clt.448-A",
+  "para": "l8429.8-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 8º-A da Lei 8.429/92 restringe a responsabilidade da sucessora, nas hipóteses de fusão e incorporação, à reparação integral do dano, até o limite do patrimônio transferido, salvo simulação ou evidente intuito de fraude, enquanto o art. 448-A da CLT impõe ao sucessor a integralidade das obrigações trabalhistas, com responsabilidade solidária da sucedida apenas em caso de fraude comprovada, o que pode levar a confundir o alcance da responsabilidade sucessória entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:21:35+00:00"
+ },
+ {
+  "de": "l8137.15",
+  "para": "cp.100",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 15 da Lei 8.137/90 determina expressamente a aplicação do art. 100 do Código Penal aos crimes nela previstos, definindo-os como de ação penal pública por remissão direta ao regime geral da ação penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:21:35+00:00"
+ },
+ {
+  "de": "cp.100",
+  "para": "cpp.24",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos definem, em termos quase idênticos, quem promove a ação penal pública, o Ministério Público mediante denúncia, dependendo de representação do ofendido ou requisição do Ministro da Justiça quando a lei o exigir, um no Código Penal e outro no Código de Processo Penal, o que pode levar a citar o dispositivo equivocado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:21:35+00:00"
+ },
+ {
+  "de": "cp.100",
+  "para": "cpp.31",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 100 do Código Penal e o art. 31 do Código de Processo Penal reproduzem, com redação praticamente idêntica, a regra de que o direito de queixa passa ao cônjuge, ascendente, descendente ou irmão em caso de morte do ofendido ou de declaração judicial de ausência, cada um no seu código, o que pode gerar dúvida sobre qual dispositivo citar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:21:35+00:00"
+ },
+ {
+  "de": "cpp.682",
+  "para": "cp.41",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 682 do CPP detalha o procedimento de internação previsto no art. 41 do Código Penal, exigindo perícia médica para a verificação da doença mental superveniente e disciplinando a internação em manicômio judiciário ou, à falta, em outro estabelecimento adequado, com garantia de custódia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:21:35+00:00"
+ },
+ {
+  "de": "cpp.672",
+  "para": "cp.41",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 672 do CPP determina que o tempo de internação em hospital ou manicômio, decorrente da medida do art. 41 do Código Penal, seja computado na pena privativa de liberdade, complementando o regime do recolhimento do condenado com doença mental superveniente quanto aos seus efeitos sobre o cumprimento da pena.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:21:35+00:00"
+ },
+ {
+  "de": "cpc.1000",
+  "para": "cp.104",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos definem a aceitação ou a renúncia tácita pela prática de ato incompatível com a vontade de exercer o direito, a vontade de recorrer no art. 1.000 do CPC e a vontade de exercer o direito de queixa no art. 104 do Código Penal, o que pode levar a confundir os institutos, apesar de disciplinarem atos processuais diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:21:35+00:00"
+ },
+ {
+  "de": "cpc.1000",
+  "para": "cc.1805",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.000 do CPC e o art. 1.805 do Código Civil distinguem a manifestação expressa da tácita para, respectivamente, aceitar a decisão judicial e aceitar a herança, exigindo nos dois casos que a aceitação tácita resulte de atos próprios ou incompatíveis com a vontade contrária, o que pode gerar confusão entre os dois institutos de aceitação tácita.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:21:35+00:00"
+ },
+ {
+  "de": "l9099.10",
+  "para": "cpc.119",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 10 da Lei 9.099/95 exclui expressamente, no âmbito dos Juizados Especiais Cíveis, a assistência prevista no art. 119 do CPC, admitindo apenas o litisconsórcio, o que excepciona a regra geral de cabimento da assistência em qualquer procedimento e grau de jurisdição estabelecida no parágrafo único do art. 119.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T10:21:35+00:00"
  }
 ]
