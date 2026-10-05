@@ -8377,5 +8377,265 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T17:15:55+00:00"
+ },
+ {
+  "de": "cp.78",
+  "para": "cpp.319",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 319 do CPP prevê, como medida cautelar diversa da prisão aplicável durante o processo, proibições de frequência a lugares e de ausentar-se da comarca quase idênticas, em redação, às condições do § 2º do art. 78 do CP, o que gera risco de confusão entre a medida cautelar processual, anterior à condenação, e a condição de cumprimento do sursis, posterior a ela.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "cp.78",
+  "para": "cpp.710",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O livramento condicional do art. 710 do CPP e a suspensão condicional da pena do art. 78 do CP são institutos frequentemente confundidos por ambos imporem condições ao condenado durante um período de prova, mas o primeiro pressupõe cumprimento parcial de pena privativa de liberdade já em execução, enquanto o segundo suspende desde o início o cumprimento da pena.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "cp.78",
+  "para": "cpp.707",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 707 do CPP complementa o regime da suspensão condicional da pena disciplinado pelo art. 78 do CP, estabelecendo as hipóteses em que o descumprimento das condições ali previstas, ou de outras fixadas na sentença, acarreta a revogação do benefício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "cp.78",
+  "para": "cpp.698",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 698 do CPP complementa o art. 78 do CP ao atribuir ao juiz a especificação, no caso concreto, das condições a que fica sujeito o condenado durante o prazo da suspensão, inclusive o momento a partir do qual passam a correr.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "cpc.337",
+  "para": "l9307.3",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 3º da Lei 9.307/96 complementa o inciso X do art. 337 do CPC ao definir o conteúdo da convenção de arbitragem, a cláusula compromissória e o compromisso arbitral, que o réu pode alegar como preliminar para afastar a jurisdição estatal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "cpc.337",
+  "para": "l9307.20",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 20 da Lei 9.307/96 trata do momento para arguir, perante o próprio árbitro, a nulidade, invalidade ou ineficácia da convenção de arbitragem já instituída, o que é diferente, mas facilmente confundido com, o momento do art. 337, X, do CPC, em que o réu alega a existência da convenção de arbitragem perante o juízo estatal, antes de o litígio ser submetido à arbitragem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "cpc.337",
+  "para": "l8078.104",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 104 do CDC excepciona, para as ações coletivas de que tratam os incisos I e II e o parágrafo único do art. 81 do próprio Código, a regra geral de litispendência e coisa julgada do art. 337, § 1º, do CPC, ao afastar a litispendência em relação às ações individuais e condicionar o benefício da coisa julgada coletiva à suspensão da ação individual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "cpc.337",
+  "para": "l12016.22",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 22 da Lei 12.016/09 excepciona, para o mandado de segurança coletivo, a mesma regra geral de litispendência do § 1º do art. 337 do CPC, ao prever que a impetração coletiva não induz litispendência para a ação individual, ressalvada a perda do benefício da coisa julgada se não requerida a desistência desta no prazo de trinta dias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.123",
+  "para": "floripa_ctm.31",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 31 do Código Tributário Municipal de Florianópolis complementa o art. 123 do CTN ao reproduzir, para a Fazenda Municipal, a mesma regra de inoponibilidade das convenções particulares quanto à definição do sujeito passivo da obrigação tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.124",
+  "para": "floripa_ctm.32",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 32 do Código Tributário Municipal de Florianópolis complementa o art. 124 do CTN ao reproduzir, para os tributos municipais, as mesmas hipóteses de solidariedade por interesse comum no fato gerador ou por designação legal, sem benefício de ordem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.124",
+  "para": "cc.264",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 264 do CC, ao definir solidariedade como a situação em que mais de um credor ou devedor responde pela dívida toda, aplica-se subsidiariamente para integrar o conceito de solidariedade empregado pelo art. 124 do CTN, que não o redefine.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.124",
+  "para": "cc.265",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 265 do CC estabelece que a solidariedade não se presume e depende de lei ou da vontade das partes, o que gera conflito aparente com o inciso I do art. 124 do CTN, que impõe solidariedade tributária pelo simples interesse comum no fato gerador, sem exigir designação legal expressa como a do inciso II; a antinomia se resolve porque o próprio art. 124, I, já constitui a disposição de lei exigida pelo art. 265 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.124",
+  "para": "d9580.893",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 893 do RIR/2018 especializa a hipótese do inciso II do art. 124 do CTN ao designar, com base na Lei 12.402/11, a solidariedade das empresas consorciadas pelo cumprimento das obrigações acessórias do consórcio perante o fisco federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.125",
+  "para": "floripa_ctm.33",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 33 do Código Tributário Municipal de Florianópolis complementa o art. 125 do CTN ao reproduzir, para os tributos municipais, os mesmos efeitos da solidariedade quanto ao pagamento, à isenção ou remissão e à interrupção da prescrição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.125",
+  "para": "cc.388",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 388 do CC aplica-se subsidiariamente ao inciso II do art. 125 do CTN, detalhando que a remissão concedida a um dos codevedores solidários extingue a dívida na parte a ele correspondente, subsistindo a solidariedade quanto ao saldo contra os demais, tal como prevê o CTN para a isenção ou remissão parcial de crédito tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.125",
+  "para": "cc.274",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 274 do CC aplica-se subsidiariamente para complementar os efeitos da solidariedade tratados no art. 125 do CTN, ao prever que o julgamento desfavorável a um credor solidário não atinge os demais, enquanto o favorável a todos aproveita, em lógica de favor e prejuízo análoga à do inciso III do art. 125 do CTN para a interrupção da prescrição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.127",
+  "para": "floripa_ctm.35",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 35 do Código Tributário Municipal de Florianópolis complementa o art. 127 do CTN ao reproduzir, para o domicílio tributário municipal, os mesmos critérios supletivos à falta de eleição pelo contribuinte ou responsável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.127",
+  "para": "d9580.26",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 26 do RIR/2018 especializa, para a pessoa física sujeita ao imposto de renda, a regra do art. 127 do CTN, citando-o expressamente e detalhando o que se entende por residência habitual para fins do critério supletivo do inciso I.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.127",
+  "para": "d9580.31",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 31 do RIR/2018 especializa a regra de domicílio tributário para a hipótese, não prevista nos incisos do art. 127 do CTN, de procurador ou representante de residente ou domiciliado no exterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.128",
+  "para": "floripa_ctm.36",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 36 do Código Tributário Municipal de Florianópolis complementa o art. 128 do CTN ao reproduzir, para a legislação tributária municipal, a mesma autorização para atribuição legal de responsabilidade a terceiro vinculado ao fato gerador, com exclusão ou supletividade da responsabilidade do contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.128",
+  "para": "lcp116.6",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 6º da LC 116/03 especializa, para o ISS, a autorização genérica do art. 128 do CTN, habilitando Municípios e Distrito Federal a atribuir por lei a responsabilidade pelo crédito tributário a terceiro vinculado ao fato gerador, com exclusão ou supletividade da responsabilidade do contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.128",
+  "para": "lcp87.5",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 5º da LC 87/96 especializa, para o ICMS, a autorização do art. 128 do CTN, permitindo à lei estadual atribuir a terceiros a responsabilidade pelo imposto quando seus atos ou omissões concorrerem para o não recolhimento pelo contribuinte ou responsável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.128",
+  "para": "lcp87.6",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 6º da LC 87/96 especializa a autorização do art. 128 do CTN na modalidade de substituição tributária do ICMS, atribuindo à lei estadual a possibilidade de designar contribuinte ou depositário como responsável pelo pagamento do imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.128",
+  "para": "floripa_ctm.38",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 38 do Código Tributário Municipal de Florianópolis especializa o art. 128 do CTN ao designar, por lei municipal, o adquirente ou remitente, o sucessor e o espólio como pessoalmente responsáveis por tributos relativos aos bens que lhes foram transferidos, vinculando a responsabilidade ao fato gerador relativo a esses bens.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.129",
+  "para": "floripa_ctm.41",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 41 do Código Tributário Municipal de Florianópolis complementa o art. 129 do CTN ao reproduzir, para os créditos tributários municipais, a mesma regra de aplicação da seção aos créditos definitivamente constituídos, em curso de constituição ou constituídos posteriormente, desde que relativos a obrigações surgidas até a data dos atos de sucessão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "ctn.129",
+  "para": "d9580.199",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 199 do RIR/2018 especializa o art. 129 do CTN para o imposto de renda, citando-o expressamente e repetindo a mesma regra de extensão temporal das normas de responsabilidade dos sucessores aos créditos tributários constituídos antes, durante ou depois dos atos nela referidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T18:22:16+00:00"
  }
 ]
