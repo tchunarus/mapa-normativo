@@ -8637,5 +8637,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T18:22:16+00:00"
+ },
+ {
+  "de": "cc.264",
+  "para": "cpc.1005",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 264 do CC define a solidariedade, pressuposto do parágrafo único do art. 1.005 do CPC, que trata do aproveitamento do recurso de um devedor aos demais quando há solidariedade passiva e defesas comuns perante o credor; o CPC não disciplina a solidariedade em si, apenas extrai dela um efeito recursal específico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "cc.265",
+  "para": "floripa_ctm.32",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "Nos mesmos termos do art. 124 do CTN, o art. 32 do CTM de Florianópolis especializa, para os tributos municipais, a fonte legal de solidariedade prevista no art. 265 do CC, elegendo como solidariamente obrigados quem tem interesse comum no fato gerador ou quem é expressamente designado pela legislação tributária municipal, com a mesma vedação ao benefício de ordem do parágrafo único.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "cc.265",
+  "para": "d9580.893",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 893 do RIR/2018 especializa, para o consórcio de empresas que cumpre obrigações acessórias em nome próprio, a hipótese de solidariedade decorrente de lei prevista no art. 265 do CC, ao determinar que as consorciadas ficam solidariamente responsáveis por força do art. 1º, §§ 1º e 2º, da Lei nº 12.402/2011.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "cpp.319",
+  "para": "l8078.79",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O inciso VIII do art. 319 do CPP prevê a fiança como medida cautelar diversa da prisão; o art. 79 do CDC especializa o valor da fiança para as infrações penais definidas no próprio código, fixando-a entre cem e duzentas mil vezes o valor do BTN, parâmetro próprio que convive com a disciplina geral da fiança do CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "cpp.319",
+  "para": "cp.47",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Há risco real de confusão entre as medidas cautelares diversas da prisão dos incisos II e VI do art. 319 do CPP (proibição de acesso ou frequência a determinados lugares; suspensão do exercício de função pública) e as penas de interdição temporária de direitos dos incisos IV e I do art. 47 do CP (proibição de frequentar determinados lugares; proibição do exercício de cargo ou função pública), institutos de natureza distinta: medida cautelar pré-processual de um lado, pena definitiva imposta na sentença condenatória de outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "cpp.319",
+  "para": "l8429.20",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Há risco de confusão entre a suspensão do exercício de função pública como medida cautelar diversa da prisão do inciso VI do art. 319 do CPP e o afastamento do agente público do exercício do cargo previsto no § 1º do art. 20 da LIA, pois ambos retiram o agente do cargo por cautela, mas em processos e com fundamentos distintos: o primeiro no processo penal, por risco de utilização do cargo para novas infrações, e o segundo na ação de improbidade, para a instrução processual ou para evitar novos ilícitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "cpp.319",
+  "para": "l9099.89",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Há risco de confusão entre as medidas cautelares diversas da prisão do art. 319 do CPP, como o comparecimento periódico em juízo do inciso I, e as condições do período de prova da suspensão condicional do processo do art. 89 da Lei 9.099/95, pois ambas impõem obrigações de comparecimento e conduta ao acusado, mas em momentos processuais e com fundamentos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "cpp.698",
+  "para": "cp.79",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 698 do CPP, ao permitir que o juiz fixe outras condições além das especificadas na sentença, dá procedimento à faculdade substantiva do art. 79 do CP de a sentença especificar outras condições adequadas ao fato e à situação pessoal do condenado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "cpp.698",
+  "para": "l9099.89",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Há risco de confusão entre as condições da suspensão condicional da pena de que trata o art. 698 do CPP e as condições do período de prova da suspensão condicional do processo do art. 89 da Lei 9.099/95, institutos distintos (execução da pena versus suspensão do próprio processo antes da condenação) que compartilham nome semelhante e lógica de condições a cumprir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "cpp.707",
+  "para": "cp.81",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 707 do CPP dá procedimento às hipóteses de revogação da suspensão condicional da pena definidas no art. 81 do CP, reproduzindo no caput e no parágrafo único as mesmas causas de condenação irrecorrível a pena privativa de liberdade, frustração do pagamento da multa sem motivo justificado e descumprimento das condições da sentença.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "cpp.707",
+  "para": "l9099.89",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Há risco de confusão entre a revogação da suspensão condicional da pena do art. 707 do CPP e a revogação da suspensão condicional do processo do art. 89 da Lei 9.099/95, institutos distintos quanto ao momento processual em que incidem, ainda que ambos tratem de suspensão sujeita a condições.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "cpp.707",
+  "para": "cp.87",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Há risco de confusão entre a revogação da suspensão condicional da pena do art. 707 do CPP, por descumprimento de obrigações da sentença ou nova condenação, e a revogação do livramento condicional do art. 87 do CP, pela mesma espécie de causas, tratando-se, porém, de benefícios distintos: suspensão da execução da pena e livramento durante a execução da pena.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "cpp.710",
+  "para": "cp.83",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 710 do CPP disciplina em sede de execução penal os requisitos do livramento condicional definidos no art. 83 do CP, reproduzindo a exigência de pena privativa de liberdade igual ou superior a dois anos, o cumprimento de fração da pena, o bom comportamento e a aptidão para prover a própria subsistência mediante trabalho honesto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "cpp.710",
+  "para": "cp.94",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Há risco de confusão entre o requisito de reparação do dano causado pela infração do inciso V do art. 710 do CPP, para a concessão do livramento condicional, e o requisito de ressarcimento do dano causado pelo crime do inciso III do art. 94 do CP, para a reabilitação, institutos distintos que exigem, cada um a seu modo, a reparação do dano ou a demonstração de sua impossibilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
+ },
+ {
+  "de": "ctn.130",
+  "para": "floripa_ctm.37",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 37 do CTM de Florianópolis detalha, para os tributos municipais sobre o patrimônio imobiliário, o mesmo regime de sub-rogação dos créditos tributários na pessoa do adquirente do art. 130 do CTN, reproduzindo inclusive a ressalva da prova de quitação no título e a regra do parágrafo único sobre a sub-rogação no preço em caso de arrematação em hasta pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T19:16:19+00:00"
  }
 ]
