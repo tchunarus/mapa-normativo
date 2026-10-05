@@ -9327,5 +9327,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cc.1818",
+  "para": "cpp.750",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.818 do Código Civil trata da reabilitação do herdeiro excluído por indignidade, ao passo que o art. 750 do Código de Processo Penal cuida da revogação da reabilitação criminal prevista no art. 120 do Código Penal. Os dois dispositivos empregam o termo reabilitação para institutos distintos (reabilitação sucessória e reabilitação criminal), o que gera risco real de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T23:15:32+00:00"
+ },
+ {
+  "de": "cpc.797",
+  "para": "cc.957",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 797 do Código de Processo Civil confere ao exequente, pela penhora, o direito de preferência sobre o bem penhorado, ressalvada a insolvência do devedor. O art. 957 do Código Civil estabelece que, não havendo título legal de preferência, os credores têm igual direito sobre os bens do devedor comum, de modo que o CPC detalha, no plano processual, a regra geral de concurso de credores quirografários fixada no Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T23:15:32+00:00"
+ },
+ {
+  "de": "cpc.797",
+  "para": "cc.520",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 797 do Código de Processo Civil trata da preferência processual adquirida pela penhora em concurso de execuções, ao passo que o art. 520 do Código Civil cuida do direito de preferência contratual de preempção, intransmissível aos herdeiros. A expressão direito de preferência designa, em cada dispositivo, instituto diferente, com risco real de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T23:15:32+00:00"
+ },
+ {
+  "de": "cpp.728",
+  "para": "cp.84",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "Ao autorizar, nessa hipótese, a soma do tempo das duas penas para a concessão de novo livramento, o art. 728 do Código de Processo Penal operacionaliza a regra do art. 84 do Código Penal, segundo a qual as penas correspondentes a infrações diversas devem somar-se para efeito do livramento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T23:15:32+00:00"
+ },
+ {
+  "de": "cpp.729",
+  "para": "cp.87",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A revogação por outro motivo tratada no art. 729 do Código de Processo Penal abrange também as hipóteses facultativas de revogação do art. 87 do Código Penal, descumprimento de obrigação da sentença ou condenação a pena não privativa de liberdade, às quais se aplica a vedação de cômputo do tempo e de novo livramento para a mesma pena.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T23:15:32+00:00"
  }
 ]
