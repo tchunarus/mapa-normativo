@@ -7867,5 +7867,255 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cc.1733",
+  "para": "cpc.759",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 759, disciplina o procedimento de investidura do tutor nomeado nos termos do CC, art. 1.733, exigindo que preste compromisso em juízo, por termo em livro rubricado, antes de assumir a administração dos bens do tutelado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cc.1733",
+  "para": "cpc.760",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 760, regula a escusa do tutor nomeado conforme o CC, art. 1.733, fixando prazo de cinco dias para o pedido e prevendo que o nomeado exercerá a tutela até decisão final se a escusa não for admitida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cc.1733",
+  "para": "cpc.761",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 761, disciplina a remoção do tutor nomeado na forma do CC, art. 1.733, legitimando o Ministério Público ou quem tenha interesse legítimo a requerê-la, com citação do tutor para contestar em cinco dias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cc.1733",
+  "para": "cpc.762",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 762, permite a suspensão do tutor nomeado nos termos do CC, art. 1.733, em caso de extrema gravidade, com nomeação de substituto interino, situação distinta da sucessão entre tutores prevista no § 1º do CC, art. 1.733.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cc.1733",
+  "para": "cpc.763",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 763, disciplina a cessação das funções e a exoneração do tutor nomeado conforme o CC, art. 1.733, inclusive a recondução tácita se a exoneração não for requerida em dez dias e a prestação de contas ao final do encargo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cc.1733",
+  "para": "cpc.71",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 71, complementa o regime da tutela previsto no CC, art. 1.733, ao estabelecer que o incapaz sob tutela ou curatela será representado em juízo pelo tutor ou curador nomeado, na forma da lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cc.208",
+  "para": "l9784.54",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CC, art. 208, estende à decadência civil as causas de suspensão dos arts. 195 e 198, inciso I, relativas a incapazes. A Lei 9.784/99, art. 54, institui prazo decadencial próprio de cinco anos para a Administração anular atos favoráveis, sem remissão às causas de suspensão do Código Civil, o que gera risco de se presumir aplicável a regra civil de suspensão à decadência administrativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cc.208",
+  "para": "l9099.91",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CC, art. 208, aplica à decadência civil as causas de suspensão relativas a incapazes dos arts. 195 e 198, inciso I. A Lei 9.099/95, art. 91, fixa prazo decadencial de trinta dias para o ofendido oferecer representação penal, sem previsão de suspensão por incapacidade, de modo que não se devem confundir os dois regimes de decadência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cc.208",
+  "para": "l9430.63",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O CC, art. 208, trata das causas que suspendem o curso da decadência civil. A Lei 9.430/96, art. 63, cuida de hipótese diversa, o ato de constituição do crédito tributário destinado a prevenir a decadência durante a suspensão da exigibilidade, mecanismo tributário que não se confunde com as causas de suspensão do art. 208 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.143",
+  "para": "clt.223-G",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CP, art. 143, prevê a retratação cabal como causa de isenção de pena no âmbito criminal. A CLT, art. 223-G, inciso IX, trata a retratação espontânea apenas como um dos critérios de ponderação do valor da indenização por dano extrapatrimonial trabalhista, sem o efeito extintivo de punibilidade previsto no dispositivo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.143",
+  "para": "cpp.58",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CPP, art. 58, disciplina o perdão do ofendido como causa extintiva de punibilidade, condicionado à aceitação do querelado e sujeito a prazo de três dias. Esse instituto não se confunde com a retratação prevista no CP, art. 143, que é ato unilateral do próprio querelado antes da sentença e independe de aceitação da vítima.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.143",
+  "para": "cpp.519",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O CPP, art. 519, fixa o procedimento aplicável ao processo por calúnia ou injúria, remetendo aos Capítulos I e III do Título I do Livro II com as modificações dos artigos seguintes, rito dentro do qual se insere a retratação do querelado prevista no CP, art. 143.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.42",
+  "para": "cpp.673",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O CPP, art. 673, aplica o cômputo previsto no CP, art. 42, no curso da apelação, determinando que o relator ponha o réu em liberdade quando já tiver sofrido prisão por tempo igual ao da pena imposta, sem prejuízo do julgamento do recurso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.47",
+  "para": "cpp.772",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CP, art. 47, inciso IV, comina a pena de proibição de frequentar determinados lugares. O CPP, art. 772, regulamenta a execução dessa pena, determinando que a proibição seja comunicada pelo juiz à autoridade policial, que dará ciência de qualquer transgressão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.47",
+  "para": "floripa_ctm.462",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O CTM de Florianópolis, art. 462, prevê a interdição, sempre temporária, como sanção administrativa tributária municipal. Apesar do nome semelhante ao da pena de interdição temporária de direitos do CP, art. 47, são institutos distintos, um de natureza penal decorrente de condenação criminal e outro de natureza administrativa tributária, sem relação de regência entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.8",
+  "para": "l9307.34",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O CP, art. 8º, sob o título marginal Eficácia de sentença estrangeira, trata da pena cumprida no exterior pelo mesmo crime. A Lei 9.307/96, art. 34, disciplina o reconhecimento e a execução de sentença arbitral estrangeira no Brasil, instituto civil distinto do regime penal do art. 8º, o que pode gerar confusão pela proximidade do tema.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.96",
+  "para": "cpp.758",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CP, art. 96, define as espécies de medida de segurança. O CPP, art. 758, atribui ao juiz da execução da sentença a competência para a execução dessas medidas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.96",
+  "para": "cpp.762",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPP, art. 762, regulamenta o conteúdo da ordem de internação que executa a medida de segurança de internação prevista no CP, art. 96, inciso I.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.96",
+  "para": "cpp.775",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPP, art. 775, disciplina a verificação da cessação da periculosidade ao fim do prazo mínimo da medida de segurança, procedimento que operacionaliza a extinção da medida prevista no parágrafo único do CP, art. 96.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.96",
+  "para": "cpp.378",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPP, art. 378, regula a aplicação provisória da medida de segurança prevista no CP, art. 96, estabelecendo que o juiz pode aplicá-la de ofício ou a requerimento do Ministério Público, inclusive no curso do inquérito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.96",
+  "para": "cpp.141",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O CPP, art. 141, prevê o levantamento do arresto ou o cancelamento da hipoteca legal quando extinta a punibilidade. Esse efeito patrimonial da extinção da punibilidade não se confunde com o parágrafo único do CP, art. 96, que trata da extinção da punibilidade como causa de não imposição ou de cessação da medida de segurança pessoal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.98",
+  "para": "cpp.764",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O CP, art. 98, cuida da substituição da pena por internação ou tratamento ambulatorial, sob o título marginal Direitos do internado. O CPP, art. 764, regulamenta esses direitos ao assegurar que o trabalho do internado seja educativo e remunerado, de modo a prover meios de subsistência quando cessar a internação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.98",
+  "para": "cpp.766",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPP, art. 766, regulamenta a execução da internação prevista no CP, art. 98, determinando que a internação das mulheres seja feita em estabelecimento próprio ou em seção especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.98",
+  "para": "cpp.762",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPP, art. 762, disciplina o conteúdo da ordem de internação que executa a medida de internação substitutiva prevista no CP, art. 98.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "cp.98",
+  "para": "cpp.775",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CPP, art. 775, regula a verificação da cessação da periculosidade ao fim do prazo mínimo, procedimento aplicável à internação substitutiva da pena prevista no CP, art. 98.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T14:24:41+00:00"
  }
 ]
