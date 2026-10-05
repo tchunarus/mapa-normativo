@@ -8237,5 +8237,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T15:21:10+00:00"
+ },
+ {
+  "de": "cp.140",
+  "para": "cc.953",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O crime de injúria tipificado no art. 140 do CP gera também o dever de indenizar previsto no art. 953 do CC, mas as duas responsabilidades são autônomas: a primeira é penal e a segunda, civil, podendo subsistir uma independentemente da outra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T16:17:12+00:00"
+ },
+ {
+  "de": "cpp.775",
+  "para": "cp.97",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 775 do CPP regula a verificação da cessação da periculosidade ao fim do prazo mínimo de duração da medida de segurança, procedimento que executa o exame médico previsto no art. 97, § 1º, do CP para a internação ou o tratamento ambulatorial do inimputável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T16:17:12+00:00"
+ },
+ {
+  "de": "cpp.777",
+  "para": "cp.97",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 777 do CPP permite que o tribunal, a requerimento do Ministério Público ou do interessado, ordene o exame de cessação da periculosidade a qualquer tempo, ainda durante o prazo mínimo, procedimento que opera o regime de duração da medida de segurança fixado no art. 97, § 1º, do CP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T16:17:12+00:00"
+ },
+ {
+  "de": "l8397.17",
+  "para": "cpc.1012",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 17 da Lei 8.397/92 determina que a apelação contra a sentença que decreta a medida cautelar fiscal não tem efeito suspensivo, salvo garantia do requerido, excepcionando a regra geral do art. 1.012 do CPC, segundo a qual a apelação é dotada de efeito suspensivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T16:17:12+00:00"
+ },
+ {
+  "de": "l11101.90",
+  "para": "cpc.1012",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 90 da Lei 11.101/05 estabelece que a apelação contra a sentença que julga o pedido de restituição na falência não tem efeito suspensivo, excepcionando a regra geral de efeito suspensivo da apelação prevista no art. 1.012 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T16:17:12+00:00"
+ },
+ {
+  "de": "l9099.43",
+  "para": "cpc.1012",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 43 da Lei 9.099/95 prevê que o recurso contra a sentença do juizado especial cível tem apenas efeito devolutivo, podendo o juiz atribuir-lhe efeito suspensivo para evitar dano irreparável, em contraste com a regra geral de efeito suspensivo automático da apelação fixada no art. 1.012 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T16:17:12+00:00"
+ },
+ {
+  "de": "l7347.14",
+  "para": "cpc.1012",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 14 da Lei 7.347/85 autoriza o juiz a conferir efeito suspensivo aos recursos na ação civil pública apenas para evitar dano irreparável à parte, regime que excepciona a atribuição automática de efeito suspensivo à apelação estabelecida no art. 1.012 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T16:17:12+00:00"
+ },
+ {
+  "de": "cpp.766",
+  "para": "cp.96",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 766 do CPP determina que a internação das mulheres sujeitas a medida de segurança seja feita em estabelecimento próprio ou em seção especial, procedimento que executa a modalidade de internação prevista no inciso I do art. 96 do CP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T16:17:12+00:00"
+ },
+ {
+  "de": "cpp.766",
+  "para": "cp.37",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 766 do CPP determina que a internação das mulheres em cumprimento de medida de segurança seja feita em estabelecimento próprio ou seção especial, regra que pode ser confundida com o art. 37 do CP, que impõe o cumprimento de pena em estabelecimento próprio às mulheres condenadas, regime distinto, pois um trata de medida de segurança e o outro, de pena privativa de liberdade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T16:17:12+00:00"
  }
 ]
