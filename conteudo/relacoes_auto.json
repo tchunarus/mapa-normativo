@@ -7717,5 +7717,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T12:32:15+00:00"
+ },
+ {
+  "de": "cc.953",
+  "para": "cp.143",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 143 do CP isenta apenas de pena quem se retrata da calúnia ou da difamação antes da sentença, efeito restrito à esfera criminal; a indenização civil do art. 953 do CC, fundada em regime de responsabilidade distinto, não é afastada pela retratação penal, o que gera risco de se presumir extinto também o dever de indenizar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.25",
+  "para": "cp.103",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 103 do CP fixa o prazo decadencial de seis meses para o ofendido exercer a representação, enquanto o art. 25 do CPP cuida do momento seguinte, a irretratabilidade após a denúncia já oferecida; juntos descrevem o ciclo temporal completo do direito de representação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.25",
+  "para": "ctn.138",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 138 do CTN trata da denúncia espontânea de infração tributária, instituto estranho ao processo penal, mas o uso do mesmo termo denúncia gera risco de confusão com a denúncia criminal referida no art. 25 do CPP, cuja irretratabilidade da representação nada tem a ver com a exclusão de responsabilidade fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.38",
+  "para": "l9099.91",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 91 da Lei 9.099/95 estabelece prazo especial de trinta dias, contado da intimação, para o ofendido oferecer representação nos crimes que passaram a exigi-la por força da própria lei, afastando o prazo geral de seis meses do art. 38 do CPP nessa hipótese específica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.38",
+  "para": "cc.208",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 208 do CC estende à decadência as causas de suspensão dos arts. 195 e 198, inciso I, regime geral que se aplica subsidiariamente à decadência penal do art. 38 do CPP nos casos de incapacidade do ofendido não disciplinados pela lei processual penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.631",
+  "para": "cpc.986",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 986 do CPC trata da revisão da tese jurídica firmada em incidente de resolução de demandas repetitivas, instituto que nada tem a ver com a revisão criminal do art. 631 do CPP, mas o uso do mesmo termo revisão pode induzir confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.672",
+  "para": "cp.42",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 672 do CPP e o art. 42 do CP regulam a mesma detração penal, o cômputo do tempo de prisão provisória e de internação na pena ou medida de segurança, com redações paralelas que podem levar à citação do dispositivo errado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.672",
+  "para": "cp.98",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 98 do CP permite substituir a pena privativa de liberdade por internação ou tratamento ambulatorial pelo prazo mínimo de um a três anos; o período assim cumprido deve ser computado na pena nos termos do art. 672 do CPP, que complementa essa substituição ao definir o efeito sobre o tempo de pena a cumprir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.672",
+  "para": "cp.8",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 8º do CP determina que a pena já cumprida no estrangeiro pelo mesmo crime seja computada ou atenue a pena imposta no Brasil; o art. 672 do CPP complementa esse regime ao disciplinar o cômputo do tempo de prisão preventiva ou provisória também cumprido no estrangeiro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.682",
+  "para": "cp.52",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A doença mental superveniente ao condenado, fato que o art. 682 do CPP disciplina quanto à internação em manicômio judiciário, é também o pressuposto do art. 52 do CP, que complementa esse regime ao suspender a execução da pena de multa na mesma hipótese.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.682",
+  "para": "cp.96",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 682 do CPP distingue expressamente a internação por doença mental superveniente da medida de segurança detentiva prevista no art. 96 do CP, institutos próximos que podem ser confundidos por quem desconhece essa distinção textual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.691",
+  "para": "cp.47",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 47 do CP comina as penas de interdição temporária de direitos, entre elas a proibição de exercício de cargo ou função pública e de profissão que dependa de habilitação; o art. 691 do CPP disciplina o procedimento de comunicação dessa sentença à autoridade administrativa competente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.691",
+  "para": "l8429.20",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 20 da Lei de Improbidade estabelece que a perda da função pública só se efetiva com o trânsito em julgado da sentença condenatória por improbidade; o art. 691 do CPP complementa esse regime ao impor ao juízo a comunicação dessa perda à autoridade administrativa competente para a execução do efeito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.692",
+  "para": "cpc.755",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 755 do CPC disciplina a nomeação do curador na sentença que decreta a interdição; o art. 692 do CPP complementa esse regime ao determinar que o juiz acautele a pessoa e os bens do interdito quando sobrevém incapacidade temporária ou permanente para o exercício dessa mesma curatela.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
+ },
+ {
+  "de": "cpp.692",
+  "para": "cc.1733",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 1.733 do CC resolve a incapacidade de um dos tutores nomeados por disposição testamentária por meio da sucessão entre os cotutores pela ordem de nomeação; o art. 692 do CPP complementa esse regime ao impor ao juiz a providência de acautelar a pessoa e os bens do menor quando a incapacidade atinge o próprio exercício do pátrio poder, da tutela ou da curatela.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T13:30:08+00:00"
  }
 ]
