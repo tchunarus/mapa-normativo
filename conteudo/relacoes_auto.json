@@ -8117,5 +8117,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T14:24:41+00:00"
+ },
+ {
+  "de": "clt.223-G",
+  "para": "cc.953",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 223-G da CLT fixa parâmetros tarifados, em múltiplos do salário contratual, para a indenização por dano moral nas relações de trabalho, enquanto o art. 953 do CC remete à apreciação equitativa do juiz para a indenização por injúria, difamação ou calúnia. Para as relações de trabalho, o critério tarifado da CLT é regra especial que afasta o modelo aberto do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T15:21:10+00:00"
+ },
+ {
+  "de": "clt.223-G",
+  "para": "cp.106",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O inciso X do art. 223-G da CLT considera, entre os critérios de fixação da indenização por dano moral trabalhista, o perdão, tácito ou expresso, enquanto o art. 106 do CP disciplina o perdão do ofendido como causa de extinção da punibilidade nos crimes de ação penal privada. São institutos distintos (quantificação de indenização civil trabalhista e extinção da punibilidade penal), mas o uso da mesma expressão pode gerar confusão quanto ao efeito jurídico do perdão em cada contexto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T15:21:10+00:00"
+ },
+ {
+  "de": "cpc.986",
+  "para": "lcp227.323-H",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 986 do CPC permite a revisão da tese jurídica firmada no incidente de resolução de demandas repetitivas pelo mesmo tribunal, de ofício ou a requerimento dos legitimados. O art. 323-H, § 3º, da LC 227/2026 prevê, de modo análogo, a revisão da tese firmada no incidente de uniformização perante a Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS, de ofício ou mediante pedido dos legitimados. São institutos de revisão de tese paradigmática distintos, um jurisdicional civil e outro de contencioso administrativo tributário, cuja semelhança estrutural pode levar à confusão sobre o procedimento e os legitimados aplicáveis a cada um.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T15:21:10+00:00"
+ },
+ {
+  "de": "cpc.986",
+  "para": "clt.874",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 986 do CPC trata da revisão, pelo próprio tribunal, de ofício ou a requerimento dos legitimados, da tese firmada em incidente de resolução de demandas repetitivas. O art. 874 da CLT disciplina, de modo análogo, quem pode promover a revisão da decisão normativa proferida pelo tribunal prolator, a saber, o próprio tribunal, a Procuradoria, associações sindicais ou empregadores interessados. Ambos regulam a revisão de decisão paradigmática vinculante por iniciativa do tribunal ou de legitimados, em institutos processuais distintos, o que pode confundir o regime de legitimados aplicável a cada caso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T15:21:10+00:00"
+ },
+ {
+  "de": "cpp.141",
+  "para": "cpc.495",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 141 do CPP prevê o levantamento do arresto ou o cancelamento da hipoteca legal constituída para garantir a reparação do dano decorrente do crime, quando o réu for absolvido ou extinta a punibilidade por sentença irrecorrível. O art. 495 do CPC disciplina a hipoteca judiciária, que decorre automaticamente da decisão condenatória civil ao pagamento de quantia, independentemente de pedido da parte. São garantias reais de origem judicial distintas quanto a pressupostos e procedimento de constituição, mas a identidade do termo hipoteca pode levar à confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T15:21:10+00:00"
+ },
+ {
+  "de": "cpp.378",
+  "para": "cp.42",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 378 do CPP regula o procedimento de aplicação provisória da medida de segurança, inclusive no curso do inquérito ou na sentença absolutória. O art. 42 do CP determina que o tempo de prisão provisória e de internação seja computado na medida de segurança definitivamente aplicada. O dispositivo processual disciplina a aplicação provisória da medida, cujo cômputo de tempo, quando mantida ou convertida em definitiva, segue a regra do CP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T15:21:10+00:00"
+ },
+ {
+  "de": "cpp.519",
+  "para": "cc.953",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 519 do CPP regula o processamento da ação penal pelos crimes de calúnia ou injúria. O art. 953 do CC disciplina a indenização civil pelo mesmo fato, a ser fixada equitativamente pelo juiz quando não houver prejuízo material comprovado. São esferas de responsabilização distintas e independentes, penal e civil, decorrentes do mesmo fato, o que pode levar a supor, indevidamente, um regime único de apuração e reparação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T15:21:10+00:00"
+ },
+ {
+  "de": "cpp.519",
+  "para": "cp.140",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 519 do CPP estabelece o rito processual da ação penal pelos crimes de calúnia ou injúria. O art. 140 do CP tipifica o crime de injúria, cuja persecução em juízo segue o procedimento regulado pelo CPP. São o dispositivo processual e o dispositivo material do mesmo instituto, a ação penal por crime contra a honra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T15:21:10+00:00"
+ },
+ {
+  "de": "cpp.519",
+  "para": "cp.142",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 519 do CPP regula o processamento da ação penal pelos crimes de calúnia ou injúria. O art. 142 do CP lista as excludentes de punibilidade da injúria e da difamação, como a ofensa irrogada em juízo pela parte ou procurador e a crítica literária, artística ou científica, matéria de defesa a ser arguida no próprio processo disciplinado pelo art. 519.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T15:21:10+00:00"
+ },
+ {
+  "de": "cpp.519",
+  "para": "cp.144",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 519 do CPP regula o rito da ação penal pelos crimes de calúnia ou injúria. O art. 144 do CP permite que o ofendido por referências, alusões ou frases peça explicações em juízo, incidente que se processa nos termos do rito regulado pelo art. 519 do CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T15:21:10+00:00"
+ },
+ {
+  "de": "cpp.673",
+  "para": "cpc.1012",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 673 do CPP autoriza a soltura do réu pendente o julgamento da apelação, sem prejuízo do próprio recurso, quando já cumprida prisão equivalente à pena. O art. 1.012 do CPC estabelece a regra geral de que a apelação tem efeito suspensivo, com exceções em que a sentença produz efeitos desde logo. Ambos tratam de hipóteses em que o recurso de apelação não impede a produção de efeitos da decisão recorrida, em regimes processuais distintos, penal e civil, o que pode levar à confusão quanto ao regime de efeito suspensivo aplicável a cada processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T15:21:10+00:00"
+ },
+ {
+  "de": "cpp.762",
+  "para": "cp.97",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 762 do CPP exige que a ordem de internação para execução da medida de segurança detentiva conste a data em que terminará o prazo mínimo da internação. O art. 97, § 1º, do CP estabelece que a internação será por tempo indeterminado, perdurando enquanto não averiguada a cessação da periculosidade, e fixa o prazo mínimo a ser observado. O art. 762 do CPP regula o procedimento de formalização da ordem cujo prazo mínimo é definido pelo art. 97 do CP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T15:21:10+00:00"
  }
 ]
