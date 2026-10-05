@@ -9147,5 +9147,185 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T21:15:31+00:00"
+ },
+ {
+  "de": "cc.955",
+  "para": "lef.5",
+  "tipo": "conflito_aparente",
+  "grau": "contato",
+  "porque": "O art. 955 do CC define a insolvência civil pelo excesso do passivo sobre o ativo do devedor, hipótese que atrairia a competência do juízo da insolvência, mas o art. 5º da LEF afasta expressamente essa competência quando há execução fiscal em curso, resolvendo o aparente conflito em favor do juízo fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cc.955",
+  "para": "cpc.797",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 955 do CC conceitua a insolvência civil, e o art. 797 do CPC extrai a consequência processual dessa situação, ao afastar a execução singular em proveito de um único credor e determinar o concurso universal entre os credores do devedor insolvente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cc.955",
+  "para": "l11101.167-U",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O termo insolvência empregado no art. 955 do CC designa a insolvência civil da pessoa natural, enquanto o art. 167-U da Lei 11.101/05 presume a insolvência do devedor estrangeiro para fins de reconhecimento de processo estrangeiro principal, instituto distinto de natureza empresarial e internacional, o que gera risco real de confusão entre os regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.82",
+  "para": "cpp.733",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 82 do CP trata da extinção da pena pelo decurso do prazo da suspensão condicional sem revogação, enquanto o art. 733 do CPP regula a extinção da pena pelo decurso do prazo do livramento condicional sem revogação, institutos distintos que empregam fórmula quase idêntica e podem ser confundidos pelo intérprete menos atento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.85",
+  "para": "cpp.718",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 85 do CP determina que a sentença especifique as condições a que fica subordinado o livramento, e o art. 718 do CPP disciplina o mesmo ato, ao exigir que o juiz, ao fixar essas condições, observe o disposto no art. 698 do mesmo Código.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.85",
+  "para": "cpp.723",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 85 do CP cuida da especificação das condições do livramento na sentença, e o art. 723 do CPP complementa essa fase ao disciplinar a cerimônia solene em que a sentença é lida ao liberando e em que este declara se aceita as condições impostas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.85",
+  "para": "cpp.731",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 85 do CP trata da fixação das condições do livramento na sentença, e o art. 731 do CPP complementa esse regime ao permitir que o juiz, de ofício ou a requerimento, modifique posteriormente as condições ou normas de conduta especificadas na sentença.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.86",
+  "para": "cpp.726",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 86 do CP prevê a revogação obrigatória do livramento quando o liberado é condenado por sentença irrecorrível a pena privativa de liberdade, e o art. 726 do CPP reproduz essa consequência no plano processual, estendendo-a expressamente também à condenação por contravenção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.86",
+  "para": "cpp.728",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 86, inciso II, do CP prevê a revogação do livramento por crime anterior à sua vigência, e o art. 728 do CPP complementa essa hipótese ao determinar que se compute, no tempo da pena, o período em que o liberado esteve solto, permitindo a soma do tempo das duas penas para novo livramento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.86",
+  "para": "cpp.729",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 86 do CP disciplina as hipóteses de revogação obrigatória do livramento, e o art. 729 do CPP trata da consequência da revogação por outro motivo, de natureza facultativa, ao estabelecer que não se compute o tempo em que o liberado esteve solto nem se conceda novo livramento quanto à mesma pena.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.89",
+  "para": "cpp.732",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 89 do CP impede que o juiz declare extinta a pena enquanto não transitar em julgado o processo por crime cometido na vigência do livramento, e o art. 732 do CPP complementa essa regra ao autorizar a suspensão do curso do livramento e a prisão do liberado até a decisão final do novo processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.93",
+  "para": "cpp.747",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 93 do CP assegura ao reabilitado o sigilo dos registros sobre o processo e a condenação, e o art. 747 do CPP complementa essa garantia ao determinar que a reabilitação, após sentença irrecorrível, seja comunicada ao Instituto de Identificação e Estatística ou repartição congênere.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.93",
+  "para": "l8213.89",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 93 do CP trata da reabilitação criminal, que restabelece o sigilo dos registros do condenado, enquanto o art. 89 da Lei 8.213/91 disciplina a reabilitação profissional e social do segurado incapacitado para o trabalho, instituto homônimo e de natureza previdenciária, sem qualquer relação com os efeitos da condenação penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.93",
+  "para": "l14133.163",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 93 do CP cuida da reabilitação criminal do condenado, e o art. 163 da Lei 14.133/21 disciplina a reabilitação administrativa do licitante ou contratado sancionado perante a própria autoridade que aplicou a penalidade, instituto homônimo e de natureza distinta, ligado à licitação e não à execução penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.95",
+  "para": "cpp.750",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 95 do CP prevê a revogação da reabilitação quando o reabilitado é condenado como reincidente a pena que não seja de multa, e o art. 750 do CPP atribui ao juiz a competência para decretar essa revogação, de ofício ou a requerimento do Ministério Público, mas cita o art. 120 do Código Penal, numeração que não corresponde à do dispositivo ora analisado, o que exige cautela na remissão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.95",
+  "para": "cc.1818",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 95 do CP trata da revogação da reabilitação criminal do condenado, e o art. 1.818 do CC emprega o mesmo verbo reabilitar para a hipótese de o ofendido admitir a suceder quem incorreu em causa de indignidade, instituto sucessório homônimo e sem qualquer relação com a execução penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.95",
+  "para": "l8213.62",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 95 do CP cuida da revogação da reabilitação criminal, e o art. 62 da Lei 8.213/91 trata da reabilitação profissional do segurado em gozo de auxílio-doença insuscetível de recuperação para sua atividade habitual, instituto homônimo de natureza previdenciária e sem relação com os efeitos da condenação penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
+ },
+ {
+  "de": "cp.95",
+  "para": "cpp.749",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 95 do CP disciplina a revogação da reabilitação já concedida, e o art. 749 do CPP complementa o mesmo regime ao tratar da hipótese distinta de indeferimento do pedido, vedando sua renovação antes de dois anos, salvo se o indeferimento decorreu de falta ou insuficiência de documentos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T22:17:07+00:00"
  }
 ]
