@@ -9027,5 +9027,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T20:19:11+00:00"
+ },
+ {
+  "de": "cpp.708",
+  "para": "cp.82",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "Ambos tratam da extinção da pena privativa de liberdade pelo decurso do prazo de suspensão condicional sem revogação; o art. 708 do CPP regula o procedimento, com a expedição de nova folha de antecedentes, para a declaração judicial prevista no art. 82 do CP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T21:15:31+00:00"
+ },
+ {
+  "de": "cpp.708",
+  "para": "cp.90",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 708 do CPP, ao disciplinar a extinção da pena pelo decurso do prazo da suspensão condicional sem revogação, tem redação quase idêntica à do art. 90 do CP, que trata do livramento condicional, instituto distinto e sujeito a requisitos próprios, o que gera risco de confusão entre os dois benefícios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T21:15:31+00:00"
+ },
+ {
+  "de": "cpp.719",
+  "para": "cp.85",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 85 do CP determina que a sentença especifique as condições do livramento, e o art. 719 do CPP acrescenta, como condição legal, o pagamento das custas processuais e da taxa penitenciária, salvo insolvência comprovada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T21:15:31+00:00"
+ },
+ {
+  "de": "cpp.719",
+  "para": "cc.955",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A insolvência mencionada no art. 719 do CPP refere-se a condição fática de impossibilidade de pagamento apurada no próprio processo de execução penal, e não se confunde com a declaração judicial de insolvência civil prevista no art. 955 do CC, que pressupõe processo próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T21:15:31+00:00"
+ },
+ {
+  "de": "cpp.727",
+  "para": "cp.86",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 86 do CP disciplina a revogação obrigatória do livramento condicional quando a nova condenação impõe pena privativa de liberdade, hipótese distinta da revogação facultativa tratada pelo art. 727 do CPP, que pressupõe condenação a pena diversa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T21:15:31+00:00"
+ },
+ {
+  "de": "cpp.730",
+  "para": "cp.86",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 730 do CPP disciplina o procedimento, com oitiva do liberado e prazo de cinco dias para diligências, aplicável à decretação da revogação obrigatória do livramento condicional prevista no art. 86 do CP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T21:15:31+00:00"
+ },
+ {
+  "de": "cpp.733",
+  "para": "cp.90",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 733 do CPP disciplina a declaração judicial de extinção da pena quando configurada a hipótese de expiração do prazo do livramento condicional sem revogação, prevista no art. 90 do CP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T21:15:31+00:00"
+ },
+ {
+  "de": "cpp.733",
+  "para": "cp.89",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 89 do CP impede a declaração de extinção da pena enquanto não transitar em julgado sentença em processo por crime cometido durante o livramento, excepcionando a aplicação do art. 733 do CPP nessa hipótese.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T21:15:31+00:00"
+ },
+ {
+  "de": "cpp.743",
+  "para": "cp.93",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 93 do CP define os efeitos da reabilitação, assegurando o sigilo dos registros sobre o processo e a condenação, enquanto o art. 743 do CPP disciplina o procedimento e o prazo para seu requerimento perante o juízo da condenação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T21:15:31+00:00"
+ },
+ {
+  "de": "cpp.743",
+  "para": "cp.95",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 95 do CP disciplina a revogação da reabilitação concedida mediante o procedimento do art. 743 do CPP, quando o reabilitado vier a ser condenado como reincidente por decisão definitiva.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T21:15:31+00:00"
+ },
+ {
+  "de": "cpp.746",
+  "para": "cp.93",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 746 do CPP sujeita a decisão que conceder a reabilitação definida no art. 93 do CP a recurso de ofício, como forma de controle automático da concessão do benefício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T21:15:31+00:00"
+ },
+ {
+  "de": "cpp.746",
+  "para": "l14133.163",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A reabilitação criminal de que trata o art. 746 do CPP, vinculada aos efeitos da condenação penal, não se confunde com a reabilitação do licitante ou contratado prevista no art. 163 da Lei 14.133/21, que tem natureza administrativa e requisitos próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T21:15:31+00:00"
  }
 ]
