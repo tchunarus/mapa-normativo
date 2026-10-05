@@ -7657,5 +7657,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T11:27:23+00:00"
+ },
+ {
+  "de": "cp.102",
+  "para": "cpp.25",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 102 do Código Penal e o art. 25 do Código de Processo Penal preveem, em redação praticamente idêntica, a irretratabilidade da representação depois de oferecida a denúncia, de modo que a mesma regra aparece duplicada em diplomas diferentes, com risco de se citar apenas um deles como fundamento da irretratabilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T12:32:15+00:00"
+ },
+ {
+  "de": "cp.103",
+  "para": "cpp.38",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 103 do Código Penal e o caput do art. 38 do Código de Processo Penal fixam, em termos equivalentes, o prazo de seis meses para a decadência do direito de queixa ou de representação, contado do dia em que o ofendido vem a saber quem é o autor do crime, de modo que a mesma regra de decadência consta, de forma praticamente repetida, nos dois diplomas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T12:32:15+00:00"
+ },
+ {
+  "de": "cp.103",
+  "para": "l9099.91",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 103 do Código Penal fixa o prazo geral de seis meses para a decadência do direito de representação, enquanto o art. 91 da Lei 9.099/95 estabelece prazo especial de trinta dias para o ofendido oferecer representação nos casos em que essa lei passou a exigi-la para a propositura da ação penal pública, regra especial que afasta o prazo geral nessas hipóteses.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T12:32:15+00:00"
+ },
+ {
+  "de": "cp.107",
+  "para": "cpp.58",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 107, inciso V, do Código Penal prevê a extinção da punibilidade pelo perdão aceito nos crimes de ação privada, e o art. 58 do Código de Processo Penal disciplina o procedimento para intimar o querelado a manifestar-se sobre o perdão, dando efetividade processual a essa causa extintiva.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T12:32:15+00:00"
+ },
+ {
+  "de": "cpp.58",
+  "para": "cp.106",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 58 do Código de Processo Penal disciplina o procedimento de intimação do querelado para aceitar ou não o perdão, e o art. 106 do Código Penal estabelece os efeitos desse perdão, entre eles a extensão a todos os querelados quando concedido a qualquer deles e a ineficácia diante da recusa de um dos beneficiados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T12:32:15+00:00"
+ },
+ {
+  "de": "cpp.63",
+  "para": "cc.953",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 63 do Código de Processo Penal permite a execução, no juízo cível, da sentença penal condenatória transitada em julgado para o efeito da reparação do dano, e o art. 953 do Código Civil estabelece como se apura a indenização por injúria, difamação ou calúnia, hipótese em que essa execução cível pode ter lugar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-05T12:32:15+00:00"
  }
 ]
