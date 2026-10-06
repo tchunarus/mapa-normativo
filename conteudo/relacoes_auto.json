@@ -10647,5 +10647,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "lcp227.109",
+  "para": "adct.131",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 109 da Lei Complementar nº 227/2026 regulamenta, para a retenção do produto da arrecadação do IBS, os mesmos percentuais e o mesmo escalonamento temporal (oitenta por cento de 2029 a 2032, noventa por cento em 2033 e redução de um quarenta e cinco avos ao ano até 2077) fixados pelo art. 131, §1º, do ADCT para a retenção do produto da arrecadação do imposto previsto no art. 156-A da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T14:23:17+00:00"
+ },
+ {
+  "de": "lcp214.371",
+  "para": "adct.131",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 371 da Lei Complementar nº 214/2025 remete expressamente ao art. 131, §1º, do ADCT ao vedar aos entes federativos fixar alíquotas do IBS inferiores às necessárias para garantir a retenção ali prevista, de modo que o piso de alíquotas por ele instituído é instrumental à regra de retenção e distribuição estabelecida pelo dispositivo constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T14:23:17+00:00"
+ },
+ {
+  "de": "cc.120",
+  "para": "cpp.39",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 120 do Código Civil disciplina a representação legal e a representação voluntária como institutos de direito civil relativos à atuação em nome de outrem, enquanto o art. 39 do Código de Processo Penal emprega o mesmo termo representação para designar a manifestação de vontade do ofendido que autoriza o início da ação penal pública condicionada, instituto processual penal sem relação com a representação civil, o que gera risco de confusão terminológica entre os dois dispositivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T14:23:17+00:00"
+ },
+ {
+  "de": "cc.1245",
+  "para": "lcp214.254",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.245 do Código Civil condiciona a transferência da propriedade imóvel entre vivos ao registro do título translativo no Registro de Imóveis, enquanto o art. 254, I, da Lei Complementar nº 214/2025 considera ocorrido o fato gerador do IBS e da CBS já no momento do ato de alienação do bem imóvel, independentemente do registro, o que pode induzir à falsa equivalência entre o momento da transmissão da propriedade para fins civis e o momento da incidência tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T14:23:17+00:00"
+ },
+ {
+  "de": "cpp.67",
+  "para": "cp.108",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 108 do Código Penal estabelece que a extinção da punibilidade de um crime não se estende a outro do qual é pressuposto, elemento constitutivo ou circunstância agravante, nem impede a agravação da pena pela conexão, e o art. 67, II, do Código de Processo Penal complementa esse regime de efeitos limitados ao prever que a decisão que declara extinta a punibilidade também não impede a propositura da ação civil decorrente do mesmo fato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T14:23:17+00:00"
+ },
+ {
+  "de": "cp.16",
+  "para": "l8137.16",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 16 do Código Penal reduz a pena de um a dois terços no arrependimento posterior, condicionado à reparação do dano ou à restituição da coisa antes do recebimento da denúncia ou da queixa em crimes sem violência ou grave ameaça, enquanto o parágrafo único do art. 16 da Lei nº 8.137/1990 prevê a mesma faixa de redução para o coautor ou partícipe de crime contra a ordem tributária cometido em quadrilha ou coautoria que confessar espontaneamente toda a trama delituosa, hipótese com requisitos distintos que pode ser confundida com o instituto geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T14:23:17+00:00"
+ },
+ {
+  "de": "ctn.126",
+  "para": "cpc.70",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 70 do CPC vincula a capacidade para estar em juízo ao exercício dos direitos, refletindo a regra geral de capacidade civil, enquanto o art. 126 do CTN excepciona esse critério ao dispor que a capacidade tributária passiva independe da capacidade civil das pessoas naturais e da regularidade da constituição da pessoa jurídica, bastando a configuração de unidade econômica ou profissional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T14:23:17+00:00"
+ },
+ {
+  "de": "ctn.38",
+  "para": "lcp214.256",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 38, §1º, do CTN define o valor venal, base de cálculo do ITBI, como o valor de negociação à vista em condições normais de mercado, estimado por critérios técnicos como análise de preços do mercado imobiliário e informações dos serviços registrais, e o art. 256 da Lei Complementar nº 214/2025 estabelece metodologia de apuração do valor de referência do imóvel para fins de IBS e CBS com critérios quase idênticos, o que pode levar à confusão entre os dois valores, que servem a tributos distintos e podem resultar em quantias diferentes para o mesmo imóvel.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T14:23:17+00:00"
+ },
+ {
+  "de": "floripa_ctm.281",
+  "para": "ctn.38",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 38, caput, do CTN fixa como base de cálculo do ITBI o valor venal dos bens ou direitos transmitidos, e o art. 281, I, do Código Tributário Municipal de Florianópolis regulamenta essa base de cálculo no âmbito local, definindo o valor venal do imóvel transmitido ou cedido como o valor atualizado constante do banco de dados da Secretaria Municipal da Receita ou o valor declarado no instrumento de transmissão, se maior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T14:23:17+00:00"
+ },
+ {
+  "de": "d9580.197",
+  "para": "l11101.141",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O §1º do art. 197 do RIR/2018 afasta a responsabilidade tributária do adquirente de fundo de comércio ou estabelecimento quando a alienação ocorrer judicialmente em processo de falência ou de recuperação judicial, hipótese que complementa, no âmbito do imposto de renda, a regra geral do art. 141, II, da Lei nº 11.101/2005, segundo a qual o objeto da alienação de ativos na falência não acarreta sucessão do arrematante nas obrigações do devedor, inclusive as de natureza tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T14:23:17+00:00"
  }
 ]
