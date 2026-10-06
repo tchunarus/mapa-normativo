@@ -10127,5 +10127,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "cpc.654",
+  "para": "floripa_ctm.109",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 109 do CTM de Florianópolis repete, para os tributos municipais incidentes sobre o espólio, a mesma condição geral de quitação tributária que o art. 654 do CPC especializa para a sentença de partilha no caso do imposto de transmissão causa mortis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T11:16:20+00:00"
+ },
+ {
+  "de": "ctn.204",
+  "para": "lef.3",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 3º da LEF repete, para a dívida ativa em cobrança judicial, a presunção de certeza e liquidez do art. 204 do CTN e a mesma possibilidade de ilisão por prova inequívoca a cargo do executado ou de terceiro, detalhando a aplicação da presunção no processo de execução fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T11:16:20+00:00"
+ },
+ {
+  "de": "ctn.204",
+  "para": "floripa_ctm.189",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 189 do CTM de Florianópolis reproduz, para a dívida ativa municipal, a presunção de certeza e liquidez e o efeito de prova pré-constituída do art. 204 do CTN, aplicando a mesma regra geral no âmbito da Fazenda municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T11:16:20+00:00"
+ },
+ {
+  "de": "ctn.206",
+  "para": "floripa_ctm.192",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 192 do CTM de Florianópolis reproduz, para a Fazenda municipal, a regra do art. 206 do CTN de que a certidão de créditos não vencidos, com penhora efetivada ou exigibilidade suspensa, tem os mesmos efeitos da certidão negativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T11:16:20+00:00"
+ },
+ {
+  "de": "ctn.31",
+  "para": "floripa_ctm.246",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 31 do CTN define o contribuinte do imposto territorial rural pela mesma fórmula (proprietário, titular do domínio útil ou possuidor a qualquer título) usada pelo art. 246 do CTM de Florianópolis para o contribuinte do IPTU, tributo municipal urbano distinto; a redação quase idêntica cria risco real de se confundir a regra do imposto rural federal com a do imposto predial urbano municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T11:16:20+00:00"
+ },
+ {
+  "de": "ctn.32",
+  "para": "floripa_ctm.224",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 224 do CTM de Florianópolis reproduz, para o Município de Florianópolis, o fato gerador do IPTU definido no art. 32 do CTN (propriedade, domínio útil ou posse de imóvel urbano por natureza ou acessão física), detalhando a mesma hipótese de incidência em âmbito local.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T11:16:20+00:00"
+ },
+ {
+  "de": "ctn.32",
+  "para": "cf.156",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 32 do CTN concretiza, ao definir o fato gerador do IPTU, a competência que o art. 156, I, da CF atribui aos Municípios para instituir imposto sobre a propriedade predial e territorial urbana.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T11:16:20+00:00"
+ },
+ {
+  "de": "ctn.34",
+  "para": "floripa_ctm.246",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 246 do CTM de Florianópolis reproduz, para o IPTU municipal, a mesma definição de contribuinte do art. 34 do CTN (proprietário, titular do domínio útil ou possuidor a qualquer título), detalhando a aplicação local da regra geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T11:16:20+00:00"
+ },
+ {
+  "de": "ctn.47",
+  "para": "lcp87.13",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 47, II, alínea a, do CTN define a base de cálculo do IPI na saída de mercadoria pelo valor da operação, fórmula quase idêntica à do art. 13, I, da LC 87/96 para o ICMS; a semelhança de redação entre as regras de dois impostos distintos (IPI federal e ICMS estadual) cria risco real de confusão entre as bases de cálculo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T11:16:20+00:00"
+ },
+ {
+  "de": "ctn.47",
+  "para": "lcp87.15",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 47, II, alínea b, do CTN estabelece, na falta do valor da operação, o preço corrente da mercadoria ou de similar no mercado atacadista da praça do remetente como base de cálculo do IPI, regra quase idêntica à do art. 15, I, da LC 87/96 para o ICMS; a redação semelhante entre as regras de dois impostos distintos cria risco real de confusão entre as bases de cálculo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T11:16:20+00:00"
  }
 ]
