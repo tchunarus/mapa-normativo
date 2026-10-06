@@ -11027,5 +11027,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T16:20:16+00:00"
+ },
+ {
+  "de": "cc.76",
+  "para": "cpc.50",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 50 do CPC fixa o foro da ação contra o incapaz no domicílio de seu representante ou assistente, conceito de domicílio necessário definido pelo parágrafo único do art. 76 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T17:16:24+00:00"
+ },
+ {
+  "de": "cc.76",
+  "para": "cpc.243",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 243 do CPC determina a citação do militar na unidade em que servir quando não localizada sua residência, reproduzindo no processo civil a regra de domicílio necessário do militar prevista no art. 76 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T17:16:24+00:00"
+ },
+ {
+  "de": "d9580.893",
+  "para": "lsa.278",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 278 da LSA afasta a presunção de solidariedade entre as sociedades consorciadas, mas o art. 893 do RIR/2018, com base na Lei nº 12.402, de 2011, impõe responsabilidade solidária das consorciadas pelo cumprimento das obrigações acessórias tributárias relativas ao consórcio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T17:16:24+00:00"
+ },
+ {
+  "de": "d9580.893",
+  "para": "lsa.279",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 893 do RIR/2018 pressupõe o consórcio constituído na forma do contrato previsto no art. 279 da LSA, sem disciplinar os requisitos desse instrumento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T17:16:24+00:00"
+ },
+ {
+  "de": "d9580.9",
+  "para": "cc.1991",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.991 do CC atribui ao inventariante a administração da herança desde a assinatura do compromisso até a homologação da partilha, e o art. 9º do RIR/2018 detalha que, a partir da abertura da sucessão, as obrigações fiscais do espólio ficam a cargo desse mesmo inventariante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T17:16:24+00:00"
+ },
+ {
+  "de": "d9580.9",
+  "para": "cpc.617",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 9º do RIR/2018 impõe obrigações fiscais ao inventariante sem disciplinar sua nomeação, que segue a ordem de preferência estabelecida no art. 617 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T17:16:24+00:00"
+ },
+ {
+  "de": "d9580.9",
+  "para": "cpc.613",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 613 do CPC mantém o espólio na posse do administrador provisório até a prestação do compromisso pelo inventariante, enquanto o § 1º do art. 9º do RIR/2018 atribui a este as obrigações fiscais já a partir da abertura da sucessão, o que gera aparente tensão sobre o responsável pelo cumprimento dessas obrigações no período anterior ao compromisso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T17:16:24+00:00"
+ },
+ {
+  "de": "d9580.943",
+  "para": "ctn.168",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 168 do CTN fixa em cinco anos o prazo para pleitear a restituição de tributo, contado conforme a hipótese do pagamento indevido, e o § 2º do art. 943 do RIR/2018 reproduz esse prazo e seu termo inicial para a restituição do imposto de renda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T17:16:24+00:00"
+ },
+ {
+  "de": "d9580.943",
+  "para": "l9430.74",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O direito à restituição do imposto de renda pago indevidamente ou a maior, previsto no art. 943 do RIR/2018, pode ser exercido mediante a compensação declarada à Secretaria da Receita Federal na forma do art. 74 da Lei nº 9.430, de 1996.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T17:16:24+00:00"
+ },
+ {
+  "de": "d9580.943",
+  "para": "cc.877",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 877 do CC exige, na repetição do indébito civil, prova de que o pagamento voluntário foi feito por erro, ao passo que o art. 943 do RIR/2018, com base no art. 165 do CTN, assegura a restituição do imposto de renda pago indevidamente ou a maior independentemente de prévio protesto, sem essa exigência de prova.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T17:16:24+00:00"
+ },
+ {
+  "de": "d9580.944",
+  "para": "l9430.62",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 62 da Lei nº 9.430, de 1996, fixa os juros devidos sobre os valores referidos no art. 16 da Lei nº 9.250, de 1995, e o art. 944 do RIR/2018 reproduz essa taxa, equivalente à Selic, para as restituições do imposto de renda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T17:16:24+00:00"
+ },
+ {
+  "de": "d9580.946",
+  "para": "ctn.150",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 150 do CTN fixa o prazo decadencial contado da ocorrência do fato gerador para os tributos sujeitos a lançamento por homologação, e o inciso I do art. 946 do RIR/2018 reproduz essa regra para o imposto de renda antecipado pelo sujeito passivo, ressalvados dolo, fraude ou simulação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T17:16:24+00:00"
  }
 ]
