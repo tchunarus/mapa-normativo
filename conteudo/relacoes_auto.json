@@ -9377,5 +9377,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-05T23:15:32+00:00"
+ },
+ {
+  "de": "cc.520",
+  "para": "l8245.28",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos tratam de direito de preferência em contratos relativos a bens imóveis, mas em regimes distintos: o art. 520 do Código Civil veda a cessão do direito de preferência convencional e impede sua transmissão aos herdeiros, enquanto o art. 28 da Lei 8.245/91 regula a caducidade do direito de preferência legal do locatário, sujeito a prazo de aceitação de trinta dias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T00:08:39+00:00"
+ },
+ {
+  "de": "cc.520",
+  "para": "lsa.171",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos empregam a mesma expressão, direito de preferência, para institutos diferentes: o art. 520 do Código Civil disciplina a incessibilidade do direito de preferência no contrato de compra e venda, enquanto o art. 171 da Lei das Sociedades por Ações assegura aos acionistas preferência para subscrever o aumento de capital, na proporção das ações que possuírem. A coincidência terminológica não implica identidade de regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T00:08:39+00:00"
+ },
+ {
+  "de": "cc.957",
+  "para": "cpc.908",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos regulam a mesma hipótese, a ausência de título legal de preferência entre credores, mas indicam soluções diferentes: o art. 957 do Código Civil determina que, nesse caso, os credores terão igual direito sobre os bens do devedor comum, ao passo que o § 2º do art. 908 do Código de Processo Civil manda distribuir o dinheiro entre os concorrentes observando a anterioridade de cada penhora.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T00:08:39+00:00"
+ },
+ {
+  "de": "cp.84",
+  "para": "cpp.711",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam da soma das penas correspondentes a infrações diversas para o efeito do livramento condicional, mas divergem no verbo empregado: o art. 84 do Código Penal determina que as penas devem somar-se, enquanto o art. 711 do Código de Processo Penal diz que elas podem somar-se, sugerindo caráter apenas facultativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T00:08:39+00:00"
+ },
+ {
+  "de": "cpp.732",
+  "para": "cp.86",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 732 do Código de Processo Penal disciplina o procedimento a adotar quando o liberado pratica nova infração durante o livramento condicional, permitindo ao juiz ordenar a prisão e suspender o curso do benefício até a decisão final do novo processo. O art. 86 do Código Penal define a consequência substantiva dessa mesma hipótese, a revogação do livramento quando sobrevém, em sentença irrecorrível, condenação a pena privativa de liberdade por crime cometido durante a vigência do benefício ou por crime anterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T00:08:39+00:00"
+ },
+ {
+  "de": "cpp.747",
+  "para": "l8213.89",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos empregam o termo reabilitação para institutos inteiramente distintos: o art. 747 do Código de Processo Penal trata da reabilitação criminal, que resguarda o sigilo dos registros de condenação, enquanto o art. 89 da Lei 8.213/91 trata da reabilitação profissional e social do segurado incapacitado para o trabalho, no âmbito previdenciário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T00:08:39+00:00"
+ },
+ {
+  "de": "ctn.135",
+  "para": "floripa_ctm.43",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 43 do Código Tributário Municipal de Florianópolis reproduz, para os tributos municipais, a regra de responsabilidade pessoal do art. 135 do Código Tributário Nacional, aplicável aos mandatários, prepostos e empregados e aos diretores, gerentes ou representantes de pessoas jurídicas de direito privado que pratiquem atos com excesso de poderes ou infração de lei, contrato social ou estatutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T00:08:39+00:00"
+ },
+ {
+  "de": "ctn.135",
+  "para": "d9580.200",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 200 do Regulamento do Imposto de Renda regulamenta, para fins de imposto sobre a renda, a responsabilidade pessoal prevista no art. 135 do Código Tributário Nacional, que o próprio dispositivo regulamentar cita expressamente, especificando categorias como os administradores de bens de terceiros e o síndico e o comissário da massa falida ou do concordatário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T00:08:39+00:00"
+ },
+ {
+  "de": "ctn.135",
+  "para": "d9580.23",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 23 do Regulamento do Imposto de Renda cita expressamente o inciso I do art. 135 do Código Tributário Nacional como fundamento da responsabilidade pessoal das pessoas referidas no seu art. 22, por atos praticados com excesso de poderes ou infração de lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T00:08:39+00:00"
+ },
+ {
+  "de": "ctn.135",
+  "para": "d9580.783",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos responsabilizam diretores, gerentes ou representantes de pessoas jurídicas de direito privado por créditos tributários, mas em regimes distintos: o art. 135 do Código Tributário Nacional prevê responsabilidade pessoal por atos com excesso de poderes ou infração de lei, contrato social ou estatutos, enquanto o art. 783 do Regulamento do Imposto de Renda prevê responsabilidade solidária dos acionistas controladores, diretores, gerentes ou representantes pelo não recolhimento do imposto de renda retido na fonte, independentemente de excesso de poderes ou infração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T00:08:39+00:00"
  }
 ]
