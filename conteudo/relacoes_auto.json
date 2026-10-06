@@ -11147,5 +11147,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T17:16:24+00:00"
+ },
+ {
+  "de": "cc.877",
+  "para": "ctn.165",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 877 do CC exige prova do erro para que o pagamento voluntário do indevido seja repetido, enquanto o art. 165 do CTN assegura a restituição do tributo pago indevidamente, independentemente de prévio protesto, sem exigir essa demonstração. São regimes de repetição do indébito distintos e autônomos, que não se confundem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T18:17:55+00:00"
+ },
+ {
+  "de": "cc.877",
+  "para": "l8078.42",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 877 do CC condiciona a repetição do indébito à prova do erro no pagamento voluntário, ao passo que o parágrafo único do art. 42 do CDC assegura ao consumidor cobrado em quantia indevida a repetição em dobro sem exigir essa prova, salvo engano justificável. É regime especial de proteção ao consumidor que não se confunde com a regra civil geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T18:17:55+00:00"
+ },
+ {
+  "de": "cpc.243",
+  "para": "cpp.358",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 243, parágrafo único, do CPC determina que o militar em serviço ativo seja citado na unidade em que serve, e o art. 358 do CPP dispõe que a citação do militar se faz por intermédio do chefe do respectivo serviço. São institutos processuais distintos, de citação cível e de citação penal, e há risco de se aplicar por analogia a sistemática de um deles ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T18:17:55+00:00"
+ },
+ {
+  "de": "d9580.968",
+  "para": "l9784.36",
+  "tipo": "excepciona",
+  "grau": "contato",
+  "porque": "O art. 968 do RIR/2018 inverte o ônus da prova, atribuindo à autoridade administrativa a demonstração da inveracidade dos fatos registrados na escrituração, em contraponto à regra geral do art. 36 da Lei 9.784/99, que impõe ao interessado a prova dos fatos que alegou no processo administrativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T18:17:55+00:00"
+ },
+ {
+  "de": "d9580.995",
+  "para": "ctn.151",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 995 do RIR/2018 regulamenta, para o imposto de renda, a interrupção da incidência da multa de mora decorrente da suspensão da exigibilidade do crédito tributário por medida liminar ou tutela antecipada prevista nos incisos IV e V do art. 151 do CTN, expressamente citado como fundamento do dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T18:17:55+00:00"
+ },
+ {
+  "de": "d9580.995",
+  "para": "l9430.63",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 995 do RIR/2018 reproduz, para o imposto de renda, a regra do § 2º do art. 63 da Lei 9.430/96 sobre a interrupção da incidência da multa de mora quando há ação judicial favorecida por medida liminar, dispositivo expressamente citado como fundamento do art. 995.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T18:17:55+00:00"
+ },
+ {
+  "de": "ec132.16",
+  "para": "lcp227.158",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 16 da EC 132/2023 fixava regra de competência para o imposto sobre heranças e doações relativamente a bens imóveis apenas até que lei complementar regulasse o art. 155, § 1º, III, da CF. O art. 158 da LC 227/2026 passou a regular essa competência para bens imóveis, de modo que o art. 16 aplica-se apenas subsidiariamente, na omissão da lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T18:17:55+00:00"
+ },
+ {
+  "de": "ec132.16",
+  "para": "lcp227.159",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 16, III, da EC 132/2023 fixava regra de competência para o imposto sobre heranças e doações relativamente a bens do de cujus, ainda que situados no exterior, apenas até que lei complementar regulasse o art. 155, § 1º, III, da CF. O art. 159 da LC 227/2026 passou a regular a competência para bens móveis na transmissão causa mortis, de modo que o art. 16 aplica-se apenas subsidiariamente, na omissão da lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T18:17:55+00:00"
  }
 ]
