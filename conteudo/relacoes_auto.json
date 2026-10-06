@@ -10917,5 +10917,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "cc.932",
+  "para": "ctn.134",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os incisos I e II do art. 932 do CC atribuem aos pais, tutores e curadores responsabilidade civil pela reparação de danos causados por filhos menores, pupilos e curatelados sob sua autoridade, instituto conexo mas distinto da responsabilidade tributária solidária atribuída às mesmas pessoas pelo art. 134 do CTN quando o contribuinte não pode cumprir a obrigação principal, podendo gerar confusão entre os pressupostos de uma e de outra responsabilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T16:20:16+00:00"
+ },
+ {
+  "de": "cc.932",
+  "para": "floripa_ctm.42",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os incisos I e II do art. 932 do CC atribuem aos pais, tutores e curadores responsabilidade civil pela reparação de danos causados por filhos menores, pupilos e curatelados sob sua autoridade, instituto conexo mas distinto da responsabilidade tributária municipal atribuída às mesmas pessoas pelo art. 42 do CTM de Florianópolis quando o contribuinte não pode cumprir a obrigação principal, podendo gerar confusão entre os pressupostos de uma e de outra responsabilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T16:20:16+00:00"
+ },
+ {
+  "de": "cc.972",
+  "para": "floripa_ctm.34",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 972 do CC exige plena capacidade civil para o exercício da atividade de empresário, mas o art. 34 do CTM de Florianópolis excepciona essa exigência no âmbito tributário municipal, ao prever que a capacidade tributária passiva independe da capacidade civil das pessoas naturais, de modo que a incapacidade civil ou a irregularidade na constituição não afastam a sujeição às obrigações tributárias do município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T16:20:16+00:00"
+ },
+ {
+  "de": "d9580.158",
+  "para": "l9430.60",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 158 do RIR/2018, em seu § 2º, regulamenta, no âmbito do imposto sobre a renda, a mesma regra do art. 60 da Lei nº 9.430/96, segundo a qual as entidades em liquidação extrajudicial ou falência permanecem sujeitas às normas de incidência aplicáveis às pessoas jurídicas durante a realização do ativo e o pagamento do passivo, tratando-se do mesmo instituto reproduzido em diplomas diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T16:20:16+00:00"
+ },
+ {
+  "de": "d9580.23",
+  "para": "lef.4",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso V do art. 4º da LEF autoriza que a execução fiscal seja promovida diretamente contra o responsável tributário, enquanto o art. 23 do RIR/2018, regulamentando o art. 135, caput, inciso I, do CTN, define a responsabilidade pessoal por excesso de poderes ou infração de lei no âmbito do imposto sobre a renda, de modo que a LEF veicula o procedimento de cobrança da obrigação cuja responsabilidade o dispositivo regulamentar atribui.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T16:20:16+00:00"
+ },
+ {
+  "de": "d9580.23",
+  "para": "floripa_ctm.43",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 43 do CTM de Florianópolis reproduz, para os tributos municipais, a mesma hipótese de responsabilidade pessoal por excesso de poderes ou infração de lei, contrato social ou estatutos que o art. 23 do RIR/2018 disciplina para o imposto de renda, atribuindo-a às mesmas pessoas (mandatários, prepostos, empregados, diretores, gerentes ou representantes), de modo que os dois dispositivos integram o mesmo regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T16:20:16+00:00"
+ },
+ {
+  "de": "d9580.231",
+  "para": "floripa_ctm.39",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 39 do CTM de Florianópolis reproduz, para os tributos municipais, a mesma regra de manutenção da responsabilidade tributária na transformação ou continuação da atividade por sócio remanescente ou espólio, sob a mesma ou nova denominação social, que o art. 231 do RIR/2018 disciplina para o imposto sobre a renda, de modo que os dois dispositivos integram o mesmo regime, cada um em sua esfera tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T16:20:16+00:00"
+ },
+ {
+  "de": "d9580.26",
+  "para": "floripa_ctm.35",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 35 do CTM de Florianópolis reproduz, para o domicílio tributário municipal, o mesmo critério geral de domicílio da pessoa física, residência habitual ou centro habitual de atividade, que o art. 26 do RIR/2018 e o art. 127 do CTN estabelecem para o imposto sobre a renda, de modo que os dois dispositivos integram o mesmo regime do domicílio fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T16:20:16+00:00"
+ },
+ {
+  "de": "d9580.31",
+  "para": "cc.76",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 76 do CC fixa, como regra geral de domicílio necessário, que o domicílio do incapaz é o do seu representante ou assistente; o art. 31 do RIR/2018 especializa esse raciocínio para fins tributários, elegendo a residência habitual do procurador ou representante, ou a sede da representação no País, como domicílio fiscal de quem reside ou é domiciliado no exterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T16:20:16+00:00"
+ },
+ {
+  "de": "d9580.783",
+  "para": "floripa_ctm.43",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 783 do RIR/2018 atribui aos acionistas controladores, diretores, gerentes ou representantes responsabilidade solidária pelo não recolhimento do imposto de renda retido na fonte, independentemente de excesso de poderes ou infração de lei, instituto conexo mas distinto da responsabilidade pessoal por excesso de poderes ou infração de lei, contrato social ou estatutos prevista no art. 43 do CTM de Florianópolis, podendo gerar confusão quanto ao pressuposto exigido para cada responsabilização.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T16:20:16+00:00"
+ },
+ {
+  "de": "d9580.783",
+  "para": "l8212.42",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 783 do RIR/2018 impõe responsabilidade solidária aos administradores de pessoas jurídicas de direito privado pelo não recolhimento do imposto de renda retido na fonte, instituto conexo mas distinto do art. 42 da Lei nº 8.212/91, que impõe responsabilidade solidária aos administradores de autarquias e fundações públicas, empresas públicas e sociedades de economia mista pela mora superior a trinta dias no recolhimento de contribuições previdenciárias, podendo gerar confusão entre os pressupostos de cada responsabilização solidária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T16:20:16+00:00"
  }
 ]
