@@ -11617,5 +11617,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "adct.118",
+  "para": "cf.167-D",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 118 do ADCT dispensa, exclusivamente no exercício de 2022, a observância das limitações legais quanto à criação, à expansão ou ao aperfeiçoamento de ação governamental que acarrete aumento de despesa, enquanto o art. 167-D da Constituição Federal dispensa a mesma observância de limitações legais de aumento de despesa, porém de modo genérico, durante a vigência de calamidade pública reconhecida. A quase identidade da redação cria risco de se estender a dispensa do ADCT, restrita ao programa social de 2022, para além do exercício fixado, ou de se confundir seu alcance com o mecanismo permanente de calamidade do art. 167-D.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T21:18:31+00:00"
+ },
+ {
+  "de": "adct.118",
+  "para": "cf.167-C",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Tanto o art. 118 do ADCT quanto o art. 167-C da Constituição Federal dispensam, em caráter temporário, a observância de limitações legais ligadas a aumento de despesa pública, o primeiro para viabilizar o programa de renda básica até 31 de dezembro de 2022 e o segundo para permitir contratação simplificada de pessoal durante a calamidade pública. Os institutos são conexos, pois adotam a mesma técnica de dispensa temporária de normas fiscais, mas aplicam-se a hipóteses e prazos distintos, o que exige cuidado para não estender o alcance de um dispositivo ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T21:18:31+00:00"
+ },
+ {
+  "de": "cpc.662",
+  "para": "ctn.192",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 662 do CPC dispõe que, no arrolamento, não serão conhecidas ou apreciadas questões relativas ao lançamento, ao pagamento ou à quitação de tributos incidentes sobre a transmissão dos bens do espólio, enquanto o art. 192 do CTN condiciona a própria sentença de julgamento de partilha ou adjudicação à prova de quitação de todos os tributos relativos aos bens do espólio. Há conflito aparente entre afastar o exame da quitação tributária no rito do arrolamento e exigir essa mesma prova como pressuposto da sentença, conflito que se resolve porque o §1º do art. 662 preserva a cobrança administrativa da diferença apurada pelo fisco, sem dispensar a quitação exigida pelo CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T21:18:31+00:00"
+ },
+ {
+  "de": "cpc.662",
+  "para": "d70235.1",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O §1º do art. 662 do CPC permite ao fisco, quando o valor atribuído pelos herdeiros divergir do apurado em processo administrativo, exigir a diferença da taxa judiciária pelos meios adequados ao lançamento de créditos tributários em geral. O art. 1º do Decreto 70.235/1972 é o diploma que rege precisamente esse processo administrativo de determinação e exigência dos créditos tributários da União, servindo de procedimento para a apuração e cobrança a que se refere o dispositivo processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T21:18:31+00:00"
+ },
+ {
+  "de": "ctn.186",
+  "para": "l11101.83",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único, inciso II, do art. 186 do CTN remete à lei a fixação de limites e condições para a preferência dos créditos decorrentes da legislação do trabalho na falência, e o art. 83 da Lei 11.101/2005 é exatamente essa lei, ao classificar os créditos trabalhistas em primeiro lugar, mas limitados a cento e cinquenta salários mínimos por credor, e ao posicionar os créditos tributários em terceiro lugar, após os créditos com garantia real. Os dois dispositivos integram o mesmo regime de classificação de créditos na falência, sendo que a lei falimentar detalha a ordem que o CTN apenas anuncia em termos gerais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T21:18:31+00:00"
+ },
+ {
+  "de": "ctn.186",
+  "para": "d9580.991",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 991 do Regulamento do Imposto de Renda reproduz, de forma praticamente idêntica, a regra de preferência do crédito tributário e cita expressamente, entre parênteses, o art. 186, caput e parágrafo único, do CTN como fonte legal de sua própria redação. Trata-se de remissão direta e deliberada ao dispositivo do Código Tributário Nacional, que o regulamento do imposto de renda apenas replica para fins de aplicação ao crédito tributário federal relativo ao imposto sobre a renda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T21:18:31+00:00"
+ },
+ {
+  "de": "ctn.186",
+  "para": "floripa_ctm.103",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 103 do Código Tributário Municipal de Florianópolis reproduz a regra geral de preferência do crédito tributário do caput do art. 186 do CTN, mas omite as ressalvas do parágrafo único sobre o concurso de credores na falência, entre elas a preferência dos créditos extraconcursais, dos créditos com garantia real e das multas tributárias apenas sobre os subordinados. A omissão municipal cria risco de se interpretar que o crédito tributário do Município prefere de modo irrestrito na falência, quando as normas gerais do CTN, de observância obrigatória por todos os entes federativos, continuam a limitar essa preferência nos mesmos termos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T21:18:31+00:00"
+ },
+ {
+  "de": "ctn.19",
+  "para": "lcp214.65",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 19 do CTN define como fato gerador do imposto de importação a entrada de produtos estrangeiros no território nacional, e o art. 65 da LC 214/2025 define, em termos quase idênticos, o fato gerador do IBS e da CBS na importação como a entrada de bens de procedência estrangeira no território nacional. A coincidência do critério temporal e material adotado pelos dois dispositivos cria risco de se confundir o fato gerador clássico do imposto de importação, tributo aduaneiro de competência exclusiva da União, com o fato gerador do novo IBS e CBS, tributos sobre o consumo partilhados entre entes federativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T21:18:31+00:00"
+ },
+ {
+  "de": "ctn.19",
+  "para": "lcp227.176",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 19 do CTN define de modo genérico o fato gerador do imposto de importação como a entrada de produtos estrangeiros no território nacional, sem especificar quem promove essa entrada nas operações por conta e ordem de terceiro. O art. 176 da LC 227/2026 altera o Decreto Lei 37/1966 para esclarecer que, nessa modalidade, quem promove a entrada dos bens é o adquirente no exterior, complementando o regime do imposto de importação ao detalhar um aspecto subjetivo que o CTN não trata.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T21:18:31+00:00"
+ },
+ {
+  "de": "ctn.191-A",
+  "para": "l11101.52",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 191-A do CTN exige prova de quitação de todos os tributos como condição para a concessão da recuperação judicial, enquanto o inciso II do art. 52 da Lei 11.101/2005 determina que o juiz, ao deferir o processamento do pedido, dispense a apresentação de certidões negativas de débito para que o devedor continue a exercer suas atividades. Há conflito aparente entre exigir a quitação tributária como pressuposto da recuperação e dispensar a prova dessa quitação para o próprio devedor funcionar durante o processamento, conflito que a jurisprudência resolve prestigiando a dispensa do art. 52 para viabilizar a recuperação da empresa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T21:18:31+00:00"
+ },
+ {
+  "de": "ctn.23",
+  "para": "lcp214.81-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 23 do CTN adota como fato gerador do imposto de exportação a saída física dos produtos do território nacional, enquanto o art. 81-A da LC 214/2025 admite, para fins de imunidade do IBS e da CBS, a comprovação de exportação de bens materiais mesmo nos casos em que não haja saída física do território nacional. A divergência de critério entre os dois tributos cria risco de se presumir, por semelhança de tema, que o conceito ampliado de exportação sem saída física do IBS e da CBS também se aplica ao imposto de exportação disciplinado pelo CTN, o que não é correto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T21:18:31+00:00"
+ },
+ {
+  "de": "ctn.48",
+  "para": "lcp214.409",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 48 do CTN consagra o princípio da seletividade em função da essencialidade, segundo o qual o imposto é mais baixo para produtos mais essenciais, princípio historicamente aplicado ao imposto sobre produtos industrializados. O art. 409 da LC 214/2025 institui o Imposto Seletivo, tributo de nome semelhante, mas com lógica oposta, pois incide justamente sobre bens e serviços prejudiciais à saúde ou ao meio ambiente, como produtos fumígenos e bebidas alcoólicas. A quase identidade terminológica entre seletividade e Imposto Seletivo cria risco real de se confundir dois institutos tributários com fundamentos e critérios de incidência inversos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T21:18:31+00:00"
+ },
+ {
+  "de": "ctn.48",
+  "para": "lcp87.32-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 48 do CTN aplica o critério da essencialidade ao imposto sobre produtos industrializados, graduando a tributação conforme o produto seja mais ou menos essencial. O art. 32-A da LC 87/1996 aplica critério semelhante ao ICMS, ao considerar combustíveis, energia elétrica, comunicações e transporte coletivo como bens e serviços essenciais e vedar que suas operações sejam tributadas acima da alíquota média das demais operações. Os institutos são conexos, pois ambos operacionalizam a essencialidade como critério de graduação tributária, porém em tributos distintos, federal um e estadual o outro, com mecânicas de aplicação diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T21:18:31+00:00"
  }
 ]
