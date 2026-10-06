@@ -9853,7 +9853,7 @@
   "para": "ctn.169",
   "tipo": "remete_a",
   "grau": "mesmo",
-  "porque": "O art. 85 do CTM de Florianópolis reproduz, expressamente nos termos da lei federal, a mesma prescrição bienal da ação anulatória da decisão administrativa que denegar a restituição prevista no art. 169 do CTN, inclusive a interrupção do prazo pela metade a partir da intimação ao representante judicial da Fazenda.",
+  "porque": "O art. 85 do CTM de Florianópolis reproduz, expressamente nos termos da lei federal, a mesma prescrição bienal da ação anulatória da decisão administrativa que denegar a restituição prevista no art. 169 do CTN, inclusive a interrupção do prazo pela metade, embora o CTM refira apenas \"representante da Fazenda Municipal\", sem o termo \"judicial\" usado no art. 169 do CTN.",
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T09:17:28+00:00"
@@ -9882,7 +9882,7 @@
   "de": "l9430.74-A",
   "para": "ctn.170-A",
   "tipo": "complementa",
-  "grau": "mesmo",
+  "grau": "conexo",
   "porque": "O art. 74-A da Lei 9.430/96 disciplina o limite mensal para a compensação de crédito decorrente de decisão judicial já transitada em julgado, complementando a vedação do art. 170-A do CTN, que exige o trânsito em julgado como condição prévia para a compensação de tributo objeto de contestação judicial.",
   "refs": [],
   "origem": "rotina",
@@ -9923,7 +9923,7 @@
   "para": "ctn.174",
   "tipo": "regulamenta",
   "grau": "mesmo",
-  "porque": "O art. 947 do RIR/2018 cita expressamente o caput e o parágrafo único do art. 174 do CTN como fundamento do prazo prescricional de 5 (cinco) anos para a cobrança do crédito tributário do imposto sobre a renda e reproduz as mesmas causas de interrupção dos incisos I a IV.",
+  "porque": "O art. 947 do RIR/2018 reproduz o prazo prescricional de 5 (cinco) anos do art. 174 do CTN para a cobrança do crédito tributário, citando a redação anterior do dispositivo, hoje reorganizada no § 1º e no § 3º do CTN, cujos incisos V e VI, sobre mediação e arbitragem tributária, e cujo inciso II, mais amplo ao incluir o protesto extrajudicial da certidão de dívida ativa, não têm correspondência no parágrafo único do decreto.",
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T09:17:28+00:00"
@@ -9942,8 +9942,8 @@
   "de": "floripa_ctm.102",
   "para": "ctn.185",
   "tipo": "regulamenta",
-  "grau": "mesmo",
-  "porque": "O art. 102 do CTM de Florianópolis reproduz, para a Fazenda Municipal, a mesma presunção de fraude na alienação ou oneração de bens por sujeito passivo em débito inscrito em dívida ativa prevista no art. 185 do CTN, bem como a ressalva do parágrafo único quanto à reserva de bens suficientes ao pagamento da dívida.",
+  "grau": "conexo",
+  "porque": "O art. 102 do CTM de Florianópolis reproduz, para a Fazenda Municipal, a presunção de fraude na alienação ou oneração de bens por sujeito passivo em débito inscrito em dívida ativa do art. 185 do CTN, mas restringe a presunção à dívida ativa \"em fase de execução\", exigência que o art. 185 do CTN, após a LC 118/2005, não repete, de modo que a regra federal vigente é mais ampla.",
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T09:17:28+00:00"
