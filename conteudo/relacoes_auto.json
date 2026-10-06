@@ -10397,5 +10397,255 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T12:27:33+00:00"
+ },
+ {
+  "de": "cf.158",
+  "para": "lcp227.128",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 128 da LC 227/2026 disciplina a transferência aos Municípios do valor do art. 156-A retido pelo CGIBS, reproduzindo os mesmos critérios de distribuição do art. 158, § 2º, I a III, da Constituição Federal, de modo que os dois dispositivos tratam da mesma partilha de receita entre os Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "cf.158",
+  "para": "lcp227.166",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 166 da LC 227/2026 altera o art. 3º da LC 63/1990 para reproduzir os percentuais de 65% e até 35% do art. 158, § 1º, I e II, da Constituição Federal, mantendo em vigor a lei complementar que regulamenta o repasse do ICMS aos Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "cf.158",
+  "para": "ec132.6",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 6º, I, da EC 132/2023 determina que, até a edição da lei complementar definitiva, o crédito das parcelas do art. 158, IV, 'b', observado o § 2º do próprio artigo, siga os mesmos critérios e os prazos aplicáveis ao ICMS da LC 63/1990, tratando-se de norma de transição sobre a partilha de receita do art. 156-A.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "cf.158",
+  "para": "adct.131",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 131 do ADCT determina que, de 2029 a 2077, parte do produto da arrecadação do imposto do art. 156-A seja retida antes da aplicação do critério de distribuição do art. 158, IV, 'b', reduzindo temporariamente a base sobre a qual incide essa partilha municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "cf.158",
+  "para": "lcp87.31",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 1º, II, do art. 31 da LC 87/96 fixa o repasse de 25% aos Municípios conforme os mesmos critérios de partilha do ICMS que hoje constam do § 1º do art. 158 da Constituição Federal, mas a lei remete à numeração anterior à renumeração promovida pela EC 132/2023, havendo risco de confusão sobre o parágrafo vigente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "ctn.35",
+  "para": "floripa_ctm.278",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 278 do CTM de Florianópolis reproduz quase literalmente os incisos I a III do art. 35 do CTN para definir o fato gerador do ITBI no Município, mantendo a mesma estrutura de transmissão onerosa de bens imóveis e de direitos reais e a cessão desses direitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "cc.1245",
+  "para": "ctn.35",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 1.245 do Código Civil define que a propriedade imóvel só se transmite entre vivos com o registro do título translativo, conceito de transmissão que o art. 35 do CTN utiliza sem defini-lo para fixar o fato gerador do ITBI, aplicando-se subsidiariamente a norma civil para essa finalidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "ctn.35",
+  "para": "lcp214.254",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 254, II, da LC 214/2025 também elege como fato gerador do IBS e da CBS a cessão ou o ato oneroso translativo ou constitutivo de direitos reais sobre bens imóveis, hipótese muito próxima da transmissão onerosa de direitos reais do art. 35, II, do CTN, com risco de se confundir qual tributo incide sobre o mesmo negócio jurídico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "ctn.35",
+  "para": "lcp227.146",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 146 da LC 227/2026 institui o ITCMD, imposto estadual sobre transmissão causa mortis e doação, que pode ser confundido com o ITBI do art. 35 do CTN, o qual incide apenas sobre transmissão onerosa e entre vivos de bens imóveis e de direitos reais a eles relativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "ctn.36",
+  "para": "floripa_ctm.279",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 279, I, do CTM de Florianópolis reproduz a não incidência do art. 36 do CTN para bens incorporados ao patrimônio de pessoa jurídica em realização de capital e para fusão ou incorporação, mas acrescenta também a cisão e a extinção de pessoa jurídica, hipóteses que o art. 36 do CTN não contempla.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "lsa.227",
+  "para": "ctn.36",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 227 da Lei 6.404/76 define a incorporação como a operação pela qual uma sociedade absorve outra e lhe sucede em todos os direitos e obrigações, conceito societário que o art. 36, II, do CTN utiliza sem defini-lo para excluir a incidência do imposto sobre a transmissão decorrente desse evento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "floripa_ctm.279",
+  "para": "ctn.37",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "A cláusula final do art. 279, I, do CTM de Florianópolis, que ressalva a atividade preponderante do adquirente, corresponde à exceção do art. 37 do CTN, mas o Município não reproduz os critérios de apuração da preponderância fixados nos §§ 1º e 2º desse artigo do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "ctn.37",
+  "para": "floripa_ctm.40",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 40 do CTM de Florianópolis atribui responsabilidade tributária a quem adquire fundo de comércio e continua a exploração, hipótese de sucessão tributária que pode ser confundida com o teste de atividade preponderante do art. 37 do CTN, voltado à perda da não incidência do ITBI quando a adquirente de imóveis atua predominantemente nesse ramo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "d9580.1027",
+  "para": "l9430.83",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 83 da Lei 9.430/96 disciplina o momento em que a representação fiscal para fins penais relativa aos crimes da Lei 8.137/90 é encaminhada ao Ministério Público, complementando o art. 1.027 do RIR/2018, que extingue a punibilidade desses mesmos crimes quando o tributo é pago antes do recebimento da denúncia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "d9580.1027",
+  "para": "cp.107",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1.027 do RIR/2018 prevê uma hipótese especial de extinção da punibilidade, pelo pagamento do tributo antes do recebimento da denúncia nos crimes da Lei 8.137/90, não listada expressamente no rol geral do art. 107 do Código Penal, que disciplina as demais causas de extinção da punibilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "d9580.1027",
+  "para": "cp.16",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 16 do Código Penal reduz a pena, e não extingue a punibilidade, para quem repara o dano ou restitui a coisa até o recebimento da denúncia nos crimes sem violência ou grave ameaça, efeito jurídico diverso do art. 1.027 do RIR/2018, que extingue por completo a punibilidade pelo pagamento do tributo antes da denúncia, existindo risco de se confundir arrependimento posterior e pagamento extintivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "cp.108",
+  "para": "d9580.1027",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 108 do Código Penal estabelece que a extinção da punibilidade de um crime que é pressuposto ou elemento de outro não se estende a este, regra geral que também se aplica à causa especial de extinção da punibilidade prevista no art. 1.027 do RIR/2018 quando há outros crimes conexos aos definidos na Lei 8.137/90.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "cc.120",
+  "para": "d9580.1034",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 120 do Código Civil estabelece que os requisitos e os efeitos da representação legal seguem as normas respectivas de cada regime, regra geral que se aplica subsidiariamente ao art. 1.034 do RIR/2018 quando este determina que a representação do contribuinte seja regulamentada de acordo com as prescrições legais, sem detalhá-las.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "cpc.70",
+  "para": "d9580.1034",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 70 do CPC confere capacidade para estar em juízo a quem está no exercício de seus direitos, conceito de capacidade processual civil que pode ser confundido com a capacidade do contribuinte referida no art. 1.034 do RIR/2018, regida por regras próprias da legislação tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "d9580.135",
+  "para": "ctn.38",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 38 do CTN fixa o valor venal como base de cálculo do ITBI, estimado por critérios técnicos previstos em seus parágrafos, método de avaliação distinto do arbitramento administrativo do art. 135 do RIR/2018, que também corrige o valor declarado quando notoriamente diferente do de mercado, havendo risco de se confundir os dois mecanismos de valoração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "d9580.135",
+  "para": "lcp214.13",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 13 da LC 214/2025 permite à administração tributária arbitrar o valor da operação quando o preço declarado for notoriamente inferior ao valor de mercado, critério muito semelhante ao do art. 135 do RIR/2018 para o imposto de renda, com risco de se aplicar ao IBS e à CBS os mesmos parâmetros de arbitramento previstos para tributo diverso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "d9580.196",
+  "para": "floripa_ctm.39",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 39 do CTM de Florianópolis reproduz, para os tributos municipais, a mesma redação do art. 132 do CTN sobre sucessão tributária na fusão, transformação ou incorporação, sem mencionar a cisão de sociedade que o art. 196 do RIR/2018 expressamente contempla para o imposto de renda, existindo risco de se presumir igual alcance entre as duas normas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "lsa.229",
+  "para": "d9580.196",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 229 da Lei 6.404/76 define a cisão como a operação pela qual a companhia transfere parcelas do seu patrimônio para outras sociedades, conceito societário que o art. 196 do RIR/2018 utiliza sem defini-lo ao atribuir responsabilidade tributária às pessoas jurídicas resultantes de cisão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "lsa.233",
+  "para": "d9580.196",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 233 da Lei 6.404/76 estabelece a responsabilidade solidária das sociedades que absorverem parcelas do patrimônio da companhia cindida pelas obrigações civis da companhia extinta, regime distinto da responsabilidade solidária especificamente tributária do parágrafo único do art. 196 do RIR/2018, com risco de se confundir o alcance de cada solidariedade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
+ },
+ {
+  "de": "l9430.1",
+  "para": "d9580.196",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 1º da Lei 9.430/96 determina que, nos casos de incorporação, fusão ou cisão, a apuração da base de cálculo e do imposto de renda devido seja feita na data do evento, complementando o art. 196 do RIR/2018, que define quem responde pelo imposto de renda devido pelas pessoas jurídicas transformadas, extintas ou cindidas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T13:30:55+00:00"
  }
 ]
