@@ -9827,5 +9827,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "cpp.674",
+  "para": "cp.69",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "A soma de penas referida no parágrafo único do art. 674 do CPP, para fins de expedição da carta de guia pelo juiz competente, corresponde ao concurso material disciplinado no art. 69 do CP, que determina a aplicação cumulativa das penas privativas de liberdade quando o agente pratica dois ou mais crimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T09:17:28+00:00"
+ },
+ {
+  "de": "cpp.82",
+  "para": "cp.69",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "A soma de penas mencionada no art. 82 do CPP, decorrente da reunião de processos conexos ou continentes já sentenciados separadamente, corresponde ao concurso material de crimes regulado pelo art. 69 do CP, que determina a aplicação cumulativa das penas privativas de liberdade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T09:17:28+00:00"
+ },
+ {
+  "de": "floripa_ctm.85",
+  "para": "ctn.169",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 85 do CTM de Florianópolis reproduz, expressamente nos termos da lei federal, a mesma prescrição bienal da ação anulatória da decisão administrativa que denegar a restituição prevista no art. 169 do CTN, inclusive a interrupção do prazo pela metade a partir da intimação ao representante judicial da Fazenda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T09:17:28+00:00"
+ },
+ {
+  "de": "floripa_ctm.88",
+  "para": "ctn.170",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 88 do CTM de Florianópolis é a lei municipal que autoriza a compensação de créditos tributários com créditos líquidos e certos do sujeito passivo contra a Fazenda Municipal, exigida em caráter geral pelo art. 170 do CTN, repetindo o limite de redução de 1% ao mês previsto no parágrafo único deste.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T09:17:28+00:00"
+ },
+ {
+  "de": "l9430.74",
+  "para": "ctn.170",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 74 da Lei 9.430/96 é a lei que, no âmbito federal, autoriza o sujeito passivo a compensar créditos tributários administrados pela Secretaria da Receita Federal com débitos próprios, concretizando a autorização genérica de compensação prevista no art. 170 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T09:17:28+00:00"
+ },
+ {
+  "de": "l9430.74-A",
+  "para": "ctn.170-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 74-A da Lei 9.430/96 disciplina o limite mensal para a compensação de crédito decorrente de decisão judicial já transitada em julgado, complementando a vedação do art. 170-A do CTN, que exige o trânsito em julgado como condição prévia para a compensação de tributo objeto de contestação judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T09:17:28+00:00"
+ },
+ {
+  "de": "l9430.74",
+  "para": "ctn.170-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 74 da Lei 9.430/96 permite a compensação de crédito do sujeito passivo relativo a tributo administrado pela Secretaria da Receita Federal, inclusive os judiciais com trânsito em julgado, complementando a condição de trânsito em julgado exigida pelo art. 170-A do CTN para a compensação de tributo em discussão judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T09:17:28+00:00"
+ },
+ {
+  "de": "floripa_ctm.91",
+  "para": "ctn.173",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 91 do CTM de Florianópolis reproduz, para a Fazenda Municipal, o mesmo prazo decadencial de 5 (cinco) anos e os mesmos termos iniciais de contagem, incisos I e II, previstos no art. 173 do CTN para a constituição do crédito tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T09:17:28+00:00"
+ },
+ {
+  "de": "d9580.946",
+  "para": "ctn.173",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 946 do RIR/2018 cita expressamente o art. 173 do CTN como fundamento do prazo decadencial de 5 (cinco) anos para a constituição do crédito do imposto sobre a renda, acrescentando no inciso I o termo inicial específico da antecipação de pagamento previsto no art. 150, § 4º, do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T09:17:28+00:00"
+ },
+ {
+  "de": "d9580.947",
+  "para": "ctn.174",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 947 do RIR/2018 cita expressamente o caput e o parágrafo único do art. 174 do CTN como fundamento do prazo prescricional de 5 (cinco) anos para a cobrança do crédito tributário do imposto sobre a renda e reproduz as mesmas causas de interrupção dos incisos I a IV.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T09:17:28+00:00"
+ },
+ {
+  "de": "floripa_ctm.92",
+  "para": "ctn.174",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 92 do CTM de Florianópolis reproduz, para o crédito tributário municipal, a mesma prescrição quinquenal do art. 174 do CTN, mas conserva apenas as causas de interrupção dos incisos I a IV, sem as hipóteses mais recentes de mediação e de arbitragem tributária dos incisos V e VI do § 1º do art. 174 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T09:17:28+00:00"
+ },
+ {
+  "de": "floripa_ctm.102",
+  "para": "ctn.185",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 102 do CTM de Florianópolis reproduz, para a Fazenda Municipal, a mesma presunção de fraude na alienação ou oneração de bens por sujeito passivo em débito inscrito em dívida ativa prevista no art. 185 do CTN, bem como a ressalva do parágrafo único quanto à reserva de bens suficientes ao pagamento da dívida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T09:17:28+00:00"
+ },
+ {
+  "de": "lef.30",
+  "para": "ctn.185",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 30 da LEF fixa a responsabilidade patrimonial geral do sujeito passivo, de seu espólio ou de sua massa pela Dívida Ativa, com a totalidade dos bens e rendas, regime que é complementado pela presunção de fraude do art. 185 do CTN para os atos de alienação ou oneração praticados após a inscrição do crédito em dívida ativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T09:17:28+00:00"
  }
 ]
