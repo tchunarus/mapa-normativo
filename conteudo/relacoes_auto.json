@@ -9597,5 +9597,235 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T01:08:02+00:00"
+ },
+ {
+  "de": "cp.75",
+  "para": "cpp.82",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "Ambos tratam da unificação de penas quando há processos distintos por infrações diversas: o CP fixa o limite máximo de 40 anos e a obrigação de unificar as penas que o superem, e o CPP disciplina, no caso de processos separados por conexão ou continência, que a unidade dos processos se dará posteriormente apenas para esse efeito de soma ou unificação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "cp.75",
+  "para": "cpp.674",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O CP estabelece o limite de cumprimento de pena e o dever de unificação quando a soma das penas o ultrapassar, e o CPP detalha o ato processual correspondente, atribuindo ao juiz competente para a soma ou unificação das penas a ordem de expedição da carta de guia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.155-A",
+  "para": "l11101.68",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 155-A do CTN remete à lei específica as condições do parcelamento do crédito tributário do devedor em recuperação judicial, e o art. 68 da Lei 11.101/05 é a norma que autoriza as Fazendas Públicas e o INSS a conceder esse parcelamento, nos parâmetros do próprio CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.155-A",
+  "para": "l10522.12",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 155-A do CTN determina que, à falta de lei específica, aplicam-se ao devedor em recuperação judicial as leis gerais de parcelamento do ente da Federação; o art. 12 da Lei 10.522/02 é a lei geral de parcelamento da União, aplicável de forma subsidiária nessa hipótese.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.155-A",
+  "para": "floripa_ctm.78",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "Pelo mesmo § 4º do art. 155-A do CTN, na ausência de lei específica aplicam-se as leis gerais de parcelamento do ente da Federação; o art. 78 do CTM de Florianópolis cumpre esse papel para os créditos tributários do município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.155-A",
+  "para": "lcp123.79",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O caput do art. 155-A do CTN remete à lei específica as condições do parcelamento, e o art. 79 da LC 123/06 é essa lei específica para os débitos de microempresas e empresas de pequeno porte, com prazo e condições próprios de ingresso no Simples Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.156",
+  "para": "floripa_ctm.67",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CTN enumera as causas de extinção do crédito tributário em âmbito nacional, e o CTM de Florianópolis reproduz o mesmo rol para os créditos tributários municipais, inclusive remetendo aos dispositivos próprios que disciplinam cada causa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.156",
+  "para": "l9430.74",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "A compensação é uma das causas de extinção do crédito tributário previstas no inciso II do art. 156 do CTN, e o art. 74 da Lei 9.430/96 disciplina, para os tributos administrados pela Receita Federal, como o sujeito passivo pode utilizar créditos próprios na compensação de débitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.156",
+  "para": "l8397.15",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "A Lei 8.397/92, ao tratar da medida cautelar fiscal, reconhece como causas de extinção da pretensão da Fazenda as mesmas hipóteses do art. 156 do CTN (pagamento, compensação, transação, remissão, prescrição, decadência e conversão do depósito em renda), sem criar modalidade distinta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.156",
+  "para": "l9307.3",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O inciso XII do art. 156 do CTN extingue o crédito tributário pela sentença arbitral proferida na arbitragem especial tributária e aduaneira, e o art. 3º da Lei 9.307/96 disciplina, de forma geral e subsidiária a esse regime especial, a convenção de arbitragem como meio de submissão de litígios ao juízo arbitral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.156",
+  "para": "d9580.946",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A decadência é causa de extinção do crédito tributário prevista no inciso V do art. 156 do CTN, e o art. 946 do RIR/2018 disciplina, para o imposto de renda, o prazo de cinco anos e os termos iniciais da decadência do direito de constituir esse crédito federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.161",
+  "para": "l9430.61",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 161 do CTN fixa a taxa de juros de mora em um por cento ao mês apenas quando a lei não dispuser de modo diverso, e o art. 61 da Lei 9.430/96 é essa disposição diversa para os tributos federais administrados pela Receita Federal, com taxa própria de juros e multa de mora.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.161",
+  "para": "sc_icms_lei.102",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "Na mesma lógica do § 1º do art. 161 do CTN, o art. 102 da Lei 10.297/96-SC fixa a taxa Selic como juros de mora do ICMS catarinense, mantendo a taxa de um por cento ao mês apenas como regra subsidiária na falta da Selic, exatamente como prevê o CTN para a hipótese de omissão de disposição diversa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.161",
+  "para": "d9580.995",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 161 do CTN interrompe a incidência da multa de mora quando há medida liminar ou tutela provisória favorável ao contribuinte, até 30 dias após a decisão que considerar devido o tributo, e o art. 995 do RIR/2018 reproduz essa mesma regra especificamente para o imposto de renda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.164",
+  "para": "floripa_ctm.76",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CTN autoriza a consignação judicial do crédito tributário nos casos de recusa de recebimento, subordinação a exigência sem fundamento legal ou bitributação, e o CTM de Florianópolis reproduz as mesmas hipóteses para os tributos municipais, com a diferença de que a bitributação se refere a outro município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.165",
+  "para": "floripa_ctm.81",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CTN reconhece o direito do sujeito passivo à restituição do tributo nas hipóteses de pagamento indevido, erro ou reforma de decisão condenatória, e o CTM de Florianópolis reproduz as mesmas hipóteses para os tributos municipais, atribuindo o direito ao contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.165",
+  "para": "d9580.943",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 943 do RIR/2018 cita expressamente o art. 165 do CTN como fundamento e disciplina, para o imposto de renda, o pedido de restituição de valor pago indevidamente ou a maior, detalhando as hipóteses de pagamento indevido referidas no inciso I desse artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.165",
+  "para": "l9430.74",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O direito à restituição previsto no art. 165 do CTN pode ser exercido, em vez da repetição em dinheiro, mediante compensação, e o art. 74 da Lei 9.430/96 disciplina como o sujeito passivo pode utilizar o crédito de tributos federais na compensação de débitos próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.167",
+  "para": "floripa_ctm.83",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CTN determina que a restituição do tributo dá lugar à restituição proporcional dos juros de mora e das penalidades pecuniárias, e o CTM de Florianópolis reproduz a mesma regra para os tributos municipais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.167",
+  "para": "d9580.944",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 167 do CTN garante juros não capitalizáveis sobre a restituição do tributo, e o art. 944 do RIR/2018 fixa, para o imposto de renda, a taxa Selic como índice desses juros na restituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.168",
+  "para": "floripa_ctm.84",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CTN fixa em cinco anos o prazo para pleitear a restituição do tributo, contado conforme a hipótese do art. 165, e o CTM de Florianópolis reproduz o mesmo prazo e os mesmos termos iniciais para a restituição dos tributos municipais, remetendo ao seu próprio art. 81.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.168",
+  "para": "d9580.946",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Há risco de confusão entre os dois prazos quinquenais: o art. 168 do CTN rege a decadência do direito do sujeito passivo pleitear a restituição de tributo pago indevidamente, contada da extinção do crédito ou da decisão que reformar a condenação, enquanto o art. 946 do RIR/2018, com base nos arts. 150, § 4º, e 173 do CTN, trata da decadência do direito da Fazenda de constituir o crédito tributário, com termos iniciais distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
+ },
+ {
+  "de": "ctn.168",
+  "para": "sc_icms_lei.25",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 168 do CTN fixa em cinco anos o prazo para o contribuinte pleitear a restituição de tributo pago indevidamente, e o art. 25 da Lei 10.297/96-SC prevê prazo idêntico de cinco anos, mas para instituto diferente: a extinção do direito de utilizar o crédito escritural do ICMS, sem relação com indébito tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T06:07:56+00:00"
  }
 ]
