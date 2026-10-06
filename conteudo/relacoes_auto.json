@@ -9957,5 +9957,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T09:17:28+00:00"
+ },
+ {
+  "de": "cpp.681",
+  "para": "cp.69",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 681 do CPP disciplina a ordem de cumprimento das penas privativas de liberdade quando impostas cumulativamente (reclusão, depois detenção e por último prisão simples), dando execução processual à regra do art. 69 do Código Penal, que determina apenas que, no concurso de crimes, a reclusão seja executada antes da detenção, sem mencionar a prisão simples.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "l8397.4",
+  "para": "ctn.185-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 4º da Lei 8.397/92 decreta a indisponibilidade dos bens do requerido como efeito imediato da medida cautelar fiscal, cabível antes ou durante a execução fiscal mediante requisitos próprios, enquanto o art. 185-A do CTN só autoriza a indisponibilidade depois de o devedor citado na execução não pagar nem indicar bens e de não serem localizados bens penhoráveis, podendo os dois institutos ser confundidos por ambos resultarem no bloqueio patrimonial do devedor tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "ctn.185-A",
+  "para": "lef.40",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 185-A do CTN complementa o regime de suspensão da execução fiscal do art. 40 da LEF, pois, diante da mesma hipótese de não localização de bens penhoráveis após a citação do devedor, autoriza o juiz a determinar ativamente a indisponibilidade dos bens e direitos encontrados, em vez de apenas suspender o curso da execução e o prazo de prescrição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "l8429.16",
+  "para": "ctn.185-A",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 16 da Lei de Improbidade Administrativa também autoriza a indisponibilidade de bens dos réus, mas como medida cautelar requerida em ação própria, independente de execução fiscal, com requisitos de perigo de dano e probabilidade do direito, distintos da indisponibilidade do art. 185-A do CTN, que pressupõe citação do devedor tributário e ausência de bens penhoráveis já em fase de execução, podendo os dois institutos ser confundidos por ambos tratarem de indisponibilidade de bens para proteção de interesse público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "floripa_ctm.105",
+  "para": "ctn.188",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 105 do CTM de Florianópolis reproduz, para a Fazenda Municipal, a mesma regra de créditos tributários extraconcursais exigíveis no curso do processo de falência do art. 188 do CTN, inclusive o mesmo procedimento de reserva de bens em caso de contestação do crédito e a extensão aos processos de concordata.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "l11101.84",
+  "para": "ctn.188",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 84 da Lei 11.101/05 complementa o art. 188 do CTN ao fixar a posição dos créditos tributários extraconcursais, decorrentes de fatos geradores ocorridos após a decretação da falência, na ordem de pagamento em relação aos demais créditos extraconcursais listados no mesmo artigo, respeitada a ordem do art. 83 da mesma lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "floripa_ctm.106",
+  "para": "ctn.189",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 106 do CTM de Florianópolis repete, para os créditos tributários municipais, a mesma preferência de pagamento sobre os créditos habilitados em inventário ou arrolamento do art. 189 do CTN, inclusive a remissão ao mesmo procedimento de reserva de bens em caso de crédito contestado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "lef.31",
+  "para": "ctn.189",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 31 da LEF complementa a preferência do art. 189 do CTN ao condicionar, nos processos de inventário ou arrolamento, a autorização judicial de qualquer alienação à prova de quitação da Dívida Ativa ou à concordância da Fazenda Pública, reforçando por outra via a proteção do crédito tributário do espólio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "floripa_ctm.108",
+  "para": "ctn.191",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 108 do CTM de Florianópolis exige, para a extinção das obrigações do falido, prova de quitação dos tributos municipais relativos à atividade mercantil, reproduzindo para o âmbito municipal a exigência do art. 191 do CTN de quitação de todos os tributos como condição da extinção das obrigações do falido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "ctn.191",
+  "para": "l11101.158",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 191 do CTN complementa as hipóteses de extinção das obrigações do falido previstas no art. 158 da Lei 11.101/05, exigindo, além delas, prova de quitação de todos os tributos como condição adicional para que a extinção seja declarada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "floripa_ctm.109",
+  "para": "ctn.192",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 109 do CTM de Florianópolis repete, com redação equivalente, a exigência do art. 192 do CTN de que nenhuma sentença de partilha ou adjudicação seja proferida sem prova de quitação de todos os tributos relativos aos bens do espólio ou às suas rendas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "cpc.654",
+  "para": "ctn.192",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 654 do CPC permite o julgamento da partilha mesmo havendo dívida para com a Fazenda Pública, desde que o pagamento esteja devidamente garantido, em aparente conflito com a exigência do art. 192 do CTN de prova efetiva de quitação de todos os tributos para a prolação da sentença de partilha ou adjudicação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "floripa_ctm.184",
+  "para": "ctn.202",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 184 do CTM de Florianópolis reproduz, para a inscrição do crédito tributário municipal em dívida ativa, os mesmos requisitos obrigatórios do termo de inscrição exigidos pelo art. 202 do CTN, com a mesma remissão final à indicação do livro e da folha na certidão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "lef.8",
+  "para": "ctn.202",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 8º da LEF disciplina a citação do executado para pagar ou garantir a execução com base nos juros, multa de mora e encargos indicados na Certidão de Dívida Ativa, dando efeito processual aos elementos que o art. 202 do CTN exige constarem obrigatoriamente do termo de inscrição do qual a certidão é extraída.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "l10522.25",
+  "para": "ctn.202",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 25 da Lei 10.522/02 complementa o regime do termo de inscrição em dívida ativa da União do art. 202 do CTN ao admitir que o termo e a certidão dele extraída sejam subscritos manualmente ou por chancela mecânica ou eletrônica, disciplinando a forma de autenticação do dispositivo do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "lef.26",
+  "para": "ctn.203",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 26 da LEF complementa o regime de vícios da inscrição em dívida ativa do art. 203 do CTN: enquanto o CTN permite sanar a nulidade da inscrição até a decisão de primeira instância mediante substituição da certidão, a LEF trata da hipótese em que a inscrição é cancelada, e não substituída, antes da mesma decisão, caso em que a execução fiscal é extinta sem ônus para as partes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
+ },
+ {
+  "de": "floripa_ctm.135",
+  "para": "ctn.203",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 135 do CTM de Florianópolis complementa o regime de nulidades do art. 203 do CTN ao prever, para o processo tributário municipal, outras causas de nulidade dos atos e decisões, como a incompetência da autoridade, a preterição do direito de defesa e a insuficiência dos elementos do lançamento, distintas da nulidade específica da inscrição em dívida ativa tratada pelo CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T10:16:28+00:00"
  }
 ]
