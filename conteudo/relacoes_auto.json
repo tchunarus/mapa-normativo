@@ -11327,5 +11327,295 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T19:19:03+00:00"
+ },
+ {
+  "de": "ec132.2",
+  "para": "adct.129",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 2º da EC 132/2023 insere no Ato das Disposições Constitucionais Transitórias o texto do art. 129, que extingue, a partir de 2033, os impostos previstos nos arts. 155, inciso II, e 156, inciso III, da Constituição Federal; a redação vigente do art. 129 do ADCT decorre integralmente desta alteração constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "lcp214.543",
+  "para": "adct.129",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 543 da LC 214/2025 revoga, também a partir de 2033, a legislação complementar federal do ICMS e do ISS, entre ela a LC 87/1996 e a LC 116/2003; essa revogação integra o mesmo regime de extinção desses impostos fixado pelo art. 129 do ADCT para a mesma data.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "lcp214.1",
+  "para": "adct.129",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1º da LC 214/2025 institui o IBS e a CBS, tributos que substituem, no novo sistema, os impostos que o art. 129 do ADCT extingue a partir de 2033; tratam-se de institutos conexos dentro do mesmo processo de substituição tributária da reforma.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "lcp214.27",
+  "para": "adct.129",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 27 da LC 214/2025 trata da extinção dos débitos do IBS e da CBS por pagamento, compensação ou recolhimento na liquidação financeira, conceito que pode ser confundido com a extinção do próprio imposto prevista no art. 129 do ADCT; são institutos distintos, pois um extingue a obrigação tributária e o outro extingue o tributo em si a partir de 2033.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "adct.130",
+  "para": "cf.156-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 130 do ADCT determina que resolução do Senado Federal fixe as alíquotas de referência dos tributos previstos nos arts. 156-A e 195, inciso V, da Constituição Federal, remetendo ao art. 156-A, que institui o imposto sobre bens e serviços; os dois dispositivos tratam do mesmo tributo, este instituindo-o e aquele disciplinando sua alíquota de referência durante a transição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "lcp214.367",
+  "para": "adct.130",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 367 da LC 214/2025 reproduz, para fins de aplicação dos arts. 368 e 369 da própria lei complementar, as definições de Teto de Referência da União e de Teto de Referência Total que o art. 130, § 3º, incisos I e II, do ADCT já estabelece para o cálculo das alíquotas de referência; a lei complementar regulamenta, assim, o mecanismo fixado diretamente no texto constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "lcp214.369",
+  "para": "adct.130",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 369 da LC 214/2025 disciplina a redução das alíquotas de referência da CBS e do IBS em 2035 caso a Receita-Base Total supere o Teto de Referência Total, reproduzindo na legislação complementar o mesmo mecanismo que o art. 130, § 5º, do ADCT já prevê diretamente no texto constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "ec132.2",
+  "para": "adct.130",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 2º da EC 132/2023 insere no Ato das Disposições Constitucionais Transitórias o texto do art. 130, que disciplina a fixação das alíquotas de referência do IBS e da CBS; a redação vigente do art. 130 do ADCT decorre integralmente desta alteração constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "ec132.1",
+  "para": "cf.153",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 1º da EC 132/2023 altera o art. 153 da Constituição Federal, acrescentando o inciso VIII, que institui o Imposto Seletivo sobre produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente, e o § 6º, que disciplina esse novo imposto; a redação vigente do art. 153 decorre diretamente desta alteração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "ctn.19",
+  "para": "cf.153",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 19 do CTN define o fato gerador do imposto de importação como a entrada do produto estrangeiro no território nacional, regulamentando, como lei complementar de normas gerais, a competência da União prevista no art. 153, inciso I, da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "ctn.23",
+  "para": "cf.153",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 23 do CTN define o fato gerador do imposto de exportação como a saída do produto nacional ou nacionalizado para o estrangeiro, regulamentando a competência da União prevista no art. 153, inciso II, da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "ctn.48",
+  "para": "cf.153",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 48 do CTN estabelece que o imposto sobre produtos industrializados é seletivo em função da essencialidade dos produtos, regra reproduzida constitucionalmente pelo art. 153, § 3º, inciso I, da Constituição Federal; ambos tratam do mesmo critério de seletividade do IPI.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "lcp214.414",
+  "para": "cf.153",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 414 da LC 214/2025 fixa a base de cálculo do Imposto Seletivo, regulamentando o imposto instituído pelo art. 153, inciso VIII, da Constituição Federal sobre a produção, a extração, a comercialização ou a importação de bens e serviços prejudiciais à saúde ou ao meio ambiente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "lcp214.434",
+  "para": "cf.153",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 434 da LC 214/2025 disciplina a incidência do Imposto Seletivo na importação de bens materiais, regulamentando o imposto sobre produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente instituído pelo art. 153, inciso VIII, da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "lcp214.14",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 14 da LC 214/2025 determina que as alíquotas da CBS e do IBS sejam fixadas por lei específica de cada ente federativo, regulamentando a regra do art. 156-A, § 1º, inciso V, da Constituição Federal, segundo a qual cada ente federativo fixará sua alíquota própria por lei específica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "lcp214.16",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 16 da LC 214/2025 reproduz, na legislação complementar, a regra do art. 156-A, § 1º, inciso VI, da Constituição Federal, segundo a qual a alíquota fixada pelo ente federativo será a mesma para todas as operações com bens ou serviços, ressalvadas as hipóteses constitucionalmente previstas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "lcp214.19",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 19 da LC 214/2025 disciplina a compensação, pelo Senado Federal, das alterações na legislação federal que reduzam ou elevem a arrecadação do IBS ou da CBS, regulamentando o mecanismo previsto no art. 156-A, § 9º, da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "lcp214.47",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 47 da LC 214/2025 disciplina a apropriação de créditos do IBS mediante a extinção dos débitos do fornecedor, regulamentando a não cumulatividade prevista no art. 156-A, § 1º, inciso VIII, da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "adct.118",
+  "para": "cf.6",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 118 do ADCT remete expressamente ao parágrafo único do art. 6º da Constituição Federal, determinando que lei e regulamento fixem, até 31 de dezembro de 2022, os limites, as condições e os requisitos de acesso à renda básica familiar ali prevista para o brasileiro em situação de vulnerabilidade social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "l8212.4",
+  "para": "cf.6",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 4º da Lei 8.212/91 define a assistência social como a política que provê o atendimento das necessidades básicas de proteção à família, à maternidade, à infância e à velhice, independentemente de contribuição, regulamentando o direito social à assistência aos desamparados previsto no art. 6º da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "l8213.71",
+  "para": "cf.6",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 71 da Lei 8.213/91 disciplina o salário-maternidade devido à segurada da Previdência Social por 120 dias, regulamentando, no âmbito previdenciário, a proteção à maternidade e à infância e o direito à previdência social assegurados como direitos sociais pelo art. 6º da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "clt.397",
+  "para": "cf.6",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 397 da CLT impõe a entidades públicas de assistência a manutenção de escolas maternais e jardins de infância para os filhos das mulheres empregadas, regulamentando, no ambiente de trabalho, a proteção à infância reconhecida como direito social pelo art. 6º da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "floripa_ctm.105",
+  "para": "ctn.186",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 105 do CTM de Florianópolis determina que os créditos tributários sejam pagos preferencialmente a quaisquer outros e às dívidas da massa falida, enquanto o art. 186, parágrafo único, do CTN, na redação vigente desde a reforma de 2005, estabelece que, na falência, o crédito tributário não prefere aos créditos extraconcursais, às importâncias restituíveis, nem aos créditos com garantia real no limite do bem gravado; há conflito aparente entre a norma municipal, ainda redigida sob o regime anterior, e a hierarquia atual de preferências na falência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "floripa_ctm.105",
+  "para": "l11101.84",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 105 do CTM de Florianópolis trata os créditos tributários exigíveis no curso da falência como pagáveis preferencialmente a quaisquer outros créditos e às dívidas da massa, mas o art. 84, inciso V, da Lei 11.101/2005 inclui os tributos de fatos geradores posteriores à falência apenas como o último dos créditos extraconcursais, pagos depois das despesas de administração e das custas do processo; há conflito aparente quanto à posição do crédito tributário na ordem de pagamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "floripa_ctm.105",
+  "para": "l11101.192",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 2º do art. 105 do CTM de Florianópolis estende a preferência do crédito tributário também aos processos de concordata, instituto extinto pela Lei 11.101/2005, cujo art. 192 restringe a concordata aos processos de falência ajuizados antes de sua vigência; a remissão municipal à concordata pode induzir à aplicação de um regime já superado pela recuperação judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "lef.31",
+  "para": "floripa_ctm.106",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 31 da LEF veda a alienação judicial de bens em processo de inventário ou arrolamento sem prova de quitação da Dívida Ativa ou concordância da Fazenda Pública, complementando a preferência de pagamento do crédito tributário do de cujus ou do espólio estabelecida pelo art. 106 do CTM de Florianópolis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "cpc.662",
+  "para": "floripa_ctm.106",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 662 do CPC determina que, no arrolamento, não sejam conhecidas questões sobre lançamento, pagamento ou quitação de tributos incidentes sobre os bens do espólio, remetendo-as à cobrança própria do fisco; essa regra excepciona, para o arrolamento, o mecanismo de contestação do crédito tributário dentro do próprio inventário a que remete o parágrafo único do art. 106 do CTM de Florianópolis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "floripa_ctm.108",
+  "para": "ctn.191-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 108 do CTM de Florianópolis condiciona a concordata, instituto extinto pela Lei 11.101/2005, à quitação de tributos, enquanto o art. 191-A do CTN exige essa mesma prova para a concessão de recuperação judicial, instituto que sucedeu a concordata; a redação municipal desatualizada pode induzir à confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
+ },
+ {
+  "de": "floripa_ctm.108",
+  "para": "l11101.158",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 108 do CTM de Florianópolis condiciona a extinção das obrigações do falido à quitação de todos os tributos da atividade mercantil, nos mesmos moldes do art. 191 do CTN, mas o art. 158 da Lei 11.101/2005 relaciona as hipóteses de extinção das obrigações do falido sem exigir quitação tributária entre elas; há conflito aparente sobre a subsistência dessa condição fiscal diante do rol da lei falimentar vigente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T20:22:24+00:00"
  }
 ]
