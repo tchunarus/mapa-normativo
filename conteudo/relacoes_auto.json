@@ -9477,5 +9477,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T00:08:39+00:00"
+ },
+ {
+  "de": "cpc.908",
+  "para": "l11101.141",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 908 do Código de Processo Civil rege a distribuição do dinheiro entre credores pela ordem de preferências na execução singular, cabendo a anterioridade da penhora apenas quando não houver título legal de preferência. Na falência, o inciso I do art. 141 da Lei 11.101/05 afasta esse critério processual civil, pois os credores sub-rogam-se no produto da realização do ativo observada a ordem especial do art. 83 da mesma lei, própria do concurso universal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T01:08:02+00:00"
+ },
+ {
+  "de": "cpc.908",
+  "para": "ctn.130",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 908, § 1º, do Código de Processo Civil determina que os créditos que recaem sobre o bem alienado, inclusive os propter rem, sub-rogam-se sobre o preço obtido na alienação judicial. O art. 130, parágrafo único, do Código Tributário Nacional aplica a mesma lógica aos créditos tributários sobre imóveis, pois a sub-rogação ocorre sobre o preço quando a transferência se dá por arrematação em hasta pública, em vez de onerar o adquirente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T01:08:02+00:00"
+ },
+ {
+  "de": "cpp.711",
+  "para": "cp.75",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 711 do Código de Processo Penal manda somar as penas correspondentes a infrações diversas para o efeito do livramento condicional. O art. 75 do Código Penal rege a unificação das penas privativas de liberdade quando a soma ultrapassa quarenta anos, de modo que a soma determinada pelo art. 711 opera dentro desse limite máximo de cumprimento fixado pelo art. 75.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T01:08:02+00:00"
+ },
+ {
+  "de": "ctn.137",
+  "para": "floripa_ctm.45",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 45 do Código Tributário Municipal de Florianópolis reproduz, para os tributos municipais, a regra de responsabilidade pessoal ao agente do art. 137 do Código Tributário Nacional, inclusive as hipóteses dos incisos I a III sobre infrações conceituadas como crime ou contravenção, infrações com dolo específico elementar e infrações que decorrem direta e exclusivamente de dolo específico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T01:08:02+00:00"
+ },
+ {
+  "de": "ctn.138",
+  "para": "floripa_ctm.46",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 46 do Código Tributário Municipal de Florianópolis reproduz, para os tributos municipais, a exclusão da responsabilidade pela denúncia espontânea da infração prevista no art. 138 do Código Tributário Nacional, inclusive a ressalva de que não se considera espontânea a denúncia apresentada após o início de procedimento fiscal relacionado com a infração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T01:08:02+00:00"
+ },
+ {
+  "de": "ctn.138",
+  "para": "d9580.1027",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos tratam de efeitos favoráveis ao contribuinte que regulariza o tributo antes de certo marco processual, mas em planos distintos: o art. 138 do Código Tributário Nacional exclui a responsabilidade administrativa pela denúncia espontânea da infração, feita antes do início de qualquer procedimento fiscal, enquanto o art. 1.027 do Regulamento do Imposto de Renda extingue a punibilidade penal dos crimes da Lei 8.137/90 quando o agente promove o pagamento do tributo antes do recebimento da denúncia criminal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T01:08:02+00:00"
+ },
+ {
+  "de": "ctn.142",
+  "para": "d9580.898",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 898 do Regulamento do Imposto de Renda regulamenta, para o imposto de renda, a competência privativa da autoridade administrativa para constituir o crédito tributário pelo lançamento, prevista no caput do art. 142 do Código Tributário Nacional, que o próprio dispositivo regulamentar cita expressamente como fundamento, atribuindo essa competência ao auditor fiscal da Secretaria da Receita Federal do Brasil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T01:08:02+00:00"
+ },
+ {
+  "de": "ctn.142",
+  "para": "lcp214.341-H",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 142, § 5º, do Código Tributário Nacional prevê reduções de 50%, 40%, 30% e 20% da penalidade aplicada no lançamento de ofício, conforme o momento do pagamento ou do parcelamento do crédito tributário. O art. 341-H da Lei Complementar 214/2025 adota o mesmo esquema de reduções de 50%, 40% e 30% para as multas do IBS e da CBS previstas nos arts. 341-F e 341-G da mesma lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T01:08:02+00:00"
+ },
+ {
+  "de": "ctn.148",
+  "para": "d9580.135",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 135 do Regulamento do Imposto de Renda regulamenta, para o imposto de renda, o arbitramento do valor ou do preço previsto no art. 148 do Código Tributário Nacional, que cita expressamente como fundamento, ressalvando igualmente, em caso de contestação, a avaliação contraditória, administrativa ou judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T01:08:02+00:00"
+ },
+ {
+  "de": "ctn.148",
+  "para": "lcp87.18",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 18 da Lei Complementar 87/96 reproduz, para o ICMS, a regra de arbitramento do valor ou do preço do art. 148 do Código Tributário Nacional, aplicável quando sejam omissas ou não mereçam fé as declarações, os esclarecimentos ou os documentos do sujeito passivo ou de terceiro legalmente obrigado, ressalvada a avaliação contraditória, administrativa ou judicial, em caso de contestação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T01:08:02+00:00"
+ },
+ {
+  "de": "ctn.150",
+  "para": "floripa_ctm.59",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 59 do Código Tributário Municipal de Florianópolis reproduz, para os tributos municipais, a definição do lançamento por homologação do art. 150 do Código Tributário Nacional, inclusive a regra do § 1º de que o pagamento antecipado pelo obrigado extingue o crédito sob condição resolutória da ulterior homologação do lançamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T01:08:02+00:00"
+ },
+ {
+  "de": "ctn.151",
+  "para": "l13988.12",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O inciso VIII do art. 151 do Código Tributário Nacional estabelece que a proposta de transação aceita pela administração suspende a exigibilidade do crédito tributário. O art. 12 da Lei 13.988/20 parece contradizer essa regra ao dispor que a proposta de transação não suspende a exigibilidade nem o andamento das execuções fiscais, mas a aparente contradição se resolve porque o art. 12 trata da proposta ainda pendente de aceitação, enquanto o inciso VIII do art. 151 exige que a transação já tenha sido aceita pela administração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T01:08:02+00:00"
  }
 ]
