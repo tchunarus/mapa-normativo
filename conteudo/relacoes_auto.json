@@ -11887,5 +11887,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "adct.120",
+  "para": "cf.167",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 120 do ADCT reconhece o estado de emergência de 2022 decorrente da alta do petróleo e dos combustíveis e, para as despesas dele resultantes, excepciona o inciso III do caput do art. 167 e o § 3º do art. 167 da Constituição Federal, dispensando os requisitos que a Constituição normalmente exige para a abertura de crédito extraordinário e para operações de crédito que excedam as despesas de capital.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "cf.145",
+  "para": "ctn.5",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 145 da Constituição Federal estabelece que a União, os Estados, o Distrito Federal e os Municípios podem instituir impostos, taxas e contribuição de melhoria, e o art. 5º do Código Tributário Nacional complementa essa classificação ao reafirmar, em sede de lei complementar, que os tributos são exatamente essas três espécies, sem acrescentar nem suprimir nenhuma delas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "cf.145",
+  "para": "ctn.77",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 145 da Constituição Federal prevê a taxa cobrada em razão do exercício do poder de polícia ou da utilização efetiva ou potencial de serviço público específico e divisível, e o art. 77 do Código Tributário Nacional complementa essa previsão ao definir o fato gerador da taxa nesses mesmos termos e ao vedar que ela tenha base de cálculo ou fato gerador idênticos aos de imposto, na linha do § 2º do próprio art. 145.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "cf.145",
+  "para": "ctn.79",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "Os incisos I e II do art. 145 da Constituição Federal exigem que a taxa decorra de serviço público específico e divisível, e o art. 79 do Código Tributário Nacional complementa essa exigência ao definir, em seus incisos I a III, o que se entende por serviço utilizado, específico e divisível para fins de cobrança da taxa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "cf.145",
+  "para": "floripa_ctm.196",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 145 da Constituição Federal autoriza a União, os Estados, o Distrito Federal e os Municípios a instituir impostos, taxas e contribuição de melhoria, e o art. 196 do Código Tributário Municipal de Florianópolis especializa essa autorização ao relacionar, para o âmbito municipal, os impostos, as taxas e a contribuição de melhoria que efetivamente compõem o sistema tributário do Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "cf.145",
+  "para": "floripa_ctm.303",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 145 da Constituição Federal define a taxa como tributo cobrado em razão do poder de polícia ou da utilização de serviço público específico e divisível, e o art. 303 do Código Tributário Municipal de Florianópolis especializa essa definição para as taxas municipais, repetindo os mesmos elementos e vedando que a taxa tenha base ou fato gerador idêntico ao de imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "cf.50",
+  "para": "lcp227.79-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 50 da Constituição Federal prevê que a ausência sem justificação adequada do Presidente do Comitê Gestor do Imposto sobre Bens e Serviços à convocação da Câmara dos Deputados ou do Senado Federal importa crime de responsabilidade, e o art. 79-A da Lei Complementar 227/2026 regulamenta essa previsão ao tipificar, nos incisos III e IV, a falta de comparecimento e a falta de prestação de informações escritas como crimes de responsabilidade do Presidente do CGIBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "cf.50",
+  "para": "lcp227.79-B",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 50 da Constituição Federal trata, em conjunto, do Ministro de Estado e do Presidente do Comitê Gestor do Imposto sobre Bens e Serviços quanto ao dever de comparecer ao Congresso Nacional quando convocados, e o art. 79-B da Lei Complementar 227/2026 complementa esse tratamento paralelo ao determinar que o processo e o julgamento do Presidente do CGIBS observem o mesmo regime estabelecido para os Ministros de Estado, inclusive quanto às sanções aplicáveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "ctn.208-H",
+  "para": "d70235.59",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 208-H do Código Tributário Nacional e o art. 59 do Decreto 70.235/72 tratam do mesmo instituto das nulidades no processo administrativo fiscal, com redação quase idêntica quanto à incompetência do agente, à limitação dos efeitos da nulidade aos atos posteriores que dela dependam e à vedação de pronunciar a nulidade quando o mérito puder ser decidido a favor do sujeito passivo, o que gera risco real de se invocar o diploma federal específico em vez da norma geral do CTN, ou o inverso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "ctn.208-H",
+  "para": "lcp227.65",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O caput do art. 208-H do Código Tributário Nacional determina que a administração deve anular seus próprios atos quando eivados de vício de legalidade, e o art. 65 da Lei Complementar 227/2026 repete, em redação praticamente idêntica, o mesmo dever de autotutela para a administração tributária do IBS, o que pode levar a se confundir qual dos dois dispositivos fundamenta a anulação em cada sistema tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "ctn.208-H",
+  "para": "lcp227.66",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 208-H do Código Tributário Nacional relaciona as hipóteses de nulidade do processo administrativo tributário, e o art. 66 da Lei Complementar 227/2026 regula o mesmo instituto para o contencioso do IBS com lista muito semelhante de causas de nulidade, como a incompetência da autoridade, a preterição do direito de defesa e a falta de fundamentação, o que gera risco de aplicação cruzada indevida entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "ctn.208-H",
+  "para": "l9784.53",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O caput do art. 208-H do Código Tributário Nacional impõe à administração tributária o dever de anular seus próprios atos eivados de vício de legalidade, e o art. 53 da Lei 9.784/99 estabelece o mesmo dever para a administração pública federal em geral, acrescentando ainda a possibilidade de revogação por conveniência e oportunidade, de modo que os dois dispositivos tratam do mesmo instituto da autotutela administrativa e podem ser confundidos quanto à sua aplicação em matéria tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "d70235.59",
+  "para": "lcp227.66",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 59 do Decreto 70.235/72 e o art. 66 da Lei Complementar 227/2026 relacionam, cada um em seu processo administrativo, as mesmas causas de nulidade, como a incompetência do agente e a preterição do direito de defesa, e preveem efeitos semelhantes quanto à limitação da nulidade aos atos posteriores dela dependentes, o que cria risco de se aplicar ao contencioso do IBS a norma pensada para o processo administrativo fiscal federal, ou o inverso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "floripa_ctm.139",
+  "para": "l9784.22",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 139 do Código Tributário Municipal de Florianópolis disciplina a numeração e a rubrica das folhas do processo tributário municipal e a forma escrita, fundamentada e identificada dos atos processuais, e o art. 22 da Lei 9.784/99 regula de modo semelhante a forma dos atos do processo administrativo federal em geral, inclusive quanto à numeração sequencial e à rubrica das páginas, o que aproxima institutos conexos e pode gerar dúvida sobre qual norma disciplina a forma do processo tributário municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T23:18:43+00:00"
  }
 ]
