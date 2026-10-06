@@ -11747,5 +11747,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T21:18:31+00:00"
+ },
+ {
+  "de": "cf.167-D",
+  "para": "adct.120",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 120 do ADCT também dispensa, para o estado de emergência decorrente da alta do petróleo e dos combustíveis em 2022, limites orçamentários sobre despesas vinculadas ao enfrentamento daquele evento específico, no mesmo molde do mecanismo geral que o art. 167-D instituiu para qualquer calamidade pública, o que pode gerar confusão entre a dispensa setorial já superada e a regra constitucional permanente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "d70235.1",
+  "para": "floripa_ctm.132",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 1º do Decreto 70.235/72 e o art. 132 do Código Tributário Municipal de Florianópolis definem, cada um em sua esfera, o mesmo tipo de instituto: o processo administrativo de determinação e exigência do crédito tributário e o processo de consulta, sem caráter contencioso neste último caso, o que exige atenção para não aplicar ao âmbito municipal as regras procedimentais específicas do decreto federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "l9430.49",
+  "para": "d70235.1",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 49 da Lei 9.430/96 excepciona expressamente a aplicação, aos processos de consulta da Secretaria da Receita Federal, das disposições dos arts. 54 a 58 do Decreto 70.235/72, cujo art. 1º fixa o processo de consulta sobre a legislação tributária federal como parte do objeto regulado por aquele decreto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "d70235.1",
+  "para": "lcp214.323-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1º do Decreto 70.235/72 abrange o processo de consulta sobre a legislação tributária federal, e o art. 323-A da Lei Complementar 214/2025 cria um direito equivalente de consulta escrita para o IBS e a CBS, regime novo e distinto que pode ser confundido com o procedimento de consulta já consolidado sob o decreto federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "ctn.188",
+  "para": "d9580.991",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 188 do CTN define o que são créditos extraconcursais na falência, conceito ao qual o § 1º, inciso I, do art. 991 do RIR/2018 remete ao excluir tais créditos da preferência do crédito tributário, de modo que o art. 188 complementa, com essa definição, a regra de preferência disciplinada pelo regulamento do imposto de renda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "d9580.991",
+  "para": "l11101.83",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 991 do RIR/2018 afasta a preferência do crédito tributário em relação aos créditos extraconcursais e aos créditos com garantia real nos termos da lei falimentar, remetendo à ordem de classificação de créditos na falência que o art. 83 da Lei 11.101/05 efetivamente estabelece.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "d9580.991",
+  "para": "floripa_ctm.103",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 991 do RIR/2018 reproduz, no âmbito do imposto de renda, a mesma regra de preferência do crédito tributário que o art. 103 do Código Tributário Municipal de Florianópolis prevê para os tributos municipais, com redação quase idêntica, o que exige cuidado para não aplicar ao crédito municipal as ressalvas federais sobre falência previstas apenas no regulamento federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "ec132.1",
+  "para": "cf.50",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Emenda Constitucional 132/2023 alterou o art. 50 da Constituição Federal para incluir o Presidente do Comitê Gestor do Imposto sobre Bens e Serviços entre as autoridades que podem ser convocadas pelo Congresso Nacional, de modo que a redação vigente do art. 50 já incorpora essa mudança promovida pela emenda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "ec132.1",
+  "para": "cf.145",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Emenda Constitucional 132/2023 acrescentou ao art. 145 da Constituição Federal o § 3º e o § 4º, que fixam princípios do Sistema Tributário Nacional e a busca por atenuar efeitos regressivos na legislação tributária, dispositivos hoje vigentes exatamente como introduzidos pela emenda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "ec132.1",
+  "para": "cf.146",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Emenda Constitucional 132/2023 alterou o art. 146 da Constituição Federal para incluir, na alínea c do inciso III, o tratamento tributário do ato cooperativo em relação aos tributos dos arts. 156-A e 195, V, e para acrescentar a alínea d sobre o tratamento diferenciado das microempresas e empresas de pequeno porte, redação que hoje consta do texto vigente do art. 146.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "floripa_ctm.109",
+  "para": "lef.31",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 109 do Código Tributário Municipal de Florianópolis veda a sentença de partilha sem prova de quitação dos tributos do espólio, enquanto o art. 31 da Lei de Execução Fiscal veda, de forma mais ampla, qualquer alienação judicial no inventário sem prova de quitação da Dívida Ativa ou concordância da Fazenda Pública, o que pode gerar confusão entre o alcance de cada vedação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "floripa_ctm.135",
+  "para": "d70235.59",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 135 do Código Tributário Municipal de Florianópolis repete, para o processo administrativo fiscal municipal, a mesma lista de nulidades do art. 59 do Decreto 70.235/72, incluindo os atos de pessoa incompetente e os despachos com preterição do direito de defesa, o que exige cuidado para não aplicar ao processo municipal as regras federais de saneamento previstas no decreto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "floripa_ctm.135",
+  "para": "ctn.208-H",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 135 do Código Tributário Municipal de Florianópolis e o art. 208-H do CTN tratam do mesmo instituto das nulidades no processo administrativo fiscal, com hipóteses semelhantes de atos praticados por autoridade incompetente e de intimação sanada pelo comparecimento do interessado, mas em regimes distintos que podem ser confundidos entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
+ },
+ {
+  "de": "floripa_ctm.135",
+  "para": "lcp227.66",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 135 do Código Tributário Municipal de Florianópolis e o art. 66 da Lei Complementar 227/2026 regulam o mesmo instituto das nulidades no processo administrativo fiscal, cada um listando hipóteses de atos de autoridade incompetente e de preterição do direito de defesa, ainda que o segundo trate especificamente do contencioso do IBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T22:19:53+00:00"
  }
 ]
