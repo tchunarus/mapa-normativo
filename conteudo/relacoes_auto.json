@@ -10747,5 +10747,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T14:23:17+00:00"
+ },
+ {
+  "de": "cpp.39",
+  "para": "cp.100",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 39 do CPP disciplina a forma do exercício da representação (oral ou escrita, perante o juiz, o Ministério Público ou a autoridade policial), enquanto o § 1º do art. 100 do CP estabelece a representação do ofendido como condição da ação penal pública condicionada, de modo que os dois dispositivos integram o mesmo regime, um definindo o pressuposto material e o outro a forma de seu exercício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "cpp.39",
+  "para": "cp.102",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 39 do CPP regula apenas a forma e o destinatário da representação, sem tratar de sua estabilidade, lacuna preenchida pelo art. 102 do CP, que fixa a irretratabilidade da representação depois de oferecida a denúncia, de modo que os dois dispositivos compõem o mesmo regime do exercício do direito de representação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "cpp.39",
+  "para": "l9099.91",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 91 da Lei 9.099/95 trata de hipótese específica em que a própria lei passou a exigir representação para ações penais públicas antes incondicionadas, fixando prazo de trinta dias para o ofendido oferecê-la sob pena de decadência, regra que se soma, sem contradizê-la, à disciplina geral da forma e do destinatário da representação do art. 39 do CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "cpp.39",
+  "para": "l9099.74",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 74, parágrafo único, da Lei 9.099/95 prevê que o acordo de composição dos danos civis, quando homologado em ação penal pública condicionada à representação, acarreta a renúncia a esse direito, hipótese extintiva que complementa a disciplina do exercício da representação regulada pelo art. 39 do CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "cpp.39",
+  "para": "l8429.14",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 14 da Lei 8.429/92 emprega o mesmo termo representação para a provocação da autoridade administrativa a instaurar apuração de ato de improbidade, instituto diverso da representação penal do art. 39 do CPP, condição de procedibilidade da ação penal pública condicionada, havendo risco de confusão terminológica entre os dois institutos homônimos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "cpp.67",
+  "para": "l7347.9",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O inciso I do art. 67 do CPP trata do arquivamento do inquérito policial ou das peças de informação, que não impede a propositura da ação civil ex delicto, enquanto o art. 9º da Lei 7.347/85 trata do arquivamento do inquérito civil ou das peças informativas, com remessa obrigatória ao Conselho Superior do Ministério Público, institutos distintos cuja quase identidade de redação gera risco real de confusão entre inquérito policial e inquérito civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "ctn.126",
+  "para": "floripa_ctm.34",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 34 do CTM de Florianópolis reproduz, para a competência tributária municipal, a mesma regra de independência da capacidade tributária passiva da capacidade civil e da regularidade da constituição da pessoa jurídica estabelecida pelo art. 126 do CTN como norma geral de direito tributário, de modo que os dois dispositivos integram o mesmo regime jurídico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "ctn.126",
+  "para": "d9580.158",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 158 do RIR/2018 aplica expressamente, para fins de apuração do imposto de renda, a regra de independência da capacidade tributária passiva da pessoa jurídica irregularmente constituída prevista no art. 126, caput, inciso III, do CTN, citado no próprio texto regulamentar, disciplinando em ato infralegal a incidência do tributo federal sobre essa hipótese.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "ctn.126",
+  "para": "cc.972",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 972 do CC condiciona o exercício da atividade de empresário ao pleno gozo da capacidade civil, regra geral que o inciso I do art. 126 do CTN excepciona para fins tributários, ao declarar que a capacidade tributária passiva independe da capacidade civil das pessoas naturais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "d9580.199",
+  "para": "floripa_ctm.41",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 41 do CTM de Florianópolis reproduz, para os créditos tributários municipais, a mesma regra de extensão temporal da disciplina de responsabilidade aos créditos definitivamente constituídos ou em curso de constituição que o art. 199 do RIR/2018 aplica ao imposto de renda, de modo que os dois dispositivos integram o mesmo regime, cada um operando na esfera de seu respectivo ente tributante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "d9580.200",
+  "para": "floripa_ctm.43",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 43 do CTM de Florianópolis reproduz, para os tributos municipais, a mesma hipótese de responsabilidade pessoal por excesso de poderes ou infração de lei, contrato social ou estatutos que o art. 200 do RIR/2018 disciplina para o imposto de renda, atribuindo-a às mesmas pessoas (administradores de bens de terceiros, tabeliães e representantes de pessoas jurídicas de direito privado), de modo que os dois dispositivos integram o mesmo regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "d9580.201",
+  "para": "floripa_ctm.42",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 42 do CTM de Florianópolis reproduz, para os tributos municipais, a mesma hipótese de responsabilidade solidária por impossibilidade de exigência do cumprimento da obrigação principal que o art. 201 do RIR/2018 disciplina para o imposto de renda, abrangendo os incisos III e V (administradores de bens de terceiros e síndico ou comissário), de modo que os dois dispositivos integram o mesmo regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "d9580.202",
+  "para": "floripa_ctm.35",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 35 do CTM de Florianópolis reproduz, para o domicílio tributário municipal, o mesmo critério supletivo de domicílio dos arts. 202, § 2º, do RIR/2018 e 127 do CTN, aplicável quando não couber a eleição pelo contribuinte ou a aplicação das regras específicas, de modo que os dois dispositivos integram o mesmo regime do domicílio fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "d9580.202",
+  "para": "cc.75",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 75, § 1º, do CC já prevê que, tendo a pessoa jurídica diversos estabelecimentos em lugares diferentes, cada um deles é considerado domicílio para os atos ali praticados; o art. 202 do RIR/2018 especializa esse raciocínio para fins tributários, elegendo o estabelecimento único ou, havendo mais de um, o centralizador das operações ou a sede, à opção da pessoa jurídica, como critério de domicílio fiscal relativo ao imposto de renda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "d9580.22",
+  "para": "floripa_ctm.42",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 42 do CTM de Florianópolis reproduz, para os tributos municipais, a mesma hipótese de responsabilidade solidária por impossibilidade de exigência do cumprimento da obrigação principal que o art. 22 do RIR/2018 disciplina para o imposto de renda, abrangendo os incisos I a IV (pais, tutores e curadores, administradores de bens de terceiros e inventariante), de modo que os dois dispositivos integram o mesmo regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "d9580.22",
+  "para": "cc.932",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os incisos I e II do art. 932 do CC atribuem aos pais, tutores e curadores responsabilidade civil pela reparação de danos causados por filhos menores, pupilos e curatelados sob sua autoridade, instituto conexo mas distinto da responsabilidade tributária solidária atribuída às mesmas pessoas pelo art. 22 do RIR/2018, podendo gerar confusão entre os pressupostos de uma e de outra responsabilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
+ },
+ {
+  "de": "d9580.22",
+  "para": "lef.4",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 4º da LEF autoriza que a execução fiscal seja promovida diretamente contra o responsável tributário, enquanto o art. 22 do RIR/2018, regulamentando o art. 134, incisos I a IV, do CTN, define quem são esses responsáveis solidários (pais, tutores, curadores e administradores de bens de terceiros) no âmbito do imposto de renda, de modo que a LEF veicula o procedimento de cobrança da obrigação cuja responsabilidade o dispositivo regulamentar atribui.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T15:19:04+00:00"
  }
 ]
