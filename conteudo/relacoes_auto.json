@@ -10227,5 +10227,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T11:16:20+00:00"
+ },
+ {
+  "de": "ctn.35",
+  "para": "cf.156",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 35 do CTN fixa o fato gerador do imposto sobre a transmissão inter vivos, por ato oneroso, de bens imóveis e de direitos a eles relativos, cuja competência para instituir o tributo pertence aos Municípios nos termos do inciso II do art. 156 da Constituição Federal, detalhando em lei complementar o aspecto material que a norma constitucional apenas atribui.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "ctn.37",
+  "para": "cf.156",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 37 do CTN detalha o conceito de atividade preponderante referido na parte final do § 2º, I, do art. 156 da Constituição Federal, que ressalva a não incidência do ITBI quando o adquirente tiver como atividade preponderante a venda ou locação de imóveis, fixando o critério objetivo de mais da metade da receita operacional nos dois anos anteriores e posteriores à aquisição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "lcp116.8",
+  "para": "cf.156",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 8º da LC 116/2003 fixa a alíquota máxima do ISS em cinco por cento, cumprindo a reserva de lei complementar estabelecida no § 3º, I, do art. 156 da Constituição Federal para a fixação das alíquotas máximas e mínimas do imposto sobre serviços previsto no inciso III do caput do mesmo artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "floripa_ctm.278",
+  "para": "cf.156",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 278 do Código Tributário Municipal de Florianópolis institui, no âmbito municipal, o fato gerador do ITBI com os mesmos elementos do inciso II do art. 156 da Constituição Federal, regulamentando localmente a competência tributária ali atribuída aos Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "floripa_ctm.500",
+  "para": "cf.156",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 500 do Código Tributário Municipal de Florianópolis institui a incidência do IPTU sobre todos os imóveis do Município, regulamentando no plano local a competência tributária atribuída pelo inciso I do art. 156 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "d9580.933",
+  "para": "ctn.85",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 933 do RIR/2018 regulamenta, no plano infralegal, a regra de repasse do produto da arrecadação do imposto de renda retido na fonte sobre os proventos de servidores estaduais, distritais e municipais, prevista no inciso II do art. 85 do CTN, e cita expressamente esse dispositivo como fundamento legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "ctn.85",
+  "para": "cf.158",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 85 do CTN e o inciso I do art. 158 da Constituição Federal tratam do mesmo repasse aos Municípios do produto do imposto de renda retido na fonte sobre rendimentos por eles pagos, e os dois dispositivos integram o mesmo regime de repartição de receitas, com a norma constitucional reafirmando em nível superior a regra já prevista na lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "d20910.7",
+  "para": "ctn.174",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 7º do Decreto 20.910/1932 regula a prescrição quinquenal de pretensões de terceiros contra a Fazenda Pública, enquanto o § 1º do art. 174 do CTN trata da prescrição do crédito tributário em favor da própria Fazenda, e a semelhança das causas de interrupção entre os dois regimes gera risco real de se aplicar a um a disciplina pensada para o outro, apesar de tratarem de pretensões em sentidos opostos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "ctn.169",
+  "para": "d20910.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 169 do CTN reproduz, para a ação anulatória da decisão que denega a restituição tributária, a mesma lógica do art. 9º do Decreto 20.910/1932, segundo a qual a prescrição interrompida recomeça a correr pela metade do prazo a partir do ato interruptivo, e os dois dispositivos integram o mesmo regime de prescrição contra a Fazenda Pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "d70235.22",
+  "para": "l9784.22",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 22 do Decreto 70.235/1972 repete, para o processo administrativo fiscal federal, a mesma exigência de numeração e rubrica das folhas do processo prevista no § 4º do art. 22 da Lei 9.784/1999, que é a lei geral do processo administrativo federal, e o decreto especializa essa regra para a matéria tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "d70235.22",
+  "para": "floripa_ctm.139",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 22 do Decreto 70.235/1972 e o inciso II do art. 139 do Código Tributário Municipal de Florianópolis preveem a mesma exigência de numeração e rubrica das folhas do processo administrativo, um para o âmbito federal e outro para o âmbito municipal, e a redação quase idêntica cria risco de se invocar o diploma errado conforme o ente federativo envolvido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "l10522.32",
+  "para": "d70235.33",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 32 da Lei 10.522/2002 é o dispositivo que alterou o caput do art. 33 do Decreto 70.235/1972 para fixar o prazo de vinte dias úteis e o efeito suspensivo do recurso voluntário, compondo historicamente a redação hoje vigente desse artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "d70235.33",
+  "para": "lcp227.78",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 33 do Decreto 70.235/1972 e o art. 78 da LC 227/2026 regulam o mesmo instituto do recurso voluntário em processo administrativo tributário, com prazo e requisitos próprios para os tributos federais tradicionais no primeiro caso e para o IBS e a CBS no segundo, e a semelhança de nomenclatura cria risco de se aplicar o regime recursal errado conforme o tributo discutido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "d70235.33",
+  "para": "ctn.189",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O arrolamento de bens referido nos §§ 3º e 4º do art. 33 do Decreto 70.235/1972 é a garantia cautelar sobre o patrimônio do contribuinte devedor, enquanto o arrolamento mencionado no art. 189 do CTN é a modalidade simplificada de inventário de bens do espólio, e a homonímia entre os dois institutos gera risco de confusão apesar de tratarem de realidades jurídicas distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "d70235.64-B",
+  "para": "lcp227.56",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 64-B do Decreto 70.235/1972 e o § 2º do art. 56 da LC 227/2026 atribuem o mesmo valor probante aos documentos digitalizados pela administração tributária, um para o processo administrativo dos tributos federais regidos pelo decreto e outro para o processo do IBS e da CBS, e a redação equivalente cria risco de se invocar o regime processual errado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "d70235.64-B",
+  "para": "l13874.10",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 64-B do Decreto 70.235/1972 especializa, para o processo administrativo tributário federal, a autorização geral de descarte do documento físico após digitalização prevista no § 1º do art. 2º-A acrescido à Lei 12.682/2012 pelo art. 10 da Lei 13.874/2019, mantendo a mesma lógica de preservação do valor probante do documento digital.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:14+00:00"
+ },
+ {
+  "de": "ctn.36",
+  "para": "cf.156",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 2º, I, do art. 156 da Constituição Federal reproduz a mesma hipótese de não incidência do ITBI tratada pelo art. 36 do CTN sobre bens incorporados ao capital de pessoa jurídica e sobre fusão, incorporação ou cisão, e os dois dispositivos integram o mesmo regime de imunidade, com a norma constitucional reafirmando, em nível superior, a regra já prevista na lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T12:27:33+00:00"
  }
 ]
