@@ -11227,5 +11227,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T18:17:55+00:00"
+ },
+ {
+  "de": "ec132.22",
+  "para": "adct.129",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 22, II, a, da Emenda Constitucional 132/2023 revoga, a partir de 2033, os arts. 155, II, e 156, III, da Constituição Federal, e o art. 129 do Ato das Disposições Constitucionais Transitórias declara extintos, na mesma data, os impostos neles previstos. Os dois dispositivos compõem o mesmo regime de extinção do ICMS e do ISS na reforma tributária, um revogando a competência constitucional e o outro afirmando a extinção do tributo correspondente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T19:19:03+00:00"
+ },
+ {
+  "de": "ec132.22",
+  "para": "adct.126",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 22, I, da Emenda Constitucional 132/2023 revoga, a partir de 2027, o art. 195, I, b, e IV, da Constituição Federal, e o art. 126, II, do Ato das Disposições Constitucionais Transitórias prevê, na mesma data e sob a mesma condição, a extinção das contribuições ali previstas. Ambos integram o mesmo regime transitório de substituição das contribuições sociais pela CBS, um revogando a base constitucional e o outro declarando extinto o tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T19:19:03+00:00"
+ },
+ {
+  "de": "ec132.4",
+  "para": "cf.153",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 4 da Emenda Constitucional 132/2023 deu nova redação ao art. 153, § 6, IV, da Constituição Federal, para determinar que o imposto seletivo integre a base de cálculo dos tributos da reforma tributária, como o então recém criado art. 156-A. Trata se do mesmo instituto, a base de cálculo do imposto seletivo, sendo o art. 153 o dispositivo alterado e o art. 4 da emenda a norma que produziu essa alteração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T19:19:03+00:00"
+ },
+ {
+  "de": "ec132.4",
+  "para": "cf.156-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 4 da Emenda Constitucional 132/2023 alterou o art. 156-A, § 1, IX, da Constituição Federal, artigo instituído pela mesma emenda, para excluir da base de cálculo do novo imposto sobre bens e serviços também os demais tributos da reforma, como o imposto seletivo. A relação decorre diretamente dessa alteração textual do mesmo dispositivo constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T19:19:03+00:00"
+ },
+ {
+  "de": "ec132.6",
+  "para": "adct.131",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 6, IV, b, da Emenda Constitucional 132/2023 remete expressamente aos arts. 131 e 132 do Ato das Disposições Constitucionais Transitórias ao determinar que as bases de cálculo da vinculação de receita à saúde incluam os valores recebidos nos termos desses artigos. O art. 131 do ADCT disciplina exatamente essa distribuição do produto da arrecadação do imposto do art. 156-A aos Estados, ao Distrito Federal e aos Municípios, referida pela emenda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T19:19:03+00:00"
+ },
+ {
+  "de": "ec132.6",
+  "para": "lcp227.170",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 6, IV, da Emenda Constitucional 132/2023 estabelece, em caráter transitório, que as bases de cálculo da vinculação de receita à saúde prevista na Lei Complementar 141 de 2012 passem a incluir também as parcelas do imposto do art. 156-A da Constituição Federal. O art. 170 da Lei Complementar 227/2026 é a norma que, afinal, altera a Lei Complementar 141 de 2012 para incorporar essa receita ao cálculo dos percentuais mínimos de saúde, regulamentando o que a emenda havia determinado provisoriamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T19:19:03+00:00"
+ },
+ {
+  "de": "ec132.7",
+  "para": "lcp214.477",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 7 da Emenda Constitucional 132/2023 determina que a União compensará, nos termos de lei complementar, eventual redução nos repasses do art. 159, I e II, da Constituição Federal decorrente da substituição do imposto sobre produtos industrializados pelo imposto seletivo. O art. 477 da Lei Complementar 214/2025 é precisamente essa lei complementar, pois disciplina a forma de apuração e de entrega dessa compensação a partir de 2027.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T19:19:03+00:00"
+ },
+ {
+  "de": "ec132.7",
+  "para": "adct.130",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 7 da Emenda Constitucional 132/2023 trata da compensação, pela União, da perda de receita do imposto sobre produtos industrializados repassada aos Estados e Municípios pelo art. 159, I e II, da Constituição Federal. O art. 130 do Ato das Disposições Constitucionais Transitórias cuida de instituto conexo, mas distinto, a fixação das alíquotas de referência que asseguram a equivalência de receita da União, dos Estados e dos Municípios durante toda a transição da reforma tributária, não apenas a compensação pontual do art. 159.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T19:19:03+00:00"
+ },
+ {
+  "de": "ec132.8",
+  "para": "lcp214.125",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 8 da Emenda Constitucional 132/2023 cria a Cesta Básica Nacional de Alimentos e remete à lei complementar a definição dos produtos beneficiados com alíquota zero do imposto sobre bens e serviços e da contribuição social sobre bens e serviços. O art. 125 da Lei Complementar 214/2025 regulamenta exatamente essa determinação, zerando as alíquotas do IBS e da CBS para os produtos do Anexo I, expressamente vinculados à cesta criada pela emenda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T19:19:03+00:00"
+ },
+ {
+  "de": "ec132.8",
+  "para": "cf.6",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 8 da Emenda Constitucional 132/2023 remete expressamente ao direito social à alimentação previsto no art. 6 da Constituição Federal como fundamento da criação da Cesta Básica Nacional de Alimentos. Os dispositivos tratam de institutos conexos: o art. 6 assegura o direito social em termos gerais, e o art. 8 da emenda o concretiza por meio de desoneração tributária de produtos alimentícios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-06T19:19:03+00:00"
  }
 ]
