@@ -13197,5 +13197,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T18:17:10+00:00"
+ },
+ {
+  "de": "lcp214.479",
+  "para": "cf.160",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 479 da LC 214/2025 veda a retenção ou qualquer restrição à entrega dos recursos da compensação do IBS aos Estados, ao Distrito Federal e aos Municípios, nos termos do art. 160 da Constituição Federal, que veda a retenção ou qualquer restrição à entrega e ao emprego dos recursos nele atribuídos aos entes federativos. O dispositivo infraconstitucional aplica o mesmo instituto constitucional a uma fonte específica de recursos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "l8212.56",
+  "para": "cf.160",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O caput do art. 56 da Lei 8.212/91 condiciona o repasse do Fundo de Participação dos Estados e do Fundo de Participação dos Municípios à inexistência de débitos perante o INSS, autarquia federal, realizando a ressalva do art. 160, § 1º, I, da Constituição Federal, que permite à União condicionar a entrega de recursos ao pagamento de créditos próprios e de suas autarquias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "l10522.14-D",
+  "para": "cf.160",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O caput do art. 14-D da Lei 10.522/02 exige que os parcelamentos concedidos a Estados, Distrito Federal ou Municípios contenham cláusulas autorizando a retenção do FPE ou do FPM, concretizando o mecanismo do art. 160, § 2º, da Constituição Federal, que exige cláusula de autorização para dedução dos valores devidos nos acordos e parcelamentos firmados com a União.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "lcp214.404",
+  "para": "cf.160",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 404 da LC 214/2025 veda a retenção, a desvinculação ou qualquer outra restrição de entrega dos recursos de complementação do Fundo de Compensação de Benefícios Fiscais, reproduzindo para essa fonte específica a vedação geral do art. 160 da Constituição Federal, sem a ressalva de condicionamento prevista no § 1º do dispositivo constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "lcp227.74",
+  "para": "ctn.208-G",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 74 da LC 227/2026 e o art. 208-G do CTN disciplinam, cada um no seu âmbito, o efeito vinculante de precedentes e súmulas no processo administrativo tributário, com incisos quase idênticos sobre súmula vinculante do STF, decisões em controle concentrado e em repercussão geral ou recursos repetitivos, mas o art. 74 rege o contencioso administrativo do IBS e da CBS perante o CGIBS, ao passo que o art. 208-G do CTN rege o processo administrativo fiscal em geral, o que gera risco real de se aplicar o rol errado a cada contencioso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "l13874.13",
+  "para": "ctn.208-G",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 13 da Lei 13.874/19 insere o art. 18-A na Lei 10.522/02, instituindo a súmula da administração tributária federal, de observância obrigatória pelos órgãos administrativos que a editam, o que regulamenta, no âmbito federal, o inciso III do art. 208-G do CTN, que reconhece efeito vinculante às decisões reiteradas e uniformes dos tribunais administrativos consubstanciadas em súmulas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "cpc.927",
+  "para": "ctn.208-G",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 927 do CPC relaciona os precedentes que juízes e tribunais devem observar, entre eles as decisões do STF em controle concentrado, os enunciados de súmula vinculante e os acórdãos em recursos repetitivos, categorias que o art. 208-G do CTN reproduz quase literalmente como de efeito vinculante no processo administrativo fiscal, o que gera risco de se confundir a vinculação judicial do art. 927 com a vinculação administrativa própria do art. 208-G.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "d9580.997",
+  "para": "l9430.61",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O caput do art. 997 do RIR/2018 determina que os créditos tributários da União não pagos até o vencimento sejam acrescidos de juros de mora pela taxa Selic, com remissão expressa ao art. 61 da Lei 9.430/96, que já previa, para os débitos administrados pela Secretaria da Receita Federal, os mesmos juros de mora à taxa Selic e de um por cento no mês do pagamento. O decreto consolida, para o imposto de renda, a mesma regra legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "d9580.997",
+  "para": "ctn.161",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 997 do RIR/2018 fixa a taxa Selic como juros de mora sobre os créditos tributários da União, especializando, para esses créditos, a regra supletiva do art. 161 do CTN, segundo a qual os juros de mora são calculados à taxa de um por cento ao mês apenas quando a lei não dispuser de modo diverso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "floripa_ctm.473",
+  "para": "cc.406",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 473 do CTM de Florianópolis e o art. 406 do Código Civil adotam a taxa Selic como parâmetro dos juros, mas o art. 473 impõe piso de um por cento ao mês para os créditos da Fazenda Municipal, ao passo que o art. 406 do Código Civil, de aplicação civil geral, prevê a dedução do índice de atualização monetária na apuração da taxa legal, sem prever piso equivalente, o que pode levar à aplicação indevida do parâmetro civil a créditos tributários municipais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "l13874.13",
+  "para": "l10522.19-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 13 da Lei 13.874/19 é o dispositivo que inseriu o art. 19-A na Lei 10.522/02, cuja redação impede os Auditores-Fiscais da Secretaria Especial da Receita Federal do Brasil de constituir os créditos tributários relativos aos temas do art. 19, observados os pareceres referidos nos incisos I a III do caput.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "l11079.18",
+  "para": "cc.1419",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 18 da Lei 11.079/04 autoriza o FGP a prestar garantia mediante penhor de bens móveis ou de direitos e mediante hipoteca de bens imóveis do seu patrimônio, modalidades que o art. 1.419 do Código Civil descreve, em termos gerais, como vínculo real sobre o bem dado em garantia nas dívidas garantidas por penhor, anticrese ou hipoteca.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "l11079.18",
+  "para": "cc.1421",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 18 da Lei 11.079/04 estabelece que a quitação pelo parceiro público de cada parcela de débito garantido pelo FGP importa exoneração proporcional da garantia, em sentido oposto à regra geral do art. 1.421 do Código Civil, segundo a qual o pagamento de uma ou mais prestações da dívida não importa exoneração correspondente da garantia, salvo disposição expressa no título ou na quitação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "l11079.18",
+  "para": "cc.1368-B",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso IV do § 1º do art. 18 da Lei 11.079/04 inclui a alienação fiduciária, com a posse direta dos bens permanecendo com o FGP ou com agente fiduciário, entre as modalidades de garantia do fundo, aplicando ao FGP o mesmo instituto da alienação fiduciária em garantia que o art. 1.368-B do Código Civil disciplina de modo geral, ao atribuir ao fiduciante o direito real de aquisição do bem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "l11079.18",
+  "para": "l8245.37",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 18 da Lei 11.079/04 relaciona as modalidades de garantia que o FGP pode prestar nos contratos de parceria público-privada, e o art. 37 da Lei 8.245/91 relaciona, de modo semelhante, as modalidades de garantia que o locador pode exigir do locatário, o que gera risco de se transporem indevidamente modalidades e requisitos de um regime de garantias contratuais para o outro, apesar de se tratarem de institutos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "l11101.100",
+  "para": "cpc.1009",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 100 da Lei 11.101/05 estabelece que da decisão que decreta a falência cabe agravo, excepcionando, quanto a essa decisão, a regra geral do art. 1.009 do CPC, segundo a qual da sentença cabe apelação, e reserva a apelação apenas para a sentença que julga improcedente o pedido de falência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T19:23:07+00:00"
  }
 ]
