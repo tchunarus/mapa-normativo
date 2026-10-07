@@ -12737,5 +12737,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T12:26:45+00:00"
+ },
+ {
+  "de": "cf.149-A",
+  "para": "ctn.82-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 82-A do CTN reproduz e detalha, em nível infraconstitucional, a contribuição para custeio, expansão e melhoria do serviço de iluminação pública e dos sistemas de monitoramento autorizada pelo art. 149-A da Constituição Federal, acrescentando no § 1º as definições do que se considera custeio, expansão e melhoria do serviço, ausentes no texto constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T13:27:51+00:00"
+ },
+ {
+  "de": "cf.149-A",
+  "para": "floripa_ctm.389",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 389 do CTM de Florianópolis institui uma Taxa de Iluminação Pública com base em dispositivo de Constituição anterior à atual, pois o item I do art. 18 ali mencionado não corresponde à Constituição de 1988, o que gera risco de confusão com a contribuição de que trata o art. 149-A da Constituição Federal, fundamento atualmente válido para o custeio desse serviço.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T13:27:51+00:00"
+ },
+ {
+  "de": "ctn.136",
+  "para": "floripa_ctm.44",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 44 do CTM de Florianópolis reproduz, para as infrações à legislação tributária municipal, a mesma regra de responsabilidade objetiva do art. 136 do CTN, segundo a qual a responsabilidade por infração independe da intenção do agente e da efetividade, natureza e extensão dos efeitos do ato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T13:27:51+00:00"
+ },
+ {
+  "de": "ctn.136",
+  "para": "floripa_ctm.430",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 430 do CTM de Florianópolis repete que a infração independe da intenção do agente, tal como o art. 136 do CTN, mas acrescenta que depende do conhecimento real ou presumido da sua prática, o que pode sugerir, numa primeira leitura, a reintrodução de um elemento subjetivo que o CTN dispensa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T13:27:51+00:00"
+ },
+ {
+  "de": "ctn.136",
+  "para": "sc_icms_lei.92",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 92 da Lei nº 10.297/96-SC especializa, para as infrações do capítulo de penalidades do ICMS, a mesma regra do art. 136 do CTN, ao afirmar que é irrelevante a intenção do agente ou o efeito econômico ou tributário do ato ou omissão para caracterizar a infração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T13:27:51+00:00"
+ },
+ {
+  "de": "d9580.21",
+  "para": "ctn.192",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 192 do CTN complementa a responsabilidade tributária do espólio fixada no art. 21 do RIR/2018 ao condicionar a sentença de partilha ou adjudicação à prova de quitação de todos os tributos relativos aos bens do espólio, inclusive o imposto sobre a renda ali referido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T13:27:51+00:00"
+ },
+ {
+  "de": "floripa_ctm.462",
+  "para": "l8078.59",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 462 do CTM de Florianópolis e o art. 59 do CDC preveem, cada um em seu âmbito, a interdição como sanção administrativa aplicada a quem comete infrações, o que gera risco de confusão sobre qual regime procedimental, municipal ou consumerista, disciplina a interdição em cada caso concreto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T13:27:51+00:00"
+ },
+ {
+  "de": "floripa_ctm.462",
+  "para": "cpc.748",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A interdição do art. 462 do CTM de Florianópolis nada tem a ver com a interdição por doença mental grave de que trata o art. 748 do CPC, instituto de direito civil relativo à curatela, havendo apenas coincidência terminológica entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T13:27:51+00:00"
+ },
+ {
+  "de": "floripa_ctm.500",
+  "para": "ctn.32",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 500 do CTM de Florianópolis especializa, para o Município, o fato gerador do IPTU definido no art. 32 do CTN, segundo o qual o imposto incide sobre a propriedade, o domínio útil ou a posse de imóvel urbano, conforme os critérios de zona urbana do § 1º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T13:27:51+00:00"
+ },
+ {
+  "de": "floripa_ctm.500",
+  "para": "ctn.29",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "A previsão do art. 500 do CTM de Florianópolis de que o IPTU incide sobre todos os imóveis do Município independentemente de quaisquer outros tributos cobrados pelo Governo Federal pode gerar aparente conflito com o art. 29 do CTN quanto a imóveis de destinação rural, hipótese em que a competência para tributar a propriedade é da União, por meio do ITR, e não do Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T13:27:51+00:00"
+ },
+ {
+  "de": "floripa_ctm.59",
+  "para": "ctn.173",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 59 do CTM de Florianópolis fixa o prazo de cinco anos para a homologação contado da ocorrência do fato gerador, termo inicial distinto do previsto no inciso I do art. 173 do CTN, que conta o prazo decadencial geral do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado, o que pode gerar dúvida sobre qual regra se aplica a cada tributo municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T13:27:51+00:00"
+ },
+ {
+  "de": "floripa_ctm.59",
+  "para": "ctn.156",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 59 do CTM de Florianópolis complementa o inciso VII do art. 156 do CTN, que lista o pagamento antecipado e a homologação do lançamento nos termos do disposto no artigo 150 como causa de extinção do crédito tributário, ao detalhar, no âmbito municipal, o procedimento e o prazo dessa homologação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T13:27:51+00:00"
+ },
+ {
+  "de": "floripa_ctm.67",
+  "para": "cpc.540",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "A consignação em pagamento referida no inciso VIII do art. 67 do CTM de Florianópolis, cujo procedimento o próprio artigo remete ao art. 76 do mesmo código, aplica subsidiariamente o efeito de cessação de juros e riscos previsto no art. 540 do CPC, naquilo que a legislação tributária municipal não dispuser de modo diverso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T13:27:51+00:00"
  }
 ]
