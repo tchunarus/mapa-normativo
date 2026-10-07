@@ -13667,5 +13667,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "cc.322",
+  "para": "cpc.374",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 374, inciso IV, do CPC dispensa de prova os fatos em cujo favor milita presunção legal, regra processual que confere eficácia probatória à presunção relativa de quitação das prestações anteriores estabelecida pelo art. 322 do CC, cabendo à parte interessada produzir prova em contrário para afastá-la.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "clt.767",
+  "para": "lef.16",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 767 da CLT admite a compensação ou retenção apenas como matéria de defesa na reclamação trabalhista, ao passo que o art. 16, §3º, da LEF veda expressamente a compensação nos embargos à execução fiscal, de modo que o regime de admissibilidade da compensação como defesa diverge conforme o processo seja trabalhista ou de execução fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "clt.767",
+  "para": "cpc.917",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 917, inciso IV, do CPC admite a retenção por benfeitorias como matéria alegável nos embargos à execução para entrega de coisa certa, enquanto o art. 767 da CLT restringe a retenção, de forma mais ampla, a matéria arguível apenas como defesa na reclamação trabalhista, sem admitir ação própria ou reconvenção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "clt.767",
+  "para": "cpc.336",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 336 do CPC impõe ao réu o ônus de alegar na contestação toda a matéria de defesa, e o art. 767 da CLT especializa essa regra para o processo do trabalho ao determinar que a compensação e a retenção só podem ser deduzidas como matéria de defesa, vedada sua dedução por ação própria ou reconvenção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "cpp.638",
+  "para": "cpc.1036",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 638 do CPP remete expressamente o processamento e julgamento do recurso extraordinário e do recurso especial em matéria penal à lei processual civil, o que inclui o regime de afetação de recursos repetitivos do art. 1.036 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "cpc.1036",
+  "para": "ctn.208-J",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 208-J do CTN determina o sobrestamento automático dos processos administrativos fiscais sobre a mesma questão jurídica quando o STF ou o STJ houver determinado a suspensão coletiva de processos judiciais, efeito que complementa, no âmbito administrativo, a suspensão dos processos pendentes prevista no art. 1.036 do CPC para os recursos repetitivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "cpc.1040",
+  "para": "lcp227.81",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 81, §1º, da LC 227/2026 atribui à tese fixada no incidente de uniformização de matérias repetitivas do IBS caráter de provimento vinculante a partir da publicação da súmula, de modo análogo aos efeitos que o art. 1.040 do CPC atribui ao acórdão paradigma em recursos repetitivos, ainda que em regime administrativo tributário próprio e distinto do judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "cpc.1040",
+  "para": "lcp227.323-H",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 323-H da LC 227/2026 prevê incidente de uniformização perante a Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS para matérias repetitivas, instituto análogo ao do art. 1.040 do CPC quanto à fixação e aplicação de tese vinculante, mas estruturado em órgão e procedimento próprios do contencioso administrativo tributário, distintos dos do Poder Judiciário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "cpc.1040",
+  "para": "lcp214.323-H",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 323-H da LC 214/2025 reproduz, para o contencioso administrativo do IBS e da CBS, o mesmo incidente de uniformização de matérias repetitivas do art. 323-H da LC 227/2026, análogo ao regime de aplicação da tese firmada do art. 1.040 do CPC, porém em sede administrativa e com órgão julgador próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "cpc.928",
+  "para": "ctn.208-G",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A alínea b do inciso I do art. 208-G do CTN atribui efeito vinculante, no processo administrativo fiscal, às decisões transitadas em julgado do STF ou do STJ proferidas sob a sistemática da repercussão geral ou dos recursos repetitivos, instituto que o art. 928 do CPC define como julgamento de casos repetitivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "cpc.988",
+  "para": "l9784.64-B",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 64-B da Lei 9.784/99 regula o efeito administrativo do acolhimento, pelo STF, da reclamação fundada em violação de súmula vinculante prevista no art. 988 do CPC, impondo à autoridade prolatora e ao órgão competente o dever de adequar as futuras decisões administrativas, sob pena de responsabilização pessoal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "cpc.988",
+  "para": "l9784.64-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 64-A da Lei 9.784/99 impõe à autoridade administrativa o dever de explicitar as razões de aplicabilidade ou inaplicabilidade da súmula vinculante quando alegada pelo recorrente, etapa administrativa prévia que se articula com a reclamação do art. 988 do CPC, cabível para garantir a observância do enunciado vinculante não observado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "cpc.988",
+  "para": "lcp227.86",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 86 da LC 227/2026 exige que a suscitação do incidente de uniformização no contencioso administrativo do IBS indique o provimento vinculante do CGIBS que deixou de ser aplicado pela decisão de segunda instância, mecanismo análogo ao da reclamação do art. 988 do CPC para garantir a observância de precedentes vinculantes, mas limitado ao contencioso administrativo tributário do IBS, sem relação com o Poder Judiciário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "cpc.988",
+  "para": "ctn.208-G",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 208-G do CTN atribui efeito vinculante, no processo administrativo fiscal, às súmulas vinculantes do STF e às decisões em repercussão geral ou recursos repetitivos do STF e do STJ, efeito cuja observância, no âmbito judicial, a reclamação do art. 988 do CPC está destinada a garantir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T22:22:27+00:00"
  }
 ]
