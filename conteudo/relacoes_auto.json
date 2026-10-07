@@ -13007,5 +13007,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T15:18:21+00:00"
+ },
+ {
+  "de": "d9580.979",
+  "para": "l10522.20-B",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 979 do RIR/2018 autoriza a inscrição imediata do crédito tributário em dívida ativa da União quando não pago no prazo, e o art. 20-B da Lei 10.522/02 detalha o procedimento seguinte a essa inscrição, com a notificação do devedor para pagamento em até cinco dias antes do ajuizamento da execução fiscal, integrando o mesmo regime de cobrança do crédito inscrito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T16:21:53+00:00"
+ },
+ {
+  "de": "l10522.19",
+  "para": "floripa_ctm.190-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 19 da Lei 10.522/02 dispensa a Procuradoria-Geral da Fazenda Nacional de contestar, oferecer contrarrazões e interpor recursos quando a matéria for desfavorável à Fazenda segundo jurisprudência consolidada, e o art. 190-A do Código Tributário Municipal de Florianópolis cria dispensa quase idêntica para a Procuradoria-Geral do Município, o que gera risco de confusão entre o órgão e o crédito tributário a que cada regra se aplica, um federal e outro municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T16:21:53+00:00"
+ },
+ {
+  "de": "l10522.19",
+  "para": "l8213.131",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 19 da Lei 10.522/02 autoriza a Procuradoria-Geral da Fazenda Nacional a deixar de contestar e recorrer quando a jurisprudência dos tribunais superiores for desfavorável à Fazenda, e o art. 131 da Lei 8.213/91 autoriza de modo semelhante o Ministro da Previdência a permitir que o INSS desista de ações e recursos em matéria declarada inconstitucional pelo Supremo Tribunal Federal, podendo o intérprete confundir os fundamentos e os órgãos competentes para cada dispensa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T16:21:53+00:00"
+ },
+ {
+  "de": "l13874.13",
+  "para": "l10522.19",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 13 da Lei 13.874/19 alterou expressamente a redação do art. 19 da Lei 10.522/02, que trata da dispensa de contestação e de interposição de recursos pela Procuradoria-Geral da Fazenda Nacional, conforme o próprio texto do art. 13 reproduz ao transcrever a nova redação do art. 19.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T16:21:53+00:00"
+ },
+ {
+  "de": "d9580.904",
+  "para": "l10522.19",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 904 do RIR/2018 veda a constituição de créditos tributários do imposto de renda nas matérias que sejam objeto da dispensa de atuação da Procuradoria-Geral da Fazenda Nacional, citando expressamente o art. 19 da Lei 10.522/02 como fundamento legal, de modo que o decreto regulamenta, no âmbito do imposto de renda, o mesmo instituto de dispensa previsto naquele artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T16:21:53+00:00"
+ },
+ {
+  "de": "l10522.20",
+  "para": "floripa_ctm.190-B",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 20 da Lei 10.522/02 autoriza o arquivamento, sem baixa na distribuição, das execuções fiscais federais de valor consolidado igual ou inferior ao limite fixado pelo Procurador-Geral da Fazenda Nacional, e o art. 190-B do Código Tributário Municipal de Florianópolis prevê arquivamento semelhante para as execuções fiscais municipais de valor até R$ 2.500,00, podendo o profissional confundir o limite e a autoridade competente para cada arquivamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T16:21:53+00:00"
+ },
+ {
+  "de": "l10522.20-B",
+  "para": "lef.8",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 20-B da Lei 10.522/02 prevê notificação administrativa do devedor, antes do ajuizamento, para pagamento do crédito inscrito em dívida ativa da União em até cinco dias, e o art. 8º da Lei de Execução Fiscal prevê citação judicial do executado, já no curso da execução fiscal, para pagar ou garantir a dívida no mesmo prazo de cinco dias, havendo risco real de se confundirem os dois atos de prazo igual, mas de naturezas e momentos processuais distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T16:21:53+00:00"
+ },
+ {
+  "de": "l10522.20-B",
+  "para": "ctn.185",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 185 do CTN presume fraudulenta a alienação de bens pelo devedor após a inscrição do crédito em dívida ativa, e o art. 20-B, § 3º, II, da Lei 10.522/02 complementa essa proteção ao autorizar a averbação da certidão de dívida ativa nos órgãos de registro de bens, tornando-os indisponíveis quando o devedor não paga a notificação do caput no prazo de cinco dias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T16:21:53+00:00"
+ },
+ {
+  "de": "l10522.20-C",
+  "para": "floripa_ctm.190-F",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 20-C da Lei 10.522/02 permite à Procuradoria-Geral da Fazenda Nacional condicionar o ajuizamento de execuções fiscais federais à existência de bens penhoráveis do devedor, e o art. 190-F do Código Tributário Municipal de Florianópolis autoriza o Executivo municipal a elevar por decreto os valores que dispensam o ajuizamento, a desistência ou o arquivamento de execuções fiscais municipais, ambos buscando racionalizar o ajuizamento por critérios distintos e sujeitos a confusão entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T16:21:53+00:00"
+ },
+ {
+  "de": "l10522.25",
+  "para": "lef.6",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 25 da Lei 10.522/02 autoriza que o termo de inscrição em dívida ativa, a certidão dele extraída e a petição inicial da execução fiscal sejam subscritos de forma eletrônica, e o art. 6º, § 2º, da Lei de Execução Fiscal complementa esse mesmo regime ao prever que a petição inicial e a certidão de dívida ativa podem constituir um único documento, preparado inclusive por processo eletrônico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T16:21:53+00:00"
  }
 ]
