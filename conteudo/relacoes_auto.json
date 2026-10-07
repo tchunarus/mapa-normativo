@@ -12407,5 +12407,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "cpc.799",
+  "para": "cc.1413",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 799 do CPC impõe ao exequente o dever de requerer a intimação do titular de direito de uso quando a penhora recair sobre bem gravado por esse direito real, dando efeito processual, em sede de execução, à posição jurídica do titular de uso disciplinada pelo art. 1.413 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T06:09:30+00:00"
+ },
+ {
+  "de": "cpc.799",
+  "para": "cc.1416",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 799 do CPC impõe ao exequente o dever de requerer a intimação do titular de direito de habitação quando a penhora recair sobre bem gravado por esse direito real, dando efeito processual, em sede de execução, à posição jurídica do titular de habitação disciplinada pelo art. 1.416 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T06:09:30+00:00"
+ },
+ {
+  "de": "floripa_ctm.75",
+  "para": "cc.355",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 75 do Código Tributário Municipal de Florianópolis reproduz, para os débitos tributários municipais, a ordem especial de imputação do pagamento por obrigação própria, contribuição de melhoria, taxa, imposto, prescrição e montante, afastando, nessa matéria, a regra geral de dívidas líquidas e vencidas e de maior onerosidade do art. 355 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T06:09:30+00:00"
+ },
+ {
+  "de": "cpc.858",
+  "para": "cc.355",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 858 do CPC manda abater do crédito exequendo as importâncias recebidas de dívidas penhoradas conforme as regras de imputação do pagamento, remetendo à disciplina geral que o art. 355 do Código Civil estabelece para a ordem de imputação quando o devedor e a quitação são omissos quanto à dívida a ser paga.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T06:09:30+00:00"
+ },
+ {
+  "de": "lcp214.341-A",
+  "para": "ctn.113",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 341-A da LC 214/2025 define a infração tributária relativa ao IBS e à CBS como a inobservância de obrigação tributária principal ou acessória, aplicando ao novo regime do consumo a classificação dual dessas obrigações que o art. 113 do CTN estabelece para o sistema tributário nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T06:09:30+00:00"
+ },
+ {
+  "de": "lcp227.341-A",
+  "para": "ctn.113",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 341-A da LC 227/2026 define a infração tributária relativa ao IBS e à CBS como a inobservância de obrigação tributária principal ou acessória, aplicando ao regime do consumo a classificação dual dessas obrigações que o art. 113 do CTN estabelece para o sistema tributário nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T06:09:30+00:00"
+ },
+ {
+  "de": "sc_icms_lei.91",
+  "para": "ctn.113",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 91 da Lei 10.297/96-SC define a infração tributária estadual relativa ao ICMS como o descumprimento de obrigação tributária principal ou acessória, aplicando ao imposto estadual a classificação dual dessas obrigações que o art. 113 do CTN estabelece para o sistema tributário nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T06:09:30+00:00"
+ },
+ {
+  "de": "cc.184",
+  "para": "ctn.113",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 184 do Código Civil consagra, para os negócios jurídicos em geral, a regra de que a invalidade da obrigação principal arrasta a das obrigações acessórias, mas não o inverso, o que pode ser confundido com a lógica tributária do art. 113 do CTN, cujo § 3º prevê justamente o caminho oposto, a conversão da obrigação acessória descumprida em obrigação principal relativa à penalidade pecuniária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T06:09:30+00:00"
+ },
+ {
+  "de": "lcp214.191",
+  "para": "ctn.115",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 191 da LC 214/2025 institui, para as entidades que realizam operações com serviços financeiros, obrigação acessória de prestar informações sobre essas operações, concretizando, nesse setor, a definição geral de fato gerador da obrigação acessória estabelecida no art. 115 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T06:09:30+00:00"
+ },
+ {
+  "de": "ctn.29",
+  "para": "floripa_ctm.501",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 501 do Código Tributário Municipal de Florianópolis permite que o valor do Imposto Territorial Rural, cujo fato gerador o art. 29 do CTN define pela localização do imóvel fora da zona urbana, seja aproveitado como crédito do contribuinte contra o IPTU devido sobre o mesmo período, solução municipal para o conflito aparente de competência que surge quando a classificação do imóvel como rural ou urbano é controvertida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T06:09:30+00:00"
+ },
+ {
+  "de": "d9580.146",
+  "para": "ctn.29",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 146 do RIR/2018 determina que, na alienação de imóvel rural, o custo de aquisição e o valor de venda sejam apurados com base no valor da terra nua constante do documento de apuração do Imposto Territorial Rural, tributo cujo fato gerador o art. 29 do CTN define, remetendo à base de cálculo desse imposto para fins de apuração do ganho de capital na alienação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T06:09:30+00:00"
+ },
+ {
+  "de": "ctn.70",
+  "para": "lcp116.5",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 70 do CTN e o art. 5º da LC 116/03 definem, em termos praticamente idênticos, que o contribuinte do Imposto sobre Serviços é o prestador do serviço, existindo risco de confusão sobre qual dispositivo é o efetivamente aplicável, já que a LC 116/03 é a lei complementar mais recente e específica sobre o ISS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T06:09:30+00:00"
+ },
+ {
+  "de": "ctn.70",
+  "para": "lcp87.4",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 70 do CTN atribui a condição de contribuinte do ISS ao prestador do serviço, enquanto o art. 4º da LC 87/96 atribui a condição de contribuinte do ICMS a quem realiza prestações de serviços de transporte interestadual e intermunicipal e de comunicação, de modo que a qualificação de uma prestação como sujeita a um ou outro imposto gera conflito aparente de competência entre Municípios e Estados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T06:09:30+00:00"
  }
 ]
