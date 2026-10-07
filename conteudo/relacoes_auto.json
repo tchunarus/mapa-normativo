@@ -12247,5 +12247,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "ctn.163",
+  "para": "floripa_ctm.75",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 75 do Código Tributário Municipal de Florianópolis reproduz, quase literalmente, a mesma regra de imputação do pagamento de débitos tributários do art. 163 do CTN, especializando-a para os tributos de competência do Município, com idêntica ordem de prioridade entre obrigação própria e responsabilidade, espécie de tributo, prescrição e montante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "ctn.163",
+  "para": "cc.355",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 355 do Código Civil estabelece a imputação supletiva do pagamento entre dívidas líquidas e vencidas quando o devedor não a indica, instituto civil que pode ser confundido com a imputação legal e cogente do art. 163 do CTN, a qual segue critérios próprios de natureza tributária, inaplicáveis às obrigações regidas pelo direito privado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "ctn.208",
+  "para": "floripa_ctm.195",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 195 do Código Tributário Municipal de Florianópolis reproduz, para a Fazenda Municipal, a mesma regra do art. 208 do CTN, responsabilizando pessoalmente o funcionário que expedir certidão negativa com dolo ou fraude e erro em prejuízo da Fazenda Pública, especializando a norma geral para o âmbito tributário municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "ctn.208",
+  "para": "lindb.28",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 28 da LINDB fixa a regra geral de responsabilização pessoal do agente público, exigindo dolo ou erro grosseiro em decisões ou opiniões técnicas, enquanto o art. 208 do CTN trata de hipótese específica e com padrão próprio, dolo ou fraude na expedição de certidão negativa, havendo apenas ponto de contato entre os dois regimes de responsabilização pessoal do agente público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.224",
+  "para": "cf.156",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 224 do Código Tributário Municipal de Florianópolis institui concretamente o Imposto sobre a Propriedade Predial e Territorial Urbana cuja competência o inciso I do art. 156 da Constituição Federal atribui aos Municípios, especializando essa competência com a definição do fato gerador do tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.224",
+  "para": "ctn.29",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 29 do CTN define o fato gerador do Imposto Territorial Rural a partir da localização do imóvel fora da zona urbana do Município, critério inverso e complementar ao do art. 224 do Código Tributário Municipal de Florianópolis, que exige localização na zona urbana, havendo risco real de confusão nos casos de imóvel em zona de expansão urbana ou de uso predominantemente rural dentro do perímetro urbano.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.24",
+  "para": "ctn.114",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O caput do art. 24 do Código Tributário Municipal de Florianópolis reproduz literalmente a definição de fato gerador da obrigação principal do art. 114 do CTN, especializando-a nos incisos seguintes para impostos, taxas, contribuição de melhoria e penalidade pecuniária no âmbito municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.24",
+  "para": "ctn.113",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 113 do CTN complementa o art. 24 do Código Tributário Municipal de Florianópolis ao esclarecer que a obrigação principal, cujo fato gerador este último define, surge exatamente com a ocorrência desse fato gerador e tem por objeto o pagamento de tributo ou penalidade pecuniária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.24",
+  "para": "ctn.115",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 115 do CTN define o fato gerador da obrigação acessória, instituto distinto, mas de nome semelhante ao fato gerador da obrigação principal tratado no art. 24 do Código Tributário Municipal de Florianópolis, o que pode gerar confusão quanto ao objeto e aos efeitos de cada espécie de obrigação tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.246",
+  "para": "ctn.70",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 70 do CTN define como contribuinte do Imposto sobre Serviços o prestador do serviço, regra que pode ser confundida com a do art. 246 do Código Tributário Municipal de Florianópolis, pois ambas tratam de contribuinte de impostos municipais, mas com critérios totalmente distintos, prestação de serviço contra propriedade, domínio útil ou posse do imóvel.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.246",
+  "para": "cc.1416",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.416 do Código Civil determina que as disposições relativas ao usufruto se aplicam à habitação no que não for contrário à sua natureza, complementando o parágrafo único do art. 246 do Código Tributário Municipal de Florianópolis, que atribui ao titular do direito de habitação a responsabilidade solidária pelo pagamento do imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.246",
+  "para": "cc.1413",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.413 do Código Civil determina que as disposições relativas ao usufruto se aplicam ao uso no que não for contrário à sua natureza, complementando o parágrafo único do art. 246 do Código Tributário Municipal de Florianópolis, que atribui ao titular do direito de uso a responsabilidade solidária pelo pagamento do imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.278",
+  "para": "ctn.37",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A alínea i do § 1º do art. 278 do Código Tributário Municipal de Florianópolis inclui, entre as hipóteses de incidência do ITBI, a incorporação de imóvel ao capital social quando a pessoa jurídica adquirente tiver como atividade preponderante a compra e venda, a locação ou o arrendamento mercantil de bens imóveis, complementando a exceção à imunidade prevista no art. 37 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.278",
+  "para": "lcp214.254",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 254 da LC 214/2025 fixa o fato gerador do IBS e da CBS sobre a alienação de bem imóvel e sobre a cessão ou o ato oneroso translativo de direitos reais, operações que também podem configurar fato gerador do ITBI definido no art. 278 do Código Tributário Municipal de Florianópolis, criando risco de confusão entre os tributos municipal e sobre o consumo incidentes sobre o mesmo negócio imobiliário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.279",
+  "para": "cc.1417",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.417 do Código Civil confere ao promitente comprador, mediante promessa registrada sem cláusula de arrependimento, direito real à aquisição do imóvel, complementando o inciso IV do art. 279 do Código Tributário Municipal de Florianópolis, que afasta a incidência do ITBI sobre a própria promessa de compra e venda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.279",
+  "para": "cc.1418",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.418 do Código Civil permite ao promitente comprador exigir a outorga da escritura definitiva ou requerer a adjudicação judicial do imóvel, complementando o art. 279 do Código Tributário Municipal de Florianópolis ao esclarecer o momento em que se consuma a transmissão da propriedade que efetivamente sujeita o negócio ao ITBI.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T01:09:04+00:00"
  }
 ]
