@@ -13107,5 +13107,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T16:21:53+00:00"
+ },
+ {
+  "de": "d9580.904",
+  "para": "l10522.19-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 904 do RIR/2018 dispensa a Receita Federal de constituir créditos tributários de imposto de renda decididos de modo desfavorável à Fazenda Nacional em recursos repetitivos do STF e do STJ e, no § 3º, dispensa o sujeito passivo da retenção e do recolhimento do imposto nessas hipóteses. O art. 19-A, § 2º, da Lei 10.522/02 estende esse mesmo regime de não constituição aos responsáveis pela retenção de tributos, sendo o art. 904 a regulamentação, no âmbito do imposto de renda, dessa extensão aos agentes retentores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T18:17:10+00:00"
+ },
+ {
+  "de": "d9580.904",
+  "para": "ctn.208-G",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 208-G do CTN atribui efeito vinculante, no processo administrativo fiscal, às decisões transitadas em julgado do STF e do STJ em recursos repetitivos e determina, no § 1º, que não se constitua o crédito fundado em matéria assim decidida de modo favorável ao sujeito passivo. O art. 904 do RIR/2018 é o procedimento específico, no âmbito do imposto de renda, que implementa essa vedação, com a particularidade de dispensar também a retenção na fonte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T18:17:10+00:00"
+ },
+ {
+  "de": "floripa_ctm.190-B",
+  "para": "lef.28",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 190-B do Código Tributário Municipal de Florianópolis remete expressamente ao art. 28 da Lei Federal 6.830/80 para disciplinar a reunião de processos contra o mesmo devedor que reativa os autos arquivados pelo limite de R$ 2.500,00, valendo-se do mesmo instituto da reunião de execuções por conveniência da unidade de garantia previsto na LEF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T18:17:10+00:00"
+ },
+ {
+  "de": "floripa_ctm.190-F",
+  "para": "l10522.20",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 190-F do Código Tributário Municipal de Florianópolis autoriza o Executivo municipal a elevar, por decreto, os valores que dispensam o ajuizamento, a desistência, a extinção e o arquivamento de execuções fiscais municipais, enquanto o art. 20 da Lei 10.522/02 fixa o valor, estabelecido em ato do Procurador-Geral da Fazenda Nacional, abaixo do qual as execuções fiscais federais são arquivadas sem baixa na distribuição, podendo-se confundir os dois mecanismos de fixação de patamares de dispensa, por autoridades e atos de natureza diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T18:17:10+00:00"
+ },
+ {
+  "de": "l10522.26",
+  "para": "cf.160",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 1º, I, do art. 160 da Constituição Federal permite à União condicionar a entrega de recursos aos Estados, ao Distrito Federal e aos Municípios ao pagamento de seus créditos, e o art. 26 da Lei 10.522/02 excepciona esse condicionamento ao suspender a restrição à transferência de recursos federais destinados a ações sociais ou a ações em faixa de fronteira, ainda que o ente esteja inadimplente e registrado no Cadin e no Siafi.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T18:17:10+00:00"
+ },
+ {
+  "de": "l10522.26",
+  "para": "l8212.56",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 56 da Lei 8.212/91 condiciona o recebimento, pelos Estados, pelo Distrito Federal e pelos Municípios, das transferências do FPE e do FPM à inexistência de débitos perante o INSS, e o art. 26 da Lei 10.522/02 trata de hipótese distinta de condicionamento de repasses federais, ligada à inadimplência registrada no Cadin e no Siafi, mas apenas para suspender a restrição no caso de ações sociais ou em faixa de fronteira, podendo-se confundir os dois regimes de condicionamento de transferências a entes federados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T18:17:10+00:00"
+ },
+ {
+  "de": "l10522.30",
+  "para": "floripa_ctm.473",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 30 da Lei 10.522/02 fixa, a partir de 1º de janeiro de 1997, os juros de mora dos débitos inscritos em Dívida Ativa da União pela taxa Selic acumulada mensalmente, mais um por cento no mês de pagamento, e o art. 473 do Código Tributário Municipal de Florianópolis prevê o mesmo critério de juros pela taxa Selic, mas para os créditos da Fazenda Municipal e a partir de 1º de janeiro de 1996, podendo-se confundir a data de vigência e o ente credor de cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T18:17:10+00:00"
+ },
+ {
+  "de": "l10522.30",
+  "para": "d9580.997",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 30 da Lei 10.522/02 instituiu a taxa Selic acumulada mais um por cento no mês de pagamento como juros de mora dos débitos inscritos em Dívida Ativa da União a partir de 1997, e o art. 997 do RIR/2018 prevê o mesmo critério para os créditos tributários da União em geral, mas com fundamento nos arts. 84 da Lei 8.981/95 e 61, § 3º, da Lei 9.430/96, de modo que se pode confundir qual norma disciplina a taxa aplicável em cada período de vigência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T18:17:10+00:00"
+ },
+ {
+  "de": "l10522.7",
+  "para": "ctn.151",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 7º da Lei 10.522/02 suspende o registro no Cadin quando o devedor comprova que está suspensa a exigibilidade do crédito objeto do registro, remetendo às hipóteses de suspensão da exigibilidade do crédito tributário listadas no art. 151 do CTN, como o depósito do montante integral, as impugnações e recursos administrativos e a concessão de liminar ou tutela provisória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T18:17:10+00:00"
  }
 ]
