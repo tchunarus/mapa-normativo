@@ -12537,5 +12537,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T06:09:30+00:00"
+ },
+ {
+  "de": "cc.184",
+  "para": "floripa_ctm.22",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 22 do CTM de Florianópolis reproduz, no plano municipal, a mesma classificação da obrigação tributária em principal e acessória do CTN, dissociada da regra civil de propagação da invalidade prevista no art. 184 do Código Civil. A identidade de termos entre dispositivos que tratam de institutos diferentes é fonte de confusão equivalente à existente em relação ao CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T09:16:06+00:00"
+ },
+ {
+  "de": "cpc.858",
+  "para": "cc.353",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 353 do Código Civil integra o mesmo regime de imputação do pagamento ao qual remete o art. 858 do CPC, tratando da hipótese em que o devedor aceita quitação de uma das dívidas sem indicar a qual delas o pagamento deve ser imputado, situação que pode surgir na aplicação das importâncias levantadas pelo exequente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T09:16:06+00:00"
+ },
+ {
+  "de": "cpc.858",
+  "para": "cc.1454",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.454 do Código Civil trata do penhor, direito real de garantia convencional, enquanto o art. 858 do CPC disciplina a penhora, constrição judicial em processo de execução. A proximidade fonética entre os dois institutos é causa recorrente de confusão, ainda que ambos tratem da percepção de juros e prestações periódicas pelo credor sobre o bem gravado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T09:16:06+00:00"
+ },
+ {
+  "de": "d9580.146",
+  "para": "l14973.6",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos fixam critérios de custo para apuração de ganho de capital na alienação de bem imóvel: o art. 146 do RIR/2018, na subseção própria do custo na alienação de imóvel rural, adota o valor da terra nua constante do documento de informação do ITR; o art. 6º da Lei 14.973/24, no capítulo da atualização de bens imóveis, permite ao proprietário atualizar voluntariamente o valor do imóvel para o de mercado. A coexistência dos dois critérios para o mesmo imóvel rural atualizado configura conflito aparente de normas quanto ao custo de aquisição a considerar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T09:16:06+00:00"
+ },
+ {
+  "de": "floripa_ctm.281",
+  "para": "ctn.33",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 33 do CTN fixa o valor venal do imóvel como base de cálculo do IPTU, tributo diverso do ITBI disciplinado no art. 281 do CTM. O uso do mesmo termo valor venal e, na prática municipal, de cadastro imobiliário comum aos dois impostos gera risco de confusão, ainda que o § 1º do art. 281 vincule o valor venal do ITBI ao valor da transação, e não necessariamente ao valor venal cadastral do IPTU.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T09:16:06+00:00"
  }
 ]
