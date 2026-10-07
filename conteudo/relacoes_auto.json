@@ -12677,5 +12677,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T11:19:53+00:00"
+ },
+ {
+  "de": "ctn.131",
+  "para": "d9580.21",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 21 do RIR/2018 regulamenta, para o imposto sobre a renda, a responsabilidade pessoal do sucessor a qualquer título, do cônjuge meeiro e do espólio instituída pelos incisos II e III do art. 131 do CTN, conforme a remissão expressa que faz a esse dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T12:26:45+00:00"
+ },
+ {
+  "de": "ctn.131",
+  "para": "floripa_ctm.109",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 109 do CTM de Florianópolis complementa o regime de responsabilidade tributária na sucessão do art. 131 do CTN ao condicionar a sentença de partilha ou adjudicação à prova de quitação dos tributos relativos aos bens e às rendas do espólio, assegurando por via judicial o crédito cuja responsabilidade pessoal aquele dispositivo atribui ao espólio e ao sucessor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T12:26:45+00:00"
+ },
+ {
+  "de": "floripa_ctm.391",
+  "para": "cf.149-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Há risco de confusão entre os dois dispositivos porque ambos regem o custeio da iluminação pública municipal, mas o art. 391 do CTM de Florianópolis o faz por meio de taxa, enquanto o art. 149-A da CF atribui aos Municípios e ao Distrito Federal a instituição de contribuição, de natureza jurídica distinta, para esse mesmo fim.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T12:26:45+00:00"
+ },
+ {
+  "de": "floripa_ctm.40",
+  "para": "d9580.197",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 197 do RIR/2018 regulamenta, para o imposto sobre a renda, a mesma regra de responsabilidade do adquirente de fundo de comércio ou estabelecimento prevista no art. 133 do CTN, conforme a remissão expressa que faz a esse dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T12:26:45+00:00"
+ },
+ {
+  "de": "floripa_ctm.42",
+  "para": "lef.4",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O parágrafo primeiro do art. 4º da LEF complementa o regime de responsabilidade do art. 42 do CTM de Florianópolis ao prever, para o síndico, o comissário, o liquidante, o inventariante e o administrador ali mencionados, hipótese específica de responsabilização pessoal quando alienarem ou derem em garantia bens do acervo antes de garantidos os créditos da Fazenda Pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T12:26:45+00:00"
+ },
+ {
+  "de": "floripa_ctm.45",
+  "para": "ctn.136",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 45 do CTM de Florianópolis excepciona a regra geral de responsabilidade objetiva por infrações do art. 136 do CTN ao atribuir responsabilidade pessoal ao agente nas hipóteses de dolo específico que elenca nos incisos I a III.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T12:26:45+00:00"
  }
 ]
