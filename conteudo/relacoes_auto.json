@@ -12027,5 +12027,225 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-06T23:18:43+00:00"
+ },
+ {
+  "de": "cf.167",
+  "para": "l11079.8",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 8º da Lei 11.079/2004 autoriza a vinculação de receitas como garantia em contrato de parceria público-privada apenas quando observado o disposto no inciso IV do art. 167 da Constituição Federal, remetendo expressamente a esse dispositivo para fixar o limite da vedação à vinculação de receita de impostos a órgão, fundo ou despesa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "cf.167",
+  "para": "lcp214.479",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O §1º do art. 479 da Lei Complementar 214/2025 veda a vinculação dos recursos da compensação do IBS e da CBS a órgão, fundo ou despesa, mas ressalva exatamente as mesmas hipóteses de saúde, de ensino e de garantia de débitos com a União que o §4º e o inciso IV do art. 167 da Constituição Federal já admitem como exceção à vedação geral de vinculação de receita de impostos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "cf.167",
+  "para": "adct.76-A",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 76-A do ADCT excepciona, para as receitas de impostos dos Estados e do Distrito Federal, a vedação geral à vinculação de receita de impostos a órgão, fundo ou despesa do inciso IV do art. 167 da Constituição Federal, ao autorizar a desvinculação temporária de parte dessas receitas, mas preserva expressamente os recursos de saúde e de ensino que o próprio inciso IV já ressalva.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "cf.167",
+  "para": "adct.76-B",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O §1º do art. 76-B do ADCT excepciona, para as receitas de impostos dos Municípios, a vedação à vinculação de receita a órgão, fundo ou despesa do inciso IV do art. 167 da Constituição Federal, autorizando a desvinculação temporária e escalonada de parte dessas receitas, enquanto mantém vinculados os recursos de saúde e de ensino, nos mesmos termos da ressalva já prevista naquele inciso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "cf.167",
+  "para": "adct.76",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O §4º do art. 76 do ADCT exclui da desvinculação das contribuições sociais da União as receitas destinadas ao custeio da seguridade social, preservando a vedação de desvio desses recursos para despesas distintas do regime geral de previdência social que o inciso XI do art. 167 da Constituição Federal protege, ainda que a desvinculação do ADCT recaia sobre tributo diverso do imposto a que se refere o inciso IV do mesmo artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "ctn.5",
+  "para": "floripa_ctm.196",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 196 do Código Tributário Municipal de Florianópolis especializa, para o âmbito do Município, a classificação tripartida dos tributos em impostos, taxas e contribuição de melhoria estabelecida pelo art. 5º do CTN, enumerando especificamente os impostos, as taxas e a contribuição de melhoria que compõem o sistema tributário municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "ctn.77",
+  "para": "floripa_ctm.303",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 303 do Código Tributário Municipal de Florianópolis reproduz, para as taxas municipais, a mesma definição de fato gerador do art. 77 do CTN, vinculada ao exercício do poder de polícia ou à utilização de serviço específico e divisível, e repete no parágrafo único a vedação a que a taxa tenha base de cálculo ou fato gerador idêntico ao de um imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "ctn.77",
+  "para": "floripa_ctm.391",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 391 do Código Tributário Municipal de Florianópolis institui a Taxa de Iluminação Pública tendo como fato gerador o próprio serviço de iluminação pública, que por natureza beneficia a coletividade de modo indistinto, em aparente conflito com a exigência do art. 77 do CTN de que o fato gerador da taxa seja serviço público específico e divisível, prestado ou posto à disposição de cada contribuinte individualmente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "ctn.77",
+  "para": "floripa_ctm.24",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 24 do Código Tributário Municipal de Florianópolis especializa, para a definição do fato gerador da obrigação principal no Município, o mesmo critério do art. 77 do CTN, exigindo o exercício do poder de polícia ou a utilização efetiva ou potencial do serviço público que fundamenta a instituição da taxa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "ctn.79",
+  "para": "floripa_ctm.305",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 305 do Código Tributário Municipal de Florianópolis reproduz, para as taxas municipais, os mesmos critérios do art. 79 do CTN para considerar o serviço público utilizado, específico e divisível, repetindo as mesmas alíneas sobre utilização efetiva e potencial do serviço.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "ctn.79",
+  "para": "floripa_ctm.315",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 315 do Código Tributário Municipal de Florianópolis especializa, para a Taxa de Coleta de Resíduos Sólidos, o conceito de utilização efetiva ou potencial de serviço público específico e divisível definido pelo art. 79 do CTN, ao vincular o fato gerador à prestação do serviço de coleta, transporte e destinação final de resíduos a cada contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "ctn.79",
+  "para": "l8987.13",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 13 da Lei 8.987/1995 permite que a tarifa do serviço público concedido seja diferenciada conforme os custos específicos de cada segmento de usuários, regime de remuneração contratual que pode ser confundido com a taxa, cujo fato gerador depende da divisibilidade do serviço por usuário individual nos termos do art. 79 do CTN, embora taxa e tarifa sejam espécies remuneratórias distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.189",
+  "para": "lef.3",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 3º da Lei 6.830/1980 estabelece, para a Dívida Ativa da Fazenda Pública em geral, a mesma presunção de certeza e liquidez que o art. 189 do Código Tributário Municipal de Florianópolis prevê para a dívida ativa municipal regularmente inscrita, ambos os dispositivos integrando o mesmo regime de prova pré-constituída da execução fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.189",
+  "para": "l11101.7-A",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O §4º, inciso IV, do art. 7º-A da Lei 11.101/2005 determina que o administrador judicial e o juízo falimentar respeitem a presunção de certeza e liquidez da dívida regularmente inscrita, mesmo instituto que o art. 189 do Código Tributário Municipal de Florianópolis estabelece para a dívida ativa do Município, de modo que essa presunção também se impõe aos créditos municipais habilitados em processo de falência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.189",
+  "para": "ctn.185",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 185 do CTN presume fraudulenta a alienação de bens pelo sujeito passivo em débito com a Fazenda Pública quando o crédito já estiver regularmente inscrito em dívida ativa, complementando o efeito prático da presunção de certeza e liquidez que o art. 189 do Código Tributário Municipal de Florianópolis atribui à dívida municipal inscrita.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.190",
+  "para": "ctn.142",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O §1º do art. 142 do CTN impõe responsabilidade funcional ao agente que deixar de realizar o lançamento vinculado e obrigatório do crédito tributário, no mesmo sentido em que o parágrafo único do art. 190 do Código Tributário Municipal de Florianópolis responsabiliza funcionalmente quem autorizar desconto, abatimento ou perdão indevido da dívida ativa, ambos protegendo a integridade da arrecadação municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.190",
+  "para": "ctn.208",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 208 do CTN responsabiliza pessoal e funcionalmente o funcionário que expedir certidão negativa fraudulenta em prejuízo da Fazenda Pública, no mesmo sentido em que o parágrafo único do art. 190 do Código Tributário Municipal de Florianópolis responsabiliza funcionalmente quem conceder desconto, abatimento ou perdão indevido da dívida ativa, ambos os dispositivos resguardando a integridade da dívida ativa por meio da responsabilização pessoal do agente público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.192",
+  "para": "l10522.7",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 7º da Lei 10.522/2002 suspende o registro no Cadin quando o devedor oferece garantia idônea ou tem a exigibilidade do crédito suspensa, a mesma situação de crédito garantido por penhora ou com exigibilidade suspensa que o art. 192 do Código Tributário Municipal de Florianópolis reconhece como apta a produzir os efeitos de certidão positiva com efeito de negativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.192",
+  "para": "cpc.845",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 845 do CPC disciplina o procedimento de efetivação da penhora dos bens do executado, ato processual cuja realização é precisamente a hipótese que o art. 192 do Código Tributário Municipal de Florianópolis exige para que a certidão de créditos não vencidos produza os efeitos de certidão positiva com efeito de negativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.196",
+  "para": "cf.156",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 156 da Constituição Federal outorga aos Municípios competência para instituir os impostos sobre a propriedade predial e territorial urbana, sobre a transmissão onerosa de bens imóveis e sobre serviços de qualquer natureza, e o art. 196 do Código Tributário Municipal de Florianópolis especializa essa competência ao enumerar exatamente esses três impostos entre os tributos do sistema tributário municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.196",
+  "para": "ctn.35",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 35 do CTN define o fato gerador do imposto sobre a transmissão onerosa de bens imóveis por ato entre vivos, e o art. 196 do Código Tributário Municipal de Florianópolis especializa essa definição ao incluir, na alínea c do inciso I, exatamente esse imposto entre os tributos que compõem o sistema tributário do Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.196",
+  "para": "ctn.163",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 163 do CTN complementa a enumeração dos tributos municipais do art. 196 do Código Tributário Municipal de Florianópolis ao estabelecer a ordem de imputação do pagamento quando o mesmo sujeito passivo tiver mais de um débito, priorizando a contribuição de melhoria, depois a taxa e por fim o imposto, as mesmas três espécies tributárias ali enumeradas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T00:18:31+00:00"
  }
 ]
