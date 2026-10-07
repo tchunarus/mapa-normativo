@@ -13807,5 +13807,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T22:22:27+00:00"
+ },
+ {
+  "de": "cpc.336",
+  "para": "l9099.30",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 30 da Lei 9.099/95 exige que a contestação, oral ou escrita, contenha toda matéria de defesa, repetindo para o rito sumaríssimo dos juizados especiais o mesmo princípio de concentração da defesa do art. 336 do CPC, com a ressalva de que a arguição de suspeição ou impedimento do juiz segue procedimento próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T23:18:29+00:00"
+ },
+ {
+  "de": "cpc.336",
+  "para": "lef.16",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 16, § 2º, da LEF impõe ao executado, nos embargos à execução fiscal, o mesmo ônus de concentração da defesa do art. 336 do CPC, exigindo que alegue toda matéria útil e requeira as provas logo na peça de embargos, ainda que em procedimento próprio e distinto da contestação do processo comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T23:18:29+00:00"
+ },
+ {
+  "de": "cpc.374",
+  "para": "ctn.204",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 204 do CTN detalha uma hipótese concreta da presunção legal referida no inciso IV do art. 374 do CPC, ao atribuir à dívida ativa regularmente inscrita presunção de certeza e liquidez que dispensa prova, ressalvada a prova inequívoca em contrário a cargo do sujeito passivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T23:18:29+00:00"
+ },
+ {
+  "de": "cpc.374",
+  "para": "lef.3",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 3º da LEF reproduz, para a execução fiscal, a mesma presunção de certeza e liquidez da dívida ativa regularmente inscrita, hipótese concreta da presunção legal referida no inciso IV do art. 374 do CPC, cabendo ao executado ilidi-la por prova inequívoca.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T23:18:29+00:00"
+ },
+ {
+  "de": "cpc.374",
+  "para": "floripa_ctm.189",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 189 do CTM de Florianópolis atribui à dívida municipal regularmente inscrita a mesma presunção de certeza e liquidez do art. 204 do CTN, hipótese concreta da presunção legal referida no inciso IV do art. 374 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T23:18:29+00:00"
+ },
+ {
+  "de": "cpp.638",
+  "para": "cpc.1029",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 638 do CPP remete expressamente à lei processual civil para o processamento do recurso extraordinário e do recurso especial em matéria penal, e o art. 1.029 do CPC é a norma que disciplina os requisitos e a forma de interposição desses recursos perante o tribunal recorrido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T23:18:29+00:00"
+ },
+ {
+  "de": "cpp.638",
+  "para": "cpc.1034",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 638 do CPP determina que o recurso extraordinário e o recurso especial sejam julgados na forma da lei processual civil, e o art. 1.034 do CPC é a norma que disciplina o julgamento desses recursos pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T23:18:29+00:00"
+ },
+ {
+  "de": "ctn.208-J",
+  "para": "cpc.1037",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O sobrestamento automático dos processos administrativos fiscais previsto no art. 208-J do CTN pressupõe a decisão de afetação de recursos repetitivos de que trata o art. 1.037 do CPC, que determina a suspensão dos processos pendentes que versem sobre a mesma questão jurídica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T23:18:29+00:00"
+ },
+ {
+  "de": "ctn.208-J",
+  "para": "lcp227.74",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 208-J do CTN cuida do sobrestamento automático do processo administrativo fiscal enquanto pendente o julgamento do precedente qualificado, e o art. 74 da LC 227/2026 complementa esse mesmo regime, determinando a aplicação direta, no processo administrativo tributário, das súmulas vinculantes e das decisões do STF em controle concentrado já formadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T23:18:29+00:00"
+ },
+ {
+  "de": "l11101.154",
+  "para": "cpc.550",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 154 da Lei 11.101/05 especializa, para a prestação de contas do administrador judicial no processo falimentar, o procedimento geral da ação de exigir contas do art. 550 do CPC, dispensando ação autônoma e prevendo impugnação pelos interessados e parecer do Ministério Público dentro do próprio processo de falência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T23:18:29+00:00"
+ },
+ {
+  "de": "l11101.167-L",
+  "para": "cpc.294",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 167-L da Lei 11.101/05 autoriza a concessão liminar de tutela provisória fundada em urgência ou evidência no processo de insolvência transnacional, valendo-se da mesma classificação criada pelo art. 294 do CPC, que se aplica subsidiariamente para definir essas categorias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T23:18:29+00:00"
  }
 ]
