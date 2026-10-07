@@ -12947,5 +12947,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T14:22:31+00:00"
+ },
+ {
+  "de": "ctn.112",
+  "para": "floripa_ctm.20",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 20 do Código Tributário Municipal de Florianópolis reproduz, para a legislação tributária municipal, a mesma regra de interpretação mais favorável ao acusado em caso de dúvida quanto à capitulação legal, à natureza do fato, à autoria, imputabilidade ou punibilidade e à natureza ou graduação da penalidade, fixada pelo art. 112 do CTN como norma geral aplicável a todos os entes federados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T15:18:21+00:00"
+ },
+ {
+  "de": "floripa_ctm.84",
+  "para": "ctn.173",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 84 do Código Tributário Municipal de Florianópolis fixa prazo de cinco anos para a decadência do direito do contribuinte pleitear a restituição do indébito, enquanto o art. 173 do CTN fixa o mesmo prazo para a decadência do direito da Fazenda Pública constituir o crédito tributário por lançamento. Os dois prazos têm titulares e termos iniciais opostos, mas a identidade do prazo e a proximidade redacional geram risco real de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T15:18:21+00:00"
+ },
+ {
+  "de": "floripa_ctm.91",
+  "para": "ctn.168",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 91 do Código Tributário Municipal de Florianópolis fixa prazo de cinco anos para a decadência do direito da Fazenda Municipal constituir o crédito tributário, enquanto o art. 168 do CTN fixa o mesmo prazo para a decadência do direito do contribuinte pleitear a restituição do tributo pago indevidamente. Os titulares do direito e os termos iniciais da contagem são opostos, o que cria risco real de confusão entre os dois prazos decadenciais de cinco anos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T15:18:21+00:00"
+ },
+ {
+  "de": "floripa_ctm.92",
+  "para": "ctn.173",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 92 do Código Tributário Municipal de Florianópolis regula a prescrição da ação de cobrança do crédito tributário, contada da constituição definitiva do crédito, enquanto o art. 173 do CTN regula a decadência do direito de constituir esse mesmo crédito pelo lançamento. Ambos os prazos são de cinco anos e dizem respeito ao crédito tributário, mas tratam de institutos distintos, decadência e prescrição, o que gera risco real de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T15:18:21+00:00"
+ },
+ {
+  "de": "ctn.170-A",
+  "para": "floripa_ctm.88",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 170-A do CTN veda a compensação de tributo objeto de contestação judicial pelo sujeito passivo antes do trânsito em julgado da decisão. Como norma geral de direito tributário vinculante a todos os entes federados, essa vedação excepciona a autorização de compensação de créditos tributários que o art. 88 do Código Tributário Municipal de Florianópolis concede à Fazenda Municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T15:18:21+00:00"
+ },
+ {
+  "de": "l10522.12",
+  "para": "d9580.979",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 12 da Lei 10.522/02 atribui efeito de confissão de dívida e instrumento hábil e suficiente para a exigência do crédito tributário ao pedido de parcelamento deferido, enquanto o art. 979, § 1º, do RIR/2018 atribui o mesmo efeito ao documento que formaliza o cumprimento de obrigação acessória e comunica a existência de crédito tributário. São fatos geradores distintos desse efeito, o que gera risco de confusão entre as duas hipóteses de confissão de dívida tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T15:18:21+00:00"
  }
 ]
