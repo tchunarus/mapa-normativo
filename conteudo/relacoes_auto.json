@@ -13357,5 +13357,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T19:23:07+00:00"
+ },
+ {
+  "de": "cc.1421",
+  "para": "ctn.158",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos empregam fórmula verbal semelhante (o pagamento não importa determinado efeito), o que pode induzir à leitura equivocada de que tratam do mesmo instituto. O art. 1.421 do Código Civil cuida da indivisibilidade da garantia real, estabelecendo que o pagamento de uma ou mais prestações da dívida não exonera proporcionalmente a garantia que recai sobre vários bens. Já o art. 158 do CTN trata da presunção de pagamento de créditos tributários, dispondo que o pagamento parcial de um crédito não presume o pagamento das demais prestações, nem o pagamento total presume o de outros créditos. São institutos distintos, garantia real e presunção de quitação tributária, apesar da semelhança redacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "cc.1421",
+  "para": "floripa_ctm.69",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 69 do CTM de Florianópolis reproduz redação idêntica à do art. 158 do CTN, dispondo que o pagamento de um crédito não importa em presunção de pagamento de outras prestações ou de outros créditos tributários. Essa fórmula verbal (pagamento que não importa determinado efeito) é semelhante à do art. 1.421 do Código Civil, que trata da indivisibilidade da garantia real, segundo a qual o pagamento de prestações da dívida não exonera proporcionalmente a garantia. Apesar da semelhança textual, os dispositivos cuidam de institutos distintos, o que gera risco de confusão para quem os lê isoladamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "cpc.1009",
+  "para": "l11101.135",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 135 da Lei 11.101/05 dispõe que da sentença que julga procedente a ação revocatória cabe apelação, aplicando a essa sentença falimentar a regra geral do art. 1.009, caput, do CPC, segundo a qual da sentença cabe apelação. O dispositivo falimentar complementa a regra processual geral, confirmando a sua incidência nessa hipótese específica, sem criar recurso distinto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "cpc.927",
+  "para": "cf.103-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 103-A da Constituição Federal institui a súmula vinculante, dispondo sobre sua aprovação pelo Supremo Tribunal Federal e seu efeito vinculante em relação aos demais órgãos do Poder Judiciário. O inciso II do art. 927 do CPC complementa essa norma constitucional ao impor aos juízes e tribunais o dever processual de observar os enunciados de súmula vinculante no julgamento dos casos concretos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "cpc.927",
+  "para": "clt.896-B",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 927, III, do CPC determina que juízes e tribunais observem os acórdãos proferidos em julgamento de recursos extraordinário e especial repetitivos. O art. 896-B da CLT especializa essa mesma sistemática para o processo do trabalho, determinando que se apliquem ao recurso de revista, no que couber, as normas do CPC relativas ao julgamento desses recursos repetitivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "cpc.927",
+  "para": "clt.896-C",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 896-C da CLT cria, para o recurso de revista, mecanismo de afetação de recursos representativos de controvérsia quando houver multiplicidade de recursos fundados em idêntica questão de direito, especializando para a Justiça do Trabalho a lógica dos precedentes obrigatórios em matéria de recursos repetitivos a que se refere o inciso III do art. 927 do CPC, ainda que por procedimento próprio e não pela aplicação direta do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "l10522.14-D",
+  "para": "l8212.56",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 56 da Lei 8.212/91 condiciona o recebimento, por Estados, Distrito Federal e Municípios, das transferências do FPE e do FPM à inexistência de débitos perante o INSS. O art. 14-D da Lei 10.522/02 complementa esse regime ao disciplinar a hipótese em que o débito previdenciário existe mas está parcelado, autorizando a retenção do FPE ou do FPM como garantia das parcelas, em vez de impedir integralmente a transferência dos recursos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "l10522.14-D",
+  "para": "adct.117",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos tratam de parcelamento de dívida de ente federativo com autorização de retenção ou vinculação do Fundo de Participação dos Municípios como garantia, o que pode levar à confusão entre os regimes. O art. 14-D da Lei 10.522/02 trata do parcelamento de débitos previdenciários de Estados, Distrito Federal e Municípios perante a União, com retenção do FPE ou do FPM. Já o art. 117 do ADCT trata de parcelamento distinto, relativo aos débitos de que tratam os arts. 115, 116 e 116-A do próprio ADCT, condicionado à vinculação do FPM para pagamento das prestações. São regimes de parcelamento diferentes, de natureza e fundamento distintos, apesar da semelhança estrutural.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "l11101.116",
+  "para": "cc.708",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 708 do Código Civil assegura ao comissário o direito de retenção sobre os bens e valores em seu poder em virtude da comissão, para reembolso de despesas e recebimento de comissões devidas. O inciso I do art. 116 da Lei 11.101/05 excepciona o exercício desse direito de retenção quando o bem estiver sujeito à arrecadação na falência, determinando sua entrega ao administrador judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "l11101.116",
+  "para": "lsa.221",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 221 da Lei das Sociedades Anônimas assegura ao sócio dissidente da transformação societária o direito de retirar-se da sociedade. O inciso II do art. 116 da Lei 11.101/05 excepciona esse direito ao determinar que a decretação da falência da sociedade suspende o exercício do direito de retirada pelos sócios da sociedade falida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "l11101.116",
+  "para": "cpc.599",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 599 do CPC disciplina a ação de dissolução parcial de sociedade, que pode ter por objeto a apuração dos haveres do sócio que exerceu o direito de retirada ou recesso. O inciso II do art. 116 da Lei 11.101/05 excepciona o exercício desse direito ao suspendê-lo, juntamente com o direito de recebimento do valor das quotas ou ações, quando decretada a falência da sociedade de que o sócio participa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "l11101.123",
+  "para": "cc.1031",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 1.031 do Código Civil estabelece a regra geral de apuração de haveres do sócio cuja participação na sociedade se resolve, com base na situação patrimonial da sociedade apurada em balanço especial, salvo disposição contratual em contrário. O § 1º do art. 123 da Lei 11.101/05 aplica subsidiariamente essa mesma lógica aos haveres do sócio falido, determinando que a apuração se faça judicialmente quando o contrato ou o estatuto social nada disciplinarem a respeito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "l11101.123",
+  "para": "cpc.609",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 609 do CPC disciplina o pagamento dos haveres apurados, conforme disciplinar o contrato social ou, no silêncio deste, nos termos do § 2º do art. 1.031 do Código Civil. Esse dispositivo processual dá seguimento ao procedimento de apuração judicial dos haveres do sócio falido referido no § 1º do art. 123 da Lei 11.101/05, regulando a fase de pagamento do valor apurado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "l11101.129",
+  "para": "cc.1145",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1.145 do Código Civil condiciona a eficácia da alienação de estabelecimento, quando ao alienante não restarem bens suficientes para solver o seu passivo, ao pagamento de todos os credores ou ao consentimento destes, de modo expresso ou tácito, no prazo de trinta dias a partir da notificação. O inciso VI do art. 129 da Lei 11.101/05 especializa essa mesma regra para o processo falimentar, declarando ineficaz em relação à massa falida a venda ou transferência de estabelecimento feita sem o consentimento expresso ou o pagamento de todos os credores, nas mesmas condições de insuficiência patrimonial e no mesmo prazo de trinta dias para oposição dos credores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T20:19:38+00:00"
  }
 ]
