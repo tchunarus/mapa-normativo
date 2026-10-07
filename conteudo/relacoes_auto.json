@@ -12587,5 +12587,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T09:16:06+00:00"
+ },
+ {
+  "de": "ctn.33",
+  "para": "floripa_ctm.239",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 239 do CTM de Florianópolis reproduz, para o IPTU municipal, a mesma regra de exclusão da base de cálculo do art. 33, parágrafo único, do CTN, afastando do valor venal do imóvel os bens móveis nele mantidos, em caráter permanente ou temporário, para utilização, aformoseamento ou comodidade, variando apenas a palavra exploração para expansão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T10:18:09+00:00"
+ },
+ {
+  "de": "ctn.33",
+  "para": "floripa_ctm.231",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 231 do CTM de Florianópolis especializa, para o IPTU do município, a regra geral do art. 33, caput, do CTN, segundo a qual a base de cálculo do imposto sobre a propriedade predial e territorial urbana corresponde ao valor venal do imóvel tributado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T10:18:09+00:00"
+ },
+ {
+  "de": "floripa_ctm.22",
+  "para": "ctn.113",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 22 do CTM de Florianópolis reproduz, no âmbito municipal, a distinção do art. 113 do CTN entre obrigação tributária principal e acessória, inclusive a regra do seu parágrafo terceiro segundo a qual o descumprimento da obrigação acessória a converte em obrigação principal quanto à penalidade pecuniária, variando apenas a referência aos tributos municipais em vez de tributos em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T10:18:09+00:00"
+ },
+ {
+  "de": "floripa_ctm.315",
+  "para": "ctn.77",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 315 do CTM de Florianópolis institui a Taxa de Coleta de Resíduos Sólidos com fato gerador na utilização efetiva ou potencial do serviço público de coleta, transporte e destinação final de resíduos sólidos, prestados ao contribuinte ou postos à sua disposição, especializando para esse serviço municipal a regra geral do art. 77 do CTN sobre o fato gerador das taxas vinculado à utilização efetiva ou potencial de serviço público específico e divisível.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T10:18:09+00:00"
+ },
+ {
+  "de": "floripa_ctm.32",
+  "para": "cc.264",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 32 do CTM de Florianópolis define hipóteses de solidariedade passiva na obrigação tributária municipal, aplicando ao campo tributário a estrutura geral da solidariedade definida no art. 264 do Código Civil, segundo a qual cada codevedor responde pela dívida toda perante o credor, mas especializa esse instituto ao definir como solidariamente obrigados quem tenha interesse comum no fato gerador ou seja designado por lei tributária, e ao excluir expressamente, no parágrafo único, o benefício de ordem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T10:18:09+00:00"
+ },
+ {
+  "de": "floripa_ctm.33",
+  "para": "cc.204",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso terceiro do art. 33 do CTM de Florianópolis, ao prever que a interrupção da prescrição em favor ou contra um dos obrigados solidários favorece ou prejudica os demais, especializa para a obrigação tributária municipal a mesma regra do art. 204 do Código Civil, segundo a qual a interrupção da prescrição por um dos credores solidários ou contra o devedor solidário se estende aos demais coobrigados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T10:18:09+00:00"
  }
 ]
