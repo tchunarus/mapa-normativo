@@ -13497,5 +13497,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T20:19:38+00:00"
+ },
+ {
+  "de": "adct.117",
+  "para": "cf.167",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 117 do ADCT remete expressamente ao § 4º do art. 167 da Constituição Federal como fundamento da autorização de vinculação do Fundo de Participação dos Municípios, colocada em primeiro lugar na ordem de preferência do inciso I (garantia ou contragarantia à União). O art. 167, inciso IV, veda em regra a vinculação de receita de impostos, ressalvadas as exceções nele previstas, entre as quais o art. 117 do ADCT situa essa modalidade de garantia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "cc.1145",
+  "para": "ctn.133",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.145 do Código Civil condiciona a eficácia da alienação do estabelecimento, quando ao alienante não restam bens suficientes para solver o passivo, ao pagamento ou consentimento de todos os credores em trinta dias. O art. 133 do CTN trata de consequência diversa da mesma aquisição de fundo de comércio ou estabelecimento, a responsabilidade tributária do adquirente pelos tributos devidos até a data do ato, integral ou subsidiária conforme os incisos I e II. Os dois dispositivos regulam efeitos distintos do mesmo negócio e podem ser confundidos quanto ao alcance da proteção que oferecem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "cc.1145",
+  "para": "floripa_ctm.40",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 40 do CTM de Florianópolis reproduz, para os tributos municipais, a mesma regra de responsabilidade tributária do adquirente de fundo de comércio ou estabelecimento do art. 133 do CTN, distinta da eficácia civil da alienação perante credores tratada no art. 1.145 do Código Civil. Há risco de se supor que a quitação exigida pelo art. 1.145 do Código Civil também libera o adquirente da responsabilidade tributária municipal, quando se trata de regimes autônomos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "cc.708",
+  "para": "cpc.793",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 708 do Código Civil institui o direito de retenção do comissário sobre bens e valores em seu poder. O art. 793 do CPC disciplina o procedimento de quem exerce direito de retenção na qualidade de exequente, vedando a execução sobre outros bens do devedor antes de excutida a coisa retida, dando efeito processual ao direito material previsto no art. 708.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "cc.708",
+  "para": "clt.767",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 708 do Código Civil trata do direito de retenção do comissário sobre bens e valores em seu poder, instituto de garantia de natureza civil. O art. 767 da CLT emprega o termo retenção em contexto diverso, o da compensação ou retenção que só pode ser arguida como matéria de defesa no processo do trabalho, sem relação com o direito real de garantia do art. 708. A coincidência terminológica gera risco de se confundirem os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "cf.103-A",
+  "para": "ctn.208-G",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 103-A da Constituição Federal institui a súmula vinculante do Supremo Tribunal Federal. A alínea a do inciso I do art. 208-G do CTN integra essa súmula, nos termos do art. 103-A citado expressamente no dispositivo, ao rol de pronunciamentos com efeito vinculante no âmbito do processo administrativo fiscal, detalhando a aplicação do instituto constitucional nesse processo específico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "cf.103-A",
+  "para": "cpc.988",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 103-A da Constituição Federal institui a reclamação ao Supremo Tribunal Federal contra ato administrativo ou decisão judicial que contrariar ou aplicar indevidamente súmula vinculante. O inciso III do art. 988 do CPC regulamenta o cabimento dessa reclamação no processo civil, ao prever o cabimento da reclamação para garantir a observância de enunciado de súmula vinculante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "cf.103-A",
+  "para": "l9784.64-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 103-A da Constituição Federal confere efeito vinculante à súmula do Supremo Tribunal Federal em relação à administração pública direta e indireta. O art. 64-A da Lei 9.784/99 complementa esse efeito no processo administrativo federal, ao impor ao órgão competente para decidir o recurso o dever de explicitar as razões da aplicabilidade ou inaplicabilidade da súmula vinculante alegada pelo recorrente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "cf.103-A",
+  "para": "l9784.64-B",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 103-A da Constituição Federal institui, no § 3º, a reclamação ao Supremo Tribunal Federal contra ato administrativo que contrariar súmula vinculante. O art. 64-B da Lei 9.784/99 complementa esse regime ao determinar que, acolhida a reclamação, dar-se-á ciência à autoridade prolatora e ao órgão competente para o julgamento do recurso, que deverão adequar as futuras decisões administrativas em casos semelhantes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "clt.896-B",
+  "para": "cpc.928",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 896-B da CLT determina a aplicação, no que couber, das normas do CPC relativas ao julgamento dos recursos extraordinário e especial repetitivos ao recurso de revista, aplicação subsidiária que só ocorre nas lacunas da disciplina trabalhista. O art. 928 do CPC define o que se considera julgamento de casos repetitivos, conceito pressuposto pela remissão feita no art. 896-B da CLT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "clt.896-C",
+  "para": "cpc.1036",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 896-C da CLT regula, para o recurso de revista, a afetação de processos repetitivos quando houver multiplicidade de recursos fundados em idêntica questão de direito, com procedimento próprio para a Justiça do Trabalho. O art. 1.036 do CPC disciplina o mesmo instituto da afetação por amostragem para os recursos extraordinário e especial repetitivos no processo civil, servindo de modelo que o art. 896-C da CLT especializa para o processo do trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "clt.896-C",
+  "para": "cpc.1040",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 11 do art. 896-C da CLT determina que, publicado o acórdão do Tribunal Superior do Trabalho, os recursos de revista sobrestados na origem terão seguimento denegado ou serão reexaminados conforme a coincidência com a orientação firmada, regra que especializa para a Justiça do Trabalho o mesmo mecanismo previsto nos incisos I e II do art. 1.040 do CPC para os recursos extraordinário e especial repetitivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "ctn.158",
+  "para": "floripa_ctm.69",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 158 do CTN, norma geral de direito tributário editada como lei complementar, dispõe que o pagamento de um crédito não importa presunção de pagamento de outras prestações do mesmo crédito nem de outros créditos tributários. O art. 69 do CTM de Florianópolis reproduz, para os tributos municipais, a mesma regra geral, complementando sua aplicação no âmbito da fazenda municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "ctn.158",
+  "para": "lef.3",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 158 do CTN trata da ausência de presunção de pagamento de prestações ou de outros créditos tributários quando há pagamento parcial ou total de um crédito. O art. 3º da LEF cuida de presunção diversa, a de certeza e liquidez da dívida ativa regularmente inscrita. O uso da palavra presunção em ambos, em contexto tributário, pode levar à confusão entre os dois institutos, que não se equivalem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "ctn.158",
+  "para": "cc.322",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 158 do CTN estabelece que o pagamento parcial de um crédito tributário não presume o pagamento das demais prestações em que este se decomponha. O art. 322 do Código Civil estabelece, para obrigações civis, a presunção inversa, a de que a quitação da última parcela faz presumir quitadas as anteriores. A proximidade do tema (presunção de pagamento em prestações periódicas) gera risco de se aplicar por analogia ao crédito tributário a presunção civil que o CTN expressamente afasta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "floripa_ctm.69",
+  "para": "lef.3",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 69 do CTM de Florianópolis trata da ausência de presunção de pagamento de outras prestações ou créditos tributários quando há pagamento parcial ou total de um crédito. O art. 3º da LEF cuida de presunção diversa, a de certeza e liquidez da dívida ativa regularmente inscrita. O uso da palavra presunção em ambos, em contexto tributário, pode levar à confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
+ },
+ {
+  "de": "floripa_ctm.69",
+  "para": "cc.322",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 69 do CTM de Florianópolis estabelece que o pagamento parcial de um crédito tributário não presume o pagamento das demais prestações em que este se decomponha. O art. 322 do Código Civil estabelece, para obrigações civis, a presunção inversa, a de que a quitação da última parcela faz presumir quitadas as anteriores. A proximidade do tema gera risco de se aplicar por analogia ao crédito tributário municipal a presunção civil que o CTM expressamente afasta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T21:17:17+00:00"
  }
 ]
