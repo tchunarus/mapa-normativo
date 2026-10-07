@@ -12867,5 +12867,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T13:27:51+00:00"
+ },
+ {
+  "de": "ctn.82-A",
+  "para": "lcp227.82-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos trazem redação idêntica sobre a contribuição para custeio da iluminação pública e dos sistemas de monitoramento de segurança, o que cria risco real de confusão sobre qual diploma, o Código Tributário Nacional ou a Lei Complementar 227 de 2026, deve ser citado como fonte vigente da competência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T14:22:31+00:00"
+ },
+ {
+  "de": "ctn.82-A",
+  "para": "floripa_ctm.389",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CTN instituiu, a partir do art. 149-A da Constituição, uma contribuição para custeio da iluminação pública, e o art. 389 do Código Tributário de Florianópolis mantém uma taxa municipal com a mesma finalidade, o que gera risco de confusão entre os dois institutos, já que o Supremo Tribunal Federal considera inconstitucional cobrar taxa por serviço de iluminação pública, por não ser este específico e divisível.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T14:22:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.430",
+  "para": "ctn.113",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O caput do art. 430 pune a inobservância de obrigação tributária positiva ou negativa, terminologia que corresponde à distinção do § 2º do art. 113 do CTN entre obrigação principal e acessória, cujo descumprimento se converte em obrigação principal quanto à penalidade pecuniária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T14:22:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.430",
+  "para": "lcp214.341-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 430 do Código Tributário de Florianópolis e o art. 341-A da Lei Complementar 214 de 2025 definem infração tributária em termos quase idênticos, ação ou omissão que descumpre obrigação tributária, mas em regimes distintos, o ISS e as taxas municipais de um lado e o IBS e a CBS de outro, o que pode levar à aplicação indevida de um regime ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T14:22:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.430",
+  "para": "sc_icms_lei.91",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 430 do Código Tributário de Florianópolis e o art. 91 da Lei 10.297 de 1996 de Santa Catarina definem infração tributária com a mesma estrutura, ação ou omissão que descumpre obrigação tributária, principal ou acessória, mas um dispositivo rege o ICMS estadual e o outro os tributos municipais, o que exige atenção ao aplicar precedentes de uma esfera à outra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T14:22:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.44",
+  "para": "ctn.112",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 44 do Código Tributário de Florianópolis fixa a responsabilidade objetiva por infração tributária, e o art. 112 do CTN complementa esse regime ao determinar que a lei que define infrações ou comina penalidades seja interpretada de modo mais favorável ao acusado em caso de dúvida sobre a autoria ou a natureza do fato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T14:22:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.78",
+  "para": "l10522.14",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 78 do Código Tributário de Florianópolis e o art. 14 da Lei 10.522 de 2002 são leis específicas de parcelamento, mas cada uma rege apenas a sua própria esfera, a municipal e a federal, de modo que as vedações e condições de uma não se aplicam automaticamente a créditos tributários regidos pela outra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T14:22:31+00:00"
+ },
+ {
+  "de": "floripa_ctm.81",
+  "para": "ctn.167",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 81 do Código Tributário de Florianópolis trata apenas da restituição do tributo, e o art. 167 do CTN, ao determinar a restituição proporcional dos juros de mora e das penalidades pecuniárias, aplica-se subsidiariamente para completar os efeitos da restituição no regime municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-07T14:22:31+00:00"
  }
 ]
