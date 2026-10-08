@@ -13917,5 +13917,205 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-07T23:18:29+00:00"
+ },
+ {
+  "de": "cpc.1029",
+  "para": "cf.102",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 102, III, e o § 3º da Constituição Federal fixam as hipóteses de cabimento do recurso extraordinário perante o Supremo Tribunal Federal e a exigência de repercussão geral; o art. 1.029, II, do CPC disciplina a forma de demonstrar, na petição recursal, o cabimento desse recurso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.1029",
+  "para": "cf.105",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 105, III, e os §§ 2º e 3º da Constituição Federal fixam as hipóteses de cabimento do recurso especial perante o Superior Tribunal de Justiça e a exigência de demonstração de relevância; o art. 1.029 do CPC disciplina a forma de interposição e fundamentação desse recurso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.1029",
+  "para": "l12016.18",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 18 da Lei 12.016/09 estabelece o cabimento de recurso especial e extraordinário contra decisão de mandado de segurança proferida em única instância pelos tribunais; a interposição desses recursos segue os requisitos de conteúdo do art. 1.029 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.1029",
+  "para": "d70235.37",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 2º do art. 37 do Decreto 70.235/72 prevê o recurso especial à Câmara Superior de Recursos Fiscais, recurso administrativo fiscal distinto do recurso especial ao Superior Tribunal de Justiça disciplinado pelo art. 1.029 do CPC, apesar do nome idêntico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.1034",
+  "para": "ctn.208-G",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.034 do CPC rege o julgamento do recurso extraordinário ou especial admitido pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça; a alínea b do inciso I do art. 208-G do CTN estende efeito vinculante, no processo administrativo fiscal, às decisões transitadas em julgado proferidas sob a sistemática da repercussão geral ou dos recursos repetitivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.1037",
+  "para": "clt.896-B",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 896-B da CLT determina que se apliquem ao recurso de revista, no que couber, as normas do CPC relativas ao julgamento dos recursos extraordinário e especial repetitivos, entre as quais a afetação disciplinada pelo art. 1.037 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.1037",
+  "para": "clt.896-C",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 896-C da CLT institui, para o recurso de revista, procedimento próprio de afetação por multiplicidade de recursos fundados em idêntica questão de direito e de suspensão dos feitos idênticos, paralelo mas autônomo em relação à afetação de recursos repetitivos do art. 1.037 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.1037",
+  "para": "lcp227.74",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 74 da LC 227/2026 determina a observância, no processo administrativo tributário do IBS e da CBS, das decisões do Supremo Tribunal Federal e do Superior Tribunal de Justiça proferidas na sistemática da repercussão geral ou dos recursos repetitivos, citando expressamente os arts. 1.036 a 1.041 do CPC, entre os quais o art. 1.037.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.294",
+  "para": "ctn.161",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 161 do CTN dispõe que a propositura de ação na qual foi concedida medida liminar ou tutela provisória interrompe a incidência da multa de mora; esse efeito tributário pressupõe a tutela provisória de que trata o art. 294 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.294",
+  "para": "l8036.29-B",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 29-B da Lei 8.036/90 veda a concessão de medida liminar ou de tutela antecipada que implique saque ou movimentação da conta vinculada do FGTS, excepcionando, para essa hipótese, a regra geral de cabimento da tutela provisória do art. 294 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.294",
+  "para": "l9307.22-A",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 22-A da Lei 9.307/96 permite às partes recorrer ao Poder Judiciário para a concessão de medida cautelar ou de urgência antes de instituída a arbitragem, regra especial de competência para a tutela provisória de que trata o art. 294 do CPC quando a causa é submetida à arbitragem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.294",
+  "para": "l9307.22-B",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 22-B da Lei 9.307/96 atribui aos árbitros, uma vez instituída a arbitragem, a competência para manter, modificar ou revogar a medida cautelar ou de urgência antes concedida pelo Poder Judiciário, regra especial de competência para a tutela provisória de que trata o art. 294 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.294",
+  "para": "cc.1774",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.774 do CC trata da tutela como instituto de direito de família, de proteção de menores, com as regras aplicáveis à curatela, instituto distinto da tutela provisória de urgência ou evidência regulada pelo art. 294 do CPC, apesar do nome idêntico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.550",
+  "para": "cc.1020",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.020 do CC impõe aos administradores de sociedade o dever de prestar aos sócios contas justificadas de sua administração; o art. 550 do CPC disciplina o procedimento judicial da ação de exigir contas que viabiliza a exigência desse dever.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "cpc.550",
+  "para": "cc.1759",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.759 do CC impõe aos herdeiros ou representantes do tutor falecido, ausente ou interditado o dever de prestar as contas da tutela; o art. 550 do CPC disciplina o procedimento judicial para exigir essas contas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "l11101.167-U",
+  "para": "cc.158",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 158 do CC autoriza a anulação, pelos credores quirografários, dos negócios de transmissão gratuita de bens praticados pelo devedor já insolvente; o art. 167-U da Lei 11.101/05 cria, para o devedor cujo processo estrangeiro principal de insolvência foi reconhecido no Brasil, presunção especial dessa mesma insolvência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "l11101.17",
+  "para": "cpc.1019",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 1.019 do CPC confere ao relator do agravo de instrumento o poder de atribuir efeito suspensivo ao recurso; o parágrafo único do art. 17 da Lei 11.101/05 detalha esse mesmo poder para o agravo contra a decisão sobre impugnação de crédito, autorizando o relator a conceder efeito suspensivo ao reconhecimento do crédito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "l11101.17",
+  "para": "cpc.1021",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 17 da Lei 11.101/05 não disciplina o processamento do agravo que institui; o art. 1.021 do CPC, ao regular o agravo interno contra decisão do relator, aplica-se subsidiariamente à decisão do relator sobre o efeito suspensivo de que trata o parágrafo único do art. 17.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "l11101.17",
+  "para": "cpc.1070",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 17 da Lei 11.101/05 não fixa prazo para a interposição do agravo que institui; o art. 1.070 do CPC, ao fixar em 15 dias o prazo para qualquer agravo contra decisão de relator ou outra decisão unipessoal de tribunal, aplica-se subsidiariamente a esse recurso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "l11101.171",
+  "para": "cp.347",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 347 do CP tipifica, de forma geral, a inovação artificiosa do estado de lugar, coisa ou pessoa na pendência de processo civil ou administrativo com o fim de induzir a erro o juiz ou o perito; o art. 171 da Lei 11.101/05 tipifica, de forma especial para o processo de falência, recuperação judicial ou recuperação extrajudicial, a sonegação, omissão ou prestação de informações falsas com o mesmo fim de induzir a erro o juiz.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T00:11:46+00:00"
  }
 ]
