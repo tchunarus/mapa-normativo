@@ -15917,5 +15917,365 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T20:17:58+00:00"
+ },
+ {
+  "de": "cpc.506",
+  "para": "l9307.31",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A Lei de Arbitragem atribui à sentença arbitral os mesmos efeitos da coisa julgada reconhecidos pelo art. 506 do CPC às partes e aos seus sucessores, estendendo o regime da coisa julgada judicial ao processo arbitral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "cpc.506",
+  "para": "lindb.6",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 6º da LINDB define coisa julgada como a decisão judicial de que já não caiba recurso, conceito geral que o art. 506 do CPC pressupõe ao delimitar os seus efeitos às partes do processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "cpc.506",
+  "para": "l8078.103",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O CDC afasta, nas ações coletivas, a limitação da coisa julgada às partes prevista no art. 506 do CPC, atribuindo-lhe eficácia erga omnes ou ultra partes conforme o inciso e ressalvada a improcedência por insuficiência de provas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "cpc.506",
+  "para": "l7347.16",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "Também na ação civil pública a sentença produz coisa julgada erga omnes nos limites da competência territorial do órgão prolator, exceção à regra do art. 506 do CPC de que a coisa julgada não prejudica terceiros.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "cpc.506",
+  "para": "l8397.16",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "Ressalvada a hipótese do art. 15 da mesma lei, a sentença da medida cautelar fiscal não faz coisa julgada quanto à execução judicial da dívida ativa, excepcionando, nesse ponto, a regra geral do art. 506 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "cpc.506",
+  "para": "cpp.65",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 65 do CPP estende a eficácia da coisa julgada penal ao juízo cível quando reconhecido estado de necessidade, legítima defesa, estrito cumprimento de dever legal ou exercício regular de direito, excepcionando a regra do art. 506 do CPC de que a coisa julgada não prejudica terceiros ao próprio processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12016.25",
+  "para": "l9099.55",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A Lei 9.099/95 também afasta a condenação em honorários, mas apenas em primeiro grau e com imposição ao recorrente vencido em segunda instância, regime diferente do art. 25 da Lei 12.016/09, que exclui a condenação em honorários em toda a instância do mandado de segurança, salvo má-fé.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12016.25",
+  "para": "l8078.87",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 87 do CDC isenta a associação autora de ações coletivas da condenação em honorários, salvo má-fé comprovada, regra paralela à do art. 25 da Lei 12.016/09, mas aplicável a sujeito processual e procedimento diversos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12016.25",
+  "para": "l7347.17",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Na ação civil pública, a litigância de má-fé gera condenação solidária da associação autora e de seus diretores em honorários e no décuplo das custas, consequência mais gravosa e distinta da simples ressalva de sanções por má-fé prevista no art. 25 da Lei 12.016/09.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12016.25",
+  "para": "l8036.29-C",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 29-C da Lei 8.036/90 também afasta a condenação em honorários advocatícios, mas nas ações entre o FGTS e os titulares de contas vinculadas e sem a ressalva de litigância de má-fé prevista no art. 25 da Lei 12.016/09.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12016.25",
+  "para": "lef.34",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 34 da LEF admite embargos infringentes e de declaração contra sentenças de execuções fiscais de pequeno valor, regime oposto ao do art. 25 da Lei 12.016/09, que veda a interposição de embargos infringentes no processo de mandado de segurança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12016.25",
+  "para": "cpp.609",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 609 do CPP admite embargos infringentes e de nulidade contra decisão não unânime de segunda instância em matéria penal, regime oposto ao do art. 25 da Lei 12.016/09, que veda a interposição de embargos infringentes no processo de mandado de segurança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12016.7",
+  "para": "ctn.161",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 161 do CTN afasta a incidência de juros de mora enquanto viger medida liminar concedida nos termos do art. 7º da Lei 12.016/09, até o início do prazo para pagamento do crédito definitivamente apurado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12016.7",
+  "para": "d9580.995",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 995 do RIR/2018 disciplina o efeito tributário da liminar em mandado de segurança referida no art. 7º da Lei 12.016/09, interrompendo a incidência da multa de mora desde a concessão da medida até trinta dias após a decisão judicial que considerar devido o imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12016.7",
+  "para": "l8397.7",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A medida cautelar fiscal também é concedida liminarmente, dispensada a justificação prévia e a caução, regime distinto do procedimento do art. 7º da Lei 12.016/09, que prevê notificação do coator e, quando necessário, caução, fiança ou depósito para a suspensão do ato impugnado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12016.7",
+  "para": "cpc.300",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 5º do art. 7º da Lei 12.016/09 estende as vedações à concessão de liminar à tutela antecipada dos arts. 273 e 461 da Lei nº 5.869, de 1973, já revogada, cuja matéria é hoje tratada pela tutela de urgência do art. 300 do CPC vigente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12016.7",
+  "para": "d9580.931",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 931 do RIR/2018 regula a consequência tributária da revogação posterior de liminar em mandado de segurança ou de tutela antecipada mencionada no art. 7º da Lei 12.016/09, impondo ao beneficiário o pagamento de juros de mora.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.14",
+  "para": "l8078.28",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 28 do CDC adota critério mais amplo para a desconsideração, bastando abuso de direito, excesso de poder, infração da lei ou má administração em detrimento do consumidor, regime que não se confunde com os requisitos específicos do art. 14 da Lei 12.846/13 para os ilícitos da lei anticorrupção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.14",
+  "para": "l14133.160",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 160 da Lei 14.133/21 reproduz, para os ilícitos da lei de licitações, redação quase idêntica à do art. 14 da Lei 12.846/13, com risco real de se aplicar a um ilícito a desconsideração prevista para o outro regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.14",
+  "para": "cpc.133",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O incidente de desconsideração da personalidade jurídica do art. 133 do CPC é o procedimento pelo qual se efetiva, em juízo, a desconsideração material prevista no art. 14 da Lei 12.846/13.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.14",
+  "para": "cc.49-A",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 49-A do CC consagra a autonomia patrimonial da pessoa jurídica em relação aos seus sócios e administradores, regra geral que o art. 14 da Lei 12.846/13 excepciona ao estender os efeitos das sanções aos administradores e sócios com poderes de administração em caso de abuso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.14",
+  "para": "l11101.82-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Na falência, a desconsideração da personalidade jurídica segue regime próprio, de competência exclusiva do juízo falimentar e com remissão expressa ao art. 50 do CC, distinto do procedimento do art. 14 da Lei 12.846/13 para os ilícitos da lei anticorrupção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.14",
+  "para": "l8429.3",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 3º da Lei de Improbidade Administrativa isenta, em regra, sócios e diretores da pessoa jurídica das sanções por improbidade, salvo comprovada participação e benefícios diretos, critério mais restritivo que o do art. 14 da Lei 12.846/13 para estender os efeitos das sanções aos administradores e sócios com poderes de administração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.19",
+  "para": "l8429.12",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A Lei de Improbidade Administrativa prevê sanções civis por ato de improbidade do agente público e de quem o induza ou concorra, regime que não se confunde com a responsabilização objetiva da pessoa jurídica prevista no art. 19 da Lei 12.846/13, ainda que os mesmos fatos possam, em tese, configurar as duas espécies de ilícito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.19",
+  "para": "l8429.16",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 16 da Lei de Improbidade Administrativa também autoriza pedido de indisponibilidade de bens em caráter antecedente ou incidente, instituto que o § 4º do art. 19 da Lei 12.846/13 reproduz para garantir o pagamento da multa ou a reparação do dano na ação por ato lesivo à administração pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.19",
+  "para": "cpc.75",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 75 do CPC define o órgão de representação judicial de cada ente federativo, Advocacia Pública ou equivalente mencionado no caput do art. 19 da Lei 12.846/13 como legitimado a ajuizar a ação de responsabilização.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.19",
+  "para": "l14133.156",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "As sanções do art. 156 da Lei 14.133/21 são aplicadas na esfera administrativa, mediante processo de responsabilização próprio, regime distinto e não substitutivo das sanções judiciais do art. 19 da Lei 12.846/13.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.21",
+  "para": "l7347.3",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 21 da Lei 12.846/13 determina a adoção, nas ações de responsabilização judicial por atos lesivos à administração pública, do rito da Lei 7.347/85, cujo art. 3º define a ação civil pública como tendo por objeto condenação em dinheiro ou cumprimento de obrigação de fazer ou não fazer.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.21",
+  "para": "l7347.13",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "Por força da remissão ao rito da Lei 7.347/85 feita pelo art. 21 da Lei 12.846/13, a condenação em dinheiro na ação de responsabilização pode seguir a destinação ao fundo de reparação dos bens lesados prevista no art. 13 daquela lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.21",
+  "para": "l8429.18",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 18 da Lei de Improbidade Administrativa também condena ao ressarcimento do dano com liquidação posterior quando necessária, redação semelhante à do parágrafo único do art. 21 da Lei 12.846/13, mas em regime de responsabilização distinto, dirigido ao agente ímprobo e não à pessoa jurídica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.21",
+  "para": "cpp.63",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A execução civil da sentença penal condenatória, prevista no art. 63 do CPP, também viabiliza a reparação do dano decorrente de ilícito, mas a partir de título formado no processo penal, origem distinta da condenação na ação de responsabilização do art. 21 da Lei 12.846/13.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.21",
+  "para": "lsa.246",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 246 da LSA também impõe à sociedade controladora o dever de reparar integralmente os danos causados por atos praticados com infração aos arts. 116 e 117 daquela lei, regime de responsabilização civil assemelhado ao da condenação prevista no art. 21 da Lei 12.846/13, mas restrito às relações entre controladora e companhia controlada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.25",
+  "para": "cc.202",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "A Lei 12.846/13 não limita o número de interrupções da prescrição nem disciplina o prazo que recomeça a correr, lacuna que se supre, subsidiariamente, pela regra geral do art. 202 do CC, segundo a qual a interrupção da prescrição somente pode ocorrer uma vez.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.25",
+  "para": "ctn.174",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 174 do CTN também fixa prazo prescricional de cinco anos, mas para a cobrança do crédito tributário e com hipóteses próprias de interrupção, distintas da simples instauração de processo de apuração prevista no parágrafo único do art. 25 da Lei 12.846/13.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.25",
+  "para": "l8429.23",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "A ação por improbidade administrativa prescreve em oito anos, com suspensão, não interrupção, de até cento e oitenta dias pela instauração de inquérito civil ou processo administrativo, regime que não se confunde com o prazo quinquenal e a interrupção definitiva previstos no art. 25 da Lei 12.846/13.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "l12846.25",
+  "para": "d20910.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O Decreto 20.910/32 também prevê prescrição quinquenal, mas para as dívidas passivas e ações contra a Fazenda Pública, direção oposta à do art. 25 da Lei 12.846/13, que disciplina a prescrição das infrações cometidas pela pessoa jurídica contra a administração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T21:22:08+00:00"
  }
 ]
