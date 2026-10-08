@@ -14117,5 +14117,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T00:11:46+00:00"
+ },
+ {
+  "de": "lsa.132",
+  "para": "cc.1020",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1.020 do CC impõe aos administradores de sociedade simples o dever de prestar aos sócios contas justificadas da administração e de apresentar anualmente o balanço patrimonial e o de resultado econômico; o art. 132 da LSA especializa esse mesmo dever para a sociedade anônima, determinando que a assembleia geral ordinária, realizada nos quatro primeiros meses seguintes ao término do exercício social, tome as contas dos administradores e examine, discuta e vote as demonstrações financeiras.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "cc.158",
+  "para": "lsa.232",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 158 do CC autoriza os credores quirografários a pleitear a anulação de negócios de transmissão gratuita ou remissão de dívida praticados pelo devedor já insolvente; o art. 232 da LSA permite ao credor anterior prejudicado por incorporação ou fusão pleitear judicialmente a anulação da operação em prazo decadencial de sessenta dias, independentemente de prova de insolvência da sociedade, o que pode levar a confusão entre as duas ações anulatórias movidas por credores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "cpc.1027",
+  "para": "cf.102",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 102, II, a, da CF atribui ao Supremo Tribunal Federal julgar, em recurso ordinário, o habeas corpus e o mandado de segurança; o inciso I do art. 1.027 do CPC regulamenta esse recurso ordinário, determinando que sejam julgados pelo Supremo Tribunal Federal os mandados de segurança, os habeas data e os mandados de injunção decididos em única instância pelos tribunais superiores, quando denegatória a decisão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "cpp.667",
+  "para": "cf.102",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 102, I, d, da CF atribui ao Supremo Tribunal Federal processar e julgar originariamente o habeas corpus quando o coator ou o paciente for autoridade sujeita diretamente à sua jurisdição; o art. 667 do CPP regulamenta o processamento desse habeas corpus de competência originária do Supremo Tribunal Federal, remetendo ao procedimento previsto para os recursos de decisões denegatórias de habeas corpus.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "cpc.1027",
+  "para": "cf.105",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 105, II, b, da CF atribui ao Superior Tribunal de Justiça julgar, em recurso ordinário, os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão; a alínea a do inciso II do art. 1.027 do CPC regulamenta exatamente esse recurso ordinário ao Superior Tribunal de Justiça.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "cpc.1035-A",
+  "para": "cf.105",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 105, III, da CF atribui ao Superior Tribunal de Justiça julgar, em recurso especial, as causas decididas em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios; o art. 1.035-A do CPC regulamenta esse recurso especial, instituindo o filtro de relevância da questão de direito federal infraconstitucional para seu conhecimento pelo Superior Tribunal de Justiça.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "adct.27",
+  "para": "cf.105",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 105 da CF define as competências permanentes do Superior Tribunal de Justiça; o art. 27 do ADCT complementa esse regime ao disciplinar, em caráter transitório, a instalação do Superior Tribunal de Justiça sob a presidência do Supremo Tribunal Federal e a composição inicial do novo tribunal pelo aproveitamento dos Ministros do Tribunal Federal de Recursos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "clt.897",
+  "para": "cpc.1019",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 1.019 do CPC disciplina, de forma geral, o processamento do agravo de instrumento no tribunal, incluindo a possibilidade de o relator atribuir efeito suspensivo e a intimação do agravado e do Ministério Público; a alínea b do art. 897 da CLT especializa, para o processo do trabalho, o cabimento do agravo de instrumento, restringindo-o aos despachos que denegarem a interposição de recursos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "clt.855-A",
+  "para": "cpc.1021",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O inciso III do §1º do art. 855-A da CLT prevê o cabimento de agravo interno contra a decisão do relator no incidente de desconsideração da personalidade jurídica instaurado originariamente no tribunal, sem disciplinar seu processamento; o art. 1.021 do CPC aplica-se subsidiariamente para reger esse agravo interno, exigindo impugnação específica dos fundamentos da decisão agravada e fixando o procedimento perante o órgão colegiado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "l12016.10",
+  "para": "cpc.1021",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O §1º do art. 10 da Lei 12.016/09 prevê que do ato do relator que indefere a inicial do mandado de segurança de competência originária de tribunal caberá agravo para o órgão competente do tribunal que integre, sem detalhar o processamento desse recurso; o art. 1.021 do CPC aplica-se subsidiariamente para reger esse agravo interno contra decisão do relator.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "clt.855-A",
+  "para": "cpc.1070",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O inciso III do §1º do art. 855-A da CLT prevê o cabimento de agravo interno contra a decisão do relator no incidente de desconsideração da personalidade jurídica, sem fixar prazo para a sua interposição; o art. 1.070 do CPC aplica-se subsidiariamente para fixar em 15 dias esse prazo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "l12016.10",
+  "para": "cpc.1070",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O §1º do art. 10 da Lei 12.016/09 prevê o agravo contra o ato do relator que indefere a inicial do mandado de segurança, sem fixar prazo para a sua interposição; o art. 1.070 do CPC aplica-se subsidiariamente para fixar em 15 dias esse prazo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "l12016.15",
+  "para": "cpc.1070",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 1.070 do CPC fixa em 15 dias o prazo geral para a interposição de qualquer agravo contra decisão de relator ou outra decisão unipessoal proferida em tribunal; o art. 15 da Lei 12.016/09 excepciona esse prazo geral ao fixar em 5 dias o prazo para o agravo contra a decisão do presidente do tribunal que suspende a execução de liminar ou de sentença em mandado de segurança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "l7347.12",
+  "para": "cpc.1070",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 1.070 do CPC fixa em 15 dias o prazo geral para a interposição de qualquer agravo contra decisão de relator ou outra decisão unipessoal proferida em tribunal; o §1º do art. 12 da Lei 7.347/85 excepciona esse prazo geral ao fixar em 5 dias, a partir da publicação do ato, o prazo para o agravo contra a decisão do presidente do tribunal que suspende a execução de liminar em ação civil pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T01:10:20+00:00"
  }
 ]
