@@ -15877,5 +15877,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T19:18:23+00:00"
+ },
+ {
+  "de": "ctn.187",
+  "para": "l11101.115",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O CTN, art. 187, exclui expressamente a cobrança judicial do crédito tributário do concurso de credores e da habilitação em falência, excepcionando, para o crédito fiscal, a sujeição genérica de todos os credores ao regime concursal estabelecida pelo art. 115 da Lei 11.101/05.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T20:17:58+00:00"
+ },
+ {
+  "de": "lef.29",
+  "para": "l11101.115",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "A Lei de Execução Fiscal, art. 29, repete para a execução da Dívida Ativa a mesma exclusão do concurso de credores e da habilitação em falência prevista no CTN, excepcionando também a sujeição genérica de todos os credores ao regime concursal do art. 115 da Lei 11.101/05.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T20:17:58+00:00"
+ },
+ {
+  "de": "l12016.22",
+  "para": "cpc.506",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 506, fixa a regra geral de que a sentença faz coisa julgada apenas entre as partes, sem prejudicar terceiros, enquanto a Lei 12.016/09, art. 22, ao disciplinar o mandado de segurança coletivo, excepciona essa regra e estende os efeitos da coisa julgada aos membros do grupo ou categoria substituídos pelo impetrante, que não figuraram como partes no processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T20:17:58+00:00"
+ },
+ {
+  "de": "l8078.103",
+  "para": "l12016.22",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CDC, art. 103, incisos I e II, fixa regimes de coisa julgada erga omnes ou ultra partes conforme o direito tutelado na ação coletiva, e a Lei 12.016/09, art. 22, disciplina para o mandado de segurança coletivo um regime próprio, sempre limitado aos membros do grupo ou categoria substituídos pelo impetrante, o que gera risco de confusão sobre qual regime de alcance subjetivo da coisa julgada se aplica a cada ação coletiva.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T20:17:58+00:00"
  }
 ]
