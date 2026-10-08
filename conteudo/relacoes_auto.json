@@ -15577,5 +15577,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "cc.853-A",
+  "para": "lsa.68",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 853-A do CC atribui ao agente de garantia o dever fiduciário em relação aos credores da obrigação garantida (§2º), enquanto o art. 68 da LSA impõe ao agente fiduciário o dever de proteger os direitos dos debenturistas com o cuidado e a diligência de um homem ativo e probo (§1º, a) e a responsabilidade por prejuízos causados por culpa ou dolo (§4º). Os dois institutos criam um representante fiduciário de uma coletividade de credores, mas regem regimes distintos (garantias em geral e debêntures), com risco de se aplicar a um a disciplina de deveres e responsabilidade do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T17:20:50+00:00"
+ },
+ {
+  "de": "cpc.1016",
+  "para": "clt.897",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos os dispositivos tratam do agravo de instrumento, mas disciplinam de modo distinto a sua formação: o art. 1.016 do CPC exige da petição os nomes das partes, a exposição do fato e do direito, as razões do pedido e o nome e endereço dos advogados, enquanto o art. 897, §5º, da CLT impõe a instrução do instrumento com peças próprias (cópia da decisão agravada, certidão de intimação, procurações, petição inicial, contestação, decisão originária e comprovação do depósito recursal). A identidade de nome entre os dois recursos gera risco real de se aplicar a um os requisitos do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T17:20:50+00:00"
+ },
+ {
+  "de": "cpc.1016",
+  "para": "l11101.17",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 17 da Lei 11.101/05 apenas estabelece o cabimento do agravo contra a decisão sobre a impugnação de crédito, sem disciplinar os requisitos da petição recursal. Nessa omissão, aplicam-se subsidiariamente os requisitos do art. 1.016 do CPC (nomes das partes, exposição do fato e do direito, razões do pedido e identificação dos advogados), por se tratar do mesmo recurso de agravo de instrumento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T17:20:50+00:00"
+ },
+ {
+  "de": "cpc.724",
+  "para": "l11101.90",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 724 do CPC prevê, de forma geral, o cabimento de apelação da sentença, sem tratar de seu efeito. O art. 90 da Lei 11.101/05 especializa essa regra para a sentença que julga o pedido de restituição na falência, fixando que a apelação será recebida sem efeito suspensivo e condicionando a satisfação antecipada do pedido à prestação de caução (parágrafo único).",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T17:20:50+00:00"
+ },
+ {
+  "de": "cpc.724",
+  "para": "l12016.14",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "Enquanto o art. 724 do CPC apenas prevê o cabimento de apelação da sentença, sem detalhar seu regime recursal, o art. 14 da Lei 12.016/09 especializa essa regra para a sentença em mandado de segurança, submetendo a concessão da ordem ao duplo grau de jurisdição obrigatório (§1º) e estendendo à autoridade coatora o direito de recorrer (§2º), peculiaridades inexistentes na regra geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T17:20:50+00:00"
+ },
+ {
+  "de": "cpc.724",
+  "para": "cpp.593",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos tratam do cabimento de apelação contra sentença, mas em regimes processuais distintos: o art. 724 do CPC disciplina a apelação na jurisdição voluntária cível, sem prazo nem hipóteses específicas, enquanto o art. 593 do CPP fixa prazo de 5 dias e hipóteses próprias do processo penal, entre elas as sentenças condenatórias ou absolutórias e as decisões do Tribunal do Júri (incisos I a III). A coincidência de nome do recurso cria risco de se transporem prazo e hipóteses de uma esfera para a outra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T17:20:50+00:00"
+ },
+ {
+  "de": "l11101.1",
+  "para": "ctn.191-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1º da Lei 11.101/05 cria a recuperação judicial como instituto próprio. O art. 191-A do CTN complementa esse regime ao condicionar a concessão da recuperação judicial à apresentação de prova de quitação de todos os tributos, observado o disposto nos arts. 151, 205 e 206 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T17:20:50+00:00"
+ },
+ {
+  "de": "l11101.68",
+  "para": "l10522.10-B",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 68 da Lei 11.101/05 garante às microempresas e empresas de pequeno porte prazos 20% superiores aos das demais empresas no parcelamento de débitos em recuperação judicial. O §2º do art. 10-B da Lei 10.522/02 reproduz, para o parcelamento específico de débitos com a Fazenda Nacional em até 24 parcelas, a mesma regra de prazo 20% superior às microempresas e empresas de pequeno porte, concretizando perante a Fazenda Nacional a garantia geral do art. 68.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T17:20:50+00:00"
+ },
+ {
+  "de": "l11101.69-J",
+  "para": "cc.50",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 69-J da Lei 11.101/05 autoriza a consolidação substancial de ativos e passivos de devedores do mesmo grupo econômico em recuperação judicial quando houver interconexão e confusão entre seus ativos ou passivos. O art. 50 do CC disciplina a desconsideração da personalidade jurídica por abuso caracterizado por confusão patrimonial (§2º), com efeito de estender obrigações aos bens de sócios ou administradores. Os dois institutos partem da mesma situação de fato, a confusão patrimonial entre pessoas distintas, mas produzem consequências jurídicas diferentes, a reunião de patrimônios em um único processo falimentar e a responsabilização pessoal de sócios e administradores, com risco real de se confundir um instituto com o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T17:20:50+00:00"
+ },
+ {
+  "de": "l11101.7-A",
+  "para": "ctn.187",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 187 do CTN dispensa a cobrança judicial do crédito tributário de concurso de credores ou habilitação em falência ou recuperação judicial. O art. 7º-A da Lei 11.101/05 cria, à primeira vista em sentido contrário, um incidente de classificação de crédito público na falência, com intimação da Fazenda Pública para apresentar a relação de seus créditos. O conflito é apenas aparente, pois o próprio §4º, incisos I e II, do art. 7º-A preserva ao juízo da execução fiscal a decisão sobre a existência, a exigibilidade e o valor do crédito, cabendo ao juízo falimentar apenas os cálculos e a classificação para fins da falência, sem instituir verdadeira habilitação do crédito tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T17:20:50+00:00"
+ },
+ {
+  "de": "l11101.74",
+  "para": "ctn.133",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 74 da Lei 11.101/05 presume válidos os atos de administração, endividamento, oneração ou alienação praticados durante a recuperação judicial, quando convolada em falência, desde que realizados na forma da lei. O §1º, inciso II, do art. 133 do CTN complementa essa proteção ao excluir a sucessão tributária do adquirente na alienação judicial de filial ou unidade produtiva isolada em processo de recuperação judicial, e o §1º, inciso I, faz o mesmo para a alienação judicial em processo de falência, de modo que os dois dispositivos sustentam, juntos, a estabilidade das alienações feitas no curso desses processos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T17:20:50+00:00"
+ },
+ {
+  "de": "l11101.74",
+  "para": "cc.1015",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 74 da Lei 11.101/05 presume válidos os atos de oneração ou alienação praticados pelo devedor durante a recuperação judicial, convolada em falência, desde que na forma da lei falimentar. O art. 1.015 do CC exige, no silêncio do contrato social, deliberação da maioria dos sócios para a oneração ou a venda de bens imóveis que não constituam objeto social. A presunção de validade do art. 74 opera no plano da estabilidade do ato perante a falência e não dispensa, por si só, a observância da regra de governança societária do art. 1.015, havendo risco de se interpretar a primeira como substitutiva da segunda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T17:20:50+00:00"
  }
 ]
