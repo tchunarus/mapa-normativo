@@ -15407,5 +15407,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T15:19:46+00:00"
+ },
+ {
+  "de": "cpc.219",
+  "para": "l9099.12-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 12-A da Lei 9.099/95 fixa, para os juizados especiais, a mesma contagem de prazos processuais em dias úteis do art. 219 do CPC, aplicável inclusive aos recursos, de modo que há risco de se presumir aplicação subsidiária do CPC quando a Lei 9.099/95 já disciplina a matéria de forma própria e autônoma.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "cpc.219",
+  "para": "d70235.5",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 219 do CPC determina que, nos prazos processuais, somente se computam os dias úteis, ao passo que o art. 5º do Decreto 70.235/72 determina a contagem dos prazos do processo administrativo fiscal em dias corridos, de modo que há risco de se aplicar por engano a regra de dias úteis do processo judicial ao processo administrativo fiscal, regidos por critérios opostos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "cpc.219",
+  "para": "l14133.183",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 219 do CPC restringe a contagem de prazos processuais aos dias úteis, regra reproduzida pelo inciso III do art. 183 da Lei 14.133/21 apenas para os prazos expressos em dias úteis nos procedimentos de licitações e contratos administrativos, o que pode levar a confundir o alcance de cada regra conforme o regime aplicável ao prazo em discussão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "d70235.5",
+  "para": "ctn.210",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 5º do Decreto 70.235/72 regulamenta, para o processo administrativo fiscal federal, a mesma contagem contínua de prazos prevista no art. 210 do CTN, repetindo a regra de exclusão do dia de início e inclusão do dia do vencimento, bem como a exigência de dia de expediente normal no órgão em que corra o processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "d70235.5",
+  "para": "floripa_ctm.508",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 5º do Decreto 70.235/72 e o art. 508 da Consolidação Tributária Municipal de Florianópolis adotam a mesma contagem contínua de prazos, com exclusão do dia de início e inclusão do dia do vencimento, restrita a dia de expediente normal, mas disciplinam o processo administrativo fiscal de entes federativos diferentes, o federal e o municipal, com risco de se aplicar por engano o prazo de um ente ao prazo do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "lcp227.173",
+  "para": "d70235.5",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 173 da LC 227/2026 dá nova redação ao art. 5º do Decreto 70.235/72, mantendo a contagem em dias corridos dos incisos I e II, mas acrescentando o art. 5º-A, que suspende o curso do prazo processual administrativo fiscal entre 20 de dezembro e 20 de janeiro, inovação que não constava da redação anterior do art. 5º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "d70235.5",
+  "para": "lcp227.62",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 5º do Decreto 70.235/72 conta os prazos do processo administrativo fiscal federal em dias corridos, enquanto o art. 62 da LC 227/2026 determina a contagem em dias úteis para os prazos processuais do contencioso administrativo tributário por ela instituído, regimes que convivem e podem ser confundidos conforme o tributo em discussão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "l10522.10-A",
+  "para": "ctn.155-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 155-A do CTN prevê que lei específica disporá sobre as condições de parcelamento dos créditos tributários do devedor em recuperação judicial, e o art. 10-A da Lei 10.522/02 é essa lei específica, ao disciplinar o parcelamento em 84 parcelas para o empresário ou a sociedade empresária com processamento da recuperação judicial deferido ou pleiteado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "l10522.10-A",
+  "para": "l11101.1",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 10-A da Lei 10.522/02 condiciona o parcelamento especial de 84 parcelas ao empresário ou à sociedade empresária que pleitear ou tiver deferido o processamento da recuperação judicial, remetendo ao regime de recuperação judicial disciplinado pela Lei 11.101/05, cujo art. 1º define esse instituto e o da falência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "l10522.10-A",
+  "para": "sc_ricms.63",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 63 do RICMS-SC prevê parcelamento em até 84 prestações para empresa em recuperação judicial, mesmo número de parcelas do art. 10-A da Lei 10.522/02 para débitos com a Fazenda Nacional, mas disciplinam tributos de entes federativos distintos, o estadual e o federal, com percentuais e condições próprios, podendo-se confundir os regimes aplicáveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "l10522.10-C",
+  "para": "l13988.11",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 10-C da Lei 10.522/02 remete ao § 3º do art. 11 da Lei 13.988/20, que fixa redução máxima de 70% e prazo de até 145 meses para pessoa natural, microempresa ou empresa de pequeno porte, parâmetro que o art. 10-C adapta ao empresário ou à sociedade empresária com recuperação judicial deferida, fixando prazo próprio de 120 meses.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "l13988.1",
+  "para": "l10522.10-C",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 10-C da Lei 10.522/02 cria regime próprio de transação para o devedor com recuperação judicial deferida, submetendo a proposta à Procuradoria-Geral da Fazenda Nacional nos termos da Lei 13.988/20, cujo art. 1º estabelece o regime geral de transação da dívida ativa da União, aplicável de forma subsidiária naquilo que o art. 10-C não disciplinar de modo diverso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "l11101.58-A",
+  "para": "cpc.724",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 58-A da Lei 11.101/05 prevê agravo de instrumento contra a sentença que convola a recuperação judicial em falência, excepcionando a regra geral do art. 724 do CPC, segundo a qual da sentença cabe apelação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "cpc.1016",
+  "para": "l11101.58-A",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 58-A da Lei 11.101/05 prevê agravo de instrumento contra a sentença de convolação em falência sem disciplinar seu procedimento, de modo que se aplicam subsidiariamente, por força do art. 189 da própria Lei 11.101/05, os requisitos de interposição do art. 1.016 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "l11101.6",
+  "para": "ctn.174",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso II do caput do art. 6º da Lei 11.101/05 suspende as execuções sujeitas à recuperação judicial ou à falência, mas o § 7º-B do mesmo artigo exclui expressamente as execuções fiscais dessa suspensão, de modo que a prescrição do crédito tributário do art. 174 do CTN continua a correr normalmente, sem a suspensão prevista no inciso I do caput para as obrigações sujeitas ao regime da lei falimentar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "l11101.6-C",
+  "para": "cc.391",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 6º-C da Lei 11.101/05 veda a atribuição de responsabilidade a terceiros pelo mero inadimplemento do devedor falido ou em recuperação judicial, explicitando nesse contexto o princípio geral do art. 391 do Código Civil, segundo o qual respondem pelas obrigações os bens do próprio devedor, e não os de terceiros, ressalvadas as garantias reais e fidejussórias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
+ },
+ {
+  "de": "l11101.66-A",
+  "para": "cc.853-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 66-A da Lei 11.101/05 protege a garantia outorgada pelo devedor a financiador de boa-fé, autorizada judicialmente ou prevista em plano de recuperação aprovado, contra anulação ou ineficácia posterior, garantia que pode ser estruturada e executada por agente de garantia nos termos do art. 853-A do Código Civil, que resguarda a posição do credor e do terceiro prestador da garantia na execução extrajudicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T16:21:48+00:00"
  }
 ]
