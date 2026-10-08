@@ -15037,5 +15037,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T12:32:57+00:00"
+ },
+ {
+  "de": "cf.115",
+  "para": "clt.654",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 115, II, da Constituição Federal determina que a composição dos Tribunais Regionais do Trabalho inclua juízes promovidos por antiguidade e merecimento, alternadamente, e o art. 654 da CLT detalha esse mesmo critério ao disciplinar o ingresso na magistratura do trabalho como juiz substituto e as promoções subsequentes, alternando antiguidade e merecimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T13:26:00+00:00"
+ },
+ {
+  "de": "cf.124",
+  "para": "l9099.90-A",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 124 da Constituição Federal atribui à Justiça Militar competência exclusiva para processar e julgar os crimes militares definidos em lei, e o art. 90-A da Lei 9.099/95 reconhece essa exclusividade ao excepcionar expressamente a aplicação do microssistema dos juizados especiais no âmbito da Justiça Militar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T13:26:00+00:00"
+ },
+ {
+  "de": "clt.364",
+  "para": "l8987.38",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 364 da CLT prevê a cassação da concessão ou autorização da empresa concessionária de serviço público ou da sociedade estrangeira que, após multada, não cumprir a norma trabalhista infringida, hipótese adicional e específica de extinção que se soma, no mesmo regime de concessões, às causas gerais de caducidade do § 1º do art. 38 da Lei 8.987/95.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T13:26:00+00:00"
+ },
+ {
+  "de": "clt.364",
+  "para": "cc.1123",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 364 da CLT soma-se ao regime geral de autorização de funcionamento de sociedades estrangeiras ao prever, como lei especial referida pelo art. 1.123 do Código Civil, mais uma hipótese de cassação da autorização: o descumprimento, após multada, da norma trabalhista de tutela do trabalho infringida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T13:26:00+00:00"
+ },
+ {
+  "de": "clt.775-A",
+  "para": "cpc.220",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 775-A da CLT reproduz, para o processo do trabalho, a mesma suspensão do curso do prazo processual entre 20 de dezembro e 20 de janeiro e as mesmas ressalvas de atribuições e vedação a audiências e sessões de julgamento do art. 220 do CPC, especializando para a Justiça do Trabalho a regra geral do recesso forense fixada na lei processual civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T13:26:00+00:00"
+ },
+ {
+  "de": "cp.12",
+  "para": "l11101.188",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 12 do Código Penal determina que as regras gerais da parte geral do Código se apliquem aos crimes previstos em lei especial, como os crimes falimentares da Lei 11.101/05, caso esta não disponha de modo diverso, e o art. 188 dessa mesma lei adota técnica análoga ao submeter o processo penal falimentar à aplicação subsidiária do Código de Processo Penal, no que não for incompatível.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T13:26:00+00:00"
+ },
+ {
+  "de": "cpc.1026",
+  "para": "l9099.83",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 83 da Lei 9.099/95 reproduz, para o rito sumaríssimo dos juizados especiais, o mesmo efeito interruptivo do prazo recursal atribuído aos embargos de declaração pelo caput do art. 1.026 do CPC, especializando a disciplina geral do CPC ao fixar prazo próprio de cinco dias e permitir a correção de ofício de erros materiais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T13:26:00+00:00"
+ },
+ {
+  "de": "cpc.220",
+  "para": "cpp.798-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 798-A do CPP reproduz a suspensão do curso do prazo processual entre 20 de dezembro e 20 de janeiro prevista no art. 220 do CPC, mas especializa essa regra para o processo penal ao excluir da suspensão, nos incisos I a III, os processos de réus presos, os procedimentos da Lei Maria da Penha e as medidas urgentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T13:26:00+00:00"
+ },
+ {
+  "de": "cpc.220",
+  "para": "lcp227.62",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 62 da LC 227/2026 incorpora ao novo processo administrativo tributário a mesma suspensão do curso do prazo processual entre 20 de dezembro e 20 de janeiro do art. 220 do CPC, especializando essa regra geral para o contencioso administrativo do IBS regido por essa lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T13:26:00+00:00"
+ },
+ {
+  "de": "cpc.224",
+  "para": "cc.132",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 132 do Código Civil fixa a regra geral de contagem dos prazos, excluindo o dia do começo e incluindo o do vencimento, com prorrogação para o dia útil seguinte quando o vencimento cair em feriado, e o art. 224 do CPC especializa essa mesma regra para os prazos processuais, acrescentando o protraimento ligado ao expediente forense e à publicação no Diário da Justiça eletrônico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T13:26:00+00:00"
+ },
+ {
+  "de": "cpc.224",
+  "para": "ctn.210",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 210 do CTN estabelece, para os prazos tributários, a mesma técnica de contagem do art. 224 do CPC, excluindo o dia do início e incluindo o do vencimento, mas especializa a regra ao exigir, no parágrafo único, que o prazo só se inicie ou vença em dia de expediente normal na repartição em que corra o processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T13:26:00+00:00"
+ },
+ {
+  "de": "cpc.224",
+  "para": "l9784.66",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 66 da Lei 9.784/99 reproduz, para o processo administrativo federal, a mesma regra de contagem de prazos do art. 224 do CPC, excluindo o dia do começo e incluindo o do vencimento, mas especializa a disciplina ao definir, no § 1º, a prorrogação do vencimento para o primeiro dia útil quando não houver expediente ou este terminar antes da hora normal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T13:26:00+00:00"
  }
 ]
