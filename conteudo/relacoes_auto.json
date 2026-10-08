@@ -14507,5 +14507,255 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T09:17:26+00:00"
+ },
+ {
+  "de": "adct.100",
+  "para": "cf.101",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 101 da Constituição exige que o Ministro do Supremo Tribunal Federal seja nomeado com menos de setenta anos de idade, e o art. 100 do ADCT complementa esse regime etário ao fixar, enquanto não editada a lei complementar do art. 40, § 1º, II, da Constituição, a aposentadoria compulsória aos setenta e cinco anos, aplicável aos Ministros assim nomeados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "adct.100",
+  "para": "cf.111-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 111-A da Constituição exige que o Ministro do Tribunal Superior do Trabalho seja nomeado com menos de setenta anos de idade, e o art. 100 do ADCT complementa esse regime etário ao fixar, enquanto não editada a lei complementar do art. 40, § 1º, II, da Constituição, a aposentadoria compulsória aos setenta e cinco anos para os Ministros dos Tribunais Superiores, categoria que inclui o Tribunal Superior do Trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "adct.100",
+  "para": "cf.73",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 73 da Constituição exige que o Ministro do Tribunal de Contas da União seja nomeado com menos de setenta anos de idade, e o art. 100 do ADCT complementa esse regime etário ao fixar, enquanto não editada a lei complementar do art. 40, § 1º, II, da Constituição, a aposentadoria compulsória aos setenta e cinco anos, expressamente estendida aos Ministros do Tribunal de Contas da União.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "cf.109",
+  "para": "cpp.84",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 109 da Constituição atribui aos juízes federais a competência em razão da matéria sobre causas e crimes que envolvam a União e seus entes, ao passo que o art. 84 do Código de Processo Penal trata da competência por prerrogativa de função perante o Supremo Tribunal Federal, o Superior Tribunal de Justiça e os Tribunais Regionais Federais, dois critérios de competência que podem ser confundidos quando o réu de um crime federal tem foro privilegiado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "cf.109",
+  "para": "cpc.21",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 21 do Código de Processo Civil fixa a regra geral de competência internacional da autoridade judiciária brasileira quando o réu for domiciliado no Brasil, a obrigação tiver de ser cumprida no país ou o fato ocorrer aqui, regra que o inciso II do art. 109 da Constituição especializa ao atribuir à Justiça Federal, e não à justiça estadual, as causas entre Estado estrangeiro ou organismo internacional e Município ou pessoa domiciliada no país.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "cpc.1035",
+  "para": "clt.896-B",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 896-B da Consolidação das Leis do Trabalho manda aplicar ao recurso de revista, no que couber, as normas do Código de Processo Civil sobre o julgamento dos recursos extraordinário e especial repetitivos, entre as quais está o regime de repercussão geral do art. 1.035, que assim se aplica subsidiariamente ao processo do trabalho na ausência de disciplina própria do Tribunal Superior do Trabalho sobre o tema.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "ctn.208-G",
+  "para": "cpc.1035",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 1.035 do Código de Processo Civil disciplina o regime de repercussão geral para o conhecimento do recurso extraordinário pelo Supremo Tribunal Federal, e a alínea b do inciso I do art. 208-G do Código Tributário Nacional dá efeito vinculante, no âmbito do processo administrativo fiscal, às decisões transitadas em julgado proferidas sob essa sistemática, estendendo às autoridades fazendárias a observância do precedente assim formado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "lcp227.74",
+  "para": "cpc.1035",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 1.035 do Código de Processo Civil disciplina o regime de repercussão geral para o conhecimento do recurso extraordinário, e o inciso IV do art. 74 da LC 227/2026 dá efeito vinculante, no processo administrativo tributário do IBS e da CBS, às decisões do Supremo Tribunal Federal proferidas na sistemática da repercussão geral, estendendo a observância do precedente às autoridades julgadoras desse contencioso administrativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "cpc.994",
+  "para": "clt.893",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 994 do Código de Processo Civil lista os recursos cabíveis no processo civil, entre eles agravo interno, recurso especial, recurso extraordinário e embargos de divergência, e o art. 893 da CLT estabelece rol próprio e mais restrito para o processo do trabalho, limitado a embargos, recurso ordinário, recurso de revista e agravo, dois róis que podem ser confundidos por quem lida com as duas esferas processuais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "l12016.18",
+  "para": "cpc.994",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 994 do Código de Processo Civil lista, entre os recursos cabíveis no processo civil, o recurso ordinário, o recurso especial e o recurso extraordinário, e o art. 18 da Lei 12.016/2009 especializa esse rol para as decisões em mandado de segurança proferidas em única instância pelos tribunais, prevendo recurso ordinário quando a ordem for denegada e recurso especial ou extraordinário nos casos legalmente previstos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "cpc.994",
+  "para": "cpp.638",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 994 do Código de Processo Civil lista o recurso extraordinário e o recurso especial entre os recursos cabíveis no processo civil, e o art. 638 do Código de Processo Penal determina que esses mesmos recursos, quando interpostos em matéria criminal, sejam processados e julgados no Supremo Tribunal Federal e no Superior Tribunal de Justiça também pela lei processual civil, de modo que o Código de Processo Civil se aplica subsidiariamente ao processo penal nessa matéria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "l9099.83",
+  "para": "cpc.994",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 994 do Código de Processo Civil inclui os embargos de declaração entre os recursos cabíveis no processo civil, e o art. 83 da Lei 9.099/1995 especializa esse instituto para os Juizados Especiais Cíveis, admitindo os embargos de declaração especificamente nos casos de obscuridade, contradição ou omissão em sentença ou acórdão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "l11101.100",
+  "para": "cpc.994",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 994 do Código de Processo Civil inclui a apelação e o agravo de instrumento entre os recursos cabíveis no processo civil, e o art. 100 da Lei 11.101/2005 especializa essa regra ao atribuir agravo à decisão que decreta a falência e apelação à sentença que julga improcedente o pedido de falência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "cf.105",
+  "para": "cpp.84",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 84 do Código de Processo Penal atribui, de forma geral, ao Superior Tribunal de Justiça a competência pela prerrogativa de função para processar e julgar crimes comuns e de responsabilidade, e a alínea a do inciso I do art. 105 da Constituição especializa essa competência ao definir que ela recai sobre os Governadores dos Estados e do Distrito Federal, nos crimes comuns, e sobre desembargadores e membros de Tribunais de Contas estaduais, entre outras autoridades, nos crimes comuns e de responsabilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "cf.102",
+  "para": "cpp.84",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 84 do Código de Processo Penal atribui, de forma geral, ao Supremo Tribunal Federal a competência pela prerrogativa de função para processar e julgar crimes comuns e de responsabilidade, e a alínea b do inciso I do art. 102 da Constituição especializa essa competência ao definir que ela recai sobre o Presidente da República, o Vice-Presidente, os membros do Congresso Nacional, os próprios Ministros do Supremo Tribunal Federal e o Procurador-Geral da República, nas infrações penais comuns.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "cpp.84",
+  "para": "cf.86",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 84 do Código de Processo Penal atribui ao Supremo Tribunal Federal competência pela prerrogativa de função tanto para crimes comuns quanto para crimes de responsabilidade, mas o art. 86 da Constituição excepciona essa regra quanto ao Presidente da República, que responde perante o Supremo Tribunal Federal apenas nas infrações penais comuns, cabendo o julgamento dos crimes de responsabilidade ao Senado Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "ctn.187",
+  "para": "lef.29",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 187 do Código Tributário Nacional dispõe que a cobrança judicial do crédito tributário não se sujeita a concurso de credores ou habilitação em falência, recuperação judicial, concordata, inventário ou arrolamento, e o art. 29 da Lei de Execução Fiscal complementa essa regra ao estendê-la a toda a dívida ativa da Fazenda Pública, tributária ou não, mantendo a mesma ordem de preferência entre União, Estados, Distrito Federal e Territórios e Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "ctn.187",
+  "para": "lef.5",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 187 do Código Tributário Nacional afasta o crédito tributário do concurso de credores e da habilitação em processos concursais, e o art. 5º da Lei de Execução Fiscal reforça essa autonomia ao estabelecer que a competência para processar e julgar a execução da dívida ativa exclui a de qualquer outro juízo, inclusive o da falência, concordata, liquidação, insolvência ou inventário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "ctn.187",
+  "para": "l8212.51",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 187 do Código Tributário Nacional estabelece a ordem de preferência entre pessoas jurídicas de direito público no concurso de credores, iniciando pela União, e o art. 51 da Lei 8.212/1991 complementa esse regime ao equiparar aos créditos da União, para esse mesmo concurso nos processos de falência e concordata, o crédito relativo às contribuições previdenciárias e seus acréscimos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "d70235.42",
+  "para": "ctn.208-C",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 208-C do Código Tributário Nacional remete à legislação específica a disciplina dos julgamentos de primeira e segunda instâncias no contencioso administrativo fiscal, e o art. 42 do Decreto 70.235/1972 regulamenta essa remissão ao definir quando as decisões de primeira e segunda instâncias e da instância especial se tornam definitivas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "lcp227.77",
+  "para": "ctn.208-C",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 208-C do Código Tributário Nacional prevê o cabimento de remessa necessária da decisão de primeira instância contrária à Fazenda Pública, e o art. 77 da LC 227/2026 especializa esse mesmo instituto para o contencioso administrativo do IBS e da CBS sob o nome de recurso de ofício, interposto ex lege sempre que a decisão for, no todo ou em parte, contrária à Fazenda Pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "ctn.208-C",
+  "para": "cpc.1022",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 208-C do Código Tributário Nacional admite embargos de declaração no processo administrativo fiscal para esclarecer obscuridade, suprir omissão ou eliminar contradição ou erro material, nos mesmos termos do art. 1.022 do Código de Processo Civil para as decisões judiciais, instituto que pode ser confundido pelo intérprete menos atento às diferenças de prazo e de órgão julgador entre as duas esferas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "lcp227.62",
+  "para": "ctn.208-D",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 208-D do Código Tributário Nacional determina que os prazos do processo administrativo fiscal sejam contados em dias úteis, excluindo o dia do início e incluindo o do vencimento, e o art. 62 da LC 227/2026 especializa essa mesma regra de contagem para os prazos processuais do contencioso administrativo do IBS e da CBS, com a mesma forma de exclusão e inclusão dos dias inicial e final.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "ctn.208-D",
+  "para": "floripa_ctm.508",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 208-D do Código Tributário Nacional conta os prazos do processo administrativo fiscal federal em dias úteis, enquanto o art. 508 do Código Tributário Municipal de Florianópolis mantém a contagem em dias contínuos para os processos tributários municipais, regras opostas sobre o mesmo instituto que podem induzir o contribuinte a erro quanto ao prazo de que efetivamente dispõe.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "ctn.208-D",
+  "para": "d70235.5-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 5º do art. 208-D do Código Tributário Nacional suspende o curso do prazo processual administrativo fiscal entre 20 de dezembro e 20 de janeiro, regra idêntica à que o art. 5º-A do Decreto 70.235/1972 prevê para o processo administrativo fiscal federal regulado por esse decreto, de modo que os dois dispositivos se complementam ao garantir o mesmo recesso de prazos nos dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T10:21:50+00:00"
  }
 ]
