@@ -14257,5 +14257,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T01:10:20+00:00"
+ },
+ {
+  "de": "adct.27",
+  "para": "cf.104",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 5º do art. 27 do ADCT determina que os Ministros indicados pelo Tribunal Federal de Recursos para a composição inicial do Superior Tribunal de Justiça sejam listados em lista tríplice observado o parágrafo único do art. 104 da Constituição, que fixa o número mínimo de Ministros e os critérios de nomeação do Tribunal em caráter permanente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "adct.27",
+  "para": "cf.107",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 9º do art. 27 do ADCT permite, na falta de juiz federal com o tempo mínimo exigido, a promoção de juiz com menos de cinco anos de exercício ao cargo de Tribunal Regional Federal, ressalvando expressamente o critério de antiguidade do inciso II do art. 107 da Constituição, que disciplina de modo permanente a composição desses tribunais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "adct.27",
+  "para": "cf.106",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 27 do ADCT criou, em caráter transitório, os Tribunais Regionais Federais e fixou suas sedes e jurisdições iniciais, complementando o art. 106 da Constituição, que apenas relaciona os Tribunais Regionais Federais e os juízes federais como órgãos da Justiça Federal, sem detalhar sua composição inicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "clt.897",
+  "para": "cpc.994",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A alínea b do art. 897 da CLT chama de agravo de instrumento o recurso cabível contra o despacho que denega a interposição de outro recurso trabalhista, enquanto o art. 994 do CPC lista o agravo de instrumento como recurso cível de hipóteses bem mais amplas, voltado a decisões interlocutórias em geral, o que gera risco de se supor que os dois recursos têm o mesmo cabimento apesar do nome comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "cpc.1027",
+  "para": "l12016.18",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 18 da Lei 12.016/09 já previa o cabimento de recurso ordinário quando denegada, em única instância, a ordem de mandado de segurança, e o inciso II, a, do art. 1.027 do CPC complementa essa regra ao especificar que compete ao Superior Tribunal de Justiça julgá-lo quando a decisão denegatória partir de Tribunal Regional Federal ou de tribunal dos Estados, do Distrito Federal e Territórios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "cpc.1027",
+  "para": "cf.108",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O inciso II, a, do art. 1.027 do CPC regula o recurso ordinário contra mandado de segurança decidido em única instância pelos Tribunais Regionais Federais, situação cuja competência originária para julgar o próprio mandado de segurança o art. 108, I, c, da Constituição atribui a esses mesmos tribunais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "cpc.1035-A",
+  "para": "clt.896-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.035-A do CPC exige a demonstração de relevância da questão de direito federal infraconstitucional para a admissão do recurso especial, filtro análogo ao exame de transcendência do art. 896-A da CLT para o recurso de revista, mas os dois institutos pertencem a recursos e tribunais diferentes, com requisitos e critérios próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "cpc.1035-A",
+  "para": "cf.102",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A relevância exigida pelo art. 1.035-A do CPC para o recurso especial é filtro análogo à repercussão geral do § 3º do art. 102 da Constituição, exigida para o recurso extraordinário, mas os dois requisitos de admissibilidade incidem sobre recursos e tribunais distintos, o que pode gerar confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "cpp.667",
+  "para": "cf.121",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 667 do CPP disciplina o processamento do recurso contra decisão denegatória de habeas corpus de última ou única instância, hipótese que inclui o recurso ao Supremo Tribunal Federal contra as decisões do Tribunal Superior Eleitoral, que o inciso V do § 4º e o § 3º do art. 121 da Constituição ressalvam da regra geral de irrecorribilidade das decisões eleitorais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "d70235.37",
+  "para": "lcp227.173",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 173 da LC 227/2026 deu nova redação ao § 5º do art. 37 do Decreto 70.235/72, acrescentando a contribuição social sobre bens e serviços ao regime do recurso especial e fixando prazo de dez dias úteis para sua interposição nessa hipótese.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "d70235.37",
+  "para": "ctn.208-C",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 208-C do CTN estabelece, em caráter geral, o cabimento de recurso especial contra decisão de segunda instância que confira à legislação tributária interpretação divergente da adotada por outro colegiado do mesmo tribunal administrativo, remetendo a disciplina à legislação específica, e é o art. 37 do Decreto 70.235/72 que especializa essa regra para o processo administrativo fiscal federal, fixando o órgão julgador e os prazos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "d70235.37",
+  "para": "ctn.208-D",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 208-D do CTN assegura, de modo geral, o direito à interposição de recurso especial no prazo de vinte dias nas hipóteses previstas na legislação, e o § 2º do art. 37 do Decreto 70.235/72 especializa esse prazo para o recurso especial ao Conselho Administrativo de Recursos Fiscais, fixando-o em quinze dias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "d70235.37",
+  "para": "lcp227.79",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 79 da LC 227/2026 cria o recurso de uniformização dirigido à Câmara Superior do IBS, mas o § 6º desse mesmo artigo afasta expressamente seu cabimento quando a divergência envolver legislação comum do IBS e da CBS, remetendo nesse caso ao recurso especial do art. 323-G da LC 214/2025, o que evidencia o risco de se confundir esse recurso de uniformização com o recurso especial do art. 37 do Decreto 70.235/72, ambos destinados a uniformizar a jurisprudência administrativa a partir de decisões divergentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "d70235.37",
+  "para": "lcp227.323-G",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 323-G da LC 227/2026 também denomina recurso especial o meio de uniformizar decisões divergentes sobre a legislação comum do IBS e da CBS, mas atribui seu julgamento à Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS, órgão distinto da Câmara Superior de Recursos Fiscais a que se refere o art. 37 do Decreto 70.235/72 para os demais tributos federais, o que gera risco de confusão entre os dois recursos de mesmo nome.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "l11101.19",
+  "para": "cpc.45",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 45 do CPC ressalva da remessa à Justiça Federal, mesmo com a intervenção da União ou de entidade federal, as ações de recuperação judicial, falência e insolvência civil, preservando a competência do juízo universal que o § 1º do art. 19 da Lei 11.101/05 reafirma ao fixar que a ação de exclusão, reclassificação ou retificação de crédito seja proposta exclusivamente perante o juízo da recuperação ou da falência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "l11101.19",
+  "para": "ctn.187",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 187 do CTN excepciona a cobrança judicial do crédito tributário do concurso de credores e da habilitação em falência ou recuperação judicial, de modo que a ação de exclusão, reclassificação ou retificação de crédito do art. 19 da Lei 11.101/05 não alcança os créditos tributários, cobrados por execução fiscal própria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "l11101.19",
+  "para": "cc.956",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 956 do Código Civil admite a discussão entre credores sobre a nulidade, a simulação, a fraude ou a falsidade das dívidas e contratos, regra geral que o art. 19 da Lei 11.101/05 especializa para a recuperação judicial e a falência, ao criar ação própria, de competência exclusiva do juízo falimentar, para excluir, reclassificar ou retificar crédito nessas mesmas hipóteses.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T06:10:38+00:00"
  }
 ]
