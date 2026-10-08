@@ -15697,5 +15697,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T17:20:50+00:00"
+ },
+ {
+  "de": "cc.1015",
+  "para": "lsa.144",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos definem o poder do administrador para praticar atos de gestão quando o ato constitutivo é omisso, mas em regimes societários distintos: o art. 1.015 do Código Civil impõe, na sociedade simples, que a oneração ou venda de imóvel estranho ao objeto social dependa de deliberação da maioria dos sócios, enquanto o art. 144 da Lei das S/A atribui a qualquer diretor, no silêncio do estatuto, a prática dos atos necessários ao funcionamento regular da companhia, sem essa restrição especial quanto a imóveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T18:15:35+00:00"
+ },
+ {
+  "de": "cpp.593",
+  "para": "cpc.1009",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 593 do CPP e o art. 1.009 do CPC tratam do mesmo recurso, a apelação, mas em regimes processuais distintos: o prazo e as hipóteses de cabimento da apelação criminal, fixados no art. 593, não coincidem com os da apelação cível, prevista de forma genérica no art. 1.009, o que gera risco de aplicação cruzada indevida das regras de cada processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T18:15:35+00:00"
+ },
+ {
+  "de": "cpp.593",
+  "para": "clt.895",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A CLT denomina recurso ordinário, no art. 895, a impugnação das decisões definitivas de primeira instância, cumprindo função equivalente à da apelação, mas com prazo de 8 dias e hipóteses próprias do processo do trabalho, distintas do prazo de 5 dias e das hipóteses da apelação criminal do art. 593 do CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T18:15:35+00:00"
+ },
+ {
+  "de": "l10522.10-B",
+  "para": "l13988.11",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parcelamento do art. 10-B da Lei 10.522/02 e a transação tributária do art. 11 da Lei 13.988/20 são institutos distintos para equacionar débitos fiscais de empresa em recuperação judicial, mas podem ser confundidos: o parcelamento apenas alonga o prazo de pagamento, enquanto a transação pode conceder descontos de multas e juros, com requisitos e efeitos próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T18:15:35+00:00"
+ },
+ {
+  "de": "l11101.81",
+  "para": "cc.990",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 81 da Lei 11.101/05 estende a falência aos sócios ilimitadamente responsáveis, categoria cuja responsabilidade solidária e ilimitada pelas obrigações sociais é definida pelo art. 990 do Código Civil para a sociedade em comum, de modo que um dispositivo depende da qualificação dada pelo outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T18:15:35+00:00"
+ },
+ {
+  "de": "l11101.82-A",
+  "para": "l8078.28",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 82-A da Lei 11.101/05 remete à teoria maior do art. 50 do Código Civil, que exige desvio de finalidade ou confusão patrimonial, enquanto o art. 28 do CDC adota a teoria menor, que dispensa abuso e admite a desconsideração também pela insolvência, encerramento ou inatividade provocados por má administração, risco de se aplicar o critério mais brando do CDC ao juízo falimentar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T18:15:35+00:00"
+ },
+ {
+  "de": "l11101.83",
+  "para": "ctn.187",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 187 do CTN dispensa a cobrança judicial do crédito tributário de concurso de credores ou habilitação em falência, enquanto o art. 83 da Lei 11.101/05 inclui expressamente o crédito tributário na ordem de classificação dos créditos concursais, o que gera conflito aparente entre a autonomia da execução fiscal e a submissão do crédito tributário à ordem de pagamento da falência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T18:15:35+00:00"
+ },
+ {
+  "de": "l11101.84",
+  "para": "cc.965",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 965 do Código Civil fixa a ordem de privilégio geral sobre os bens do devedor no concurso civil, incluindo o crédito por custas judiciais, enquanto o art. 84 da Lei 11.101/05 trata da ordem de pagamento dos créditos extraconcursais na falência empresarial, regime próprio que não se confunde com o concurso de credores do devedor civil comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T18:15:35+00:00"
+ },
+ {
+  "de": "l11101.90",
+  "para": "l8397.17",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Tanto o art. 90 da Lei 11.101/05 quanto o art. 17 da Lei 8.397/92 afastam o efeito suspensivo da apelação e condicionam a reversão desse efeito a uma garantia, mas invertem o polo que a presta: na restituição falimentar é o autor do pedido que presta caução para receber antes do trânsito em julgado, enquanto na cautelar fiscal é o requerido que oferece garantia para suspender a execução da sentença.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T18:15:35+00:00"
  }
 ]
