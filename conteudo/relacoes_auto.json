@@ -14427,5 +14427,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T06:10:38+00:00"
+ },
+ {
+  "de": "cpc.427",
+  "para": "cc.956",
+  "tipo": "procedimento_de",
+  "grau": "contato",
+  "porque": "O incidente de falsidade documental regulado pelo art. 427 do CPC é o procedimento pelo qual se resolve a discussão sobre a falsidade de dívidas e contratos mencionada no art. 956 do Código Civil, ainda que os dois dispositivos tratem de institutos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T09:17:26+00:00"
+ },
+ {
+  "de": "adct.100",
+  "para": "cf.104",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 100 do ADCT fixa a aposentadoria compulsória aos setenta e cinco anos para os Ministros do Superior Tribunal de Justiça, complementando o regime de investidura do art. 104 da Constituição Federal, que exige idade entre trinta e cinco e setenta anos para a nomeação dos Ministros.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T09:17:26+00:00"
+ },
+ {
+  "de": "cpp.84",
+  "para": "cf.108",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 84 do CPP atribui ao Supremo Tribunal Federal, ao Superior Tribunal de Justiça, aos Tribunais Regionais Federais e aos Tribunais de Justiça a competência pela prerrogativa de função para os crimes comuns e de responsabilidade, complementando a competência originária que o art. 108, I, a, da Constituição Federal atribui ao Tribunal Regional Federal para julgar os juízes federais e os membros do Ministério Público da União.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T09:17:26+00:00"
+ },
+ {
+  "de": "l12016.18",
+  "para": "cf.121",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 18 da Lei 12.016/09 regulamenta o recurso cabível contra a decisão de mandado de segurança denegada em única instância por tribunal, dando efetividade ao recurso previsto no art. 121, § 4º, V, da Constituição Federal contra a decisão do Tribunal Regional Eleitoral que denegar mandado de segurança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T09:17:26+00:00"
+ },
+ {
+  "de": "cf.121",
+  "para": "l12016.1",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 121, § 3º, da Constituição Federal condiciona a irrecorribilidade das decisões do Tribunal Superior Eleitoral à denegação de mandado de segurança, instituto definido e disciplinado pelo art. 1º da Lei 12.016/09.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T09:17:26+00:00"
+ },
+ {
+  "de": "clt.896-A",
+  "para": "cpc.1035",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos criam filtros de relevância para a admissibilidade do recurso aos tribunais superiores, mas com critérios próprios: o art. 896-A da CLT exige transcendência econômica, política, social ou jurídica para o recurso de revista ao Tribunal Superior do Trabalho, enquanto o art. 1.035 do CPC exige repercussão geral para o recurso extraordinário ao Supremo Tribunal Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T09:17:26+00:00"
+ },
+ {
+  "de": "cpc.45",
+  "para": "cf.109",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 45 do CPC regulamenta, no plano processual, a competência da Justiça Federal fixada no art. 109, I, da Constituição Federal, inclusive repetindo as mesmas exceções de falência, acidente de trabalho e justiça eleitoral e do trabalho previstas no dispositivo constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T09:17:26+00:00"
+ },
+ {
+  "de": "l11101.3",
+  "para": "cpc.45",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 3º da Lei 11.101/05 fixa a competência do juízo do local do principal estabelecimento do devedor para a recuperação judicial e a falência, regra especial que explica a exclusão dessas ações do deslocamento de competência para a Justiça Federal previsto no art. 45, I, do CPC mesmo quando a União intervém no feito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T09:17:26+00:00"
  }
 ]
