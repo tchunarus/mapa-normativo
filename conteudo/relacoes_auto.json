@@ -15157,5 +15157,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T13:26:00+00:00"
+ },
+ {
+  "de": "cc.1123",
+  "para": "lsa.255",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.123 do Código Civil sujeita a sociedade dependente de autorização do Poder Executivo para funcionar ao regime do título e reserva à competência federal a autorização; o art. 255 da Lei das S.A. complementa esse regime ao exigir, para a companhia aberta nessa situação, prévia autorização do mesmo órgão competente também para a alienação do controle acionário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:21:29+00:00"
+ },
+ {
+  "de": "cc.1123",
+  "para": "lsa.268",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.123 do Código Civil submete a sociedade dependente de autorização do Poder Executivo ao regime do título e à competência federal para autorizá-la; o art. 268 da Lei das S.A. complementa esse regime ao condicionar, para a companhia nessa situação, a participação em grupo de sociedades à aprovação da convenção de grupo pela mesma autoridade competente para aprovar alterações estatutárias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:21:29+00:00"
+ },
+ {
+  "de": "cc.132",
+  "para": "ctn.210",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 132 do Código Civil e o art. 210 do CTN compartilham a mesma fórmula de contagem de prazo, com exclusão do dia do começo e inclusão do dia do vencimento, mas o parágrafo único do art. 210 condiciona o início e o vencimento do prazo tributário a dia de expediente normal na repartição em que corra o processo, peculiaridade da relação entre fisco e contribuinte sem equivalente no art. 132 do CC, que apenas prorroga o vencimento caído em feriado, conforme o § 1º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:21:29+00:00"
+ },
+ {
+  "de": "cc.132",
+  "para": "clt.775",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 132 do CC conta os prazos de forma contínua, excluído o dia do começo e incluído o do vencimento; o art. 775 da CLT adota a mesma fórmula de exclusão e inclusão, mas determina que os prazos trabalhistas sejam contados em dias úteis, e não em dias corridos como na regra civil, o que gera risco de aplicar a contagem corrida do CC a prazo processual trabalhista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:21:29+00:00"
+ },
+ {
+  "de": "cc.132",
+  "para": "l9784.66",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 132 do CC e o art. 66 da Lei 9.784/99 adotam a mesma fórmula de exclusão do dia do começo e inclusão do dia do vencimento, mas o art. 66 prorroga o vencimento ao primeiro dia útil seguinte quando não houver expediente ou este for encerrado antes da hora normal, conforme o § 1º, hipótese de prorrogação mais ampla que a do § 1º do art. 132 do CC, restrita ao vencimento caído em feriado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:21:29+00:00"
+ },
+ {
+  "de": "cpp.619",
+  "para": "cpc.1023",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 619 do CPP admite embargos de declaração contra acórdão no prazo de dois dias, por ambiguidade, obscuridade, contradição ou omissão; o art. 1.023 do CPC prevê o mesmo recurso, com idênticas hipóteses de cabimento, mas no prazo de cinco dias, o que gera risco de confusão sobre qual prazo aplicar conforme a natureza penal ou cível do processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:21:29+00:00"
+ },
+ {
+  "de": "cpp.619",
+  "para": "l9099.83",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 619 do CPP fixa prazo de dois dias para os embargos de declaração contra acórdão penal; o art. 83 da Lei 9.099/95 prevê o mesmo recurso, inclusive para os Juizados Especiais Criminais, com prazo de cinco dias conforme o § 1º, o que pode gerar confusão sobre qual prazo incide quando o crime for de menor potencial ofensivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:21:29+00:00"
+ },
+ {
+  "de": "cpp.619",
+  "para": "lcp227.80",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 619 do CPP disciplina os embargos de declaração contra acórdão penal no prazo de dois dias; o art. 80 da LC 227/2026 prevê, para o contencioso administrativo do IBS e da CBS, o pedido de retificação, com a mesma função de corrigir erro de fato, eliminar contradição ou obscuridade e suprir omissão, mas sob outro nome e com prazo de cinco dias, o que pode gerar confusão entre os dois institutos afins.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:21:29+00:00"
+ },
+ {
+  "de": "cpp.798-A",
+  "para": "clt.775-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 798-A do CPP e o art. 775-A da CLT suspendem o curso do prazo processual no mesmo período, de 20 de dezembro a 20 de janeiro, mas o CPP ressalva, nos incisos I a III, os processos com réus presos, os regidos pela Lei Maria da Penha e as medidas urgentes, hipóteses de exceção próprias do processo penal sem correspondente no § 1º do art. 775-A da CLT, que apenas afasta férias individuais e feriados legais do dever de os juízes e auxiliares exercerem suas atribuições no período.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:21:29+00:00"
+ },
+ {
+  "de": "ctn.210",
+  "para": "l9784.66",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 210 do CTN e o art. 66 da Lei 9.784/99 compartilham a mesma fórmula de contagem de prazo, com exclusão do dia do começo e inclusão do dia do vencimento, mas o art. 66 prorroga o vencimento ao primeiro dia útil seguinte quando não houver expediente ou este for encerrado antes da hora normal, conforme o § 1º, prorrogação mais ampla que a do parágrafo único do art. 210 do CTN, que apenas condiciona início e vencimento a dia de expediente normal na repartição, sem prever prorrogação expressa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:21:29+00:00"
+ },
+ {
+  "de": "ctn.210",
+  "para": "lcp227.62",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 210 do CTN conta os prazos tributários de forma contínua, excluído o dia do começo e incluído o do vencimento; o art. 62 da LC 227/2026, para o contencioso administrativo do IBS e da CBS, adota contagem em dias úteis, e não corridos, mantidas a mesma exclusão e inclusão, o que pode levar a aplicar por engano a contagem corrida do CTN a prazo do novo contencioso tributário regido pela LC 227/2026.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:21:29+00:00"
+ },
+ {
+  "de": "l11101.188",
+  "para": "l9099.92",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 188 da Lei 11.101/2005 determina a aplicação subsidiária do Código de Processo Penal aos crimes falimentares nela tipificados, no que não for incompatível com a lei; o art. 92 da Lei 9.099/95 contém cláusula de aplicação subsidiária quase idêntica, estendida também ao Código Penal, para os Juizados Especiais Criminais, o que pode gerar confusão sobre qual microssistema de aplicação subsidiária do processo penal comum incide em cada hipótese.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:21:29+00:00"
+ },
+ {
+  "de": "l11101.188",
+  "para": "lef.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 188 da Lei 11.101/2005 determina a aplicação subsidiária do Código de Processo Penal aos crimes falimentares; o art. 1º da Lei 6.830/80 utiliza a mesma técnica de aplicação subsidiária, mas remete ao Código de Processo Civil para reger a execução fiscal, o que pode gerar confusão sobre qual código processual se aplica subsidiariamente a cada tipo de processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:21:29+00:00"
+ },
+ {
+  "de": "cpp.798-A",
+  "para": "lcp227.62",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 798-A do CPP e o art. 62 da LC 227/2026, em seu § 2º, suspendem o prazo processual no mesmo período de recesso, de 20 de dezembro a 20 de janeiro, mas o CPP admite exceções para processos com réus presos, para os regidos pela Lei Maria da Penha e para medidas urgentes, conforme os incisos I a III, hipóteses sem equivalente na suspensão do contencioso administrativo tributário do IBS e da CBS disciplinada pela LC 227/2026.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:23:07+00:00"
+ },
+ {
+  "de": "ctn.210",
+  "para": "d9580.1038",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.038 do RIR/2018, em seu § 1º, reproduz a regra do parágrafo único do art. 210 do CTN, segundo a qual o prazo só se inicia ou vence em dia de expediente normal na repartição; o caput do art. 1.038 regulamenta, para o imposto de renda, a mesma contagem contínua de prazo prevista no caput do art. 210 do CTN, citando-o expressamente como fundamento legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T14:23:07+00:00"
  }
 ]
