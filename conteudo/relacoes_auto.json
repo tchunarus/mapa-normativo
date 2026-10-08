@@ -16387,5 +16387,195 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T22:18:34+00:00"
+ },
+ {
+  "de": "cc.1172",
+  "para": "l12846.26",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 1.172 do Código Civil define gerente como o preposto permanente no exercício da empresa, em sua sede ou em sucursal, filial ou agência, e o § 2º do art. 26 da Lei 12.846/13 emprega exatamente essa figura ao atribuir ao gerente, representante ou administrador da filial, agência ou sucursal a representação da pessoa jurídica estrangeira no processo administrativo, em âmbito distinto, o da responsabilização por atos lesivos à administração pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "cc.1172",
+  "para": "clt.861",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 1.172 do Código Civil conceitua o gerente como o preposto permanente da empresa, e o art. 861 da CLT usa essa mesma figura ao permitir que o empregador se faça representar na audiência pelo gerente ou por outro preposto com conhecimento do dissídio, no processo do trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "cc.1172",
+  "para": "clt.843",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 1.172 do Código Civil define o gerente como preposto permanente da empresa, e o § 1º do art. 843 da CLT recorre à mesma figura ao facultar ao empregador fazer-se substituir, na audiência, pelo gerente ou por outro preposto que tenha conhecimento do fato, com efeito vinculante sobre as suas declarações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "cc.1172",
+  "para": "cpc.242",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 1.172 do Código Civil qualifica como gerente o preposto permanente no exercício da empresa, e o § 1º do art. 242 do CPC utiliza essa categoria ao autorizar a citação na pessoa do mandatário, administrador, preposto ou gerente quando a ação se originar de atos por eles praticados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "cc.188",
+  "para": "cp.25",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 188 do Código Civil afasta a ilicitude do ato praticado em legítima defesa sem definir os seus elementos, remetendo à noção geral de legítima defesa que o art. 25 do Código Penal define como o uso moderado dos meios necessários para repelir injusta agressão, atual ou iminente, a direito próprio ou alheio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "cc.188",
+  "para": "cp.24",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso II e o parágrafo único do art. 188 do Código Civil tratam de hipótese próxima ao estado de necessidade ao afastar a ilicitude da deterioração de coisa alheia para remover perigo iminente, mas há risco de confusão com o art. 24 do Código Penal, pois o regime civil, ainda quando reconhece a licitude do ato, pode impor o dever de indenizar o dono da coisa, consequência estranha à exclusão do crime prevista no tipo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "cc.188",
+  "para": "cp.23",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 188 do Código Civil e o art. 23 do Código Penal tratam de excludentes com nomes semelhantes, legítima defesa e exercício regular de direito, mas há risco de confusão quanto ao alcance de cada um, pois o dispositivo civil não repete a excludente de estrito cumprimento de dever legal prevista no inciso III do art. 23 e trata de hipótese própria de remoção de perigo iminente, distinta do estado de necessidade penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "cp.23",
+  "para": "cpp.397",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 397 do Código de Processo Penal determina a absolvição sumária quando houver causa excludente da ilicitude do fato manifestamente demonstrada, hipótese que corresponde às excludentes de estado de necessidade, legítima defesa e estrito cumprimento de dever legal ou exercício regular de direito enumeradas no art. 23 do Código Penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "l12846.26",
+  "para": "l13709.61",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 26 da Lei 12.846/13 atribui ao gerente, representante ou administrador da filial, agência ou sucursal a representação da pessoa jurídica estrangeira no processo administrativo de apuração de responsabilidade, e o art. 61 da LGPD emprega estrutura semelhante ao determinar que a empresa estrangeira seja notificada e intimada na pessoa do agente ou representante responsável por sua filial, agência, sucursal, estabelecimento ou escritório no Brasil, o que gera risco de se tomar uma representação pela outra apesar de cada uma se referir a regime próprio e a atos processuais distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "l13709.42",
+  "para": "cc.942",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O inciso II do § 1º do art. 42 da LGPD prevê a responsabilidade solidária dos controladores diretamente envolvidos no tratamento que causou dano ao titular dos dados, regra especial em relação à solidariedade entre coautores de dano prevista no parágrafo único do art. 942 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "l13709.42",
+  "para": "cc.186",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 42 da LGPD impõe o dever de reparar o dano decorrente de violação à legislação de proteção de dados sem definir o que configura ato ilícito, remetendo à noção geral do art. 186 do Código Civil, segundo o qual comete ato ilícito quem, por ação ou omissão voluntária, negligência ou imprudência, viola direito e causa dano a outrem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "l13709.42",
+  "para": "l8213.124-G",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 124-G da Lei 8.213/91 determina que o tratamento de dados pessoais pelo INSS observe a Lei 13.709/2018, a LGPD, inclusive quanto às sanções administrativas, sem prejuízo das responsabilidades penal e civil, remetendo nesse ponto à responsabilidade civil do controlador prevista no art. 42 da LGPD para o tratamento irregular de dados pessoais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "l13709.42",
+  "para": "l12527.34",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 34 da LAI e o art. 42 da LGPD preveem regimes próximos de responsabilidade civil e direito de regresso pela divulgação ou pelo tratamento indevido de informações pessoais, com risco de confusão sobre qual regime se aplica aos órgãos e entidades públicas quando o incidente envolver dados pessoais sujeitos à LGPD.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "l13709.54",
+  "para": "l7347.11",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 54 da LGPD exige que a intimação da multa diária descreva a obrigação imposta e o prazo para cumprimento, nos mesmos moldes da multa diária prevista no art. 11 da Lei 7.347/85 para compelir o cumprimento de obrigação de fazer ou não fazer em ação civil pública, o que pode levar a se confundir a sanção administrativa da autoridade nacional com a medida coercitiva judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "l13709.54",
+  "para": "cc.944",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 54 da LGPD determina que a multa diária observe a gravidade da falta e a extensão do dano ou prejuízo causado, critério que reproduz o parâmetro do art. 944 do Código Civil, segundo o qual a indenização mede-se pela extensão do dano, apesar de se tratar ali de indenização civil compensatória e aqui de sanção administrativa punitiva.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "l13874.10",
+  "para": "d70235.64-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 2º-A da Lei 12.682/2012, acrescentado pelo art. 10 da Lei 13.874/19, autoriza de modo geral o armazenamento de documentos públicos ou privados em meio eletrônico ou óptico, e o art. 64-A do Decreto 70.235/72 especializa esse regime para o processo administrativo fiscal ao prever a digitalização dos documentos que o instruem com expressa remissão aos arts. 1º e 3º da Lei 12.682/2012.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "l13874.10",
+  "para": "l8934.57",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 2º-A da Lei 12.682/2012, acrescentado pela Lei 13.874/19, permite a eliminação dos documentos armazenados em meio eletrônico, óptico ou equivalente depois de decorridos os prazos de decadência ou prescrição, e o art. 57 da Lei 8.934/94 especializa regra próxima ao permitir às juntas comerciais eliminar atos e documentos depois de microfilmados ou de preservada a sua imagem por meios tecnológicos mais avançados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "l13874.10",
+  "para": "l9492.39",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 2º-A da Lei 12.682/2012, acrescentado pela Lei 13.874/19, confere ao documento digital o mesmo valor probatório do original, regra que o art. 39 da Lei 9.492/97 especializa para os títulos e documentos arquivados no Tabelionato de Protesto ao atribuir à reprodução por microfilme ou processamento eletrônico, quando autenticada pelo Tabelião, o mesmo valor do original, independentemente de restauração judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "l13874.10",
+  "para": "lcp227.58",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 2º-A da Lei 12.682/2012, acrescentado pela Lei 13.874/19, equipara o documento digital ao original para todos os fins de direito, e o art. 58 da LC 227/2026 especializa regra semelhante para a legislação tributária ao considerar originais, para todos os efeitos legais, os documentos transmitidos por meio eletrônico com garantia de autoria, autenticidade e integridade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T23:21:49+00:00"
  }
 ]
