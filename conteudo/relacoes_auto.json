@@ -15787,5 +15787,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T18:15:35+00:00"
+ },
+ {
+  "de": "cc.965",
+  "para": "l11101.83",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 965 do Código Civil fixa a ordem do privilégio geral sobre os bens do devedor fora da falência, da despesa de funeral ao crédito por impostos devidos à Fazenda Pública, no inciso VI, e aos salários domésticos, no inciso VII. O art. 83 da Lei 11.101/05 estabelece ordem diversa, específica para a classificação dos créditos na falência, iniciando pelos créditos trabalhistas e de acidente de trabalho e colocando os créditos com garantia real antes dos tributários. A existência de duas listas de preferência de créditos, com critérios e resultados próprios para cada regime, gera risco real de se aplicar a ordem civil extraconcursal do art. 965 a um processo de falência regido pelo art. 83.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T19:18:23+00:00"
+ },
+ {
+  "de": "l11101.115",
+  "para": "cc.990",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 990 do Código Civil responsabiliza solidária e ilimitadamente os sócios da sociedade em comum pelas obrigações sociais. O art. 115 da Lei 11.101/05 regula o procedimento pelo qual, decretada a falência, todos os credores ficam sujeitos a exercer seus direitos sobre os bens do falido e do sócio ilimitadamente responsável na forma da lei falimentar, dando efeito prático à responsabilidade ilimitada prevista no Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T19:18:23+00:00"
+ },
+ {
+  "de": "l11101.20",
+  "para": "cc.990",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 990 do Código Civil torna ilimitada a responsabilidade do sócio que contratou pela sociedade em comum pelas obrigações sociais. O art. 20 da Lei 11.101/05 disciplina o procedimento de habilitação dos credores particulares desse sócio ilimitadamente responsável perante a falência, tratando-se de instituto conexo e processual, distinto da responsabilidade civil substantiva definida no Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T19:18:23+00:00"
+ },
+ {
+  "de": "clt.895",
+  "para": "l9099.46",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 1º, IV, do art. 895 da CLT prevê que, no procedimento sumaríssimo trabalhista, a certidão de julgamento substitui o acórdão quando a sentença é confirmada pelos próprios fundamentos. O art. 46 da Lei 9.099/95 estabelece mecanismo equivalente para o julgamento em segunda instância nos juizados especiais, substituindo o acórdão pela ata do julgamento nessa mesma hipótese. A quase identidade de redação entre os dois dispositivos cria risco de se confundir o regime aplicável a cada procedimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T19:18:23+00:00"
+ },
+ {
+  "de": "l12016.1",
+  "para": "cpp.647",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1º da Lei 12.016/09 restringe o cabimento do mandado de segurança a direito líquido e certo não amparado por habeas corpus ou habeas data. O art. 647 do CPP define o habeas corpus como o remédio cabível sempre que alguém sofrer ou se achar na iminência de sofrer violência ou coação ilegal na liberdade de ir e vir. A delimitação textual exige identificar com precisão qual das duas ações constitucionais protege o direito concreto, sob risco de se impetrar o remédio incorreto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T19:18:23+00:00"
+ },
+ {
+  "de": "l12016.10",
+  "para": "cpc.331",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 10 da Lei 12.016/09 determina que, indeferida a inicial do mandado de segurança, caiba apelação ao juízo de primeiro grau ou agravo quando a competência for originária de tribunal. O art. 331 do CPC prevê, como regra geral do processo civil, que o indeferimento da petição inicial também desafia apelação, mas faculta ao juiz retratar-se em cinco dias antes de determinar a citação do réu, providência que o procedimento especial do mandado de segurança não contempla.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T19:18:23+00:00"
+ },
+ {
+  "de": "l12016.12",
+  "para": "cpc.180",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 12 da Lei 12.016/09 fixa prazo improrrogável de dez dias para a manifestação do Ministério Público no mandado de segurança e determina que os autos sigam conclusos ao juiz para decisão com ou sem parecer. O art. 180 do CPC prevê, como regra geral, prazo em dobro para a manifestação do Ministério Público e, em seu § 1º, a requisição dos autos pelo juiz quando esgotado o prazo sem parecer, regra geral que o procedimento especial do mandado de segurança afasta quanto ao prazo e à consequência do silêncio ministerial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T19:18:23+00:00"
+ },
+ {
+  "de": "l12016.14",
+  "para": "cpp.754",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 14 da Lei 12.016/09 disciplina o recurso de apelação contra a sentença que concede ou denega o mandado de segurança, ação constitucional que tutela direito líquido e certo contra ato ilegal de autoridade. O art. 754 do CPP trata da competência para a aplicação da medida de segurança, providência penal destinada a inimputável ou semi-imputável. A semelhança apenas nominal entre mandado de segurança e medida de segurança, institutos sem relação de conteúdo entre si, é fonte comum de confusão terminológica entre estudantes e operadores do direito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T19:18:23+00:00"
+ },
+ {
+  "de": "l12016.15",
+  "para": "l7347.12",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 15 da Lei 12.016/09 disciplina o pedido de suspensão da liminar ou da sentença em mandado de segurança pelo presidente do tribunal, a requerimento de pessoa jurídica de direito público ou do Ministério Público, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas, cabendo agravo sem efeito suspensivo no prazo de cinco dias. O § 1º do art. 12 da Lei 7.347/85 reproduz o mesmo mecanismo e os mesmos requisitos para a ação civil pública, com igual prazo e igual agravo cabível, de modo que a quase identidade de redação entre os dois dispositivos gera risco de se invocar o fundamento legal equivocado conforme a ação em curso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T19:18:23+00:00"
  }
 ]
