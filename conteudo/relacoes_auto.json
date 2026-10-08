@@ -14757,5 +14757,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T10:21:50+00:00"
+ },
+ {
+  "de": "clt.693",
+  "para": "cf.111-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 693 da CLT descreve o Tribunal Superior do Trabalho como composto por dezessete juízes, sendo onze togados vitalícios e seis classistas temporários, nomeados pelo Presidente da República após aprovação do Senado Federal, redação que permanece na compilação mas não corresponde à composição atual do Tribunal, fixada pelo art. 111-A da Constituição Federal em vinte e sete Ministros togados, sem juízes classistas, o que pode levar o intérprete a tomar por vigente uma composição já superada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T11:25:18+00:00"
+ },
+ {
+  "de": "cpp.1",
+  "para": "cf.86",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 1º do CPP ressalva, no processo penal comum, as prerrogativas constitucionais do Presidente da República e dos ministros do Supremo Tribunal Federal nos crimes de responsabilidade, remetendo expressamente ao art. 86 da Constituição Federal, que disciplina o julgamento do Presidente perante o Supremo Tribunal Federal nas infrações penais comuns e perante o Senado Federal nos crimes de responsabilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T11:25:18+00:00"
+ },
+ {
+  "de": "l9099.48",
+  "para": "cpc.1022",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 48 da Lei 9.099/95 dispõe que cabem embargos de declaração contra sentença ou acórdão nos Juizados Especiais Cíveis nos casos previstos no Código de Processo Civil, remetendo expressamente ao art. 1.022 do CPC para as hipóteses de obscuridade, contradição, omissão e erro material.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T11:25:18+00:00"
+ },
+ {
+  "de": "clt.897-A",
+  "para": "cpc.1022",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 897-A da CLT disciplina os embargos de declaração no processo do trabalho com prazo de cinco dias e restringe o efeito modificativo da decisão aos casos de omissão, contradição no julgado e manifesto equívoco no exame dos pressupostos extrínsecos do recurso, regra especial que afasta, no âmbito trabalhista, a disciplina mais ampla do art. 1.022 do CPC sobre obscuridade, contradição, omissão e erro material.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T11:25:18+00:00"
+ },
+ {
+  "de": "cpp.382",
+  "para": "cpc.1022",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 382 do CPP permite que qualquer das partes peça ao juiz que declare a sentença, no prazo de dois dias, quando houver obscuridade, ambiguidade, contradição ou omissão, prazo mais exíguo e hipótese adicional de ambiguidade que tornam essa norma processual penal regra especial em relação à disciplina geral dos embargos de declaração do art. 1.022 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T11:25:18+00:00"
+ },
+ {
+  "de": "cpc.21",
+  "para": "lindb.12",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 12 da LINDB e o art. 21 do CPC disciplinam, com redação semelhante, a competência concorrente da autoridade judiciária brasileira quando o réu for domiciliado no Brasil ou aqui dever ser cumprida a obrigação, mas o CPC acrescenta no inciso III a hipótese de fato ocorrido ou ato praticado no Brasil, de modo que a invocação isolada do dispositivo da LINDB pode levar à aplicação de rol incompleto de hipóteses de competência internacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T11:25:18+00:00"
+ },
+ {
+  "de": "cpc.21",
+  "para": "cc.1137",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 1.137 do Código Civil sujeita a sociedade estrangeira autorizada a funcionar no Brasil às leis e aos tribunais brasileiros quanto aos atos e operações aqui praticados, e o art. 21, III, do CPC dá efetividade processual a essa sujeição ao fixar a competência da autoridade judiciária brasileira quando o fundamento for fato ocorrido ou ato praticado no território nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T11:25:18+00:00"
+ },
+ {
+  "de": "floripa_ctm.154",
+  "para": "d70235.42",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 154 do CTM de Florianópolis reproduz, para o processo administrativo tributário municipal, critério de definitividade das decisões muito semelhante ao do art. 42 do Decreto 70.235/72 (ausência de recurso cabível ou decurso de prazo sem interposição, inclusive quanto à parte da decisão não impugnada), regimes formalmente autônomos cuja semelhança pode levar o intérprete a aplicar indevidamente prazos ou efeitos de um deles ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T11:25:18+00:00"
  }
 ]
