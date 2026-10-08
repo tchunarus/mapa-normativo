@@ -15307,5 +15307,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T14:23:07+00:00"
+ },
+ {
+  "de": "clt.775",
+  "para": "cpc.219",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 775 da CLT fixa a contagem dos prazos processuais trabalhistas em dias úteis, com exclusão do dia do começo e inclusão do dia do vencimento, regra idêntica à do art. 219 do CPC para os prazos processuais civis, de modo que há risco de se invocar a aplicação subsidiária do CPC quando a CLT já disciplina a mesma matéria de forma expressa e autônoma.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T15:19:46+00:00"
+ },
+ {
+  "de": "cpc.1023",
+  "para": "l9099.83",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 1.023 do CPC disciplina os embargos de declaração no processo civil comum, no prazo de 5 (cinco) dias, por erro, obscuridade, contradição ou omissão, com aplicação do art. 229 quanto ao prazo em dobro para litisconsortes com procuradores distintos, enquanto o art. 83 da Lei 9.099/95 prevê os mesmos vícios e o mesmo prazo de cinco dias para os embargos nos Juizados Especiais, regime que não comporta a contagem em dobro nem as demais peculiaridades do procedimento comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T15:19:46+00:00"
+ },
+ {
+  "de": "cpc.1023",
+  "para": "cpp.382",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 1.023 do CPC admite embargos de declaração no prazo de 5 (cinco) dias quando a decisão apresentar erro, obscuridade, contradição ou omissão, enquanto o art. 382 do CPP prevê os mesmos vícios para fundamentar o pedido de declaração da sentença no processo penal, mas reduz o prazo para 2 (dois) dias, o que gera risco de se aplicar por engano o prazo do processo civil ao processo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T15:19:46+00:00"
+ },
+ {
+  "de": "d9580.1038",
+  "para": "d70235.5",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 1.038 do RIR/2018 conta os prazos do Regulamento do Imposto de Renda de forma contínua, excluindo o dia de início e incluindo o do vencimento, com início e vencimento restritos a dia de expediente normal, regra idêntica à do art. 5º do Decreto 70.235/72 para o processo administrativo fiscal federal, o que pode levar a confundir o prazo de recolhimento do imposto de renda com o prazo do contencioso administrativo fiscal, regidos por diplomas distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T15:19:46+00:00"
+ },
+ {
+  "de": "d9580.1038",
+  "para": "floripa_ctm.508",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 1.038 do RIR/2018 e o art. 508 da Consolidação Tributária Municipal de Florianópolis adotam a mesma técnica de contagem contínua dos prazos, com exclusão do dia do início e inclusão do dia do vencimento, restrita a dia de expediente normal, mas disciplinam tributos de entes federativos diferentes, o federal e o municipal, o que pode levar a aplicar por engano a regra de um ente ao prazo do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T15:19:46+00:00"
+ },
+ {
+  "de": "d9580.1038",
+  "para": "lcp227.62",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.038 do RIR/2018 conta os prazos de recolhimento do imposto de renda de forma contínua, enquanto o art. 62 da LC 227/2026 conta os prazos do processo administrativo tributário federal somente em dias úteis, de modo que, embora ambos tratem de prazos na esfera tributária federal, a técnica de contagem é oposta, contínua em um caso e restrita a dias úteis no outro, o que gera risco real de se aplicar a regra errada conforme se trate de prazo de recolhimento de tributo ou de prazo processual administrativo fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T15:19:46+00:00"
+ },
+ {
+  "de": "l11101.24",
+  "para": "lsa.152",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 24 da Lei 11.101/2005 atribui ao juiz a fixação da remuneração do administrador judicial com base na capacidade de pagamento do devedor, na complexidade do trabalho e nos valores praticados no mercado, critérios semelhantes aos do art. 152 da Lei das Sociedades por Ações para a remuneração dos administradores de companhia, fixada pela assembleia geral, mas se trata de institutos distintos, um remunera auxiliar do juízo na recuperação judicial ou na falência, o outro remunera órgão de gestão da própria sociedade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T15:19:46+00:00"
+ },
+ {
+  "de": "l11101.32",
+  "para": "lsa.158",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 32 da Lei 11.101/2005 responsabiliza o administrador judicial e os membros do Comitê por prejuízos causados por dolo ou culpa, eximindo de responsabilidade o dissidente que consignar sua discordância em ata, nos mesmos termos em que o art. 158 da Lei das Sociedades por Ações responsabiliza o administrador de companhia por dolo ou culpa dentro de suas atribuições e exime o administrador dissidente que fizer consignar sua divergência, de modo que a semelhança literal entre os dois regimes pode levar a importar, para o administrador judicial, requisitos ou excludentes próprios do regime societário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T15:19:46+00:00"
+ },
+ {
+  "de": "l11101.52",
+  "para": "l10522.10-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 52 da Lei 11.101/2005 disciplina o deferimento do processamento da recuperação judicial, e o art. 10-A da Lei 10.522/2002 regula expressamente o parcelamento de débitos com a Fazenda Nacional para o empresário ou a sociedade empresária que tiver o processamento da recuperação judicial deferido nos termos dos arts. 51, 52 e 70 da Lei 11.101/2005, complementando o regime falimentar com uma modalidade fiscal específica de parcelamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T15:19:46+00:00"
+ },
+ {
+  "de": "l11101.52",
+  "para": "l10522.10-C",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 52 da Lei 11.101/2005 disciplina o deferimento do processamento da recuperação judicial, pressuposto expressamente referido pelo art. 10-C da Lei 10.522/2002 para que o empresário ou a sociedade empresária submeta à Procuradoria-Geral da Fazenda Nacional proposta de transação de créditos inscritos em dívida ativa da União, alternativa ao parcelamento do art. 10-A, complementando o regime da recuperação judicial com um mecanismo fiscal próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T15:19:46+00:00"
  }
 ]
