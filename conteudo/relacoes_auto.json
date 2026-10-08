@@ -16277,5 +16277,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T21:22:08+00:00"
+ },
+ {
+  "de": "cc.49-A",
+  "para": "l14133.160",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 49-A do Código Civil consagra a autonomia patrimonial da pessoa jurídica perante seus sócios, associados, instituidores e administradores; o art. 160 da Lei 14.133/21 excepciona essa regra em licitações e contratos administrativos, ao estender os efeitos das sanções aos administradores e sócios com poderes de administração em caso de abuso da personalidade jurídica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T22:18:34+00:00"
+ },
+ {
+  "de": "cc.49-A",
+  "para": "l13874.7",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 7º da Lei 13.874/19 é o dispositivo que deu ao Código Civil a atual redação do art. 49-A, consagrando a autonomia patrimonial da pessoa jurídica como instrumento lícito de alocação e segregação de riscos, texto hoje vigente exatamente como então introduzido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T22:18:34+00:00"
+ },
+ {
+  "de": "cpc.75",
+  "para": "l12846.26",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 75 do CPC define quem representa cada parte em juízo, inclusive a pessoa jurídica, a sociedade irregular e a pessoa jurídica estrangeira; o art. 26 da Lei 12.846/13 reproduz critério quase idêntico para o processo administrativo de responsabilização, institutos conexos mas de naturezas distintas, com risco de se transportar ao processo administrativo regras próprias do processo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T22:18:34+00:00"
+ },
+ {
+  "de": "cpc.75",
+  "para": "cc.1172",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso X do art. 75 do CPC atribui ao gerente da filial, agência ou sucursal a representação judicial da pessoa jurídica estrangeira; o art. 1.172 do Código Civil complementa essa regra processual ao definir, no plano do direito de empresa, quem se considera gerente para esse efeito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T22:18:34+00:00"
+ },
+ {
+  "de": "cpp.609",
+  "para": "lef.34",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 609 do CPP admite embargos infringentes e de nulidade contra decisão não unânime de segunda instância desfavorável ao réu no processo penal; o art. 34 da Lei de Execução Fiscal também prevê embargos infringentes, mas nas execuções fiscais de pequeno valor, recurso homônimo e de regime totalmente distinto, com risco real de confusão entre os dois institutos de mesmo nome.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T22:18:34+00:00"
+ },
+ {
+  "de": "cpp.65",
+  "para": "cp.23",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 65 do CPP atribui eficácia de coisa julgada no cível à sentença penal que reconhecer estado de necessidade, legítima defesa, estrito cumprimento de dever legal ou exercício regular de direito; o art. 23 do Código Penal define exatamente essas mesmas causas de exclusão da ilicitude, cujo reconhecimento criminal é o pressuposto do efeito civil complementado pelo art. 65 do CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T22:18:34+00:00"
+ },
+ {
+  "de": "cpp.65",
+  "para": "cc.188",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 65 do CPP só vincula o juízo cível quando sentença penal anterior reconhecer estado de necessidade, legítima defesa, estrito cumprimento de dever legal ou exercício regular de direito; o art. 188 do Código Civil afasta a ilicitude civil desses mesmos fatos independentemente de qualquer sentença penal prévia, institutos conexos que podem ser confundidos quanto à exigência de prévio reconhecimento criminal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T22:18:34+00:00"
+ },
+ {
+  "de": "d9580.931",
+  "para": "ctn.161",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 161 do CTN interrompe a incidência da multa de mora desde a concessão de liminar ou tutela provisória até trinta dias após a decisão que considerar devido o tributo; o art. 931 do RIR/2018 impõe ao beneficiário, na mesma hipótese de liminar depois revogada, juros de mora contados desde o vencimento originário da obrigação e multa apenas a partir do trigésimo dia da revogação, criando conflito aparente entre os dois regimes de mora sobre o mesmo crédito suspenso por decisão judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T22:18:34+00:00"
+ },
+ {
+  "de": "l12846.4",
+  "para": "l8429.8-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 4º da Lei 12.846/13 restringe a responsabilidade da sucessora, em fusão ou incorporação, ao pagamento de multa e à reparação do dano, até o limite do patrimônio transferido, salvo simulação ou fraude; o art. 8º-A da Lei de Improbidade Administrativa estende lógica sucessória quase idêntica à responsabilidade por improbidade, regime sancionador distinto que pode ser confundido com o da Lei 12.846/13 quanto ao alcance da sucessão empresarial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T22:18:34+00:00"
+ },
+ {
+  "de": "l13709.22",
+  "para": "l7347.21",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 22 da LGPD autoriza a defesa individual ou coletiva dos direitos dos titulares de dados na forma da legislação pertinente sobre tutela coletiva, sem instituir rito próprio; o art. 21 da Lei 7.347/85 estende aos direitos difusos, coletivos e individuais em geral os instrumentos do título III do Código de Defesa do Consumidor, regime que se aplica subsidiariamente também à tutela de dados pessoais na omissão da LGPD.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T22:18:34+00:00"
+ },
+ {
+  "de": "l13709.22",
+  "para": "l8078.81",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 22 da LGPD remete a defesa individual ou coletiva dos direitos dos titulares de dados à legislação pertinente sobre tutela coletiva, sem definir instrumentos próprios; o art. 81 do Código de Defesa do Consumidor, ao prever que a defesa dos consumidores pode ser exercida em juízo individual ou coletivamente, integra o sistema a que a LGPD remete e aplica-se subsidiariamente diante dessa omissão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T22:18:34+00:00"
  }
 ]
