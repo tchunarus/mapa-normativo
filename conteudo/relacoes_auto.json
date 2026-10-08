@@ -14837,5 +14837,205 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T11:25:18+00:00"
+ },
+ {
+  "de": "clt.364",
+  "para": "cc.1137",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A CLT, art. 364, parágrafo único, detalha consequência administrativa aplicável à sociedade estrangeira autorizada a funcionar no País (cassação da autorização em caso de reincidência), hipótese que pressupõe a sujeição dessa sociedade às leis brasileiras estabelecida pelo art. 1.137 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "lsa.73",
+  "para": "cc.1137",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A Lei das Sociedades por Ações, art. 73, § 1º, regula a preferência de credores quanto a debêntures emitidas no exterior por companhias estrangeiras autorizadas a funcionar no País, hipótese que depende da sujeição dessa sociedade ao ordenamento brasileiro prevista no art. 1.137 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "cc.1137",
+  "para": "lindb.17",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 17 da LINDB nega eficácia no Brasil a leis, atos e sentenças estrangeiras que ofendam a soberania, a ordem pública e os bons costumes, limite geral de direito internacional privado que pode ser confundido com a sujeição específica da sociedade estrangeira autorizada a funcionar às leis e aos tribunais brasileiros, prevista no art. 1.137 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "clt.693",
+  "para": "cf.115",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A CLT, art. 693, descreve composição do Tribunal Superior do Trabalho com representação classista, hoje superada, enquanto a Constituição Federal, art. 115, estabelece para os Tribunais Regionais do Trabalho a reserva de um quinto para advogados e membros do Ministério Público do Trabalho, o que pode gerar confusão entre os regimes de composição dos dois órgãos da Justiça do Trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "cpc.1026",
+  "para": "clt.897-A",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O CPC, art. 1.026, § 2º, comina multa para embargos de declaração manifestamente protelatórios, sanção não prevista no art. 897-A da CLT, que disciplina os embargos de declaração no processo do trabalho sem tratar dessa consequência, lacuna suprida pela aplicação subsidiária do Código de Processo Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "clt.897-A",
+  "para": "cpp.619",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CPP, art. 619, fixa prazo de dois dias para os embargos de declaração contra acórdão nos processos criminais, enquanto a CLT, art. 897-A, fixa prazo de cinco dias para os embargos de declaração no processo do trabalho, o que pode gerar confusão de prazos entre os dois ramos processuais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "cf.124",
+  "para": "cpp.1",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 124 da Constituição Federal atribui à Justiça Militar a competência para processar e julgar os crimes militares, o que excepciona a aplicação do Código de Processo Penal prevista no art. 1º, inciso III, que ressalva expressamente os processos de competência da Justiça Militar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "cp.12",
+  "para": "cpp.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 12 do Código Penal estabelece que as regras gerais desse Código se aplicam aos fatos incriminados por lei especial se esta não dispuser de modo diverso, regra de aplicação subsidiária em matéria penal que pode ser confundida com a disciplina do art. 1º do Código de Processo Penal, que trata da aplicação subsidiária das regras processuais penais aos processos regidos por lei especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "cpp.1",
+  "para": "l9279.200",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 200 da Lei da Propriedade Industrial determina que a ação penal e as diligências preliminares de busca e apreensão, nos crimes contra a propriedade industrial, regulam-se pelo Código de Processo Penal, com as modificações previstas nos artigos daquele capítulo, o que caracteriza aplicação subsidiária do art. 1º do Código de Processo Penal a esse procedimento especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "cpp.382",
+  "para": "clt.897-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 382 do Código de Processo Penal fixa prazo de dois dias para o pedido de declaração da sentença por obscuridade, ambiguidade, contradição ou omissão, enquanto o art. 897-A da CLT fixa prazo de cinco dias para os embargos de declaração no processo do trabalho, divergência de prazos entre os ramos penal e trabalhista que pode gerar confusão na aplicação do instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "cpp.382",
+  "para": "l9099.83",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 382 do Código de Processo Penal exige prazo de dois dias e indicação de obscuridade, ambiguidade, contradição ou omissão para o pedido de declaração da sentença, enquanto o art. 83 da Lei 9.099/95 admite embargos de declaração no prazo de cinco dias por obscuridade, contradição ou omissão, sem mencionar ambiguidade, divergência que pode confundir os requisitos de cada procedimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "d70235.5-A",
+  "para": "cpp.798-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 798-A do Código de Processo Penal suspende o prazo processual entre 20 de dezembro e 20 de janeiro, mas ressalva réus presos, processos da Lei Maria da Penha e medidas urgentes, exceções que o art. 5º-A do Decreto 70.235/1972 não reproduz para o processo administrativo fiscal, divergência que pode levar a aplicar indevidamente essas exceções ao processo fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "d70235.5-A",
+  "para": "cpc.220",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 220 do Código de Processo Civil e o art. 5º-A do Decreto 70.235/1972 suspendem, com texto quase idêntico, o prazo processual entre 20 de dezembro e 20 de janeiro, um no processo civil e outro no processo administrativo fiscal federal, regimes distintos cuja coincidência de datas pode gerar confusão sobre qual norma rege determinado prazo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "d70235.5-A",
+  "para": "clt.775-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 775-A da CLT e o art. 5º-A do Decreto 70.235/1972 suspendem, com texto quase idêntico, o prazo processual entre 20 de dezembro e 20 de janeiro, um no processo do trabalho e outro no processo administrativo fiscal federal, regimes distintos cuja coincidência de datas pode gerar confusão sobre qual norma rege determinado prazo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "d70235.5-A",
+  "para": "lcp227.62",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 62, § 2º, da Lei Complementar 227/2026 também suspende o prazo processual entre 20 de dezembro e 20 de janeiro, mas no contencioso administrativo do IBS, regime novo e distinto do processo administrativo fiscal federal regido pelo Decreto 70.235/1972, cuja coincidência de prazos pode gerar confusão entre os dois regimes tributários durante a transição da reforma.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "floripa_ctm.154",
+  "para": "lcp227.78",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 154 da Consolidação Tributária Municipal de Florianópolis torna definitiva a decisão do Conselho Municipal de Contribuintes quando esgotado o prazo de recurso voluntário sem interposição, enquanto o art. 78 da Lei Complementar 227/2026 disciplina o recurso voluntário no contencioso administrativo do IBS, regime tributário distinto cuja semelhança de institutos pode gerar confusão entre os dois processos administrativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "floripa_ctm.508",
+  "para": "ctn.210",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 508 da Consolidação Tributária Municipal de Florianópolis reproduz, com texto quase idêntico, a regra de contagem contínua de prazos do art. 210 do Código Tributário Nacional, incluindo a exigência de que o prazo só se inicie ou vença em dia de expediente normal, semelhança que pode gerar dúvida sobre qual norma efetivamente rege a contagem no âmbito municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "floripa_ctm.508",
+  "para": "cpc.224",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 508 da Consolidação Tributária Municipal de Florianópolis conta os prazos de forma contínua, excluindo o dia do início e incluindo o do vencimento, regra distinta da contagem em dias úteis do art. 224 do Código de Processo Civil, o que pode levar a aplicar por engano a lógica processual civil ao processo tributário municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "floripa_ctm.508",
+  "para": "l9784.66",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 508 da Consolidação Tributária Municipal de Florianópolis exige que o prazo só se inicie ou vença em dia de expediente normal, enquanto o art. 66, § 1º, da Lei 9.784/99 apenas prorroga para o próximo dia útil o vencimento que cair em dia sem expediente, sem exigir o mesmo para o dia de início, diferença que pode gerar dúvida na aplicação subsidiária ao processo tributário municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:44+00:00"
+ },
+ {
+  "de": "lcp227.173",
+  "para": "d70235.5-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 173 da Lei Complementar 227/2026 alterou o Decreto 70.235/1972 para inserir o art. 5º-A, cujo texto hoje também está em vigor, suspendendo o curso do prazo processual entre 20 de dezembro e 20 de janeiro no processo administrativo fiscal federal, de modo que o dispositivo corresponde exatamente ao que consta no diploma alterado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-08T12:32:57+00:00"
  }
 ]
