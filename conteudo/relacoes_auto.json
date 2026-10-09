@@ -17217,5 +17217,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T12:32:32+00:00"
+ },
+ {
+  "de": "ctn.171",
+  "para": "cc.840",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 171 do CTN autoriza a transação tributária mediante concessões mútuas entre os sujeitos ativo e passivo da obrigação, especializando para a extinção do crédito tributário o instituto geral da transação definido no art. 840 do Código Civil, que admite aos interessados prevenir ou terminar o litígio pelas mesmas concessões recíprocas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T13:31:28+00:00"
+ },
+ {
+  "de": "l13988.1",
+  "para": "ctn.171",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Lei 13.988/20 estabelece os requisitos e as condições para que a União e os devedores realizem a transação resolutiva de litígios tributários, dando procedimento concreto à faculdade de transação que o art. 171 do CTN autoriza em caráter geral para extinguir o crédito tributário mediante concessões mútuas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T13:31:28+00:00"
+ },
+ {
+  "de": "cpp.742",
+  "para": "ctn.182",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 742 do CPP declara extinta a pena após a concessão de anistia relativa a sentença condenatória transitada em julgado, enquanto o art. 182 do CTN trata da anistia como exclusão do crédito tributário antes do lançamento, efetivada por despacho individual da autoridade administrativa. Os dois institutos usam o mesmo nome para fenômenos jurídicos distintos, um penal e outro tributário, o que gera risco real de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T13:31:28+00:00"
+ },
+ {
+  "de": "floripa_ctm.98",
+  "para": "ctn.182",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 98 do CTM de Florianópolis reproduz, para o Município, a mesma regra do art. 182 do CTN sobre a anistia tributária não concedida em caráter geral, efetivada em cada caso por despacho da autoridade administrativa mediante prova do preenchimento das condições legais. O CTN fixa a norma geral desse instituto e o CTM especializa sua aplicação ao despacho do Prefeito Municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T13:31:28+00:00"
+ },
+ {
+  "de": "l14133.73",
+  "para": "lindb.28",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 73 da Lei 14.133/21 impõe ao agente público responsabilidade solidária com o contratado pelo dano causado ao erário na contratação direta indevida ocorrida com dolo, fraude ou erro grosseiro, retomando o mesmo padrão de responsabilização pessoal do art. 28 da LINDB, que limita essa responsabilidade aos casos de dolo ou erro grosseiro. A lei de licitações especializa esse padrão geral ao acrescentar a fraude como hipótese adicional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T13:31:28+00:00"
+ },
+ {
+  "de": "l14973.22-C",
+  "para": "l13988.22-C",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 22-C da Lei 14.973/24 insere na Lei 13.988/20 a possibilidade de a Procuradoria-Geral Federal propor transação da dívida ativa não tributária de autarquias e fundações federais por relevante interesse regulatório, com texto idêntico ao que passou a constar do art. 22-C da própria Lei 13.988/20. É o mesmo dispositivo, introduzido na lei do contribuinte legal pela alteração promovida pela Lei 14.973/24.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T13:31:28+00:00"
+ },
+ {
+  "de": "l14973.22-D",
+  "para": "l13988.22-D",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 22-D da Lei 14.973/24 insere na Lei 13.988/20 a regra sobre a iniciativa da Procuradoria-Geral Federal para propor a transação de dívida ativa não tributária de autarquias e fundações federais, com texto idêntico ao que passou a constar do art. 22-D da própria Lei 13.988/20. É o mesmo dispositivo, introduzido na lei do contribuinte legal pela alteração promovida pela Lei 14.973/24.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T13:31:28+00:00"
  }
 ]
