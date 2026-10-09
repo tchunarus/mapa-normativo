@@ -18077,5 +18077,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T21:16:22+00:00"
+ },
+ {
+  "de": "cpc.130",
+  "para": "cc.275",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 130 do CPC autoriza o réu devedor solidário a chamar ao processo os demais codevedores exatamente na hipótese em que o credor exige de um ou de alguns deles o pagamento da dívida comum, faculdade material assegurada pelo art. 275 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "cpc.130",
+  "para": "cc.283",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O chamamento ao processo dos devedores solidários, previsto no inciso III do art. 130 do CPC, permite que o devedor citado, ao satisfazer a dívida por inteiro, obtenha no mesmo processo título para exercer contra os demais codevedores o direito de regresso assegurado pelo art. 283 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "cpc.130",
+  "para": "cc.831",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O chamamento dos demais fiadores, autorizado pelo inciso II do art. 130 do CPC quando a ação for proposta contra um ou alguns deles, viabiliza no mesmo processo a sub-rogação e o direito de regresso entre cofiadores assegurados pelo art. 831 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "cpc.130",
+  "para": "cc.349",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O chamamento do afiançado, previsto no inciso I do art. 130 do CPC quando o fiador for réu, prepara a sub-rogação do fiador que paga nos direitos do credor contra o devedor principal, efeito que o art. 349 do Código Civil estende a todos os direitos, ações e garantias do crédito satisfeito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "l8078.80",
+  "para": "cp.100",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 80 do CDC especializa, para os crimes contra relações de consumo, a regra geral do art. 100 do Código Penal sobre ação penal pública e sobre a ação privada subsidiária cabível quando o Ministério Público não oferece denúncia no prazo legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "l8078.80",
+  "para": "cpp.29",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 80 do CDC especializa, para os crimes de consumo, a disciplina geral do art. 29 do CPP sobre a ação privada subsidiária da pública, mantendo ao Ministério Público as mesmas faculdades de aditar a queixa e retomar a ação como parte principal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "cpp.270",
+  "para": "l8078.80",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 270 do CPP, que veda ao corréu intervir como assistente do Ministério Público, aplica-se subsidiariamente à assistência prevista no art. 80 do CDC, que não disciplina essa vedação para os legitimados que nele atuam como assistentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "l8078.81",
+  "para": "l8429.17-D",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 81 do CDC define os interesses difusos, coletivos e individuais homogêneos tutelados pela ação coletiva do consumidor, conceito que se presta a confusão com o art. 17-D da Lei de Improbidade, que expressamente afasta a ação de improbidade como via de proteção desses mesmos interesses.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "l8078.81",
+  "para": "l9784.9",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 81 do CDC classifica os interesses difusos, coletivos e individuais homogêneos para a tutela coletiva judicial, classificação semelhante à do art. 9º da Lei 9.784/99 para a legitimação no processo administrativo, instituto conexo mas não equivalente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "l8078.82",
+  "para": "l9784.9",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 82 do CDC legitima concorrentemente o Ministério Público, os entes federativos e as associações para a ação coletiva judicial do consumidor, classificação que se assemelha e pode ser confundida com a legitimação do art. 9º da Lei 9.784/99 para o processo administrativo, instituto conexo porém distinto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "l8078.87",
+  "para": "l8429.23-B",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 87 do CDC isenta a associação autora de adiantar custas e honorários periciais nas ações coletivas, regime que pode ser confundido com a isenção de custas do art. 23-B da Lei de Improbidade, cujos parágrafos disciplinam de modo distinto o pagamento final das despesas e os honorários sucumbenciais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "l8078.87",
+  "para": "l9099.55",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 87 do CDC isenta de custas e honorários a ação coletiva de consumo salvo má-fé, regra que pode ser confundida com a isenção de honorários em primeiro grau do art. 55 da Lei 9.099/95, instituto conexo mas próprio do microssistema dos juizados especiais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "l8078.90",
+  "para": "l7347.19",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 90 do CDC remete expressamente ao Código de Processo Civil e à Lei 7.347/85 como normas subsidiárias das ações do Título III, no que não contrariarem suas disposições, e o art. 19 desta mesma Lei 7.347/85 remete, por sua vez, ao Código de Processo Civil, formando o mesmo regime de aplicação subsidiária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "l8078.90",
+  "para": "clt.769",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 90 do CDC aplica subsidiariamente o Código de Processo Civil às ações coletivas de consumo no que não contrariar suas disposições, regra que pode ser confundida com o art. 769 da CLT, que exige, além da omissão, a compatibilidade com as normas do processo do trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T22:18:35+00:00"
  }
 ]
