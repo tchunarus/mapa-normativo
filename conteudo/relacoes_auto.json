@@ -17557,5 +17557,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "clt.881",
+  "para": "cc.334",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 881 aplica à execução trabalhista a regra geral do art. 334 do CC, segundo a qual o depósito judicial ou em estabelecimento bancário da coisa devida extingue a obrigação quando o credor não está presente para recebê-la diretamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T16:21:46+00:00"
+ },
+ {
+  "de": "clt.881",
+  "para": "cpc.906",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos tratam da quitação formal do pagamento na execução, mas por mecanismos distintos: no art. 881 da CLT, o termo de quitação é lavrado pelo escrivão com a assinatura do exequente e do executado no ato do pagamento; no art. 906 do CPC, a quitação é dada pelo próprio exequente ao receber o mandado de levantamento de depósito já efetuado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T16:21:46+00:00"
+ },
+ {
+  "de": "floripa_ctm.280-A",
+  "para": "ctn.155",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos preveem que o reconhecimento individual de benefício fiscal não gera direito adquirido e pode ser desfeito com cobrança retroativa quando se apura declaração falsa do beneficiado, mas um trata de imunidade e isenção do imposto municipal (art. 280-A) e o outro, de moratória em caráter individual (art. 155 do CTN), institutos distintos sujeitos a condições próprias de concessão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T16:21:46+00:00"
+ },
+ {
+  "de": "floripa_ctm.94",
+  "para": "ctn.177",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 94 repete, para o imposto municipal, a vedação do inciso II do art. 177 do CTN: a isenção concedida não se estende aos tributos instituídos posteriormente a essa concessão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T16:21:46+00:00"
+ },
+ {
+  "de": "l13988.22-B",
+  "para": "l10522.19-D",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois artigos estendem, com redação quase idêntica (inclusive a ressalva à Lei nº 9.469/97), regimes distintos à Procuradoria-Geral Federal e à Procuradoria-Geral do Banco Central: o art. 22-B, da Lei 13.988/20, estende a transação de dívida ativa não tributária das autarquias e fundações federais; o art. 19-D, da Lei 10.522/02, estende regras de dispensa de atos processuais da Fazenda Nacional. A semelhança textual cria risco de se citar o artigo errado para fundamentar a legitimidade de cada órgão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T16:21:46+00:00"
+ },
+ {
+  "de": "l14973.22",
+  "para": "l13988.22-B",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 22 da Lei 14.973/24 complementa o regime do art. 22-B da Lei 13.988/20 ao fixar, enquanto não proferida a manifestação do § 2º do art. 22-C desta última, a presunção de irrecuperabilidade dos créditos não tributários das autarquias e fundações públicas federais a que ambos os dispositivos se referem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T16:21:46+00:00"
+ },
+ {
+  "de": "l7347.16",
+  "para": "l8078.103",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 103 do CDC integra o mesmo microssistema da tutela coletiva e detalha, conforme a natureza do direito tutelado, os limites subjetivos da coisa julgada erga omnes que o art. 16 da Lei 7.347/85 prevê de forma genérica para a ação civil pública, inclusive repetindo a ressalva de nova ação em caso de improcedência por insuficiência de provas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T16:21:46+00:00"
+ },
+ {
+  "de": "l7347.16",
+  "para": "l8078.104",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 104 do CDC trata de instituto conexo ao do art. 16: regula a ausência de litispendência entre a ação coletiva e as ações individuais e a necessidade de suspensão destas em trinta dias para que seus autores sejam beneficiados pela coisa julgada coletiva tratada no art. 16.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T16:21:46+00:00"
+ },
+ {
+  "de": "l8078.87",
+  "para": "l7347.17",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 87 do CDC estendeu a toda ação coletiva, com a mesma redação, a sanção solidária de honorários advocatícios e décuplo das custas por litigância de má-fé já prevista no art. 17 da Lei 7.347/85 para a ação civil pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T16:21:46+00:00"
+ },
+ {
+  "de": "l8078.87",
+  "para": "l7347.18",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O caput do art. 87 do CDC estendeu a toda ação coletiva, com a mesma redação dada ao art. 18 da Lei 7.347/85 pelo art. 116 do próprio CDC, a isenção de adiantamento de custas, emolumentos e honorários periciais em favor da associação autora.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T16:21:46+00:00"
+ },
+ {
+  "de": "l7347.18",
+  "para": "l8429.23-B",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos isentam o autor da ação coletiva do adiantamento de custas e despesas processuais, mas em regimes distintos: o art. 18 da Lei 7.347/85 afasta a condenação da associação autora salvo má-fé comprovada, enquanto o art. 23-B da LIA, no § 2º, condiciona a condenação em honorários sucumbenciais à improcedência da ação de improbidade com má-fé comprovada, sujeito próprio que não se confunde com a associação autora da ação civil pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T16:21:46+00:00"
  }
 ]
