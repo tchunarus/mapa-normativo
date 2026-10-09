@@ -18007,5 +18007,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T20:20:25+00:00"
+ },
+ {
+  "de": "cc.1097",
+  "para": "lsa.243",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.097 do Código Civil enquadra como coligadas as sociedades controladas, filiadas ou de simples participação, segundo o regime próprio do direito de empresa, ao passo que o parágrafo 1º do art. 243 da Lei das Sociedades por Ações define coligada pelo critério da influência significativa da investidora, adotado para fins de avaliação de investimentos e consolidação contábil. A coexistência dos dois critérios sob o mesmo termo gera risco real de confusão sobre qual regime se aplica a uma dada relação societária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T21:16:22+00:00"
+ },
+ {
+  "de": "cc.1178",
+  "para": "ctn.135",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.178 do Código Civil trata da responsabilidade civil do preponente pelos atos de seus prepostos praticados no exercício da atividade empresarial, ao passo que o inciso II do art. 135 do Código Tributário Nacional atribui responsabilidade pessoal ao próprio preposto, mandatário ou empregado, pelos créditos tributários decorrentes de atos praticados com excesso de poderes ou infração de lei. Os dois dispositivos tratam de responsabilidade por atos de prepostos, mas invertem o sujeito responsabilizado e pressupõem situações distintas, o que pode confundir a aplicação de um e de outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T21:16:22+00:00"
+ },
+ {
+  "de": "cc.278",
+  "para": "cpc.130",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 278 do Código Civil estabelece regra material sobre os efeitos de cláusula, condição ou obrigação adicional estipulada entre um dos devedores solidários e o credor em relação aos demais codevedores. O inciso III do art. 130 do Código de Processo Civil disciplina o procedimento de chamamento ao processo dos demais devedores solidários quando o credor exige de um ou de alguns o pagamento da dívida comum, servindo de instrumento processual para a relação de solidariedade passiva regulada pelo direito material.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T21:16:22+00:00"
+ },
+ {
+  "de": "cc.820",
+  "para": "lef.9",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 820 do Código Civil permite que a fiança seja estipulada ainda que sem o consentimento do devedor ou contra a sua vontade, por se tratar de contrato celebrado entre fiador e credor. O inciso II do art. 9º da Lei de Execução Fiscal admite a fiança bancária como uma das formas de garantia da execução, sem disciplinar os requisitos de constituição do vínculo entre fiador e exequente, de modo que o regime civil da fiança, incluído o art. 820, aplica-se subsidiariamente para suprir essa omissão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T21:16:22+00:00"
+ },
+ {
+  "de": "cc.820",
+  "para": "cpp.322",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 820 do Código Civil trata da fiança como contrato de garantia de obrigação, que pode ser estipulado independentemente do consentimento do devedor. O art. 322 do Código de Processo Penal emprega o mesmo termo para designar instituto distinto, de natureza processual penal, consistente na garantia pecuniária que viabiliza a liberdade provisória do indiciado ou réu perante a autoridade policial ou o juiz. A identidade de nome entre os dois institutos, de regimes e finalidades diversas, é fonte comum de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T21:16:22+00:00"
+ },
+ {
+  "de": "cp.43",
+  "para": "floripa_ctm.462",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O inciso V do art. 43 do Código Penal prevê a interdição temporária de direitos como pena restritiva aplicável a condenados por crime. O art. 462 do Código Tributário Municipal de Florianópolis utiliza a mesma expressão, interdição temporária, para designar medida administrativa de natureza tributária, comunicada ao infrator para cumprimento de obrigação em prazo determinado. A coincidência terminológica entre a sanção penal e a medida administrativa municipal pode induzir a confusão quanto à natureza e ao regime aplicável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T21:16:22+00:00"
+ },
+ {
+  "de": "cp.44",
+  "para": "l9099.86",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 44 do Código Penal disciplina os requisitos materiais da substituição da pena privativa de liberdade por pena restritiva de direitos. O art. 86 da Lei 9.099 de 1995 trata do procedimento de execução das penas privativas de liberdade e restritivas de direitos perante o órgão competente, servindo de instrumento processual para a efetivação da substituição prevista no Código Penal no âmbito dos Juizados Especiais Criminais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T21:16:22+00:00"
  }
 ]
