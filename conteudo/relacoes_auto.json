@@ -17417,5 +17417,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T14:26:36+00:00"
+ },
+ {
+  "de": "cpc.497",
+  "para": "l8078.84",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 497 do CPC regula a tutela específica das obrigações de fazer e de não fazer nos mesmos termos do art. 84 do CDC, que disciplina a mesma tutela nas relações de consumo. O CPC aplica-se subsidiariamente ao CDC nos aspectos procedimentais que a lei consumerista não disciplina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "cpc.497",
+  "para": "cc.21",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 497 do CPC regula a tutela inibitória destinada a impedir ou fazer cessar a prática de ato ilícito, instituto conexo ao direito à privacidade do art. 21 do Código Civil, que autoriza o juiz a adotar providências para impedir ou fazer cessar ato contrário à vida privada. O CPC fornece o instrumento processual que o Código Civil não detalha.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "cpc.840",
+  "para": "lef.11",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 840 do CPC disciplina o local de depósito dos bens penhorados, dispondo sobre dinheiro, pedras e metais preciosos, móveis e imóveis, em instituto conexo à ordem de penhora do art. 11 da Lei de Execução Fiscal, que enumera os mesmos bens sem regular onde ficam depositados. O CPC aplica-se subsidiariamente à execução fiscal nesse ponto, por força da aplicação subsidiária prevista na própria Lei de Execução Fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "l14973.35",
+  "para": "cpc.840",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 35 da Lei n. 14.973/24 especializa, para os depósitos judiciais em processos em que figure a União, suas autarquias, fundações ou empresas estatais federais, a regra do art. 840 do CPC sobre o depósito de quantias em dinheiro, determinando que sejam feitos exclusivamente na Caixa Econômica Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "lef.32",
+  "para": "cpc.840",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 32 da Lei de Execução Fiscal especializa, para a execução fiscal proposta pela União, Estados, Distrito Federal e Municípios, a regra do inciso I do art. 840 do CPC sobre o depósito de quantias em dinheiro, impondo que seja feito na Caixa Econômica Federal ou no banco oficial da unidade federativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "cpc.840",
+  "para": "clt.881",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 840 do CPC define onde devem ficar depositadas as quantias em dinheiro penhoradas, instituto conexo ao depósito da importância reclamada previsto no art. 881 da CLT quando o exequente não está presente. O CPC aplica-se subsidiariamente ao processo do trabalho nesse ponto, à falta de disciplina própria na CLT sobre a instituição depositária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "floripa_ctm.94",
+  "para": "ctn.179",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 94 do Código Tributário Municipal de Florianópolis reproduz, para os tributos municipais, a mesma disciplina do art. 179 do CTN sobre a isenção não concedida em caráter geral, exigindo despacho da autoridade administrativa mediante requerimento que comprove o cumprimento das condições legais. O CTM apenas substitui a autoridade competente pelo Prefeito Municipal, detalhando a norma geral para a esfera municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "floripa_ctm.280-A",
+  "para": "ctn.179",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 280-A do Código Tributário Municipal de Florianópolis detalha, para o imposto predial e territorial urbano, o reconhecimento de imunidades, não incidências e isenções mediante certidão específica, preservando o mesmo efeito do § 2º do art. 179 do CTN, segundo o qual o despacho que concede a isenção não gera direito adquirido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "sc_icms_lei.43-B",
+  "para": "ctn.179",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 43-B da Lei n. 10.297/96-SC condiciona a redução de base de cálculo do ICMS a despacho da autoridade administrativa em requerimento que comprove o cumprimento dos requisitos, pelo mesmo mecanismo do art. 179 do CTN para a isenção não concedida em caráter geral. O instituto é conexo, pois um trata de isenção e o outro de redução de base de cálculo, mas a lei estadual especializa o procedimento genérico do CTN para esse benefício fiscal próprio do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "l14973.18",
+  "para": "l13988.22-B",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 18 da Lei n. 14.973/24 introduziu no capítulo pertinente da Lei n. 13.988/20 o art. 22-B, que estende a transação da dívida ativa federal às autarquias e fundações públicas federais cuja cobrança incumbe à Procuradoria-Geral Federal e à Procuradoria-Geral do Banco Central, conforme consta da própria compilação oficial do art. 22-B.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "l14973.18",
+  "para": "l13988.22-E",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 18 da Lei n. 14.973/24 inseriu o art. 22-E na Lei n. 13.988/20, atribuindo ao Advogado-Geral da União a disciplina da transação de dívida ativa das autarquias e fundações públicas federais instituída pelo mesmo capítulo a que se refere o art. 18.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "l8078.100",
+  "para": "l7347.13",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 100 do CDC determina que o produto da indenização por danos individuais homogêneos, apurado após a liquidação quando não há habilitação suficiente de interessados, reverte exatamente ao fundo criado pelo art. 13 da Lei da Ação Civil Pública. O CDC complementa o regime do fundo ao disciplinar essa hipótese específica de destinação de valores não reclamados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "l8078.99",
+  "para": "l7347.13",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 99 do CDC regula o concurso entre os créditos de indenizações por danos individuais e o produto da condenação prevista na Lei n. 7.347/85, determinando a preferência dos danos individuais e a suspensão da destinação ao fundo do art. 13 da Lei da Ação Civil Pública enquanto pendente decisão de segundo grau sobre as ações individuais. O CDC complementa a disciplina desse fundo ao tratar da ordem de pagamento em caso de concorrência de credores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
+ },
+ {
+  "de": "l9099.43",
+  "para": "l7347.14",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 14 da Lei da Ação Civil Pública autoriza o juiz a conferir efeito suspensivo ao recurso para evitar dano irreparável à parte, na mesma redação do art. 43 da Lei dos Juizados Especiais, que prevê a mesma exceção ao efeito devolutivo em outro microssistema processual. O risco de confusão está em transpor automaticamente a disciplina de um regime para o outro, como se fossem a mesma norma.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T15:21:36+00:00"
  }
 ]
