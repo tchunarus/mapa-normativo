@@ -16577,5 +16577,245 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-08T23:21:49+00:00"
+ },
+ {
+  "de": "cc.186",
+  "para": "clt.223-B",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 186 do Código Civil define o ato ilícito civil em geral, exigindo ação ou omissão voluntária, negligência ou imprudência que viole direito e cause dano, inclusive moral. O art. 223-B da CLT especializa esse regime para as relações de trabalho ao definir o dano de natureza extrapatrimonial como a ofensa à esfera moral ou existencial da pessoa física ou jurídica, restringindo a titularidade da reparação ao ofendido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cc.186",
+  "para": "lsa.165",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 186 do Código Civil estabelece a responsabilidade civil subjetiva de quem, por ação ou omissão, culpa ou dolo, violar direito e causar dano a outrem. O art. 165 da Lei das Sociedades por Ações aplica o mesmo fundamento aos membros do conselho fiscal, que respondem pelos danos resultantes de omissão no cumprimento de seus deveres e de atos praticados com culpa ou dolo, ou com violação da lei ou do estatuto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cc.186",
+  "para": "cp.18",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 186 do Código Civil usa os termos dolo e culpa, por negligência ou imprudência, como pressupostos subjetivos do ato ilícito civil que gera dever de indenizar. O art. 18 do Código Penal emprega os mesmos termos para classificar o crime quanto ao elemento subjetivo, o que pode levar a se confundir o dolo e a culpa civis, aferidos para fins de reparação do dano, com o dolo e a culpa penais, relevantes para a tipicidade e a pena.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cc.186",
+  "para": "l8213.120",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 186 do Código Civil exige ação ou omissão, negligência ou imprudência, que viole direito e cause dano para configurar o ato ilícito civil. O art. 120 da Lei 8.213/91 especializa esse regime ao assegurar à Previdência Social ação regressiva contra os responsáveis, entre outras hipóteses, pela negligência quanto às normas padrão de segurança e higiene do trabalho indicadas para a proteção individual e coletiva, fundada nos mesmos pressupostos de culpa e nexo causal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cc.942",
+  "para": "l8078.25",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 942 do Código Civil determina que, havendo mais de um autor do dano, todos responderão solidariamente pela reparação. O art. 25 da Lei 8.078/90 especializa essa regra para as relações de consumo ao prever que, havendo mais de um responsável pela causação do dano, todos responderão solidariamente pela reparação prevista no código consumerista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cc.942",
+  "para": "l14133.73",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 942 do Código Civil prevê que os coautores do dano respondem solidariamente pela reparação. O art. 73 da Lei 14.133/21 especializa essa regra para as contratações públicas ao determinar que, na contratação direta indevida realizada com dolo, fraude ou erro grosseiro, o contratado e o agente público responsável respondam solidariamente pelo dano causado ao erário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cc.942",
+  "para": "l11101.101",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 942 do Código Civil impõe solidariedade entre os coautores do dano pela reparação devida. O art. 101 da Lei 11.101/05 especializa essa regra para o pedido de falência formulado com dolo e julgado improcedente, impondo solidariedade entre os requerentes que assim se conduziram na indenização ao devedor pelas perdas e danos apuradas em liquidação de sentença.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cc.942",
+  "para": "clt.223-E",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 942 do Código Civil impõe solidariedade plena entre todos os coautores da ofensa na reparação do dano. O art. 223-E da CLT, ao responsabilizar pelo dano extrapatrimonial todos os que tenham colaborado para a ofensa na proporção da ação ou da omissão, sugere à primeira vista uma responsabilização proporcional e não solidária, mas a doutrina majoritária entende que a proporção serve apenas para fixar a quota interna entre os responsáveis, preservada a solidariedade externa perante a vítima.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cc.942",
+  "para": "ctn.124",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 942 do Código Civil prevê a solidariedade dos coautores pela reparação do dano decorrente de ato ilícito. O art. 124 do Código Tributário Nacional também trata de solidariedade, mas de natureza tributária, entre pessoas com interesse comum no fato gerador ou designadas por lei, sem qualquer relação com a prática de ato ilícito ou com a causação de dano, o que pode gerar confusão entre os dois regimes de solidariedade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "clt.843",
+  "para": "cc.1169",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 843 da CLT permite que o empregador se faça representar na audiência trabalhista por preposto que tenha conhecimento dos fatos, sem exigir que seja empregado. O art. 1.169 do Código Civil trata do preposto da empresa no exercício da atividade empresarial, que não pode se fazer substituir sem autorização escrita, sob pena de responder pessoalmente, o que pode levar a se confundir o preposto processual do direito do trabalho com o preposto comercial do direito civil, institutos distintos quanto à finalidade e ao regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "clt.843",
+  "para": "lcp123.54",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 843 da CLT faculta ao empregador fazer-se representar na audiência pelo gerente ou por preposto que tenha conhecimento do fato, não exigindo, conforme o § 3º, que o preposto seja empregado da parte reclamada. O art. 54 da LC 123/06 especializa esse regime para as microempresas e empresas de pequeno porte, permitindo que se façam substituir ou representar perante a Justiça do Trabalho por terceiros que conheçam os fatos, ainda que não possuam vínculo trabalhista ou societário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "clt.861",
+  "para": "cc.1169",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 861 da CLT faculta ao empregador fazer-se representar na audiência de dissídio pelo gerente ou por outro preposto que tenha conhecimento do dissídio. O art. 1.169 do Código Civil rege o preposto da atividade empresarial, que não pode se fazer substituir sem autorização escrita, sob pena de responder pessoalmente, instituto distinto do preposto processual trabalhista, o que pode gerar confusão entre os dois regimes de representação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "clt.861",
+  "para": "lcp123.54",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 861 da CLT faculta ao empregador fazer-se representar na audiência pelo gerente ou por outro preposto que tenha conhecimento do dissídio. O art. 54 da LC 123/06 especializa esse regime para a microempresa e a empresa de pequeno porte, que podem se fazer substituir ou representar perante a Justiça do Trabalho por terceiros sem vínculo trabalhista ou societário, desde que conheçam os fatos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "clt.861",
+  "para": "cc.1175",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 861 da CLT responsabiliza sempre o empregador pelas declarações do preposto que o representa na audiência. O art. 1.175 do Código Civil dispõe que o preponente responde com o gerente pelos atos que este pratique em seu próprio nome, mas à conta daquele, regime do direito de empresa que trata de responsabilidade por atos do gerente perante terceiros, e não da vinculação processual pelas declarações do preposto em audiência trabalhista, o que pode confundir os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cp.24",
+  "para": "cpp.65",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 24 do Código Penal define o estado de necessidade como causa excludente de ilicitude. O art. 65 do Código de Processo Penal complementa esse regime ao atribuir à sentença penal que reconhecer o fato praticado em estado de necessidade eficácia de coisa julgada no cível, impedindo nova discussão sobre a licitude do ato na esfera civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cp.24",
+  "para": "cc.930",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 24 do Código Penal define o estado de necessidade como causa excludente de ilicitude, inclusive quando o agente destrói ou danifica coisa alheia para remover perigo atual. O art. 930 do Código Civil complementa a disciplina civil dessa hipótese ao assegurar, quando o perigo decorrer de culpa de terceiro, ação regressiva do autor do dano contra esse terceiro para haver a importância que tiver ressarcido ao lesado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cp.24",
+  "para": "cc.156",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 24 do Código Penal trata do estado de necessidade como causa excludente de ilicitude penal, ligada à prática de um fato para salvar direito próprio ou alheio de perigo atual. O art. 156 do Código Civil disciplina o estado de perigo, defeito do negócio jurídico distinto, em que alguém assume obrigação excessivamente onerosa para salvar-se ou a pessoa de sua família de grave dano conhecido pela outra parte, o que pode gerar confusão entre os dois institutos em razão da semelhança dos nomes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cp.25",
+  "para": "cpp.65",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 25 do Código Penal define a legítima defesa como causa excludente de ilicitude. O art. 65 do Código de Processo Penal complementa esse regime ao atribuir à sentença penal que reconhecer o fato praticado em legítima defesa eficácia de coisa julgada no cível, impedindo nova discussão sobre a licitude do ato na ação de reparação de danos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cpc.242",
+  "para": "lef.8",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 8º da Lei 6.830/80 disciplina de modo próprio a citação do executado na execução fiscal, inclusive pelo correio, e a Lei de Execução Fiscal é regida subsidiariamente pelo Código de Processo Civil no que lhe for omissa. O § 1º do art. 242 do CPC aplica-se subsidiariamente à execução fiscal quanto à citação na pessoa do mandatário, administrador, preposto ou gerente quando a ação se originar de atos por eles praticados, hipótese que a disciplina própria da execução fiscal não contempla.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cpc.242",
+  "para": "l9099.18",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 18 da Lei 9.099/95 disciplina de modo próprio e simplificado a citação no processo dos Juizados Especiais Cíveis, vedando a citação por edital. O art. 242 do CPC, que permite a citação na pessoa do representante legal ou do procurador do réu, aplica-se apenas subsidiariamente aos Juizados Especiais, no que a lei própria não regular.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cpc.242",
+  "para": "cc.1138",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 242 do CPC permite que a citação seja feita na pessoa do representante legal ou do procurador do réu. O art. 1.138 do Código Civil especializa esse regime para a sociedade estrangeira autorizada a funcionar no Brasil, que é obrigada a manter, permanentemente, representante no país com poderes para resolver quaisquer questões e para receber citação judicial em seu nome.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cpp.397",
+  "para": "cp.21",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 397 do CPP autoriza a absolvição sumária quando verificada a existência manifesta de causa excludente da culpabilidade do agente, salvo a inimputabilidade. O art. 21 do Código Penal complementa esse regime ao prever, entre essas causas, o erro sobre a ilicitude do fato que, se inevitável, isenta de pena o agente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cpp.397",
+  "para": "cp.107",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 397 do CPP autoriza a absolvição sumária quando extinta a punibilidade do agente. O art. 107 do Código Penal complementa esse regime ao enumerar as causas de extinção da punibilidade, entre elas a morte do agente, a anistia, a graça, o indulto, a prescrição, a decadência, a perempção e o perdão judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cpp.397",
+  "para": "d9580.1027",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 397 do CPP autoriza a absolvição sumária quando extinta a punibilidade do agente, hipótese cujas causas gerais o art. 107 do Código Penal enumera. O art. 1.027 do RIR/2018 especializa essa disciplina para os crimes tributários definidos na Lei 8.137/90 e na Lei 4.729/65 ao reconhecer extinta a punibilidade quando o agente promove o pagamento do tributo, inclusive acessório, antes do recebimento da denúncia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T00:12:19+00:00"
  }
 ]
