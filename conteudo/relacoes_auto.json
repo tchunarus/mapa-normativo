@@ -17807,5 +17807,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "cpc.536",
+  "para": "l8078.84",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 84 do CDC já consagra a tutela específica da obrigação de fazer ou de não fazer com o mesmo objetivo do art. 536 do CPC, mas não detalha as medidas de efetivação; por força do art. 90 do CDC, aplicam-se subsidiariamente as normas do CPC, de modo que a multa, a busca e apreensão e a remoção de pessoas e coisas previstas no § 1º do art. 536 completam a execução da tutela do art. 84.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T18:20:51+00:00"
+ },
+ {
+  "de": "cpc.536",
+  "para": "l7347.11",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 11 da Lei 7.347/85 determina a execução específica ou a cominação de multa diária para a obrigação de fazer ou não fazer na ação civil pública, sem detalhar as medidas executivas; o § 1º do art. 536 do CPC, aplicável subsidiariamente a essas ações, acrescenta a busca e apreensão, a remoção de pessoas e coisas e o impedimento de atividade nociva como meios de efetivação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T18:20:51+00:00"
+ },
+ {
+  "de": "l7347.9",
+  "para": "l8078.90",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 90 do CDC determina a aplicação subsidiária, às ações coletivas de consumo, das normas da Lei 7.347/85 relativas ao inquérito civil, naquilo que não contrariar suas disposições; o art. 9º da Lei 7.347/85, ao disciplinar o arquivamento do inquérito civil e sua submissão ao Conselho Superior do Ministério Público, integra o regime assim recebido pelo CDC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T18:20:51+00:00"
+ },
+ {
+  "de": "l7347.9",
+  "para": "cpp.28",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os §§ 1º a 4º do art. 9º da Lei 7.347/85 e o art. 28 do CPP preveem, cada qual em sua esfera, o mesmo mecanismo de revisão do arquivamento pela instância superior do Ministério Público, o que gera risco de se confundir o arquivamento do inquérito civil, destinado à tutela de direitos difusos e coletivos, com o arquivamento do inquérito policial, destinado à investigação criminal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T18:20:51+00:00"
+ },
+ {
+  "de": "l8036.29-B",
+  "para": "l12016.7",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 7º da Lei 12.016/09 autoriza o juiz a suspender o ato impugnado quando houver fundamento relevante, com efeito prático assemelhado ao de uma liminar; o art. 29-B da Lei 8.036/90 excepciona esse poder especificamente para os mandados de segurança que impliquem saque ou movimentação da conta vinculada do FGTS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T18:20:51+00:00"
+ },
+ {
+  "de": "l8036.29-C",
+  "para": "cpc.85",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 85 do CPC estabelece a regra geral de condenação do vencido em honorários advocatícios; o art. 29-C da Lei 8.036/90 excepciona essa regra para as ações entre o FGTS e os titulares de contas vinculadas, afastando por completo a condenação em honorários, sem a ressalva de má-fé prevista em outras leis especiais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T18:20:51+00:00"
+ },
+ {
+  "de": "l8036.29-C",
+  "para": "l7347.18",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 18 da Lei 7.347/85 afasta a condenação em honorários da associação autora da ação civil pública, salvo comprovada má-fé; o art. 29-C da Lei 8.036/90 prevê isenção de honorários sem essa ressalva e para partes distintas, FGTS e titulares de conta vinculada, o que exige cautela para não se aplicar por analogia a exceção de má-fé de uma lei a outra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T18:20:51+00:00"
  }
 ]
