@@ -16847,5 +16847,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T01:07:01+00:00"
+ },
+ {
+  "de": "cc.943",
+  "para": "l8429.8",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 943 do Código Civil estabelece, em termos gerais, que o direito de exigir reparação e a obrigação de prestá-la transmitem-se com a herança, regra que o art. 8º da Lei de Improbidade Administrativa especializa para os danos causados ao erário ou ao enriquecimento ilícito, limitando a responsabilidade do sucessor ou do herdeiro à obrigação de reparar o dano até o valor da herança ou do patrimônio transferido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T09:22:15+00:00"
+ },
+ {
+  "de": "cp.21",
+  "para": "floripa_ctm.436",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 21 do Código Penal trata do erro sobre a ilicitude do fato, que isenta de pena quando inevitável e apenas reduz a pena quando evitável, enquanto o art. 436 do Código Tributário Municipal de Florianópolis prevê o erro de direito ou a ignorância excusável como causa de exclusão da punibilidade tributária, inclusive quando o infrator for induzido a erro por profissional habilitado, nos termos do parágrafo único; os dois regimes, de naturezas distintas, tratam do mesmo fundamento de inexigibilidade de conduta diversa e podem ser confundidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T09:22:15+00:00"
+ },
+ {
+  "de": "l11101.101",
+  "para": "l7347.17",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 1º do art. 101 da Lei 11.101/2005 impõe responsabilidade solidária aos múltiplos autores do pedido de falência julgado improcedente por dolo, pela indenização devida ao devedor, enquanto o art. 17 da Lei 7.347/1985 impõe aos diretores responsáveis pela propositura de ação civil pública com litigância de má-fé a condenação solidária em honorários e custas, sem prejuízo da responsabilidade por perdas e danos; ambos tratam de responsabilização solidária por abuso do direito de ação, mas com pressupostos e ações distintas, o que pode gerar confusão entre os regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T09:22:15+00:00"
+ },
+ {
+  "de": "l12527.34",
+  "para": "lcp105.11",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 34 da Lei de Acesso à Informação atribui aos órgãos e entidades públicas responsabilidade direta pelos danos causados pela divulgação não autorizada ou pela utilização indevida de informações sigilosas ou pessoais, com apuração de responsabilidade funcional do agente em caso de dolo ou culpa, e o parágrafo único estende essa responsabilidade à pessoa física ou à entidade privada com vínculo com o órgão que dê tratamento indevido à informação; regime próximo ao do art. 11 da Lei Complementar 105/2001, que também responsabiliza pessoal e diretamente o servidor que utilizar ou viabilizar o uso de informação obtida com quebra de sigilo bancário, sem prejuízo da responsabilidade objetiva da entidade pública, o que pode gerar confusão quanto ao regime de sigilo aplicável a cada caso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T09:22:15+00:00"
+ },
+ {
+  "de": "l13874.13",
+  "para": "l10522.18-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 13 da Lei 13.874/2019 é o dispositivo que alterou a Lei 10.522/2002 para incluir o art. 18-A, segundo o qual comitê formado por integrantes do Conselho Administrativo de Recursos Fiscais, da Secretaria Especial da Receita Federal do Brasil e da Procuradoria-Geral da Fazenda Nacional edita enunciados de súmula da administração tributária federal, de observância obrigatória nos atos administrativos, normativos e decisórios desses órgãos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T09:22:15+00:00"
+ },
+ {
+  "de": "l13874.7",
+  "para": "cc.113",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 7º da Lei 13.874/2019 é o dispositivo que deu ao art. 113 do Código Civil a redação atual do § 1º, que elenca os critérios de interpretação do negócio jurídico, entre eles a confirmação pelo comportamento posterior das partes, os usos e costumes do mercado, a boa-fé, o benefício à parte que não redigiu a cláusula e a razoável negociação inferida das demais disposições do negócio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T09:22:15+00:00"
+ },
+ {
+  "de": "l13874.7",
+  "para": "cc.421",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 7º da Lei 13.874/2019 é o dispositivo que deu ao art. 421 do Código Civil a redação atual do caput, segundo a qual a liberdade contratual é exercida nos limites da função social do contrato, texto reproduzido na alteração promovida por aquele art. 7º à Lei nº 10.406, de 2002.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T09:22:15+00:00"
  }
 ]
