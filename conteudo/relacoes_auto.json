@@ -18217,5 +18217,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T22:18:35+00:00"
+ },
+ {
+  "de": "cc.275",
+  "para": "cpc.1005",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 1.005 do CPC trata do aproveitamento do recurso entre devedores solidários quando as defesas forem comuns, disciplina processual do mesmo instituto da solidariedade passiva do art. 275 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T23:19:34+00:00"
+ },
+ {
+  "de": "cc.275",
+  "para": "ctn.125",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 125 do CTN prevê que a remissão de crédito tributário concedida a um dos obrigados solidários não exonera os demais quanto ao saldo, regime próprio da solidariedade tributária que pode ser confundido com a solidariedade civil do art. 275 do CC, de efeitos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T23:19:34+00:00"
+ },
+ {
+  "de": "cc.275",
+  "para": "floripa_ctm.33",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 33 do Código Tributário Municipal de Florianópolis trata dos efeitos da isenção sobre a solidariedade tributária municipal, regime que, por utilizar a mesma palavra solidariedade do art. 275 do CC para institutos diversos, gera risco de confusão quanto ao regime de exoneração aplicável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T23:19:34+00:00"
+ },
+ {
+  "de": "cc.283",
+  "para": "cpc.132",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 132 do CPC confere título executivo ao réu que satisfizer a dívida comum para exigir de cada codevedor a respectiva quota, na proporção que lhe tocar, dando efetividade processual ao direito de regresso assegurado pelo art. 283 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T23:19:34+00:00"
+ },
+ {
+  "de": "cc.349",
+  "para": "cpc.857",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 857 do CPC emprega o termo sub-rogação para a transferência ao exequente dos direitos do executado sobre o crédito penhorado, instituto distinto da sub-rogação por pagamento de que trata o art. 349 do CC, que transfere ao solvens os direitos do credor contra o devedor principal e os fiadores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T23:19:34+00:00"
+ },
+ {
+  "de": "cc.349",
+  "para": "l11101.59",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 59 da Lei 11.101/05 qualifica como novação, com preservação das garantias, o efeito do plano de recuperação sobre os créditos anteriores, resultado prático próximo ao da sub-rogação do art. 349 do CC, embora a novação, em regra, extinga a obrigação e as garantias que a acompanhavam.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T23:19:34+00:00"
+ },
+ {
+  "de": "cc.831",
+  "para": "cpc.794",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 794 do CPC autoriza o fiador que pagar a dívida a executar o afiançado nos autos do mesmo processo, disciplina processual da sub-rogação do fiador nos direitos do credor prevista no art. 831 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T23:19:34+00:00"
+ },
+ {
+  "de": "cc.831",
+  "para": "l8245.12",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 12 da Lei 8.245/91 trata da sub-rogação do cônjuge ou companheiro na posição de locatário após separação, divórcio ou dissolução de união estável, instituto de sucessão contratual distinto da sub-rogação do fiador que paga a dívida, prevista no art. 831 do CC, apesar do nome comum entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T23:19:34+00:00"
+ },
+ {
+  "de": "cpp.270",
+  "para": "cpc.119",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 119 do CPC disciplina a assistência simples no processo civil, instituto distinto da assistência de acusação ao Ministério Público de que trata o art. 270 do CPP, mas a identidade da palavra assistente entre os dois regimes gera risco real de confusão quanto ao alcance de cada um.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T23:19:34+00:00"
+ },
+ {
+  "de": "cpp.29",
+  "para": "cp.100",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 100 do CP estabelece que a ação penal pública é promovida pelo Ministério Público, regra que o art. 29 do CPP excepciona ao admitir a ação penal privada subsidiária quando o órgão ministerial não oferece a denúncia no prazo legal, preservando-lhe, porém, poderes de fiscalização e de retomada da ação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T23:19:34+00:00"
+ },
+ {
+  "de": "cpp.29",
+  "para": "l11101.184",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 184 da Lei 11.101/05 especializa, para os crimes falimentares, a ação penal privada subsidiária da pública prevista de modo geral no art. 29 do CPP, legitimando especificamente o credor habilitado ou o administrador judicial para a iniciativa diante da inércia do Ministério Público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T23:19:34+00:00"
  }
 ]
