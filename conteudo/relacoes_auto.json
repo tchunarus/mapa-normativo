@@ -16917,5 +16917,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T09:22:15+00:00"
+ },
+ {
+  "de": "floripa_ctm.436",
+  "para": "cc.849",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 436, II, b, do Código Tributário Municipal de Florianópolis exclui a punibilidade quando o infrator incorre em erro de direito ou ignorância excusável, inclusive quando induzido por profissional habilitado, nos termos do parágrafo único, enquanto o parágrafo único do art. 849 do Código Civil estabelece, em sentido oposto, que a transação não se anula por erro de direito a respeito das questões que foram objeto de controvérsia entre as partes; os dois dispositivos partem do mesmo pressuposto de erro de direito, mas com efeitos jurídicos diversos e institutos distintos, a exclusão de punibilidade tributária e a invalidade do negócio jurídico de transação, o que pode gerar confusão quanto ao tratamento do erro de direito em cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T10:22:13+00:00"
+ },
+ {
+  "de": "floripa_ctm.436",
+  "para": "ctn.172",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O inciso II, b, do art. 436 do Código Tributário Municipal de Florianópolis exclui a punibilidade pelo erro de direito ou ignorância excusável do infrator, enquanto o inciso II do art. 172 do Código Tributário Nacional autoriza a remissão total ou parcial do crédito tributário em razão do erro ou da ignorância excusáveis do sujeito passivo quanto à matéria de fato; ambos partem da excusabilidade do erro em matéria tributária para afastar consequências ao contribuinte, mas tratam de institutos distintos, exclusão de punibilidade e remissão de crédito, e de espécies diferentes de erro, de direito e de fato, de modo que há apenas ponto de contato entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T10:22:13+00:00"
+ },
+ {
+  "de": "l10522.18-A",
+  "para": "lcp214.323",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 18-A da Lei 10.522/2002 institui comitê formado por integrantes do CARF, da Receita Federal e da Procuradoria-Geral da Fazenda Nacional para editar súmulas da administração tributária federal, de observância obrigatória nos atos administrativos, normativos e decisórios desses órgãos, enquanto o art. 323 da Lei Complementar 214/2025 atribui função semelhante, de observância obrigatória nos atos administrativos, normativos e decisórios das administrações tributárias e procuradorias de todos os entes federativos, ao Comitê de Harmonização das Administrações Tributárias e ao Fórum de Harmonização Jurídica das Procuradorias; os dois comitês exercem função de uniformização interpretativa vinculante em âmbitos distintos, tributos federais e harmonização nacional do IBS e da CBS, o que pode gerar confusão quanto ao órgão competente para editar o enunciado aplicável a cada caso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T10:22:13+00:00"
+ },
+ {
+  "de": "l14973.22-C",
+  "para": "l13988.1",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 4º, III, do art. 1º da Lei 13.988/2020 estende a aplicação do regime geral de transação, no que couber, à dívida ativa das autarquias e das fundações públicas federais, nos termos de ato do Advogado-Geral da União; o art. 22-C, incluído pela Lei 14.973/2024, especializa essa extensão ao condicionar a proposta de transação de dívida ativa não tributária dessas autarquias e fundações à existência de relevante interesse regulatório previamente reconhecido por ato do Advogado-Geral da União, exigência adicional que não consta do regime geral do art. 1º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T10:22:13+00:00"
+ },
+ {
+  "de": "l14973.22-D",
+  "para": "l13988.11",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O inciso I do caput do art. 11 da Lei 13.988/2020 é referido pelo § 2º, I, que veda a redução do montante principal do crédito transacionado, e pelo § 2º, III, que limita o prazo de quitação a 120 meses; o art. 22-D, incluído na mesma lei pela Lei 14.973/2024 para a transação de créditos não tributários de autarquias e fundações públicas federais, excepciona essas regras ao afastar, no § 6º, a limitação do § 2º, I, para multas decorrentes de processo administrativo sancionador, e ao autorizar, no § 7º, a ampliação em até doze meses do limite do § 2º, III, quando comprovado o desenvolvimento de projetos de interesse social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T10:22:13+00:00"
+ },
+ {
+  "de": "l13988.12",
+  "para": "l11101.59",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 12 da Lei 13.988/2020 dispõe que a proposta de transação aceita não implica novação dos créditos por ela abrangidos, enquanto o art. 59 da Lei 11.101/2005 estabelece que o plano de recuperação judicial implica novação dos créditos anteriores ao pedido e obriga o devedor e todos os credores a ele sujeitos; os dois regimes de renegociação de dívida tratam da novação de maneira oposta, o que pode gerar confusão quanto aos efeitos da transação tributária em comparação aos da recuperação judicial quando o mesmo devedor está sujeito a ambos os institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T10:22:13+00:00"
+ },
+ {
+  "de": "l14133.10",
+  "para": "lcp227.38",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 10 da Lei 14.133/2021 garante a representação judicial ou extrajudicial do agente público pela advocacia pública, por ato praticado com estrita observância de parecer jurídico, inclusive quando o agente não mais ocupar o cargo, emprego ou função em que o ato foi praticado, enquanto o inciso IV do art. 38 da Lei Complementar 227/2026 atribui competência quase idêntica à Diretoria de Procuradorias do Comitê Gestor do Imposto sobre Bens e Serviços, para representar e defender judicialmente agentes públicos do CGIBS por atos praticados no exercício regular de suas atribuições, mesmo que o agente não mais o ocupe no momento da representação; tratando-se do mesmo instituto de garantia de defesa do agente público após deixar o cargo, aplicado em regimes legais distintos, há risco real de confusão quanto aos requisitos específicos de cada regra, parecer jurídico sem dolo na Lei 14.133/2021, e compatibilidade com o entendimento do CGIBS à época do ato na Lei Complementar 227/2026.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T10:22:13+00:00"
+ },
+ {
+  "de": "l14133.10",
+  "para": "cf.131",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 131 da Constituição Federal atribui à Advocacia-Geral da União a representação judicial e extrajudicial da União, bem como a consultoria e o assessoramento jurídico do Poder Executivo; o art. 10 da Lei 14.133/2021 complementa esse regime ao detalhar uma garantia específica de representação judicial ou extrajudicial, pela advocacia pública, do agente público que tiver atuado com estrita observância de parecer jurídico elaborado nos termos do § 1º do art. 53 da mesma lei, ressalvada a hipótese de prova de ato ilícito doloso nos autos, prevista no § 1º, II, do próprio art. 10.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T10:22:13+00:00"
+ },
+ {
+  "de": "l14133.10",
+  "para": "lindb.24",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 24 da LINDB veda que, nas esferas administrativa, controladora ou judicial, se declarem inválidas situações plenamente constituídas com base em mudança posterior das orientações gerais vigentes à época do ato, protegendo a confiança legítima de quem seguiu a orientação então prevalecente; o art. 10 da Lei 14.133/2021 complementa essa proteção ao assegurar, de modo específico, a representação judicial ou extrajudicial do agente público, pela advocacia pública, quando ele tiver atuado com estrita observância de parecer jurídico elaborado na forma do § 1º do art. 53 da mesma lei, ainda que já não ocupe o cargo em que praticou o ato, nos termos do § 2º do próprio art. 10.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T10:22:13+00:00"
  }
 ]
