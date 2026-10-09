@@ -17007,5 +17007,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T10:22:13+00:00"
+ },
+ {
+  "de": "cc.849",
+  "para": "cpc.657",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 657 do CPC regula a anulação da partilha amigável pelas mesmas causas do art. 849 do CC (dolo, coação e erro essencial), com acréscimo da intervenção de incapaz, mas sujeita o pedido a prazo decadencial próprio de um ano, o que o diploma processual especializa em relação à regra geral do CC sobre os vícios da transação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T11:30:47+00:00"
+ },
+ {
+  "de": "cf.131",
+  "para": "adct.29",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 29 do ADCT disciplina o período de transição até a edição da lei complementar prevista no art. 131 da CF, mantendo em funcionamento a Procuradoria-Geral da Fazenda Nacional e as demais consultorias jurídicas federais até que a Advocacia-Geral da União seja efetivamente organizada, complementando o regime definitivo instituído pela norma constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T11:30:47+00:00"
+ },
+ {
+  "de": "ctn.172",
+  "para": "floripa_ctm.90",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 90 do CTM de Florianópolis reproduz, para a remissão do crédito tributário municipal, a mesma regra do parágrafo único do art. 172 do CTN (o despacho concessivo não gera direito adquirido), remetendo, no que for cabível, ao art. 64 do próprio código municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T11:30:47+00:00"
+ },
+ {
+  "de": "l11101.59",
+  "para": "ctn.187",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 59 da Lei 11.101/05 atribui à novação do plano de recuperação judicial o efeito de obrigar os credores a ele sujeitos, mas o art. 187 do CTN exclui o crédito tributário do concurso de credores e da habilitação em falência ou recuperação judicial, de modo que a novação do art. 59 não atinge os créditos tributários, que seguem regime próprio de cobrança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T11:30:47+00:00"
+ },
+ {
+  "de": "l14133.141",
+  "para": "cp.337-H",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 337-H do CP tipifica como crime o pagamento de fatura com preterição da ordem cronológica de sua exigibilidade, conduta que corresponde ao descumprimento do dever administrativo de observância da ordem cronológica de pagamento estabelecido no caput e no § 2º do art. 141 da Lei 14.133/21, complementando com sanção penal a regra administrativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T11:30:47+00:00"
+ },
+ {
+  "de": "l14133.141",
+  "para": "cf.100",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 100 da CF e o art. 141 da Lei 14.133/21 preveem, cada um, uma regra de ordem cronológica de pagamento pelo poder público (precatórios judiciais e contratos administrativos, respectivamente), o que gera risco real de confusão entre os dois regimes, apesar de se tratar de institutos distintos quanto à natureza do crédito e ao procedimento de pagamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T11:30:47+00:00"
+ },
+ {
+  "de": "l14133.156",
+  "para": "l13303.83",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 83 da Lei 13.303/16 estabelece regime sancionador próprio e mais restrito para os contratos de empresas públicas e sociedades de economia mista, sem a sanção de declaração de inidoneidade prevista no inciso IV do art. 156 da Lei 14.133/21, excepcionando a aplicação do regime geral de sanções da nova lei de licitações a esses contratos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T11:30:47+00:00"
+ },
+ {
+  "de": "l14133.156",
+  "para": "l12846.6",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "A mesma conduta de fraude ou corrupção em licitação pode ensejar, simultaneamente, as sanções administrativas do art. 156 da Lei 14.133/21 e as do art. 6º da Lei 12.846/13, gerando concurso aparente de normas sancionadoras entre o regime licitatório e o regime de responsabilização de pessoas jurídicas por atos lesivos à administração pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T11:30:47+00:00"
+ },
+ {
+  "de": "l14133.156",
+  "para": "l8429.12",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O ato de improbidade administrativa cometido em licitação ou contrato pode sujeitar o responsável, de forma cumulativa, às sanções do art. 156 da Lei 14.133/21 e às cominações do art. 12 da Lei 8.429/92, sem que a aplicação de um regime exclua o outro, o que caracteriza concurso aparente entre os dois diplomas sancionadores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T11:30:47+00:00"
+ },
+ {
+  "de": "l14133.160",
+  "para": "l8078.28",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 28 do CDC adota a chamada teoria menor da desconsideração, bastando o prejuízo ao consumidor ou a má administração que leve à insolvência, enquanto o art. 160 da Lei 14.133/21 exige abuso do direito para encobrir ato ilícito ou confusão patrimonial, de modo que os dois institutos são conexos mas sujeitos a requisitos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T11:30:47+00:00"
+ },
+ {
+  "de": "l14133.163",
+  "para": "l12527.33",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 33 da LAI prevê a reabilitação perante a própria autoridade que aplicou a sanção de declaração de inidoneidade, nos mesmos termos empregados pelo art. 163 da Lei 14.133/21 para a reabilitação do licitante ou contratado, de modo que os dois diplomas tratam do mesmo instituto da reabilitação administrativa em matéria de licitação e contratação pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T11:30:47+00:00"
+ },
+ {
+  "de": "ctn.172",
+  "para": "floripa_ctm.89",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 89 do CTM de Florianópolis exerce, no âmbito municipal, a autorização legislativa prevista no art. 172 do CTN, reproduzindo os mesmos critérios de concessão da remissão (situação econômica do sujeito passivo, erro ou ignorância escusáveis quanto à matéria de fato, diminuta importância do crédito e condições peculiares da região), de modo que ambos integram o mesmo regime da remissão tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T11:31:02+00:00"
  }
 ]
