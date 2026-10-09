@@ -16817,5 +16817,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T00:12:19+00:00"
+ },
+ {
+  "de": "cc.1138",
+  "para": "lsa.119",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos impõem a manutenção de representante permanente no Brasil com poderes para receber citação judicial em nome de pessoa domiciliada no exterior, o que gera risco de confusão entre as hipóteses. O art. 1.138 do Código Civil trata da sociedade estrangeira autorizada a funcionar no País, enquanto o art. 119 da Lei das Sociedades Anônimas regula apenas o acionista residente ou domiciliado no exterior, hipótese distinta e mais restrita.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T01:07:01+00:00"
+ },
+ {
+  "de": "clt.223-B",
+  "para": "cc.943",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "Há conflito aparente entre os dispositivos quanto à transmissibilidade do direito à reparação por dano extrapatrimonial. O art. 223-B da CLT atribui a titularidade exclusiva do direito à reparação à pessoa física ou jurídica ofendida, enquanto o art. 943 do Código Civil estabelece, em regra geral, que o direito de exigir reparação se transmite com a herança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T01:07:01+00:00"
+ },
+ {
+  "de": "cp.18",
+  "para": "cc.951",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos empregam os mesmos termos imprudência, negligência e imperícia, o que gera risco de confusão entre os institutos. O art. 18, II, do Código Penal usa essas expressões para definir o crime culposo, sujeito à excepcionalidade do parágrafo único quanto à punição, enquanto o art. 951 do Código Civil as emprega para fixar a responsabilidade civil do profissional que, no exercício de atividade profissional, causar dano ao paciente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T01:07:01+00:00"
  }
 ]
