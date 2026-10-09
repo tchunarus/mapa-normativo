@@ -17287,5 +17287,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T13:31:28+00:00"
+ },
+ {
+  "de": "l9307.28",
+  "para": "cc.840",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 28 da Lei 9.307/96 disciplina o procedimento para formalizar, por sentença arbitral, a transação do art. 840 do CC quando o acordo mediante concessões mútuas ocorre no curso da arbitragem; trata-se do mesmo instituto da transação, apenas com efeito procedimental próprio do juízo arbitral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T14:26:36+00:00"
+ },
+ {
+  "de": "floripa_ctm.98",
+  "para": "cpp.742",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A anistia tributária municipal do art. 98 do CTM de Florianópolis e a anistia penal do art. 742 do CPP compartilham apenas a denominação; a primeira exclui penalidade pecuniária fiscal, a segunda extingue a pena criminal após o trânsito em julgado, institutos que não devem ser confundidos apesar do nome comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T14:26:36+00:00"
+ },
+ {
+  "de": "floripa_ctm.98",
+  "para": "ctn.179",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 98 do CTM de Florianópolis trata da anistia, que exclui a penalidade por infração já cometida; o art. 179 do CTN trata da isenção, que exclui o próprio tributo. Ambos são causas de exclusão do crédito tributário, efetivadas por despacho individual da autoridade administrativa mediante requerimento do interessado, e por essa semelhança procedimental podem ser confundidos apesar de incidirem sobre objetos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T14:26:36+00:00"
+ },
+ {
+  "de": "l14973.18",
+  "para": "l13988.22-C",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 18 da Lei 14.973/24 declara expressamente que o capítulo em que se insere altera a Lei 13.988/20 para aperfeiçoar os mecanismos de transação de dívidas com autarquias e fundações públicas federais; foi essa alteração que introduziu o art. 22-C na Lei 13.988/20, com o texto ora consolidado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T14:26:36+00:00"
+ },
+ {
+  "de": "l14973.21",
+  "para": "l13988.22-C",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 21 da Lei 14.973/24 fixa o prazo de cento e oitenta dias para a manifestação fundamentada exigida pelo § 2º do art. 22-C da Lei 13.988/20 no caso das agências reguladoras, detalhando um requisito procedimental do mesmo regime de reconhecimento do relevante interesse regulatório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T14:26:36+00:00"
+ },
+ {
+  "de": "l14973.18",
+  "para": "l13988.22-D",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O mesmo capítulo da Lei 14.973/24 cuja alteração da Lei 13.988/20 é declarada pelo art. 18 também introduziu o art. 22-D, com os requisitos adicionais de transação para autarquias e fundações públicas federais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T14:26:36+00:00"
+ },
+ {
+  "de": "l10522.10-C",
+  "para": "l13988.22-D",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 10-C da Lei 10.522/02 remete expressamente ao regime da Lei 13.988/20 ao permitir que o empresário em recuperação judicial submeta proposta de transação de débitos fiscais nos termos daquela lei, aproximando-se do mecanismo de transação de dívida ativa disciplinado pelo art. 22-D, ainda que os créditos envolvidos sejam de natureza diversa, tributária e não tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T14:26:36+00:00"
+ },
+ {
+  "de": "l14973.39",
+  "para": "ctn.168",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 2º do art. 39 da Lei 14.973/24 fixa prazo prescricional de cinco anos para o interessado pleitear a restituição de valores depositados judicialmente. O art. 168 do CTN fixa o mesmo prazo de cinco anos para pleitear a restituição de tributo pago indevidamente. A identidade do prazo e da expressão pleitear a restituição cria risco de confusão entre institutos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T14:26:36+00:00"
+ },
+ {
+  "de": "l14973.39",
+  "para": "cf.100",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 39 da Lei 14.973/24 estende o regime de prazo de levantamento e prescrição aos valores depositados em razão da liquidação de precatórios e requisições de pequeno valor, detalhando, para a hipótese de depósito judicial não levantado, o regime constitucional de pagamento de precatórios do art. 100 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T14:26:36+00:00"
+ },
+ {
+  "de": "l14973.39",
+  "para": "cpc.840",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 840 do CPC determina onde devem ser preferencialmente depositadas as quantias em dinheiro objeto de depósito judicial. O art. 39 da Lei 14.973/24 complementa esse regime ao fixar o prazo para o interessado levantar tais valores e a prescrição aplicável após o encerramento da conta de depósito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T14:26:36+00:00"
+ },
+ {
+  "de": "l14973.6",
+  "para": "lcp214.258",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 6º da Lei 14.973/24 permite atualizar o valor de bens imóveis para o valor de mercado, tributando a diferença pelo IRPF à alíquota de quatro por cento. O art. 258 da LC 214/2025 trata do valor inicial do redutor de ajuste do IBS e da CBS, também calculado a partir do valor de aquisição do imóvel atualizado. Os dois dispositivos tratam de atualizações do valor de aquisição de bens imóveis para fins tributários distintos, o que pode gerar confusão entre os regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T14:26:36+00:00"
+ },
+ {
+  "de": "l8078.84",
+  "para": "l7347.11",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 84 do CDC reproduz, para as relações de consumo, o mesmo mecanismo de tutela específica das obrigações de fazer ou não fazer previsto no art. 11 da Lei 7.347/85, com a mesma lógica de conversão em perdas e danos apenas quando impossível a tutela específica; os dois dispositivos integram o mesmo regime da tutela específica nas ações coletivas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T14:26:36+00:00"
+ },
+ {
+  "de": "cpc.497",
+  "para": "l7347.11",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 497 do CPC generaliza, para toda ação que tenha por objeto obrigação de fazer ou não fazer, o mesmo mecanismo de tutela específica ou de resultado prático equivalente já previsto no art. 11 da Lei 7.347/85 para a ação civil pública; tratam do mesmo instituto, com o CPC complementando o regime para além das ações coletivas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T14:26:36+00:00"
  }
 ]
