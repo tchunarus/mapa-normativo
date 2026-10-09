@@ -17897,5 +17897,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T19:16:39+00:00"
+ },
+ {
+  "de": "l8078.25",
+  "para": "cc.278",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O CDC impõe solidariedade passiva entre os responsáveis pelo dano ao consumidor sem disciplinar os efeitos internos dessa solidariedade, como o alcance de cláusulas pactuadas entre um devedor solidário e o credor. Nessa lacuna, aplica-se subsidiariamente o regime geral das obrigações solidárias do CC, cujo art. 278 veda que tal cláusula agrave a posição dos demais devedores sem o consentimento destes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T20:20:25+00:00"
+ },
+ {
+  "de": "l8078.28",
+  "para": "cc.1097",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 28 do CDC atribui responsabilidade por culpa às sociedades coligadas, mas não define esse conceito. O art. 1.097 do CC complementa essa definição ao estabelecer que são coligadas as sociedades que, em suas relações de capital, são controladas, filiadas ou de simples participação, nos termos dos artigos seguintes do próprio Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T20:20:25+00:00"
+ },
+ {
+  "de": "l8078.34",
+  "para": "cc.1178",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 34 do CDC especializa, para o fornecedor de produtos e serviços, a regra geral do art. 1.178 do CC sobre a responsabilidade do preponente pelos atos de seus prepostos praticados no estabelecimento. A especialidade está em impor solidariedade em favor do consumidor, sem a distinção entre atos praticados dentro ou fora do estabelecimento prevista no parágrafo único do art. 1178.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T20:20:25+00:00"
+ },
+ {
+  "de": "l8078.59",
+  "para": "cp.47",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 59 do CDC prevê a interdição como sanção administrativa aplicada ao fornecedor em procedimento com ampla defesa, por reincidência em infrações de consumo. O art. 47 do CP disciplina a interdição temporária de direitos como pena restritiva aplicada à pessoa física condenada em processo penal. A coincidência do nome do instituto gera risco de se confundir a sanção administrativa com a pena criminal, que têm natureza e pressupostos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T20:20:25+00:00"
+ },
+ {
+  "de": "l8078.59",
+  "para": "l8987.33",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Tanto o art. 59 do CDC quanto o art. 33 da Lei 8.987/95 preveem a intervenção administrativa como medida sujeita a procedimento próprio com ampla defesa, mas em regimes diferentes: o primeiro incide sobre o fornecedor que reincide em infrações de consumo, e o segundo sobre a concessionária de serviço público. A semelhança do nome e da estrutura procedimental gera risco de se importar prazos e requisitos de um regime para o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T20:20:25+00:00"
+ },
+ {
+  "de": "l8078.78",
+  "para": "cp.44",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 78 do CDC determina que as penas nele previstas sejam aplicadas observado o disposto nos arts. 44 a 47 do CP. Entre eles está o art. 44, que disciplina os requisitos para a substituição da pena privativa de liberdade por restritiva de direitos, regime ao qual se submete a interdição temporária de direitos do inciso I.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T20:20:25+00:00"
+ },
+ {
+  "de": "l8078.78",
+  "para": "cp.46",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "A prestação de serviços à comunidade prevista no inciso III do art. 78 do CDC corresponde ao instituto disciplinado pelo art. 46 do CP, um dos dispositivos expressamente referidos pelo caput do art. 78, que define essa pena como a atribuição de tarefas gratuitas ao condenado em entidades assistenciais ou programas comunitários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T20:20:25+00:00"
+ },
+ {
+  "de": "l8078.78",
+  "para": "cp.43",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 78 do CDC prevê a interdição temporária de direitos e a prestação de serviços à comunidade como penas aplicáveis ao condenado por crime contra as relações de consumo. O art. 43 do CP complementa esse regime ao enumerar essas duas modalidades, nos incisos V e IV, entre as penas restritivas de direitos do sistema penal comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T20:20:25+00:00"
+ },
+ {
+  "de": "l8078.78",
+  "para": "l12846.6",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 78 do CDC prevê, como pena criminal, a publicação da notícia sobre os fatos e a condenação às expensas do condenado. O inciso II do art. 6º da Lei 12.846/13 prevê, como sanção administrativa aplicada à pessoa jurídica, a publicação extraordinária da decisão condenatória. A semelhança da medida gera risco de se confundir a pena penal imposta à pessoa física com a sanção administrativa imposta à pessoa jurídica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T20:20:25+00:00"
+ },
+ {
+  "de": "l8078.79",
+  "para": "cpp.325",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 79 do CDC especializa, para as infrações nele previstas, o regime geral de fixação do valor da fiança do art. 325 do CPP, substituindo as faixas em salários mínimos vinculadas à pena cominada por um valor fixo entre cem mil e duzentas mil vezes o Bônus do Tesouro Nacional, ou índice equivalente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T20:20:25+00:00"
+ },
+ {
+  "de": "l8078.79",
+  "para": "cc.820",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 79 do CDC trata da fiança como garantia processual penal, fixada pela autoridade para assegurar o comparecimento do indiciado ou réu aos atos do processo. O art. 820 do CC trata da fiança como contrato de garantia pessoal de obrigação civil. Os institutos não têm a mesma natureza, mas o uso do mesmo termo gera risco real de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T20:20:25+00:00"
  }
 ]
