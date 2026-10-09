@@ -17127,5 +17127,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T11:31:02+00:00"
+ },
+ {
+  "de": "adct.29",
+  "para": "cf.128",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O caput do art. 29 do ADCT dispõe que o Ministério Público Federal continuará a exercer suas atividades enquanto não aprovada a lei complementar relativa ao Ministério Público, a mesma lei complementar organizacional pressuposta pela estrutura do Ministério Público definida no art. 128 da Constituição Federal. A relação é de regra de transição sobre a mesma instituição, não de detalhamento do conteúdo do art. 128.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T12:32:32+00:00"
+ },
+ {
+  "de": "adct.29",
+  "para": "lcp123.41",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 5º do art. 29 do ADCT atribui à Procuradoria-Geral da Fazenda Nacional a representação judicial da União nas causas de natureza fiscal, e o art. 41 da LC 123/06 detalha essa representação para os processos relativos a impostos e contribuições do Simples Nacional, inclusive quanto ao auxílio dos entes federativos. Os dois dispositivos integram o mesmo regime de representação judicial fiscal da União pela Procuradoria-Geral da Fazenda Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T12:32:32+00:00"
+ },
+ {
+  "de": "cp.337-H",
+  "para": "l14133.337-H",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 337-H do Código Penal corresponde ao tipo penal de perturbação de processo licitatório inserido no Código Penal pelo art. 337-H da Lei 14.133/21, com redação idêntica quanto à conduta e à pena. A Lei 14.133/21 alterou o Código Penal para trazer para dentro dele os crimes antes previstos na Lei 8.666/93, e o art. 337-H é um desses tipos penais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T12:32:32+00:00"
+ },
+ {
+  "de": "floripa_ctm.89",
+  "para": "ctn.171",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O caput e o § 1º do art. 89 do CTM de Florianópolis exercem, para o Município, a faculdade de instituir a transação tributária autorizada pelo art. 171 do CTN, determinando que a lei municipal fixe as condições impostas à Fazenda e ao sujeito passivo. Trata-se do mesmo instituto da transação, especializado para a extinção do crédito tributário municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T12:32:32+00:00"
+ },
+ {
+  "de": "floripa_ctm.89",
+  "para": "ctn.156",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 89 do CTM de Florianópolis detalha, para o Município, duas das hipóteses de extinção do crédito tributário listadas nos incisos III e IV do art. 156 do CTN, a transação e a remissão. Os dois dispositivos integram o mesmo regime de extinção do crédito tributário, mas o art. 156 enumera o gênero das causas extintivas e o art. 89 disciplina apenas duas espécies.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T12:32:32+00:00"
+ },
+ {
+  "de": "floripa_ctm.90",
+  "para": "ctn.182",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 90 do CTM de Florianópolis usa, para a remissão, a mesma fórmula do parágrafo único do art. 182 do CTN sobre a anistia, de que o despacho não gera direito adquirido. Remissão e anistia são institutos tributários distintos, a primeira extingue crédito já constituído e a segunda exclui a aplicação de penalidade antes do lançamento, e a redação quase idêntica dos dois parágrafos únicos gera risco real de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T12:32:32+00:00"
+ },
+ {
+  "de": "l12527.33",
+  "para": "l9784.68",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 33 da LAI comina sanções a pessoa física ou entidade privada vinculada ao poder público, assegurando apenas o direito de defesa no prazo de dez dias, sem disciplinar os demais aspectos do processo sancionador. O art. 68 da Lei 9.784/99 rege de forma geral a natureza e a aplicação das sanções administrativas com direito de defesa, aplicando-se subsidiariamente aos pontos que a LAI deixa em aberto no processo de apuração das sanções do art. 33.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T12:32:32+00:00"
+ },
+ {
+  "de": "l13303.83",
+  "para": "l12527.33",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 83 da Lei 13.303/16 prevê suspensão temporária de participação em licitação e impedimento de contratar por prazo não superior a dois anos, com redação muito próxima à do inciso IV do art. 33 da LAI, igualmente limitada a dois anos. Os regimes sancionadores são distintos, um por inexecução contratual perante estatal e outro por descumprimento da Lei de Acesso à Informação, e a semelhança textual das sanções gera risco de confusão sobre qual regime incide sobre a empresa contratada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T12:32:32+00:00"
+ },
+ {
+  "de": "l14133.183",
+  "para": "l9784.66",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 183 da Lei 14.133/21 reproduz, para os prazos de licitações e contratos, a mesma regra de contagem do art. 66 da Lei 9.784/99, com exclusão do dia do começo, inclusão do dia do vencimento, prorrogação para o primeiro dia útil seguinte e contagem de data a data nos prazos em meses ou anos. A Lei 14.133/21 especializa essa contagem geral ao acrescentar, no inciso III, hipótese própria para os prazos expressos em dias úteis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T12:32:32+00:00"
  }
 ]
