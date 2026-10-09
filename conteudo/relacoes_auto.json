@@ -17667,5 +17667,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T16:21:46+00:00"
+ },
+ {
+  "de": "floripa_ctm.64",
+  "para": "ctn.155",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 64 do Código Tributário Municipal de Florianópolis reproduz, para o tributo municipal, a regra do art. 155 do CTN sobre a revogação de ofício da moratória individual quando o beneficiado deixar de satisfazer as condições do favor, inclusive a distinção entre dolo ou simulação, com imposição de penalidade, e os demais casos, sem penalidade, e o mesmo critério de contagem da prescrição do parágrafo único.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "l14973.22",
+  "para": "l13988.22-C",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O caput do art. 22 da Lei 14.973/24 condiciona a presunção de irrecuperabilidade dos créditos não tributários das autarquias e fundações públicas federais à ausência de manifestação prevista no § 2º do art. 22-C da Lei 13.988/20, que trata do reconhecimento do relevante interesse regulatório, instituto distinto da classificação de irrecuperabilidade que o próprio art. 22 disciplina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "l7347.2",
+  "para": "l8078.93",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 93 do CDC detalha, para a ação coletiva de consumo, a regra do foro do local do dano que o art. 2º da Lei 7.347/85 enuncia de modo geral, distinguindo o dano de âmbito local, que mantém o foro do lugar do dano, do dano de âmbito nacional ou regional, que desloca a competência para a Capital do Estado ou o Distrito Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "l7347.2",
+  "para": "l8429.17",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "Os §§ 4º-A e 5º do art. 17 da Lei de Improbidade repetem, quase literalmente, o foro do local do dano e a prevenção da jurisdição que o art. 2º da Lei 7.347/85 e seu parágrafo único preveem para a ação civil pública, estendendo o mesmo regime de competência à ação de improbidade administrativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "l8078.117",
+  "para": "l7347.21",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 117 do CDC acrescentou à Lei 7.347/85 o próprio dispositivo que hoje é o art. 21, determinando a aplicação à defesa de direitos difusos, coletivos e individuais dos dispositivos do Título III do Código de Defesa do Consumidor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "l7347.21",
+  "para": "l8078.81",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 21 da Lei 7.347/85 remete genericamente aos dispositivos do Título III do CDC, cujo primeiro artigo, o art. 81 e seu parágrafo único, define as categorias de interesses difusos, coletivos e individuais homogêneos a que essa extensão se aplica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "l8429.17-D",
+  "para": "l7347.21",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O caput do art. 17-D da Lei de Improbidade declara que a ação de improbidade administrativa não constitui ação civil, excluindo-a da extensão genérica aos dispositivos do Título III do CDC que o art. 21 da Lei 7.347/85 prevê para a defesa de direitos difusos, coletivos e individuais; o parágrafo único, em contrapartida, mantém sob o regime da Lei 7.347/85 a responsabilidade por danos ao meio ambiente, ao consumidor e aos demais bens ali listados, quando apurada fora da ação de improbidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "l7347.3",
+  "para": "l8078.84",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 84 do CDC detalha, para a ação coletiva de consumo, o mesmo objeto de cumprimento de obrigação de fazer ou não fazer que o art. 3º da Lei 7.347/85 prevê de forma genérica, disciplinando a tutela específica, a conversão em perdas e danos e a multa diária dos §§ 1º a 5º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "cpc.497",
+  "para": "l7347.3",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 497 do CPC, que não é repetido na Lei 7.347/85, aplica-se subsidiariamente para disciplinar, na fase de conhecimento, a concessão da tutela específica ou do resultado prático equivalente ao cumprimento da obrigação de fazer ou não fazer prevista no art. 3º da Lei 7.347/85.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "cpc.536",
+  "para": "l7347.3",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 536 do CPC aplica-se subsidiariamente à Lei 7.347/85 na fase de cumprimento de sentença que reconheça a obrigação de fazer ou não fazer do art. 3º, disciplinando as medidas de efetivação da tutela específica que a lei especial não detalha, instituto conexo ao da tutela concedida na fase de conhecimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "l8078.113",
+  "para": "l7347.5",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 113 do CDC acrescentou ao art. 5º da Lei 7.347/85 os §§ 4º, 5º e 6º hoje vigentes, sobre a dispensa judicial do requisito da pré-constituição, o litisconsórcio facultativo entre Ministérios Públicos e o compromisso de ajustamento de conduta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "l8078.111",
+  "para": "l7347.5",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 111 do CDC alterou a redação do então inciso II do art. 5º da Lei 7.347/85, cujo conteúdo corresponde, com acréscimos de lei posterior, à primeira alínea b do inciso V hoje vigente, sobre a finalidade institucional de proteção ao meio ambiente, ao consumidor e ao patrimônio artístico, estético, histórico, turístico e paisagístico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "l8078.112",
+  "para": "l7347.5",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 112 do CDC deu ao § 3º do art. 5º da Lei 7.347/85 a redação hoje vigente, atribuindo ao Ministério Público ou a outro legitimado a titularidade ativa em caso de desistência infundada ou abandono da ação por associação legitimada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
+ },
+ {
+  "de": "l7347.5",
+  "para": "l8078.82",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 82 do CDC estende aos mesmos legitimados, Ministério Público, entes federativos, entidades da administração e associações pré-constituídas há um ano, a legitimidade para a ação coletiva de consumo, complementando, no microssistema da tutela coletiva, o rol de legitimados que o art. 5º da Lei 7.347/85 prevê para a ação civil pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T17:19:42+00:00"
  }
 ]
