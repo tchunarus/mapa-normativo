@@ -17877,5 +17877,25 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T18:20:51+00:00"
+ },
+ {
+  "de": "l8078.103",
+  "para": "l7347.13",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 103 do CDC remete ao art. 13 da Lei 7.347/85, combinado com o art. 16, para afirmar que os efeitos da coisa julgada da ação civil pública não prejudicam as ações de indenização por danos pessoalmente sofridos, integrando o mesmo regime do fundo de reparação de interesses difusos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T19:16:39+00:00"
+ },
+ {
+  "de": "l8078.104",
+  "para": "l12016.22",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 104 do CDC dispõe que a ação coletiva não induz litispendência para ações individuais, mas os efeitos da coisa julgada coletiva só beneficiam o autor individual que requerer a suspensão de sua ação em trinta dias, regra paralela à do § 1º do art. 22 da Lei 12.016/09, que impõe prazo de trinta dias para a desistência do mandado de segurança individual sob pena de não aproveitamento dos efeitos do mandado de segurança coletivo. Há risco real de confusão entre os dois prazos e mecanismos, embora se refiram a institutos processuais conexos e não ao mesmo instrumento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-09T19:16:39+00:00"
  }
 ]
