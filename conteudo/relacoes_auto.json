@@ -18437,5 +18437,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-10T00:09:26+00:00"
+ },
+ {
+  "de": "cc.298",
+  "para": "cpc.855",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 855 do CPC disciplina a forma pela qual se aperfeiçoa a penhora de crédito do executado, mediante intimação ao terceiro devedor e ao próprio executado, enquanto o art. 298 do CC fixa o efeito civil dessa mesma penhora, liberando o devedor que pagar sem ter sido notificado e impedindo o credor ciente da constrição de transferir o crédito penhorado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T01:09:41+00:00"
+ },
+ {
+  "de": "l8137.19",
+  "para": "cp.172",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 19 da Lei 8.137/90 deu ao caput do art. 172 do Código Penal a redação hoje vigente, mantendo a conduta de emitir fatura, duplicata ou nota de venda em desacordo com a mercadoria vendida e a pena de detenção de dois a quatro anos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T01:09:41+00:00"
+ },
+ {
+  "de": "l8078.77",
+  "para": "cp.60",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 77 do CDC remete expressamente ao art. 60, § 1º, do Código Penal para a individualização do dia-multa das infrações penais do CDC, determinando que o juiz observe ali o critério da situação econômica do réu já fixado pelo art. 60 do CP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T01:09:41+00:00"
+ },
+ {
+  "de": "l11101.182",
+  "para": "cp.111",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 182 da Lei 11.101/05 estabelece regra especial de termo inicial da prescrição para os crimes falimentares, fixando-o na decretação da falência, na concessão da recuperação judicial ou na homologação do plano de recuperação extrajudicial, em vez dos marcos gerais do art. 111 do Código Penal, aplicável aos demais crimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T01:09:41+00:00"
+ },
+ {
+  "de": "l11101.182",
+  "para": "cp.117",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 182 da Lei 11.101/05 cria hipótese especial de interrupção da prescrição dos crimes falimentares pela decretação da falência, hipótese não prevista nos incisos do art. 117 do Código Penal, que disciplina em caráter geral as causas interruptivas da prescrição penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T01:09:41+00:00"
+ },
+ {
+  "de": "l8137.16",
+  "para": "cpp.27",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 16 da Lei 8.137/90 reproduz, para os crimes contra a ordem tributária, o direito de qualquer pessoa provocar a iniciativa do Ministério Público mediante informações escritas sobre o fato, a autoria, o tempo, o lugar e os elementos de convicção, regra geral já prevista no art. 27 do CPP para os crimes de ação pública em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T01:09:41+00:00"
+ },
+ {
+  "de": "l8137.7",
+  "para": "cp.175",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 7º da Lei 8.137/90 e o art. 175 do Código Penal punem, em termos muito próximos, enganar o comprador ou consumidor entregando mercadoria diversa da vendida ou em desacordo com as especificações, o que gera concurso aparente de normas resolvido pela especialidade da Lei 8.137/90 quando a conduta afeta as relações de consumo em geral, e não apenas o adquirente individual do art. 175.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T01:09:41+00:00"
+ },
+ {
+  "de": "l8137.7",
+  "para": "l8078.66",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O inciso VII do art. 7º da Lei 8.137/90 pune induzir o consumidor a erro por afirmação falsa ou enganosa sobre a natureza ou a qualidade do bem ou serviço, conduta quase idêntica à do art. 66 do CDC, que também criminaliza a afirmação falsa ou enganosa sobre essas mesmas características, configurando concurso aparente de normas entre os dois tipos penais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T01:09:41+00:00"
+ },
+ {
+  "de": "adct.76",
+  "para": "l8212.10",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 76 do ADCT excepciona, até 31 de dezembro de 2032, a vinculação de trinta por cento da arrecadação das contribuições sociais da União ao financiamento da seguridade social estabelecido pelo art. 10 da Lei 8.212/91, desvinculando essa parcela de órgão, fundo ou despesa, sem prejuízo do pagamento das despesas do Regime Geral de Previdência Social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T01:09:41+00:00"
+ },
+ {
+  "de": "l8212.15",
+  "para": "l8213.14",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 15 da Lei 8.212/91 e o art. 14 da Lei 8.213/91 definem em termos idênticos os conceitos de empresa e de empregador doméstico para o Regime Geral de Previdência Social, o primeiro para fins de custeio e o segundo para fins de concessão de benefícios, compondo o mesmo regime previdenciário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T01:09:41+00:00"
  }
 ]
