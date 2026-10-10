@@ -18327,5 +18327,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-09T23:19:34+00:00"
+ },
+ {
+  "de": "cpc.857",
+  "para": "cc.298",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 298 do CC protege o devedor do crédito penhorado que paga de boa-fé, sem notificação da penhora, preservando apenas os direitos de terceiro contra o credor, enquanto o art. 857 do CPC disciplina, no mesmo regime da penhora de direito e ação, a sub-rogação do exequente nesse crédito até a concorrência de seu crédito, de modo que os dois dispositivos compõem a disciplina dos efeitos da penhora sobre direitos e créditos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T00:09:26+00:00"
+ },
+ {
+  "de": "l11101.184",
+  "para": "cp.100",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 100 do CP autoriza, como regra geral, a ação de iniciativa privada nos crimes de ação pública se o Ministério Público não oferece denúncia no prazo legal, e o parágrafo único do art. 184 da Lei 11.101/05 especializa essa regra para os crimes falimentares, atribuindo legitimidade a qualquer credor habilitado ou ao administrador judicial e fixando prazo decadencial próprio de seis meses contado da omissão do Ministério Público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T00:09:26+00:00"
+ },
+ {
+  "de": "l11101.184",
+  "para": "l8137.15",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos classificam como pública a ação penal relativa aos crimes de suas respectivas leis, o art. 184 da Lei 11.101/05 de forma incondicionada e com regime próprio de ação privada subsidiária, e o art. 15 da Lei 8.137/90 por remissão genérica ao art. 100 do CP, o que pode levar à transposição indevida do regime decadencial de seis meses do art. 184 para os crimes tributários do art. 15, que seguem a disciplina geral do Código Penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T00:09:26+00:00"
+ },
+ {
+  "de": "l8078.93",
+  "para": "cpc.46",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 46 do CPC estabelece, como regra geral, que a ação fundada em direito pessoal seja proposta no foro de domicílio do réu, e o art. 93 do CDC excepciona essa regra para as ações decorrentes de dano ao consumidor, elegendo como competente o foro do local do dano ou, nos danos de âmbito nacional ou regional, o foro da Capital do Estado ou do Distrito Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T00:09:26+00:00"
+ },
+ {
+  "de": "l8078.99",
+  "para": "cc.957",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 957 do CC estabelece a regra geral de que, não havendo título legal de preferência, os credores concorrem em igualdade sobre os bens do devedor comum, e o art. 99 do CDC excepciona essa regra ao atribuir preferência de pagamento às vítimas de danos individuais sobre os créditos do fundo da Lei 7.347/85 decorrentes do mesmo evento danoso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T00:09:26+00:00"
+ },
+ {
+  "de": "l8137.1",
+  "para": "cp.172",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 172 do CP pune a emissão de fatura, duplicata ou nota de venda que não corresponda à mercadoria ou ao serviço efetivamente prestado, tutelando o patrimônio do sacado, enquanto o inciso III do art. 1º da Lei 8.137/90 pune a falsificação ou alteração dos mesmos documentos quando relativos a operação tributável, tutelando a ordem tributária, de modo que a semelhança dos documentos envolvidos gera risco de se confundir os dois tipos penais quando a falsificação atinge simultaneamente o sacado e o fisco.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T00:09:26+00:00"
+ },
+ {
+  "de": "l8137.1",
+  "para": "sc_icms_lei.69",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 69 da Lei 10.297/96-SC sanciona, com multa administrativa de 30% sobre o valor da operação, a emissão de documento fiscal com declaração falsa quanto ao remetente, prestador ou destinatário, conduta que também pode configurar o crime do inciso I do art. 1º da Lei 8.137/90 quando praticada com o fim de suprimir ou reduzir tributo, de modo que a mesma conduta sujeita o contribuinte a sanções autônomas, administrativa e penal, cuja independência de instâncias não deve ser confundida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T00:09:26+00:00"
+ },
+ {
+  "de": "l8137.1",
+  "para": "lcp123.37",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 37 da LC 123/06 esclarece que a imposição de multas do Simples Nacional não exclui a aplicação das sanções penais cabíveis, mencionando expressamente a declaração falsa, a adulteração de documentos e a emissão de nota fiscal em desacordo com a operação praticada, condutas que correspondem às tipificadas nos incisos I, III e IV do art. 1º da Lei 8.137/90.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T00:09:26+00:00"
+ },
+ {
+  "de": "l8137.10",
+  "para": "cp.60",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 60 do CP determina que o juiz considere a situação econômica do réu na fixação da pena de multa, podendo aumentá-la até o triplo quando a pena máxima se mostrar ineficaz, nos termos do § 1º, e o art. 10 da Lei 8.137/90 especializa esse critério para os crimes da própria lei, autorizando o juiz a diminuir a pena pecuniária até a décima parte ou elevá-la ao décuplo, conforme o ganho ilícito e a situação econômica do réu.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T00:09:26+00:00"
+ },
+ {
+  "de": "l8137.15",
+  "para": "l11101.182",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 15 da Lei 8.137/90 remete ao art. 100 do CP para disciplinar a ação penal dos crimes tributários, e o art. 182 da Lei 11.101/05 adota a mesma técnica remissiva ao Código Penal para disciplinar a prescrição dos crimes falimentares, revelando ponto de contato na forma como as duas leis penais especiais completam sua disciplina processual e material a partir da legislação penal comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T00:09:26+00:00"
+ },
+ {
+  "de": "l8137.15",
+  "para": "l8078.80",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 15 da Lei 8.137/90 classifica como pública a ação penal dos crimes tributários, sujeita à ação privada subsidiária pela aplicação do art. 100 do CP em caso de inércia do Ministério Público, e o art. 80 do CDC prevê regime semelhante de ação penal subsidiária para os crimes contra as relações de consumo, mas com legitimados próprios, os indicados nos incisos III e IV do art. 82, o que pode levar a se atribuir equivocadamente a mesma legitimidade subsidiária aos dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T00:09:26+00:00"
  }
 ]
