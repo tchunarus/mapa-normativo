@@ -18537,5 +18537,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-10T01:09:41+00:00"
+ },
+ {
+  "de": "cp.111",
+  "para": "lsa.288",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 288 da LSA condiciona a prescrição da ação de responsabilidade civil à prescrição da ação penal, cujo termo inicial é fixado pelo art. 111 do CP; são institutos conexos, pois um regula o início da contagem do prazo penal do qual depende o cômputo do prazo da ação civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "cp.111",
+  "para": "l8429.23",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 23 da LIA fixa, para infrações permanentes, o termo inicial do dia em que cessou a permanência, redação próxima à do inciso III do art. 111 do CP, mas trata de prescrição sancionatória autônoma, com prazo próprio de oito anos, não submetida ao regime de prescrição penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "cp.175",
+  "para": "l14133.337-L",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 337-L da Lei 14.133/21 reproduz, para fraude em licitação ou contrato administrativo, as condutas de fornecer mercadoria falsificada como verdadeira e de entregar uma mercadoria por outra do art. 175, I e II, do CP, afastando a aplicação do tipo geral quando a vítima é a Administração Pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "cp.175",
+  "para": "l8078.66",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 66 do CDC pune a afirmação falsa ou enganosa sobre produto ou serviço nas relações de consumo, especializando, para o consumidor destinatário final, a conduta de enganar o adquirente prevista no art. 175 do CP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "cp.175",
+  "para": "l9279.194",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 194 da LPI pune vender ou expor à venda produto com indicação de procedência falsa, conduta próxima à de vender mercadoria falsificada como verdadeira do art. 175 do CP, mas protege a propriedade industrial e a concorrência, não o patrimônio do comprador individual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "cpc.855",
+  "para": "cc.312",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 312 do CC regula a consequência do pagamento feito pelo terceiro devedor apesar de intimado da penhora do crédito nos termos do inciso I do art. 855 do CPC, determinando que esse pagamento não é oponível ao exequente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "cpc.855",
+  "para": "cc.380",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 380 do CC veda ao executado, credor do terceiro, opor compensação ao exequente após a intimação prevista no inciso II do art. 855 do CPC, complementando o efeito prático de impedir atos de disposição do crédito penhorado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "cpc.855",
+  "para": "cc.1459",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 1.459 do CC permite ao credor pignoratício intimar o devedor do título empenhado para que não pague ao seu credor, mecanismo semelhante ao da intimação do terceiro devedor do inciso I do art. 855 do CPC, mas aplicável ao penhor convencional de título de crédito, não à penhora judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "cpp.27",
+  "para": "l7347.6",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 6º da Lei 7.347/85 reproduz redação próxima à do art. 27 do CPP, inclusive impondo dever ao servidor público, mas disciplina a provocação do Ministério Público em matéria de ação civil pública, não penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "cpp.27",
+  "para": "l8429.14",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 14 da LIA permite que qualquer pessoa represente à autoridade administrativa para apuração de improbidade, faculdade próxima à do art. 27 do CPP, mas dirigida à autoridade administrativa, não ao Ministério Público, e própria do processo de improbidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "l8078.66",
+  "para": "l9279.192",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 192 da LPI pune fabricar ou vender produto que apresente falsa indicação geográfica, especializando, para essa hipótese específica, a afirmação enganosa sobre a origem do produto que, de modo geral, o art. 66 do CDC pune nas relações de consumo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "l8078.77",
+  "para": "cp.49",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 77 do CDC adota o sistema de dias-multa do art. 49 do CP, mas especializa o critério de fixação do número de dias, que passa a corresponder ao mínimo e ao máximo da pena privativa de liberdade cominada ao crime, em vez dos limites gerais de dez a trezentos e sessenta dias-multa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "l8212.2",
+  "para": "cf.196",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O caput do art. 2º da Lei 8.212/91 reproduz o art. 196 da CF, que define a saúde como direito de todos e dever do Estado garantido mediante políticas sociais e econômicas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "l8212.2",
+  "para": "cf.197",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 2º da Lei 8.212/91 reproduz, em seu caput, a relevância pública das ações e serviços de saúde estabelecida no art. 197 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "l8212.2",
+  "para": "cf.199",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "A alínea f do parágrafo único do art. 2º da Lei 8.212/91 condiciona a participação da iniciativa privada na assistência à saúde à observância dos preceitos constitucionais, remetendo ao § 1º do art. 199 da CF, que disciplina essa participação complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-10T06:08:29+00:00"
  }
 ]
