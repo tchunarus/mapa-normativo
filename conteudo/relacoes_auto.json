@@ -19537,5 +19537,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T16:19:29+00:00"
+ },
+ {
+  "de": "cc.1707",
+  "para": "cpc.531",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O CPC, art. 531 disciplina o procedimento de execução dos alimentos, definitivos ou provisórios, enquanto o CC, art. 1.707 protege o direito material à percepção de alimentos contra cessão, compensação e penhora; tratam, portanto, de institutos conexos, um de direito material e outro de processo de execução da mesma obrigação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T17:16:02+00:00"
+ },
+ {
+  "de": "cp.27",
+  "para": "cf.228",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 27 do CP reproduz, no âmbito da legislação penal, a garantia de inimputabilidade penal dos menores de dezoito anos prevista no art. 228 da CF, tratando do mesmo instituto e remetendo, em ambos os casos, à legislação especial que disciplina a responsabilização do adolescente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T17:16:02+00:00"
+ },
+ {
+  "de": "cpc.447",
+  "para": "cc.228",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O CC, art. 228 e o CPC, art. 447 disciplinam a capacidade para testemunhar, com categorias de incapazes, impedidos e suspeitos praticamente coincidentes (menor de dezesseis anos, cônjuge, ascendente, descendente, interessado no litígio, amigo íntimo ou inimigo da parte), de modo que há risco de se invocar o regime do Código Civil, com incisos já revogados, em vez do regime vigente do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T17:16:02+00:00"
+ },
+ {
+  "de": "cpc.447",
+  "para": "clt.829",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O CPC, art. 447, §§ 4º e 5º, autoriza o depoimento de testemunha impedida ou suspeita, sem compromisso, quando necessário, e a CLT, art. 829 disciplina a mesma situação de parentesco, amizade íntima ou inimizade para o processo do trabalho, prevendo igualmente o depoimento sem compromisso como simples informação, de modo que a CLT especializa, para a Justiça do Trabalho, regime próximo ao do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T17:16:02+00:00"
+ },
+ {
+  "de": "cpc.447",
+  "para": "cpp.206",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O CPP, art. 206 confere a ascendente, descendente, afim em linha reta, cônjuge e irmão do acusado a faculdade de recusar-se a depor no processo penal, enquanto o CPC, art. 447, § 2º trata o mesmo círculo familiar como causa de impedimento da testemunha no processo civil; cada diploma especializa, para seu âmbito, a consequência do parentesco próximo sobre o depoimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T17:16:02+00:00"
+ },
+ {
+  "de": "cpp.208",
+  "para": "cc.851",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo compromisso no CPP, art. 208 refere-se ao compromisso de dizer a verdade prestado pela testemunha, enquanto no CC, art. 851 compromisso designa o acordo arbitral entre partes capazes de contratar; a identidade lexical não indica identidade de instituto, o que gera risco de confusão terminológica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T17:16:02+00:00"
+ },
+ {
+  "de": "floripa_ctm.58",
+  "para": "ctn.173",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 58 do CTM de Florianópolis condiciona a revisão do lançamento a não estar extinto o direito da Fazenda Municipal, remetendo ao prazo decadencial de cinco anos fixado pelo art. 173 do CTN, norma geral de direito tributário também aplicável aos tributos municipais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T17:16:02+00:00"
+ },
+ {
+  "de": "l13709.46",
+  "para": "l12527.26",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A LAI, art. 26 impõe medidas e procedimentos de segurança para o tratamento de informações sigilosas produzidas pelo poder público, enquanto a LGPD, art. 46 exige medidas de segurança para dados pessoais; quando um órgão público trata dados pessoais também sigilosos, os dois regimes de segurança podem ser confundidos, embora protejam bens jurídicos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T17:16:02+00:00"
  }
 ]
