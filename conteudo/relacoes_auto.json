@@ -19437,5 +19437,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T15:25:21+00:00"
+ },
+ {
+  "de": "cc.3",
+  "para": "cpc.447",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 3º do Código Civil fixa em 16 anos o limite para a incapacidade absoluta de exercer pessoalmente atos da vida civil, enquanto o art. 447, § 1º, III, do CPC considera incapaz para depor como testemunha quem tiver menos de 16 anos; os dois dispositivos usam o mesmo limite etário, mas tratam de institutos diferentes, a incapacidade civil geral e a incapacidade para testemunhar em juízo, o que pode levar a se confundir uma com a outra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T16:19:29+00:00"
+ },
+ {
+  "de": "cc.3",
+  "para": "cp.27",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 3º do Código Civil estabelece a incapacidade civil absoluta dos menores de 16 anos, enquanto o art. 27 do Código Penal declara penalmente inimputáveis os menores de 18 anos; tratam de institutos diferentes, a incapacidade para a prática de atos civis e a inimputabilidade penal, que apenas se tocam pela ideia comum de proteção etária do menor, mas adotam idades distintas e podem ser confundidos por quem não atente para essa diferença.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T16:19:29+00:00"
+ },
+ {
+  "de": "cc.3",
+  "para": "cpp.208",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 3º do Código Civil fixa em 16 anos o limite para a incapacidade civil absoluta, enquanto o art. 208 do CPP nega o compromisso de dizer a verdade aos menores de 14 anos e aos doentes e deficientes mentais que prestam depoimento; os limites etários são diferentes e os institutos não se equivalem, a incapacidade civil e a dispensa do compromisso testemunhal, mas a proximidade do tema pode induzir a tratar os dois dispositivos como se disciplinassem a mesma situação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T16:19:29+00:00"
+ },
+ {
+  "de": "ctn.149",
+  "para": "floripa_ctm.58",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 149 do CTN lista as hipóteses em que o lançamento tributário é efetuado ou revisto de ofício pela autoridade administrativa; o art. 58 do Código Tributário Municipal de Florianópolis reproduz, quase literalmente, a mesma lista para o lançamento municipal, com a diferença de que a competência mencionada no caput e no parágrafo único passa a ser a do órgão fazendário municipal, e não a da Fazenda Pública em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T16:19:29+00:00"
+ },
+ {
+  "de": "ctn.149",
+  "para": "d9580.902",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 149 do CTN estabelece as hipóteses de lançamento de ofício; o art. 902 do RIR/2018 regulamenta, para o imposto sobre a renda, as mesmas hipóteses, citando expressamente, entre os fundamentos legais do caput, a Lei nº 5.172, de 1966, Código Tributário Nacional, art. 149, de modo que a enumeração de incisos do RIR detalha, para esse tributo específico, a aplicação do dispositivo geral do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T16:19:29+00:00"
+ },
+ {
+  "de": "l8213.114",
+  "para": "cc.1707",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 114 da Lei 8.213/91 torna impenhorável o benefício previdenciário, ressalvado apenas o desconto autorizado pela própria lei ou decorrente de obrigação de alimentos reconhecida em sentença judicial; o art. 1.707 do Código Civil veda a penhora do próprio crédito de alimentos devido ao credor; os dois dispositivos protegem, por ângulos diferentes, o mesmo valor alimentar, um impedindo a penhora do benefício que serve de fonte de pagamento e outro impedindo a penhora do crédito alimentar em si, o que pode gerar confusão sobre qual impenhorabilidade está em jogo em cada caso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T16:19:29+00:00"
+ },
+ {
+  "de": "l8213.114",
+  "para": "cpc.528",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 114 da Lei 8.213/91 ressalva do regime de impenhorabilidade do benefício o desconto derivado da obrigação de prestar alimentos reconhecida em sentença judicial; o art. 528 do CPC é o procedimento de cumprimento de sentença que condena ao pagamento de prestação alimentícia, inclusive quanto à intimação do executado e à prisão civil pelo não pagamento, dando efetividade processual justamente ao desconto que a Lei 8.213/91 autoriza sobre o benefício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T16:19:29+00:00"
+ },
+ {
+  "de": "l8213.124-G",
+  "para": "l13709.46",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 124-G da Lei 8.213/91 determina que o INSS observe a Lei 13.709/18 no tratamento de dados pessoais, inclusive quanto à segurança; o art. 46 da LGPD impõe aos agentes de tratamento a adoção de medidas de segurança técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados, exatamente a obrigação de segurança a que a lei previdenciária remete.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T16:19:29+00:00"
+ },
+ {
+  "de": "l8213.124-G",
+  "para": "l13709.55-K",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 124-G da Lei 8.213/91 determina que o INSS observe a Lei 13.709/18, inclusive quanto às sanções administrativas; o art. 55-K da LGPD atribui com exclusividade à ANPD a competência para aplicar essas sanções, de modo que é a esse órgão, e não a outro, que a remissão da lei previdenciária se refere quando trata de sanção administrativa por mau uso de dados dos beneficiários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T16:19:29+00:00"
+ },
+ {
+  "de": "l8213.128",
+  "para": "cf.100",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 128 da Lei 8.213/91 estabelece, para os benefícios que regula, o regime de pagamento sem precatório para valores de execução que não ultrapassem o teto que fixa; o art. 100, § 3º, da Constituição Federal autoriza que lei defina, como de pequeno valor, obrigações que ficam dispensadas da expedição de precatório, sendo a Lei 8.213/91 exatamente uma dessas leis definidoras a que a norma constitucional se refere.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T16:19:29+00:00"
  }
 ]
