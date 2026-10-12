@@ -18737,5 +18737,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T09:17:48+00:00"
+ },
+ {
+  "de": "cp.337-L",
+  "para": "l12846.5",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 337-L do Código Penal tipifica como crime a fraude de licitação ou contrato dela decorrente praticada por pessoa física, enquanto a alínea d do inciso IV do art. 5º da Lei 12.846/2013 trata o mesmo fato, fraudar licitação pública ou contrato dela decorrente, como ato lesivo sujeito a responsabilização civil e administrativa da pessoa jurídica, de modo que há risco de confusão sobre o regime, o sujeito e as sanções aplicáveis a cada caso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T10:20:25+00:00"
+ },
+ {
+  "de": "cpp.686",
+  "para": "cp.50",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 686 do Código de Processo Penal disciplina o procedimento de pagamento da pena de multa, com prazo de dez dias após o trânsito em julgado da sentença condenatória, e seu parágrafo único regula a contagem desse prazo quando houver recurso, complementando operacionalmente a regra homóloga do art. 50 do Código Penal, que fixa o mesmo prazo de dez dias para o pagamento da multa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T10:20:25+00:00"
+ },
+ {
+  "de": "l7347.6",
+  "para": "l8137.16",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 6º da Lei 7.347/1985 permite que qualquer pessoa provoque a iniciativa do Ministério Público na ação civil pública, fornecendo-lhe informações sobre os fatos, de modo muito semelhante ao que o art. 16 da Lei 8.137/1990 prevê para os crimes contra a ordem tributária, o que gera risco de se aplicar a um regime as exigências formais ou o alcance de legitimidade pensados para o outro, apesar de tratarem de institutos processuais distintos, a tutela coletiva civil e a persecução penal especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T10:20:25+00:00"
+ },
+ {
+  "de": "l8137.8",
+  "para": "l8078.77",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 8º da Lei 8.137/1990 fixa o critério de dias-multa para os crimes contra a ordem tributária dos arts. 1º a 3º dessa lei, em parâmetros próprios de dez a trezentos e sessenta dias-multa, enquanto o art. 77 do Código de Defesa do Consumidor estabelece critério semelhante, mas distinto, para os crimes contra as relações de consumo, de modo que há risco de se aplicar a um regime o parâmetro de dias-multa pensado para o outro diploma.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T10:20:25+00:00"
+ },
+ {
+  "de": "cf.195",
+  "para": "l8212.22",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 195, I, a, da Constituição Federal institui a contribuição do empregador e da empresa incidente sobre a folha de salários e demais rendimentos do trabalho pagos a pessoa física que lhe preste serviço, contribuição que o art. 22, I, da Lei 8.212/1991 regulamenta ao fixar a alíquota de vinte por cento sobre essas remunerações como fonte de financiamento da seguridade social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T10:20:25+00:00"
+ },
+ {
+  "de": "adct.72",
+  "para": "l8212.22",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 72 do Ato das Disposições Constitucionais Transitórias refere-se expressamente ao § 1º do art. 22 da Lei 8.212/1991 para identificar os contribuintes, como bancos e demais instituições financeiras, sujeitos à alíquota majorada da contribuição social sobre o lucro destinada ao Fundo Social de Emergência, de modo que a vigência desse § 1º é pressuposto direto da norma transitória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T10:20:25+00:00"
+ },
+ {
+  "de": "l8212.26",
+  "para": "lcp214.245",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 26 da Lei 8.212/1991 institui a contribuição social sobre a receita de concursos de prognósticos, prevista no inciso III do caput do art. 195 da Constituição Federal, como fonte de financiamento da seguridade social, enquanto o art. 245 da Lei Complementar 214/2025 disciplina a base de cálculo do IBS e da CBS sobre a mesma atividade de concursos de prognósticos, de modo que há risco de se tratar as duas exigências como a mesma, quando, na verdade, incidem sobre fundamentos constitucionais e regimes tributários distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T10:20:25+00:00"
  }
 ]
