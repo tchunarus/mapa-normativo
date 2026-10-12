@@ -19987,5 +19987,275 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "cc.1594",
+  "para": "cpc.144",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O inciso III do art. 144 do CPC impede o juiz quando parente, consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau, inclusive, estiver postulando no processo, contagem que segue o método do art. 1.594 do CC, sem que os dois dispositivos tratem do mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cc.1594",
+  "para": "cpc.145",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O inciso III do art. 145 do CPC sujeita o juiz à suspeição quando parente das partes, em linha reta até o terceiro grau, inclusive, for credor ou devedor, contagem que segue o critério do art. 1.594 do CC, sem que os dois institutos se confundam.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cc.1594",
+  "para": "cpp.253",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 253 do CPP veda que juízes parentes, consanguíneos ou afins, em linha reta ou colateral até o terceiro grau, inclusive, sirvam no mesmo processo em juízos coletivos, contagem de grau que segue o método do art. 1.594 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cc.1594",
+  "para": "cpc.448",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O inciso I do art. 448 do CPC dispensa a testemunha de depor sobre fatos que prejudiquem parente consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau, contagem que segue o art. 1.594 do CC, em instituto distinto do parentesco civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cc.1594",
+  "para": "cpp.258",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 258 do CPP afasta o Ministério Público dos processos em que o juiz ou qualquer das partes for parente, consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau, inclusive, contagem que segue o critério do art. 1.594 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cf.201",
+  "para": "l8213.48",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O § 7º, I, do art. 201 da CF exige, para a aposentadoria por idade do regime geral, 65 anos para o homem e 62 anos para a mulher, enquanto o caput do art. 48 da Lei 8.213/91 ainda prevê 65 anos para o homem e 60 anos para a mulher, o que gera conflito aparente quanto à idade mínima vigente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cf.201",
+  "para": "l8213.57",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso II do § 1º do art. 201 da CF admite critério de aposentadoria diferenciado para quem exerce atividade com efetiva exposição a agentes químicos, físicos e biológicos prejudiciais à saúde, o mesmo instituto disciplinado pelo art. 57 da Lei 8.213/91 como aposentadoria especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cf.201",
+  "para": "l8213.80",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso IV do caput do art. 201 da CF assegura auxílio-reclusão aos dependentes do segurado de baixa renda, benefício que o art. 80 da Lei 8.213/91 disciplina em favor do segurado de baixa renda recolhido à prisão em regime fechado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cf.201",
+  "para": "l8213.65",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso IV do caput do art. 201 da CF assegura salário-família aos dependentes dos segurados de baixa renda, benefício que o art. 65 da Lei 8.213/91 disciplina em favor do segurado empregado, inclusive o doméstico, e do trabalhador avulso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cf.201",
+  "para": "l8213.94",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 9º do art. 201 da CF assegura a contagem recíproca do tempo de contribuição entre o regime geral e os regimes próprios de previdência, a mesma contagem recíproca disciplinada pelo art. 94 da Lei 8.213/91 entre a atividade privada, rural e urbana e o tempo de serviço público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cf.201",
+  "para": "l8213.18",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "Os incisos I a V do caput do art. 201 da CF enumeram as contingências cobertas pelo regime geral de previdência social, que o art. 18 da Lei 8.213/91 complementa ao listar as prestações correspondentes, como aposentadorias, auxílios e pensão por morte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cf.202",
+  "para": "d9580.186",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O caput do art. 202 da CF submete o regime de previdência privada a regulação por lei complementar, e o art. 186 do RIR/2018 isenta de imposto sobre a renda as entidades fechadas e abertas de previdência complementar regidas pela Lei Complementar número 109, de 2001, que é essa lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "clt.131",
+  "para": "l8213.71-C",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 131 da CLT exige, para não computar falta ao serviço, o cumprimento dos requisitos de percepção do salário-maternidade, e o art. 71-C da Lei 8.213/91 condiciona essa percepção ao efetivo afastamento do segurado do trabalho, sob pena de suspensão do benefício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "clt.131",
+  "para": "l8213.73-A",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 131 da CLT remete aos requisitos de percepção do salário-maternidade custeado pela Previdência Social, cujo prazo de concessão de até 30 dias, a contar do requerimento administrativo, está fixado no caput do art. 73-A da Lei 8.213/91.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "clt.131",
+  "para": "l8213.60",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 131 da CLT afasta a falta ao serviço por enfermidade atestada pelo INSS, pressuposto do auxílio-doença que o art. 60 da Lei 8.213/91 disciplina quanto ao termo inicial do benefício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "clt.392",
+  "para": "l8213.71-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 392 da CLT assegura 120 dias de licença à empregada gestante, e o art. 71-A da Lei 8.213/91 estende o mesmo prazo de 120 dias ao segurado ou segurada que adotar ou obtiver guarda judicial para fins de adoção, hipótese distinta da gestação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "clt.392",
+  "para": "l8213.72",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O caput do art. 392 da CLT garante a licença-maternidade sem prejuízo do salário, e o art. 72 da Lei 8.213/91 fixa o valor do salário-maternidade correspondente, para a segurada empregada ou trabalhadora avulsa, em renda mensal igual à sua remuneração integral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "clt.392",
+  "para": "adct.10",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 392 da CLT disciplina a licença-maternidade remunerada da gestante, instituto distinto, mas por vezes confundido, com a estabilidade provisória que a alínea b do inciso II do art. 10 do ADCT assegura ao vedar a dispensa arbitrária da empregada gestante desde a confirmação da gravidez até cinco meses após o parto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "clt.392",
+  "para": "d9580.648",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 392 da CLT não disciplina a prorrogação da licença-maternidade além dos 120 dias ali previstos, e o art. 648 do RIR/2018 trata da dedução, pela pessoa jurídica, da remuneração paga nos dias de prorrogação dessa licença, instituto fiscal distinto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "clt.476",
+  "para": "l8213.63",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 476 da CLT considera o empregado em licença não remunerada durante o auxílio-enfermidade, e o art. 63 da Lei 8.213/91 complementa essa regra ao prever, no parágrafo único, que a empresa que garantir licença remunerada paga a diferença entre o auxílio-doença e a importância garantida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cpc.144",
+  "para": "cpp.254",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 144 do CPC disciplina o impedimento do juiz, hipótese objetiva e não sujeita a arguição pelas partes, instituto distinto, mas frequentemente confundido com a suspeição do juiz penal por parentesco até o terceiro grau prevista no inciso III do art. 254 do CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cpc.144",
+  "para": "l9784.18",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 144 do CPC impede o juiz quando parente até o terceiro grau estiver postulando no processo, regra equivalente, no âmbito administrativo, ao inciso II do art. 18 da Lei 9.784/99, que impede o servidor quando a mesma situação ocorrer quanto a parente até o terceiro grau.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cpc.144",
+  "para": "lcp227.66",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 144 do CPC veda ao juiz impedido exercer suas funções no processo, e o inciso I do art. 66 da LC 227/2026 comina de nulidade os atos praticados por autoridade, órgão ou servidor impedido, consequência que confirma a relevância do impedimento disciplinado pelo CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cpp.253",
+  "para": "clt.648",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 253 do CPP impede que juízes parentes até o terceiro grau sirvam no mesmo processo em juízos coletivos, incompatibilidade equivalente à que o art. 648 da CLT prevê entre parentes consanguíneos e afins até o terceiro grau civil nos trabalhos da mesma Junta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cpp.253",
+  "para": "l8934.15",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 253 do CPP veda que juízes parentes até o terceiro grau sirvam no mesmo processo, enquanto o art. 15 da Lei 8.934/94 limita a incompatibilidade entre vogais da mesma junta comercial a parentes consanguíneos e afins até o segundo grau, instituto conexo com limite de grau distinto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cpp.253",
+  "para": "floripa_ctm.133",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 253 do CPP impede que juízes parentes até o terceiro grau sirvam no mesmo processo, enquanto o inciso I do art. 133 do CTM de Florianópolis impede o membro do Conselho Municipal de Contribuintes de atuar em processo de interesse de parente até o quarto grau, limite mais amplo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "cpp.253",
+  "para": "l9784.20",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 253 do CPP trata do impedimento objetivo entre juízes parentes até o terceiro grau, e o art. 20 da Lei 9.784/99 disciplina, no âmbito administrativo, a suspeição da autoridade por parentesco e afinidade até o terceiro grau, instituto conexo mas de natureza subjetiva.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T21:26:06+00:00"
  }
 ]
