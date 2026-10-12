@@ -19797,5 +19797,195 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T19:19:33+00:00"
+ },
+ {
+  "de": "cc.1595",
+  "para": "cpp.255",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O CPP, art. 255, prevê que o impedimento ou a suspeição por parentesco de afinidade cessa com a dissolução do casamento que lhe deu causa, salvo sobrevindo descendentes, ao passo que o CC, art. 1.595, § 2º, estabelece que, na linha reta, a afinidade não se extingue com a dissolução do casamento ou da união estável; a divergência é apenas aparente, pois o CPP regula o efeito processual do impedimento e da suspeição, e não a subsistência do vínculo civil de afinidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "cc.1595",
+  "para": "cpc.144",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O CPC, art. 144, III e IV, estende o impedimento do juiz ao parente afim em linha reta ou colateral até o terceiro grau, inclusive, mas o CC, art. 1.595, § 1º, limita o parentesco por afinidade aos ascendentes, aos descendentes e aos irmãos do cônjuge ou companheiro, sem alcançar colaterais além do cunhado; a divergência quanto ao alcance colateral da afinidade é apenas aparente, pois o CPC fixa, para seus próprios fins, um grau que não corresponde exatamente ao da afinidade civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "cc.1595",
+  "para": "cpp.252",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O CPP, art. 252, I e IV, impede o juiz que tiver parente afim em linha reta ou colateral até o terceiro grau, inclusive, atuando como defensor, parte ou interessado, enquanto o CC, art. 1.595, § 1º, restringe o parentesco por afinidade aos ascendentes, aos descendentes e aos irmãos do cônjuge ou companheiro; a mesma tensão entre o grau processual e o alcance civil da afinidade identificada em relação ao CPC repete-se aqui, no âmbito penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "clt.439",
+  "para": "l8213.111",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A CLT, art. 439, exige a assistência dos responsáveis legais para que o menor de 18 anos dê quitação válida pela indenização na rescisão do contrato de trabalho, enquanto a Lei 8.213/91, art. 111, permite que o segurado menor firme recibo de benefício previdenciário independentemente da presença dos pais ou do tutor; a proximidade dos institutos pode levar a estender, por engano, a exigência de assistência da CLT ao recebimento de benefícios do INSS, que a lei previdenciária dispensa expressamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "cpc.147",
+  "para": "cpp.253",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O CPC, art. 147, e o CPP, art. 253, regulam o mesmo instituto (o impedimento recíproco entre juízes parentes que integram o mesmo órgão colegiado, pelo qual o primeiro a conhecer do processo afasta o segundo) com redação quase idêntica, o que pode levar a citar o código processual errado conforme a natureza civil ou criminal do processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "cpc.147",
+  "para": "cc.1594",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O CPC, art. 147, impede a atuação conjunta de juízes parentes até o terceiro grau, mas não define como se contam os graus de parentesco; o CC, art. 1.594, fornece esse critério (contagem das gerações na linha reta e, na colateral, subindo até o ascendente comum e descendo até o outro parente), complementando a aplicação do dispositivo processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "cpc.147",
+  "para": "l8934.15",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A Lei 8.934/94, art. 15, impede, por parentesco, a participação conjunta no colégio de vogais da junta comercial, mas fixa o limite em até o segundo grau, enquanto o CPC, art. 147, trata de impedimento semelhante entre juízes do mesmo órgão colegiado com limite de até o terceiro grau; a semelhança da estrutura das duas regras cria risco de se aplicar, por engano, o grau de parentesco de uma hipótese à outra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "cpp.252",
+  "para": "cpc.144",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O CPP, art. 252, e o CPC, art. 144, regulam o mesmo instituto (o impedimento do juiz para exercer jurisdição no processo em razão de parentesco, consanguíneo ou afim, em linha reta ou colateral até o terceiro grau, com as partes ou com quem nele atua), cada qual no seu código processual, o que gera risco de se invocar o dispositivo da esfera processual errada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "cpp.252",
+  "para": "l9784.18",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O CPP, art. 252, II, impede o juiz que tenha participado como perito, testemunha ou representante, ou cujo cônjuge, companheiro ou parente afim até o terceiro grau tenha participado, da mesma forma que a Lei 9.784/99, art. 18, II, impede o servidor ou autoridade administrativa nas mesmas condições; tratando-se do mesmo instituto aplicado a esferas distintas (processo penal e processo administrativo), há risco de se confundir qual norma rege cada caso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "cpp.252",
+  "para": "cc.1594",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O CPP, art. 252, I e IV, impede o juiz parente até o terceiro grau, mas não define o modo de contagem dos graus de parentesco; o CC, art. 1.594, fornece esse critério, complementando a aplicação do dispositivo processual penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "l8213.2",
+  "para": "cf.194",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 2º da Lei 8.213/91 reproduz, para o âmbito específico da previdência social, princípios estabelecidos no art. 194, parágrafo único, da CF para toda a seguridade social (saúde, previdência e assistência), como a universalidade, a uniformidade entre populações urbanas e rurais, a seletividade e distributividade e a irredutibilidade do valor dos benefícios, regulamentando-os no plano de benefícios da previdência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "l8213.2",
+  "para": "l8212.3",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 2º da Lei 8.213/91 e o art. 3º da Lei 8.212/91 listam, com termos quase idênticos, os princípios da previdência social (entre eles a universalidade de participação nos planos previdenciários, o cálculo dos benefícios pelos salários de contribuição corrigidos e a previdência complementar facultativa custeada por contribuição adicional), o que gera risco de se citar a lei errada ao invocar o princípio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "l8213.2",
+  "para": "cf.202",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O inciso VII do art. 2º da Lei 8.213/91 consagra a previdência complementar facultativa, custeada por contribuição adicional, como princípio da previdência social; o art. 202 da CF regulamenta esse mesmo regime de previdência privada, de caráter complementar e facultativo em relação ao regime geral de previdência social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "l8213.33",
+  "para": "cf.201",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 33 da Lei 8.213/91 e o § 2º do art. 201 da CF estabelecem a mesma garantia, de que nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho do segurado terá valor mensal inferior ao salário mínimo; a lei ordinária regulamenta esse piso constitucional ao acrescentar o teto do limite máximo do salário de contribuição, ressalvado o art. 45 da própria lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "l8213.33",
+  "para": "l8212.3",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 3º, alínea b, da Lei 8.212/91 enuncia como princípio e diretriz da previdência social que o valor da renda mensal dos benefícios substitutos não será inferior ao salário mínimo; o art. 33 da Lei 8.213/91 complementa esse princípio ao fixar a regra operacional concreta, incluindo o teto do limite máximo do salário de contribuição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "l8213.62",
+  "para": "clt.476",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A CLT, art. 476, trata do empregado em gozo de auxílio-doença (seguro-doença) como estando em licença não remunerada durante o prazo do benefício regulado pela Lei 8.213/91, art. 62; os dois dispositivos integram o mesmo regime de proteção à incapacidade temporária, um no plano do contrato de trabalho e o outro no plano do benefício previdenciário e da reabilitação profissional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "l8213.62",
+  "para": "cp.93",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 62 da Lei 8.213/91 trata da reabilitação profissional do segurado em auxílio-doença, enquanto o art. 93 do CP trata da reabilitação criminal, que restabelece o sigilo dos registros da condenação; os dois dispositivos só têm em comum o nome do instituto, de modo que a coincidência terminológica pode induzir a busca ou a citação equivocada de um pelo outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "l8213.71",
+  "para": "clt.392",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A CLT, art. 392, garante a licença-maternidade de 120 dias sem prejuízo do emprego e do salário, com o mesmo início entre o 28º dia antes do parto e a data deste, a mesma prorrogação de 60 dias por síndrome congênita associada ao vírus Zika e a mesma extensão em caso de internação hospitalar prevista no art. 71 da Lei 8.213/91; os dois dispositivos integram o mesmo regime de proteção à maternidade, um garantindo o afastamento do trabalho e o outro o custeio previdenciário desse período.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
+ },
+ {
+  "de": "l8213.71",
+  "para": "clt.131",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 131, II, da CLT dispõe que não será considerada falta ao serviço a ausência da empregada durante o licenciamento compulsório por maternidade, observados os requisitos para a percepção do salário-maternidade custeado pela Previdência Social, remetendo expressamente ao benefício regulado pelo art. 71 da Lei 8.213/91 para definir quando a ausência está justificada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T20:18:42+00:00"
  }
 ]
