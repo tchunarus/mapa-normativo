@@ -20417,5 +20417,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "clt.801",
+  "para": "cpc.145",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 801 da CLT disciplina a suspeição do juiz do trabalho com rol próprio de motivos, e, nas hipóteses em que a CLT for omissa, aplica-se subsidiariamente o rol mais amplo de suspeição previsto no art. 145 do CPC, por força da aplicação subsidiária do processo civil ao processo do trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T23:15:41+00:00"
+ },
+ {
+  "de": "d70235.66",
+  "para": "floripa_ctm.140",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 66 do PAF trata da denominação do antigo Conselho Superior de Tarifa como 4º Conselho de Contribuintes no âmbito federal, enquanto o art. 140 do CTM de Florianópolis disciplina o Conselho Municipal de Contribuintes, órgão de julgamento administrativo fiscal de esfera distinta, o que gera risco de confusão entre os dois órgãos homônimos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T23:15:41+00:00"
+ },
+ {
+  "de": "l8212.3",
+  "para": "l8213.1",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 3º da Lei 8.212/91 e o art. 1º da Lei 8.213/91 enunciam, em termos quase idênticos, a mesma finalidade da Previdência Social de assegurar aos beneficiários meios indispensáveis de manutenção, compondo, respectivamente, o plano de custeio e o plano de benefícios do mesmo regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T23:15:41+00:00"
+ },
+ {
+  "de": "l8212.3",
+  "para": "cf.201",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 3º da Lei 8.212/91 regulamenta, em nível legal, a finalidade protetiva que o art. 201 da Constituição Federal atribui ao Regime Geral de Previdência Social, com a cobertura de eventos como incapacidade, idade avançada e morte do segurado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T23:15:41+00:00"
+ },
+ {
+  "de": "l8212.3",
+  "para": "l8213.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A alínea e do parágrafo único do art. 3º da Lei 8.212/91 refere a previdência complementar facultativa como princípio da Previdência Social, instituto que o art. 9º, II, da Lei 8.213/91 detalha ao prever o Regime Facultativo Complementar de Previdência Social como uma das modalidades que compõem a Previdência Social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T23:15:41+00:00"
+ },
+ {
+  "de": "l8213.111",
+  "para": "cpc.71",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 111 da Lei 8.213/91 dispensa a presença dos pais ou do tutor para que o segurado menor firme recibo de benefício previdenciário, excepcionando, para esse ato específico, a regra geral de representação ou assistência do incapaz prevista no art. 71 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T23:15:41+00:00"
+ },
+ {
+  "de": "l8213.153",
+  "para": "cf.202",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 153 da Lei 8.213/91 prevê o Regime Facultativo Complementar de Previdência Social, modalidade pública referida no art. 9º, II, da mesma lei e nunca regulamentada pela lei especial ali exigida, que não se confunde com o regime de previdência privada complementar e autônomo em relação ao regime geral disciplinado pelo art. 202 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T23:15:41+00:00"
  }
 ]
