@@ -19197,5 +19197,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "l14133.337-I",
+  "para": "cp.337-I",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 337-I, tal como consta do texto da Lei 14.133/21, corresponde ao dispositivo que essa lei inseriu no Código Penal, cujo texto vigente no art. 337-I do Código Penal reproduz integralmente a mesma redação, tipificando impedir, perturbar ou fraudar a realização de qualquer ato de processo licitatório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T13:40:12+00:00"
+ },
+ {
+  "de": "cp.337-I",
+  "para": "l14133.337-H",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A conduta do art. 337-I do Código Penal, impedir, perturbar ou fraudar a realização de ato de processo licitatório, corresponde ao rótulo marginal perturbação de processo licitatório atribuído ao art. 337-H tal como inserido pela Lei 14.133/21, enquanto o próprio art. 337-I recebeu o rótulo violação de sigilo em licitação, que na verdade descreve a conduta do art. 337-J (devassar o sigilo de proposta). Os nomes juris desses tipos penais da Lei 14.133/21 estão deslocados em relação às condutas que efetivamente rotulam, o que gera risco real de confusão sobre qual dispositivo corresponde a qual rótulo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T13:40:12+00:00"
+ },
+ {
+  "de": "l14133.337-K",
+  "para": "cp.337-K",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 337-K, tal como consta do texto da Lei 14.133/21, corresponde ao dispositivo que essa lei inseriu no Código Penal, cujo texto vigente no art. 337-K do Código Penal reproduz integralmente a mesma redação, inclusive o parágrafo único, tipificando afastar ou tentar afastar licitante por violência, grave ameaça, fraude ou vantagem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T13:40:12+00:00"
+ },
+ {
+  "de": "cp.337-K",
+  "para": "l14133.337-J",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A conduta do art. 337-K do Código Penal, afastar ou tentar afastar licitante mediante violência, grave ameaça, fraude ou vantagem, corresponde ao rótulo marginal afastamento de licitante atribuído ao art. 337-J tal como inserido pela Lei 14.133/21, enquanto o próprio art. 337-K recebeu o rótulo fraude em licitação ou contrato, que na verdade descreve a conduta do art. 337-L (fraudar licitação ou contrato dela decorrente). Repete-se, nesse par de dispositivos, o deslocamento dos nomes juris já verificado entre os arts. 337-E a 337-L da Lei 14.133/21.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T13:40:12+00:00"
+ },
+ {
+  "de": "l13303.16",
+  "para": "lsa.235",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 16 da Lei 13.303/16 submete, sem prejuízo do disposto nessa lei, o administrador de empresa pública e de sociedade de economia mista às normas da Lei 6.404/76, e o art. 235 da LSA já previa que as sociedades de economia mista se sujeitam a essa lei sem prejuízo das disposições especiais de lei federal, sendo a Lei 13.303/16 exatamente essa disposição especial que complementa, quanto aos administradores, o regime geral da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T13:40:12+00:00"
+ },
+ {
+  "de": "l13303.16",
+  "para": "lsa.239",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 16 da Lei 13.303/16 define como administradores da empresa pública e da sociedade de economia mista os membros do Conselho de Administração e da diretoria, submetendo-os às normas da Lei 6.404/76, e o art. 239 da LSA complementa esse regime ao exigir que as companhias de economia mista tenham obrigatoriamente Conselho de Administração, assegurado à minoria o direito de eleger um conselheiro, e ao equiparar os deveres e responsabilidades desses administradores aos das companhias abertas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T13:40:12+00:00"
+ },
+ {
+  "de": "l14133.337-E",
+  "para": "cp.337-E",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 337-E, tal como consta do texto da Lei 14.133/21, corresponde ao dispositivo que essa lei inseriu no Código Penal, cujo texto vigente no art. 337-E do Código Penal reproduz integralmente a mesma redação, tipificando admitir, possibilitar ou dar causa à contratação direta fora das hipóteses previstas em lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T13:40:12+00:00"
+ },
+ {
+  "de": "l14133.337-F",
+  "para": "cp.337-G",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O rótulo marginal patrocínio de contratação indevida, atribuído ao art. 337-F tal como inserido pela Lei 14.133/21, descreve na verdade a conduta tipificada no art. 337-G do Código Penal, patrocinar interesse privado perante a Administração Pública e dar causa a licitação ou a contrato cuja invalidação seja decretada pelo Poder Judiciário, enquanto o próprio art. 337-G recebeu o rótulo modificação ou pagamento irregular em contrato administrativo, que descreve a conduta do art. 337-H. Essa parte da Lei 14.133/21 tem os nomes juris sistematicamente deslocados em relação às condutas que rotulam.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T13:40:12+00:00"
+ },
+ {
+  "de": "l8137.2",
+  "para": "sc_icms_lei.76",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso V do art. 2º da Lei 8.137/90 criminaliza utilizar ou divulgar programa de processamento de dados que permita ao sujeito passivo possuir informação contábil diversa da fornecida à Fazenda Pública, e o art. 76 da Lei 10.297/96-SC comina multa administrativa a quem utiliza programa para emissão, impressão ou escrituração de documento ou livro fiscal com vício, fraude ou simulação relativo ao ICMS, de modo que a mesma conduta de fraude por sistema pode, a um só tempo, configurar o ilícito administrativo estadual e o crime federal, regimes que não se excluem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T13:40:12+00:00"
+ },
+ {
+  "de": "l8137.2",
+  "para": "sc_icms_lei.51",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 2º da Lei 8.137/90 criminaliza deixar de recolher, no prazo legal, valor de tributo ou de contribuição social descontado ou cobrado, e o art. 51 da Lei 10.297/96-SC comina multa de 50% pelo simples não recolhimento do ICMS apurado pelo próprio sujeito passivo, hipótese administrativa que, segundo a jurisprudência do STF sobre apropriação indébita tributária, só configura o crime do inciso II quando demonstrado o dolo de apropriação do valor cobrado de terceiro, o que gera risco real de se confundir a mera inadimplência fiscal, sujeita apenas à multa, com a conduta criminosa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T13:40:12+00:00"
+ },
+ {
+  "de": "cp.337-A",
+  "para": "l8137.2",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os incisos I a III do art. 337-A do Código Penal especializam, para a contribuição social previdenciária e seus acessórios, as condutas genéricas de omitir ou reduzir o recolhimento de tributo ou contribuição social descritas nos incisos I e II do art. 2º da Lei 8.137/90, afastando a aplicação do tipo genérico quando a supressão ou redução recai sobre contribuição destinada à previdência social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T13:40:12+00:00"
+ },
+ {
+  "de": "l8137.2",
+  "para": "lcp214.341-F",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 2º da Lei 8.137/90 tipifica como crime, entre outras condutas, fazer declaração falsa para eximir-se de pagamento de tributo, e o § 1º do art. 341-F da LC 214/2025 agrava para até 150% a multa administrativa de lançamento de ofício justamente nos casos de sonegação, fraude, simulação ou conluio, sanção que se soma, sem substituir, a eventual responsabilidade penal pelo mesmo fato, risco real de se supor que a multa agravada exclui a persecução criminal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T13:40:12+00:00"
  }
 ]
