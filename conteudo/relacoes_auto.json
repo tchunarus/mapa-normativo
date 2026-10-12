@@ -18807,5 +18807,225 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T10:20:25+00:00"
+ },
+ {
+  "de": "adct.72",
+  "para": "cf.159",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 72 do ADCT determina que as parcelas de que tratam os incisos I, II, III e V sejam previamente deduzidas da base de cálculo de qualquer vinculação ou participação constitucional, excluindo expressamente a aplicação do art. 159 da Constituição a essas parcelas, que de outro modo seriam repartidas aos fundos de participação dos Estados e dos Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "adct.72",
+  "para": "cf.157",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 72 do ADCT deduz previamente a parcela do inciso IV da base de cálculo da vinculação prevista no art. 157, II, da Constituição, que assegura aos Estados e ao Distrito Federal vinte por cento do produto da arrecadação do imposto residual da União, afastando parcialmente essa vinculação em relação aos recursos do Fundo Social de Emergência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "adct.72",
+  "para": "cf.153",
+  "tipo": "excepciona",
+  "grau": "contato",
+  "porque": "O mesmo § 3º do art. 72 do ADCT inclui o § 5º do art. 153 da Constituição entre as vinculações cuja base de cálculo é previamente reduzida pela parcela do inciso IV, de modo que a partilha do imposto sobre operações com ouro ali prevista também deixa de incidir sobre esses recursos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "cp.50",
+  "para": "cpp.687",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 687 do CPP regula o mesmo parcelamento da multa penal previsto no art. 50 do CP, mas impõe prazo máximo de três meses e caução real ou fidejussória não exigidos pelo CP, de modo que a leitura isolada de um dos dois pode levar a exigir ou dispensar indevidamente essas condições no caso concreto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l12846.5",
+  "para": "l8429.9",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 5º da Lei 12.846/13 e o art. 9º da Lei 8.429/92 descrevem condutas de corrupção praticamente sobrepostas, como oferecer ou receber vantagem indevida em razão de ato da administração, mas aplicam regimes distintos: a Lei Anticorrupção responsabiliza objetivamente a pessoa jurídica, e a Lei de Improbidade exige dolo do agente público, o que gera risco de se confundirem sujeitos e requisitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l12846.5",
+  "para": "cp.337-F",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A alínea a do inciso IV do art. 5º da Lei 12.846/13 e o art. 337-F do Código Penal descrevem a mesma conduta de frustrar ou fraudar o caráter competitivo de licitação, mas a primeira gera responsabilização civil e administrativa da pessoa jurídica, e a segunda tipifica crime imputável à pessoa física, regimes que não se excluem e por isso podem ser confundidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l12846.5",
+  "para": "cp.337-I",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A alínea b do inciso IV do art. 5º da Lei 12.846/13 corresponde à mesma conduta de impedir, perturbar ou fraudar a realização de ato do processo licitatório tipificada no art. 337-I do Código Penal, hipótese de dupla responsabilização, civil e administrativa da empresa e penal do agente, que facilmente se confunde na prática.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l12846.5",
+  "para": "cp.337-K",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A alínea c do inciso IV do art. 5º da Lei 12.846/13 e o art. 337-K do Código Penal tratam do mesmo ato de afastar ou tentar afastar licitante mediante fraude ou oferecimento de vantagem, distinguindo-se apenas quanto ao sujeito e ao regime de responsabilização aplicável, civil ou administrativo na lei e penal no código.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l12846.5",
+  "para": "cp.337-B",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O caput do art. 5º da Lei 12.846/13 abrange atos que atentem contra compromissos internacionais do Brasil, entre eles o oferecimento de vantagem a agente público estrangeiro já tipificado como crime pelo art. 337-B do Código Penal, de modo que a mesma corrupção transnacional pode gerar, cumulativamente, responsabilização da empresa e do agente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l12846.5",
+  "para": "cp.337-D",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 5º da Lei 12.846/13 define agente público estrangeiro de forma quase idêntica à do art. 337-D do Código Penal, que traz a mesma definição para fins penais, o que cria risco de se aplicar a um regime os limites ou as equiparações previstas apenas para o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l8212.30",
+  "para": "cp.168-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 30, I, b, da Lei 8.212/91 impõe à empresa o dever de recolher as contribuições descontadas dos segurados, e o art. 168-A do Código Penal tipifica como crime deixar de repassar essas mesmas contribuições, mas a condenação penal exige dolo de apropriação, de modo que o mero atraso no recolhimento regulado pela lei previdenciária não equivale, por si só, ao crime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l8212.30",
+  "para": "cp.337-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 30, I, a, da Lei 8.212/91 obriga a empresa a arrecadar e declarar as contribuições dos segurados, e o art. 337-A do Código Penal pune quem omite esses mesmos segurados da folha de pagamento para suprimir ou reduzir a contribuição devida, distinção que exige dolo específico de sonegação nem sempre clara para quem lê apenas a norma previdenciária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l8212.30",
+  "para": "l8213.14",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 30 da Lei 8.212/91 impõe deveres de arrecadação e recolhimento à empresa e ao empregador doméstico sem defini-los, e o art. 14 da Lei 8.213/91, editada na mesma data como par da Lei 8.212/91 no custeio e nos benefícios da Previdência Social, fornece exatamente essas definições, completando o regime comum às duas leis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l8212.4",
+  "para": "cf.203",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 4º da Lei 8.212/91 reproduz, em nível legal, a definição de assistência social do art. 203 da Constituição como política prestada independentemente de contribuição à Seguridade Social e voltada à família, à maternidade, à infância, à adolescência, à velhice e à pessoa com deficiência, complementando o comando constitucional com a mesma lista de destinatários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l8212.4",
+  "para": "cf.204",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 4º da Lei 8.212/91 repete, como diretrizes da assistência social, a descentralização político-administrativa e a participação da população previstas nos incisos I e II do art. 204 da Constituição, complementando em lei ordinária o mesmo comando constitucional de organização da assistência social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l8212.4",
+  "para": "cf.194",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 4º da Lei 8.212/91 especializa, para a assistência social, o conceito geral de seguridade social fixado no art. 194 da Constituição, que a define como conjunto integrado de ações voltadas à saúde, à previdência e à assistência social, sendo esta última tratada em detalhe pela lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l8212.42",
+  "para": "l13303.16",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 42 da Lei 8.212/91 especializa, para o caso de mora de mais de trinta dias no recolhimento das contribuições da Seguridade Social, a responsabilidade do administrador de empresa pública e de sociedade de economia mista que o art. 16 da Lei 13.303/16 submete, de modo geral, às normas de responsabilidade da Lei das Sociedades Anônimas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l8212.51",
+  "para": "lef.29",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "A mesma equiparação do art. 51 da Lei 8.212/91 remete também ao art. 29 da Lei 6.830/80, que reproduz para a execução da Dívida Ativa da Fazenda Pública a regra de que o crédito público não se sujeita a concurso de credores ou habilitação em falência, concordata, liquidação, inventário ou arrolamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l8212.51",
+  "para": "ctn.188",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "A equiparação do crédito da Seguridade Social ao crédito da União, feita pelo art. 51 da Lei 8.212/91, também o submete ao caráter extraconcursal que o art. 188 do CTN atribui aos créditos tributários decorrentes de fatos geradores ocorridos no curso do processo de falência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l8212.51",
+  "para": "l11101.68",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 51 da Lei 8.212/91 trata da reivindicação, pelo INSS, dos valores descontados dos empregados e não recolhidos, e o art. 68 da Lei 11.101/05 complementa esse regime ao autorizar expressamente o parcelamento dos créditos do INSS e da Fazenda Pública em sede de recuperação judicial, sucessora da concordata mencionada no art. 51.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l8212.53",
+  "para": "lef.7",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 53 da Lei 8.212/91 especializa, para a execução fiscal de contribuições da Seguridade Social, a regra geral do art. 7º da Lei 6.830/80, que já prevê a penhora como efeito do despacho que defere a petição inicial, ao determinar que essa penhora se efetive concomitantemente com a própria citação do devedor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l8212.53",
+  "para": "lef.16",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 53 da Lei 8.212/91 trata do prosseguimento da execução quando não opostos embargos ou julgados improcedentes, remetendo ao prazo de trinta dias para embargar fixado no art. 16 da Lei 6.830/80, sem o qual não é possível saber quando se considera ausente a oposição mencionada no dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T11:32:15+00:00"
  }
 ]
