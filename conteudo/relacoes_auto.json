@@ -19027,5 +19027,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T11:32:15+00:00"
+ },
+ {
+  "de": "l8212.1",
+  "para": "cf.194",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Lei 8.212/91 repete, com redação quase idêntica, o conceito de seguridade social e os princípios do parágrafo único do art. 194 da Constituição Federal, regulamentando esse dispositivo para fins de organização e custeio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "l8212.5",
+  "para": "cf.194",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 5º da Lei 8.212/91 organiza a saúde, a previdência e a assistência social em Sistema Nacional de Seguridade Social com base expressa no Capítulo II do Título VIII da Constituição Federal, que contém o art. 194, regulamentando sua execução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "l8213.9",
+  "para": "cf.194",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 9º da Lei 8.213/91 estrutura a previdência social em Regime Geral e Regime Facultativo Complementar, regulamentando um dos três pilares da seguridade social mencionados no caput do art. 194 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "l8212.9",
+  "para": "cf.194",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 9º da Lei 8.212/91 determina que saúde, previdência e assistência social, as três áreas que compõem a seguridade social segundo o art. 194 da Constituição Federal, sejam objeto de leis específicas que regulamentem sua organização.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "l8213.89",
+  "para": "cf.203",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 89 da Lei 8.213/91 detalha a habilitação e a reabilitação profissional e social da pessoa com deficiência, dando efetividade ao objetivo fixado no inciso IV do art. 203 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "l8213.93",
+  "para": "cf.203",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 93 da Lei 8.213/91 institui cota obrigatória de vagas para pessoas com deficiência habilitadas ou beneficiários reabilitados, como mecanismo de integração ao mercado de trabalho e à vida comunitária referidos nos incisos III e IV do art. 203 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "l8213.33",
+  "para": "cf.203",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O benefício de prestação continuada do art. 33 da Lei 8.213/91 é previdenciário e contributivo, calculado com piso no salário mínimo, distinto do benefício de prestação continuada assistencial e não contributivo garantido pelo inciso V do art. 203 da Constituição Federal, apesar da homonímia entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "cp.168-A",
+  "para": "l8137.2",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 168-A do Código Penal especializa, para a contribuição social previdenciária descontada ou arrecadada, a conduta genérica de deixar de recolher tributo ou contribuição social prevista no inciso II do art. 2º da Lei 8.137/90, afastando a aplicação do tipo genérico quando a omissão recai sobre contribuição destinada à previdência social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "cp.168-A",
+  "para": "l10522.1",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 5º do art. 168-A do Código Penal afasta a extinção da punibilidade do devedor contumaz inscrito no Cadastro Informativo dos créditos não quitados do setor público federal, instituto regulado pelo art. 1º da Lei 10.522/02, ao qual remete expressamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "cp.168-A",
+  "para": "d9580.1027",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A extinção de punibilidade do § 2º do art. 168-A do Código Penal exige pagamento antes do início da ação fiscal, enquanto o art. 1.027 do RIR/2018 extingue a punibilidade dos crimes da Lei 8.137/90 mediante pagamento antes do recebimento da denúncia, prazos distintos que geram risco real de confusão entre os regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "l9430.83",
+  "para": "cp.168-A",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 83 da Lei 9.430/96 disciplina o procedimento de representação fiscal para fins penais relativa ao crime do art. 168-A do Código Penal, citado nominalmente, condicionando o encaminhamento ao Ministério Público à decisão final do processo administrativo fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "cp.337-A",
+  "para": "l8212.32",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "Os incisos I e II do art. 337-A do Código Penal tipificam a omissão dolosa, respectivamente, da folha de pagamento e do lançamento contábil mensal das contribuições previdenciárias que os incisos I e II do art. 32 da Lei 8.212/91 obrigam a empresa a manter, complementando esse mesmo regime com a sanção penal pelo descumprimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "l9430.83",
+  "para": "cp.337-A",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 83 da Lei 9.430/96 disciplina o procedimento de representação fiscal para fins penais relativa ao crime do art. 337-A do Código Penal, citado nominalmente, condicionando o encaminhamento ao Ministério Público à decisão final do processo administrativo fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "cp.337-A",
+  "para": "l10522.1",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 5º do art. 337-A do Código Penal afasta a extinção da punibilidade do devedor contumaz inscrito no Cadastro Informativo dos créditos não quitados do setor público federal, instituto regulado pelo art. 1º da Lei 10.522/02, ao qual remete expressamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "cp.337-A",
+  "para": "d9580.1027",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A extinção de punibilidade do § 1º do art. 337-A do Código Penal exige confissão espontânea antes do início da ação fiscal, enquanto o art. 1.027 do RIR/2018 extingue a punibilidade dos crimes da Lei 8.137/90 mediante pagamento antes do recebimento da denúncia, prazos e requisitos distintos que geram risco real de confusão entre os regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "l14133.337-F",
+  "para": "cp.337-F",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 337-F da Lei 14.133/21 tem redação e rótulo idênticos aos do art. 337-F do Código Penal, pois foi essa lei que inseriu o dispositivo no Código Penal com o nomen juris patrocínio de contratação indevida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
+ },
+ {
+  "de": "cp.337-F",
+  "para": "l14133.337-E",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 337-F do Código Penal, cujo rótulo é patrocínio de contratação indevida, descreve a frustração do caráter competitivo da licitação, enquanto o art. 337-E, inserido pela Lei 14.133/21 com o rótulo frustração do caráter competitivo de licitação, descreve a contratação direta indevida, de modo que os nomes juris dos dois tipos penais estão trocados em relação às condutas neles descritas, gerando risco real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T12:41:26+00:00"
  }
 ]
