@@ -19737,5 +19737,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T18:22:02+00:00"
+ },
+ {
+  "de": "cpc.147",
+  "para": "cc.1591",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 147 do CPC impede a atuação conjunta de juízes parentes em linha reta no mesmo processo, valendo-se do conceito de parentesco em linha reta definido no art. 1.591 do CC. São institutos conexos, pois um regula o impedimento processual entre juízes e o outro define a relação civil de parentesco.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T19:19:33+00:00"
+ },
+ {
+  "de": "cpp.252",
+  "para": "cc.1591",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 252 do CPP impede o juiz de atuar no processo em que figure como defensor, advogado ou em outra função seu parente em linha reta, valendo-se do conceito de parentesco em linha reta definido no art. 1.591 do CC. São institutos conexos, pois um trata do impedimento do juiz no processo penal e o outro define a relação civil de parentesco.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T19:19:33+00:00"
+ },
+ {
+  "de": "clt.439",
+  "para": "cc.5",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 5º do CC condiciona a plena capacidade para os atos da vida civil aos dezoito anos completos, ressalvada a emancipação. O art. 439 da CLT excepciona esse regime ao autorizar o menor a firmar, por si só, recibo pelo pagamento de salários, embora mantenha a exigência de assistência dos responsáveis legais para a quitação na rescisão do contrato de trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T19:19:33+00:00"
+ },
+ {
+  "de": "cpc.145",
+  "para": "l9307.14",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 145 do CPC estabelece as causas de suspeição do juiz. O art. 14 da Lei 9.307/96 determina que essas mesmas causas, aplicáveis aos juízes, se estendem, no que couber, aos árbitros, de modo que o CPC se aplica subsidiariamente à arbitragem quanto à suspeição dos árbitros.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T19:19:33+00:00"
+ },
+ {
+  "de": "cpc.448",
+  "para": "cc.1591",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 448 do CPC dispensa a testemunha de depor sobre fatos que causem grave dano a parente em linha reta, valendo-se do conceito de parentesco em linha reta definido no art. 1.591 do CC. São institutos conexos, pois um disciplina a prova testemunhal e o outro define a relação civil de parentesco.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T19:19:33+00:00"
+ },
+ {
+  "de": "cpc.448",
+  "para": "cc.1595",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 448 do CPC também dispensa a testemunha de depor sobre fatos que causem grave dano a parente afim, em linha reta ou colateral, valendo-se do conceito de afinidade definido no art. 1.595 do CC, cujo § 1º limita o parentesco por afinidade aos ascendentes, descendentes e irmãos do cônjuge ou companheiro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T19:19:33+00:00"
  }
 ]
