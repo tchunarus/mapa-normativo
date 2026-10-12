@@ -20257,5 +20257,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T21:26:06+00:00"
+ },
+ {
+  "de": "adct.10",
+  "para": "clt.165",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 165 da CLT disciplina o ônus da prova na despedida do titular de representação nas CIPA, viabilizando processualmente a vedação à dispensa arbitrária prevista no art. 10, I, do ADCT; o ADCT institui a garantia provisória de emprego do cipeiro e a CLT estabelece o procedimento para sua defesa em juízo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "adct.10",
+  "para": "clt.391-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 391-A da CLT remete expressamente à alínea b do inciso II do art. 10 do ADCT para fixar o termo inicial da estabilidade da empregada gestante na confirmação da gravidez, e seu parágrafo único estende a mesma garantia ao empregado adotante com guarda provisória para fins de adoção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "adct.10",
+  "para": "clt.510-D",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 510-D da CLT garante estabilidade de um ano após o mandato ao membro da comissão de representantes dos empregados, instituto distinto da estabilidade do cipeiro prevista no art. 10, I, do ADCT, mas de redação e propósito semelhantes, com risco real de confusão entre os dois regimes de representação no local de trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "clt.648",
+  "para": "cpc.147",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 147 do CPC veda a atuação conjunta de juízes parentes até o terceiro grau no mesmo processo; o art. 648 da CLT especializa essa regra geral de impedimento por parentesco para os vogais que integravam as extintas Juntas de Conciliação e Julgamento, mantendo o mesmo grau de parentesco.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "clt.648",
+  "para": "l8934.15",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 15 da Lei 8.934/94 trata da incompatibilidade por parentesco, até o segundo grau, entre os vogais do colégio da junta comercial, instituto conexo ao do art. 648 da CLT (vogais da Junta trabalhista, parentesco até o terceiro grau), com risco real de confusão entre as duas espécies de Junta por força da nomenclatura semelhante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "clt.648",
+  "para": "l9784.20",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 20 da Lei 9.784/99 prevê a suspeição de autoridade ou servidor por parentesco até o terceiro grau no processo administrativo federal, instituto conexo ao impedimento dos vogais da Junta trabalhista por parentesco previsto no art. 648 da CLT, com risco de confusão entre os regimes de impedimento administrativo e trabalhista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "cpp.254",
+  "para": "cpc.145",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os incisos do art. 145 do CPC (amizade íntima ou inimizade, recebimento de presentes ou aconselhamento da parte, condição de credor ou devedor, interesse no julgamento) correspondem, em redação quase idêntica, às hipóteses de suspeição do juiz penal previstas no art. 254 do CPP, com risco real de se invocar o dispositivo processual civil em vez do penal ou vice-versa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "cpp.254",
+  "para": "clt.801",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 801 da CLT repete, para o juiz, presidente ou vogal da Justiça do Trabalho, as mesmas causas de suspeição do art. 254 do CPP (inimizade pessoal, amizade íntima, parentesco até o terceiro grau civil e interesse particular na causa), com risco de confusão entre os regimes trabalhista e penal da suspeição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "cpp.258",
+  "para": "cpc.144",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 144 do CPC impede o juiz de atuar quando membro do Ministério Público que nele postula for seu cônjuge ou parente até o terceiro grau, consanguíneo ou afim; o art. 258 do CPP trata do mesmo impedimento por parentesco sob a perspectiva do próprio órgão do Ministério Público, com risco de confusão entre os regimes de impedimento recíproco do CPC e do CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "d9580.186",
+  "para": "l8213.153",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 153 da Lei 8.213/91 trata do Regime Facultativo Complementar de Previdência Social, a ser disciplinado por lei especial, instituto distinto da previdência complementar privada referida no art. 186 do RIR/2018 (regida pela Lei Complementar 109/2001), com risco real de confusão entre os dois regimes por força da nomenclatura semelhante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "d9580.648",
+  "para": "l8213.72",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 72 da Lei 8.213/91 disciplina o salário-maternidade pago pela Previdência Social à segurada empregada, benefício distinto da prorrogação da licença-maternidade e da licença-paternidade custeada pelo próprio empregador a que se refere o art. 648 do RIR/2018 (Lei 11.770/2008), com risco de confusão entre os dois regimes de custeio da licença.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "d9580.648",
+  "para": "adct.10",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 10 do ADCT fixa em cinco dias o prazo da licença-paternidade até que lei a discipline; o art. 648 do RIR/2018 complementa esse regime ao conceder incentivo fiscal, mediante dedução do imposto de renda, às pessoas jurídicas que prorrogam voluntariamente essa licença nos termos da Lei 11.770/2008.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "floripa_ctm.133",
+  "para": "l8934.15",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 15 da Lei 8.934/94 trata da incompatibilidade por parentesco até o segundo grau entre vogais da junta comercial, instituto conexo ao impedimento por parentesco até o quarto grau dos membros do Conselho Municipal de Contribuintes previsto no inciso I do art. 133 do CTM de Florianópolis, ambos regimes de impedimento de órgãos colegiados por parentesco.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "floripa_ctm.133",
+  "para": "cpc.147",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 147 do CPC impede a atuação conjunta de juízes parentes até o terceiro grau no mesmo processo, regra análoga ao impedimento dos membros do Conselho Municipal de Contribuintes por parentesco até o quarto grau previsto no inciso I do art. 133 do CTM de Florianópolis, com risco de confusão entre os regimes de impedimento judicial civil e tributário administrativo municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "floripa_ctm.133",
+  "para": "d70235.66",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 66 do Decreto 70.235/72 (PAF) trata da denominação do antigo Conselho Superior de Tarifa, rebatizado 4º Conselho de Contribuintes no âmbito federal, órgão homônimo e conexo ao Conselho Municipal de Contribuintes de que trata o art. 133 do CTM de Florianópolis, com risco real de confusão entre os conselhos de contribuintes federal e municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
+ },
+ {
+  "de": "floripa_ctm.133",
+  "para": "clt.648",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 648 da CLT trata da incompatibilidade por parentesco até o terceiro grau civil entre os vogais da extinta Junta de Conciliação e Julgamento, instituto conexo ao impedimento por parentesco até o quarto grau dos membros do Conselho Municipal de Contribuintes previsto no inciso I do art. 133 do CTM de Florianópolis, ambos regimes de impedimento de colegiados por parentesco.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T22:18:32+00:00"
  }
 ]
