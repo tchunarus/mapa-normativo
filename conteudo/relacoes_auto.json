@@ -19317,5 +19317,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T13:40:12+00:00"
+ },
+ {
+  "de": "l14133.337-G",
+  "para": "cp.337-G",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 337-G, tal como consta do texto da Lei 14.133/21, corresponde ao dispositivo que essa lei inseriu no Código Penal, cujo texto vigente no art. 337-G do Código Penal reproduz integralmente a mesma redação, tipificando patrocinar interesse privado perante a Administração Pública e dar causa a licitação ou a contrato cuja invalidação venha a ser decretada pelo Poder Judiciário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T14:34:23+00:00"
+ },
+ {
+  "de": "l14133.337-I",
+  "para": "l12846.5",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A alínea b do inciso IV do art. 5º da Lei 12.846/13 define como ato lesivo da pessoa jurídica impedir, perturbar ou fraudar a realização de qualquer ato de procedimento licitatório público, conduta idêntica à do crime do art. 337-I, inserido no Código Penal pela Lei 14.133/21; um regime responsabiliza administrativa e civilmente a pessoa jurídica, e o outro, penalmente, a pessoa física, o que gera risco de confusão sobre qual regime e qual responsável se aplicam ao mesmo fato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T14:34:23+00:00"
+ },
+ {
+  "de": "l14133.337-J",
+  "para": "cp.337-J",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 337-J, tal como consta do texto da Lei 14.133/21, corresponde ao dispositivo que essa lei inseriu no Código Penal, cujo texto vigente no art. 337-J do Código Penal reproduz integralmente a mesma redação, tipificando devassar o sigilo de proposta apresentada em processo licitatório ou proporcionar a terceiro o ensejo de devassá-lo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T14:34:23+00:00"
+ },
+ {
+  "de": "l14133.337-J",
+  "para": "cp.326",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 326 do Código Penal já tipificava, restrita ao funcionário público, a conduta de devassar o sigilo de proposta de concorrência pública ou proporcionar a terceiro o ensejo de devassá-lo; o art. 337-J, inserido pela Lei 14.133/21, tipifica a mesma conduta sem essa restrição quanto ao sujeito ativo e com pena mais grave (detenção de dois a três anos, contra três meses a um ano), o que gera risco de confusão sobre qual dispositivo incide sobre o mesmo fato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T14:34:23+00:00"
+ },
+ {
+  "de": "l8213.2",
+  "para": "l8212.1",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 2º da Lei 8.213/91 especializa, para o âmbito da previdência social, os princípios gerais da seguridade social do parágrafo único do art. 1º da Lei 8.212/91, acrescentando diretrizes próprias do regime previdenciário, como o cálculo dos benefícios pelos salários de contribuição corrigidos monetariamente (inciso IV) e o valor não inferior ao salário mínimo (inciso VI), estranhas à saúde e à assistência social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T14:34:23+00:00"
+ },
+ {
+  "de": "lcp123.18-C",
+  "para": "l8212.32",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 18-C da LC 123/06 substitui, para o microempreendedor individual com empregado, a obrigatoriedade de entrega de todas as informações, formulários e declarações a que estão sujeitas as demais empresas pela declaração única de que trata o § 3º, I, excepcionando, quanto a esse contribuinte, a obrigação de declarar dados relacionados a fatos geradores, base de cálculo e valores devidos de contribuição previdenciária prevista no inciso IV do art. 32 da Lei 8.212/91.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T14:34:23+00:00"
+ },
+ {
+  "de": "l8036.17-A",
+  "para": "l8212.32",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 17-A da Lei 8.036/90 impõe ao empregador obrigação acessória de declarar, em sistema de escrituração digital, os dados do FGTS, paralela à obrigação de declarar os dados da contribuição previdenciária prevista no inciso IV do art. 32 da Lei 8.212/91; ambas compõem hoje o mesmo sistema de escrituração digital, mas decorrem de fundamentos legais distintos e se complementam quanto ao objeto declarado (FGTS e contribuição previdenciária).",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T14:34:23+00:00"
  }
 ]
