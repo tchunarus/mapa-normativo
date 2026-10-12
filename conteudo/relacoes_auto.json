@@ -19617,5 +19617,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T17:16:02+00:00"
+ },
+ {
+  "de": "cc.228",
+  "para": "clt.829",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 228 do CC exclui da condição de testemunha o parente até o terceiro grau, o amigo íntimo e o inimigo capital das partes, ao passo que o art. 829 da CLT, para a mesma hipótese de parentesco, amizade íntima ou inimizade, não impede o depoimento, apenas dispensa o compromisso e reduz seu valor a simples informação, o que gera risco de se aplicar ao processo do trabalho a exclusão mais rigorosa do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T18:21:49+00:00"
+ },
+ {
+  "de": "cc.228",
+  "para": "cpc.145",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os arts. 228 do CC e 145 do CPC utilizam a mesma expressão amigo íntimo ou inimigo capital como fundamento de afastamento, mas tratam de institutos distintos, a incapacidade da testemunha e a suspeição do juiz, que não se confundem quanto aos efeitos processuais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T18:21:49+00:00"
+ },
+ {
+  "de": "cc.851",
+  "para": "l9307.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 851 do CC admite de modo genérico o compromisso, judicial ou extrajudicial, para resolver litígios entre pessoas que podem contratar, e o art. 9º da Lei 9.307/96 detalha esse mesmo compromisso ao defini-lo como a convenção pela qual as partes submetem o litígio à arbitragem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T18:21:49+00:00"
+ },
+ {
+  "de": "cc.851",
+  "para": "l9307.3",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 3º da Lei 9.307/96 esclarece que a convenção de arbitragem compreende tanto a cláusula compromissória quanto o compromisso arbitral, instituto a que se refere de modo genérico o art. 851 do CC ao admitir o compromisso para resolver litígios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T18:21:49+00:00"
+ },
+ {
+  "de": "cf.228",
+  "para": "cc.5",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 228 da CF fixa em dezoito anos o limite da inimputabilidade penal, e o art. 5º do CC fixa a mesma idade para o fim da menoridade civil, mas os institutos são distintos, pois a emancipação civil antecipa a capacidade para os atos da vida civil sem reduzir o limite da responsabilidade penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T18:21:49+00:00"
+ },
+ {
+  "de": "clt.829",
+  "para": "cpc.458",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 458 do CPC impõe à testemunha o dever geral de prestar compromisso de dizer a verdade antes do depoimento, e o art. 829 da CLT excepciona essa regra para o parente até o terceiro grau, o amigo íntimo e o inimigo, que depõem sem compromisso e como simples informante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T18:21:49+00:00"
+ },
+ {
+  "de": "cpp.206",
+  "para": "cpc.448",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 206 do CPP autoriza o ascendente, o descendente, o afim em linha reta, o cônjuge, o irmão e os pais do acusado a recusar-se a depor, enquanto o art. 448 do CPC só dispensa a testemunha de depor sobre fatos que lhe acarretem grave dano ou aos seus parentes, hipótese mais restrita que não alcança a simples condição de parente próximo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T18:21:49+00:00"
+ },
+ {
+  "de": "l13709.55-K",
+  "para": "l12846.29",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 29 da Lei 12.846/13 preserva expressamente a competência concorrente do Cade, do Ministério da Justiça e do Ministério da Fazenda para apurar infração à ordem econômica, em sentido oposto ao do art. 55-K da LGPD, que afasta a competência de outras entidades em favor da atuação exclusiva da ANPD quanto à proteção de dados pessoais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T18:21:49+00:00"
+ },
+ {
+  "de": "l8213.131",
+  "para": "l9430.77",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 131 da Lei 8.213/91 e o art. 77 da Lei 9.430/96 preveem a mesma competência de abster-se de constituir, retificar ou desistir de créditos com base em declaração de inconstitucionalidade do STF, mas um disciplina o crédito previdenciário do INSS e o outro o crédito tributário federal, não podendo ser aplicados de modo intercambiável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T18:21:49+00:00"
+ },
+ {
+  "de": "l8213.131",
+  "para": "ctn.208-G",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 208-G do CTN atribui efeito vinculante, no processo administrativo fiscal, às súmulas vinculantes e às decisões do STF e do STJ em repercussão geral ou recursos repetitivos, e o art. 131 da Lei 8.213/91 autoriza dispensa semelhante para o INSS, mas em matéria previdenciária e perante o Poder Judiciário, não o processo administrativo fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T18:21:49+00:00"
+ },
+ {
+  "de": "l8213.131",
+  "para": "cf.103-A",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 103-A da CF confere à súmula vinculante do STF efeito vinculante em relação a toda a administração pública direta e indireta, e o art. 131 da Lei 8.213/91 especializa essa vinculação para o INSS, autorizando-o a abster-se de agir ou a desistir de ações e recursos também em caso de jurisprudência consolidada, hipótese mais ampla que a simples súmula vinculante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T18:21:49+00:00"
+ },
+ {
+  "de": "cpp.206",
+  "para": "cc.1591",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 206 do CPP emprega os termos ascendente, descendente e afim em linha reta sem definição própria desses graus de parentesco, de modo que se aplica subsidiariamente o conceito de parentesco em linha reta do art. 1.591 do CC, que define quem está nessa condição para fins de recusa de depor no processo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T18:22:02+00:00"
  }
 ]
