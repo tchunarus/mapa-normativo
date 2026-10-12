@@ -19387,5 +19387,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T14:34:23+00:00"
+ },
+ {
+  "de": "l14133.337-G",
+  "para": "cp.321",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 337-G da Lei 14.133/21, inserido no Código Penal, pune o mesmo verbo nuclear do caput do art. 321 do Código Penal, patrocinar, direta ou indiretamente, interesse privado perante a administração pública, mas restringe a conduta à hipótese de licitação ou contrato cuja invalidação venha a ser decretada pelo Poder Judiciário, constituindo regra especial para o âmbito das licitações e contratos administrativos, com pena mais severa que a do tipo geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T15:25:21+00:00"
+ },
+ {
+  "de": "l8036.17-A",
+  "para": "ctn.149",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 17-A da Lei 8.036/90 reproduz, para o lançamento de ofício das obrigações do FGTS, os mesmos pressupostos de omissão, erro, fraude ou sonegação do art. 149 do CTN, mas disciplina um lançamento próprio, sujeito à fiscalização da Receita Federal, e não um lançamento de tributo regido pelo Código Tributário Nacional, o que gera risco de se confundirem os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T15:25:21+00:00"
+ },
+ {
+  "de": "l8213.9",
+  "para": "l8212.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 9º da Lei 8.213/91 é a lei específica que organiza a área da previdência social a que se refere o art. 9º da Lei 8.212/91, detalhando sua estrutura em regime geral e regime facultativo complementar, tal como o próprio art. 9º da Lei 8.212/91 anuncia ao exigir regulamentação por legislação própria para cada área da seguridade social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T15:25:21+00:00"
+ },
+ {
+  "de": "cc.3",
+  "para": "l8213.103",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 103 da Lei 8.213/91 ressalva expressamente o direito dos menores e incapazes, na forma do Código Civil, de modo que o art. 3º do Código Civil, ao definir os absolutamente incapazes, aplica-se subsidiariamente para afastar a prescrição quinquenal das prestações previdenciárias em favor dessas pessoas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T15:25:21+00:00"
+ },
+ {
+  "de": "l8213.103",
+  "para": "d20910.2",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 103 da Lei 8.213/91 fixa prescrição quinquenal para haver prestações vencidas ou diferenças devidas pela Previdência Social, enquanto o art. 2º do Decreto 20.910/32 fixa prazo igual para pensões, meio soldo, montepio civil e militar e diferenças devidas pela Fazenda Pública em regime estatutário, o que pode gerar confusão entre os dois regimes de prescrição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T15:25:21+00:00"
  }
 ]
