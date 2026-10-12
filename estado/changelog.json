@@ -95,5 +95,45 @@
   "titulo": "Tema 1232/STF: inclusão de empresa do mesmo grupo econômico na execução trabalhista exige IDPJ incluído",
   "url": "https://portal.stf.jus.br/jurisprudencia/obterInteiroTeor.asp?idDocumento=793259514",
   "p": "stf.tema.1232"
+ },
+ {
+  "data": "2026-10-12T09:21:57+00:00",
+  "fonte": "STF",
+  "tipo": "precedente",
+  "titulo": "Súmula Vinculante 8/STF incluído",
+  "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1209",
+  "p": "stf.sv.8"
+ },
+ {
+  "data": "2026-10-12T09:21:57+00:00",
+  "fonte": "STF",
+  "tipo": "precedente",
+  "titulo": "Reserva de lei complementar para hipóteses de decadência do crédito tributário incluído",
+  "url": "https://portal.stf.jus.br/jurisprudencia/obterInteiroTeor.asp?numero=124&classe=ADI",
+  "p": "jr.stf.adi-124"
+ },
+ {
+  "data": "2026-10-12T09:21:57+00:00",
+  "fonte": "STF",
+  "tipo": "precedente",
+  "titulo": "Constitucionalidade da prescrição intercorrente em execução fiscal (art. 40 da LEF) incluído",
+  "url": "https://portal.stf.jus.br/jurisprudencia/obterInteiroTeor.asp?idDocumento=765986898",
+  "p": "stf.tema.390"
+ },
+ {
+  "data": "2026-10-12T09:21:57+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Suspensão da exigibilidade por parcelamento depende de homologação expressa ou tácita incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200701272003&dt_publicacao=25/08/2010",
+  "p": "stj.tema.365"
+ },
+ {
+  "data": "2026-10-12T09:21:57+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Fiança bancária ou seguro garantia suspendem a exigibilidade de crédito não tributário se suficientes e idôneos incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202466445&dt_publicacao=17/06/2025",
+  "p": "stj.tema.1203"
  }
 ]

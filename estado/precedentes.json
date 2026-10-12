@@ -658,7 +658,7 @@
   ],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=163&cod_tema_final=163",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-12",
   "institutos": [
    "decadencia"
   ]
@@ -689,7 +689,7 @@
   ],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=383&cod_tema_final=383",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-12",
   "institutos": [
    "prescricao"
   ]
@@ -720,7 +720,7 @@
   ],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=378&cod_tema_final=378",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-12",
   "institutos": [
    "suspensao-exigibilidade",
    "garantia-execucao"
@@ -8148,7 +8148,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1385&cod_tema_final=1385",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-12",
   "novo": false
  },
  "stj.tema.1386": {
@@ -11651,7 +11651,7 @@
   ],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=271&cod_tema_final=271",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25"
+  "verificado_em": "2026-10-12"
  },
  "stj.tema.288": {
   "id": "stj.tema.288",
@@ -12429,6 +12429,179 @@
   "novo": true,
   "institutos_auto": [
    "grupo-economico"
+  ]
+ },
+ "stf.sv.8": {
+  "id": "stf.sv.8",
+  "trib": "STF",
+  "tipo": "Súmula vinculante",
+  "nivel": "A",
+  "natureza": "jurisdicional",
+  "numero": "8",
+  "titulo": "Súmula Vinculante 8/STF",
+  "orgao": "Tribunal Pleno",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "São inconstitucionais o parágrafo único do artigo 5º do Decreto-Lei 1.569/1977 e os artigos 45 e 46 da Lei 8.212/1991, que tratam da prescrição e decadência do crédito tributário.",
+  "processos": [
+   {
+    "numero": "Súmula Vinculante 8",
+    "origem": null,
+    "relator": null,
+    "julgado": "2008-06-12",
+    "publicado": null
+   }
+  ],
+  "data": "2008-06-12",
+  "dispositivos": [
+   "ctn.173",
+   "ctn.174"
+  ],
+  "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1209",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-10-12",
+  "novo": false,
+  "institutos_auto": [
+   "decadencia",
+   "prescricao"
+  ]
+ },
+ "jr.stf.adi-124": {
+  "id": "jr.stf.adi-124",
+  "trib": "STF",
+  "tipo": "Controle concentrado",
+  "nivel": "A",
+  "natureza": "jurisdicional",
+  "numero": "ADI 124",
+  "titulo": "Reserva de lei complementar para hipóteses de decadência do crédito tributário",
+  "orgao": "Tribunal Pleno",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "Viola o art. 146, III, b, da Constituição federal norma que estabelece hipótese de decadência do crédito tributário não prevista em lei complementar federal.",
+  "processos": [
+   {
+    "numero": "ADI 124",
+    "origem": null,
+    "relator": "JOAQUIM BARBOSA",
+    "julgado": "2008-08-01",
+    "publicado": null
+   }
+  ],
+  "data": "2008-08-01",
+  "dispositivos": [
+   "cf.146"
+  ],
+  "url": "https://portal.stf.jus.br/jurisprudencia/obterInteiroTeor.asp?numero=124&classe=ADI",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-10-12",
+  "novo": true,
+  "institutos_auto": [
+   "decadencia"
+  ]
+ },
+ "stf.tema.390": {
+  "id": "stf.tema.390",
+  "trib": "STF",
+  "tipo": "Repercussão geral",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "390",
+  "titulo": "Constitucionalidade da prescrição intercorrente em execução fiscal (art. 40 da LEF)",
+  "orgao": "Tribunal Pleno",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "É constitucional o art. 40 da Lei nº 6.830/1980 (Lei de Execuções Fiscais), tendo natureza processual o prazo de 1 (um) ano de suspensão da execução fiscal. Após o decurso desse prazo, inicia-se automaticamente a contagem do prazo prescricional tributário de 5 (cinco) anos.",
+  "processos": [
+   {
+    "numero": "RE 636562",
+    "origem": null,
+    "relator": "ROBERTO BARROSO",
+    "julgado": "2023-02-22",
+    "publicado": null
+   }
+  ],
+  "data": "2023-02-22",
+  "dispositivos": [
+   "lef.40"
+  ],
+  "url": "https://portal.stf.jus.br/jurisprudencia/obterInteiroTeor.asp?idDocumento=765986898",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-10-12",
+  "novo": true,
+  "institutos_auto": [
+   "prescricao"
+  ]
+ },
+ "stj.tema.365": {
+  "id": "stj.tema.365",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "365",
+  "titulo": "Suspensão da exigibilidade por parcelamento depende de homologação expressa ou tácita",
+  "orgao": "Primeira Seção",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "A produção do efeito suspensivo da exigibilidade do crédito tributário, advindo do parcelamento, condiciona-se à homologação expressa ou tácita do pedido formulado pelo contribuinte junto ao Fisco.",
+  "processos": [
+   {
+    "numero": "REsp 957509",
+    "origem": null,
+    "relator": "LUIZ FUX",
+    "julgado": "2010-08-09",
+    "publicado": null
+   }
+  ],
+  "data": "2010-08-09",
+  "dispositivos": [
+   "ctn.151"
+  ],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200701272003&dt_publicacao=25/08/2010",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-10-12",
+  "novo": true,
+  "institutos_auto": [
+   "suspensao-exigibilidade"
+  ]
+ },
+ "stj.tema.1203": {
+  "id": "stj.tema.1203",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "1203",
+  "titulo": "Fiança bancária ou seguro garantia suspendem a exigibilidade de crédito não tributário se suficientes e idôneos",
+  "orgao": "Primeira Seção",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "O oferecimento de fiança bancária ou de seguro garantia, desde que corresponda ao valor atualizado do débito, acrescido de 30% (trinta por cento), tem o efeito de suspender a exigibilidade do crédito não tributário, não podendo o credor rejeitá-lo, salvo se demonstrar insuficiência, defeito formal ou inidoneidade da garantia oferecida.",
+  "processos": [
+   {
+    "numero": "REsp 2037787",
+    "origem": null,
+    "relator": "AFRÂNIO VILELA",
+    "julgado": "2025-06-11",
+    "publicado": null
+   }
+  ],
+  "data": "2025-06-11",
+  "dispositivos": [
+   "lef.9",
+   "cpc.835"
+  ],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202466445&dt_publicacao=17/06/2025",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-10-12",
+  "novo": true,
+  "institutos_auto": [
+   "garantia-execucao"
   ]
  }
 }

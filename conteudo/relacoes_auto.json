@@ -18687,5 +18687,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-10T06:08:29+00:00"
+ },
+ {
+  "de": "l8036.6-A",
+  "para": "cf.199",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 6º-A da Lei 8.036/90 atribui ao Ministério da Saúde a regulamentação das operações de crédito do FGTS destinadas a entidades hospitalares filantrópicas e a instituições sem fins lucrativos que participem de forma complementar do SUS, remetendo ao conceito de participação complementar das instituições privadas no sistema único de saúde previsto no § 1º do art. 199 da Constituição, sem reger o regime constitucional da assistência à saúde.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T09:17:48+00:00"
+ },
+ {
+  "de": "l8137.8",
+  "para": "cp.49",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 8º da Lei 8.137/90 fixa, para os crimes dos seus arts. 1º a 3º, a pena de multa entre 10 e 360 dias-multa, o mesmo intervalo do caput do art. 49 do Código Penal, mas especializa o critério de valor do dia-multa: o parágrafo único estabelece limites próprios, não inferiores a 14 nem superiores a 200 Bônus do Tesouro Nacional, em vez do critério geral do § 1º do art. 49, atrelado ao salário mínimo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T09:17:48+00:00"
+ },
+ {
+  "de": "l9279.197",
+  "para": "cp.49",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 197 da Lei da Propriedade Industrial reproduz o intervalo de 10 a 360 dias-multa do caput do art. 49 do Código Penal para as penas de multa do título de crimes contra a propriedade industrial e remete expressamente à sistemática do Código Penal para a sua fixação, ressalvada a redução ou o aumento de até 10 vezes previstos em seu parágrafo único.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T09:17:48+00:00"
+ },
+ {
+  "de": "cpp.686",
+  "para": "cp.49",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 686 do Código de Processo Penal disciplina o procedimento de pagamento da pena de multa prevista no art. 49 do Código Penal, fixando o prazo de 10 dias após o trânsito em julgado da sentença condenatória para o seu recolhimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T09:17:48+00:00"
+ },
+ {
+  "de": "l14133.337-L",
+  "para": "cp.337-L",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 337-L, nos termos em que consta da Lei 14.133/2021, corresponde ao dispositivo que essa lei inseriu no Código Penal, cujo texto vigente no art. 337-L do Código Penal reproduz integralmente a mesma redação sobre a fraude em licitação ou contrato dela decorrente, mediante entrega de mercadoria ou serviço diverso do contratado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-12T09:17:48+00:00"
  }
 ]
