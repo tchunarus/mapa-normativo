@@ -22267,5 +22267,215 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T21:19:19+00:00"
+ },
+ {
+  "de": "cpc.307",
+  "para": "l9099.20",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Ambos os dispositivos cuidam do efeito da revelia sobre os fatos alegados, com risco real de confusão quanto ao fato gerador da presunção, pois no procedimento comum do CPC ela decorre da falta de contestação escrita, enquanto na Lei 9.099/95 decorre do não comparecimento do réu à audiência, e não da ausência de resposta escrita.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.16",
+  "para": "cpc.300",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O §8º do art. 16 da Lei 8.429/92 determina expressamente que se aplica à indisponibilidade de bens, no que for cabível, o regime da tutela provisória de urgência do CPC, do qual o art. 300 é a norma central, de modo que o CPC rege subsidiariamente os pressupostos da medida quando a LIA for omissa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.16",
+  "para": "cpc.835",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O §11 do art. 16 da LIA reproduz a mesma sequência de bens do art. 835 do CPC (veículos de via terrestre, bens imóveis, bens móveis em geral, semoventes, navios e aeronaves) para fixar a ordem de preferência da indisponibilidade cautelar, o que cria risco de se confundir essa ordem com a ordem de penhora do CPC, que tem pressupostos e momento processual distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.16",
+  "para": "lef.11",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A Lei de Execução Fiscal fixa, no art. 11, ordem de preferência diversa para a penhora (dinheiro, título da dívida pública, pedras e metais preciosos, imóveis, navios e aeronaves, veículos, móveis ou semoventes e direitos e ações), que pode ser confundida com a ordem fixada pelo §11 do art. 16 da LIA para a indisponibilidade cautelar, que segue a sequência do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.16",
+  "para": "cpc.133",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O §7º do art. 16 da LIA condiciona a indisponibilidade de bens de terceiro, quando pessoa jurídica, à instauração do incidente de desconsideração da personalidade jurídica processado na forma da lei processual, remissão que corresponde ao incidente regulado pelo art. 133 do CPC, aplicável subsidiariamente à ação de improbidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.17",
+  "para": "cpc.303",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O §6º-A do art. 17 da LIA autoriza expressamente o Ministério Público a requerer as tutelas provisórias adequadas nos termos dos arts. 294 a 310 do CPC, intervalo que inclui o art. 303 sobre a tutela antecipada requerida em caráter antecedente, aplicável subsidiariamente à ação de improbidade administrativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.17",
+  "para": "cpc.335",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O §7º do art. 17 da LIA fixa prazo próprio de trinta dias para os réus apresentarem contestação na ação de improbidade, especializando, para esse procedimento, o prazo geral de quinze dias previsto no art. 335 do CPC para a contestação no procedimento comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.17",
+  "para": "cpc.1015",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O §9º-A do art. 17 da LIA cria hipótese própria de cabimento de agravo de instrumento, contra a decisão que rejeitar preliminares suscitadas na contestação, excepcionando o rol do art. 1.015 do CPC, que não contempla expressamente essa hipótese entre as decisões interlocutórias agraváveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.17-D",
+  "para": "l7347.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 17-D da LIA remete para a Lei 7.347/85 o controle de legalidade de políticas públicas e a responsabilização por danos a interesses como meio ambiente, consumidor, ordem econômica, ordem urbanística e patrimônio público e social, categorias quase idênticas às do art. 1º da Lei 7.347/85, delimitação que busca justamente afastar a confusão histórica entre a ação de improbidade e a ação civil pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.17-D",
+  "para": "l12846.30",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 30 da Lei 12.846/13 cita expressamente a Lei 8.429/92 ao estabelecer que a aplicação das sanções da Lei Anticorrupção não afeta os processos de responsabilização por ato de improbidade administrativa, remissão nominal que esclarece a autonomia e a cumulação dos dois regimes sancionadores, tema central do art. 17-D da LIA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.18",
+  "para": "cp.91-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O caput do art. 18 da LIA determina a perda ou a reversão dos bens e valores ilicitamente adquiridos em favor da pessoa jurídica prejudicada, efeito patrimonial semelhante ao confisco alargado do art. 91-A do Código Penal, que atinge o patrimônio do condenado incompatível com o seu rendimento lícito, ainda que os dois institutos pertençam a regimes sancionadores distintos, o civil e o penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.18",
+  "para": "cpp.68",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O §2º do art. 18 da LIA atribui ao Ministério Público a liquidação do dano e o cumprimento da sentença quando a pessoa jurídica prejudicada se mantém omissa por seis meses, papel supletivo semelhante ao que o art. 68 do CPP confere ao Ministério Público para promover a execução civil em favor do ofendido pobre, ainda que os pressupostos de cada hipótese sejam distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.20",
+  "para": "cf.15",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O caput do art. 20 da LIA, ao condicionar a suspensão dos direitos políticos ao trânsito em julgado da sentença condenatória, regulamenta, no âmbito da ação de improbidade, a hipótese de perda ou suspensão de direitos políticos por improbidade administrativa prevista no inciso V do art. 15 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.20",
+  "para": "cp.92",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O caput do art. 20 da LIA trata da perda da função pública como sanção da ação de improbidade administrativa, efeito que pode ser confundido com a perda de cargo, função pública ou mandato eletivo prevista no inciso I do art. 92 do Código Penal como efeito da condenação criminal, ainda que os fundamentos e os pressupostos de cada sanção sejam autônomos entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.20",
+  "para": "cpp.373",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O §1º do art. 20 da LIA autoriza o afastamento cautelar do agente público do cargo, do emprego ou da função, por até noventa dias, quando necessário à instrução processual ou para evitar novos ilícitos, medida que pode ser confundida com a aplicação provisória de interdições de direitos prevista no art. 373 do CPP, cautelar penal com pressupostos e prazos próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.22",
+  "para": "l7347.8",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O caput do art. 22 da LIA autoriza o Ministério Público a instaurar inquérito civil para apurar ilícitos de improbidade sem regular o seu procedimento, de modo que se aplicam subsidiariamente as regras do §1º do art. 8º da Lei 7.347/85, que disciplina a presidência do inquérito civil pelo Ministério Público e a requisição de certidões, informações, exames ou perícias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.22",
+  "para": "cpp.5",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O caput do art. 22 da LIA permite ao Ministério Público requisitar a instauração de inquérito policial para apurar ilícitos de improbidade, poder que corresponde ao previsto no inciso II do art. 5º do CPP, segundo o qual o inquérito policial pode ser iniciado mediante requisição da autoridade judiciária ou do Ministério Público, regra geral aplicável subsidiariamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.22",
+  "para": "cp.339",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 339 do Código Penal pune expressamente quem dá causa à instauração de inquérito civil ou de ação de improbidade administrativa contra pessoa que sabe inocente, complementando o regime do art. 22 da LIA ao proteger, por meio da tipificação penal da denunciação caluniosa, a apuração séria e de boa fé dos ilícitos de improbidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.23",
+  "para": "cp.117",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O §1º do art. 117 do Código Penal determina que a interrupção da prescrição produz efeitos relativamente a todos os autores do crime e se estende, nos crimes conexos julgados no mesmo processo, aos demais, regra quase idêntica à dos §§6º e 7º do art. 23 da LIA sobre os efeitos da suspensão e da interrupção da prescrição em relação a todos os que concorreram para o ato de improbidade e aos atos conexos, ainda que se trate de institutos autônomos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.23",
+  "para": "cc.206-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O §8º do art. 23 da LIA disciplina a prescrição intercorrente da pretensão sancionadora durante a tramitação da ação de improbidade, instituto que pode ser confundido com a prescrição intercorrente regulada pelo art. 206-A do Código Civil para a execução civil em geral, cujos pressupostos e prazos de contagem são próprios de cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "l8429.23",
+  "para": "cc.202",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 202 do Código Civil estabelece que a interrupção da prescrição somente pode ocorrer uma vez, regra que entra em aparente conflito com o §4º do art. 23 da LIA, que prevê cinco marcos sucessivos de interrupção da prescrição ao longo do ajuizamento e dos recursos da ação de improbidade, conflito resolvido pela especialidade do regime próprio da LIA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T22:18:53+00:00"
  }
 ]
