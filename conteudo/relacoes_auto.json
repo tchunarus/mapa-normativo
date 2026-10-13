@@ -21907,5 +21907,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T17:19:19+00:00"
+ },
+ {
+  "de": "l8213.55",
+  "para": "l8212.21",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 55 da Lei 8.213/91 veda o cômputo como tempo de contribuição do período em que o segurado contribuinte individual ou facultativo tiver contribuído na forma do § 2º do art. 21 da Lei 8.212/91, salvo complementação na forma do § 3º do mesmo artigo. O art. 21 da Lei 8.212/91 define essas alíquotas reduzidas, de modo que sua aplicação é pressuposto necessário para a regra de exclusão do art. 55, § 4º, ainda que os dispositivos tratem de institutos distintos, a alíquota de contribuição e o cômputo de tempo de contribuição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T18:16:58+00:00"
+ },
+ {
+  "de": "l8245.35",
+  "para": "cc.578",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 578 do CC estabelece a regra geral do direito de retenção do locatário, exigindo expresso consentimento do locador para que as benfeitorias úteis sejam indenizáveis. O art. 35 da Lei 8.245/91 especializa essa regra para a locação de imóveis urbanos, dispensando autorização expressa para as benfeitorias necessárias, indenizáveis ainda que não autorizadas, e mantendo exigência apenas de autorização, não necessariamente expressa, para as úteis, salvo disposição contratual em contrário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T18:16:58+00:00"
+ },
+ {
+  "de": "l8245.36",
+  "para": "cc.96",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 96 do CC define as categorias de benfeitorias necessárias, úteis e voluptuárias, conceito que o art. 36 da Lei 8.245/91 pressupõe ao regular o regime das benfeitorias voluptuárias na locação, sem repetir a definição. Os dispositivos integram o mesmo instituto, cabendo ao CC a definição geral e à Lei 8.245/91 o regime específico de indenização e levantamento na locação urbana.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T18:16:58+00:00"
+ },
+ {
+  "de": "l8245.40",
+  "para": "cc.835",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 835 do CC permite ao fiador exonerar-se da fiança sem prazo determinado, permanecendo obrigado por todos os efeitos da fiança durante sessenta dias após a notificação do credor. O inciso X do art. 40 da Lei 8.245/91 especializa essa regra para a fiança locatícia, ampliando o prazo de permanência dos efeitos da fiança após a notificação ao locador para cento e vinte dias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T18:16:58+00:00"
+ },
+ {
+  "de": "l8245.40",
+  "para": "cc.826",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 826 do CC autoriza o credor a exigir a substituição do fiador que se tornar insolvente ou incapaz. O inciso II do art. 40 da Lei 8.245/91 especializa essa hipótese para a locação, autorizando o locador a exigir novo fiador em caso de insolvência do fiador declarada judicialmente, e acrescenta ainda os casos de ausência, interdição, recuperação judicial e falência, não previstos no CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T18:16:58+00:00"
  }
 ]
