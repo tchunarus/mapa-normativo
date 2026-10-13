@@ -21337,5 +21337,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T12:29:23+00:00"
+ },
+ {
+  "de": "cc.1227",
+  "para": "ctn.35",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 1.227 do CC estabelece que os direitos reais sobre imóveis só se adquirem com o registro no Cartório de Registro de Imóveis, e o inciso I do art. 35 do CTN remete à lei civil para definir a transmissão da propriedade que constitui o fato gerador do ITBI, de modo que o momento da aquisição do direito real regido pelo Código Civil delimita a incidência do imposto, tratando-se de institutos conexos entre o regime civil e o regime tributário da mesma transmissão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T13:31:05+00:00"
+ },
+ {
+  "de": "cc.1227",
+  "para": "floripa_ctm.278",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 1.227 do CC condiciona a aquisição de direitos reais sobre imóveis ao registro no Cartório de Registro de Imóveis, e o inciso I do art. 278 do CTM de Florianópolis define o fato gerador do ITBI municipal pela transmissão da propriedade ou do domínio útil de bens imóveis como definidos na lei civil, de modo que o regime tributário municipal depende do momento de aquisição disciplinado pelo Código Civil, institutos conexos entre o direito civil e o direito tributário municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T13:31:05+00:00"
+ },
+ {
+  "de": "cc.1227",
+  "para": "cf.156",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 1.227 do CC determina que os direitos reais sobre imóveis constituídos entre vivos só se adquirem com o registro imobiliário, e o inciso II do art. 156 da CF atribui aos Municípios a competência para tributar a transmissão onerosa, entre vivos, de bens imóveis e de direitos reais sobre imóveis, valendo-se da mesma categoria civil de direitos reais imobiliários cuja aquisição o Código Civil regula, institutos conexos entre o direito tributário constitucional e o direito civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T13:31:05+00:00"
+ },
+ {
+  "de": "lsa.39",
+  "para": "cc.1432",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 39 da LSA estabelece que o penhor de ações se constitui pela averbação do respectivo instrumento no livro de Registro de Ações Nominativas, regra especial em relação ao art. 1.432 do CC, que exige, como regime geral do penhor comum, o registro do instrumento no Cartório de Títulos e Documentos, substituindo a formalidade cartorária pela averbação no próprio livro societário em razão da natureza do bem empenhado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T13:31:05+00:00"
+ },
+ {
+  "de": "cc.1432",
+  "para": "l8245.38",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.432 do CC exige que o penhor comum seja registrado no Cartório de Títulos e Documentos para sua constituição, e o § 1º do art. 38 da Lei 8.245/91 impõe a mesma formalidade de registro em cartório de títulos e documentos para a caução em bens móveis na locação, garantias distintas que empregam o mesmo mecanismo registral, com risco real de se confundir o penhor com a caução locatícia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T13:31:05+00:00"
+ },
+ {
+  "de": "cp.338-A",
+  "para": "l12016.26",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 338-A do CP criminaliza o descumprimento de decisão judicial que defere medidas protetivas de urgência, e o art. 26 da Lei 12.016/09 tipifica como crime de desobediência o não cumprimento de decisão proferida em mandado de segurança, ambos punindo o descumprimento de decisões judiciais específicas, com risco real de se confundir qual tipo penal incide conforme a natureza da decisão desobedecida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T13:31:05+00:00"
+ },
+ {
+  "de": "cp.338-A",
+  "para": "l11101.176",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 338-A do CP pune quem descumpre decisão judicial que defere medidas protetivas de urgência, e o art. 176 da Lei 11.101/05 pune quem exerce atividade para a qual foi inabilitado ou incapacitado por decisão judicial no âmbito falimentar, ambos tipificando o descumprimento de uma proibição ou determinação judicial específica, com risco de se confundir o tipo penal aplicável conforme o conteúdo da decisão violada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T13:31:05+00:00"
+ },
+ {
+  "de": "l8429.17",
+  "para": "cpc.313",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 17 da LIA determina que a ação de improbidade siga o procedimento comum previsto no CPC, salvo disposição em contrário da própria lei, de modo que as hipóteses de suspensão do processo do art. 313 do CPC se aplicam subsidiariamente à ação de improbidade administrativa, na omissão de regra específica da Lei 8.429/92 sobre a matéria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T13:31:05+00:00"
+ },
+ {
+  "de": "l11101.6",
+  "para": "cpc.313",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 6º da Lei 11.101/05 estabelece regime especial de suspensão das execuções contra o devedor em razão da decretação da falência ou do deferimento da recuperação judicial, hipótese distinta das causas gerais de suspensão do processo previstas no art. 313 do CPC, especializando o instituto da suspensão processual para o concurso de credores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T13:31:05+00:00"
+ },
+ {
+  "de": "l13303.58",
+  "para": "l14133.69",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 58 da Lei 13.303/16 prevê genericamente a capacidade econômica e financeira como parâmetro de habilitação nas licitações de estatais, e o art. 69 da Lei 14.133/21 detalha a habilitação econômico-financeira da lei geral de licitações com documentos específicos, como balanço patrimonial e certidão negativa de feitos sobre falência, com risco de se exigir indevidamente de um regime a documentação própria do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T13:31:05+00:00"
+ },
+ {
+  "de": "l14133.65",
+  "para": "l13303.65",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 65 da Lei 14.133/21 determina que as condições de habilitação sejam definidas no edital de cada licitação da Administração Pública em geral, e o art. 65 da Lei 13.303/16 disciplina os registros cadastrais válidos por um ano para fins de habilitação nas licitações de empresas estatais, regimes distintos que compartilham a mesma numeração de artigo e o mesmo instituto da habilitação, com risco real de se confundirem as regras aplicáveis a cada licitação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T13:31:05+00:00"
+ },
+ {
+  "de": "l8213.51",
+  "para": "clt.453",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 51 da Lei 8.213/91 garante ao empregado aposentado compulsoriamente por idade a indenização prevista na legislação trabalhista, e o § 2º do art. 453 da CLT prevê que a concessão de benefício de aposentadoria a empregado com menos de 35 ou 30 anos de serviço importa em extinção do vínculo empregatício, hipótese de aposentadoria espontânea tratada de modo distinto quanto ao direito à indenização, com risco de se confundirem os efeitos da aposentadoria compulsória por idade com os da aposentadoria espontânea.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T13:31:05+00:00"
+ },
+ {
+  "de": "l8213.51",
+  "para": "adct.100",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 51 da Lei 8.213/91 disciplina a aposentadoria compulsória por idade do empregado comum, aos 70 anos para homens e 65 para mulheres, e o art. 100 do ADCT disciplina a aposentadoria compulsória dos Ministros do Supremo Tribunal Federal, dos Tribunais Superiores e do Tribunal de Contas da União aos 75 anos, regimes distintos de aposentadoria compulsória por idade que podem ser confundidos quanto à idade e ao regime aplicável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T13:31:05+00:00"
  }
 ]
