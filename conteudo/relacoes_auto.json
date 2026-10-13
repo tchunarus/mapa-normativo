@@ -21087,5 +21087,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T10:16:18+00:00"
+ },
+ {
+  "de": "cp.121-A",
+  "para": "cpp.394-A",
+  "tipo": "procedimento_de",
+  "grau": "contato",
+  "porque": "O art. 394-A do Código de Processo Penal determina prioridade de tramitação aos processos que apurem crime hediondo ou violência contra a mulher, regra processual conexa ao feminicídio tipificado no art. 121-A do Código Penal, hipótese de crime hediondo e de violência de gênero contra a mulher.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T11:19:58+00:00"
+ },
+ {
+  "de": "cp.121-A",
+  "para": "l8213.120",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 120, II, da Lei 8.213/91 autoriza a Previdência Social a ajuizar ação regressiva contra o responsável por violência doméstica e familiar contra a mulher, consequência previdenciária que complementa, no plano reparatório, o feminicídio do art. 121-A do Código Penal quando dele resulta óbito do segurado e concessão de pensão por morte aos dependentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T11:19:58+00:00"
+ },
+ {
+  "de": "cp.213",
+  "para": "cpp.350-A",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 350-A do Código de Processo Penal autoriza a aplicação de medidas protetivas de urgência diante de indícios de crime contra a dignidade sexual, categoria em que se insere o estupro do art. 213 do Código Penal, tratando-se de instituto processual conexo ao tipo penal, sem se confundir com ele.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T11:19:58+00:00"
+ },
+ {
+  "de": "cp.217-A",
+  "para": "cpp.350-A",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 350-A do Código de Processo Penal permite ao juiz aplicar medidas protetivas de urgência quando há indícios de crime contra a dignidade sexual, categoria que abrange o estupro de vulnerável tipificado no art. 217-A do Código Penal, sendo instituto processual conexo e distinto do tipo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T11:19:58+00:00"
+ },
+ {
+  "de": "cp.217-A",
+  "para": "cf.228",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 228 da Constituição trata da inimputabilidade penal do autor menor de dezoito anos, instituto distinto e por vezes confundido com a vulnerabilidade etária da vítima menor de catorze anos prevista no art. 217-A do Código Penal, pois um regula a capacidade de ser responsabilizado penalmente e o outro a proteção da vítima.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T11:19:58+00:00"
+ },
+ {
+  "de": "cp.92",
+  "para": "l9430.82",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 92 do Código Penal remete expressamente à Lei nº 9.430, de 27 de dezembro de 1996, para os efeitos da declaração de inidoneidade da inscrição no CNPJ, e o art. 82 dessa lei disciplina exatamente a ineficácia tributária dos documentos emitidos pela pessoa jurídica cuja inscrição foi declarada inapta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T11:19:58+00:00"
+ },
+ {
+  "de": "cp.92",
+  "para": "l11101.181",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 181 da Lei 11.101/05 estabelece efeitos específicos da condenação pelos crimes falimentares, tais como a inabilitação para atividade empresarial, instituto que pode ser confundido com o regime geral dos efeitos da condenação do art. 92 do Código Penal, pois cada um se aplica apenas às próprias hipóteses previstas em sua respectiva lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T11:19:58+00:00"
+ },
+ {
+  "de": "cpc.315",
+  "para": "cpp.93",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 93 do Código de Processo Penal autoriza a suspensão do processo criminal quando o reconhecimento da infração depender de questão cível de difícil solução, instituto espelhado e facilmente confundido com a suspensão do processo cível por questão prejudicial penal prevista no art. 315 do Código de Processo Civil, mas em sentido inverso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T11:19:58+00:00"
+ },
+ {
+  "de": "cpc.315",
+  "para": "cpp.92",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 92 do Código de Processo Penal determina a suspensão do processo criminal quando a existência da infração depender de controvérsia séria sobre o estado civil das pessoas a ser dirimida no juízo cível, mesma lógica de suspensão por questão prejudicial heterogênea do art. 315 do Código de Processo Civil, porém em direção oposta, o que pode gerar confusão entre as duas hipóteses.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T11:19:58+00:00"
+ },
+ {
+  "de": "cpp.66",
+  "para": "cpc.315",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 315 do Código de Processo Civil trata da suspensão prévia do processo cível até o deslinde da questão penal, instituto conexo mas distinto da regra do art. 66 do Código de Processo Penal, que disciplina o efeito posterior da sentença penal absolutória sobre a ação civil já proposta ou a propor, podendo os dois ser confundidos na prática.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T11:19:58+00:00"
+ },
+ {
+  "de": "cpc.54",
+  "para": "cpp.77",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 77 do Código de Processo Penal define as hipóteses de continência no processo penal, mesmo instituto nominado no art. 54 do Código de Processo Civil para a esfera cível, mas com critérios próprios e distintos, o que pode levar à confusão entre os dois regimes de modificação de competência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T11:19:58+00:00"
+ },
+ {
+  "de": "d9580.709",
+  "para": "cc.1706",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.706 do Código Civil prevê a fixação judicial dos alimentos provisionais, hipótese expressamente mencionada no art. 709 do Regulamento do Imposto de Renda como dedutível da base de cálculo mensal do imposto, de modo que o dispositivo tributário complementa o regime cível da obrigação alimentar ao disciplinar sua dedutibilidade fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T11:19:58+00:00"
+ },
+ {
+  "de": "d9580.709",
+  "para": "cpc.528",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 528 do Código de Processo Civil disciplina o cumprimento de sentença que condena ao pagamento de prestação alimentícia, execução diretamente ligada à dedução do valor da pensão alimentícia da base de cálculo do imposto de renda prevista no art. 709 do Regulamento do Imposto de Renda, complementando no plano processual o mesmo conjunto de efeitos da obrigação alimentar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T11:19:58+00:00"
  }
 ]
