@@ -20977,5 +20977,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cc.1638",
+  "para": "cp.92",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O CP, art. 92, II, estabelece a incapacidade para o exercício do poder familiar como efeito da condenação nos mesmos crimes dolosos contra o cotitular ou contra o filho que o CC, art. 1.638, parágrafo único, trata como causa de perda do poder familiar por ato judicial; são consequências distintas (efeito penal automático e destituição civil), mas aplicáveis às mesmas hipóteses fáticas, com risco real de confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T10:16:18+00:00"
+ },
+ {
+  "de": "cc.1638",
+  "para": "cp.121-A",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O CC, art. 1.638, parágrafo único, I, a, condiciona a perda do poder familiar a homicídio ou feminicídio doloso contra o cotitular, remetendo à definição e às qualificadoras do crime de feminicídio tipificado no CP, art. 121-A, sem as quais o requisito civil não pode ser verificado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T10:16:18+00:00"
+ },
+ {
+  "de": "cc.1638",
+  "para": "cp.213",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O CC, art. 1.638, parágrafo único, I, b, condiciona a perda do poder familiar à prática de estupro ou outro crime contra a dignidade sexual sujeito a reclusão contra o cotitular, remetendo ao tipo penal de estupro do CP, art. 213, para a qualificação da conduta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T10:16:18+00:00"
+ },
+ {
+  "de": "cc.1638",
+  "para": "cp.217-A",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O CC, art. 1.638, parágrafo único, II, b, condiciona a perda do poder familiar à prática de estupro de vulnerável contra filho ou descendente, remetendo à definição desse crime no CP, art. 217-A, que exige vítima menor de 14 anos ou sem discernimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T10:16:18+00:00"
+ },
+ {
+  "de": "cc.561",
+  "para": "cp.18",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O CC, art. 561, exige que o homicídio seja doloso para ensejar a revogação da doação, requisito subjetivo cujo conceito não é definido no Código Civil, mas corresponde à definição de dolo do CP, art. 18, I, tratando-se de simples ponto de contato terminológico entre os dois diplomas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T10:16:18+00:00"
+ },
+ {
+  "de": "cc.935",
+  "para": "cpp.66",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O CC, art. 935, estabelece a independência entre as responsabilidades civil e criminal quando a existência do fato e a autoria já estiverem decididas no juízo criminal, e o CPP, art. 66, complementa essa regra ao esclarecer que, mesmo havendo sentença penal absolutória, a ação civil só fica impedida se o juízo criminal tiver reconhecido categoricamente a inexistência material do fato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T10:16:18+00:00"
+ },
+ {
+  "de": "cc.935",
+  "para": "l9279.207",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CC, art. 935, consagra a independência geral entre as esferas civil e criminal, e a Lei 9.279/96 (LPI), art. 207, especializa essa regra para os crimes contra a propriedade industrial, assegurando que o prejudicado possa propor as ações cíveis cabíveis independentemente do resultado da ação penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T10:16:18+00:00"
+ },
+ {
+  "de": "cpp.64",
+  "para": "cpc.315",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O CPP, art. 64, parágrafo único, faculta ao juiz da ação civil suspender seu curso até o julgamento definitivo da ação penal intentada, e o CPC, art. 315, complementa essa regra ao fixar prazo de três meses contado da intimação da suspensão, após o qual cessa o efeito suspensivo caso a ação penal não seja proposta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T10:16:18+00:00"
+ },
+ {
+  "de": "cpp.64",
+  "para": "l9099.74",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O CPP, art. 64, disciplina de forma geral a ação civil para ressarcimento do dano decorrente de crime, e a Lei 9.099/95, art. 74, especializa essa disciplina para as infrações de menor potencial ofensivo, ao atribuir eficácia de título executivo à composição dos danos civis homologada em juízo, independentemente de ação civil autônoma.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T10:16:18+00:00"
+ },
+ {
+  "de": "cpp.78",
+  "para": "l9099.60",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O CPP, art. 78, fixa os critérios gerais de competência por conexão e continência, e a Lei 9.099/95, art. 60, parágrafo único, remete a essas mesmas regras ao disciplinar a reunião de processos perante o juízo comum ou o tribunal do júri quando decorrente de conexão ou continência com infração de menor potencial ofensivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T10:16:18+00:00"
+ },
+ {
+  "de": "cpp.78",
+  "para": "cpc.54",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O CPP, art. 78, disciplina os critérios de competência por conexão e continência no processo penal, e o CPC, art. 54, disciplina o mesmo instituto no processo civil; tratam-se de regimes autônomos e paralelos, com risco real de confusão entre os critérios de prevalência aplicáveis a cada esfera.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T10:16:18+00:00"
  }
 ]
