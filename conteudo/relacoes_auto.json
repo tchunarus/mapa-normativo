@@ -20807,5 +20807,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "cc.1787",
+  "para": "lindb.10",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.787 do CC fixa a lei aplicável no tempo à sucessão (a vigente na abertura desta), enquanto o art. 10 da LINDB fixa a lei aplicável no espaço (a do domicílio do falecido ou ausente), de modo que, apesar de ambos tratarem da lei que rege a sucessão, cuidam de dimensões distintas (temporal e territorial) e podem ser confundidos por quem busca a norma de regência da sucessão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cc.1787",
+  "para": "cpc.110",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo sucessão aparece em sentidos distintos nos dois dispositivos: no art. 1.787 do CC, refere-se à transmissão hereditária regida pela lei vigente na abertura da sucessão, ao passo que no art. 110 do CPC designa a substituição processual da parte falecida pelo espólio ou pelos sucessores, instituto puramente processual que não trata da lei aplicável à herança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cc.1926",
+  "para": "l8213.74",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.926 do CC disciplina o termo inicial do legado de renda vitalícia ou pensão periódica, que corre da morte do testador, instituto de direito sucessório privado, enquanto o art. 74 da Lei 8.213/91 disciplina o termo inicial da pensão por morte previdenciária, benefício público devido aos dependentes do segurado falecido, de modo que o uso comum da palavra pensão a partir da morte pode gerar confusão entre institutos de natureza e regime inteiramente distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cc.7",
+  "para": "lcp227.151",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "A alínea b do inciso I do art. 151 da LC 227/2026 fixa como fato gerador do ITCMD a data provável do óbito indicada na sentença de declaração da morte presumida sem decretação de ausência, remetendo diretamente ao instituto da morte presumida sem decretação de ausência disciplinado pelo art. 7º do CC para determinar o momento da transmissão causa mortis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cc.7",
+  "para": "cpc.744",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 7º do CC permite declarar a morte presumida sem decretação de ausência, dispensando o processo de ausência e a consequente arrecadação de bens de que trata o art. 744 do CPC, de modo que excepciona, nas hipóteses que prevê, a necessidade de instaurar previamente aquele procedimento para só então presumir a morte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cf.245",
+  "para": "cc.935",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 245 da CF ressalva a assistência estatal aos herdeiros e dependentes de vítimas de crime doloso sem prejuízo da responsabilidade civil do autor do ilícito, regra que é complementada pelo art. 935 do CC, segundo o qual a responsabilidade civil é independente da criminal, dando conteúdo concreto à ressalva constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cf.245",
+  "para": "cpp.64",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 64 do CPP disciplina o procedimento da ação de ressarcimento do dano no juízo cível contra o autor do crime, via processual pela qual se exerce a responsabilidade civil que o art. 245 da CF expressamente preserva ao instituir a assistência estatal aos herdeiros e dependentes carentes da vítima.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "clt.497",
+  "para": "l8213.51",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 51 da Lei 8.213/91 determina que, na aposentadoria por idade compulsória requerida pela empresa, é garantida ao empregado a indenização prevista na legislação trabalhista, remetendo ao regime de indenização por rescisão do empregado estável de que trata o art. 497 da CLT para fixar a reparação devida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "clt.497",
+  "para": "l8036.18",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 497 da CLT prevê indenização em dobro por rescisão do empregado estável quando a empresa se extingue sem força maior, regime da antiga estabilidade decenal, enquanto o parágrafo primeiro do art. 18 da Lei 8.036/90 prevê a multa de quarenta por cento do FGTS devida na despedida sem justa causa, indenizações de regimes distintos e em regra excludentes que podem ser confundidas por tratarem ambas de reparação ao empregado dispensado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cp.121",
+  "para": "cc.948",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 121 do CP tipifica a conduta de matar alguém, enquanto o art. 948 do CC complementa as consequências jurídicas do mesmo fato ao disciplinar a indenização civil devida no caso de homicídio, com despesas de tratamento, funeral e luto da família e prestação de alimentos aos que dele dependiam, consequências penal e civil que coexistem por força da independência das instâncias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cp.121",
+  "para": "cc.1521",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso VII do art. 1.521 do CC impede o casamento do cônjuge sobrevivente com o condenado por homicídio ou tentativa de homicídio contra o seu consorte, remetendo ao crime de homicídio tipificado no art. 121 do CP como pressuposto do impedimento matrimonial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cp.121",
+  "para": "cc.561",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 561 do CC atribui aos herdeiros do doador a ação de revogação da doação por ingratidão no caso de homicídio doloso do doador, remetendo ao crime de homicídio doloso tipificado no art. 121 do CP como fundamento da legitimidade sucessória para a revogação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cp.121",
+  "para": "cpp.78",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 78 do CPP fixa a competência do tribunal do júri para o julgamento de crimes de homicídio, ressalvadas as exceções que prevê, disciplinando o procedimento de determinação da competência para julgar o crime tipificado no art. 121 do CP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cp.121",
+  "para": "cc.1638",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso I do parágrafo único do art. 1.638 do CC prevê a perda do poder familiar por quem pratica homicídio ou feminicídio contra outro titular do mesmo poder familiar, remetendo às modalidades de homicídio e feminicídio tipificadas no art. 121 do CP como causas de perda do poder familiar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cpc.533",
+  "para": "cc.1699",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo terceiro do art. 533 do CPC permite a redução ou o aumento da prestação de alimentos decorrente de indenização por ato ilícito quando sobrevier modificação nas condições econômicas, especializando para a execução de indenização a regra geral do art. 1.699 do CC, que autoriza a revisão dos alimentos de direito de família pela mesma razão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cpc.533",
+  "para": "l11079.21",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O parágrafo primeiro do art. 533 do CPC torna inalienável e impenhorável, como patrimônio de afetação, o capital constituído para garantir a pensão de alimentos decorrente de ato ilícito, técnica semelhante à do patrimônio de afetação do Fundo Garantidor de Parcerias previsto no art. 21 da Lei 11.079/04, institutos de finalidades inteiramente distintas que podem ser confundidos pela técnica jurídica comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
+ },
+ {
+  "de": "cpc.533",
+  "para": "d9580.709",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 709 do RIR/2018 só autoriza a dedução da pensão alimentícia da base de cálculo do imposto de renda quando paga em decorrência das normas do Direito de Família, de modo que pode ser confundido com a prestação de alimentos fixada em execução de indenização por ato ilícito de que trata o art. 533 do CPC, que não decorre do Direito de Família e, por isso, foge àquela hipótese de dedução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T09:18:29+00:00"
  }
 ]
