@@ -22047,5 +22047,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T19:19:08+00:00"
+ },
+ {
+  "de": "cpc.538",
+  "para": "cc.1219",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 538, §§ 1º e 2º, do CPC disciplina o momento processual (alegação em contestação, na fase de conhecimento) para o exercício do direito de retenção por benfeitorias, cujo fundamento material está no art. 1.219 do CC, que assegura ao possuidor de boa-fé o direito de retenção pelas benfeitorias necessárias e úteis. O dispositivo processual regula o procedimento; o civil define o direito em si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T20:19:23+00:00"
+ },
+ {
+  "de": "cpc.538",
+  "para": "cc.1220",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O prazo e a forma de alegação do direito de retenção por benfeitorias previstos no art. 538, §§ 1º e 2º, do CPC aplicam-se também quando discutida a extensão da indenização ao possuidor de má-fé, hipótese em que o art. 1.220 do CC afasta o direito de retenção e restringe o ressarcimento às benfeitorias necessárias. A diferença está em que o dispositivo civil define o alcance material do direito conforme a boa ou a má-fé, enquanto o processual fixa apenas o momento de arguição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T20:19:23+00:00"
+ },
+ {
+  "de": "l8245.5",
+  "para": "cpc.538",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 538 do CPC disciplina, de forma geral, a entrega de coisa mediante busca e apreensão ou imissão na posse. O art. 5º da Lei 8.245/91 excepciona essa via geral para a locação de imóveis, impondo a ação de despejo como meio de retomada, ressalvada, no parágrafo único, a hipótese de desapropriação, em que subsiste a imissão na posse do expropriante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T20:19:23+00:00"
+ },
+ {
+  "de": "lef.40",
+  "para": "cpc.722",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 722 do CPC assegura, de modo geral, que a Fazenda Pública seja ouvida nos casos em que tenha interesse. O § 1º do art. 40 da LEF especializa essa garantia ao determinar que, suspenso o curso da execução fiscal por não localização do devedor ou de bens penhoráveis, seja aberta vista dos autos ao representante judicial da Fazenda Pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T20:19:23+00:00"
+ },
+ {
+  "de": "lef.18",
+  "para": "cpc.722",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 722 do CPC consagra, de modo geral, a oitiva da Fazenda Pública nos casos em que tenha interesse. O art. 18 da LEF especializa essa garantia no procedimento da execução fiscal ao prever a manifestação da Fazenda Pública sobre a garantia da execução quando não opostos os embargos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T20:19:23+00:00"
+ },
+ {
+  "de": "floripa_ctm.182",
+  "para": "ctn.201",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 201 do CTN define, em caráter geral, a constituição da dívida ativa tributária após esgotado o prazo fixado para pagamento. O art. 182 do CTM de Florianópolis especializa esse conceito para a dívida ativa tributária municipal, remetendo o esgotamento do prazo ao termo fixado no inciso I do § 2º de seu art. 465.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T20:19:23+00:00"
+ },
+ {
+  "de": "lef.2",
+  "para": "ctn.201",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 201 do CTN define a dívida ativa tributária propriamente dita, enquanto o art. 2º da LEF complementa esse conceito ao integrá-lo, no mesmo regime de cobrança judicial, ao gênero mais amplo de dívida ativa da Fazenda Pública, que também abrange créditos não tributários, nos termos da Lei 4.320/64.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T20:19:23+00:00"
+ },
+ {
+  "de": "l10522.20-B",
+  "para": "ctn.201",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 201 do CTN disciplina os requisitos para a constituição da dívida ativa tributária mediante inscrição. O art. 20-B da Lei 10.522/02 complementa esse regime ao detalhar o procedimento posterior à inscrição no âmbito federal, determinando a notificação do devedor para pagamento do valor atualizado no prazo de cinco dias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T20:19:23+00:00"
+ },
+ {
+  "de": "cpc.309",
+  "para": "l8397.13",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 13 da Lei 8.397/92 lista as hipóteses de cessação da eficácia da medida cautelar fiscal, sem esgotar a disciplina do instituto. O art. 309 do CPC, que regula de forma correspondente a cessação da eficácia da tutela cautelar antecedente, aplica-se subsidiariamente no que a lei especial for omissa, tratando-se de instituto conexo, pois os incisos de cada dispositivo preveem hipóteses próprias de cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T20:19:23+00:00"
+ },
+ {
+  "de": "lef.26",
+  "para": "l8397.13",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 13 da Lei 8.397/92 prevê a cessação da eficácia da medida cautelar fiscal quando julgada extinta a execução judicial da Dívida Ativa. O art. 26 da LEF complementa essa hipótese ao especificar uma causa de extinção da execução fiscal antes da decisão de primeira instância, o cancelamento da inscrição em Dívida Ativa, sem ônus para as partes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T20:19:23+00:00"
+ },
+ {
+  "de": "cpc.310",
+  "para": "l8397.15",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 15 da Lei 8.397/92 dispõe que o indeferimento da medida cautelar fiscal não obsta a execução judicial da Dívida Ativa, nem influi no seu julgamento, salvo reconhecimento de causa extintiva da pretensão. O art. 310 do CPC estabelece regra equivalente para a tutela cautelar em geral, aplicando-se subsidiariamente no que a lei especial não disciplina, tratando-se de institutos conexos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T20:19:23+00:00"
+ },
+ {
+  "de": "l10522.23",
+  "para": "l8397.15",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 15 da Lei 8.397/92 admite a conversão do depósito em renda como causa de extinção da pretensão discutida na cautelar fiscal. O art. 23 da Lei 10.522/02 complementa esse instituto ao fixar o prazo máximo de quinze dias, contado da data do despacho judicial que acolher a petição, para a expedição do ofício ao depositário que deva proceder à conversão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T20:19:23+00:00"
+ },
+ {
+  "de": "l8397.16",
+  "para": "cpp.148",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 16 da Lei 8.397/92 nega efeito de coisa julgada, quanto à execução da Dívida Ativa, à sentença proferida na medida cautelar fiscal. O art. 148 do CPP também nega efeito de coisa julgada, em prejuízo de ulterior processo penal ou civil, à decisão nele referida, mas em contexto e fundamento diversos, o que exige cautela para não se transporem as razões de um regime para o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T20:19:23+00:00"
  }
 ]
