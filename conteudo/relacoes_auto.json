@@ -21797,5 +21797,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T16:22:13+00:00"
+ },
+ {
+  "de": "cc.1189",
+  "para": "lsa.176",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 1.189 do Código Civil determina que o balanço de resultado econômico, ou demonstração da conta de lucros e perdas, acompanhe o balanço patrimonial na forma da lei especial. O art. 176 da Lei das Sociedades Anônimas é essa lei especial: seu inciso I prevê o balanço patrimonial e seu inciso III a demonstração do resultado do exercício, entre as demonstrações financeiras que a diretoria deve elaborar ao fim de cada exercício social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T17:19:19+00:00"
+ },
+ {
+  "de": "cc.835",
+  "para": "cpp.322",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A fiança do art. 835 do Código Civil é garantia pessoal convencional que o fiador pode exonerar a qualquer tempo, com efeitos residuais de 60 dias após a notificação ao credor. A fiança do art. 322 do Código de Processo Penal é caução processual penal, concedida pela autoridade policial ou, nos demais casos, pelo juiz, para a soltura do preso. Os institutos são homônimos, mas regulam matérias inteiramente distintas, o que gera risco real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T17:19:19+00:00"
+ },
+ {
+  "de": "ctn.191",
+  "para": "l11101.102",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 191 do CTN condiciona a extinção das obrigações do falido à prova de quitação de todos os tributos. O art. 102 da Lei 11.101/05 faz cessar a inabilitação do falido para o exercício de atividade empresarial justamente com a sentença que extingue suas obrigações, de modo que o requisito tributário do art. 191 do CTN complementa o que encerra o período de inabilitação previsto no art. 102.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T17:19:19+00:00"
+ },
+ {
+  "de": "floripa_ctm.108",
+  "para": "l11101.102",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 108 do Código Tributário do Município de Florianópolis reproduz, no âmbito municipal, a exigência de quitação de todos os tributos relativos à atividade mercantil como condição para a extinção das obrigações do falido. Essa exigência complementa, com os tributos municipais, o mesmo marco de extinção das obrigações que faz cessar a inabilitação empresarial prevista no art. 102 da Lei 11.101/05.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T17:19:19+00:00"
+ },
+ {
+  "de": "l8212.21",
+  "para": "lcp123.18-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "A alínea a do inciso II do § 2º do art. 21 da Lei 8.212/91 refere-se expressamente ao microempreendedor individual de que trata o art. 18-A da Lei Complementar 123/06, para fixar em 5% a alíquota de contribuição previdenciária dessa categoria de segurado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T17:19:19+00:00"
+ },
+ {
+  "de": "lcp123.80",
+  "para": "l8212.21",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 80 da Lei Complementar 123/06 é o dispositivo que acrescentou os §§ 2º e 3º ao art. 21 da Lei 8.212/91, convertendo o parágrafo único então existente em § 1º. O texto desses parágrafos no art. 21 reproduz a alteração promovida pelo art. 80.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T17:19:19+00:00"
+ },
+ {
+  "de": "cf.201",
+  "para": "l8212.21",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 201 da CF institui o Regime Geral de Previdência Social sob caráter contributivo e de filiação obrigatória. O art. 21 da Lei 8.212/91 regulamenta esse caráter contributivo ao fixar a alíquota de contribuição devida pelo segurado contribuinte individual e pelo segurado facultativo ao regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T17:19:19+00:00"
+ },
+ {
+  "de": "l8212.45-A",
+  "para": "l8213.55",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 45-A da Lei 8.212/91 refere-se expressamente ao § 1º do art. 55 da Lei 8.213/91 para fixar a base de cálculo da indenização devida pelo contribuinte individual que pretenda contar, como tempo de contribuição, período de atividade remunerada alcançado pela decadência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T17:19:19+00:00"
+ },
+ {
+  "de": "l8212.45-A",
+  "para": "l8213.96",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 96 da Lei 8.213/91 integra o conjunto de normas sobre a contagem recíproca do tempo de contribuição ou de serviço a que se refere o inciso II do § 1º do art. 45-A da Lei 8.212/91, ao mencionar expressamente os arts. 94 a 99 da Lei 8.213/91.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T17:19:19+00:00"
+ },
+ {
+  "de": "l8212.45-A",
+  "para": "cf.40",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso II do § 1º do art. 45-A da Lei 8.212/91 refere-se ao regime próprio de previdência social a que esteja filiado o interessado, para fins de contagem recíproca. O art. 40 da CF é o dispositivo que institui esse regime próprio, de caráter contributivo e solidário, para os servidores titulares de cargos efetivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T17:19:19+00:00"
+ },
+ {
+  "de": "l8245.28",
+  "para": "cc.516",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 28 da Lei 8.245/91 estabelece que o direito de preferência do locatário caduca se a aceitação integral à proposta não for manifestada em 30 dias. O art. 516 do Código Civil prevê a caducidade do direito de preempção em prazo diferente, de 60 dias para bem imóvel, contado da notificação do comprador ao vendedor. Os institutos tratam de direitos de preferência distintos, com origem e prazos próprios, e o risco de se aplicar por engano o prazo geral do Código Civil à preferência do locatário é real.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T17:19:19+00:00"
  }
 ]
