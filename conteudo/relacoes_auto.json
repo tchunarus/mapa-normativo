@@ -20537,5 +20537,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T00:10:44+00:00"
+ },
+ {
+  "de": "cf.40",
+  "para": "l8213.57",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 4º-C do art. 40 da Constituição permite que lei complementar do ente federativo estabeleça idade e tempo de contribuição diferenciados para aposentadoria de servidores expostos a agentes químicos, físicos e biológicos prejudiciais à saúde; o art. 57 da Lei 8.213/91 disciplina instituto assemelhado no Regime Geral, a aposentadoria especial por sujeição a condições especiais que prejudiquem a saúde ou a integridade física, com requisitos e regime jurídico próprios que não se confundem com os do regime próprio dos servidores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T01:13:02+00:00"
+ },
+ {
+  "de": "cf.40",
+  "para": "l8213.18",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 40 da Constituição elenca as hipóteses de aposentadoria do servidor amparado por regime próprio, como a aposentadoria por incapacidade permanente e a compulsória por idade; a alínea d do inciso I do art. 18 da Lei 8.213/91 prevê, no Regime Geral de Previdência Social, a aposentadoria especial como prestação distinta, de modo que a semelhança de nomenclatura entre os benefícios dos dois regimes pode induzir confusão quanto aos requisitos e à competência de cada sistema previdenciário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T01:13:02+00:00"
+ },
+ {
+  "de": "clt.133",
+  "para": "l8213.63",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 63 da Lei 8.213/91 estabelece que o segurado empregado em gozo de auxílio-doença é considerado pela empresa como licenciado; o inciso IV do art. 133 da CLT toma esse mesmo afastamento como pressuposto para, após seis meses de percepção de auxílio-doença, ainda que descontínuos, fazer cessar a aquisição do direito a férias relativas ao período em curso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T01:13:02+00:00"
+ },
+ {
+  "de": "clt.133",
+  "para": "l8213.118",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 133 da CLT faz cessar a aquisição de férias quando o empregado recebe auxílio-doença ou auxílio-acidente de trabalho por mais de seis meses; o art. 118 da Lei 8.213/91 complementa essa disciplina ao assegurar, após a cessação do auxílio-doença acidentário, estabilidade mínima de doze meses no emprego, de modo que os dois dispositivos regulam, em momentos sucessivos, consequências trabalhistas do mesmo afastamento previdenciário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T01:13:02+00:00"
+ },
+ {
+  "de": "l8213.71-A",
+  "para": "clt.392-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 392-A da CLT assegura à empregada ou ao empregado que adota ou obtém guarda judicial para fins de adoção licença-maternidade de cento e vinte dias; o art. 71-A da Lei 8.213/91 complementa essa proteção ao garantir, pelo mesmo período, o pagamento do salário-maternidade pela Previdência Social ao segurado ou segurada que adota, de modo que um disciplina o afastamento do trabalho e o outro a renda substitutiva durante esse afastamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T01:13:02+00:00"
+ },
+ {
+  "de": "l8213.71-A",
+  "para": "cf.201",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 201 da Constituição inclui, entre as finalidades da previdência social, a proteção à maternidade, especialmente à gestante; o art. 71-A da Lei 8.213/91 regulamenta essa proteção ao estendê-la ao segurado ou segurada que adota ou obtém guarda judicial para fins de adoção, garantindo-lhe salário-maternidade por cento e vinte dias, hipótese distinta da maternidade biológica expressamente mencionada no texto constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T01:13:02+00:00"
+ },
+ {
+  "de": "l8213.71-C",
+  "para": "clt.392",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 392 da CLT garante à empregada gestante licença-maternidade de cento e vinte dias, sem prejuízo do emprego e do salário; o art. 71-C da Lei 8.213/91 complementa essa proteção ao condicionar a percepção do salário-maternidade correspondente ao efetivo afastamento do trabalho ou da atividade desempenhada, sob pena de suspensão do benefício, de modo que a renda previdenciária pressupõe o gozo da licença trabalhista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T01:13:02+00:00"
+ },
+ {
+  "de": "l8212.30",
+  "para": "l8213.72",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 30 da Lei 8.212/91 disciplina o procedimento de arrecadação e recolhimento das contribuições devidas à Seguridade Social, impondo à empresa o dever de arrecadar as contribuições dos segurados e recolher, na mesma data da legislação trabalhista, as contribuições a seu cargo; o § 1º do art. 72 da Lei 8.213/91 toma esse mesmo recolhimento como momento em que se efetiva a compensação do salário-maternidade pago pela empresa à segurada empregada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T01:13:02+00:00"
+ },
+ {
+  "de": "l8213.74",
+  "para": "cc.1814",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 74 da Lei 8.213/91, na redação dada pela Lei nº 13.846, de 2019, faz perder o direito à pensão por morte o condenado criminalmente, por sentença com trânsito em julgado, como autor, coautor ou partícipe de homicídio doloso contra a pessoa do segurado; o inciso I do art. 1.814 do Código Civil trata de instituto distinto, a indignidade sucessória, que exclui da herança quem pratica o mesmo crime contra o autor da herança, mas depende de sentença declaratória autônoma, o que pode induzir o profissional a presumir, equivocadamente, que também a perda do benefício previdenciário exige ação civil própria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T01:13:02+00:00"
+ },
+ {
+  "de": "l8213.76",
+  "para": "cc.1704",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.704 do Código Civil impõe ao cônjuge não declarado culpado a obrigação de prestar alimentos ao outro cônjuge separado judicialmente que deles necessite; o § 3º do art. 76 da Lei 8.213/91 complementa essa proteção ao determinar que, se o segurado falecido estava, na data do óbito, obrigado por decisão judicial a pagar alimentos temporários a ex-cônjuge, a pensão por morte seja devida pelo prazo remanescente dessa obrigação, substituindo a prestação alimentícia extinta pela morte do devedor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T01:13:02+00:00"
+ },
+ {
+  "de": "l8213.76",
+  "para": "cpc.687",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 76 da Lei 8.213/91 trata da habilitação de dependente ao benefício de pensão por morte, ato que apenas define o termo inicial de inclusão ou exclusão no rateio da pensão; o art. 687 do CPC emprega a mesma palavra para designar instituto processual distinto, a habilitação dos sucessores da parte falecida no processo, podendo o termo induzir confusão entre os dois procedimentos, de naturezas administrativa e processual diversas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T01:13:02+00:00"
  }
 ]
