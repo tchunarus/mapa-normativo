@@ -22177,5 +22177,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T20:19:23+00:00"
+ },
+ {
+  "de": "l8397.2",
+  "para": "ctn.185",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 2º da Lei 8.397/92 prevê a alienação de bens pelo devedor em situação de insolvência como hipótese de cabimento da medida cautelar fiscal, enquanto o art. 185 do CTN presume fraudulenta a alienação de bens pelo sujeito passivo em débito já inscrito em dívida ativa. Os dois dispositivos tratam de institutos conexos, voltados à proteção do crédito contra atos de disposição patrimonial do devedor, mas um autoriza medida judicial preventiva e o outro estabelece presunção civil sobre ato já praticado, o que exige cuidado para não se confundir o pressuposto de cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T21:19:19+00:00"
+ },
+ {
+  "de": "l8397.2",
+  "para": "cc.955",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 2º da Lei 8.397/92 inclui, entre as hipóteses de cabimento da medida cautelar fiscal, o devedor que cai em insolvência e aliena ou tenta alienar bens, sem exigir a declaração judicial de insolvência civil de que trata o art. 955 do Código Civil. Os institutos são conexos, pois ambos partem da ideia de insolvência patrimonial, mas há risco de se exigir indevidamente, para a cautelar fiscal, a declaração formal de insolvência civil, que tem processo e efeitos próprios e autônomos em relação ao crédito fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T21:19:19+00:00"
+ },
+ {
+  "de": "l8397.4",
+  "para": "l8429.16",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 4º da Lei 8.397/92 decreta a indisponibilidade dos bens do requerido como efeito automático da medida cautelar fiscal, sem exigir demonstração de perigo de dano no caso concreto. O art. 16 da Lei 8.429/92 prevê indisponibilidade de bens semelhante na ação de improbidade administrativa, mas o § 3º desse artigo exige a demonstração da probabilidade dos atos descritos na petição inicial e do perigo de dano ou risco ao resultado útil do processo, salvo a hipótese do § 4º de proteção liminar sem oitiva prévia. Os institutos são conexos e sujeitos a confusão quanto aos requisitos exigidos para a constrição patrimonial em cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T21:19:19+00:00"
+ },
+ {
+  "de": "l8397.5",
+  "para": "lef.5",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 5º da LEF fixa a competência exclusiva do juízo da execução da Dívida Ativa da Fazenda Pública, afastando a de qualquer outro juízo, inclusive o da falência e da insolvência. O art. 5º da Lei 8.397/92 complementa esse mesmo regime de competência ao determinar que a medida cautelar fiscal seja requerida ao mesmo juízo competente para a execução fiscal, estendendo essa exclusividade também à fase cautelar que antecede ou acompanha a cobrança judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T21:19:19+00:00"
+ },
+ {
+  "de": "l8397.7",
+  "para": "cpc.300",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 300 do CPC exige, como regra geral para a concessão da tutela de urgência, a demonstração da probabilidade do direito e do perigo de dano, podendo o juiz, pelo § 1º, exigir caução real ou fidejussória. O art. 7º da Lei 8.397/92 excepciona esse regime geral ao conceder liminarmente a medida cautelar fiscal em favor da Fazenda Pública, dispensando a justificação prévia e a prestação de caução, tratando-se de institutos conexos quanto à tutela de urgência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T21:19:19+00:00"
+ },
+ {
+  "de": "l8397.7",
+  "para": "l7347.12",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 7º da Lei 8.397/92 permite a concessão liminar da medida cautelar fiscal, com ou sem justificação prévia, sujeita a agravo de instrumento conforme o parágrafo único. O art. 12 da Lei 7.347/85 também permite o mandado liminar com ou sem justificação prévia em ação civil pública, igualmente sujeito a agravo, mas trata de pretensão e legitimidade distintas, sendo instituto conexo que pode ser confundido com o da medida cautelar fiscal quanto aos requisitos de concessão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T21:19:19+00:00"
+ },
+ {
+  "de": "l8397.9",
+  "para": "cpc.307",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 307 do CPC estabelece, como regra geral da tutela cautelar antecedente, que a ausência de contestação do pedido gera presunção de veracidade dos fatos alegados pelo autor, devendo o juiz decidir em cinco dias. O art. 9º da Lei 8.397/92 especializa essa mesma regra para a medida cautelar fiscal, mantendo a presunção de veracidade dos fatos alegados pela Fazenda Pública, mas ampliando o prazo de decisão para dez dias, e remetendo, no parágrafo único, ao rito comum de audiência de instrução e julgamento quando houver contestação tempestiva.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T21:19:19+00:00"
+ },
+ {
+  "de": "l8429.12",
+  "para": "cp.92",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso I do caput do art. 12 da Lei 8.429/92 comina a perda da função pública como sanção pelo ato de improbidade que importe enriquecimento ilícito. O inciso I do art. 92 do Código Penal também prevê a perda de cargo ou função pública como efeito da condenação criminal, mas limitado aos casos de pena privativa de liberdade por tempo igual ou superior a um ano em crimes contra a administração pública, ou superior a quatro anos nos demais casos, conforme as alíneas a e b desse inciso, tratando-se de institutos conexos com pressupostos e naturezas de responsabilização distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T21:19:19+00:00"
+ },
+ {
+  "de": "l8429.14",
+  "para": "l8137.16",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 14 da Lei 8.429/92 permite que qualquer pessoa represente à autoridade administrativa para que se apure a prática de ato de improbidade, exigindo, no § 1º, a qualificação do representante e a indicação das informações e provas sobre o fato e a autoria. O art. 16 da Lei 8.137/90 prevê o mesmo instituto para os crimes contra a ordem tributária, econômica e as relações de consumo, também exigindo informações por escrito sobre o fato e a autoria, mas dirigidas à provocação do Ministério Público, e não à autoridade administrativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T21:19:19+00:00"
  }
 ]
