@@ -21217,5 +21217,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T11:19:58+00:00"
+ },
+ {
+  "de": "cpp.350-A",
+  "para": "cpc.536",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 350-A do CPP determina a aplicação, no que couber, do CPC às medidas protetivas de urgência ali previstas, e o art. 536 do CPC autoriza o juiz a determinar, entre outras medidas, a requisição de auxílio de força policial para efetivar a tutela, mecanismo análogo ao previsto no § 3º do mesmo art. 350-A.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T12:29:23+00:00"
+ },
+ {
+  "de": "cpp.350-A",
+  "para": "cp.338-A",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 350-A do CPP disciplina o procedimento para a concessão das medidas protetivas de urgência ao autor de crime contra a dignidade sexual, e o art. 338-A do CP tipifica o descumprimento de decisão judicial que defere essas mesmas medidas, de modo que os dois dispositivos tratam de institutos conexos (a concessão e a sanção penal pelo desrespeito à medida).",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T12:29:23+00:00"
+ },
+ {
+  "de": "cpp.350-A",
+  "para": "l9099.69",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 350-A do CPP prevê o afastamento do lar, domicílio ou local de convivência com a vítima como medida protetiva em crimes contra a dignidade sexual, e o parágrafo único do art. 69 da Lei 9.099/95 prevê medida de afastamento do lar em caso de violência doméstica apurada no Juizado Especial Criminal, havendo risco de se confundir qual regime disciplina a medida em cada hipótese.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T12:29:23+00:00"
+ },
+ {
+  "de": "cpp.77",
+  "para": "cpc.56",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 77 do CPP define a continência processual penal pela acusação de duas ou mais pessoas pela mesma infração ou pelas condições dos arts. 51, 53 e 54 do CP, enquanto o art. 56 do CPC define a continência civil pela identidade de partes e causa de pedir com pedido mais amplo, de modo que o mesmo termo designa institutos distintos em cada ramo processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T12:29:23+00:00"
+ },
+ {
+  "de": "l9099.60",
+  "para": "cpp.77",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 60 da Lei 9.099/95 condiciona a competência do Juizado Especial Criminal à observância das regras de conexão e continência sem as redefinir, remetendo à disciplina da continência prevista no art. 77 do CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T12:29:23+00:00"
+ },
+ {
+  "de": "cpp.93",
+  "para": "cpc.313",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 93 do CPP permite a suspensão do processo penal quando o reconhecimento da infração depender de questão diversa, de difícil solução, da competência do juízo cível, e o inciso V, alínea a, do art. 313 do CPC prevê a suspensão do processo civil quando a sentença de mérito depender do julgamento de outra causa, disciplinando ambos o mesmo instituto da suspensão por questão prejudicial pendente em outro processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T12:29:23+00:00"
+ },
+ {
+  "de": "cpp.93",
+  "para": "cc.935",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 93 do CPP disciplina a suspensão do processo penal à espera da solução, pelo juízo cível, de questão diversa da existência da infração, e o art. 935 do CC estabelece que a existência do fato e a autoria não podem mais ser questionadas no cível quando já decididas no juízo criminal, tratando de institutos conexos quanto à relação entre as jurisdições cível e criminal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T12:29:23+00:00"
+ },
+ {
+  "de": "l11079.21",
+  "para": "cc.1227",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 21 da Lei 11.079/04 exige, no caso de bem imóvel, o registro no Cartório de Registro Imobiliário para a constituição do patrimônio de afetação do Fundo Garantidor de Parcerias, aplicação específica do princípio geral do art. 1.227 do CC, segundo o qual os direitos reais sobre imóveis só se adquirem mediante registro no Cartório de Registro de Imóveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T12:29:23+00:00"
+ },
+ {
+  "de": "l11079.21",
+  "para": "cc.1432",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 21 da Lei 11.079/04 prevê, como regra geral, o registro em Cartório de Registro de Títulos e Documentos para a constituição do patrimônio de afetação do Fundo Garantidor de Parcerias, no mesmo tipo de cartório em que o art. 1.432 do CC determina o registro do instrumento de penhor comum, ambos tratando da formalização de garantias mediante registro em Títulos e Documentos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T12:29:23+00:00"
+ },
+ {
+  "de": "l11101.181",
+  "para": "cp.93",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 181 da Lei 11.101/05 admite que os efeitos da condenação por crime falimentar cessem antes do prazo de cinco anos pela reabilitação penal, instituto que a Lei 11.101/05 não disciplina e que é regido, na omissão desta, pelo art. 93 do CP, segundo o qual a reabilitação pode atingir os efeitos da condenação previstos no art. 92 do CP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T12:29:23+00:00"
+ },
+ {
+  "de": "l14133.62",
+  "para": "l13303.58",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 62 da Lei 14.133/21 divide a habilitação em licitações da Administração Pública em quatro vertentes (jurídica, técnica, fiscal, social e trabalhista, e econômico-financeira), e o art. 58 da Lei 13.303/16 fixa parâmetros próprios e distintos para a habilitação nas licitações de empresas estatais, havendo risco real de se aplicar indevidamente os critérios de um regime ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T12:29:23+00:00"
+ },
+ {
+  "de": "l14133.62",
+  "para": "ctn.187",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 62 da Lei 14.133/21 usa 'habilitação' para designar a fase da licitação em que se verifica a capacidade do licitante, enquanto o art. 187 do CTN usa o mesmo termo para a admissão de créditos em concurso de credores na falência ou recuperação judicial, institutos homônimos que apenas compartilham a palavra, sem qualquer relação de conteúdo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T12:29:23+00:00"
  }
 ]
