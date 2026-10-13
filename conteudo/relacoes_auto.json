@@ -21697,5 +21697,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T15:18:13+00:00"
+ },
+ {
+  "de": "cc.973",
+  "para": "l11101.102",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "A inabilitação do falido para exercer atividade empresarial, prevista no art. 102 da Lei 11.101/2005, é hipótese específica do impedimento legal genérico a que se refere o art. 973 do Código Civil, cuja consequência (responsabilidade do impedido pelas obrigações que ainda assim contrair) permanece aplicável ao falido que exercer atividade durante o período de inabilitação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T16:22:13+00:00"
+ },
+ {
+  "de": "cp.337-N",
+  "para": "l14133.337-N",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 337-N do Código Penal foi inserido pela Lei 14.133/2021, cujo próprio texto, no capítulo de alterações legislativas, reproduz a mesma redação ora incluída no Código Penal, tipificando a conduta de obstar, impedir ou dificultar injustamente a inscrição em registros cadastrais ou de promover indevidamente a alteração, a suspensão ou o cancelamento do registro do inscrito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T16:22:13+00:00"
+ },
+ {
+  "de": "cpc.606",
+  "para": "cc.1031",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 606 do CPC detalha o procedimento de apuração de haveres do sócio em cuja relação a sociedade se resolver, hipótese cuja base patrimonial e cujo critério temporal, o balanço levantado na data da resolução, já estão fixados pelo art. 1.031 do Código Civil, ao qual o dispositivo processual dá efetividade por meio da perícia de determinação do valor do ativo e do passivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T16:22:13+00:00"
+ },
+ {
+  "de": "d9580.286",
+  "para": "lsa.186",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 286 do RIR/2018 determina que o lucro líquido do período seja apurado em observância às disposições da Lei 6.404/1976, cujo art. 186 detalha exatamente a demonstração de lucros ou prejuízos acumulados que compõe esse lucro líquido, com o saldo final a ser transferido para o patrimônio líquido da sociedade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T16:22:13+00:00"
+ },
+ {
+  "de": "d9580.286",
+  "para": "cc.1189",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O balanço de resultado econômico previsto no art. 1.189 do Código Civil remete à lei especial para a forma de sua elaboração, e é justamente essa forma que o art. 286 do RIR/2018 regulamenta para fins de apuração do lucro líquido do período, exigindo a transcrição dos balanços ou balancetes no livro diário ou no Lalur.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T16:22:13+00:00"
+ },
+ {
+  "de": "d9580.286",
+  "para": "lsa.189",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A demonstração do resultado do exercício de que trata o art. 189 da Lei 6.404/1976, da qual se deduzem os prejuízos acumulados e a provisão para o Imposto de Renda antes de qualquer participação, não se confunde com o lucro líquido do período de apuração do art. 286 do RIR/2018, pois este último já reflete os ajustes fiscais do Lalur e pode divergir do resultado contábil societário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T16:22:13+00:00"
+ },
+ {
+  "de": "l8213.94",
+  "para": "lcp123.83",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 94 da Lei 8.213/1991, que exclui da contagem recíproca o período em que o segurado contribuinte individual ou facultativo contribuiu com a alíquota reduzida do art. 21 da Lei 8.212/1991, foi acrescido pelo art. 83 da Lei Complementar 123/2006, que também converteu o antigo parágrafo único do art. 94 em § 1º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T16:22:13+00:00"
+ },
+ {
+  "de": "l8213.94",
+  "para": "l8212.21",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "A ressalva do § 2º do art. 94 da Lei 8.213/1991 relaciona-se diretamente com o § 2º do art. 21 da Lei 8.212/1991, que reduziu a alíquota de contribuição do segurado contribuinte individual ou facultativo que optar por excluir o direito à aposentadoria por tempo de contribuição, período esse que, por força da remissão, não é computado para a contagem recíproca.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T16:22:13+00:00"
+ },
+ {
+  "de": "l8213.94",
+  "para": "l8212.45-A",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O requisito de indenização ao INSS para que o contribuinte individual conte, para fins de benefício do Regime Geral de Previdência Social ou de contagem recíproca do tempo de contribuição, período de atividade remunerada alcançado pela decadência, previsto no art. 45-A da Lei 8.212/1991, especializa, para essa hipótese de decadência, o regime de contagem recíproca estabelecido de forma geral pelo art. 94 da Lei 8.213/1991.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T16:22:13+00:00"
+ },
+ {
+  "de": "l8245.12",
+  "para": "cc.835",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 12 da Lei 8.245/1991 especializa, para a sub-rogação da locação residencial decorrente de separação ou divórcio, o prazo geral de exoneração do fiador fixado no art. 835 do Código Civil, pois reduz para 30 dias o prazo para o fiador exonerar-se e fixa em 120 dias, contados da notificação ao locador, o período de responsabilidade subsequente, enquanto o art. 835 prevê prazo de sessenta dias para ambos os efeitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T16:22:13+00:00"
  }
 ]
