@@ -20487,5 +20487,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-12T23:15:41+00:00"
+ },
+ {
+  "de": "l8213.1",
+  "para": "cf.201",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Lei 8.213/91 regulamenta o mandamento do caput do art. 201 da Constituição Federal, que determina a organização da previdência social sob a forma do Regime Geral de Previdência Social de caráter contributivo e de filiação obrigatória, detalhando em lei ordinária a finalidade protetiva ali prevista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T00:10:44+00:00"
+ },
+ {
+  "de": "l8213.1",
+  "para": "cf.40",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos tratam de regimes previdenciários contributivos distintos e são institutos conexos com risco real de confusão na prática: o art. 1º da Lei 8.213/91 define a finalidade do Regime Geral de Previdência Social, destinado aos trabalhadores em geral, enquanto o art. 40 da Constituição Federal rege o regime próprio de previdência social dos servidores titulares de cargos efetivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T00:10:44+00:00"
+ },
+ {
+  "de": "l8213.60",
+  "para": "cf.201",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 60 da Lei 8.213/91 regulamenta o inciso I do art. 201 da Constituição Federal, que assegura a cobertura do evento incapacidade temporária para o trabalho, disciplinando o termo inicial e as condições do auxílio-doença.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T00:10:44+00:00"
+ },
+ {
+  "de": "l8213.60",
+  "para": "clt.476",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos tratam do mesmo evento, o afastamento do empregado por auxílio-doença, sob ângulos conexos e complementares: o art. 60 da Lei 8.213/91 disciplina o termo inicial e a duração do benefício previdenciário, enquanto o art. 476 da CLT detalha o efeito desse mesmo afastamento sobre o contrato de trabalho, considerando o empregado em licença durante o prazo do benefício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T00:10:44+00:00"
+ },
+ {
+  "de": "l8213.60",
+  "para": "clt.133",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 133 da CLT retira o direito a férias do empregado que tiver percebido auxílio-doença por mais de seis meses, ainda que descontínuos, complementando no plano trabalhista a disciplina do auxílio-doença prevista no art. 60 da Lei 8.213/91 ao atribuir consequência específica à percepção prolongada desse benefício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T00:10:44+00:00"
  }
 ]
