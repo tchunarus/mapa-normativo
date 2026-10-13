@@ -20647,5 +20647,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T01:13:02+00:00"
+ },
+ {
+  "de": "cpc.731",
+  "para": "cc.1704",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 731 do CPC disciplina o procedimento de homologação do divórcio ou da separação consensuais, exigindo que a petição conjunta contemple as disposições relativas à pensão alimentícia entre os cônjuges; essa pensão é a mesma obrigação alimentar que o art. 1.704 do Código Civil impõe ao cônjuge não declarado culpado na separação judicial, perante o outro cônjuge que dela necessite.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "cc.1704",
+  "para": "cpc.533",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.704 do Código Civil trata da pensão alimentícia devida entre cônjuges separados judicialmente, obrigação de direito de família fixada pelo juiz conforme a necessidade do credor; o art. 533 do CPC emprega a mesma palavra pensão para designar a renda mensal assegurada por capital constituído em razão de indenização por ato ilícito, instituto de responsabilidade civil que nada tem a ver com o vínculo conjugal, existindo apenas ponto de contato terminológico entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "cc.1814",
+  "para": "cp.121",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 1.814 do Código Civil exclui da sucessão o herdeiro que tenha sido autor, coautor ou partícipe de homicídio doloso, ou de tentativa deste, contra o autor da herança, seu cônjuge, companheiro, ascendente ou descendente, remetendo implicitamente à definição do crime de homicídio tipificado no art. 121 do Código Penal, cujo dolo qualifica a indignidade sucessória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "cc.1814",
+  "para": "cf.245",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O inciso I do art. 1.814 do Código Civil exclui da sucessão o herdeiro que praticou homicídio doloso contra o autor da herança, retirando direitos justamente do agressor; o art. 245 da Constituição Federal assegura assistência do Poder Público aos herdeiros e dependentes carentes de vítimas de crime doloso, beneficiando a posição oposta, a da vítima, existindo entre os dispositivos apenas o ponto de contato da referência comum a herdeiros e a crime doloso, sem que tratem do mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "cpc.687",
+  "para": "cc.1526",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 687 do CPC emprega habilitação para designar o incidente processual pelo qual os sucessores substituem a parte falecida no processo; o art. 1.526 do Código Civil usa a mesma palavra para a habilitação para casamento, ato personalíssimo perante o oficial do Registro Civil que nada tem relação com sucessão processual, havendo apenas homonímia entre os institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "cpc.687",
+  "para": "l14133.65",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 687 do CPC trata da habilitação como sucessão processual decorrente do falecimento de parte; o art. 65 da Lei 14.133/21 usa a mesma palavra para as condições de habilitação exigidas do licitante no procedimento licitatório, instituto de direito administrativo sem qualquer relação com o falecimento de partes em processo judicial, havendo apenas homonímia entre os termos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "cpc.687",
+  "para": "lcp214.314",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 687 do CPC regula a habilitação como sucessão processual de parte falecida; o art. 314 da LC 214/2025 utiliza a mesma palavra para a habilitação fiscal que autoriza a fruição de crédito presumido, cujo cancelamento ou suspensão nada se relaciona com o falecimento de parte em processo, restando apenas homonímia entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "cpc.687",
+  "para": "cc.1787",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 687 do CPC trata de suceder como sinônimo de substituir processualmente a parte falecida, instituto estritamente processual; o art. 1.787 do Código Civil emprega sucessão no sentido de direito das sucessões, ao determinar que a lei vigente à abertura da sucessão rege a legitimação para suceder na herança, existindo risco de se confundir a sucessão processual com a sucessão hereditária, institutos distintos que apenas se tocam na terminologia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "l8213.118",
+  "para": "clt.497",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 118 da Lei 8.213/91 assegura ao segurado acidentado a manutenção do contrato de trabalho por doze meses após a cessação do auxílio-doença acidentário, garantia de emprego de natureza previdenciária e temporária; o art. 497 da CLT trata da estabilidade do empregado estável do regime anterior ao FGTS optativo, garantindo indenização em dobro na extinção da empresa, instituto conexo de proteção ao emprego mas fundado em regime e origem distintos, o que exige cuidado para não confundir as duas garantias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "l8213.118",
+  "para": "clt.131",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 131 da CLT dispõe que não se considera falta ao serviço a ausência do empregado por motivo de acidente do trabalho ou enfermidade atestada pelo INSS, preservando o vínculo durante o afastamento; o art. 118 da Lei 8.213/91 complementa essa proteção ao garantir, após a cessação do auxílio-doença acidentário, a manutenção do contrato de trabalho por mais doze meses, estendendo no tempo a tutela do emprego do segurado acidentado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "l8213.78",
+  "para": "cc.7",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 78 da Lei 8.213/91 concede pensão provisória por morte presumida do segurado declarada pela autoridade judicial após seis meses de ausência, hipótese que pressupõe a decretação de ausência; o art. 7º do Código Civil regula a morte presumida sem decretação de ausência, aplicável apenas quando for extremamente provável a morte de quem estava em perigo de vida ou ao desaparecido em campanha, hipótese distinta daquela do benefício previdenciário, existindo risco de se confundir as duas modalidades de morte presumida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "l8213.78",
+  "para": "cc.1926",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 78 da Lei 8.213/91 trata da pensão provisória por morte presumida do segurado, benefício previdenciário custeado pelo regime geral; o art. 1.926 do Código Civil usa a mesma palavra pensão para o legado de renda vitalícia ou periódica deixado pelo testador, contado da morte deste, instituto de direito das sucessões sem qualquer relação com a previdência social, havendo apenas homonímia entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "l8213.80",
+  "para": "l8212.3",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 3º da Lei 8.212/91 fixa como finalidade da Previdência Social assegurar aos beneficiários meios de manutenção também em caso de reclusão daqueles de quem dependiam economicamente; o art. 80 da Lei 8.213/91 regulamenta especificamente esse objetivo ao disciplinar o auxílio-reclusão devido aos dependentes do segurado de baixa renda recolhido à prisão em regime fechado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "l8213.89",
+  "para": "l14133.163",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 89 da Lei 8.213/91 trata da reabilitação profissional e social do segurado incapacitado, voltada à sua reinserção no mercado de trabalho; o art. 163 da Lei 14.133/21 usa a mesma palavra para a reabilitação do licitante ou contratado penalizado perante a Administração Pública, instituto de direito administrativo sancionador que nada tem relação com a reabilitação previdenciária, existindo apenas homonímia entre os termos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "l8213.89",
+  "para": "l14133.62",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 89 da Lei 8.213/91 emprega habilitação como parte da reabilitação profissional e social do segurado incapacitado; o art. 62 da Lei 14.133/21 utiliza o mesmo termo para a fase de habilitação jurídica, técnica, fiscal, social e trabalhista e econômico financeira do licitante no procedimento licitatório, instituto de direito administrativo sem relação com a reabilitação de pessoas com deficiência, havendo apenas homonímia entre os institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
+ },
+ {
+  "de": "l8213.89",
+  "para": "cpp.698",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 89 da Lei 8.213/91 assegura habilitação profissional ao beneficiário incapacitado como meio de reinserção no mercado de trabalho; o § 2º do art. 698 do CPP usa a mesma expressão habilitação profissional como condição imposta ao condenado na suspensão condicional do processo, instituto de direito processual penal que nada se relaciona com a reabilitação previdenciária, existindo apenas homonímia entre as expressões.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T06:10:19+00:00"
  }
 ]
