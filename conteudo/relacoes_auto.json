@@ -22477,5 +22477,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T22:18:53+00:00"
+ },
+ {
+  "de": "cf.15",
+  "para": "l8429.12",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 15 da CF prevê a suspensão dos direitos políticos nos casos de improbidade administrativa, nos termos do art. 37, § 4º, e o inciso I do art. 12 da Lei 8.429/92 regulamenta essa sanção ao fixar a suspensão dos direitos políticos em até catorze anos para a hipótese de enriquecimento ilícito do art. 9º da mesma lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T23:14:44+00:00"
+ },
+ {
+  "de": "l8429.19",
+  "para": "cp.339",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 19 da Lei 8.429/92 tipifica a representação por ato de improbidade contra quem se sabe inocente, com pena de detenção de seis a dez meses; especializa, para essa hipótese, a denunciação caluniosa do art. 339 do Código Penal, que também criminaliza dar causa a ação de improbidade administrativa contra pessoa sabidamente inocente, mas com pena de reclusão de dois a oito anos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T23:14:44+00:00"
+ },
+ {
+  "de": "cp.91-A",
+  "para": "l8429.12",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 91-A do Código Penal autoriza a perda, como efeito da condenação criminal, dos bens do condenado incompatíveis com seu rendimento lícito, e o inciso I do art. 12 da Lei 8.429/92 prevê a perda dos bens ou valores acrescidos ilicitamente ao patrimônio como sanção autônoma da ação de improbidade, independente da esfera penal; o uso semelhante da expressão perda de bens gera risco de confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T23:14:44+00:00"
+ },
+ {
+  "de": "cpp.5",
+  "para": "cp.100",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 100 do Código Penal estabelece a regra geral de que a ação penal é pública, salvo quando a lei a declarar privativa do ofendido, e o art. 5º do Código de Processo Penal complementa essa classificação ao disciplinar o início do inquérito policial nos crimes de ação pública, de ofício ou mediante requisição, requerimento ou representação do ofendido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T23:14:44+00:00"
  }
 ]
