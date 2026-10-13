@@ -21597,5 +21597,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T14:19:38+00:00"
+ },
+ {
+  "de": "cc.1065",
+  "para": "lsa.176",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.065 do Código Civil impõe à sociedade simples a elaboração do balanço patrimonial ao fim de cada exercício social, e o art. 176 da Lei das Sociedades Anônimas impõe a mesma exigência à companhia, em regime próprio e mais detalhado. A semelhança do dever pode levar a aplicar indevidamente a disciplina da Lei das Sociedades Anônimas ao balanço de uma sociedade simples, ou vice-versa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T15:18:13+00:00"
+ },
+ {
+  "de": "cc.1065",
+  "para": "d9580.286",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O balanço patrimonial elaborado nos termos do art. 1.065 do Código Civil ao fim do exercício social da sociedade simples serve de base ao procedimento fiscal do art. 286 do RIR/2018, que determina a apuração do lucro líquido em observância às disposições da lei comercial, revelando a conexão entre o dever civil de elaborar o balanço e o procedimento tributário que dele se vale.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T15:18:13+00:00"
+ },
+ {
+  "de": "cc.1065",
+  "para": "cpc.606",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.065 do Código Civil trata do balanço patrimonial ordinário, levantado ao fim de cada exercício social, enquanto o art. 606 do CPC disciplina o balanço de determinação, elaborado especificamente para apurar os haveres do sócio na dissolução parcial da sociedade. A proximidade terminológica entre os dois tipos de balanço pode gerar confusão quanto à finalidade e à data de referência de cada um.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T15:18:13+00:00"
+ },
+ {
+  "de": "clt.429",
+  "para": "lcp123.51",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 51, inciso III, da LC 123/06 dispensa as microempresas e as empresas de pequeno porte de empregar e matricular aprendizes nos cursos dos Serviços Nacionais de Aprendizagem, afastando, para esses empregadores, a cota obrigatória de aprendizagem fixada no art. 429 da CLT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T15:18:13+00:00"
+ },
+ {
+  "de": "clt.429",
+  "para": "d9580.382",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 429 da CLT impõe a cota obrigatória de aprendizes como condição de regularidade do estabelecimento, enquanto o art. 382 do RIR/2018 trata da dedução, como despesa operacional, dos gastos com formação profissional de empregados. A referência comum à formação profissional pode induzir a confundir o cumprimento da cota legal de aprendizagem com a simples dedutibilidade fiscal de gastos de treinamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T15:18:13+00:00"
+ },
+ {
+  "de": "clt.429",
+  "para": "l14133.116",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 116 da Lei 14.133/21 obriga o contratado da Administração a comprovar, ao longo de toda a execução do contrato, o cumprimento da reserva de cargos para aprendiz, instituindo o procedimento de fiscalização da cota de aprendizagem que o art. 429 da CLT fixa em cinco a quinze por cento dos trabalhadores do estabelecimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T15:18:13+00:00"
+ },
+ {
+  "de": "cp.205",
+  "para": "cc.973",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 205 do Código Penal tipifica como crime o exercício de atividade da qual o agente está impedido por decisão administrativa, e o art. 973 do Código Civil atribui consequência civil, a responsabilidade pelas obrigações contraídas, à pessoa legalmente impedida de exercer atividade própria de empresário que ainda assim a exerça. A coincidência da conduta vedada pode levar a confundir a sanção penal com a consequência civil, de regimes distintos, aplicável ao mesmo impedimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T15:18:13+00:00"
+ },
+ {
+  "de": "cp.359",
+  "para": "cc.58",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 359 do Código Penal pune quem exerce função, atividade, direito, autoridade ou múnus de que foi suspenso ou privado por decisão judicial, e o art. 58 do Código Civil assegura ao associado o direito de não ser impedido de exercer direito ou função que lhe tenha sido legitimamente conferido, salvo nos casos e pela forma previstos em lei ou no estatuto. Os dois dispositivos tratam do mesmo núcleo temático, o impedimento ao exercício de direito ou função, em sentidos opostos, o que pode gerar confusão sobre qual regime se aplica a cada situação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T15:18:13+00:00"
+ },
+ {
+  "de": "l14133.88",
+  "para": "cp.337-N",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 88 da Lei 14.133/21 institui o cadastro de interessados aptos à habilitação em processos licitatórios, e o art. 337-N do Código Penal, inserido no ordenamento pela mesma Lei 14.133/21, tipifica a conduta de obstar, impedir ou dificultar injustamente a inscrição de qualquer interessado nesse cadastro, ou de promover indevidamente a alteração, a suspensão ou o cancelamento do registro do inscrito. Os dois dispositivos integram o mesmo regime legal, e a tutela penal complementa a disciplina administrativa do cadastro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T15:18:13+00:00"
+ },
+ {
+  "de": "l8213.122",
+  "para": "cf.40",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 122 da Lei 8.213/91 assegura ao segurado do Regime Geral de Previdência Social que completou o tempo de serviço exigido o direito de optar por permanecer em atividade sem se aposentar, e o art. 40 da Constituição Federal disciplina a aposentadoria do servidor titular de cargo efetivo no regime próprio de previdência social, com regras e critérios distintos. A existência de regimes previdenciários distintos para o mesmo tema, a permanência em atividade após completado o tempo de contribuição, pode gerar confusão sobre qual disciplina incide sobre o segurado concreto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T15:18:13+00:00"
  }
 ]
