@@ -21467,5 +21467,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T13:31:05+00:00"
+ },
+ {
+  "de": "clt.453",
+  "para": "l8213.122",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 453, § 2º, da CLT extingue o vínculo empregatício quando concedida aposentadoria a empregado que ainda não completou 35 anos de serviço, se homem, ou trinta, se mulher, enquanto o art. 122 da Lei 8.213/91 assegura ao segurado que já completou esse mesmo tempo o direito de optar por permanecer em atividade sem se aposentar. A coincidência dos marcos temporais pode levar a confundir a extinção do contrato trabalhista com o direito previdenciário de continuidade na atividade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T14:19:38+00:00"
+ },
+ {
+  "de": "l11101.176",
+  "para": "cp.359",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 176 da Lei 11.101/05 tipifica o exercício de atividade da qual o falido ou o administrador foi inabilitado ou incapacitado por decisão judicial, repetindo a estrutura do crime de violação de impedimento do art. 359 do Código Penal. Trata-se de norma especial, voltada ao devedor em recuperação judicial ou falência, que afasta a aplicação da regra geral do Código Penal nesse campo específico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T14:19:38+00:00"
+ },
+ {
+  "de": "l11101.176",
+  "para": "cp.205",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Tanto o art. 176 da Lei 11.101/05 quanto o art. 205 do Código Penal punem o exercício de atividade vedada ao agente, mas este último pressupõe impedimento imposto por decisão administrativa, não judicial. A semelhança da conduta pode induzir à confusão entre os dois tipos penais na definição do fundamento do impedimento violado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T14:19:38+00:00"
+ },
+ {
+  "de": "l12016.26",
+  "para": "cp.330",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 26 da Lei 12.016/09 remete expressamente ao art. 330 do Decreto-Lei nº 2.848 (Código Penal) ao qualificar como crime de desobediência o não cumprimento de decisão proferida em mandado de segurança, de modo que a conduta se amolda diretamente ao tipo penal referido, sem criar figura autônoma.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T14:19:38+00:00"
+ },
+ {
+  "de": "l13303.65",
+  "para": "l14133.88",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 65 da Lei 13.303/16 e o art. 88 da Lei 14.133/21 regulam o mesmo instituto, o registro cadastral de interessados para fins de habilitação em licitações, mas em regimes autônomos e distintos (estatais e administração em geral). A coexistência de regras semelhantes sobre prazo de validade e atualização do cadastro cria risco de aplicar indevidamente a disciplina de um regime ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T14:19:38+00:00"
+ },
+ {
+  "de": "l14133.69",
+  "para": "lsa.176",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 69 da Lei 14.133/21 exige balanço patrimonial e demonstração de resultado do exercício sem definir o conteúdo desses documentos, de modo que, tratando-se de licitante constituído sob a forma de sociedade anônima, aplicam-se subsidiariamente as definições e a estrutura dessas demonstrações financeiras estabelecidas no art. 176 da Lei das Sociedades Anônimas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T14:19:38+00:00"
+ },
+ {
+  "de": "l14133.69",
+  "para": "cc.1065",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "Para o licitante organizado como sociedade simples ou empresária não regida pela Lei das Sociedades Anônimas, o conteúdo do balanço patrimonial exigido pelo art. 69 da Lei 14.133/21 é suprido, na omissão da legislação licitatória, pelo art. 1.065 do Código Civil, que determina a elaboração desse documento ao fim de cada exercício social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T14:19:38+00:00"
+ },
+ {
+  "de": "lcp123.82",
+  "para": "l8213.9",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 82 da Lei Complementar 123/06 alterou a redação do § 1º do art. 9º da Lei 8.213/91, inserindo a ressalva relativa à aposentadoria por tempo de contribuição de que trata o § 2º do art. 21 da Lei 8.212/91, de forma que o texto vigente do art. 9º corresponde à redação dada por essa alteração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T14:19:38+00:00"
+ },
+ {
+  "de": "l8213.9",
+  "para": "cf.201",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 9º da Lei 8.213/91 regulamenta o art. 201 da Constituição Federal ao definir a estrutura do Regime Geral de Previdência Social ali previsto, desdobrando-o em regime geral propriamente dito e regime facultativo complementar, nos termos autorizados pelo texto constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T14:19:38+00:00"
+ },
+ {
+  "de": "l8213.91",
+  "para": "cp.93",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo reabilitação, usado no art. 91 da Lei 8.213/91 para designar a reabilitação profissional do segurado incapacitado no âmbito previdenciário, não se confunde com a reabilitação de que trata o art. 93 do Código Penal, que extingue efeitos da condenação criminal e assegura sigilo dos registros do processo. Os institutos são autônomos, apesar da mesma denominação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T14:19:38+00:00"
+ },
+ {
+  "de": "l8213.91",
+  "para": "l14133.163",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A reabilitação referida no art. 91 da Lei 8.213/91 é a previdenciária, destinada à capacitação profissional do segurado incapacitado, distinta da reabilitação do licitante ou contratado prevista no art. 163 da Lei 14.133/21, que afasta os efeitos de sanção administrativa aplicada em licitação. A coincidência terminológica pode induzir a erro na identificação do regime aplicável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T14:19:38+00:00"
+ },
+ {
+  "de": "l8213.93",
+  "para": "l14133.116",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 116 da Lei 14.133/21 impõe ao contratado da Administração o cumprimento, ao longo de toda a execução do contrato, da reserva de cargos para pessoa com deficiência e para reabilitado da Previdência Social prevista em lei, instituindo o procedimento de comprovação periódica perante a Administração contratante da cota material fixada no art. 93 da Lei 8.213/91.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T14:19:38+00:00"
+ },
+ {
+  "de": "l8213.93",
+  "para": "clt.429",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 93 da Lei 8.213/91 exclui da cota de pessoas com deficiência a contratação de aprendiz com deficiência regida pelo art. 429 da CLT, que prevê cota própria e específica de aprendizagem. A exceção evita que a mesma contratação seja computada simultaneamente nas duas cotas distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T14:19:38+00:00"
  }
 ]
