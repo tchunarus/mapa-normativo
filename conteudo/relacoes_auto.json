@@ -21957,5 +21957,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T18:16:58+00:00"
+ },
+ {
+  "de": "cc.578",
+  "para": "cpc.538",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 578 do Código Civil assegura ao locatário o direito de retenção por benfeitorias necessárias, ou úteis com consentimento do locador. O § 2º do art. 538 do CPC disciplina o exercício processual desse mesmo direito, exigindo que a retenção seja alegada e deduzida na contestação, na ação de entrega de coisa certa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T19:19:08+00:00"
+ },
+ {
+  "de": "cc.578",
+  "para": "cpc.917",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 578 do Código Civil garante ao locatário o direito de retenção por benfeitorias necessárias, ou úteis autorizadas pelo locador. O inciso IV do art. 917 do CPC prevê esse mesmo direito como matéria de defesa nos embargos à execução para entrega de coisa certa, quando a obrigação decorre de título executivo extrajudicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T19:19:08+00:00"
+ },
+ {
+  "de": "cc.96",
+  "para": "l8245.35",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 96 do Código Civil define as benfeitorias necessárias, úteis e voluptuárias. O art. 35 da Lei 8.245/91 pressupõe exatamente as categorias de necessárias e úteis ao regular sua indenização e o direito de retenção na locação predial urbana, sem alterar a definição civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T19:19:08+00:00"
+ },
+ {
+  "de": "l8245.67",
+  "para": "cpc.539",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 539 do CPC autoriza o devedor a consignar, com efeito de pagamento, a quantia ou a coisa devida, nos casos previstos em lei. O art. 67 da Lei 8.245/91 especializa esse procedimento para a consignação de aluguéis e encargos da locação, com prazo de vinte e quatro horas para o depósito e hipóteses próprias de contestação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T19:19:08+00:00"
+ },
+ {
+  "de": "l8245.67",
+  "para": "cpc.545",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 545 do CPC permite ao autor completar, em dez dias, o depósito insuficiente na consignação em pagamento de rito comum. O inciso VII do art. 67 da Lei 8.245/91 especializa esse prazo para cinco dias, com acréscimo de dez por cento sobre a diferença, na consignatória de aluguéis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T19:19:08+00:00"
+ },
+ {
+  "de": "l8397.10",
+  "para": "cpc.722",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 722 do CPC estabelece que a Fazenda Pública será sempre ouvida nos processos em que tiver interesse. O parágrafo único do art. 10 da Lei 8.397/92 especializa essa regra para o pedido de substituição da medida cautelar fiscal, fixando prazo de cinco dias para manifestação e presumindo a aquiescência da Fazenda em caso de silêncio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T19:19:08+00:00"
+ },
+ {
+  "de": "l8397.10",
+  "para": "lef.18",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 10 da Lei 8.397/92 permite a substituição da medida cautelar fiscal por garantia, com oitiva da Fazenda Pública em cinco dias. O art. 18 da LEF prevê que a Fazenda Pública se manifeste sobre a garantia oferecida na execução fiscal, à qual a cautelar é acessória, compondo o mesmo regime de garantias do crédito tributário em juízo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T19:19:08+00:00"
+ },
+ {
+  "de": "l8397.11",
+  "para": "ctn.201",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 201 do CTN define a dívida ativa tributária como aquela inscrita depois de esgotado o prazo de pagamento fixado por decisão final em processo regular. O art. 11 da Lei 8.397/92 pressupõe exatamente esse momento, a tornar-se irrecorrível a exigência na esfera administrativa, para impor à Fazenda Pública o prazo de sessenta dias para propor a execução da dívida ativa já inscrita.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T19:19:08+00:00"
+ },
+ {
+  "de": "l8397.11",
+  "para": "lef.1",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1º da LEF institui a execução judicial para cobrança da Dívida Ativa da Fazenda Pública. O art. 11 da Lei 8.397/92 complementa esse regime ao fixar o prazo de sessenta dias para que a Fazenda Pública proponha essa mesma execução, quando a medida cautelar fiscal tiver sido concedida em caráter preparatório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-13T19:19:08+00:00"
  }
 ]
