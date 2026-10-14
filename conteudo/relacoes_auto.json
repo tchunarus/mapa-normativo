@@ -22517,5 +22517,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-13T23:14:44+00:00"
+ },
+ {
+  "de": "l14133.159",
+  "para": "l12846.30",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 159 da Lei 14.133/21 determina que atos tipificados como infração administrativa nesta lei e também como ato lesivo na Lei 12.846/13 sejam apurados e julgados conjuntamente, nos mesmos autos, o que excepciona, para essa hipótese de sobreposição, a regra geral de independência das instâncias do inciso II do art. 30 da Lei 12.846/13.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T00:08:59+00:00"
+ },
+ {
+  "de": "l8078.110",
+  "para": "l7347.1",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 110 do CDC acrescentou o inciso IV ao art. 1º da Lei 7.347/85, hoje vigente como a previsão de tutela de qualquer outro interesse difuso ou coletivo mencionada no texto consolidado desse artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T00:08:59+00:00"
+ },
+ {
+  "de": "l7347.1",
+  "para": "cf.129",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 1º da Lei 7.347/85 disciplina o cabimento da ação civil pública para a tutela do meio ambiente, do patrimônio público e social e de outros interesses difusos e coletivos, dando concretude processual à função institucional atribuída ao Ministério Público pelo inciso III do art. 129 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T00:08:59+00:00"
+ },
+ {
+  "de": "l8429.3",
+  "para": "l12846.30",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 3º da LIA afasta a aplicação das sanções desta lei à pessoa jurídica quando o mesmo ato de improbidade já tiver sido sancionado como ato lesivo pela Lei 12.846/13, o que excepciona, para a pessoa jurídica, a regra de independência dos processos de responsabilização do inciso I do art. 30 da Lei 12.846/13.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T00:08:59+00:00"
  }
 ]
