@@ -23417,5 +23417,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T14:20:05+00:00"
+ },
+ {
+  "de": "cpp.648",
+  "para": "cp.22",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 22 do Código Penal trata da coação irresistível como causa que exclui a punibilidade do coagido, transferindo a responsabilidade ao autor da coação ou da ordem; o art. 648 do CPP cuida da ilegalidade da coação enquanto restrição da liberdade de locomoção, pressuposto para a concessão de habeas corpus. São institutos distintos, apesar do termo comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T15:19:06+00:00"
+ },
+ {
+  "de": "l8078.1",
+  "para": "cc.1358-B",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 1.358-B do Código Civil determina que o regime da multipropriedade seja regido, de forma supletiva e subsidiária, pelas demais disposições do Código Civil e pela Lei 8.078/1990; as normas de proteção e defesa do consumidor do art. 1º do CDC só incidem sobre esse instituto conexo na omissão das regras próprias da multipropriedade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T15:19:06+00:00"
+ },
+ {
+  "de": "l8934.34",
+  "para": "cc.1167",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.167 do Código Civil confere ao prejudicado ação para anular, a qualquer tempo, a inscrição do nome empresarial feita com violação da lei ou do contrato, servindo de instrumento processual para tutelar justamente os princípios da veracidade e da novidade fixados no art. 34 da Lei 8.934/1994.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T15:19:06+00:00"
+ },
+ {
+  "de": "l8934.34",
+  "para": "cc.1164",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 34 da Lei 8.934/1994 fixa os princípios da veracidade e da novidade que regem o nome empresarial, enquanto o art. 1.164 do Código Civil disciplina outra faceta do mesmo instituto, a vedação à sua alienação autônoma e o uso do nome do alienante pelo sucessor, de modo que os dois dispositivos compõem, por ângulos distintos, o regime geral de proteção do nome empresarial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T15:19:06+00:00"
+ },
+ {
+  "de": "l8934.34",
+  "para": "cc.1168",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.168 do Código Civil prevê o cancelamento da inscrição do nome empresarial quando cessar a atividade ou se ultimar a liquidação da sociedade, hipótese distinta da veracidade e da novidade exigidas pelo art. 34 da Lei 8.934/1994, mas igualmente integrante do regime de proteção do nome empresarial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T15:19:06+00:00"
+ },
+ {
+  "de": "l8934.34",
+  "para": "l9279.8",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 8º da Lei de Propriedade Industrial exige novidade como requisito de patenteabilidade da invenção, ao passo que o art. 34 da Lei 8.934/1994 exige novidade do nome empresarial, isto é, a inexistência de nome idêntico ou semelhante já registrado. Apesar do termo comum, cuida-se de institutos distintos de propriedade industrial e de direito registral empresarial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T15:19:06+00:00"
+ },
+ {
+  "de": "l8934.59",
+  "para": "cc.1168",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 59 da Lei 8.934/1994 extingue a proteção do nome empresarial quando expirado o prazo da sociedade celebrada por tempo determinado; o art. 1.168 do Código Civil prevê o cancelamento da inscrição do nome empresarial quando cessar o exercício da atividade ou se ultimar a liquidação da sociedade, hipóteses que também encerram a proteção do mesmo nome.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T15:19:06+00:00"
+ },
+ {
+  "de": "l8934.59",
+  "para": "cc.1164",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.164 do Código Civil veda a alienação autônoma do nome empresarial e disciplina o uso do nome do alienante pelo sucessor; o art. 59 da Lei 8.934/1994 trata de outra hipótese de extinção da proteção do nome empresarial, a expiração do prazo da sociedade, de modo que ambos compõem, por ângulos distintos, o regime de proteção e extinção do nome empresarial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T15:19:06+00:00"
+ },
+ {
+  "de": "l9099.30",
+  "para": "cpc.146",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 30 da Lei 9.099/1995 exclui da contestação a argüição de suspeição ou impedimento do juiz, determinando que ela se processe na forma da legislação em vigor; o art. 146 do CPC disciplina exatamente esse procedimento, com prazo de quinze dias e petição específica dirigida ao juiz do processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T15:19:06+00:00"
+ },
+ {
+  "de": "l9099.30",
+  "para": "cpc.148",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 148 do CPC estende os motivos de impedimento e de suspeição ao membro do Ministério Público, aos auxiliares da justiça e aos demais sujeitos imparciais do processo; o art. 30 da Lei 9.099/1995, ao remeter a suspeição e o impedimento do juiz à legislação em vigor, não disciplina essa extensão subjetiva, que se aplica subsidiariamente ao procedimento dos Juizados Especiais Cíveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T15:19:06+00:00"
+ },
+ {
+  "de": "l9099.42",
+  "para": "cpc.1007",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 42, § 1º, da Lei 9.099/1995 fixa prazo próprio de quarenta e oito horas, contado da interposição, para o preparo do recurso nos Juizados Especiais Cíveis, sob pena de deserção; o art. 1.007 do CPC exige a comprovação do preparo no próprio ato de interposição do recurso. A lei especial especializa, para o procedimento sumaríssimo, o momento e o prazo de realização do preparo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T15:19:06+00:00"
+ },
+ {
+  "de": "l9099.46",
+  "para": "cpc.489",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 46 da Lei 9.099/1995 dispensa o relatório e autoriza fundamentação sucinta no julgamento de segunda instância dos Juizados Especiais Cíveis, bastando a ata do julgamento; o art. 489 do CPC exige, como elementos essenciais da sentença, relatório, fundamentos e dispositivo. A lei especial excepciona, nesse ponto, o regime geral da sentença.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T15:19:06+00:00"
+ },
+ {
+  "de": "l9099.46",
+  "para": "cpc.204",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 204 do CPC define o acórdão como o julgamento colegiado proferido pelos tribunais; o art. 46 da Lei 9.099/1995 especializa essa forma para o julgamento de segunda instância dos Juizados Especiais Cíveis, permitindo que a própria súmula do julgamento sirva de acórdão quando a sentença for confirmada pelos próprios fundamentos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T15:19:06+00:00"
  }
 ]
