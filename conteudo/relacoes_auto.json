@@ -22627,5 +22627,225 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T01:08:24+00:00"
+ },
+ {
+  "de": "cc.1150",
+  "para": "l8934.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.150 do Código Civil vincula o empresário e a sociedade empresária ao Registro Público de Empresas Mercantis, cujas finalidades de garantia, publicidade e autenticidade dos atos jurídicos empresariais são definidas pelo art. 1º da Lei 8.934/94.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cc.1150",
+  "para": "l8934.32",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.150 do Código Civil determina a vinculação do empresário e da sociedade empresária ao Registro Público de Empresas Mercantis, cujo conteúdo de matrícula e arquivamento de atos é disciplinado pelo art. 32 da Lei 8.934/94.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cc.1150",
+  "para": "l8934.3",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "Enquanto o art. 1.150 do Código Civil impõe a vinculação ao Registro Público de Empresas Mercantis, o art. 3º da Lei 8.934/94 estrutura o Sistema Nacional de Registro de Empresas Mercantis e os órgãos que o executam, aspecto organizacional conexo ao dever civil de vinculação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cc.1150",
+  "para": "lcp123.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 9º da LC 123/06 detalha, para o mesmo Registro Público de Empresas Mercantis a que se refere o art. 1.150 do Código Civil, a regra de que o registro dos atos constitutivos independe da regularidade de obrigações tributárias, previdenciárias ou trabalhistas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cc.1181",
+  "para": "l8934.39",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.181 do Código Civil exige a autenticação dos livros obrigatórios no Registro Público de Empresas Mercantis, autenticação que o art. 39 da Lei 8.934/94 atribui expressamente às juntas comerciais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cc.1181",
+  "para": "sc_icms_lei.83",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 83 da Lei 10.297/96-SC pune a utilização de livros fiscais sem prévia autenticação, aplicando em matéria tributária estadual exigência análoga à autenticação de livros empresariais obrigatórios prevista no art. 1.181 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cc.1181",
+  "para": "lsa.102",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 102 da Lei das Sociedades por Ações especializa, para os extratos de ações escriturais, a exigência geral do art. 1.181 do Código Civil de autenticação de livros no registro do comércio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cc.1181",
+  "para": "l11101.178",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 178 da Lei 11.101/05 criminaliza, no contexto de falência ou recuperação judicial, a conduta de deixar de autenticar documentos de escrituração contábil obrigatórios, conferindo consequência penal específica ao descumprimento do dever civil de autenticação do art. 1.181 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cc.967",
+  "para": "l8934.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 967 do Código Civil impõe a inscrição obrigatória do empresário no Registro Público de Empresas Mercantis, cujas finalidades de garantia e publicidade dos atos jurídicos empresariais estão definidas no art. 1º da Lei 8.934/94.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cc.967",
+  "para": "lcp123.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 9º da LC 123/06 complementa o dever de inscrição do art. 967 do Código Civil ao estabelecer que o registro dos atos constitutivos ocorre independentemente da regularidade de obrigações tributárias, previdenciárias ou trabalhistas do empresário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cc.967",
+  "para": "floripa_ctm.219",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 967 do Código Civil exige a inscrição do empresário no Registro Público de Empresas Mercantis antes do início da atividade, dever que pode ser confundido com a inscrição no cadastro municipal de atividades exigida pelo art. 219 do Código Tributário de Florianópolis, registros distintos perante órgãos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cc.967",
+  "para": "l8212.49",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A inscrição do empresário no Registro Público de Empresas Mercantis, exigida pelo art. 967 do Código Civil, é instituto distinto da matrícula da empresa perante a Secretaria da Receita Federal de que trata o art. 49 da Lei 8.212/91, podendo as duas inscrições serem confundidas por tratarem ambas de cadastro prévio da atividade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cp.317",
+  "para": "l8137.3",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 3º da Lei 8.137/90 descreve, para o funcionário que pratica crime contra a ordem tributária, conduta quase idêntica à do art. 317 do Código Penal de exigir, solicitar ou receber vantagem indevida em razão da função, gerando conflito aparente de normas resolvido pela especialidade da lei tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cp.317",
+  "para": "l13988.29",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 29 da Lei 13.988/20 condiciona a responsabilização do agente público que atua na transação tributária à comprovação de dolo ou fraude para obter vantagem indevida para si ou para outrem, conduta próxima à corrupção passiva do art. 317 do Código Penal, podendo gerar confusão sobre o regime de responsabilização aplicável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "l8987.13",
+  "para": "cf.175",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 13 da Lei 8.987/95 disciplina a diferenciação de tarifas por segmento de usuários, regulamentando a política tarifária que o parágrafo único, inciso III, do art. 175 da Constituição Federal determina que a lei preveja para os serviços públicos concedidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "l8987.33",
+  "para": "l8078.58",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 58 do Código de Defesa do Consumidor também condiciona a revogação da concessão ou permissão de uso a procedimento administrativo com ampla defesa, instituto conexo ao do art. 33 da Lei 8.987/95, que disciplina garantia processual semelhante na apuração de responsabilidades na intervenção da concessão de serviço público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "l8987.38",
+  "para": "cf.175",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 38 da Lei 8.987/95 disciplina a caducidade da concessão por inexecução contratual, regulamentando as condições de caducidade que o parágrafo único, inciso I, do art. 175 da Constituição Federal determina que a lei preveja para as concessões de serviço público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "l8987.38",
+  "para": "l9279.80",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A caducidade da concessão por inadimplência contratual, tratada no art. 38 da Lei 8.987/95, e a caducidade da patente por falta de exploração, tratada no art. 80 da Lei de Propriedade Industrial, compartilham apenas a nomenclatura, tratando de institutos totalmente diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "l8987.38",
+  "para": "l14133.137",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 137 da Lei 14.133/21 disciplina de forma geral a extinção de contratos administrativos por inadimplemento, aplicando-se subsidiariamente à disciplina específica da caducidade de concessões de serviço público prevista no art. 38 da Lei 8.987/95.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "l9099.10",
+  "para": "cpc.138",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A participação do amicus curiae prevista no art. 138 do Código de Processo Civil é forma de intervenção de terceiro distinta da genericamente vedada pelo art. 10 da Lei 9.099/95, podendo ser confundida com essa proibição nos juizados especiais cíveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "l9099.10",
+  "para": "cpc.114",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 10 da Lei 9.099/95 admite o litisconsórcio nos juizados especiais cíveis sem disciplinar suas espécies, aplicando-se subsidiariamente a definição de litisconsórcio necessário do art. 114 do Código de Processo Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "l9099.10",
+  "para": "l8987.32",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A vedação à intervenção de terceiro no processo dos juizados especiais cíveis, prevista no art. 10 da Lei 9.099/95, não se confunde com a intervenção do poder concedente na concessão de serviço público, tratada no art. 32 da Lei 8.987/95, institutos que compartilham apenas o termo intervenção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T06:10:37+00:00"
  }
 ]
