@@ -23627,5 +23627,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T16:17:29+00:00"
+ },
+ {
+  "de": "cpp.315",
+  "para": "cpc.489",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 315 do CPP reproduz, para a motivação da prisão preventiva e de outras cautelares, os mesmos critérios de ausência de fundamentação listados no § 1º do art. 489 do CPC, tratando-se do mesmo instituto, mas com regra especial que, no § 1º do próprio art. 315, acrescenta a exigência de fatos novos ou contemporâneos para a decretação da medida cautelar penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "l9307.26",
+  "para": "cpc.489",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 26 da Lei 9.307/96 exige, para a sentença arbitral, a mesma estrutura tripartite do art. 489 do CPC (relatório, fundamentos e dispositivo), tratando-se do mesmo instituto; constitui regra especial por acrescentar exigência própria do processo arbitral, como a menção ao julgamento por equidade e a data e o lugar da sentença.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "cpp.381",
+  "para": "cpc.489",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 381 do CPP fixa, para a sentença penal, elementos essenciais equivalentes aos do art. 489 do CPC (relatório, fundamentação e dispositivo), ainda que com nomenclatura própria, como a exposição sucinta da acusação e da defesa e a indicação dos artigos de lei aplicados, tratando-se do mesmo instituto com regra especial para o processo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "d70235.31",
+  "para": "cpc.489",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 31 do PAF exige, para a decisão administrativa fiscal, estrutura análoga à do art. 489 do CPC (relatório, fundamentos e conclusão), mas trata de instituto conexo, pois a decisão administrativa não é sentença judicial, acrescentando exigência própria de referência aos autos de infração e às razões de defesa do impugnante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "d70235.24",
+  "para": "l9099.42",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 24 do PAF usa preparo no sentido de organização administrativa do processo fiscal, enquanto o § 1º do art. 42 da Lei 9.099/95 usa preparo no sentido de pagamento das despesas processuais do recurso, sob pena de deserção; a identidade do termo entre institutos de natureza diversa gera risco real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "d70235.24",
+  "para": "lef.39",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 24 do PAF emprega preparo como sinônimo de organização do processo administrativo, enquanto o art. 39 da LEF usa preparo no sentido de custas e depósito prévio de que a Fazenda Pública é isenta na execução fiscal judicial; a coincidência terminológica entre institutos distintos é fonte real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "l12016.17",
+  "para": "cpc.944",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 17 da Lei 12.016/09 repete, para o mandado de segurança, a mesma regra do art. 944 do CPC sobre a substituição do acórdão não publicado em trinta dias pelas notas taquigráficas, independentemente de revisão; tratam do mesmo instituto, sendo a norma do mandado de segurança especial por dispensar, nesse ponto, o recurso à aplicação subsidiária do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "cpc.1064",
+  "para": "l9099.48",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 1.064 do CPC alterou o caput do art. 48 da Lei 9.099/95, substituindo a remissão então existente aos próprios dispositivos da Lei dos Juizados pela remissão direta aos casos de embargos de declaração previstos no Código de Processo Civil, unificando o regime recursal de ambos os diplomas quanto a esse instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "l9099.48",
+  "para": "clt.897-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 48 da Lei 9.099/95 remete aos casos de embargos de declaração previstos no CPC e permite a correção de ofício de erros materiais, enquanto o art. 897-A da CLT disciplina regime próprio e distinto para o mesmo instituto no processo do trabalho, com prazo de cinco dias e hipóteses específicas de efeito modificativo; a proximidade entre os microssistemas gera risco de se aplicar por engano o regime celetista aos embargos do Juizado Especial Cível.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "l9099.48",
+  "para": "cpp.609",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 48 da Lei 9.099/95 trata de embargos de declaração, cabíveis para sanar vício da sentença ou do acórdão, enquanto o parágrafo único do art. 609 do CPP trata de instituto diverso, os embargos infringentes e de nulidade, cabíveis apenas contra decisão de segunda instância não unânime e desfavorável ao réu; o uso da mesma palavra embargos para institutos de finalidade distinta gera risco real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "l9099.48",
+  "para": "cpc.675",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 48 da Lei 9.099/95 disciplina os embargos de declaração, voltados a sanar vício da decisão judicial, enquanto o art. 675 do CPC trata dos embargos de terceiro, instituto autônomo destinado a proteger a posse ou a propriedade de quem não é parte no processo; a identidade terminológica entre institutos de natureza radicalmente diferente é fonte real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "l9099.48",
+  "para": "cpc.494",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 48 da Lei 9.099/95 remete expressamente aos casos de embargos de declaração previstos no Código de Processo Civil; o inciso II do art. 494 do CPC é a norma geral que autoriza a alteração da sentença publicada por meio de embargos de declaração, compondo o regime ao qual a Lei dos Juizados remete.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "cpc.1025",
+  "para": "l9099.48",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 48 da Lei 9.099/95 remete ao regime de embargos de declaração do CPC, regime que inclui o efeito prequestionador do art. 1.025, segundo o qual se consideram incluídos no acórdão os elementos suscitados pelo embargante para fins de prequestionamento, ainda que os embargos sejam inadmitidos ou rejeitados; tratando-se do mesmo instituto incorporado por remissão, o art. 1.025 apenas detalha um dos seus efeitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "cpc.688",
+  "para": "l9099.51",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "Os incisos V e VI do art. 51 da Lei 9.099/95 condicionam a extinção do processo, em caso de falecimento de autor ou réu, à habilitação dos sucessores, sem disciplinar quem pode requerê-la; o art. 688 do CPC, que legitima a parte em relação aos sucessores do falecido e os sucessores em relação à parte, aplica-se subsidiariamente para suprir essa omissão do procedimento sumaríssimo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "l9099.51",
+  "para": "cpc.313",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 313 do CPC prevê a suspensão do processo pela morte da parte, sem fixar prazo para a habilitação dos sucessores; os incisos V e VI do art. 51 da Lei 9.099/95 excepcionam essa regra geral ao imporem a extinção do processo no Juizado Especial se a habilitação, ou a citação dos sucessores, não ocorrer no prazo de trinta dias, em razão da celeridade própria do procedimento sumaríssimo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "cpc.316",
+  "para": "l9099.51",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 51 da Lei 9.099/95 enumera hipóteses de extinção do processo no Juizado Especial sem indicar a forma do ato que a decreta; o art. 316 do CPC, segundo o qual a extinção do processo sempre se dá por sentença, aplica-se subsidiariamente para suprir essa lacuna, tratando-se de instituto conexo, pois a Lei 9.099/95 disciplina hipóteses próprias de extinção, distintas em parte das do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "l9099.57",
+  "para": "cc.842",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 57 da Lei 9.099/95 permite a homologação do acordo extrajudicial independentemente de termo, dispensando a formalidade do termo nos autos exigida pelo art. 842 do Código Civil para a transação sobre direitos contestados em juízo; trata-se do mesmo instituto, com regra especial e simplificada para o procedimento dos Juizados Especiais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T17:19:19+00:00"
  }
 ]
