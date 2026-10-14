@@ -23217,5 +23217,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T12:21:52+00:00"
+ },
+ {
+  "de": "cc.1155",
+  "para": "l8934.33",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.155 do CC define o nome empresarial como a firma ou a denominação adotada para o exercício da empresa, enquanto o art. 33 da Lei 8.934/94 detalha o modo de aquisição da proteção desse mesmo instituto, que decorre automaticamente do arquivamento dos atos constitutivos no registro público de empresas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "cc.1155",
+  "para": "l8934.34",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 34 da Lei 8.934/94 estabelece os princípios da veracidade e da novidade que regem a formação do nome empresarial definido no art. 1.155 do CC, detalhando os requisitos a que a firma ou a denominação devem obedecer.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "cc.1155",
+  "para": "l8934.59",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 59 da Lei 8.934/94 disciplina a perda da proteção ao nome empresarial com a expiração do prazo da sociedade constituída por tempo determinado, complementando a disciplina do instituto definido no art. 1.155 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "lsa.3",
+  "para": "cc.1155",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Enquanto o art. 1.155 do CC traz a definição geral de nome empresarial, o art. 3º da Lei das S.A. estabelece regra especial para a denominação das companhias, exigindo o acréscimo das expressões companhia ou sociedade anônima e disciplinando a proteção contra denominação idêntica ou semelhante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "lsa.212",
+  "para": "cc.1155",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 212 da Lei das S.A. impõe ao liquidante o uso da denominação social seguida da expressão em liquidação, detalhando, para essa fase específica da companhia, o mesmo instituto do nome empresarial tratado no art. 1.155 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "cc.1155",
+  "para": "l9279.178",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 178 da LPI define denominação de origem, instituto de propriedade industrial relativo à indicação geográfica de produtos ou serviços, distinto do nome empresarial do art. 1.155 do CC, mas que pode gerar confusão pelo emprego comum do termo denominação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "cp.20",
+  "para": "cc.139",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 20 do CP trata do erro sobre elemento constitutivo do tipo penal, que exclui o dolo, enquanto o art. 139 do CC define o erro substancial como vício do negócio jurídico civil, instituto distinto quanto aos efeitos e ao regime jurídico, podendo ser confundido pelo uso do mesmo termo erro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "cp.22",
+  "para": "cc.151",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 22 do CP trata da coação irresistível como causa de exclusão da punibilidade do coagido, enquanto o art. 151 do CC disciplina a coação como vício do negócio jurídico civil, exigindo fundado temor de dano iminente e considerável, regime diverso que pode ser confundido pelo emprego do mesmo termo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "cp.22",
+  "para": "cpp.647",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 22 do CP trata da coação irresistível como excludente da punibilidade do agente coagido, enquanto o art. 647 do CPP disciplina a coação ilegal à liberdade de locomoção como pressuposto do habeas corpus, instituto processual distinto que pode ser confundido pelo uso do mesmo termo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "l8078.2",
+  "para": "adct.48",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 2º da CDC define consumidor em cumprimento ao mandamento do art. 48 do ADCT, que determinou ao Congresso Nacional a elaboração do código de defesa do consumidor no prazo de cento e vinte dias da promulgação da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "cpc.22",
+  "para": "l8078.2",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 22 do CPC fixa a competência da autoridade judiciária brasileira para ações decorrentes de relações de consumo quando o consumidor tiver domicílio ou residência no Brasil, pressupondo o conceito de consumidor estabelecido no art. 2º da CDC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "l13709.45",
+  "para": "l8078.2",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 45 da LGPD preserva, para as violações de dados pessoais ocorridas no âmbito das relações de consumo, as regras de responsabilidade da legislação pertinente, remetendo ao regime de proteção do consumidor de que trata o art. 2º da CDC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "l9099.18",
+  "para": "cpc.249",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 249 do CPC exige mandado para a citação por oficial de justiça, ao passo que o inciso III do art. 18 da Lei 9.099/95 dispensa expressamente mandado ou carta precatória, excepcionando o regime geral do CPC para simplificar o rito dos juizados especiais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "l9099.18",
+  "para": "cpc.248",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 248 do CPC permite, para a pessoa jurídica, a entrega da carta de citação a funcionário responsável pelo recebimento de correspondências, enquanto o inciso I do art. 18 da Lei 9.099/95 exige aviso de recebimento em mão própria, excepcionando o regime geral quanto à forma de entrega.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T13:25:59+00:00"
  }
 ]
