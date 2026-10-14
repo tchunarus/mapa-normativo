@@ -23547,5 +23547,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T15:19:06+00:00"
+ },
+ {
+  "de": "cc.1164",
+  "para": "l8934.33",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 33 da Lei 8.934/94 estabelece que a proteção ao nome empresarial decorre do arquivamento dos atos constitutivos, fundamento administrativo que sustenta a vedação à alienação do nome prevista no art. 1.164 do Código Civil. A lei complementa o regime ao disciplinar como e quando a proteção nasce, enquanto o Código Civil trata dos efeitos civis dessa proteção, entre eles a intransmissibilidade do nome e a possibilidade de uso pelo sucessor do estabelecimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T16:17:29+00:00"
+ },
+ {
+  "de": "cc.1164",
+  "para": "l9279.194",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O nome empresarial, protegido pelo art. 1.164 do Código Civil mediante registro na junta comercial, é frequentemente confundido com o nome comercial mencionado no art. 194 da Lei 9.279/96, que tipifica como crime o uso de nome comercial alheio para indicar falsa procedência. Tratam de institutos conexos, mas o Código Civil disciplina a titularidade e a transmissibilidade do nome no âmbito civil e empresarial, enquanto a Lei 9.279/96 reprime penalmente a concorrência desleal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T16:17:29+00:00"
+ },
+ {
+  "de": "cc.1167",
+  "para": "lsa.285",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos os dispositivos preveem ação para anular um registro societário viciado, mas disciplinam institutos conexos com regimes de prazo opostos: o art. 1.167 do Código Civil permite a anulação da inscrição do nome empresarial a qualquer tempo, enquanto o art. 285 da Lei das Sociedades Anônimas sujeita a ação para anular a constituição da companhia por vício ou defeito ao prazo de um ano contado da publicação dos atos constitutivos, o que pode gerar confusão sobre qual prazo incide conforme o vício alegado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T16:17:29+00:00"
+ },
+ {
+  "de": "cc.1168",
+  "para": "floripa_ctm.219",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 219 do Código Tributário Municipal de Florianópolis determina o cancelamento da inscrição no Cadastro de Prestadores de Serviços quando ocorrer o fechamento ou a baixa do estabelecimento, inscrição distinta daquela regulada pelo art. 1.168 do Código Civil, referente ao registro do nome empresarial perante a junta comercial. A semelhança das hipóteses de cancelamento (cessação da atividade) e da terminologia (inscrição) cria risco real de confusão entre os dois registros, que têm natureza e órgãos competentes diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T16:17:29+00:00"
+ },
+ {
+  "de": "cpc.1007",
+  "para": "d70235.24",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo preparo tem sentido distinto nos dois dispositivos: no art. 1.007 do Código de Processo Civil, preparo designa o recolhimento de custas e porte de remessa e retorno exigido do recorrente sob pena de deserção, enquanto o art. 24 do Decreto 70.235/72 usa preparo para designar a competência da autoridade local para organizar e instruir o processo administrativo fiscal. Os dispositivos apenas têm ponto de contato na palavra empregada, e a leitura apressada de um pelo outro pode induzir a erro sobre a natureza do ato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T16:17:29+00:00"
+ },
+ {
+  "de": "cpc.146",
+  "para": "clt.802",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 802 da CLT disciplina, para o processo do trabalho, procedimento próprio e mais célere para a exceção de suspeição, com designação de audiência em quarenta e oito horas, que especializa, nesse ramo, o regime geral de processamento do incidente de impedimento ou suspeição previsto no art. 146 do Código de Processo Civil, cujo § 1º prevê prazo de quinze dias para o juiz apresentar razões e remeter o incidente ao tribunal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T16:17:29+00:00"
+ },
+ {
+  "de": "cpc.146",
+  "para": "l9307.20",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos os dispositivos tratam de institutos conexos relativos à parcialidade do julgador, mas sob regimes distintos: o art. 146 do Código de Processo Civil fixa prazo de quinze dias contados do conhecimento do fato para arguir impedimento ou suspeição do juiz togado, enquanto o art. 20 da Lei 9.307/96 exige que a arguição contra o árbitro seja feita na primeira oportunidade de manifestação após a instituição da arbitragem, sem prazo fixo em dias, o que pode levar à aplicação equivocada do critério processual civil ao processo arbitral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T16:17:29+00:00"
+ },
+ {
+  "de": "cpc.204",
+  "para": "l12016.17",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 17 da Lei 12.016/09 especializa o regime do acórdão definido no art. 204 do Código de Processo Civil ao prever que, decorridos trinta dias do julgamento de mandado de segurança sem a publicação do acórdão, este será substituído pelas respectivas notas taquigráficas, independentemente de revisão, solução própria desse writ constitucional não prevista na disciplina geral do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T16:17:29+00:00"
  }
 ]
