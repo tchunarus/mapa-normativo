@@ -24367,5 +24367,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "cc.2016",
+  "para": "cpc.659",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 659 do CPC permite a homologação de plano da partilha amigável celebrada entre partes capazes, hipótese inversa à do art. 2.016 do CC, que impõe a via judicial justamente quando há incapaz ou divergência entre os herdeiros; os dois dispositivos, lidos em conjunto, definem a fronteira completa entre partilha judicial e amigável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T23:16:47+00:00"
+ },
+ {
+  "de": "cc.2016",
+  "para": "cpc.671",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 671, II, do CPC prevê a nomeação de curador especial ao incapaz que concorrer na partilha com seu representante em caso de colisão de interesses, complementando, com proteção processual específica, a exigência de partilha judicial que o art. 2.016 do CC estabelece para essa mesma hipótese.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T23:16:47+00:00"
+ },
+ {
+  "de": "clt.644",
+  "para": "cf.111",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos definem os órgãos da Justiça do Trabalho, mas o art. 644 da CLT ainda relaciona as Juntas de Conciliação e Julgamento, extintas pela Emenda Constitucional 24, de 1999, enquanto o art. 111 da CF, em sua redação vigente, já relaciona os Juízes do Trabalho; o conflito é apenas aparente, pois prevalece a composição prevista na Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T23:16:47+00:00"
+ },
+ {
+  "de": "cpc.318",
+  "para": "lef.1",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 1º da LEF determina que a execução fiscal se rege subsidiariamente pelo CPC, aplicação que decorre diretamente da regra geral do parágrafo único do art. 318 do CPC, segundo a qual o procedimento comum se aplica subsidiariamente aos demais procedimentos especiais e ao processo de execução, inclusive na omissão da LEF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T23:16:47+00:00"
+ },
+ {
+  "de": "d9580.11",
+  "para": "cpc.659",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 11 do RIR/2018 impõe ao inventariante a obrigação de apresentar declaração de rendimentos a partir da homologação da partilha ou da adjudicação, marco também disciplinado pelo § 2º do art. 659 do CPC, que determina a lavratura do formal de partilha ou da carta de adjudicação e a intimação do fisco para lançamento dos tributos incidentes; o dispositivo tributário detalha a consequência fiscal do mesmo marco processual civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T23:16:47+00:00"
+ },
+ {
+  "de": "d9580.11",
+  "para": "ctn.192",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 192 do CTN condiciona a sentença de partilha ou adjudicação à prova de quitação dos tributos relativos aos bens e às rendas do espólio, e o art. 11 do RIR/2018 soma a essa exigência a obrigação de apresentar, após a homologação, a declaração de rendimentos do período anterior; os dois dispositivos tratam de obrigações fiscais distintas ligadas ao mesmo marco processual da partilha ou adjudicação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T23:16:47+00:00"
  }
 ]
