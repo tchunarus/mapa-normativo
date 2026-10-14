@@ -8967,7 +8967,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1407&cod_tema_final=1407",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1408": {
@@ -9002,7 +9002,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1408&cod_tema_final=1408",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1409": {
@@ -9037,7 +9037,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1409&cod_tema_final=1409",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1410": {
@@ -9107,7 +9107,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1411&cod_tema_final=1411",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1412": {
@@ -9149,7 +9149,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1412&cod_tema_final=1412",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1413": {
@@ -9160,7 +9160,7 @@
   "numero": "1413",
   "titulo": "Tema 1413/STJ",
   "orgao": "Primeira Seção",
-  "situacao": "Acórdão Publicado",
+  "situacao": "Trânsito em Julgado",
   "questao": "Definir se é cabível a condenação do contribuinte ao pagamento de honorários advocatícios em ação de execução fiscal, quando há a quitação extrajudicial do débito após o ajuizamento da ação executiva, mas antes de sua efetiva citação.",
   "tese": "Em respeito ao princípio da causalidade e da norma extraída do texto do art. 85, § 10, do CPC/2015, é cabível a condenação do executado ao pagamento de honorários advocatícios em ação de execução fiscal extinta por perda superveniente do objeto, quando há a quitação extrajudicial do débito após o ajuizamento da ação executiva, ainda que antes da efetiva citação.",
   "ramo": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
@@ -9191,7 +9191,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1413&cod_tema_final=1413",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1414": {
@@ -9203,7 +9203,7 @@
   "titulo": "Tema 1414/STJ",
   "orgao": "Segunda Seção",
   "situacao": "Afetado",
-  "questao": "Delimitação da controvérsia nos seguintes termos: I) Definir parâmetros objetivos para a aferição da validade e eventual caráter abusivo dos contratos de cartão de crédito consignado, considerando: (i) o dever de prestar informações suficientes, claras e adequadas ao consumidor,em especial quando este alega que pretendia contratar simples empréstimo consignado; e (ii) o prolongamento indeterminado da dívida, ante a aparente insuficiência dos descontos mensais para amortizá-la, frente aos juros rotativos aplicados no refinanciamento do saldo. II) Em caso de invalidação do contrato, aferir se a consequência a ser adotada deverá ser a restituição das partes ao estado anterior, a conversão do contrato em empréstimo consignado ou a revisão das cláusulas contratuais, bem como se haverá configuração de dano moral in re ipsa.",
+  "questao": "I - Definir se os alegados vícios que atingem os contratos de cartão de crédito com reserva de margem consignável (RMC) sujeitam a pretensão do autor: a) ao prazo decadencial do art. 178 do Código Civil, com fixação do termo inicial de contagem desse prazo; ou b) não se sujeitam a prazos extintivos em razão de nulidade, conforme o art. 169 do CC. II - Definir parâmetros objetivos para a aferição da validade e eventual caráter abusivo dos contratos de cartão de crédito consignado, considerando: a) o dever de prestar informações suficientes, claras e adequadas ao consumidor, em especial quando este alega que pretendia contratar simples empréstimo consignado; e b) o prolongamento indeterminado da dívida, ante a aparente insuficiência dos descontos mensais para amortizá-la, frente aos juros rotativos aplicados no refinanciamento do saldo. III - Em caso de vício no contrato, aferir se a consequência a ser adotada deverá ser: a) a restituição das partes ao estado anterior; b) a conversão do contrato em empréstimo consignado; ou c) a revisão de cláusulas contratuais; e d) se haverá configuração de dano moral in re ipsa .",
   "tese": null,
   "ramo": "DIREITO CIVIL",
   "processos": [
@@ -9234,13 +9234,27 @@
     "relator": "Raul Araújo",
     "julgado": null,
     "publicado": null
+   },
+   {
+    "numero": "REsp 2145244/SC",
+    "origem": "TJSC",
+    "relator": "Raul Araújo",
+    "julgado": null,
+    "publicado": null
+   },
+   {
+    "numero": "REsp 2245437/MG",
+    "origem": "TJMG",
+    "relator": "Raul Araújo",
+    "julgado": null,
+    "publicado": null
    }
   ],
   "data": null,
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1414&cod_tema_final=1414",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1415": {
@@ -9275,7 +9289,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1415&cod_tema_final=1415",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1416": {
@@ -9324,7 +9338,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1416&cod_tema_final=1416",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1417": {
@@ -9408,7 +9422,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1417&cod_tema_final=1417",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1418": {
@@ -9450,7 +9464,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1418&cod_tema_final=1418",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1419": {
@@ -9485,7 +9499,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1419&cod_tema_final=1419",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1420": {
@@ -9527,7 +9541,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1420&cod_tema_final=1420",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1421": {
@@ -9562,7 +9576,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1421&cod_tema_final=1421",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1422": {
@@ -9604,7 +9618,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1422&cod_tema_final=1422",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1423": {
@@ -9639,7 +9653,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1423&cod_tema_final=1423",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1424": {
@@ -9702,7 +9716,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1425&cod_tema_final=1425",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1426": {
@@ -9737,7 +9751,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1426&cod_tema_final=1426",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1427": {
@@ -9759,13 +9773,27 @@
     "relator": "Teodoro Silva Santos",
     "julgado": null,
     "publicado": null
+   },
+   {
+    "numero": "REsp 2244357/PR",
+    "origem": "TRF4",
+    "relator": "Teodoro Silva Santos",
+    "julgado": null,
+    "publicado": null
+   },
+   {
+    "numero": "REsp 2202212/RS",
+    "origem": "TRF4",
+    "relator": "Teodoro Silva Santos",
+    "julgado": null,
+    "publicado": null
    }
   ],
   "data": null,
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1427&cod_tema_final=1427",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1428": {
@@ -9814,7 +9842,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1428&cod_tema_final=1428",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1429": {
@@ -9849,7 +9877,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1429&cod_tema_final=1429",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1430": {
@@ -9884,7 +9912,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1430&cod_tema_final=1430",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1431": {
@@ -9912,7 +9940,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1431&cod_tema_final=1431",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1432": {
@@ -9961,7 +9989,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1432&cod_tema_final=1432",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1433": {
@@ -10010,7 +10038,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1433&cod_tema_final=1433",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-09-25",
+  "verificado_em": "2026-10-14T22:09:19+00:00",
   "novo": false
  },
  "stj.tema.1434": {

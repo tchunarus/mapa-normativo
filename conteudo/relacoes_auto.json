@@ -24217,5 +24217,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "cc.169",
+  "para": "clt.117",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 117 da CLT declara nulo de pleno direito o contrato ou convenção que estipule remuneração inferior ao salário mínimo, aplicando ao âmbito trabalhista o mesmo regime de nulidade absoluta do negócio jurídico tratado no art. 169 do Código Civil, que veda a confirmação e o convalescimento pelo decurso do tempo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "cf.92",
+  "para": "clt.644",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 644 da CLT detalha a composição dos órgãos da Justiça do Trabalho, Tribunal Superior do Trabalho, Tribunais Regionais do Trabalho e Juntas de Conciliação e Julgamento ou Juízos de Direito, já mencionados de modo genérico no inciso IV do art. 92 da Constituição, que apenas lista os Tribunais e Juízes do Trabalho entre os órgãos do Poder Judiciário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "cf.92",
+  "para": "adct.27",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 27 do ADCT disciplina a instalação do Superior Tribunal de Justiça, órgão incluído no inciso II do art. 92 da Constituição, detalhando o aproveitamento dos Ministros do Tribunal Federal de Recursos e a nomeação dos demais Ministros necessários à composição inicial do novo órgão judiciário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "cpc.1062",
+  "para": "cc.50",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.062 do CPC estende o incidente de desconsideração da personalidade jurídica ao processo dos juizados especiais, incidente que disciplina procedimentalmente a hipótese substantiva de abuso da personalidade jurídica por desvio de finalidade ou confusão patrimonial prevista no art. 50 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "cpc.1062",
+  "para": "clt.855-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 855-A da CLT estende expressamente o incidente de desconsideração da personalidade jurídica dos arts. 133 a 137 do CPC ao processo do trabalho, assim como o art. 1.062 do CPC o estende ao processo dos juizados especiais, ambos complementando o alcance subjetivo do mesmo incidente processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "cpc.1062",
+  "para": "l8078.28",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O incidente de desconsideração da personalidade jurídica, cuja aplicação aos juizados especiais o art. 1.062 do CPC assegura, também serve de via procedimental para a desconsideração fundada no art. 28 do CDC, hipótese distinta da prevista no art. 50 do Código Civil, por abranger também falência, insolvência e encerramento ou inatividade da pessoa jurídica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "cpc.454",
+  "para": "cpp.221",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os arts. 454 do CPC e 221 do CPP disciplinam a mesma prerrogativa de inquirição de autoridades em local, dia e hora previamente ajustados, mas com listas de autoridades parcialmente distintas entre os dois diplomas, o que pode gerar confusão sobre quais autoridades gozam da prerrogativa em cada processo, civil ou penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "cpc.610",
+  "para": "cc.2016",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 610 do CPC impõe o inventário judicial quando houver interessado incapaz, disciplinando procedimentalmente a regra substantiva do art. 2.016 do Código Civil, segundo a qual a partilha será sempre judicial se os herdeiros divergirem ou se algum deles for incapaz.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "cpc.610",
+  "para": "d9580.11",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 11 do RIR/2018 remete expressamente ao art. 610 da Lei nº 13.105, de 2015, ao disciplinar o prazo para apresentação da declaração de rendimentos após registrada em cartório a escritura pública de partilha prevista naquele dispositivo do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "cpp.3-C",
+  "para": "l9099.60",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 60 da Lei 9.099/95 atribui ao Juizado Especial Criminal a competência para as infrações penais de menor potencial ofensivo, matéria que o art. 3º-C do CPP expressamente excepciona do alcance da competência do juiz das garantias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "cpp.394",
+  "para": "cpc.318",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os arts. 394 do CPP e 318 do CPC estabelecem, cada qual em seu regime, a aplicação do procedimento comum às causas que não tenham procedimento especial, bem como sua aplicação subsidiária aos procedimentos especiais, o que pode gerar confusão entre o regime processual penal e o regime processual civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "cpp.394",
+  "para": "l11101.188",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 188 da Lei 11.101/05 determina a aplicação subsidiária das disposições do Código de Processo Penal aos crimes falimentares no que não forem incompatíveis com a lei especial, valendo-se do procedimento comum disciplinado pelo art. 394 do CPP na omissão da lei de falências.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "l9099.3",
+  "para": "clt.852-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 852-A da CLT submete ao procedimento sumaríssimo trabalhista os dissídios individuais de valor não superior a quarenta vezes o salário mínimo, mesmo critério quantitativo usado pelo inciso I do art. 3º da Lei 9.099/95 para fixar a competência do Juizado Especial Cível, institutos distintos que podem ser confundidos por usarem o mesmo parâmetro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "l9099.3",
+  "para": "cpc.1063",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 1.063 do CPC mantém a competência dos juizados especiais cíveis para as causas do inciso II do art. 275 do revogado CPC de 1973, exatamente a remissão feita pelo inciso II do art. 3º da Lei 9.099/95 ao fixar sua competência em razão da matéria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
+ },
+ {
+  "de": "l9099.3",
+  "para": "lcp123.74",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 74 da LC 123/06 estende às microempresas e empresas de pequeno porte a legitimidade para propor ação perante o Juizado Especial, complementando o regime de acesso ao juizado cuja competência em razão do valor e da matéria é fixada pelo art. 3º da Lei 9.099/95.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T22:17:57+00:00"
  }
 ]
