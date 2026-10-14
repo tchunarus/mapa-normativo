@@ -23937,5 +23937,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T19:19:09+00:00"
+ },
+ {
+  "de": "l9099.1",
+  "para": "cf.98",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Lei 9.099/95 institui os Juizados Especiais Cíveis e Criminais pela União e pelos Estados, dando execução ao comando do caput do art. 98 da Constituição Federal, que determina a criação desses órgãos para a conciliação, o julgamento e a execução de causas cíveis de menor complexidade e infrações penais de menor potencial ofensivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T20:18:21+00:00"
+ },
+ {
+  "de": "l8245.80",
+  "para": "cf.98",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 80 da Lei 8.245/91 refere-se expressamente ao inciso I do art. 98 da Constituição Federal para autorizar que as ações de despejo para uso próprio sejam tratadas como causas cíveis de menor complexidade, sujeitas à competência dos juizados especiais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T20:18:21+00:00"
+ },
+ {
+  "de": "l9099.95",
+  "para": "cf.98",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 95 da Lei 9.099/95 fixa o prazo para que os Estados, o Distrito Federal e os Territórios cumpram o mandamento do caput do art. 98 da Constituição Federal, que lhes impõe a criação dos juizados especiais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T20:18:21+00:00"
+ },
+ {
+  "de": "clt.833",
+  "para": "cpc.494",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Ambos tratam da correção de erro material ou de cálculo na decisão judicial, mas o art. 833 da CLT é a regra especial do processo do trabalho, fixando prazo próprio, antes da execução, e legitimando também a Procuradoria da Justiça do Trabalho a requerer a correção, o que afasta nesse ponto a aplicação subsidiária do art. 494 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T20:18:21+00:00"
+ },
+ {
+  "de": "cpc.656",
+  "para": "cc.2015",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 2.015 do Código Civil disciplina a partilha amigável no inventário, homologada pelo juiz, e o art. 656 do CPC complementa esse mesmo regime ao prever a correção de inexatidões materiais na descrição dos bens mesmo depois de transitada em julgado a sentença de partilha, com a anuência de todas as partes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T20:18:21+00:00"
+ },
+ {
+  "de": "cpc.656",
+  "para": "cc.1575",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos tratam de partilha de bens, mas em institutos distintos: o art. 656 do CPC rege a partilha no inventário sucessório, enquanto o art. 1.575, parágrafo único, do Código Civil trata da partilha de bens na separação judicial do casal, o que pode gerar confusão quanto ao procedimento e ao regime aplicável a cada caso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T20:18:21+00:00"
+ },
+ {
+  "de": "cpp.538",
+  "para": "l9099.61",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 538 do CPP utiliza a expressão infrações penais de menor potencial ofensivo, cujo conceito legal é definido pelo art. 61 da Lei 9.099/95 como as contravenções penais e os crimes com pena máxima não superior a dois anos, cumulada ou não com multa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T20:18:21+00:00"
+ },
+ {
+  "de": "cpp.79",
+  "para": "cpc.54",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos tratam dos institutos da conexão e da continência, mas com efeitos distintos: no art. 54 do CPC esses institutos apenas modificam a competência relativa, ao passo que no art. 79 do CPP eles determinam a unidade de processo e julgamento, ressalvadas as exceções do próprio artigo, o que pode gerar confusão sobre o regime aplicável em cada esfera.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T20:18:21+00:00"
+ },
+ {
+  "de": "cpp.79",
+  "para": "cf.122",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 79 do CPP excepciona da unidade de processo e julgamento o concurso entre a jurisdição comum e a militar, jurisdição esta organizada pelos órgãos previstos no art. 122 da Constituição Federal, o Superior Tribunal Militar e os tribunais e juízes militares.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T20:18:21+00:00"
+ },
+ {
+  "de": "cpc.1066",
+  "para": "l9099.83",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 1.066 do CPC deu nova redação ao art. 83 da Lei 9.099/95, que atualmente dispõe sobre os embargos de declaração nos juizados especiais, abrangendo as hipóteses de obscuridade, contradição ou omissão, o prazo de cinco dias e a correção de ofício dos erros materiais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T20:18:21+00:00"
+ },
+ {
+  "de": "l9099.83",
+  "para": "cpc.1022",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos preveem embargos de declaração para as mesmas hipóteses de obscuridade, contradição e omissão, mas o art. 83 da Lei 9.099/95 é a regra especial aplicável aos juizados especiais, com prazo próprio de cinco dias, inclusive para oposição oral, o que não é previsto no art. 1.022 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T20:18:21+00:00"
+ },
+ {
+  "de": "l9099.86",
+  "para": "cp.32",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 86 da Lei 9.099/95 trata da execução das penas privativas de liberdade e restritivas de direitos, ou de multa cumulada com estas, categorias de pena definidas pelo art. 32 do Código Penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T20:18:21+00:00"
+ },
+ {
+  "de": "l9099.86",
+  "para": "cp.43",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 86 da Lei 9.099/95 refere-se às penas restritivas de direitos, cujas modalidades, entre elas a prestação pecuniária, a perda de bens e valores e a prestação de serviços à comunidade, estão enumeradas no art. 43 do Código Penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T20:18:21+00:00"
  }
 ]
