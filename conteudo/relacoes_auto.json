@@ -23087,5 +23087,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T10:18:20+00:00"
+ },
+ {
+  "de": "l8429.21",
+  "para": "cpp.386",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 21 da Lei de Improbidade Administrativa remete expressamente ao art. 386 do Código de Processo Penal ao dispor que a absolvição criminal, quando fundada na inexistência do fato ou na negativa de autoria ali previstas, impede o trâmite da ação de improbidade, de modo que os dois dispositivos tratam de institutos conexos: a responsabilidade penal e a responsabilidade por improbidade administrativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T11:16:00+00:00"
+ },
+ {
+  "de": "l8934.32",
+  "para": "lsa.271",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 32, II, b, da Lei 8.934/94 inclui no registro mercantil o arquivamento dos atos de consórcio e de grupo de sociedades regidos pela Lei 6.404/76, e o art. 271 da Lei das Sociedades por Ações detalha que o grupo se considera constituído a partir do arquivamento desses documentos no registro do comércio, de modo que os dois dispositivos tratam do mesmo ato registral sob ângulos complementares.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T11:16:00+00:00"
+ },
+ {
+  "de": "l8934.32",
+  "para": "l11101.69",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 69 da Lei 11.101/05 determina ao Registro Público de Empresas a anotação da recuperação judicial, ato que se enquadra na previsão genérica do art. 32, II, e, da Lei 8.934/94 sobre o arquivamento de atos atribuídos ao registro mercantil por determinação legal, de modo que os dois dispositivos tratam do mesmo regime registral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T11:16:00+00:00"
+ },
+ {
+  "de": "l14133.179",
+  "para": "l8987.2",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 179 da Lei 14.133/21 deu nova redação aos incisos II e III do caput do art. 2º da Lei 8.987/95, que passaram a prever a licitação também na modalidade diálogo competitivo, além da concorrência, tanto para a concessão de serviço público quanto para a concessão precedida de execução de obra pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T11:16:00+00:00"
  }
 ]
