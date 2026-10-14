@@ -151,5 +151,21 @@
   "titulo": "Tema 1328/STJ: Cancelado",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1328&cod_tema_final=1328",
   "p": "stj.tema.1328"
+ },
+ {
+  "data": "2026-10-14T21:10:45+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1383/STJ: Trânsito em Julgado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1383&cod_tema_final=1383",
+  "p": "stj.tema.1383"
+ },
+ {
+  "data": "2026-10-14T21:10:45+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1384/STJ: Acórdão Publicado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1384&cod_tema_final=1384",
+  "p": "stj.tema.1384"
  }
 ]

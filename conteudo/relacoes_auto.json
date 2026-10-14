@@ -24067,5 +24067,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T20:18:21+00:00"
+ },
+ {
+  "de": "cpc.731",
+  "para": "cc.1575",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 1.575 do Código Civil prevê que a partilha de bens pode ser feita mediante proposta dos cônjuges e homologada pelo juiz. O art. 731 do CPC dá efetividade processual a essa regra, pois disciplina o conteúdo da petição de homologação consensual de divórcio ou separação, que deve conter as disposições relativas à descrição e à partilha dos bens comuns.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "cc.1575",
+  "para": "ctn.192",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.575 do Código Civil trata da partilha de bens decorrente da sentença de separação judicial, enquanto o art. 192 do CTN exige prova de quitação de todos os tributos relativos aos bens do espólio como condição para a sentença de partilha ou adjudicação em processo de inventário. Os dois dispositivos usam os termos partilha e sentença, mas regem institutos distintos, a partilha conjugal e a partilha hereditária, o que gera risco real de confusão entre os regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "cpc.657",
+  "para": "cc.2015",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 2.015 do Código Civil autoriza a partilha amigável entre herdeiros capazes por escritura pública, termo nos autos do inventário ou escrito particular homologado pelo juiz. O art. 657 do CPC complementa esse mesmo regime, prevendo nas mesmas três formas as hipóteses em que essa partilha amigável pode ser anulada por dolo, coação, erro essencial ou intervenção de incapaz.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "cpc.610",
+  "para": "cc.2015",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 610 do CPC dá efeito processual à partilha amigável por escritura pública prevista no art. 2.015 do Código Civil, exigindo que todos os herdeiros sejam capazes e concordes, e o § 2º do art. 610 exige que as partes estejam assistidas por advogado ou por defensor público para a lavratura do ato notarial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "l9099.90-A",
+  "para": "cf.122",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 90-A da Lei 9.099/95 afasta a aplicação dessa lei no âmbito da Justiça Militar, remetendo à estrutura institucional definida pelo art. 122 da Constituição Federal, que estabelece o Superior Tribunal Militar e os Tribunais e Juízes Militares instituídos por lei como órgãos dessa Justiça especializada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "cpc.454",
+  "para": "cf.122",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O inciso III do art. 454 do CPC assegura prerrogativa de foro para inquirição como testemunha aos ministros do Superior Tribunal Militar, órgão cuja existência e composição decorrem do inciso I do art. 122 da Constituição Federal, que o inclui entre os órgãos da Justiça Militar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "cp.32",
+  "para": "l8078.78",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 32 do Código Penal classifica as penas em privativas de liberdade, restritivas de direitos e de multa. O art. 78 do CDC determina que, além das penas privativas de liberdade e de multa, podem ser impostas penas de interdição temporária de direitos observado o disposto nos arts. 44 a 47 do próprio Código Penal, de modo que a parte geral do CP se aplica subsidiariamente à definição e à dosimetria dessas penas nos crimes contra o consumidor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "cp.32",
+  "para": "l8078.77",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 32 do Código Penal prevê a pena de multa como uma das três espécies de pena. O art. 77 do CDC fixa a pena pecuniária dos crimes contra o consumidor em dias-multa correspondentes ao mínimo e ao máximo de dias da pena privativa de liberdade cominada, determinando que o juiz observe o disposto no Código Penal na individualização dessa multa, o que evidencia a aplicação subsidiária da parte geral penal à lei especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "cp.32",
+  "para": "l9279.197",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 32 do Código Penal estabelece a multa como espécie autônoma de pena. O art. 197 da Lei da Propriedade Industrial fixa a pena de multa dos crimes contra a propriedade industrial em dias-multa, de acordo com a sistemática do Código Penal, de modo que a parte geral do CP disciplina subsidiariamente o cálculo dessa pena na lei especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "l9099.3",
+  "para": "l8245.80",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 80 da Lei 8.245/91 autoriza que a ação de despejo seja tratada como causa cível de menor complexidade. O inciso III do art. 3º da Lei 9.099/95 complementa essa autorização ao incluir expressamente a ação de despejo para uso próprio entre as causas de competência do Juizado Especial Cível, embora restrita a essa finalidade específica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "l9099.1",
+  "para": "cf.92",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso VII do art. 92 da Constituição Federal inclui os Tribunais e Juízes dos Estados e do Distrito Federal e Territórios entre os órgãos do Poder Judiciário. O art. 1º da Lei 9.099/95 complementa esse mesmo regime institucional ao criar os Juizados Especiais Cíveis e Criminais como órgãos da Justiça Ordinária integrantes dessa estrutura estadual e distrital.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "cpc.1062",
+  "para": "l9099.1",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 1º da Lei 9.099/95 institui os Juizados Especiais Cíveis e Criminais sem disciplinar o incidente de desconsideração da personalidade jurídica. O art. 1.062 do CPC supre essa omissão ao determinar que esse incidente se aplica também ao processo de competência dos juizados especiais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "l9099.61",
+  "para": "cf.98",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 98 da Constituição Federal atribui aos juizados especiais competência para o julgamento das infrações penais de menor potencial ofensivo, sem definir essa categoria. O art. 61 da Lei 9.099/95 regulamenta esse conceito constitucional, definindo como infrações de menor potencial ofensivo as contravenções penais e os crimes com pena máxima não superior a dois anos, cumulada ou não com multa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "cpp.3-C",
+  "para": "l9099.61",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 61 da Lei 9.099/95 define as infrações penais de menor potencial ofensivo. O art. 3º-C do CPP excepciona essas infrações da competência do juiz das garantias, ao estabelecer que essa competência abrange todas as infrações penais, exceto as de menor potencial ofensivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
+ },
+ {
+  "de": "cpp.394",
+  "para": "l9099.61",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso III do parágrafo primeiro do art. 394 do CPP estabelece o procedimento sumaríssimo para as infrações penais de menor potencial ofensivo, na forma da lei, remetendo à definição e ao rito próprio fixados pelo art. 61 e pelos demais dispositivos da Lei 9.099/95.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T21:20:47+00:00"
  }
 ]
