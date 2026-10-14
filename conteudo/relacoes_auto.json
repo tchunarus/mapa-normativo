@@ -22847,5 +22847,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T06:10:37+00:00"
+ },
+ {
+  "de": "cf.175",
+  "para": "l8987.6",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 6º, § 1º, da Lei 8.987/95 define o que é serviço adequado (regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia e modicidade das tarifas), dando concretude à obrigação prevista no art. 175, parágrafo único, inciso IV, da CF, de que a lei disporá sobre a obrigação de manter serviço adequado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "cf.175",
+  "para": "l8987.7",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 7º da Lei 8.987/95 enumera os direitos e obrigações dos usuários dos serviços concedidos, regulamentando diretamente o art. 175, parágrafo único, inciso II, da CF, que remete à lei a disciplina dos direitos dos usuários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "cf.175",
+  "para": "l8987.2",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 2º da Lei 8.987/95 define poder concedente e concessão de serviço público, dando concretude à exigência do art. 175, caput, da CF, de que a prestação de serviços públicos sob concessão ou permissão se dê na forma da lei e mediante licitação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "cf.175",
+  "para": "l11079.2",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 2º, §§ 1º e 2º, da Lei 11.079/04 define a parceria público-privada como modalidade especial de concessão, patrocinada ou administrativa, que se soma, com regras próprias, ao regime geral de concessão de serviços públicos previsto no art. 175 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "cf.175",
+  "para": "l8078.22",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 22 do CDC impõe aos órgãos públicos e às concessionárias e permissionárias o dever de fornecer serviços adequados, eficientes, seguros e contínuos, complementando sob a ótica da proteção do consumidor o mesmo regime de concessão e permissão de serviços públicos disciplinado pelo art. 175 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "cpc.114",
+  "para": "l8078.113",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 5º do art. 5º da Lei 7.347/85, acrescentado pelo art. 113 do CDC, trata do litisconsórcio facultativo entre os Ministérios Públicos na ação civil pública, instituto distinto do litisconsórcio necessário regulado pelo art. 114 do CPC, havendo risco de se confundirem as duas modalidades.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "floripa_ctm.219",
+  "para": "sc_icms_lei.85",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 85 da Lei 10.297/96-SC pune o início de atividade de estabelecimento sem prévia inscrição no cadastro de contribuintes do ICMS, cadastro estadual que pode ser confundido com o cadastro municipal de atividades de que trata o art. 219 do CTM de Florianópolis, apesar de se referirem a entes e tributos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "floripa_ctm.219",
+  "para": "lcp123.6",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 6º, § 1º, da LC 123/06 determina a simplificação, racionalização e uniformização, pelos órgãos envolvidos na abertura e fechamento de empresas, dos requisitos exigidos para registro e legalização, o que complementa, no âmbito do regime do Simples Nacional, a exigência de inscrição prevista no art. 219 do CTM de Florianópolis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "floripa_ctm.219",
+  "para": "d9580.204",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 204 do RIR/2018 trata da obrigatoriedade de inscrição no CNPJ, cadastro federal que, por também condicionar o exercício de atividade, pode ser confundido com o cadastro municipal de atividades exigido pelo art. 219 do CTM de Florianópolis, apesar de se tratarem de registros perante entes federativos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "l11101.178",
+  "para": "sc_icms_lei.83-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 83-A da Lei 10.297/96-SC pune com multa administrativa a falta de escrituração dos livros fiscais digitais, infração que pode ser confundida com o crime falimentar do art. 178 da Lei 11.101/05, igualmente centrado na falta de escrituração de livros obrigatórios, mas sujeito a sanção penal e condicionado à existência de sentença de falência, concessão de recuperação judicial ou homologação de recuperação extrajudicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "l13988.29",
+  "para": "cpc.181",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 181 do CPC limita a responsabilidade civil regressiva do membro do Ministério Público a casos de dolo ou fraude no exercício de suas funções, regra que pode ser confundida com a do art. 29 da Lei 13.988/20, que impõe o mesmo limite aos agentes públicos que participam da transação tributária, em regime próprio e mais abrangente quanto aos agentes alcançados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "l13988.29",
+  "para": "cpc.184",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 184 do CPC limita a responsabilidade civil regressiva do membro da Advocacia Pública a casos de dolo ou fraude no exercício de suas funções, regra próxima da estabelecida pelo art. 29 da Lei 13.988/20 para os agentes públicos que participam da transação tributária, havendo risco de se tomar uma pela outra fora de seus respectivos âmbitos de aplicação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "l13988.29",
+  "para": "cpc.187",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 187 do CPC limita a responsabilidade civil regressiva do membro da Defensoria Pública a casos de dolo ou fraude no exercício de suas funções, regra análoga à do art. 29 da Lei 13.988/20 para os agentes públicos que participam da transação tributária, com risco de confusão quanto ao âmbito de aplicação de cada uma.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "l13988.29",
+  "para": "l8429.21",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 21, incisos I e II, da LIA dispensa, para a aplicação das sanções nela previstas, a efetiva ocorrência de dano ao patrimônio público e a aprovação ou rejeição das contas pelo órgão de controle, o que aparentemente conflita com o art. 29 da Lei 13.988/20, que restringe a responsabilização do agente público na transação tributária aos casos de dolo ou fraude, conciliando-se os dois pela especialidade deste último para a hipótese de transação tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "l14133.137",
+  "para": "l13303.83",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 83 da Lei 13.303/16 disciplina as sanções aplicáveis às empresas públicas e sociedades de economia mista pela inexecução total ou parcial do contrato, regime específico que pode ser confundido com as hipóteses gerais de extinção do contrato administrativo por inadimplemento previstas no art. 137, inciso I, da Lei 14.133/21.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "l8078.58",
+  "para": "cf.175",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 58 do CDC inclui a revogação da concessão ou permissão de uso entre as sanções administrativas por vício de quantidade ou qualidade do produto ou serviço, complementando sob a ótica da proteção do consumidor o regime de concessão e permissão de serviços públicos estabelecido pelo art. 175 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T09:15:57+00:00"
  }
 ]
