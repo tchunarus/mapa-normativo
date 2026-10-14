@@ -23007,5 +23007,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T09:15:57+00:00"
+ },
+ {
+  "de": "cpc.181",
+  "para": "ctn.208",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos os dispositivos atribuem responsabilidade pessoal a um agente público que atua com dolo ou fraude no exercício de sua função (o membro do Ministério Público, no CPC, e o funcionário que expede certidão negativa, no CTN). Tratam, porém, de institutos distintos: o CPC estabelece responsabilidade civil regressiva genérica do membro do Ministério Público, enquanto o CTN impõe responsabilização pessoal específica pelo próprio crédito tributário, o que gera risco de confusão entre os dois regimes de responsabilização por dolo ou fraude.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T10:18:20+00:00"
+ },
+ {
+  "de": "cpc.187",
+  "para": "floripa_ctm.195",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos tratam da responsabilização pessoal de um agente público por dolo ou fraude no exercício da função, porém em institutos diferentes: o CPC cuida da responsabilidade civil regressiva do membro da Defensoria Pública, e o CTM de Florianópolis responsabiliza pessoalmente o funcionário municipal que expede certidão negativa com dolo ou fraude pelo próprio crédito tributário, o que gera risco de confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T10:18:20+00:00"
+ },
+ {
+  "de": "l8212.49",
+  "para": "d9580.204",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 49 da Lei 8.212/91 prevê que, para o produtor rural pessoa física ou segurado especial, a matrícula atribuída pela Secretaria da Receita Federal do Brasil substitui a inscrição no Cadastro Nacional da Pessoa Jurídica, abrindo exceção, para essa categoria, à obrigatoriedade geral de inscrição no CNPJ tratada no art. 204 do RIR/2018.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T10:18:20+00:00"
+ },
+ {
+  "de": "l8212.49",
+  "para": "l8934.32",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos empregam o termo matrícula para designar um ato de registro administrativo, mas em cadastros distintos: a Lei 8.212/91 trata da matrícula da empresa perante a Secretaria da Receita Federal do Brasil para fins previdenciários, enquanto a Lei 8.934/94, no inciso I do art. 32, trata da matrícula de leiloeiros, tradutores públicos e intérpretes comerciais perante a Junta Comercial, o que pode gerar confusão entre os dois institutos homônimos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T10:18:20+00:00"
+ },
+ {
+  "de": "l11079.2",
+  "para": "l8987.2",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 2º da Lei 11.079/04 define a concessão patrocinada remetendo expressamente à concessão de serviços públicos de que trata a Lei 8.987/95, cujo art. 2º conceitua esse instituto, e o § 3º do mesmo artigo utiliza a mesma definição para excluir a concessão comum do conceito de parceria público-privada quando ausente a contraprestação pecuniária do parceiro público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T10:18:20+00:00"
+ },
+ {
+  "de": "l8137.3",
+  "para": "d9580.1029",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.029 do RIR/2018 reproduz, para o âmbito da fiscalização do imposto de renda, a mesma conduta tipificada no art. 3º da Lei 8.137/90, citando-a expressamente como fundamento legal e sujeitando o servidor às penas ali previstas, de modo que os dois dispositivos descrevem o mesmo crime funcional contra a ordem tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T10:18:20+00:00"
+ },
+ {
+  "de": "l8137.3",
+  "para": "cp.314",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 3º da Lei 8.137/90 especializa, para o funcionário que atua na fiscalização tributária, a conduta de extraviar, sonegar ou inutilizar livro oficial ou documento já tipificada de forma geral no art. 314 do Código Penal, acrescentando a exigência de que o extravio do processo fiscal acarrete pagamento indevido ou inexato de tributo ou contribuição social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T10:18:20+00:00"
+ },
+ {
+  "de": "l8137.3",
+  "para": "cp.321",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 3º da Lei 8.137/90 especializa, para o funcionário que atua perante a administração fazendária, a conduta de patrocinar interesse privado perante a administração pública já tipificada no art. 321 do Código Penal como advocacia administrativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T10:18:20+00:00"
  }
 ]
