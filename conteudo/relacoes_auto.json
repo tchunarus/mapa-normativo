@@ -22557,5 +22557,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T00:08:59+00:00"
+ },
+ {
+  "de": "l8078.110",
+  "para": "l8429.17-D",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso IV acrescentado pelo art. 110 do CDC ao art. 1º da Lei 7.347/85 estende a ação civil pública a qualquer interesse difuso ou coletivo, o que pode ser confundido com a ação de improbidade administrativa, já que o art. 17-D da Lei 8.429/92 esclarece expressamente que essa ação não constitui ação civil e veda seu ajuizamento para a proteção de interesses difusos, coletivos ou individuais homogêneos, ressalvado o disposto na própria Lei de Improbidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T01:08:24+00:00"
+ },
+ {
+  "de": "l8429.9",
+  "para": "cp.317",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 9º da Lei 8.429/92 tipifica como ato de improbidade por enriquecimento ilícito o recebimento de vantagem patrimonial indevida por agente público em razão de suas atribuições, conduta que se assemelha à corrupção passiva do art. 317 do Código Penal, mas os dispositivos pertencem a regimes distintos e independentes, um de natureza civil e sancionatória, e outro penal, podendo a mesma conduta ensejar as duas responsabilizações cumulativamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T01:08:24+00:00"
+ },
+ {
+  "de": "l8934.2",
+  "para": "cc.967",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 967 do Código Civil impõe ao empresário o dever geral de inscrição no Registro Público de Empresas Mercantis antes do início de sua atividade, dever que o art. 2º da Lei 8.934/94 complementa ao especificar que os atos das firmas mercantis individuais e das sociedades mercantis, independentemente de seu objeto, são arquivados nesse mesmo registro, salvo exceções previstas em lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T01:08:24+00:00"
+ },
+ {
+  "de": "l8934.2",
+  "para": "cc.1150",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.150 do Código Civil distingue o Registro Público de Empresas Mercantis, a cargo das juntas comerciais organizadas pela Lei 8.934/94, do Registro Civil de Pessoas Jurídicas, ao qual se vincula a sociedade simples, e o art. 2º da Lei 8.934/94 complementa essa distinção ao definir que os atos das firmas mercantis individuais e das sociedades mercantis são arquivados justamente no registro a cargo das juntas comerciais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T01:08:24+00:00"
+ },
+ {
+  "de": "lsa.97",
+  "para": "l8934.35",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 97 da Lei das Sociedades por Ações atribui ao registro do comércio o exame, na constituição da companhia, da observância das prescrições legais e da ausência de cláusulas contrárias à lei, à ordem pública e aos bons costumes, especializando para as sociedades anônimas a regra geral do inciso I do art. 35 da Lei 8.934/94, que veda o arquivamento, para qualquer espécie de empresa mercantil, de documentos nessas mesmas condições.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T01:08:24+00:00"
+ },
+ {
+  "de": "l8934.39-A",
+  "para": "cc.1181",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1.181 do Código Civil exige a autenticação dos livros obrigatórios da empresa no Registro Público de Empresas Mercantis antes de postos em uso, e o art. 39-A da Lei 8.934/94 especializa essa exigência ao admitir que a autenticação realizada por meio de sistemas públicos eletrônicos, para empresas de qualquer porte, dispensa qualquer outra forma de autenticação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T01:08:24+00:00"
+ },
+ {
+  "de": "l8934.57",
+  "para": "l9492.41",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 57 da Lei 8.934/94 autoriza as juntas comerciais a eliminar atos e documentos arquivados depois de microfilmados ou de preservada sua imagem por meios tecnológicos mais avançados, regime que pode ser confundido com o do art. 41 da Lei 9.492/97, pelo qual os tabeliães de protestos também podem adotar microfilmagem e gravação eletrônica de imagem independentemente de autorização, sem que essa lei, porém, autorize a eliminação dos documentos originais dos serviços de protesto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T01:08:24+00:00"
  }
 ]
