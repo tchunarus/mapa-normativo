@@ -23797,5 +23797,25 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T17:19:19+00:00"
+ },
+ {
+  "de": "cpc.494",
+  "para": "d70235.32",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 494 do CPC permite corrigir, de ofício ou a requerimento da parte, inexatidões materiais ou erros de cálculo da sentença, e o art. 32 do PAF prevê mecanismo análogo para a decisão administrativa fiscal, com redação quase idêntica. Os dois dispositivos tratam de institutos distintos, cada qual próprio de seu processo, judicial e administrativo, e não servem um ao outro para fundamentar correção fora de seu âmbito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T18:15:41+00:00"
+ },
+ {
+  "de": "cc.842",
+  "para": "l9307.9",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 842 do CC exige, para a transação sobre direitos contestados em juízo, escritura pública ou termo nos autos, e o art. 9º da Lei 9.307/96 exige, para o compromisso arbitral, termo nos autos quando judicial ou instrumento escrito quando extrajudicial. Ambos regulam a forma de negócios jurídicos que dispõem sobre litígios, mas a transação extingue a obrigação discutida, enquanto o compromisso arbitral apenas desloca o litígio para a arbitragem, sem compor o mérito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T18:15:41+00:00"
  }
 ]
