@@ -23127,5 +23127,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T11:16:00+00:00"
+ },
+ {
+  "de": "cpp.386",
+  "para": "cp.20",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso VI do art. 386 do Código de Processo Penal remete expressamente ao art. 20 do Código Penal como uma das causas que isentam o réu de pena. O art. 20, § 1º, do Código Penal trata do erro sobre elemento constitutivo do tipo legal e da descriminante putativa, hipótese que a sentença absolutória deve reconhecer quando presente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T12:21:52+00:00"
+ },
+ {
+  "de": "cpp.386",
+  "para": "cp.21",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso VI do art. 386 do Código de Processo Penal cita o art. 21 do Código Penal entre as excludentes que levam à absolvição. O art. 21 regula o erro de proibição, que isenta de pena quando inevitável e apenas a reduz quando evitável, conforme seu parágrafo único.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T12:21:52+00:00"
+ },
+ {
+  "de": "cpp.386",
+  "para": "cp.22",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso VI do art. 386 do Código de Processo Penal remete ao art. 22 do Código Penal, que isenta de pena o agente que atua sob coação irresistível ou em estrita obediência hierárquica a ordem não manifestamente ilegal, circunstância que fundamenta a absolvição criminal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T12:21:52+00:00"
+ },
+ {
+  "de": "cpp.386",
+  "para": "cp.23",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso VI do art. 386 do Código de Processo Penal cita o art. 23 do Código Penal, que exclui o crime nas hipóteses de estado de necessidade, legítima defesa e estrito cumprimento do dever legal ou exercício regular de direito, ressalvado o excesso previsto no parágrafo único.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T12:21:52+00:00"
+ },
+ {
+  "de": "cpp.386",
+  "para": "cp.26",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso VI do art. 386 do Código de Processo Penal remete ao art. 26 do Código Penal, que isenta de pena o agente inteiramente incapaz de entender o caráter ilícito do fato por doença mental, prevendo no parágrafo único a redução de pena para a capacidade apenas reduzida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T12:21:52+00:00"
+ },
+ {
+  "de": "cpp.386",
+  "para": "cp.28",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso VI do art. 386 do Código de Processo Penal cita o § 1º do art. 28 do Código Penal, que isenta de pena o agente inteiramente incapaz ao tempo do fato por embriaguez completa proveniente de caso fortuito ou força maior, distinta da embriaguez voluntária ou culposa tratada no caput.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T12:21:52+00:00"
+ },
+ {
+  "de": "l11101.69",
+  "para": "cc.1155",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 69 da Lei 11.101/05 impõe regra especial ao devedor em recuperação judicial, obrigando-o a acrescer a expressão própria após o nome empresarial em todos os atos e documentos. O art. 1.155 do Código Civil define nome empresarial, instituto geral sobre o qual essa obrigação específica incide.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T12:21:52+00:00"
+ },
+ {
+  "de": "l8987.32",
+  "para": "cf.36",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 32 da Lei 8.987/95 trata da intervenção do poder concedente na concessão de serviço público, medida administrativa decretada por decreto. O art. 36 da Constituição Federal regula a intervenção federal nos Estados, instituto político distinto que apenas compartilha o termo intervenção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T12:21:52+00:00"
+ },
+ {
+  "de": "l8987.7",
+  "para": "l8078.2",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 7º da Lei 8.987/95 assegura direitos aos usuários de serviço público concedido sem prejuízo do disposto na Lei 8.078/90, remetendo expressamente ao Código de Defesa do Consumidor. O art. 2º do CDC define consumidor como quem utiliza produto ou serviço como destinatário final, conceito aplicável ao usuário nessa extensão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T12:21:52+00:00"
  }
 ]
