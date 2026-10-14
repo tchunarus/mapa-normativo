@@ -23357,5 +23357,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T13:25:59+00:00"
+ },
+ {
+  "de": "adct.48",
+  "para": "l8078.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 48 do ADCT fixou prazo de cento e vinte dias para o Congresso Nacional elaborar o código de defesa do consumidor, e o art. 1º do CDC cumpre esse mandamento, citando expressamente o art. 48 das Disposições Transitórias como fundamento de sua edição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T14:20:05+00:00"
+ },
+ {
+  "de": "cpc.657",
+  "para": "cc.139",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 657 do CPC disciplina o procedimento e o prazo para anular, por erro essencial, a partilha amigável homologada judicialmente, aplicando ao caso concreto o conceito de erro substancial que o art. 139 do CC define em abstrato como vício do negócio jurídico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T14:20:05+00:00"
+ },
+ {
+  "de": "cc.151",
+  "para": "cpp.648",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 151 do CC cuida da coação como vício da vontade em negócio jurídico privado, ao passo que o art. 648 do CPP define a coação ilegal que autoriza a impetração de habeas corpus, isto é, a restrição indevida da liberdade de locomoção. Os dispositivos compartilham apenas o termo coação, sem qualquer relação de regime entre os institutos, o que pode induzir confusão terminológica entre leigos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T14:20:05+00:00"
+ },
+ {
+  "de": "cpc.22",
+  "para": "lindb.12",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "Ambos os dispositivos fixam hipóteses de competência internacional concorrente da autoridade judiciária brasileira; o art. 12 da LINDB estabelece a regra geral (réu domiciliado no Brasil ou obrigação aqui cumprida), e o art. 22 do CPC, dentro do mesmo regime, acrescenta hipóteses específicas de competência (alimentos, relações de consumo e eleição de foro), detalhando-o sem substituí-lo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T14:20:05+00:00"
+ },
+ {
+  "de": "cpc.248",
+  "para": "lef.8",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 248 do CPC disciplina o regime geral da citação pelo correio no processo civil; o art. 8º da Lei 6.830/80 cria regime próprio e autossuficiente de citação por correio na execução fiscal, com prazos e consequências específicas nos incisos I e II, especializando a disciplina geral do CPC para esse procedimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T14:20:05+00:00"
+ },
+ {
+  "de": "cpc.249",
+  "para": "lef.8",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 249 do CPC autoriza a citação por oficial de justiça quando frustrada a via postal; o inciso III do art. 8º da Lei 6.830/80 prevê, na execução fiscal, que a citação será feita por Oficial de Justiça ou por edital quando o aviso de recepção não retornar no prazo de quinze dias, especializando para esse procedimento a mesma lógica de alternativa ao fracasso da via postal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T14:20:05+00:00"
  }
 ]
