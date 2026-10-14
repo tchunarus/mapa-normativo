@@ -143,5 +143,13 @@
   "titulo": "Tema 1304/STJ: Acórdão Publicado - RE Pendente",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1304&cod_tema_final=1304",
   "p": "stj.tema.1304"
+ },
+ {
+  "data": "2026-10-14T19:09:28+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1328/STJ: Cancelado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1328&cod_tema_final=1328",
+  "p": "stj.tema.1328"
  }
 ]

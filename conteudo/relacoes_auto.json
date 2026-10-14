@@ -23817,5 +23817,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T18:15:41+00:00"
+ },
+ {
+  "de": "cpp.315",
+  "para": "l9784.64-A",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O inciso V do § 2º do art. 315 do CPP veda a decisão que se limite a invocar precedente ou súmula sem identificar seus fundamentos determinantes, e o inciso VI veda deixar de seguir súmula invocada pela parte sem demonstrar distinção ou superação. O art. 64-A da Lei 9.784/99 impõe dever semelhante, mas restrito ao recurso administrativo em que se alegue violação de súmula vinculante, exigindo explicitação das razões de aplicabilidade ou inaplicabilidade, o que configura apenas ponto de contato entre os dois regimes, judicial penal e administrativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T19:19:09+00:00"
+ },
+ {
+  "de": "cpp.381",
+  "para": "l9307.26",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 381 do CPP exige que a sentença penal contenha relatório, indicação dos motivos de fato e de direito e dispositivo, estrutura semelhante à do art. 26 da Lei 9.307/96 para a sentença arbitral, que também exige relatório, fundamentos e dispositivo. São institutos conexos, a sentença de jurisdição estatal penal e a sentença de jurisdição privada arbitral, com redação próxima o bastante para gerar confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T19:19:09+00:00"
+ },
+ {
+  "de": "d70235.31",
+  "para": "l9307.26",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 31 do PAF exige que a decisão administrativa fiscal contenha relatório resumido, fundamentos legais e conclusão, estrutura semelhante à do art. 26 da Lei 9.307/96 para a sentença arbitral, que também exige relatório, fundamentos e dispositivo. Trata-se de atos de naturezas muito diversas, a decisão em processo administrativo tributário e a sentença de jurisdição privada, de modo que a semelhança estrutural configura apenas ponto de contato entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T19:19:09+00:00"
+ },
+ {
+  "de": "d70235.32",
+  "para": "cpc.656",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 32 do PAF permite corrigir de ofício ou a requerimento do sujeito passivo as inexatidões materiais da decisão administrativa fiscal, e o art. 656 do CPC permite ao juiz, de ofício ou a requerimento da parte, corrigir as inexatidões materiais da partilha já transitada em julgado. São institutos conexos, a correção de erro material na decisão fiscal e na correção da partilha judicial, com redação muito próxima, o que pode gerar confusão quanto ao regime aplicável a cada ato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T19:19:09+00:00"
+ },
+ {
+  "de": "d70235.32",
+  "para": "clt.833",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 32 do PAF permite corrigir de ofício ou a requerimento do sujeito passivo as inexatidões materiais da decisão administrativa fiscal, e o art. 833 da CLT permite corrigir, antes da execução, de ofício ou a requerimento dos interessados, os erros ou enganos de escrita e de cálculo existentes na decisão trabalhista. São institutos conexos, a correção de erro material na decisão fiscal e na decisão trabalhista, com disciplina muito semelhante que pode gerar confusão entre os regimes aplicáveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T19:19:09+00:00"
+ },
+ {
+  "de": "l9099.60",
+  "para": "cpp.79",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 79 do CPP estabelece que a conexão e a continência importam unidade de processo e julgamento, ressalvadas apenas as exceções de seus incisos I e II. O parágrafo único do art. 60 da Lei 9.099/95 excepciona essa unidade ao determinar que, mesmo reunidos os processos perante o juízo comum ou o tribunal do júri por conexão ou continência, permanecem aplicáveis os institutos próprios do Juizado Especial Criminal, a transação penal e a composição dos danos civis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T19:19:09+00:00"
+ },
+ {
+  "de": "l9099.60",
+  "para": "cf.98",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 98 da Constituição Federal determina a criação de juizados especiais criminais, competentes para a conciliação, o julgamento e a execução das infrações penais de menor potencial ofensivo. O art. 60 da Lei 9.099/95 regulamenta esse comando constitucional, disciplinando especificamente a competência do Juizado Especial Criminal e as regras de conexão e continência aplicáveis a essas infrações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T19:19:09+00:00"
+ },
+ {
+  "de": "l9099.66",
+  "para": "cpp.538",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 66 da Lei 9.099/95 determina que, não encontrado o acusado para citação no Juizado Especial Criminal, as peças existentes sejam encaminhadas ao juízo comum para adoção do procedimento previsto em lei. O art. 538 do CPP é exatamente esse dispositivo, ao estabelecer que, nessa hipótese, observar-se-á o procedimento sumário previsto no capítulo respectivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T19:19:09+00:00"
+ },
+ {
+  "de": "l9099.66",
+  "para": "cpp.361",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 361 do CPP permite, como regra geral, a citação do réu por edital quando não encontrado. O parágrafo único do art. 66 da Lei 9.099/95 excepciona essa regra no âmbito do Juizado Especial Criminal, pois determina que, não encontrado o acusado para citação pessoal, as peças sejam encaminhadas ao juízo comum para adoção de outro procedimento, em vez de se proceder à citação por edital.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T19:19:09+00:00"
+ },
+ {
+  "de": "l9099.69",
+  "para": "cpp.322",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 322 do CPP autoriza a autoridade policial a conceder fiança nos casos de infração cuja pena máxima não exceda a quatro anos, pressupondo a exigência de fiança como regra geral. O parágrafo único do art. 69 da Lei 9.099/95 excepciona esse regime ao dispensar a exigência de fiança, e também a prisão em flagrante, quando o autor do fato é imediatamente encaminhado ao Juizado Especial Criminal ou assume o compromisso de a ele comparecer.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T19:19:09+00:00"
+ },
+ {
+  "de": "cpp.49",
+  "para": "l9099.74",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 74 da Lei 9.099/95 prevê que o acordo de composição dos danos civis, homologado em ação penal privada ou pública condicionada à representação, acarreta a renúncia ao direito de queixa ou representação. O art. 49 do CPP complementa esse regime ao disciplinar o efeito da renúncia quando há mais de um autor do crime, determinando que a renúncia em relação a um deles se estende a todos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T19:19:09+00:00"
+ },
+ {
+  "de": "l9099.74",
+  "para": "cp.102",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 74 da Lei 9.099/95 extingue o direito de queixa ou representação pela homologação do acordo de composição dos danos civis, hipótese distinta da irretratabilidade da representação tratada no art. 102 do Código Penal, que se refere à impossibilidade de retratação depois de oferecida a denúncia. Os dois dispositivos regulam momentos diferentes da perda da faculdade de representar ou queixar, o que pode gerar confusão quanto ao marco aplicável em cada caso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-14T19:19:09+00:00"
  }
 ]
