@@ -26177,5 +26177,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T22:24:56+00:00"
+ },
+ {
+  "de": "l10522.19-A",
+  "para": "ctn.194-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 19-A da Lei nº 10.522, de 2002, impede que Auditores-Fiscais constituam créditos tributários relativos aos temas de dispensa legal fundados em pareceres sobre jurisprudência vinculante, detalhando, para a esfera federal, uma das formas de observância de precedentes do Supremo Tribunal Federal e do Superior Tribunal de Justiça também contempladas pelo art. 194-A do Código Tributário Nacional, dentro do mesmo regime de desoneração da cobrança fazendária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "floripa_ctm.190-A",
+  "para": "ctn.194-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 190-A do Código Tributário Municipal de Florianópolis autoriza a Procuradoria-Geral do Município a reconhecer de ofício a prescrição e a deixar de recorrer quando a causa envolver matéria sumulada ou decidida de modo desfavorável à Fazenda Pública pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, reproduzindo em âmbito municipal o mesmo mecanismo de desistência de recursos previsto no art. 194-A, § 1º, inciso III, do Código Tributário Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "l8213.131",
+  "para": "ctn.194-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 131 da Lei nº 8.213, de 1991, autoriza o Ministro da Previdência a permitir que o INSS desista ou se abstenha de propor ações e recursos quando a matéria tiver declaração de inconstitucionalidade do Supremo Tribunal Federal ou jurisprudência consolidada dos tribunais superiores, aplicando aos créditos previdenciários o mesmo mecanismo de desistência de recursos que o art. 194-A, § 1º, inciso III, do Código Tributário Nacional prevê para os créditos tributários e aduaneiros em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "d70235.26-A",
+  "para": "ctn.208-G",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 26-A do Decreto nº 70.235, de 1972, veda aos órgãos de julgamento do processo administrativo fiscal federal afastar lei ou ato normativo sob fundamento de inconstitucionalidade fora das hipóteses que elenca, regulamentando em decreto o mesmo dever de observância das decisões vinculantes do Supremo Tribunal Federal e do Superior Tribunal de Justiça que o art. 208-G do Código Tributário Nacional estabelece de modo geral para o processo administrativo fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "lcp227.74",
+  "para": "d70235.26-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 74 da Lei Complementar nº 227, de 2026, especializa para o processo administrativo do IBS e da CBS o mesmo dever de observância das súmulas vinculantes e das decisões definitivas do Supremo Tribunal Federal em controle de constitucionalidade que o art. 26-A do Decreto nº 70.235, de 1972, impõe de forma geral aos órgãos de julgamento do processo administrativo fiscal federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "d70235.9",
+  "para": "ctn.142",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 9º do Decreto nº 70.235, de 1972, regulamenta, para o processo administrativo fiscal federal, a formalização em autos de infração e notificações de lançamento do mesmo crédito tributário cuja constituição pelo lançamento é definida, em caráter geral, pelo art. 142 do Código Tributário Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "lcp214.330",
+  "para": "d70235.9",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 330 da Lei Complementar nº 214, de 2025, especializa para o IBS e a CBS a mesma exigência de formalização do crédito tributário por auto de infração que o art. 9º do Decreto nº 70.235, de 1972, estabelece de modo geral para o processo administrativo fiscal federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "l9430.43",
+  "para": "d70235.9",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 43 da Lei nº 9.430, de 1996, detalha uma modalidade específica de exigência de crédito tributário restrita a multa ou a juros de mora, isolada ou conjuntamente, dentro do mesmo regime de formalização por auto de infração ou notificação de lançamento de que trata o art. 9º do Decreto nº 70.235, de 1972.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "d9580.206",
+  "para": "l9430.81",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 206 do Regulamento do Imposto de Renda de 2018 regulamenta, em decreto, a mesma hipótese de inaptidão cadastral do CNPJ por falta de apresentação de declarações e demonstrativos em dois exercícios consecutivos prevista no art. 81 da Lei nº 9.430, de 1996, inclusive com remissão expressa a esse dispositivo em seu próprio texto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "l9430.81-A",
+  "para": "d9580.206",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 81-A da Lei nº 9.430, de 1996, detalha a consequência cadastral seguinte à declaração de inaptidão tratada no art. 206 do Regulamento do Imposto de Renda de 2018, determinando a baixa automática da inscrição no CNPJ cento e oitenta dias após essa declaração, dentro do mesmo regime de regularidade cadastral perante a Secretaria da Receita Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "l9492.1",
+  "para": "lef.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O protesto da certidão de dívida ativa, incluído entre os títulos sujeitos a protesto pelo parágrafo único do art. 1º da Lei nº 9.492, de 1997, é mecanismo extrajudicial autônomo e facultativo de cobrança, que não se confunde com a execução judicial da dívida ativa disciplinada pelo art. 1º da Lei nº 6.830, de 1980, nem a substitui ou dela depende.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "floripa_ctm.189-A",
+  "para": "l9492.1",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 189-A do Código Tributário Municipal de Florianópolis atribui à Secretaria do Programa de Racionalização da Cobrança da Dívida Ativa a coordenação das atividades relacionadas ao protesto de certidões de dívida ativa, operacionalizando em âmbito municipal o protesto definido de modo geral pelo art. 1º da Lei nº 9.492, de 1997.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "cpc.517",
+  "para": "l9492.19",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 517 do Código de Processo Civil autoriza levar a protesto a decisão judicial transitada em julgado nos termos da lei, de modo que o pagamento do título assim protestado segue o mesmo procedimento do art. 19 da Lei nº 9.492, de 1997, realizado diretamente no Tabelionato competente dentro do prazo legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "l9492.19",
+  "para": "cc.902",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 19, § 4º, da Lei nº 9.492, de 1997, reproduz para o pagamento realizado no Tabelionato de Protesto a mesma lógica do art. 902, § 2º, do Código Civil, segundo a qual o pagamento parcial de título de crédito gera quitação em separado, sem a tradição do título original ao devedor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T23:20:09+00:00"
  }
 ]
