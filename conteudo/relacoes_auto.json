@@ -25107,5 +25107,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "clt.764",
+  "para": "l9307.3",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 2º do art. 764 da CLT converte o juízo conciliatório malsucedido em juízo arbitral obrigatório e interno à Justiça do Trabalho, enquanto o art. 3º da Lei 9.307/96 disciplina a arbitragem voluntária instaurada por convenção das partes; o ponto de contato está apenas na nomenclatura comum, pois os dois institutos têm natureza, origem e regime inteiramente distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T14:18:29+00:00"
+ },
+ {
+  "de": "cpc.961",
+  "para": "cpp.780",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 961 do CPC admite expressamente, em sua parte final, disposição em sentido contrário de lei, e o art. 780 do CPP é essa exceção para a matéria penal, pois submete a homologação de sentença penal estrangeira e o cumprimento de cartas rogatórias ao título próprio do Código de Processo Penal, afastando o regime do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T14:18:29+00:00"
+ },
+ {
+  "de": "ctn.43",
+  "para": "d9580.33",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 33 do RIR/2018 reproduz e regulamenta, com remissão expressa ao art. 43, caput, incisos I e II, do CTN, a definição de rendimento bruto como produto do capital, do trabalho ou da combinação de ambos e os acréscimos patrimoniais, tratando-se do mesmo instituto do fato gerador do imposto de renda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T14:18:29+00:00"
+ },
+ {
+  "de": "ctn.43",
+  "para": "d9580.34",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 34 do RIR/2018 regulamenta, com remissão expressa ao § 1º do art. 43 do CTN, a regra de que a tributação do imposto de renda independe da denominação, da localização, da condição jurídica ou da nacionalidade da fonte, repetindo o mesmo critério de disponibilidade econômica ou jurídica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T14:18:29+00:00"
+ },
+ {
+  "de": "ctn.43",
+  "para": "d9580.788",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 788 do RIR/2018 estende aos ganhos e rendimentos de capital, independentemente de título ou contrato escrito, o mesmo critério de incidência do imposto de renda que o art. 43 do CTN define como fato gerador, regulamentando a hipótese de incidência para essa espécie de rendimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T14:18:29+00:00"
+ },
+ {
+  "de": "l9099.25",
+  "para": "cpc.140",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 140 do CPC só permite o julgamento por equidade nos casos previstos em lei, e o art. 25 da Lei 9.099/95 é essa previsão legal específica, pois autoriza o árbitro do Juizado Especial Cível a decidir por equidade no procedimento sumaríssimo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T14:18:29+00:00"
+ },
+ {
+  "de": "l9430.27",
+  "para": "d9580.605",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 605 do RIR/2018 regulamenta, com remissão expressa ao art. 27, caput, inciso I, da Lei 9.430/96, o cálculo do lucro arbitrado quando conhecida a receita bruta, tratando-se do mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T14:18:29+00:00"
+ },
+ {
+  "de": "l9430.27",
+  "para": "d9580.609",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 609 do RIR/2018 regulamenta, com remissão expressa ao art. 27, caput, inciso II, da Lei 9.430/96, o acréscimo dos ganhos de capital, dos rendimentos e das demais receitas à base de cálculo do lucro arbitrado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T14:18:29+00:00"
+ },
+ {
+  "de": "l9430.51",
+  "para": "d9580.726",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 726 do RIR/2018 regulamenta, com remissão expressa ao parágrafo único do art. 51 da Lei 9.430/96, a regra de que o imposto de renda retido na fonte sobre os juros sobre o capital próprio é considerado antecipação do devido pela pessoa jurídica tributada por lucro real, presumido ou arbitrado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T14:18:29+00:00"
+ },
+ {
+  "de": "l9430.61",
+  "para": "d9580.994",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 994 do RIR/2018 regulamenta, com remissão expressa ao caput e aos §§ 1º e 2º do art. 61 da Lei 9.430/96, a multa de mora de trinta e três centésimos por cento ao dia, limitada a vinte por cento, incidente sobre o imposto de renda não pago no prazo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T14:18:29+00:00"
+ },
+ {
+  "de": "l9430.61",
+  "para": "l8212.35",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 35 da Lei 8.212/91 remete expressamente ao art. 61 da Lei 9.430/96 o regime de multa e juros de mora aplicável aos débitos de contribuições sociais com a União, adotando o mesmo instituto para tributo diverso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T14:18:29+00:00"
  }
 ]
