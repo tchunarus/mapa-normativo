@@ -24697,5 +24697,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T09:17:02+00:00"
+ },
+ {
+  "de": "cp.296",
+  "para": "sc_icms_lei.88-D",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 88-D da Lei 10.297/96-SC pune com multa administrativa a reutilização de selo fiscal exigido pela legislação tributária, conduta que, se praticada em proveito próprio ou alheio, pode também configurar o uso indevido de sinal verdadeiro atribuído por lei a entidade de direito público previsto no art. 296, § 1º, II, do CP. A distinção está na esfera e na natureza da sanção: a infração fiscal é apurada administrativamente e independe de prejuízo a terceiro, enquanto o crime exige a utilização indevida do selo genuíno em benefício próprio ou alheio e sujeita o autor a reclusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T10:19:44+00:00"
+ },
+ {
+  "de": "cp.296",
+  "para": "l9279.189",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 296 do CP protege a fé pública ao punir a falsificação de selo ou sinal atribuído por lei a entidade de direito público ou a autoridade, enquanto o art. 189 da LPI protege o direito privado do titular da marca registrada contra a reprodução ou a alteração não autorizada dessa marca. Ambos tratam de falsificação de um sinal distintivo, mas o bem jurídico tutelado e a natureza pública ou privada do sinal falsificado diferem, o que pode gerar confusão entre as duas tipificações penais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T10:19:44+00:00"
+ },
+ {
+  "de": "l9307.14",
+  "para": "clt.801",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 801 da CLT elenca as hipóteses de suspeição do juiz do trabalho, como a inimizade pessoal, a amizade íntima, o parentesco até o terceiro grau civil e o interesse particular na causa, enquanto o art. 14 da Lei de Arbitragem remete expressamente ao Código de Processo Civil, e não à CLT, para disciplinar o impedimento e a suspeição de árbitros. Há risco de se aplicar por engano o rol trabalhista a arbitragens que envolvam matéria de trabalho, quando a lei determina a aplicação subsidiária das regras do processo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T10:19:44+00:00"
+ },
+ {
+  "de": "l9307.20",
+  "para": "cpp.96",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 96 do CPP determina que a argüição de suspeição precede qualquer outra alegação processual, salvo quando fundada em motivo superveniente, e o art. 20 da Lei de Arbitragem impõe à parte o dever de suscitar a suspeição, o impedimento, a incompetência ou a nulidade da convenção de arbitragem na primeira oportunidade de manifestação após instituída a arbitragem. Os dois dispositivos tratam do momento oportuno para argüir vícios do julgador ou do processo, mas em regimes distintos, o processual penal e o arbitral, que não se comunicam entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T10:19:44+00:00"
+ },
+ {
+  "de": "l9307.22-A",
+  "para": "cpc.309",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 22-A da Lei de Arbitragem determina que cessa a eficácia da medida cautelar ou de urgência concedida pelo Judiciário se a parte não requerer a instituição da arbitragem no prazo de 30 dias, regra que especializa para o processo arbitral a disciplina geral do art. 309 do CPC sobre a cessação da eficácia da tutela antecedente quando o pedido principal não é deduzido ou efetivado no prazo legal. Em ambos os casos, a tutela de urgência concedida antes do processo principal perde eficácia pelo decurso do prazo sem a sua instauração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T10:19:44+00:00"
+ },
+ {
+  "de": "l9307.26",
+  "para": "l9099.26",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 26 da Lei de Arbitragem estabelece os requisitos obrigatórios da sentença arbitral proferida no juízo arbitral privado, que produz efeitos equivalentes aos de decisão judicial sem necessidade de homologação. Já o art. 26 da Lei 9.099/95 trata do laudo arbitral do juízo arbitral dos Juizados Especiais, conduzido por árbitro leigo, que somente produz efeitos após homologação pelo Juiz togado mediante sentença irrecorrível. Os dois institutos compartilham o nome de juízo arbitral, mas têm natureza e eficácia distintas, o que gera risco de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T10:19:44+00:00"
  }
 ]
