@@ -183,5 +183,21 @@
   "titulo": "Tema 1455/STJ: Acórdão Publicado - RE Pendente",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1455&cod_tema_final=1455",
   "p": "stj.tema.1455"
+ },
+ {
+  "data": "2026-10-15T00:01:16+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1211/STJ: Mérito Julgado · tese firmada",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1211&cod_tema_final=1211",
+  "p": "stj.tema.1211"
+ },
+ {
+  "data": "2026-10-15T00:01:16+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1228/STJ: Acórdão Publicado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1228&cod_tema_final=1228",
+  "p": "stj.tema.1228"
  }
 ]

@@ -24427,5 +24427,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-14T23:16:47+00:00"
+ },
+ {
+  "de": "cpc.659",
+  "para": "ctn.192",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O CPC, no art. 659, autoriza a homologação de plano da partilha amigável e, no § 2º, prevê apenas a intimação do fisco para lançamento administrativo do imposto de transmissão após o trânsito em julgado, enquanto o CTN, no art. 192, condiciona a própria sentença de partilha ou adjudicação à prévia prova de quitação de todos os tributos relativos aos bens do espólio, criando conflito aparente sobre o momento em que a quitação tributária deve ser verificada no mesmo procedimento de partilha.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T00:09:05+00:00"
+ },
+ {
+  "de": "cpc.659",
+  "para": "floripa_ctm.109",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O Código Tributário Municipal de Florianópolis reproduz, no art. 109, em relação aos tributos municipais, a mesma exigência de prova de quitação antes da sentença de partilha ou adjudicação, o que gera, perante o art. 659 do CPC e seu § 2º, que prevê apenas a intimação do fisco para lançamento após a homologação, o mesmo conflito aparente sobre o momento da quitação tributária no procedimento de partilha.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T00:09:05+00:00"
+ },
+ {
+  "de": "cpc.659",
+  "para": "cc.2015",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 2.015 do CC estabelece o direito material dos herdeiros capazes de fazerem partilha amigável homologada pelo juiz, e o art. 659 do CPC complementa esse mesmo instituto ao disciplinar, no plano processual, a forma da homologação, de plano e com observância dos arts. 660 a 663, tratando-se do mesmo regime da partilha amigável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T00:09:05+00:00"
+ },
+ {
+  "de": "l9099.89",
+  "para": "cpp.28-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 89 da Lei 9.099/95 disciplina a suspensão condicional do processo, proposta pelo Ministério Público ao oferecer a denúncia e condicionada a pena mínima igual ou inferior a um ano, enquanto o art. 28-A do CPP disciplina o acordo de não persecução penal, proposto antes do oferecimento da denúncia e condicionado a pena mínima inferior a quatro anos; os dois institutos, de requisitos e momentos distintos, são passíveis de confusão por preverem condições assemelhadas, como a reparação do dano.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T00:09:05+00:00"
+ },
+ {
+  "de": "l9099.89",
+  "para": "cpp.383",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 383 do CPP remete expressamente à suspensão condicional do processo ao determinar que, havendo possibilidade de proposta desse benefício em razão de definição jurídica diversa, o juiz procederá de acordo com o disposto na lei, disposição essa que é a do art. 89 da Lei 9.099/95.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T00:09:05+00:00"
+ },
+ {
+  "de": "l9099.89",
+  "para": "cp.81",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 89 da Lei 9.099/95 prevê que a suspensão será revogada se, no curso do prazo, o beneficiário vier a ser processado por outro crime ou não efetuar, sem motivo justificado, a reparação do dano, redação próxima à do art. 81 do CP sobre a revogação da suspensão condicional da pena; apesar da semelhança, tratam de institutos distintos, a suspensão do processo antes da condenação e a suspensão da pena após a condenação, o que gera risco real de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T00:09:05+00:00"
+ },
+ {
+  "de": "l9099.9",
+  "para": "clt.791",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 9º da Lei 9.099/95 torna facultativa a assistência por advogado nas causas de até vinte salários mínimos e obrigatória nas de valor superior, e o art. 791 da CLT também permite que empregados e empregadores reclamem pessoalmente perante a Justiça do Trabalho, com assistência facultativa nos dissídios individuais e nos dissídios coletivos; por regularem a dispensa de advogado em juízo segundo critérios próprios de cada ramo, os dois regimes são passíveis de confusão quanto aos respectivos requisitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T00:09:05+00:00"
+ },
+ {
+  "de": "l9099.9",
+  "para": "cc.661",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 9º da Lei 9.099/95 exige que o preposto da pessoa jurídica ré seja credenciado por carta de preposição com poderes para transigir, especializando, para o processo no Juizado Especial, a regra geral do art. 661 do CC, segundo a qual o mandato em termos gerais só confere poderes de administração e o poder de transigir depende de procuração com poderes especiais e expressos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T00:09:05+00:00"
+ },
+ {
+  "de": "l9099.95",
+  "para": "l9279.241",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 95 da Lei 9.099/95 trata da criação dos Juizados Especiais, e o art. 241 da LPI autoriza a criação de juízos especiais para dirimir questões relativas à propriedade intelectual; a semelhança terminológica entre juizados especiais e juízos especiais gera risco real de confusão entre institutos substancialmente distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T00:09:05+00:00"
+ },
+ {
+  "de": "l9099.95",
+  "para": "l8078.5",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 5º do CDC refere-se à criação de Juizados Especiais de Pequenas Causas como instrumento da política nacional das relações de consumo, remetendo à mesma instituição cuja criação pelos Estados, Distrito Federal e Territórios é determinada pelo art. 95 da Lei 9.099/95.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T00:09:05+00:00"
  }
 ]
