@@ -25797,5 +25797,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "d9580.218",
+  "para": "l9430.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 218 do RIR/2018 regulamenta os §§ 1º e 2º do art. 1º da Lei 9.430/96, ao determinar que, nos casos de incorporação, fusão, cisão ou extinção da pessoa jurídica, o lucro real seja apurado na data do evento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T19:16:48+00:00"
+ },
+ {
+  "de": "d9580.219",
+  "para": "l9430.3",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 219 do RIR/2018 regulamenta o parágrafo único do art. 3º da Lei 9.430/96, ao determinar que a opção pela forma do art. 2º seja manifestada com o pagamento do imposto correspondente ao mês de janeiro ou de início de atividade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T19:16:48+00:00"
+ },
+ {
+  "de": "d9580.225",
+  "para": "l9430.4",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O adicional de dez por cento do parágrafo único do art. 225 do RIR/2018 incide sobre a base de cálculo mensal estimada prevista no art. 2º, § 2º, da Lei 9.430/96, enquanto o adicional de dez por cento do art. 4º da mesma lei incide sobre o lucro real, presumido ou arbitrado apurado no período de apuração trimestral, hipótese distinta que pode ser confundida com a primeira por tratarem do mesmo percentual e do mesmo limite de R$ 20.000,00.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T19:16:48+00:00"
+ },
+ {
+  "de": "d9580.228",
+  "para": "l9430.16",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 228 do RIR/2018 detalha a compensação do imposto retido na fonte sobre rendimentos pagos ou creditados a filial, sucursal, controlada ou coligada no exterior cujos resultados sejam computados na determinação do lucro real da pessoa jurídica no país, hipótese prevista no inciso II do art. 16 da Lei 9.430/96 para os lucros arbitrados de filiais, sucursais e controladas no exterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T19:16:48+00:00"
+ },
+ {
+  "de": "d9580.230",
+  "para": "l9430.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O caput do art. 230 do RIR/2018 regulamenta o art. 1º da Lei 9.430/96, ao determinar que o primeiro período de apuração do imposto de renda após a constituição da pessoa jurídica vá do início da atividade até o último dia do trimestre.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T19:16:48+00:00"
+ },
+ {
+  "de": "d9580.230",
+  "para": "l9430.3",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O caput do art. 230 do RIR/2018 regulamenta o parágrafo único do art. 3º da Lei 9.430/96, quanto à manifestação da opção pela forma de pagamento desde o início da atividade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T19:16:48+00:00"
+ },
+ {
+  "de": "d9580.587",
+  "para": "l9430.54",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 587 do RIR/2018 disciplina os requisitos para a opção pelo lucro presumido, e o art. 54 da Lei 9.430/96 completa esse mesmo regime ao determinar que a pessoa jurídica que migrar do lucro real para o lucro presumido adicione à base de cálculo os valores cuja tributação havia diferido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T19:16:48+00:00"
+ },
+ {
+  "de": "d9580.587",
+  "para": "l9430.3",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 587 do RIR/2018 prevê que a opção pelo lucro presumido é definitiva para todo o ano-calendário, regra semelhante à irretratabilidade da opção pela forma de pagamento dos arts. 1º ou 2º prevista no art. 3º da Lei 9.430/96, mas aplicável a regime de tributação distinto, o que pode gerar confusão entre as duas hipóteses de opção irretratável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T19:16:48+00:00"
+ },
+ {
+  "de": "floripa_ctm.158",
+  "para": "cf.103-A",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A súmula do Conselho Municipal de Contribuintes, de observância obrigatória apenas pelas autoridades fiscais municipais nos termos do § 3º do art. 158 do CTM de Florianópolis, pode ser confundida com a súmula vinculante do Supremo Tribunal Federal prevista no art. 103-A da Constituição Federal, cujo efeito vinculante alcança todo o Poder Judiciário e a administração pública direta e indireta das três esferas federativas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T19:16:48+00:00"
+ },
+ {
+  "de": "floripa_ctm.158",
+  "para": "lcp214.323-G",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 158 do CTM de Florianópolis estabelece o procedimento de edição de súmulas pelo Conselho Municipal de Contribuintes para uniformizar a jurisprudência administrativa tributária municipal, instituto conexo ao recurso especial para uniformização da jurisprudência administrativa do IBS e da CBS entre câmaras do CGIBS e do Carf previsto no art. 323-G da LC 214/2025.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T19:16:48+00:00"
+ },
+ {
+  "de": "floripa_ctm.158",
+  "para": "lcp227.323-G",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 158 do CTM de Florianópolis estabelece o procedimento de edição de súmulas pelo Conselho Municipal de Contribuintes para uniformizar a jurisprudência administrativa tributária municipal, instituto conexo ao recurso especial para uniformização da jurisprudência administrativa do IBS e da CBS entre câmaras do CGIBS e do Carf previsto no art. 323-G da LC 227/2026.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T19:16:48+00:00"
  }
 ]
