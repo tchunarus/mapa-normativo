@@ -24527,5 +24527,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T00:09:05+00:00"
+ },
+ {
+  "de": "cpp.28-A",
+  "para": "cp.116",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 116 do Código Penal dispõe que a prescrição não corre enquanto não cumprido ou não rescindido o acordo de não persecução penal, instituto definido no art. 28-A do CPP. O Código Penal não cria o acordo, apenas disciplina o efeito suspensivo da prescrição sobre o mesmo instituto, de modo que os dois dispositivos integram o mesmo regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T01:11:50+00:00"
+ },
+ {
+  "de": "cpp.28-A",
+  "para": "l8429.17-B",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos preveem acordos negociados com o Ministério Público sob nome quase idêntico, mas de natureza distinta. O art. 28-A do CPP trata do acordo de não persecução penal, de natureza criminal, e o art. 17-B da Lei 8.429/92 trata do acordo de não persecução civil, voltado ao ressarcimento do dano por improbidade. A semelhança dos nomes gera risco real de confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T01:11:50+00:00"
+ },
+ {
+  "de": "cpp.28-A",
+  "para": "l9099.76",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso I do § 2º do art. 28-A do CPP afasta expressamente a proposta de acordo de não persecução penal quando for cabível a transação penal do art. 76 da Lei 9.099/95, de modo que este último dispositivo excepciona a aplicação do primeiro nos casos de competência dos Juizados Especiais Criminais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T01:11:50+00:00"
+ },
+ {
+  "de": "cpp.383",
+  "para": "cpc.492",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 492 do CPC veda ao juiz civil decidir de forma diversa do pedido, enquanto o art. 383 do CPP permite ao juiz penal atribuir ao fato definição jurídica diversa da constante da denúncia, desde que mantida a mesma descrição fática. Os institutos tratam do limite da decisão em relação ao que foi formulado pela parte, mas em sentidos opostos, o que gera risco de se aplicar por analogia equivocada a rigidez da congruência civil ao processo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T01:11:50+00:00"
+ },
+ {
+  "de": "l8078.5",
+  "para": "l9099.1",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 5º do CDC inclui, entre os instrumentos da Política Nacional das Relações de Consumo, a criação de Juizados Especiais de Pequenas Causas para solução de litígios de consumo, instituto cuja disciplina geral está no art. 1º da Lei 9.099/95, que criou os Juizados Especiais Cíveis e Criminais. O CDC remete ao instrumento processual sem reger o seu procedimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T01:11:50+00:00"
+ },
+ {
+  "de": "l9279.192",
+  "para": "l8137.7",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O inciso II do art. 7º da Lei 8.137/90 tipifica a venda de mercadoria cuja especificação esteja em desacordo com as prescrições legais ou não corresponda à classificação oficial, enquanto o art. 192 da LPI tipifica especificamente a venda com falsa indicação geográfica. Os dois tipos penais têm ponto de contato na fraude quanto às características do produto vendido, com risco de confusão na capitulação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T01:11:50+00:00"
+ },
+ {
+  "de": "l9279.194",
+  "para": "cp.306",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 306 do CP pune a falsificação ou o uso indevido de marca ou sinal empregado pelo poder público no contraste de metal precioso ou na fiscalização alfandegária, e o art. 194 da LPI pune o uso de marca, nome comercial ou sinal que indique procedência que não a verdadeira. Os dois dispositivos tratam da falsificação de marcas ou sinais, mas um protege a fé pública e o outro a origem comercial verdadeira, o que pode gerar confusão de capitulação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T01:11:50+00:00"
+ },
+ {
+  "de": "l9279.200",
+  "para": "cpp.524",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 200 da LPI determina que a ação penal e as diligências preliminares nos crimes contra a propriedade industrial regem-se pelo CPP, com as modificações dos artigos deste capítulo da LPI, enquanto o art. 524 do CPP dispõe que os crimes contra a propriedade imaterial regem-se pelos Capítulos I e III do Título I do CPP, com as modificações constantes dos artigos seguintes do próprio Código. Há dois regimes especiais de modificação processual para a mesma matéria, previstos em diplomas diferentes, o que gera aparente conflito sobre qual conjunto de regras especiais prevalece.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T01:11:50+00:00"
  }
 ]
