@@ -24757,5 +24757,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T10:19:44+00:00"
+ },
+ {
+  "de": "cpp.96",
+  "para": "cpc.148",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 96 do CPP exige que a suspeição seja arguida antes de qualquer outra questão no processo penal, especializando para esse rito a regra geral do § 1º do art. 148 do CPC, que impõe à parte arguir o impedimento ou a suspeição na primeira oportunidade em que lhe couber falar nos autos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T11:19:20+00:00"
+ },
+ {
+  "de": "l9099.26",
+  "para": "l9307.18",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 26 da Lei 9.099/95 exige que o laudo do árbitro, nos juizados especiais, seja homologado por sentença irrecorrível do juiz togado, ao passo que o art. 18 da Lei 9.307/96 estabelece que a sentença arbitral, no regime geral da arbitragem, não se sujeita a recurso nem a homologação pelo Poder Judiciário, havendo risco real de se presumir dispensada a homologação também no procedimento sumaríssimo dos juizados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T11:19:20+00:00"
+ },
+ {
+  "de": "cc.853",
+  "para": "l9307.3",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 853 do Código Civil admite a cláusula compromissória nos contratos e remete à disciplina de lei especial, que é exatamente a Lei 9.307/96, cujo art. 3º define a convenção de arbitragem como a cláusula compromissória e o compromisso arbitral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T11:19:20+00:00"
+ },
+ {
+  "de": "cc.852",
+  "para": "l9307.3",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 852 do Código Civil veda o compromisso para questões de estado, de direito pessoal de família e demais matérias sem caráter patrimonial, restringindo o âmbito de aplicação da convenção de arbitragem, definida no art. 3º da Lei 9.307/96 como a cláusula compromissória e o compromisso arbitral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T11:19:20+00:00"
+ },
+ {
+  "de": "clt.507-A",
+  "para": "l9307.3",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 507-A da CLT autoriza a pactuação de cláusula compromissória de arbitragem em contratos individuais de trabalho de remuneração elevada, nos termos previstos na Lei 9.307/96, cujo art. 3º define a cláusula compromissória, ao lado do compromisso arbitral, como espécie de convenção de arbitragem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T11:19:20+00:00"
+ },
+ {
+  "de": "l14133.138",
+  "para": "l9307.3",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 138 da Lei 14.133/21 prevê a extinção do contrato administrativo por decisão arbitral decorrente de cláusula compromissória ou de compromisso arbitral, formas de convenção de arbitragem definidas no art. 3º da Lei 9.307/96.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T11:19:20+00:00"
+ },
+ {
+  "de": "l9307.31",
+  "para": "cpc.516",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 31 da Lei 9.307/96 atribui à sentença arbitral condenatória a natureza de título executivo, e o inciso III do art. 516 do CPC complementa essa disciplina ao determinar que o cumprimento da sentença arbitral se dê perante o juízo cível competente, já que não há instância arbitral própria de execução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T11:19:20+00:00"
+ },
+ {
+  "de": "ctn.171-A",
+  "para": "l9307.31",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 171-A do CTN especializa, para a arbitragem tributária e aduaneira, a regra geral do art. 31 da Lei 9.307/96, segundo a qual a sentença arbitral produz os mesmos efeitos da sentença judicial, atribuindo-lhe também, nessa seara, caráter vinculante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T11:19:20+00:00"
+ },
+ {
+  "de": "cpc.960",
+  "para": "l9307.34",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 960 do CPC determina que a homologação de sentença arbitral estrangeira obedeça primeiro ao tratado e à lei especial, aplicando-se o capítulo do CPC apenas subsidiariamente, e a lei especial referida é a Lei 9.307/96, cujo art. 34 disciplina o reconhecimento da sentença arbitral estrangeira conforme os tratados internacionais ou, na ausência destes, os próprios termos dessa lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T11:19:20+00:00"
+ },
+ {
+  "de": "l9099.24",
+  "para": "l9307.9",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 24 da Lei 9.099/95 dispensa expressamente o termo de compromisso para instaurar o juízo arbitral dos juizados especiais, bastando a escolha do árbitro pelas partes, em contraste com o art. 9º da Lei 9.307/96, que exige a formalização do compromisso arbitral por termo nos autos ou por escrito particular ou instrumento público, havendo risco de se aplicar indevidamente essas formalidades ao rito sumaríssimo dos juizados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T11:19:20+00:00"
+ },
+ {
+  "de": "d9580.217",
+  "para": "l9430.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 217 do RIR/2018 regulamenta, em redação praticamente idêntica, o caput do art. 1º da Lei 9.430/96, reproduzindo a apuração trimestral do imposto de renda das pessoas jurídicas com base no lucro real, presumido ou arbitrado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T11:19:20+00:00"
+ },
+ {
+  "de": "l9430.1",
+  "para": "ctn.44",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Lei 9.430/96 complementa o art. 44 do CTN, que define a base de cálculo do imposto de renda como o montante real, presumido ou arbitrado, ao fixar a periodicidade trimestral de apuração desses mesmos regimes para as pessoas jurídicas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T11:19:20+00:00"
  }
 ]
