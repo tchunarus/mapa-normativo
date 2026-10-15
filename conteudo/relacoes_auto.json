@@ -26017,5 +26017,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T20:21:15+00:00"
+ },
+ {
+  "de": "d9580.465",
+  "para": "l9430.15",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 465 do RIR/2018 regulamenta o art. 15 da Lei nº 9.430/1996, citado em seu caput, ao disciplinar a compensação do imposto sobre a renda pago no exterior sobre receitas de prestação de serviços efetuada diretamente. O art. 15 da lei estabelece a possibilidade de compensação e o art. 465 do regulamento detalha os limites e os procedimentos dessa compensação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T21:15:48+00:00"
+ },
+ {
+  "de": "d9580.624",
+  "para": "l9430.2",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 624 do RIR/2018 regulamenta expressamente o § 2º do art. 2º da Lei nº 9.430/1996, ao determinar que a parcela mensal da base de cálculo estimada que exceder vinte mil reais, na hipótese do art. 219 do regulamento, sujeita-se ao adicional de dez por cento. O art. 2º da lei disciplina o pagamento mensal do imposto por estimativa, regime a que esse adicional mensal se aplica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T21:15:48+00:00"
+ },
+ {
+  "de": "d9580.907",
+  "para": "ctn.161",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 161 do CTN fixa a taxa supletiva de um por cento ao mês para os juros de mora sobre crédito tributário não pago no vencimento, aplicável apenas se a lei não dispuser de modo diverso. O parágrafo único do art. 907 do RIR/2018, regulamentando o art. 43 da Lei nº 9.430/1996, afasta essa taxa supletiva ao fixar os juros de mora do crédito relativo exclusivamente a multa ou a juros de mora pela taxa referida no § 3º do art. 919 do regulamento, correspondente à taxa Selic.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T21:15:48+00:00"
  }
 ]
