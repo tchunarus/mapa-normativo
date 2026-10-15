@@ -24877,5 +24877,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T11:19:20+00:00"
+ },
+ {
+  "de": "cc.852",
+  "para": "l9307.9",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 9º da Lei 9.307/96 define o compromisso arbitral como a convenção pela qual as partes submetem um litígio à arbitragem, sem distinção quanto à matéria, ao passo que o art. 852 do Código Civil excepciona dessa possibilidade as questões de estado, de direito pessoal de família e as demais desprovidas de caráter estritamente patrimonial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T12:25:12+00:00"
+ },
+ {
+  "de": "cc.853",
+  "para": "l9307.4",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 853 do Código Civil admite a cláusula compromissória nos contratos, na forma estabelecida em lei especial, remissão atendida pelo art. 4º da Lei 9.307/96, que define a cláusula compromissória como a convenção pela qual as partes de um contrato se comprometem a submeter à arbitragem os litígios futuros a ele relativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T12:25:12+00:00"
+ },
+ {
+  "de": "cc.853",
+  "para": "cpc.42",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 853 do Código Civil admite, no plano material, a cláusula compromissória nos contratos para a solução de divergências mediante juízo arbitral, regra que o art. 42 do CPC complementa no plano processual, ao ressalvar às partes o direito de instituir juízo arbitral em vez de submeter a causa cível ao juiz estatal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T12:25:12+00:00"
+ },
+ {
+  "de": "clt.507-A",
+  "para": "l9307.4",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 507-A da CLT autoriza a pactuação de cláusula compromissória de arbitragem em contratos individuais de trabalho com remuneração superior ao dobro do teto do Regime Geral de Previdência Social, remetendo expressamente aos termos da Lei 9.307/96, cujo art. 4º define essa cláusula como a convenção pela qual as partes de um contrato se comprometem a submeter à arbitragem os litígios futuros a ele relativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T12:25:12+00:00"
+ },
+ {
+  "de": "clt.507-A",
+  "para": "cc.853",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 853 do Código Civil admite, em termos gerais, a cláusula compromissória nos contratos na forma estabelecida em lei especial, regra geral que o art. 507-A da CLT especializa para os contratos individuais de trabalho, restringindo a sua pactuação aos casos de remuneração superior ao dobro do teto do Regime Geral de Previdência Social e exigindo iniciativa ou concordância expressa do empregado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T12:25:12+00:00"
+ },
+ {
+  "de": "cpc.516",
+  "para": "l9307.35",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 516 do CPC trata do cumprimento, perante o juízo cível, da sentença arbitral nacional, regime que não se confunde com o da sentença arbitral estrangeira, a qual, segundo o art. 35 da Lei 9.307/96, depende de prévia homologação pelo Superior Tribunal de Justiça para ser reconhecida ou executada no Brasil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T12:25:12+00:00"
+ },
+ {
+  "de": "ctn.44",
+  "para": "d9580.210",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 210 do RIR/2018 fixa a base de cálculo do imposto sobre a renda como o lucro real, presumido ou arbitrado do período de apuração, remetendo expressamente ao art. 44 do CTN, que estabelece essa mesma base de cálculo como o montante real, arbitrado ou presumido da renda ou dos proventos tributáveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T12:25:12+00:00"
+ },
+ {
+  "de": "d9580.217",
+  "para": "ctn.44",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 44 do CTN define a base de cálculo do imposto de renda como o montante real, arbitrado ou presumido da renda ou dos proventos tributáveis, regra geral que o art. 217 do RIR/2018 especializa para as pessoas jurídicas, ao fixar a apuração trimestral do imposto com base nesses mesmos três regimes de tributação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T12:25:12+00:00"
  }
 ]
