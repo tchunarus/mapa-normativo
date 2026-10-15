@@ -26047,5 +26047,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T21:15:48+00:00"
+ },
+ {
+  "de": "d9580.924",
+  "para": "l9430.1",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 1º e o § 2º do art. 1º da Lei nº 9.430/1996 fixam o momento da apuração da base de cálculo e do imposto devido nos eventos de incorporação, fusão, cisão ou extinção pela liquidação, e o art. 924 do RIR/2018 complementa esse mesmo regime especial ao fixar o prazo de pagamento do imposto assim apurado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T22:24:56+00:00"
+ },
+ {
+  "de": "d9580.924",
+  "para": "lsa.219",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 219 da LSA define os eventos de extinção da companhia, pelo encerramento da liquidação, pela incorporação ou fusão e pela cisão, que o art. 924 do RIR/2018 toma como pressuposto para fixar o prazo de recolhimento do imposto de renda devido na ocorrência desses eventos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T22:24:56+00:00"
+ },
+ {
+  "de": "d70235.9",
+  "para": "l8212.35-A",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 9º do Decreto nº 70.235/1972 estabelece a forma do lançamento de ofício, por meio de auto de infração ou notificação de lançamento, que é o mesmo procedimento usado para exigir as contribuições a que se refere o art. 35-A da Lei nº 8.212/1991 ao determinar a aplicação da multa do art. 44 da Lei nº 9.430/1996.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T22:24:56+00:00"
+ },
+ {
+  "de": "l8212.35-A",
+  "para": "l8036.29-A",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 35-A da Lei nº 8.212/1991 trata do lançamento de ofício tributário e da multa correspondente, enquanto o art. 29-A da Lei nº 8.036/1990 emprega o termo lançamento em sentido diverso, como simples registro contábil da correção dos saldos das contas vinculadas do FGTS, sem qualquer relação com a constituição do crédito tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T22:24:56+00:00"
+ },
+ {
+  "de": "l9430.74-A",
+  "para": "ctn.156",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 156 do CTN inclui a compensação, de forma genérica, entre as modalidades de extinção do crédito tributário, e o art. 74-A da Lei nº 9.430/1996 especializa esse mesmo instituto ao impor limite mensal de utilização para a compensação de créditos decorrentes de decisão judicial transitada em julgado de valor elevado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T22:24:56+00:00"
+ },
+ {
+  "de": "l9430.74-A",
+  "para": "ctn.168",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 168 do CTN fixa em cinco anos, contados do trânsito em julgado da decisão judicial, o prazo para pleitear a restituição do indébito, e o § 2º do art. 74-A da Lei nº 9.430/1996 fixa prazo idêntico de cinco anos, contado do mesmo marco, para a apresentação da primeira declaração de compensação, institutos distintos que o mesmo prazo e termo inicial podem levar a confundir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T22:24:56+00:00"
+ },
+ {
+  "de": "l9430.77",
+  "para": "ctn.194-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 194-A do CTN vincula, de forma geral, a administração tributária às decisões definitivas do Supremo Tribunal Federal e do Superior Tribunal de Justiça com efeito vinculante, inclusive para desistir de impugnações e recursos já formulados, e o art. 77 da Lei nº 9.430/1996 especializa essa vinculação para a hipótese mais restrita da declaração de inconstitucionalidade por decisão definitiva do Supremo Tribunal Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T22:24:56+00:00"
+ },
+ {
+  "de": "l9430.77",
+  "para": "d70235.26-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 6º do art. 26-A do Decreto nº 70.235/1972 ressalva, do dever de aplicar a legislação tributária no processo administrativo fiscal, os casos de dispositivo já declarado inconstitucional por decisão plenária definitiva do Supremo Tribunal Federal, e o art. 77 da Lei nº 9.430/1996 complementa esse mesmo regime ao autorizar o Poder Executivo a disciplinar, para essa mesma hipótese, a abstenção de constituição, a retificação ou extinção de ofício dos créditos e a desistência de execuções fiscais e recursos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T22:24:56+00:00"
+ },
+ {
+  "de": "l13874.13",
+  "para": "l9430.77",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso V do art. 19 da Lei nº 10.522/2002, na redação dada pelo art. 13 da Lei nº 13.874/2019, dispensa a Procuradoria-Geral da Fazenda Nacional de contestar e recorrer, autorizando a desistência de recursos, quando o tema envolver dispositivo legal declarado inconstitucional pelo Supremo Tribunal Federal, complementando, para a atuação da Procuradoria, o mesmo regime que o art. 77 da Lei nº 9.430/1996 autoriza o Poder Executivo a disciplinar quanto à constituição e à cobrança dos créditos correspondentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T22:24:56+00:00"
+ },
+ {
+  "de": "d9580.207",
+  "para": "l9430.82",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 207 do RIR/2018 reproduz textualmente, com a mesma base legal, a regra do caput e do parágrafo único do art. 82 da Lei nº 9.430/1996, segundo a qual o documento emitido por pessoa jurídica com inscrição no CNPJ inapta não produz efeitos tributários em favor de terceiros, salvo comprovação do pagamento do preço e do recebimento dos bens ou da utilização dos serviços.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T22:24:56+00:00"
+ },
+ {
+  "de": "d9580.206",
+  "para": "l9430.82",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 206 do RIR/2018, com base no art. 81 da Lei nº 9.430/1996, disciplina as hipóteses em que a inscrição no CNPJ é declarada inapta, situação que o art. 82 da mesma Lei toma como pressuposto para negar efeitos tributários, em favor de terceiros, ao documento emitido pela pessoa jurídica nessas condições.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T22:24:56+00:00"
+ },
+ {
+  "de": "l9430.83",
+  "para": "l10522.14",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso I do § 5º do art. 83 da Lei nº 9.430/1996 afasta a suspensão da pretensão punitiva e a extinção da punibilidade nas hipóteses de vedação legal de parcelamento, e o art. 14 da Lei nº 10.522/2002 complementa esse mesmo regime ao enumerar os débitos para os quais a concessão de parcelamento é legalmente vedada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T22:24:56+00:00"
+ },
+ {
+  "de": "l9430.83",
+  "para": "ctn.155-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 155-A do CTN estabelece que o parcelamento do crédito tributário será concedido na forma e condição estabelecidas em lei específica, regime geral que o art. 83 da Lei nº 9.430/1996 complementa ao atribuir à concessão e à exclusão do parcelamento efeitos específicos sobre a suspensão da pretensão punitiva e a extinção da punibilidade dos crimes contra a ordem tributária e a Previdência Social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T22:24:56+00:00"
  }
 ]
