@@ -24957,5 +24957,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T12:25:12+00:00"
+ },
+ {
+  "de": "cpc.42",
+  "para": "l9307.3",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 42 do CPC ressalva às partes o direito de instituir juízo arbitral na forma da lei, remetendo à convenção de arbitragem disciplinada pelo art. 3º da Lei 9.307/96, que define a cláusula compromissória e o compromisso arbitral como os instrumentos dessa opção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "d9580.210",
+  "para": "ctn.43",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 210 do RIR/2018 regulamenta expressamente o § 1º do art. 43 do CTN, repetindo a regra de que a incidência do imposto de renda independe da denominação da receita ou do rendimento, da localização, da condição jurídica ou da nacionalidade da fonte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "d9580.210",
+  "para": "l9430.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 210 do RIR/2018 cita expressamente o art. 1º da Lei 9.430/96 como fundamento da apuração do imposto de renda das pessoas jurídicas com base no lucro real, presumido ou arbitrado por período de apuração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "d9580.210",
+  "para": "l9430.27",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 210 do RIR/2018 cita expressamente o art. 27, caput, inciso II, da Lei 9.430/96 como fundamento para integrar os ganhos de capital e os rendimentos de aplicações financeiras à base de cálculo do lucro arbitrado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "d9580.210",
+  "para": "l9430.51",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 210 do RIR/2018 cita o art. 51 da Lei 7.450/85 como fundamento para incluir rendimentos de capital na base de cálculo do imposto de renda, enquanto o art. 51 da Lei 9.430/96 trata de tema semelhante, a adição de rendimentos financeiros ao lucro presumido ou arbitrado, o que gera risco real de confusão entre dispositivos homônimos de leis distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "l14133.138",
+  "para": "l9307.4",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 138 da Lei 14.133/21 prevê a extinção do contrato administrativo por decisão arbitral decorrente de cláusula compromissória, remetendo ao conceito definido no art. 4º da Lei 9.307/96, que caracteriza a cláusula compromissória como a convenção pela qual as partes se comprometem a submeter à arbitragem os litígios contratuais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "l14133.138",
+  "para": "l9307.9",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O mesmo inciso III do art. 138 da Lei 14.133/21 também se refere ao compromisso arbitral, instituto definido no art. 9º da Lei 9.307/96 como a convenção pela qual as partes submetem o litígio à arbitragem, podendo ser judicial ou extrajudicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "l9099.24",
+  "para": "l9307.3",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O juízo arbitral do art. 24 da Lei 9.099/95 surge da opção das partes após conciliação frustrada no Juizado Especial, conduzido por juiz leigo, o que pode ser confundido com a arbitragem contratual do art. 3º da Lei 9.307/96, instituída por convenção de arbitragem entre as partes, tratando-se de institutos distintos apesar do nome comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "l9099.24",
+  "para": "l9307.18",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 24 da Lei 9.099/95 institui juízo arbitral conduzido por juiz leigo escolhido pelas partes, mecanismo interno ao Juizado Especial, que pode ser confundido com a arbitragem da Lei 9.307/96, cujo art. 18 estabelece que a sentença do árbitro é definitiva e não se sujeita a recurso ou homologação pelo Poder Judiciário, regime estranho ao juízo arbitral do Juizado Especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "l9099.24",
+  "para": "clt.764",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 764 da CLT prevê que o juízo conciliatório trabalhista se converte obrigatoriamente em arbitral quando frustrado o acordo, mecanismo análogo ao juízo arbitral facultativo do art. 24 da Lei 9.099/95 nos Juizados Especiais cíveis, podendo ambos ser confundidos com a arbitragem da Lei 9.307/96 por compartilharem a mesma denominação, embora se tratem de institutos internos aos respectivos órgãos julgadores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "l9307.18",
+  "para": "l9099.25",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 25 da Lei 9.099/95 atribui ao árbitro do Juizado Especial poderes equivalentes aos do juiz togado e a possibilidade de decidir por eqüidade, aproximação terminológica com o art. 18 da Lei 9.307/96 que pode induzir à confusão, embora o árbitro da Lei 9.099/95 integre estrutura judicial e seu laudo dependa de homologação, ao contrário da sentença arbitral da Lei 9.307/96.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "l9307.35",
+  "para": "cpc.960",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 35 da Lei 9.307/96 atribui ao STJ a homologação da sentença arbitral estrangeira, regime que, segundo o § 3º do art. 960 do CPC, obedece a tratado e lei especiais, aplicando-se o Capítulo do CPC sobre homologação de decisão estrangeira apenas subsidiariamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "l9307.35",
+  "para": "cpc.961",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Enquanto o art. 961 do CPC estabelece a regra geral de que toda decisão estrangeira depende de homologação para ter eficácia no Brasil, o art. 35 da Lei 9.307/96 especializa essa regra para a sentença arbitral estrangeira, atribuindo-a com exclusividade à homologação do Superior Tribunal de Justiça.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "l9307.35",
+  "para": "lindb.15",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 35 da Lei 9.307/96 atribui ao Superior Tribunal de Justiça a homologação da sentença arbitral estrangeira, enquanto a alínea e do art. 15 da LINDB ainda menciona o Supremo Tribunal Federal como órgão homologador, competência transferida ao STJ pela Emenda Constitucional 45/2004, o que gera risco de confusão para quem consulta a LINDB sem atentar para essa alteração constitucional posterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
+ },
+ {
+  "de": "l9430.60",
+  "para": "l11101.139",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "A expressão procedimentos para a realização de seu ativo, empregada no art. 60 da Lei 9.430/96 para delimitar o período de incidência tributária das entidades falidas, remete à fase da falência disciplinada pelo art. 139 da Lei 11.101/05, que determina o início da realização do ativo logo após a arrecadação dos bens.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T13:25:41+00:00"
  }
 ]
