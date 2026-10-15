@@ -24677,5 +24677,25 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T06:13:48+00:00"
+ },
+ {
+  "de": "l9279.191",
+  "para": "cp.296",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 191 da Lei de Propriedade Industrial criminaliza a reprodução ou imitação de armas, brasões ou distintivos oficiais em marca, nome comercial ou sinal de propaganda, enquanto o art. 296, § 1º, III, do Código Penal pune quem altera, falsifica ou faz uso indevido de marcas, logotipos, siglas ou símbolos identificadores de órgãos ou entidades da Administração Pública; a mesma conduta de uso indevido de símbolo oficial em sinal distintivo comercial pode atrair os dois tipos penais, que protegem bens jurídicos distintos (propriedade industrial e fé pública).",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T09:17:02+00:00"
+ },
+ {
+  "de": "l9279.199",
+  "para": "cp.100",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 199 da Lei de Propriedade Industrial apenas define se a ação penal, nos crimes do título, é condicionada à queixa ou de natureza pública (esta última para o crime do art. 191), sem regular o regime da ação penal em si; a disciplina geral da ação pública e da ação privada do art. 100 do Código Penal aplica-se subsidiariamente para suprir essa lacuna quanto à legitimidade, à renúncia e aos demais efeitos do tipo de ação escolhido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T09:17:02+00:00"
  }
 ]
