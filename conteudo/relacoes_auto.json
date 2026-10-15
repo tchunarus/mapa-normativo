@@ -25907,5 +25907,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T19:16:48+00:00"
+ },
+ {
+  "de": "l9430.16",
+  "para": "d9580.446",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 446 do RIR/2018 regulamenta o art. 16 da Lei 9.430/96 em diversos pontos: no § 9º, consolida, com citação expressa, o caput e os incisos I e II do art. 16, sobre a consideração individualizada ou o arbitramento dos lucros auferidos no exterior por filiais, sucursais, controladas e coligadas; no § 10, consolida o § 4º do art. 16, sobre a vedação de dedução ou destinação a incentivo fiscal do imposto correspondente a esses lucros; e no § 11, consolida o § 1º do art. 16, sobre a possibilidade de consolidação dos resultados de aplicações financeiras de renda variável auferidos no exterior em um mesmo país.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T20:21:15+00:00"
+ },
+ {
+  "de": "l9430.16",
+  "para": "d9580.465",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 465 do RIR/2018 regulamenta o § 2º do art. 16 da Lei 9.430/96, relativo à compensação do imposto de renda incidente no exterior: o § 4º do art. 465 consolida, com citação expressa, o inciso I do § 2º do art. 16, sobre a exigência de apresentação das demonstrações financeiras correspondentes aos lucros, e o § 5º do art. 465 consolida o inciso II do § 2º do art. 16, sobre a dispensa dessa obrigação quando comprovada a incidência do imposto no país de origem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T20:21:15+00:00"
+ },
+ {
+  "de": "l9430.3",
+  "para": "d9580.229",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 229 do RIR/2018 regulamenta, com citação expressa como fonte, o caput do art. 3º da Lei 9.430/96, reproduzindo a regra de irretratabilidade, para todo o ano-calendário, da opção pela forma de pagamento do imposto de renda prevista no art. 1º ou no art. 2º da mesma lei, no mesmo instituto da opção pelo regime de apuração do lucro real.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T20:21:15+00:00"
+ },
+ {
+  "de": "l9430.4",
+  "para": "d9580.624",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 4º da Lei 9.430/96 deu nova redação aos §§ 1º e 2º do art. 3º da Lei 9.249/95, fixando o adicional de imposto de renda de dez por cento sobre a parcela do lucro real, presumido ou arbitrado que exceder vinte mil reais multiplicados pelo número de meses do período de apuração, inclusive nos casos de incorporação, fusão, cisão ou extinção por encerramento da liquidação; o caput e o § 1º do art. 624 do RIR/2018 consolidam, com conteúdo idêntico e citação expressa do § 1º e do § 2º do art. 3º da Lei 9.249/95, essa redação alterada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T20:21:15+00:00"
+ },
+ {
+  "de": "l9430.43",
+  "para": "d9580.907",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 907 do RIR/2018 regulamenta, de forma praticamente literal e com citação expressa como fonte, o art. 43 da Lei 9.430/96: o caput do art. 907 reproduz o caput do art. 43, que autoriza a exigência isolada ou conjunta de crédito tributário correspondente a multa ou a juros de mora, e o parágrafo único do art. 907 reproduz o parágrafo único do art. 43, que fixa a taxa de juros de mora incidente sobre esse crédito quando não pago no vencimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T20:21:15+00:00"
+ },
+ {
+  "de": "l9430.43",
+  "para": "ctn.161",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 161, § 1º, do CTN estabelece, como regra geral supletiva, que os juros de mora sobre crédito tributário não pago no vencimento são calculados à taxa de um por cento ao mês apenas se a lei não dispuser de modo diverso; o parágrafo único do art. 43 da Lei 9.430/96 excepciona essa regra supletiva ao fixar, para os créditos tributários federais exigidos isoladamente a título de multa ou de juros de mora, taxa própria vinculada à variação referida no § 3º do art. 5º da mesma lei, acrescida de um por cento no mês do pagamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T20:21:15+00:00"
+ },
+ {
+  "de": "l9430.44",
+  "para": "l8212.35-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 35-A da Lei 8.212/91 determina, por remissão legislativa expressa, que nos casos de lançamento de ofício relativos às contribuições previdenciárias referidas no art. 35 da mesma lei aplica-se o disposto no art. 44 da Lei 9.430/96, estendendo a essas contribuições o regime federal de multas de lançamento de ofício fixado no caput do art. 44, que determina a aplicação de multas nos casos de lançamento de ofício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T20:21:15+00:00"
+ },
+ {
+  "de": "l9430.5",
+  "para": "d9580.919",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 919 do RIR/2018 regulamenta, com citação expressa como fonte, o art. 5º da Lei 9.430/96: o caput do art. 919 reproduz o caput do art. 5º, sobre o pagamento do imposto de renda em quota única até o último dia útil do mês subsequente ao encerramento do período de apuração, e o § 1º do art. 919 reproduz o § 1º do art. 5º, sobre a opção de parcelamento em até três quotas mensais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T20:21:15+00:00"
+ },
+ {
+  "de": "l9430.5",
+  "para": "d9580.924",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 924 do RIR/2018 regulamenta, com citação expressa do § 4º do art. 5º da Lei 9.430/96 como fonte, a regra segundo a qual, nos casos de incorporação, fusão, cisão ou extinção da pessoa jurídica pelo encerramento da liquidação, o imposto de renda devido deve ser pago até o último dia útil do mês subsequente ao do evento, sem a faculdade de parcelamento em quotas prevista no § 1º do mesmo artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T20:21:15+00:00"
+ },
+ {
+  "de": "l9430.54",
+  "para": "d9580.593",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 593 do RIR/2018 regulamenta, de forma praticamente literal e com citação expressa como fonte, o art. 54 da Lei 9.430/96, segundo o qual a pessoa jurídica que tenha sido tributada pelo lucro real no ano-calendário anterior deve adicionar à base de cálculo do primeiro período em que optar pelo lucro presumido os saldos de valores cuja tributação havia sido diferida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T20:21:15+00:00"
+ },
+ {
+  "de": "l9430.54",
+  "para": "d9580.396",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 54 da Lei 9.430/96 trata da adição à base de cálculo dos saldos de valores com tributação diferida quando a pessoa jurídica migra do lucro real para o lucro presumido ou arbitrado, enquanto o art. 396 do RIR/2018 regulamenta a hipótese inversa, de migração do lucro presumido para o lucro real, com a inclusão de ganhos decorrentes de avaliação a valor justo; a proximidade de redação e de tema gera risco real de confusão quanto ao sentido da migração de regime a que cada dispositivo se aplica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T20:21:15+00:00"
  }
 ]
