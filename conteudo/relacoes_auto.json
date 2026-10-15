@@ -25287,5 +25287,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T15:18:47+00:00"
+ },
+ {
+  "de": "ctn.108",
+  "para": "floripa_ctm.16",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos regulam a mesma hipótese de ausência de disposição expressa na legislação tributária, estabelecendo ordem de aplicação de analogia, princípios gerais e equidade. O CTN inclui, entre a analogia e os princípios gerais de direito público, a etapa dos princípios gerais de direito tributário, que o Código Tributário Municipal de Florianópolis omite, gerando conflito aparente sobre se essa etapa intermediária também vincula a autoridade fiscal municipal, por força do CTN como norma geral de direito tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T16:17:15+00:00"
+ },
+ {
+  "de": "ctn.108",
+  "para": "lindb.4",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 108 do CTN especializa, para a matéria tributária, a regra geral de integração do art. 4º da LINDB, pois acrescenta restrições próprias (a analogia não pode resultar em exigência de tributo não previsto em lei e a equidade não pode dispensar o pagamento devido) e substitui os costumes, previstos na LINDB, pelos princípios gerais de direito tributário e de direito público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T16:17:15+00:00"
+ },
+ {
+  "de": "ctn.108",
+  "para": "clt.8",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos os dispositivos disciplinam a integração de lacunas em ramos especiais do direito, mas em ordem e amplitude diferentes. O CTN começa pela analogia e termina na equidade, com a vedação expressa de dispensar tributo devido, enquanto o art. 8º da CLT começa pela jurisprudência e inclui ainda usos, costumes e direito comparado, sem essa vedação, havendo risco de se transporem, por engano, a ordem ou as restrições de um ramo para o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T16:17:15+00:00"
+ },
+ {
+  "de": "ctn.108",
+  "para": "d70235.40",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 108 do CTN autoriza o uso da equidade na ausência de disposição expressa, vedando apenas a dispensa do pagamento do tributo devido. O art. 40 do Decreto nº 70.235/72 detalha, no processo administrativo fiscal federal, como essa equidade é aplicada pelos Conselhos de Contribuintes para a dispensa total ou parcial de penalidade pecuniária, matéria distinta do tributo e por isso não alcançada pela vedação do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T16:17:15+00:00"
+ },
+ {
+  "de": "d9580.994",
+  "para": "ctn.155-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 6º do art. 994 do RIR/2018 aplica ao parcelamento do imposto sobre a renda a regra do § 1º do art. 155-A do CTN, de que o parcelamento do crédito tributário não exclui a incidência de multa moratória salvo disposição legal em contrário, citando esse parágrafo expressamente como fundamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T16:17:15+00:00"
+ },
+ {
+  "de": "d9580.994",
+  "para": "ctn.138",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 7º do art. 994 do RIR/2018 aplica ao imposto sobre a renda a exclusão da multa de mora em caso de denúncia espontânea prevista no art. 138 do CTN, citando esse dispositivo expressamente como fundamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T16:17:15+00:00"
+ },
+ {
+  "de": "d9580.994",
+  "para": "ctn.161",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 994 do RIR/2018 trata da multa de mora sobre o imposto de renda não pago no vencimento, calculada a taxa diária e limitada a vinte por cento, enquanto o art. 161 do CTN trata dos juros de mora, cobrados sem prejuízo da imposição das penalidades cabíveis, à taxa supletiva de um por cento ao mês. Por incidirem sobre o mesmo atraso no pagamento do tributo, há risco de se confundirem os dois encargos, de natureza e cálculo distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T16:17:15+00:00"
+ },
+ {
+  "de": "floripa_ctm.16",
+  "para": "ctn.172",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 16 do Código Tributário Municipal de Florianópolis trata da equidade como critério de integração na ausência de disposição expressa, que não pode resultar em dispensa de tributo devido, enquanto o inciso IV do art. 172 do CTN trata da equidade como um dos fundamentos para a lei autorizar remissão total ou parcial de crédito tributário já constituído. Por envolverem o mesmo termo em contextos diferentes (integração de lacuna e remissão expressamente autorizada por lei), há risco de se confundir uma hipótese com a outra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T16:17:15+00:00"
+ },
+ {
+  "de": "l9430.25",
+  "para": "d9580.591",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 591 do RIR/2018 reproduz a regra do inciso I do art. 25 da Lei nº 9.430/96 sobre a base de cálculo do lucro presumido pela aplicação do percentual de oito por cento sobre a receita bruta, citando expressamente o art. 25, caput, inciso I, como fundamento legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T16:17:15+00:00"
+ },
+ {
+  "de": "l9430.62",
+  "para": "d9580.917",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 917 do RIR/2018 disciplina o parcelamento do saldo do imposto sobre a renda da pessoa física em até oito quotas, com os juros calculados à taxa a que se refere o caput do art. 62 da Lei nº 9.430/96, citando-o expressamente como fundamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T16:17:15+00:00"
+ },
+ {
+  "de": "l9430.62",
+  "para": "d9580.82",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 82 do RIR/2018 disciplina os juros sobre a restituição do imposto sobre a renda da pessoa física calculados à taxa a que se refere o art. 62 da Lei nº 9.430/96, citando-o expressamente, ao lado do art. 16 da Lei nº 9.250/95, como fundamento legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T16:17:15+00:00"
+ },
+ {
+  "de": "l9430.63",
+  "para": "d9580.1001",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.001 do RIR/2018 reproduz, para o imposto sobre a renda, a vedação ao lançamento de multa de ofício na constituição de crédito tributário destinada a prevenir a decadência quando a exigibilidade estiver suspensa nos termos dos incisos IV e V do art. 151 do CTN, citando expressamente o caput do art. 63 da Lei nº 9.430/96 como fundamento e reproduzindo, no parágrafo único, o mesmo conteúdo do § 1º desse artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T16:17:15+00:00"
+ },
+ {
+  "de": "l9430.63",
+  "para": "ctn.151",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O caput do art. 63 da Lei nº 9.430/96 remete expressamente aos incisos IV e V do art. 151 do CTN para definir as hipóteses de suspensão da exigibilidade do crédito tributário que afastam o lançamento de multa de ofício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T16:17:15+00:00"
  }
 ]
