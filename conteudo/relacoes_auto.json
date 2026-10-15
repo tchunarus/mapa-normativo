@@ -24607,5 +24607,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T01:11:50+00:00"
+ },
+ {
+  "de": "cp.116",
+  "para": "lsa.288",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 116, inciso I, do CP suspende a prescrição penal enquanto não resolvida, em outro processo, questão de que dependa o reconhecimento da existência do crime, e o art. 288 da LSA aplica a mesma lógica à prescrição da ação de responsabilidade civil, suspendendo-a até a sentença penal definitiva; são institutos distintos, um de prescrição penal e outro de prescrição civil societária, que a identidade da hipótese de suspensão pode levar a confundir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T06:13:48+00:00"
+ },
+ {
+  "de": "cp.306",
+  "para": "l9279.191",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 306 do CP protege a fé pública ao punir a falsificação de marca ou sinal empregado pelo poder público no contraste de metal precioso ou na fiscalização alfandegária e sanitária, e o art. 191 da LPI protege a propriedade industrial ao punir a reprodução ou imitação de armas, brasões ou distintivos oficiais usados em marca com fins econômicos; a semelhança do objeto, um sinal oficial, pode levar a confundir os dois tipos penais, que tutelam bens jurídicos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T06:13:48+00:00"
+ },
+ {
+  "de": "cp.306",
+  "para": "l9279.189",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 306 do CP tipifica a falsificação de sinal oficial do poder público usado no contraste de metal precioso ou na fiscalização alfandegária, distinta da falsificação de marca registrada de titularidade privada prevista no art. 189 da LPI; a referência corrente à falsificação de marca, sem indicar se o sinal é público ou privado, é fonte real de confusão entre os dois crimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T06:13:48+00:00"
+ },
+ {
+  "de": "cpp.524",
+  "para": "l9279.199",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 524 do CPP remete o processo dos crimes contra a propriedade imaterial ao procedimento comum da ação penal previsto no próprio Código, e o art. 199 da LPI especializa essa remissão ao definir que, nos crimes contra a propriedade industrial, a ação é privada, mediante queixa, exceto quanto ao crime do art. 191, em que a ação penal é pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T06:13:48+00:00"
+ },
+ {
+  "de": "l8429.17-B",
+  "para": "l12846.16",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 17-B da LIA permite ao Ministério Público celebrar acordo de não persecução civil na ação de improbidade, e o art. 16 da Lei 12.846/13 permite aos órgãos de controle interno, em conjunto com o Ministério Público ou a Advocacia Pública, celebrar acordo de leniência com pessoas jurídicas responsáveis por atos lesivos; ambos compõem o sistema negocial de responsabilização por corrupção, mas se distinguem quanto a legitimados, objeto e consequências, o que gera risco de sobreposição indevida entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T06:13:48+00:00"
+ },
+ {
+  "de": "l9099.76",
+  "para": "cp.44",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 76 da Lei 9.099/95 permite ao Ministério Público propor pena restritiva de direitos ou multa na transação penal, medida despenalizadora que prescinde de condenação, e o art. 44 do CP disciplina a substituição da pena privativa de liberdade por restritiva de direitos como efeito de sentença condenatória, sujeita a requisitos próprios de reincidência e culpabilidade; a identidade da espécie de pena pode levar a aplicar indevidamente os requisitos de um instituto ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T06:13:48+00:00"
+ },
+ {
+  "de": "l9279.207",
+  "para": "cpp.66",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 207 da LPI permite a ação cível independentemente da ação penal nos casos de propriedade industrial, e o art. 66 do CPP complementa essa independência ao esclarecer que ela cede quando a sentença penal absolutória reconhecer categoricamente a inexistência material do fato, hipótese em que a pretensão civil decorrente do mesmo fato também fica prejudicada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T06:13:48+00:00"
  }
 ]

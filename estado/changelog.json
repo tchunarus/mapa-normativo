@@ -271,5 +271,15 @@
   "titulo": "Tema 1203/STJ: Trânsito em Julgado",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1203&cod_tema_final=1203",
   "p": "stj.tema.1203"
+ },
+ {
+  "data": "2026-10-15T06:02:37+00:00",
+  "fonte": "DOU",
+  "tipo": "publicacao",
+  "titulo": "RESOLUÇÃO CVM Nº 248, DE 13 DE OUTUBRO DE 2026",
+  "url": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-248-de-13-de-outubro-de-2026-738307614",
+  "diplomas": [
+   "l13874"
+  ]
  }
 ]
