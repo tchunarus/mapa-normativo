@@ -281,5 +281,13 @@
   "diplomas": [
    "l13874"
   ]
+ },
+ {
+  "data": "2026-10-15T17:09:55+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1324/STJ: Mérito Julgado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1324&cod_tema_final=1324",
+  "p": "stj.tema.1324"
  }
 ]

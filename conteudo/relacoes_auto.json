@@ -25417,5 +25417,185 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T16:17:15+00:00"
+ },
+ {
+  "de": "clt.8",
+  "para": "lindb.4",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 4º da LINDB fixa a regra geral de integração das lacunas da lei pela analogia, os costumes e os princípios gerais de direito. O caput do art. 8º da CLT especializa essa mesma técnica para o direito do trabalho, acrescentando a jurisprudência, a equidade e o direito comparado como fontes de integração, sempre subordinadas ao interesse público sobre o interesse de classe ou particular.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "clt.8",
+  "para": "cc.421",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 8º da CLT determina que a Justiça do Trabalho paute sua atuação sobre convenções e acordos coletivos pelo princípio da intervenção mínima na autonomia da vontade coletiva, e o parágrafo único do art. 421 do Código Civil consagra a mesma intervenção mínima nas relações contratuais privadas em geral. Os dois dispositivos empregam a mesma expressão para institutos distintos, a negociação coletiva trabalhista e o contrato civil individual, com risco de se estender indevidamente um regime ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "clt.8",
+  "para": "cpc.926",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 926 do CPC impõe aos tribunais o dever geral de uniformizar a jurisprudência e editar súmulas correspondentes ao entendimento dominante. O § 2º do art. 8º da CLT especializa esse dever para o Tribunal Superior do Trabalho e os Tribunais Regionais do Trabalho, impondo-lhes o limite adicional de não poderem restringir direitos legalmente previstos nem criar obrigações não previstas em lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "d70235.40",
+  "para": "ctn.172",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 172 do CTN autoriza a lei a conceder remissão total ou parcial do crédito tributário por considerações de equidade, em relação às características pessoais ou materiais do caso. O art. 40 do Decreto 70.235/72 especializa esse mesmo instituto para o processo administrativo fiscal federal, restringindo a aplicação da equidade pelos Conselhos de Contribuintes à dispensa de penalidade pecuniária, condicionada à ausência de reincidência, sonegação, fraude ou conluio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "d70235.40",
+  "para": "ctn.113-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 113-A do CTN limita a multa tributária a percentuais máximos sobre o valor do tributo, em nome da proporcionalidade. O art. 40 do Decreto 70.235/72 permite a dispensa total ou parcial da penalidade pecuniária por equidade, quando ausentes reincidência, sonegação, fraude ou conluio. Ambos atenuam o rigor da multa tributária, mas por mecanismos distintos, um por limite legal objetivo e outro por juízo discricionário de equidade, o que pode gerar confusão entre as duas vias de redução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "d9580.1001",
+  "para": "l9430.44",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 44 da Lei 9.430/96 estabelece a regra geral de aplicação da multa de ofício nos casos de lançamento tributário. O art. 1.001 do RIR/2018, ao reproduzir o art. 63 da mesma lei, excepciona essa regra geral quando a constituição do crédito tributário destinada a prevenir a decadência ocorrer com a exigibilidade já suspensa antes de qualquer procedimento de ofício, caso em que não caberá a multa do art. 44.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "d9580.591",
+  "para": "l9430.27",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 591 do RIR/2018 define a base de cálculo do lucro presumido pela aplicação de oito por cento sobre a receita bruta trimestral. O art. 27 da Lei 9.430/96 define o lucro arbitrado pela mesma técnica de percentual sobre a receita bruta, mas com o percentual do art. 16 da Lei 9.249/95 e pressupostos de arbitramento distintos da opção voluntária pelo lucro presumido, existindo risco de confundir os dois regimes de apuração presumida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "d9580.591",
+  "para": "l9430.2",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 591 do RIR/2018 calcula a base trimestral do lucro presumido pelos percentuais do art. 15 da Lei 9.249/95 sobre a receita bruta. O art. 2º da Lei 9.430/96 emprega o mesmo percentual sobre a receita bruta mensal para o pagamento por estimativa do imposto apurado pelo lucro real, regime provisório sujeito a ajuste anual, bem diverso do caráter definitivo da opção pelo lucro presumido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "d9580.591",
+  "para": "l9430.26",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 591 do RIR/2018 disciplina o cálculo da base trimestral do lucro presumido mediante percentual sobre a receita bruta. O art. 26 da Lei 9.430/96 complementa esse mesmo regime ao determinar que a opção pelo lucro presumido é irretratável para todo o período de atividade da empresa no ano calendário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "d9580.591",
+  "para": "lcp123.3",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 591 do RIR/2018 refere-se expressamente à Lei Complementar 123/2006 ao excluir da receita das microempresas e das empresas de pequeno porte não optantes pelo Simples Nacional as importâncias recebidas para pesquisa tecnológica. O art. 3º da LC 123/06 é o dispositivo que define esses mesmos conceitos de microempresa e empresa de pequeno porte pelos limites de receita bruta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "d9580.82",
+  "para": "l9430.43",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 43 da Lei 9.430/96 determina que o crédito tributário constituído isoladamente para exigir multa ou juros de mora seja acrescido de juros pela taxa Selic acumulada mensalmente e de um por cento no mês de pagamento, devidos pelo contribuinte. O art. 82 do RIR/2018 aplica a mesma fórmula de juros Selic mais um por cento, porém na direção oposta, como acréscimo devido ao contribuinte na restituição do imposto de renda, o que pode gerar confusão quanto ao sentido do crédito e do débito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "d9580.82",
+  "para": "ctn.167",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 167 do CTN determina que a restituição do tributo dá lugar à restituição dos juros de mora na mesma proporção, vencendo juros não capitalizáveis a partir do trânsito em julgado da decisão que a determinar, regra pensada para a restituição por via judicial. O art. 82 do RIR/2018 disciplina a restituição administrativa do imposto de renda na declaração de ajuste anual, com juros calculados pela taxa Selic desde a data prevista para a entrega da declaração, critério distinto do trânsito em julgado do art. 167, o que pode gerar confusão entre os dois regimes de juros na restituição tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "d9580.917",
+  "para": "l9430.5",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 917 do RIR/2018 permite o parcelamento do saldo do imposto de renda da pessoa física em até oito quotas mensais, iguais e sucessivas. O art. 5º da Lei 9.430/96 permite, para a pessoa jurídica, o parcelamento do saldo do imposto em até três quotas mensais, iguais e sucessivas. Os dois dispositivos tratam do mesmo mecanismo de parcelamento do saldo do imposto de renda, mas com número de quotas e sujeitos passivos diferentes, existindo risco de se confundir os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "l9430.70",
+  "para": "d9580.740",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O caput e o § 1º do art. 70 da Lei 9.430/96 sujeitam à retenção de imposto de renda à alíquota de quinze por cento a multa ou vantagem paga por pessoa jurídica a título de indenização por rescisão de contrato, atribuindo a responsabilidade pela retenção à fonte pagadora. O art. 740 do RIR/2018 regulamenta esse mesmo dispositivo, reproduzindo a alíquota, o fato gerador e a responsabilidade pela retenção, com citação expressa do art. 70 como fundamento legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "l9430.74",
+  "para": "d9580.940",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O caput do art. 74 da Lei 9.430/96 permite ao sujeito passivo compensar crédito tributário, inclusive de origem judicial com trânsito em julgado, com débitos próprios de quaisquer tributos administrados pela Secretaria da Receita Federal. O art. 940 do RIR/2018 regulamenta esse mesmo dispositivo no âmbito do imposto sobre a renda, restringindo a compensação aos débitos desse tributo e citando expressamente o art. 74 como fundamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "l9430.74",
+  "para": "d9580.941",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 74 da Lei 9.430/96 disciplina a compensação de créditos tributários mediante declaração do sujeito passivo. O art. 941 do RIR/2018 complementa esse mesmo regime ao determinar que, antes de restituir ou ressarcir o imposto de renda, a Receita Federal verifique a existência de débitos do contribuinte perante a Fazenda Nacional, hipótese em que o crédito é usado de ofício para quitação desses débitos em vez de seguir a compensação voluntária do art. 74.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "l9430.74",
+  "para": "l10522.27",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 74 da Lei 9.430/96 prevê que a compensação declarada pelo sujeito passivo extingue o crédito tributário sob condição resolutória de homologação ulterior pela Receita Federal. O inciso IV do art. 27 da Lei 10.522/02 complementa esse mesmo regime ao vedar o recurso de ofício contra as decisões de homologação de compensação, tornando definitiva, no âmbito administrativo, a decisão que não homologar a compensação do art. 74 sem necessidade de reexame automático.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "l9430.74",
+  "para": "l10522.14",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso IX do art. 74 da Lei 9.430/96 veda a compensação dos débitos de recolhimento mensal por estimativa do Imposto sobre a Renda das Pessoas Jurídicas e da Contribuição Social sobre o Lucro Líquido apurados na forma do art. 2º da Lei 9.430/96. O inciso VII do art. 14 da Lei 10.522/02 complementa essa vedação ao proibir também o parcelamento desses mesmos débitos de estimativa mensal, fechando duas vias de diferimento para o mesmo recolhimento compulsório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T17:20:48+00:00"
  }
 ]
