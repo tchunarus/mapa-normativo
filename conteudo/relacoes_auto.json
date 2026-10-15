@@ -25217,5 +25217,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T14:18:29+00:00"
+ },
+ {
+  "de": "cpc.140",
+  "para": "lindb.4",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 4º da LINDB fixa os critérios de integração quando a lei for omissa (analogia, costumes e princípios gerais de direito), complementando o dever do juiz de decidir mesmo diante de lacuna previsto no art. 140 do CPC, cujo parágrafo único restringe o julgamento por equidade aos casos previstos em lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T15:18:47+00:00"
+ },
+ {
+  "de": "cpc.140",
+  "para": "ctn.108",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 108 do CTN especializa para a legislação tributária os critérios de integração da lacuna (analogia, princípios gerais, equidade), mantendo a lógica do art. 140 do CPC de limitar a equidade aos casos previstos em lei, mas acrescentando ordem própria e vedando, nos §§ 1º e 2º, que a analogia ou a equidade resultem em exigência ou dispensa de tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T15:18:47+00:00"
+ },
+ {
+  "de": "cpc.140",
+  "para": "floripa_ctm.13",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 13 e seu parágrafo único da CTM de Florianópolis especializam, para a autoridade tributária municipal, o dever de decidir mesmo diante de omissão ou obscuridade previsto no art. 140 do CPC, vedando que o silêncio da legislação tributária sirva de escusa para a autoridade deixar de aplicá-la ou de despachar e decidir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T15:18:47+00:00"
+ },
+ {
+  "de": "cpc.140",
+  "para": "floripa_ctm.16",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 16 da CTM de Florianópolis especializa para a legislação tributária municipal a ordem de integração da lacuna (analogia, princípios gerais de direito público, equidade), correspondente, no âmbito municipal, ao dever de decidir e ao limite à equidade fixados pelo art. 140 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T15:18:47+00:00"
+ },
+ {
+  "de": "d9580.34",
+  "para": "lcp123.14",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 14 da LC 123/06 excepciona, para o titular ou sócio de microempresa ou empresa de pequeno porte optante pelo Simples Nacional, a regra geral de tributação do rendimento prevista no art. 34 do RIR/2018, isentando os valores efetivamente pagos ou distribuídos, salvo os que corresponderem a pró-labore, aluguéis ou serviços prestados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T15:18:47+00:00"
+ },
+ {
+  "de": "d9580.605",
+  "para": "l9430.25",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 25 da Lei 9.430/96 define o lucro presumido com estrutura quase idêntica à do lucro arbitrado tratado no art. 605 do RIR/2018, regimes de apuração distintos e sujeitos a requisitos próprios, com risco real de confusão entre as duas sistemáticas de tributação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T15:18:47+00:00"
+ },
+ {
+  "de": "d9580.726",
+  "para": "l9430.70",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 70 da Lei 9.430/96 sujeita multas e indenizações por rescisão contratual ao imposto sobre a renda na fonte à mesma alíquota de quinze por cento prevista no art. 726 do RIR/2018 para os juros sobre o capital próprio, hipóteses distintas de incidência facilmente confundíveis entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T15:18:47+00:00"
  }
 ]
