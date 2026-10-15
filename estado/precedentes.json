@@ -7161,7 +7161,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1359&cod_tema_final=1359",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1360": {
@@ -7224,7 +7224,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1361&cod_tema_final=1361",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1362": {
@@ -7273,7 +7273,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1362&cod_tema_final=1362",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1363": {
@@ -7336,7 +7336,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1363&cod_tema_final=1363",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1364": {
@@ -7347,7 +7347,7 @@
   "numero": "1364",
   "titulo": "Tema 1364/STJ",
   "orgao": "Primeira Seção",
-  "situacao": "Afetado",
+  "situacao": "Mérito Julgado",
   "questao": "Possibilidade de apuração de créditos de PIS /COFINS em regime não cumulativo sobre o valor do ICMS incidente sobre a operação de aquisição, à luz do disposto no art. 3º, § 2º, III, das Leis 10.637/2002 e 10.833/2003, incluído pela Lei 14.592/2023.",
   "tese": null,
   "ramo": "DIREITO TRIBUTÁRIO",
@@ -7356,36 +7356,36 @@
     "numero": "REsp 2150894/SC",
     "origem": "TRF4",
     "relator": "Paulo Sérgio Domingues",
-    "julgado": null,
+    "julgado": "14/10/2026",
     "publicado": null
    },
    {
     "numero": "REsp 2150097/CE",
     "origem": "TRF5",
     "relator": "Paulo Sérgio Domingues",
-    "julgado": null,
+    "julgado": "14/10/2026",
     "publicado": null
    },
    {
     "numero": "REsp 2150848/RS",
     "origem": "TRF4",
     "relator": "Paulo Sérgio Domingues",
-    "julgado": null,
+    "julgado": "14/10/2026",
     "publicado": null
    },
    {
     "numero": "REsp 2151146/RS",
     "origem": "TRF4",
     "relator": "Paulo Sérgio Domingues",
-    "julgado": null,
+    "julgado": "14/10/2026",
     "publicado": null
    }
   ],
-  "data": null,
+  "data": "14/10/2026",
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1364&cod_tema_final=1364",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1365": {
@@ -7455,7 +7455,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1366&cod_tema_final=1366",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1367": {
@@ -7567,7 +7567,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1369&cod_tema_final=1369",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1370": {
@@ -7609,7 +7609,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1370&cod_tema_final=1370",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1371": {
@@ -7686,7 +7686,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1372&cod_tema_final=1372",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1373": {
@@ -7721,7 +7721,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1373&cod_tema_final=1373",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1374": {
@@ -7749,7 +7749,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1374&cod_tema_final=1374",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1375": {
@@ -7784,7 +7784,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1375&cod_tema_final=1375",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1376": {
@@ -7826,7 +7826,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1376&cod_tema_final=1376",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1377": {
@@ -7903,7 +7903,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1378&cod_tema_final=1378",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T10:10:25+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1379": {
@@ -7914,7 +7914,7 @@
   "numero": "1379",
   "titulo": "Tema 1379/STJ",
   "orgao": "Primeira Seção",
-  "situacao": "Afetado",
+  "situacao": "Mérito Julgado",
   "questao": "Deliberar acerca da incidência, ou não, de contribuição previdenciária e de terceiros no momento em que se exerce a opção de compra de ações no âmbito do plano denominado stock option .",
   "tese": null,
   "ramo": "DIREITO TRIBUTÁRIO",
@@ -7923,22 +7923,22 @@
     "numero": "REsp 2199631/SP",
     "origem": "TRF3",
     "relator": "Sérgio Kukina",
-    "julgado": null,
+    "julgado": "14/10/2026",
     "publicado": null
    },
    {
     "numero": "REsp 2070059/SP",
     "origem": "TRF3",
     "relator": "Sérgio Kukina",
-    "julgado": null,
+    "julgado": "14/10/2026",
     "publicado": null
    }
   ],
-  "data": null,
+  "data": "14/10/2026",
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1379&cod_tema_final=1379",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T11:09:47+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1380": {
@@ -7973,7 +7973,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1380&cod_tema_final=1380",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T11:09:47+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1381": {
@@ -8008,7 +8008,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1381&cod_tema_final=1381",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T11:09:47+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1382": {
@@ -8036,7 +8036,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1382&cod_tema_final=1382",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T11:09:47+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1383": {
@@ -8113,7 +8113,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1384&cod_tema_final=1384",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T11:09:47+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1385": {
@@ -8159,7 +8159,7 @@
   "numero": "1386",
   "titulo": "Tema 1386/STJ",
   "orgao": "Primeira Seção",
-  "situacao": "Afetado",
+  "situacao": "Mérito Julgado",
   "questao": "Definir se, nas hipóteses de indeferimento administrativo do pedido de pensão por morte de servidor público, o prazo prescricional do Decreto n. 20.910/1932 atinge apenas as prestações vencidas ou alcança o próprio direito à pensão (fundo do direito), impedindo definitivamente o reconhecimento judicial do benefício após cinco anos contados do ato denegatório.",
   "tese": null,
   "ramo": "DIREITO PREVIDENCIÁRIO",
@@ -8168,22 +8168,22 @@
     "numero": "REsp 2227232/RS",
     "origem": "TJRS",
     "relator": "Gurgel De Faria",
-    "julgado": null,
+    "julgado": "14/10/2026",
     "publicado": null
    },
    {
     "numero": "REsp 2213084/RJ",
     "origem": "TJRJ",
     "relator": "Gurgel De Faria",
-    "julgado": null,
+    "julgado": "14/10/2026",
     "publicado": null
    }
   ],
-  "data": null,
+  "data": "14/10/2026",
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1386&cod_tema_final=1386",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T11:09:47+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1387": {
@@ -8274,7 +8274,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1388&cod_tema_final=1388",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T11:09:47+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1389": {
@@ -8330,7 +8330,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1389&cod_tema_final=1389",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T11:09:47+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1390": {
@@ -8379,7 +8379,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1390&cod_tema_final=1390",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T11:09:47+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1391": {
@@ -8421,7 +8421,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1391&cod_tema_final=1391",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T11:09:47+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1392": {
@@ -8463,7 +8463,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1392&cod_tema_final=1392",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-15T11:09:47+00:00",
+  "verificado_em": "2026-10-15T18:09:33+00:00",
   "novo": false
  },
  "stj.tema.1393": {

@@ -289,5 +289,29 @@
   "titulo": "Tema 1324/STJ: Mérito Julgado",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1324&cod_tema_final=1324",
   "p": "stj.tema.1324"
+ },
+ {
+  "data": "2026-10-15T18:09:33+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1364/STJ: Mérito Julgado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1364&cod_tema_final=1364",
+  "p": "stj.tema.1364"
+ },
+ {
+  "data": "2026-10-15T18:09:33+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1379/STJ: Mérito Julgado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1379&cod_tema_final=1379",
+  "p": "stj.tema.1379"
+ },
+ {
+  "data": "2026-10-15T18:09:33+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1386/STJ: Mérito Julgado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1386&cod_tema_final=1386",
+  "p": "stj.tema.1386"
  }
 ]

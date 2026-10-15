@@ -25597,5 +25597,205 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T17:20:48+00:00"
+ },
+ {
+  "de": "cpc.926",
+  "para": "cf.103-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 926 do CPC trata da uniformização da jurisprudência dos tribunais em geral mediante súmulas que apenas refletem a jurisprudência dominante, sem efeito vinculante automático, enquanto o art. 103-A da Constituição Federal disciplina a súmula vinculante do STF, com eficácia vinculante perante o Judiciário e a administração pública; a identidade do termo súmula gera risco de confusão entre institutos com órgão competente, processo de edição e eficácia distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "cpc.926",
+  "para": "floripa_ctm.158",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 158 do CTM de Florianópolis atribui ao Pleno do Conselho Municipal de Contribuintes a edição de súmulas administrativas para uniformizar a jurisprudência tributária municipal e dirimir conflitos de entendimento, reproduzindo em esfera administrativa a mesma lógica do art. 926 do CPC, que impõe aos tribunais judiciais o dever de manter jurisprudência estável e editar súmulas; os institutos se distinguem pela natureza administrativa, e não jurisdicional, do órgão editor e pela ausência de vinculação aos demais órgãos do Judiciário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "cpc.926",
+  "para": "l10522.18-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 18-A da Lei 10.522/02 cria comitê que edita enunciados de súmula da administração tributária federal, de observância obrigatória pelos órgãos administrativos, em paralelo ao dever de uniformização de jurisprudência dos tribunais previsto no art. 926 do CPC; os dois mecanismos de súmula atendem à mesma finalidade de estabilidade decisória, mas se distinguem quanto à natureza administrativa do enunciado e à ausência de base em precedentes judiciais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "ctn.113-A",
+  "para": "lcp227.341-F",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 341-F da LC 227/2026 fixa, para o IBS, a mesma gradação de multa de lançamento de ofício prevista no art. 113-A, § 1º, do CTN, de 75% na hipótese ordinária, 100% em caso de sonegação, fraude, simulação ou conluio e 150% em caso de reincidência, detalhando os conceitos de sonegação, fraude, conluio e reincidência que operacionalizam o teto nacional em relação a esse tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "ctn.113-A",
+  "para": "lcp214.341-F",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 341-F da LC 214/2025 repete, para a CBS, a mesma gradação de multa de lançamento de ofício do art. 113-A, § 1º, do CTN, de 75%, 100% em caso de dolo e 150% em caso de reincidência, especificando os conceitos de sonegação, fraude, conluio e reincidência que operacionalizam o teto nacional em relação a esse tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "ctn.113-A",
+  "para": "floripa_ctm.466",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 466, § 2º, incisos II e IV, do CTM de Florianópolis fixa multa de 200% nos casos de sonegação ou fraude e de retenção na fonte não recolhida pelo substituto, percentual que excede o teto de 100% estabelecido pelo art. 113-A, § 1º, II, do CTN para a mesma hipótese de dolo do sujeito passivo, o que configura conflito aparente entre a norma geral nacional e a legislação tributária municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "d9580.940",
+  "para": "l9430.74-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 940 do RIR/2018 autoriza a compensação de crédito, inclusive judicial transitado em julgado, com débitos do imposto de renda, hipótese cujo limite mensal de utilização é especificamente disciplinado pelo art. 74-A da Lei 9.430/96, que impõe teto mínimo de um sessenta avos do valor total do crédito por declaração de compensação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "d9580.940",
+  "para": "ctn.170-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 940 do RIR/2018 permite a compensação de crédito tributário inclusive de origem judicial, pressupondo o trânsito em julgado da decisão que o reconheceu, condição geral que o art. 170-A do CTN impõe a qualquer compensação de tributo objeto de contestação judicial antes do trânsito em julgado da respectiva decisão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "d9580.941",
+  "para": "l9430.73",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 941 do RIR/2018 regulamenta o art. 73 da Lei 9.430/96, condicionando a restituição e o ressarcimento do imposto de renda à verificação prévia da ausência de débitos do sujeito passivo perante a Fazenda Nacional, com remissão expressa a esse dispositivo e ao art. 7º do Decreto-Lei 2.287/86.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "d9580.941",
+  "para": "ctn.165",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 941 do RIR/2018 disciplina o procedimento federal de restituição e ressarcimento do imposto de renda, com compensação de ofício de débitos do sujeito passivo antes do pagamento, dando concretude, em relação a esse tributo, ao direito geral à restituição do indébito tributário assegurado pelo art. 165 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "l10522.27",
+  "para": "cf.103-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 27, VI, da Lei 10.522/02 dispensa o recurso de ofício quando a decisão estiver fundamentada em súmula vinculante proferida pelo Supremo Tribunal Federal, remetendo diretamente ao instituto da súmula vinculante disciplinado pelo art. 103-A da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "l10522.27",
+  "para": "ctn.208-G",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 27, VI, da Lei 10.522/02 dispensa o recurso de ofício quando a decisão se fundamentar em súmula vinculante do STF, hipótese que o art. 208-G, I, a, do CTN eleva à categoria geral de pronunciamento vinculante no processo administrativo fiscal, de observância obrigatória por toda a administração tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "l10522.27",
+  "para": "l9430.73",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 27, I, da Lei 10.522/02 dispensa o recurso de ofício nas decisões sobre pedido de restituição de tributos administrados pela Receita Federal, hipótese substantivamente disciplinada pelo art. 73 da Lei 9.430/96, que rege a restituição e o ressarcimento desses tributos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "l9430.2",
+  "para": "d9580.219",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 219 do RIR/2018 regulamenta o caput do art. 2º da Lei 9.430/96, reproduzindo a faculdade da pessoa jurídica tributada pelo lucro real de recolher o imposto de renda mensalmente por estimativa, com remissão expressa a esse dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "l9430.2",
+  "para": "d9580.225",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 225 do RIR/2018 regulamenta os §§ 1º e 2º do art. 2º da Lei 9.430/96, fixando a alíquota de 15% sobre a base de cálculo estimada e o adicional de 10% sobre o que exceder R$ 20.000,00 mensais, com remissão expressa a ambos os parágrafos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "l9430.2",
+  "para": "d9580.228",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 228 do RIR/2018 regulamenta o § 4º do art. 2º da Lei 9.430/96, disciplinando as deduções do imposto de renda estimado apurado mensalmente, com remissão expressa a esse parágrafo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "l9430.2",
+  "para": "d9580.218",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 218 do RIR/2018 regulamenta o § 3º do art. 2º da Lei 9.430/96, impondo à pessoa jurídica que optar pelo recolhimento mensal estimado o dever de apurar o lucro real em 31 de dezembro de cada ano, com remissão expressa a esse parágrafo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "l9430.2",
+  "para": "d9580.230",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 230 do RIR/2018 regulamenta a aplicação, desde o início da atividade da pessoa jurídica, da opção pelo recolhimento mensal estimado prevista no art. 2º da Lei 9.430/96, com remissão expressa a esse dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "l9430.26",
+  "para": "d9580.590",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 590 do RIR/2018 regulamenta o § 2º do art. 26 da Lei 9.430/96, disciplinando a forma de manifestação da opção pelo lucro presumido pela pessoa jurídica que iniciar atividade a partir do segundo trimestre, com remissão expressa a esse parágrafo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
+ },
+ {
+  "de": "l9430.26",
+  "para": "d9580.587",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 587 do RIR/2018 fixa o limite de receita bruta que autoriza a pessoa jurídica a optar pelo regime de lucro presumido, condição de ingresso que antecede e complementa a disciplina da formalização e da irretratabilidade dessa opção prevista no art. 26 da Lei 9.430/96.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-15T18:18:57+00:00"
  }
 ]
