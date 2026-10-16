@@ -26907,5 +26907,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T10:18:20+00:00"
+ },
+ {
+  "de": "adct.18-A",
+  "para": "l8213.103-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos regulam institutos conexos de estabilização de atos administrativos favoráveis pelo decurso do tempo, salvo má-fé, mas com prazos distintos, cinco anos no ADCT e dez anos na Lei 8.213/91. Há risco de confusão entre os prazos aplicáveis, pois o dispositivo da Lei 8.213/91 é específico para atos da Previdência Social em favor de beneficiários, enquanto o ADCT trata de atos da instalação do Estado do Tocantins.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T11:17:48+00:00"
+ },
+ {
+  "de": "cc.196",
+  "para": "ctn.174",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 174 do CTN disciplina as causas de interrupção da prescrição da cobrança do crédito tributário, mas silencia sobre os efeitos da sucessão do devedor sobre o prazo já iniciado. Na omissão da legislação tributária específica, aplica-se subsidiariamente a regra geral do art. 196 do Código Civil, segundo a qual a prescrição iniciada contra uma pessoa continua a correr contra o seu sucessor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T11:17:48+00:00"
+ },
+ {
+  "de": "cpc.193",
+  "para": "cf.236",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 193 do CPC estende expressamente, no que for cabível, a disciplina da prática de atos processuais por meio eletrônico aos atos notariais e de registro. O dispositivo complementa, assim, o regime geral dos serviços notariais e de registro fixado no art. 236 da Constituição, que os atribui ao exercício privado por delegação do poder público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T11:17:48+00:00"
+ },
+ {
+  "de": "cpc.193",
+  "para": "d70235.64-B",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam do mesmo instituto, a validade dos atos processuais produzidos ou digitalizados por meio eletrônico. O art. 64-B do Decreto 70.235/72 é regra especial para o processo administrativo fiscal federal, que detalha a equivalência do valor probante dos documentos digitalizados em relação aos originais, matéria tratada em termos gerais pelo art. 193 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T11:17:48+00:00"
+ },
+ {
+  "de": "cpc.193",
+  "para": "lcp227.56",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Ambos os dispositivos versam sobre o mesmo instituto da prática eletrônica de atos processuais. O art. 56 da LC 227/2026 é regra especial para o contencioso administrativo do IBS, segundo a qual os atos e termos processuais serão formalizados e transmitidos em formato eletrônico, com os documentos digitalizados equiparados aos originais físicos quanto ao valor probante, aplicando ao novo tributo a lógica geral do art. 193 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T11:17:48+00:00"
+ },
+ {
+  "de": "d70235.56",
+  "para": "l9784.59",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam do mesmo instituto, o prazo de interposição do recurso administrativo. O art. 59 da Lei 9.784/99 fixa o prazo geral de dez dias, salvo disposição legal específica, enquanto o art. 56 do Decreto 70.235/72 é regra especial que amplia esse prazo para trinta dias no processo administrativo fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T11:17:48+00:00"
+ },
+ {
+  "de": "d70235.56",
+  "para": "l14133.168",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos tratam de institutos conexos, ambos excepcionando a regra geral de ausência de efeito suspensivo do recurso administrativo, mas em regimes especiais distintos. O art. 56 do Decreto 70.235/72 confere efeito suspensivo ao recurso voluntário no processo administrativo fiscal, enquanto o art. 168 da Lei 14.133/21 confere o mesmo efeito ao recurso e ao pedido de reconsideração no processo licitatório, havendo risco de se confundirem os âmbitos de aplicação de cada regra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T11:17:48+00:00"
+ },
+ {
+  "de": "l14133.168",
+  "para": "l12016.5",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 5º da Lei 12.016/09 veda a concessão de mandado de segurança quando cabível recurso administrativo com efeito suspensivo contra o ato impugnado. O art. 168 da Lei 14.133/21 complementa essa regra ao atribuir efeito suspensivo automático ao recurso e ao pedido de reconsideração no processo licitatório, circunstância que ativa a vedação prevista na Lei 12.016/09.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T11:17:48+00:00"
  }
 ]
