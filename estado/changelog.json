@@ -361,5 +361,13 @@
   "titulo": "Tema 1432/STJ: Mérito Julgado · tese firmada",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1432&cod_tema_final=1432",
   "p": "stj.tema.1432"
+ },
+ {
+  "data": "2026-10-16T15:11:46+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1380/STJ: Acórdão Publicado - RE Pendente",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1380&cod_tema_final=1380",
+  "p": "stj.tema.1380"
  }
 ]

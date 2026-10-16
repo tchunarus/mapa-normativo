@@ -27357,5 +27357,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T14:25:57+00:00"
+ },
+ {
+  "de": "cc.970",
+  "para": "lcp123.68",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A LC 123/06, no art. 68, define exatamente quem é o pequeno empresário mencionado no art. 970 do Código Civil, fixando o limite de receita bruta para essa qualificação. Os dois dispositivos integram o mesmo regime de tratamento favorecido, e a lei complementar apenas detalha o conceito civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T15:18:47+00:00"
+ },
+ {
+  "de": "cc.970",
+  "para": "cf.179",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 179 da Constituição Federal estabelece o mandamento geral de tratamento jurídico diferenciado às microempresas e empresas de pequeno porte, e o art. 970 do Código Civil especializa essa garantia para o empresário rural e o pequeno empresário, quanto à inscrição e aos efeitos dela decorrentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T15:18:47+00:00"
+ },
+ {
+  "de": "d9580.1043",
+  "para": "ctn.199",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 1.043 do RIR/2018 regulamenta o sigilo fiscal na seara do imposto de renda, e os seus § 5º e § 6º reproduzem, com remissão expressa, o art. 199 do CTN sobre a assistência mútua e a permuta de informações entre Fazendas Públicas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T15:18:47+00:00"
+ },
+ {
+  "de": "d9580.1043",
+  "para": "l12527.3",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 3º da Lei de Acesso à Informação consagra a publicidade como regra geral e o sigilo como exceção, enquanto o art. 1.043 do RIR/2018 veda a divulgação de dados econômicos do sujeito passivo. A aparente tensão entre publicidade e sigilo fiscal se resolve porque a própria Lei de Acesso à Informação reconhece hipóteses de sigilo legal, entre elas o sigilo fiscal regido por lei específica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T15:18:47+00:00"
+ },
+ {
+  "de": "floripa_ctm.268",
+  "para": "ctn.70",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 70 do CTN já estabelecia que o contribuinte do imposto sobre serviços é o prestador, e o art. 268 do Código Tributário Municipal de Florianópolis especializa essa regra na lei municipal que disciplina o ISS, mantendo idêntico critério de sujeição passiva.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T15:18:47+00:00"
+ },
+ {
+  "de": "l12527.15",
+  "para": "l9784.59",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "A Lei 9.784/99, no art. 59, fixa o prazo geral de dez dias para o recurso administrativo e de trinta dias para sua decisão quando a lei não fixar prazo diferente, e o art. 15 da Lei de Acesso à Informação especializa esse regime ao estabelecer prazo próprio de cinco dias para a autoridade superior decidir o recurso contra a negativa de acesso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T15:18:47+00:00"
+ },
+ {
+  "de": "l14133.17",
+  "para": "l13303.51",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 17 da Lei 14.133/21 e o art. 51 da Lei 13.303/16 disciplinam a mesma sequência de fases do procedimento licitatório para regimes distintos, a lei geral de licitações e o regime próprio das estatais, o que gera risco de confusão, pois a Lei 13.303/16 inclui fases de negociação e verificação de efetividade inexistentes no rito da Lei 14.133/21.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T15:18:47+00:00"
  }
 ]
