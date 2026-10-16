@@ -369,5 +369,41 @@
   "titulo": "Tema 1380/STJ: Acórdão Publicado - RE Pendente",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1380&cod_tema_final=1380",
   "p": "stj.tema.1380"
+ },
+ {
+  "data": "2026-10-16T18:10:40+00:00",
+  "fonte": "Planalto",
+  "tipo": "alterado",
+  "d": "cf.7",
+  "titulo": "CF, Art. 7º: texto alterado",
+  "nota": "Incluído pela Emenda Constitucional nº 141, de 2026",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+ },
+ {
+  "data": "2026-10-16T18:10:40+00:00",
+  "fonte": "Planalto",
+  "tipo": "alterado",
+  "d": "cf.40",
+  "titulo": "CF, Art. 40: texto alterado",
+  "nota": "Incluído pela Emenda Constitucional nº 140, de 2026",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+ },
+ {
+  "data": "2026-10-16T18:10:40+00:00",
+  "fonte": "Planalto",
+  "tipo": "alterado",
+  "d": "cf.198",
+  "titulo": "CF, Art. 198: texto alterado",
+  "nota": "Redação dada pela Emenda Constitucional nº 140, de 2026",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+ },
+ {
+  "data": "2026-10-16T18:10:40+00:00",
+  "fonte": "Planalto",
+  "tipo": "alterado",
+  "d": "cf.201",
+  "titulo": "CF, Art. 201: texto alterado",
+  "nota": "Incluído pela Emenda Constitucional nº 140, de 2026",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
  }
 ]

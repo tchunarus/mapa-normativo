@@ -27747,5 +27747,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T17:18:05+00:00"
+ },
+ {
+  "de": "cc.1194",
+  "para": "d9580.278",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 278 do RIR/2018 reproduz, para fins fiscais, o dever de guarda da escrituração e da correspondência previsto no art. 1.194 do Código Civil, citando-o expressamente como fundamento legal e mantendo o mesmo prazo, vinculado à prescrição ou à decadência dos atos consignados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "cf.173",
+  "para": "l13303.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Lei 13.303/2016 dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, atendendo à determinação do § 1º do art. 173 da Constituição Federal para que a lei estabeleça esse estatuto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "cf.173",
+  "para": "l13303.2",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 2º da Lei 13.303/2016 condiciona a constituição de empresa pública ou de sociedade de economia mista à prévia autorização legal que indique relevante interesse coletivo ou imperativo de segurança nacional, citando expressamente o caput do art. 173 da Constituição Federal como fundamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "cf.173",
+  "para": "l13709.24",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 24 da Lei Geral de Proteção de Dados, com fundamento expresso no art. 173 da Constituição Federal, especializa para o tratamento de dados pessoais a sujeição das empresas públicas e das sociedades de economia mista em regime de concorrência ao mesmo tratamento dispensado às pessoas jurídicas de direito privado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "d9580.950",
+  "para": "l9430.35",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 35 da Lei 9.430/1996 detalha o procedimento de retenção de livros e documentos para exame fora do estabelecimento do contribuinte, dando concretude, dentro do mesmo regime de fiscalização tributária federal, ao direito de exame assegurado de modo geral pelo art. 950 do RIR/2018.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "d9580.950",
+  "para": "lcp105.6",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 6º da Lei Complementar 105/2001 excepciona o direito de exame irrestrito previsto no art. 950 do RIR/2018 quanto a documentos e registros de instituições financeiras, que somente podem ser examinados havendo processo administrativo instaurado ou procedimento fiscal em curso considerado indispensável pela autoridade competente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "floripa_ctm.119",
+  "para": "ctn.199",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 119 do Código Tributário Municipal de Florianópolis implementa, no âmbito municipal, o dever de assistência mútua e permuta de informações fiscais entre as Fazendas Públicas estabelecido de modo geral pelo art. 199 do Código Tributário Nacional, norma geral de direito tributário que vincula também os Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "floripa_ctm.119",
+  "para": "ctn.199-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 199-A do Código Tributário Nacional amplia a cooperação prevista no art. 119 do Código Tributário Municipal de Florianópolis, autorizando que o convênio entre as Fazendas Públicas abranja também o compartilhamento de atividades de fiscalização, lançamento e cobrança de tributos, além da simples permuta de elementos fiscais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "l12527.8",
+  "para": "cf.37",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 8º da Lei de Acesso à Informação regulamenta o princípio da publicidade previsto no caput do art. 37 da Constituição Federal, impondo aos órgãos e entidades públicas o dever de divulgação ativa de informações de interesse coletivo, independentemente de requerimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "l12527.8",
+  "para": "ctn.198",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 198 do Código Tributário Nacional excepciona o dever geral de transparência ativa do art. 8º da Lei de Acesso à Informação ao vedar, como regra, a divulgação pela Fazenda Pública de informações sobre a situação econômica ou financeira do sujeito passivo obtidas em razão do ofício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "l12527.8",
+  "para": "l14133.174",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O Portal Nacional de Contratações Públicas, instituído pelo art. 174 da Lei 14.133/2021, constitui o instrumento procedimental pelo qual se cumpre, no âmbito das contratações públicas, o dever de divulgação ativa de informações licitatórias previsto no § 1º do art. 8º da Lei de Acesso à Informação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "l8987.18-A",
+  "para": "l14133.17",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 17 da Lei 14.133/2021 também permite a inversão da ordem das fases de habilitação e julgamento na licitação, mas sob regime geral distinto do art. 18-A da Lei 8.987/1995, próprio das concessões, podendo gerar confusão sobre qual disciplina de inversão de fases se aplica a cada contratação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "l9784.2",
+  "para": "cf.37",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 2º da Lei 9.784/1999 regulamenta, para os processos administrativos no âmbito federal, os princípios da legalidade, da moralidade e da eficiência já previstos no caput do art. 37 da Constituição Federal para toda a administração pública direta e indireta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "l9784.2",
+  "para": "cpc.8",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 8º do Código de Processo Civil elenca, para a atividade interpretativa do juiz, os princípios da proporcionalidade, da razoabilidade, da legalidade, da publicidade e da eficiência, em redação muito próxima à do art. 2º da Lei 9.784/1999 para os processos administrativos, podendo gerar confusão sobre qual norma rege cada esfera.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "lcp123.18-C",
+  "para": "l8036.17-A",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 18-C da Lei Complementar 123/2006 excepciona, para o microempreendedor individual rural com um único empregado, a obrigatoriedade geral de entrega de todas as informações e declarações relativas ao FGTS que o art. 17-A da Lei 8.036/1990 impõe aos empregadores, substituindo-as pela declaração única regulamentada pelo CGSN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T18:18:25+00:00"
  }
 ]
