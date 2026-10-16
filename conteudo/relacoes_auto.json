@@ -27167,5 +27167,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "clt.896",
+  "para": "cf.103-A",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "A alínea a do art. 896 da CLT admite o recurso de revista quando a decisão regional contrariar súmula vinculante do Supremo Tribunal Federal, instituto cujo conceito, requisitos de edição e efeito vinculante perante os demais órgãos do Poder Judiciário são definidos no art. 103-A da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T13:26:28+00:00"
+ },
+ {
+  "de": "clt.896",
+  "para": "cpc.1029",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 8º do art. 896 da CLT exige do recorrente, no recurso de revista fundado em dissenso de julgados, prova da divergência mediante certidão, cópia ou citação do repositório de jurisprudência oficial ou credenciado, nos mesmos termos do § 1º do art. 1.029 do CPC para o recurso especial e o recurso extraordinário, o que pode gerar confusão entre os requisitos de admissibilidade dos dois recursos, de natureza e competência distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T13:26:28+00:00"
+ },
+ {
+  "de": "l14133.165",
+  "para": "l9784.56",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 165 da Lei 14.133/21 reproduz, com prazo próprio de três dias úteis, a mesma estrutura do recurso hierárquico prevista no § 1º do art. 56 da Lei 9.784/99 (recurso dirigido à autoridade que proferiu a decisão, com encaminhamento à autoridade superior se não reconsiderada), estabelecendo regra especial para os atos praticados em licitações e contratos administrativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T13:26:28+00:00"
+ },
+ {
+  "de": "l14133.165",
+  "para": "l13303.59",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º, II, do art. 165 da Lei 14.133/21 prevê fase recursal única com prazo de três dias úteis para os atos de habilitação e julgamento de propostas, enquanto o art. 59 da Lei 13.303/16 prevê fase recursal única análoga, com prazo de cinco dias úteis, para as licitações de empresas públicas e sociedades de economia mista, que têm regime licitatório próprio, o que pode levar à aplicação equivocada do prazo de um diploma ao procedimento regido pelo outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T13:26:28+00:00"
+ },
+ {
+  "de": "l9784.67",
+  "para": "clt.775",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 67 da Lei 9.784/99 estabelece que os prazos do processo administrativo não se suspendem, salvo motivo de força maior devidamente comprovado, enquanto o § 1º, II, do art. 775 da CLT prevê a prorrogação dos prazos processuais trabalhistas pelo mesmo motivo de força maior, o que pode confundir o efeito da força maior (suspensão em um caso, prorrogação no outro) entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T13:26:28+00:00"
+ },
+ {
+  "de": "lcp105.11",
+  "para": "ctn.198",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O dever de não utilizar ou viabilizar a utilização indevida de informação obtida por quebra de sigilo bancário, previsto no art. 11 da LC 105/01, pode ser confundido com o dever de sigilo fiscal imposto à Fazenda Pública e a seus servidores pelo art. 198 do CTN quanto à situação econômica ou financeira do sujeito passivo, tratando-se de regimes de sigilo distintos (bancário e fiscal), com fundamentos legais e hipóteses de quebra próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T13:26:28+00:00"
  }
 ]
