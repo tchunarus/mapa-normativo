@@ -28527,5 +28527,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "cc.603",
+  "para": "clt.479",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 603 do Código Civil impõe ao tomador que despede sem justa causa o prestador de serviço, antes do termo do contrato, o pagamento pela metade da retribuição restante, regra que se confunde com a do art. 479 da CLT para o contrato de trabalho por prazo determinado. Os institutos são conexos, mas distintos, pois o art. 603 rege o contrato civil de prestação de serviço e o art. 479 rege especificamente o vínculo empregatício, com risco de aplicação equivocada de um regime ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T23:14:22+00:00"
+ },
+ {
+  "de": "floripa_ctm.115",
+  "para": "ctn.210",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 115 do Código Tributário Municipal de Florianópolis reproduz, para os prazos da fiscalização tributária do município, a regra geral de contagem contínua do art. 210 do CTN, que exclui o dia do início e inclui o do vencimento, especializando essa norma geral para o procedimento fiscal municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T23:14:22+00:00"
+ },
+ {
+  "de": "l13303.29",
+  "para": "l14133.75",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 29 da Lei 13.303/16 especializa, para as empresas públicas e sociedades de economia mista, a dispensa de licitação por baixo valor, com os mesmos patamares financeiros do art. 75 da Lei 14.133/21, que rege a dispensa para a administração pública em geral, da qual as estatais exploradoras de atividade econômica são excluídas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T23:14:22+00:00"
+ },
+ {
+  "de": "l13303.29",
+  "para": "l14133.74",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 29 da Lei 13.303/16 disciplina hipóteses de dispensa de licitação, em que a disputa é possível mas a lei a afasta por razões de conveniência, enquanto o art. 74 da Lei 14.133/21 trata da inexigibilidade, em que a própria competição é inviável. A distinção entre dispensa e inexigibilidade é frequentemente confundida na prática administrativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T23:14:22+00:00"
+ },
+ {
+  "de": "l13874.1",
+  "para": "cf.170",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Lei 13.874/19 regulamenta expressamente o parágrafo único do art. 170 da Constituição, que assegura a todos o livre exercício de qualquer atividade econômica independentemente de autorização de órgãos públicos salvo nos casos previstos em lei, ao instituir a Declaração de Direitos de Liberdade Econômica com base nesse fundamento constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T23:14:22+00:00"
+ },
+ {
+  "de": "l13874.1",
+  "para": "cf.24",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 1º da Lei 13.874/19 qualifica expressamente os seus arts. 1º a 4º como norma geral de direito econômico editada com fundamento no inciso I do caput e nos parágrafos primeiro a quarto do art. 24 da Constituição, que atribui à União a competência para normas gerais em matéria de direito econômico na legislação concorrente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T23:14:22+00:00"
+ },
+ {
+  "de": "l13874.1",
+  "para": "l8078.1",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 1º da Lei 13.874/19 determina a interpretação das normas de ordenação pública em favor da liberdade econômica, da boa-fé e do respeito aos contratos, enquanto o art. 1º do CDC funda a proteção do consumidor no mesmo art. 170 da Constituição como valor de ordem pública e interesse social, o que gera conflito aparente de princípios na aplicação das normas sobre atividade econômica privada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T23:14:22+00:00"
+ },
+ {
+  "de": "l14133.48",
+  "para": "l6019.4-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 48 da Lei 14.133/21 especializa, para as contratações da Administração Pública, o conceito geral de terceirização do art. 4º-A da Lei 6.019/74, ao restringir a execução por terceiros às atividades materiais acessórias, instrumentais ou complementares à competência legal do órgão ou entidade, com vedações próprias do regime de contratação pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T23:14:22+00:00"
+ },
+ {
+  "de": "cc.1595",
+  "para": "l14133.48",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 1.595 do Código Civil aplica-se subsidiariamente para definir o parentesco por afinidade mencionado no parágrafo único do art. 48 da Lei 14.133/21, que veda ao contratado, durante a vigência do contrato, contratar parente por afinidade de dirigente ou agente público ligado à licitação ou à fiscalização do contrato, sem definir esse vínculo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T23:14:22+00:00"
  }
 ]
