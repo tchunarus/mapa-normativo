@@ -28207,5 +28207,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "cf.41",
+  "para": "adct.18",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 18 do ADCT integra o mesmo regime de estabilidade do servidor público ao fulminar os efeitos de qualquer ato que tenha concedido estabilidade a servidor admitido sem concurso público a partir da instalação da Assembleia Nacional Constituinte, reforçando a exigência de concurso que também condiciona a estabilidade do art. 41.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "cf.41",
+  "para": "clt.499",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 499 da CLT trata da estabilidade no emprego privado, inclusive da vedação à estabilidade em cargo de confiança, instituto homônimo mas distinto da estabilidade do servidor público prevista no art. 41, que decorre de concurso público e rege vínculo estatutário, não celetista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "cf.41",
+  "para": "adct.53",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 53 do ADCT assegura ao ex-combatente da Segunda Guerra Mundial aproveitamento no serviço público com estabilidade sem exigência de concurso, no inciso I, outra hipótese excepcional de estabilidade que pode ser confundida com a estabilidade do art. 41, condicionada a concurso público e a três anos de efetivo exercício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "cf.71",
+  "para": "adct.16",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O parágrafo 2º do art. 16 do ADCT reproduz, em caráter especial e transitório, o modelo de controle externo com auxílio de tribunal de contas previsto no art. 71, atribuindo-o ao Senado Federal, com o auxílio do Tribunal de Contas do Distrito Federal, enquanto não instalada a Câmara Legislativa distrital.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "cf.71",
+  "para": "lcp227.40",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 40 da LC 227/2026 especializa, para a fiscalização contábil, financeira, orçamentária, operacional e patrimonial do CGIBS, o modelo de controle externo do art. 71, atribuindo-a de forma coordenada, compartilhada e colegiada aos Tribunais de Contas dos Estados, do Distrito Federal e dos Municípios, em vez de ao Tribunal de Contas da União.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "cf.71",
+  "para": "adct.26",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O parágrafo 1º do art. 26 do ADCT institui Comissão mista do Congresso Nacional com força de comissão parlamentar de inquérito para apurar o endividamento externo brasileiro, atuando com o auxílio do Tribunal de Contas da União, aplicação especial e temporária do mecanismo de controle externo do art. 71.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "cp.325",
+  "para": "d9580.1028",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 1.028 do RIR/2018 remete expressamente às penas do art. 325 do Código Penal para o servidor que revelar informações obtidas em exames de documentos e registros de bolsas de valores, de mercadorias e de futuros, sem criar tipo penal autônomo, apenas estendendo a sanção da violação de sigilo funcional a essa hipótese específica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "cp.325",
+  "para": "lcp105.10",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 10 da LC 105/01 tipifica autonomamente a quebra de sigilo bancário fora das hipóteses legais, com pena própria de reclusão de um a quatro anos, e aplica o Código Penal apenas subsidiariamente, no que couber, distinguindo-se do crime de violação de sigilo funcional do art. 325, cujo objeto é qualquer fato sigiloso conhecido em razão do cargo, não restrito a operações financeiras.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "d70235.8",
+  "para": "ctn.196",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo 1º do art. 196 do CTN já determinava que os termos de diligência de fiscalização fossem lavrados, sempre que possível, em livro fiscal, com entrega de cópia autenticada à pessoa sujeita à fiscalização quando lavrados em separado; o art. 8º do Decreto 70.235/72 detalha essa mesma exigência no âmbito do processo administrativo fiscal federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "d70235.8",
+  "para": "sc_ricms.71",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 71 do RICMS-SC especializa, para a apreensão de livros e documentos fiscais no âmbito do ICMS catarinense, o dever de lavratura de termo com entrega de cópia ao contribuinte, mecanismo análogo ao previsto para a atividade fiscalizadora federal no art. 8º do Decreto 70.235/72.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "d9580.949",
+  "para": "d70235.9",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 949 do RIR/2018 remete expressamente ao art. 9º, parágrafo 2º, do Decreto 70.235/72 para fundamentar a validade dos atos da ação fiscal praticados por Auditor-Fiscal de jurisdição diversa da do domicílio tributário do sujeito passivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "d9580.949",
+  "para": "l8213.125",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O parágrafo 3º do art. 125 da Lei 8.213/91 excetua expressamente do âmbito de fiscalização do INSS as competências atribuídas em caráter privativo aos ocupantes do cargo de Auditor-Fiscal da Receita Federal do Brasil, exatamente a competência tributária privativa tratada no art. 949 do RIR/2018, delimitando os campos de atuação dos dois órgãos fiscalizadores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "d9580.949",
+  "para": "d70235.20",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 20 do Decreto 70.235/72 complementa a competência privativa do Auditor-Fiscal da Receita Federal do Brasil tratada no art. 949 do RIR/2018 ao atribuir especificamente a esse cargo a designação para proceder a exames relativos a diligências ou perícias no âmbito da Secretaria da Receita Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "d9580.960",
+  "para": "ctn.195",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 195 do CTN estabelece o princípio geral de que nenhuma disposição legal pode excluir ou limitar o direito de examinar livros, documentos e papéis comerciais ou fiscais dos contribuintes, princípio que o art. 960 do RIR/2018 detalha ao disciplinar o procedimento específico de retenção desses livros e documentos para exame fora do estabelecimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "d9580.960",
+  "para": "sc_ricms.71",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 71 do RICMS-SC especializa, para a apreensão de livros e documentos fiscais no âmbito do ICMS catarinense, mecanismo análogo ao de retenção para exame fora do estabelecimento previsto no art. 960 do RIR/2018, com igual exigência de lavratura de termo e devolução mediante cópia ao contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "l12527.32",
+  "para": "cp.325",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "As condutas de divulgar ou permitir acesso indevido a informação sigilosa e de utilizar indevidamente informação sob sua guarda, descritas nos incisos II e IV do art. 32 da LAI, assemelham-se à conduta de revelar fato sigiloso conhecido em razão do cargo, tipificada como crime no art. 325 do Código Penal, mas constituem infração administrativa autônoma, sujeita a regime sancionador próprio e sem prejuízo da eventual responsabilização penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "l12527.32",
+  "para": "lcp105.11",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 11 da LC 105/01 responsabiliza pessoalmente o servidor público que utilizar ou viabilizar a utilização indevida de informação obtida por quebra de sigilo bancário, conduta assemelhada à do inciso II do art. 32 da LAI, que trata da utilização indevida de informação sob guarda do agente público, ainda que em regimes de sigilo distintos, um bancário e outro de acesso à informação em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T21:19:22+00:00"
  }
 ]
