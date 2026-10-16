@@ -26987,5 +26987,185 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T11:17:48+00:00"
+ },
+ {
+  "de": "adct.32",
+  "para": "cf.236",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 32 do ADCT excepciona expressamente a regra do art. 236 da Constituição, ao dispensar do regime de delegação mediante concurso público os serviços notariais e de registro que já tivessem sido oficializados pelo Poder Público antes da Constituição de 1988, preservando o direito de seus servidores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "d9580.68",
+  "para": "cf.236",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 68 do RIR/2018 refere-se expressamente ao art. 236 da Constituição ao autorizar os titulares dos serviços notariais e de registro, nessa condição reconhecidos, a deduzir determinadas despesas da receita do exercício da atividade, tratando da tributação da renda notarial a partir do regime de delegação privada que o dispositivo constitucional institui.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "d70235.56",
+  "para": "l12016.5",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 56 do Decreto 70.235/72 atribui efeito suspensivo ao recurso voluntário interposto contra decisão de primeira instância no processo administrativo fiscal, circunstância que complementa o critério do inciso I do art. 5º da Lei 12.016/09, segundo o qual não se concede mandado de segurança quando cabível recurso administrativo com efeito suspensivo contra o ato impugnado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "l9784.61",
+  "para": "l12016.5",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 61 da Lei 9.784/99 fixa a regra geral de que o recurso administrativo não tem efeito suspensivo, salvo quando a autoridade, no parágrafo único, atribuir esse efeito a pedido da parte ou de ofício, o que complementa o inciso I do art. 5º da Lei 12.016/09, cuja vedação à impetração de mandado de segurança somente incide se o recurso administrativo cabível tiver efeito suspensivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "l8397.17",
+  "para": "l12016.5",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 17 da Lei 8.397/92 nega, como regra, efeito suspensivo à apelação contra a sentença que decreta medida cautelar fiscal, atribuindo-lhe esse efeito apenas se o requerido oferecer garantia, o que complementa o inciso II do art. 5º da Lei 12.016/09, que veda o mandado de segurança quando a decisão judicial impugnada comportar recurso com efeito suspensivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "l11101.17",
+  "para": "l12016.5",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 17 da Lei 11.101/05 admite agravo contra a decisão sobre impugnação de crédito e faculta ao relator, no parágrafo único, conceder efeito suspensivo a essa decisão, condição que, quando exercida, complementa a vedação do inciso II do art. 5º da Lei 12.016/09 à impetração de mandado de segurança contra decisão judicial da qual caiba recurso com efeito suspensivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "l8934.49",
+  "para": "l12016.5",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 49 da Lei 8.934/94 nega efeito suspensivo aos recursos interpostos no âmbito do registro público de empresas mercantis, de modo que tais recursos não se enquadram na vedação do inciso I do art. 5º da Lei 12.016/09, que só impede o mandado de segurança quando o recurso administrativo cabível tiver efeito suspensivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "l8934.49",
+  "para": "d70235.56",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam do mesmo instituto, o efeito do recurso administrativo, mas chegam a soluções opostas em regimes distintos: o art. 49 da Lei 8.934/94 nega efeito suspensivo aos recursos do registro de empresas, enquanto o art. 56 do Decreto 70.235/72 atribui efeito suspensivo ao recurso voluntário no processo administrativo fiscal, havendo risco de se generalizar indevidamente a solução de um regime para o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "l14133.165",
+  "para": "l9784.59",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam do mesmo instituto, o prazo para interposição de recurso administrativo, e o art. 165 da Lei 14.133/21 é regra especial para o processo licitatório, que fixa prazo de 3 (três) dias úteis para o recurso e para o pedido de reconsideração, inferior ao prazo geral de dez dias previsto no art. 59 da Lei 9.784/99.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "lcp214.471-F",
+  "para": "l9784.59",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam do mesmo instituto, o prazo para impugnar administrativamente um ato sancionador, e o art. 471-F da LC 214/2025 é regra especial para a penalidade aplicada ao prestador de serviço de pagamento ou à instituição operadora do sistema de pagamento, que fixa prazo de até 20 (vinte) dias úteis para a impugnação, diverso do prazo geral de dez dias do art. 59 da Lei 9.784/99.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "lcp227.75",
+  "para": "l9784.59",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam do mesmo instituto, o prazo para interposição de recurso administrativo, e o § 1º do art. 75 da LC 227/2026 é regra especial para o contencioso administrativo do IBS e da CBS, que fixa prazo de 20 (vinte) dias para o recurso e para as respectivas contrarrazões, diverso do prazo geral de dez dias do art. 59 da Lei 9.784/99.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "d70235.37",
+  "para": "l9784.59",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam do mesmo instituto, o prazo para interposição de recurso administrativo, e o § 2º do art. 37 do Decreto 70.235/72 é regra especial para o recurso especial à Câmara Superior de Recursos Fiscais, que fixa prazo de 15 (quinze) dias da ciência do acórdão, diverso do prazo geral de dez dias do art. 59 da Lei 9.784/99.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "cpc.927",
+  "para": "l9784.64-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 927 do CPC determina que juízes e tribunais observem os enunciados de súmula vinculante, e o art. 64-A da Lei 9.784/99 complementa esse regime de eficácia vinculante ao estender à esfera administrativa o dever de o órgão julgador do recurso explicitar as razões de aplicabilidade ou inaplicabilidade da súmula invocada pelo recorrente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "l10522.18-A",
+  "para": "l9784.64-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos tratam de institutos conexos que podem ser confundidos: o art. 18-A da Lei 10.522/02 trata da súmula da administração tributária federal, editada pelo comitê que reúne CARF, Receita Federal e PGFN, enquanto o art. 64-A da Lei 9.784/99 trata do dever de enfrentar a súmula vinculante do Supremo Tribunal Federal, instituto de natureza e origem constitucional distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "lcp227.323-H",
+  "para": "l9784.64-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 323-H da LC 227/2026 complementa, no contencioso administrativo do IBS e da CBS, o regime de observância de provimentos vinculantes a que também se refere o art. 64-A da Lei 9.784/99, ao instituir incidente de uniformização perante a Câmara Nacional de Integração para as hipóteses em que a decisão de segunda instância deixar de aplicar provimento vinculante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "ctn.208-G",
+  "para": "l9784.64-B",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam do mesmo instituto, a eficácia vinculante da súmula vinculante do Supremo Tribunal Federal sobre a atuação da administração, e o art. 208-G do CTN é regra especial para o processo administrativo fiscal, que relaciona expressamente, na alínea a do inciso I, as súmulas vinculantes editadas na forma do art. 103-A da Constituição entre os pronunciamentos de observância obrigatória, detalhando para a esfera tributária o dever de adequação de que trata o art. 64-B da Lei 9.784/99.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "clt.896",
+  "para": "l9784.64-B",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A alínea a do art. 896 da CLT prevê o cabimento de recurso de revista quando a decisão regional contrariar súmula vinculante do Supremo Tribunal Federal, mecanismo judicial que complementa, na esfera trabalhista, o mesmo regime de garantia da observância da súmula vinculante a que se refere o art. 64-B da Lei 9.784/99 para as decisões administrativas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
+ },
+ {
+  "de": "clt.775",
+  "para": "l9784.66",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam do mesmo instituto, a contagem de prazo, mas adotam critérios opostos: o art. 775 da CLT conta os prazos trabalhistas em dias úteis, excluído o do começo e incluído o do vencimento, enquanto o art. 66 da Lei 9.784/99, cujo § 2º prevê contagem contínua para os prazos expressos em dias, segue a lógica de dias corridos própria do processo administrativo federal, o que gera risco real de confusão entre os dois regimes de contagem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T12:24:21+00:00"
  }
 ]
