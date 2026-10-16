@@ -26387,5 +26387,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T00:10:32+00:00"
+ },
+ {
+  "de": "cpc.411",
+  "para": "l13874.18",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso II do CPC, 411 admite como autêntico o documento cuja autoria seja identificada por meio legal de certificação eletrônica, nos termos da lei, e o inciso I da Lei 13.874/19, art. 18 é a regulamentação dessa comprovação eletrônica de autoria e integridade para documentos particulares.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "cpc.411",
+  "para": "clt.830",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Ambos tratam da autenticidade do documento apresentado em juízo, mas a CLT, art. 830 estabelece regra especial para o processo do trabalho, permitindo que o próprio advogado declare autêntica a cópia sob sua responsabilidade pessoal, hipótese não prevista no rol do CPC, art. 411.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "d9580.205",
+  "para": "l9430.80",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O caput do RIR/2018, art. 205 regulamenta, com remissão expressa, a hipótese de baixa de ofício da inscrição no CNPJ por ausência de entrega de declarações por cinco ou mais exercícios prevista na Lei 9.430/96, art. 80.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "d9580.205",
+  "para": "l9430.80-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 4º do RIR/2018, art. 205 regulamenta, com redação equivalente, a Lei 9.430/96, art. 80-B, segundo a qual a baixa da inscrição no CNPJ não impede o lançamento ou a cobrança posterior dos débitos tributários da pessoa jurídica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "d9580.205",
+  "para": "l9430.80-C",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 5º do RIR/2018, art. 205 regulamenta a possibilidade de restabelecimento da inscrição no CNPJ mediante solicitação da pessoa jurídica, prevista de forma equivalente na Lei 9.430/96, art. 80-C.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "d9580.205",
+  "para": "l11101.156",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O RIR/2018, art. 205 disciplina a baixa administrativa de ofício da inscrição no CNPJ pela Secretaria da Receita Federal, e a Lei 11.101/05, art. 156 trata de instituto conexo, a baixa da pessoa jurídica falida no CNPJ determinada pelo juiz ao encerrar a falência por sentença, hipótese distinta da baixa de ofício administrativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "d9580.903",
+  "para": "lcp123.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O próprio texto do RIR/2018, art. 903 indica reproduzir o § 4º da Lei Complementar 123/06, art. 9º, regra segundo a qual a baixa do registro do empresário ou da pessoa jurídica não afasta a responsabilidade por obrigações apuradas antes ou depois do ato de baixa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "d9580.903",
+  "para": "l9430.80-B",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O RIR/2018, art. 903 e a Lei 9.430/96, art. 80-B empregam redação quase idêntica sobre a baixa não impedir a cobrança posterior de débitos tributários, mas têm fundamentos e alcances distintos: o art. 903 decorre da baixa do registro do empresário ou da pessoa jurídica com base na Lei Complementar 123/06, enquanto o art. 80-B trata especificamente da baixa da inscrição no CNPJ pela Receita Federal, o que gera risco de se confundir um fundamento legal pelo outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "d9580.903",
+  "para": "l10522.20-D",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O RIR/2018, art. 903 estabelece que a baixa do registro não impede a cobrança de tributos por irregularidades apuradas em processo administrativo ou judicial contra sócios ou administradores, e a Lei 10.522/02, art. 20-D complementa esse regime ao disciplinar os meios de apuração, pela Procuradoria-Geral da Fazenda Nacional, da responsabilidade desses mesmos sócios e administradores por ato ilícito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "l9492.9",
+  "para": "ctn.174",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 1º, II do CTN, art. 174 admite o protesto extrajudicial da certidão de dívida ativa como causa de interrupção da prescrição tributária, e a Lei 9.492/97, art. 9º complementa esse regime ao estabelecer que o Tabelião de Protesto examina apenas os caracteres formais do título ou documento de dívida, sem investigar a ocorrência de prescrição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "l9492.9",
+  "para": "cpc.301",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo protesto é empregado em institutos diferentes: a Lei 9.492/97, art. 9º trata do protesto de títulos e documentos de dívida perante o Tabelionato, e o CPC, art. 301 trata do registro de protesto contra alienação de bem como medida cautelar judicial, o que gera risco de se confundirem os dois institutos apenas pela identidade do termo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "l9784.18",
+  "para": "lcp227.66",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O inciso I da Lei Complementar 227/2026, art. 66 comina de nulidade os atos praticados por servidor impedido no processo administrativo tributário federal, sem definir as hipóteses de impedimento, de modo que se aplica subsidiariamente o rol da Lei 9.784/99, art. 18 para identificar quando o servidor está impedido de atuar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "l9784.18",
+  "para": "floripa_ctm.133",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Ambos os dispositivos tratam do impedimento para atuar em processo administrativo por parentesco, mas o inciso I do CTM de Florianópolis, art. 133 estabelece regra especial para os membros do Conselho Municipal de Contribuintes, ampliando para o quarto grau o parentesco que gera impedimento, enquanto a Lei 9.784/99, art. 18 fixa o terceiro grau como regra geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "l9784.18",
+  "para": "cpp.254",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A Lei 9.784/99, art. 18 trata do impedimento do servidor, hipótese de abstenção obrigatória por parentesco ou interesse na matéria, e os incisos I e III do CPP, art. 254 tratam da suspeição do juiz por amizade íntima, inimizade ou parentesco, instituto distinto, sujeito à arguição da parte, o que gera risco real de se confundirem os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T01:09:52+00:00"
  }
 ]
