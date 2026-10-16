@@ -27897,5 +27897,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T18:18:25+00:00"
+ },
+ {
+  "de": "cp.327",
+  "para": "cf.37",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 327 do Código Penal define funcionário público para efeitos penais a partir do mesmo conceito de cargo, emprego ou função pública empregado no caput do art. 37 da Constituição Federal, mas constitui instituto autônomo de responsabilização criminal, distinto do regime administrativo de ingresso no serviço público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "l14133.1",
+  "para": "cf.37",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Lei 14.133/21 institui normas gerais de licitação e contratação para a administração pública direta, autárquica e fundacional, dando concretude ao inciso XXI do art. 37 da Constituição Federal, que exige licitação pública para obras, serviços, compras e alienações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "l12527.1",
+  "para": "cf.37",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Lei de Acesso à Informação (Lei 12.527/11) cita expressamente o art. 37, § 3º, inciso II, da Constituição Federal como fundamento, regulamentando o acesso dos usuários a registros administrativos e a informações sobre atos de governo ali previsto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "l8429.11",
+  "para": "cf.37",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 11 da Lei de Improbidade Administrativa tipifica a violação aos princípios da administração pública, os mesmos elencados no caput do art. 37 da Constituição Federal (legalidade, impessoalidade, moralidade, publicidade e eficiência), ainda que sob rótulo parcialmente distinto de honestidade e imparcialidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "adct.19",
+  "para": "cf.37",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 19 do ADCT cita expressamente o art. 37 da Constituição Federal ao estabilizar os servidores públicos civis que, na data da promulgação, contavam ao menos cinco anos de exercício e não haviam sido admitidos na forma nele regulada, excepcionando de modo transitório a exigência de concurso público prevista no inciso II.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "cpc.8",
+  "para": "lindb.5",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 8º do CPC reproduz e amplia, para o processo civil, a mesma regra de hermenêutica do art. 5º da LINDB (atenção aos fins sociais e às exigências do bem comum), acrescentando parâmetros próprios como dignidade da pessoa humana, proporcionalidade, razoabilidade, legalidade, publicidade e eficiência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "cpc.8",
+  "para": "cf.1",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "Ao impor ao juiz o dever de resguardar e promover a dignidade da pessoa humana na aplicação do ordenamento, o art. 8º do CPC remete ao fundamento da República consagrado no inciso III do art. 1º da Constituição Federal, sem reger a mesma matéria organizacional do Estado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "ctn.199-A",
+  "para": "d9580.983",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 199-A do CTN amplia, para o compartilhamento de atividades de fiscalização, lançamento e cobrança e da estrutura de processo administrativo fiscal, o mesmo regime de cooperação entre Fazendas Públicas mediante convênio de que trata o art. 983 do RIR/2018, que cuida especificamente de assistência mútua e permuta de informações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "ctn.199-A",
+  "para": "lcp123.33",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 33 da LC 123/06 especializa, para o Simples Nacional, o mesmo instituto do convênio entre Fazendas Públicas para compartilhamento de atividades de fiscalização tributária previsto no art. 199-A do CTN, ao permitir que os Estados atribuam aos Municípios a fiscalização do regime mediante convênio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "ctn.199-A",
+  "para": "cf.37",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 199-A do CTN dá concretude ao inciso XXII do art. 37 da Constituição Federal, que determina a atuação integrada das administrações tributárias e o compartilhamento de cadastros e de informações fiscais, ao autorizar o convênio entre Fazendas Públicas para o compartilhamento de atividades de fiscalização, lançamento e cobrança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "d9580.278",
+  "para": "ctn.195",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 195 do CTN, em seu parágrafo único, já impõe a conservação dos livros fiscais até a prescrição dos créditos tributários, regra que o art. 278 do RIR/2018 regulamenta e detalha para a escrituração da pessoa jurídica sujeita ao imposto de renda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "d9580.278",
+  "para": "l9430.37",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 278 do RIR/2018, no § 3º, cita expressamente o art. 37 da Lei 9.430/96 como fonte da regra de conservação dos comprovantes de escrituração até a decadência do direito de a Fazenda Pública constituir os créditos tributários relativos a exercícios futuros, limitando-se a regulamentar e consolidar, em texto de decreto, a mesma norma legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "l13303.1",
+  "para": "l11101.2",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 2º da Lei 11.101/05 exclui expressamente a empresa pública e a sociedade de economia mista do regime de falência e recuperação judicial, excepcionando essas entidades justamente por se sujeitarem ao estatuto jurídico próprio instituído pelo art. 1º da Lei 13.303/16.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "l13303.2",
+  "para": "cf.37",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 2º, § 2º, da Lei 13.303/16 cita expressamente o inciso XX do art. 37 da Constituição Federal ao exigir autorização legislativa para a criação de subsidiárias de empresa pública ou de sociedade de economia mista e para a participação de qualquer delas em empresa privada, reproduzindo o mesmo comando constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "l13303.2",
+  "para": "lsa.236",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 236 da Lei das Sociedades Anônimas já exige prévia autorização legislativa para a constituição de companhia de economia mista, regra que o art. 2º, § 1º, da Lei 13.303/16 complementa ao estender a mesma exigência de autorização legal também à empresa pública e às subsidiárias, dentro do mesmo regime de constituição de estatais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "l14133.174",
+  "para": "l12527.1",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 174, § 4º, da Lei 14.133/21 determina que o Portal Nacional de Contratações Públicas observe as exigências previstas na Lei 12.527/11, cujo art. 1º institui o regime geral de acesso a informações que o PNCP complementa e detalha no âmbito das contratações públicas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T19:19:22+00:00"
  }
 ]
