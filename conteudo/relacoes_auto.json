@@ -26777,5 +26777,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T09:22:39+00:00"
+ },
+ {
+  "de": "cc.107",
+  "para": "cpc.188",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 107 do CC dispensa forma especial para a validade da declaração de vontade, salvo exigência legal, e o art. 188 do CPC afirma o mesmo para os atos e termos processuais, considerando válido o que, por outro modo, atinja a finalidade essencial. Tratam de institutos conexos, pois um regula negócios jurídicos privados e o outro, atos do processo civil, podendo o operador confundir o alcance de cada regra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T10:18:20+00:00"
+ },
+ {
+  "de": "cpc.1004",
+  "para": "cc.196",
+  "tipo": "conflito_aparente",
+  "grau": "contato",
+  "porque": "O art. 1.004 do CPC restitui o prazo recursal em proveito do herdeiro ou sucessor quando sobrevém a morte da parte ou de seu advogado durante o prazo para recorrer, ao passo que o art. 196 do CC estabelece que a prescrição iniciada contra alguém continua a correr normalmente contra o seu sucessor. A aproximação é apenas aparente, pois tratam de institutos diferentes, a prescrição de direito material e o prazo recursal processual, e a morte da parte produz efeitos opostos em cada um.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T10:18:20+00:00"
+ },
+ {
+  "de": "cpc.1004",
+  "para": "l9784.67",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.004 do CPC restitui o prazo recursal quando ocorre motivo de força maior que suspenda o curso do processo, e o art. 67 da Lei 9.784/99 fixa que os prazos do processo administrativo só se suspendem por motivo de força maior comprovado. São institutos conexos, pois ambos tratam do efeito da força maior sobre prazos processuais, mas em regimes distintos, o processo civil e o processo administrativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T10:18:20+00:00"
+ },
+ {
+  "de": "cpc.188",
+  "para": "l9099.13",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 188 do CPC consagra a instrumentalidade das formas, considerando válido o ato realizado de outro modo que atinja sua finalidade essencial, e o art. 13 da Lei 9.099/95 repete essa diretriz para os atos processuais dos Juizados Especiais Cíveis. A Lei 9.099/95 especializa, para o rito sumaríssimo, o mesmo instituto tratado de modo geral pelo CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T10:18:20+00:00"
+ },
+ {
+  "de": "cpc.998",
+  "para": "cpp.576",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 998 do CPC permite ao recorrente desistir do recurso a qualquer tempo, sem anuência do recorrido, e o art. 576 do CPP veda ao Ministério Público desistir de recurso que haja interposto. Os institutos são conexos, pois tratam da desistência recursal, mas o CPP impõe à parte pública, na ação penal, uma restrição inexistente para o particular no processo civil, o que exige atenção quanto à legitimidade de quem desiste.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T10:18:20+00:00"
+ },
+ {
+  "de": "l11101.137",
+  "para": "cpc.301",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 137 da Lei 11.101/05 autoriza o sequestro de bens retirados do patrimônio do devedor na ação revocatória falimentar, na forma da lei processual civil, e o art. 301 do CPC prevê o sequestro como medida de urgência de natureza cautelar. A lei falimentar não disciplina o procedimento do sequestro e remete à aplicação subsidiária do CPC para suprir essa omissão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T10:18:20+00:00"
+ },
+ {
+  "de": "l11101.137",
+  "para": "cpp.127",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 137 da Lei 11.101/05 trata do sequestro de bens do devedor na ação revocatória falimentar, enquanto o art. 127 do CPP disciplina o sequestro de bens no processo penal, a requerimento do Ministério Público, do ofendido ou por representação policial. Ambos usam o mesmo nome para medidas cautelares distintas, uma civil e patrimonial, outra penal, o que pode gerar confusão quanto ao regime aplicável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T10:18:20+00:00"
+ },
+ {
+  "de": "l14133.12",
+  "para": "cpc.193",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso VI do art. 12 da Lei 14.133/21 determina que os atos do processo licitatório sejam preferencialmente digitais, para serem produzidos, comunicados, armazenados e validados por meio eletrônico, e o art. 193 do CPC contém comando quase idêntico para os atos processuais civis. São institutos conexos, pois tratam da digitalização de atos em esferas diferentes, a licitação administrativa e o processo judicial, podendo-se confundir o regime de cada um.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T10:18:20+00:00"
+ },
+ {
+  "de": "l9784.54",
+  "para": "l8213.103-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 54 da Lei 9.784/99 fixa em cinco anos o prazo decadencial para a Administração anular atos favoráveis ao destinatário, salvo má-fé, e o art. 103-A da Lei 8.213/91 repete a mesma estrutura, inclusive quanto aos efeitos patrimoniais contínuos, mas fixa prazo de dez anos para a Previdência Social. A lei previdenciária especializa, para esse setor, o mesmo instituto da decadência do poder de autotutela.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T10:18:20+00:00"
+ },
+ {
+  "de": "l9784.54",
+  "para": "adct.18-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 54 da Lei 9.784/99 estabelece prazo decadencial de cinco anos para a Administração anular atos favoráveis, salvo má-fé, e o art. 18-A do ADCT convalida, após o mesmo prazo de cinco anos, atos administrativos praticados na instalação do Estado do Tocantins, também ressalvada a má-fé. Os institutos são conexos, mas diferentes, pois um trata da perda do poder de anular e o outro, da convalidação automática do ato, com efeitos jurídicos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T10:18:20+00:00"
+ },
+ {
+  "de": "l9784.61",
+  "para": "l8934.49",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 61 da Lei 9.784/99 fixa que o recurso administrativo não tem efeito suspensivo, salvo disposição legal em contrário, e o art. 49 da Lei 8.934/94 repete a mesma regra para os recursos do registro público de empresas mercantis. A Lei 8.934/94 especializa, para esse procedimento, o mesmo instituto da ausência de efeito suspensivo do recurso administrativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T10:18:20+00:00"
+ },
+ {
+  "de": "l9784.61",
+  "para": "l14133.168",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 61 da Lei 9.784/99 estabelece que o recurso administrativo não tem efeito suspensivo, salvo disposição legal em contrário, e o art. 168 da Lei 14.133/21 excepciona essa regra geral ao atribuir efeito suspensivo automático ao recurso e ao pedido de reconsideração no processo licitatório. Tratam do mesmo instituto, mas com soluções opostas quanto ao efeito do recurso sobre a decisão recorrida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T10:18:20+00:00"
+ },
+ {
+  "de": "l9784.61",
+  "para": "d70235.56",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 61 da Lei 9.784/99 nega, como regra geral, efeito suspensivo ao recurso administrativo, salvo disposição legal em contrário, e o art. 56 do PAF excepciona essa regra ao conceder efeito suspensivo ao recurso voluntário no processo administrativo fiscal federal. Cuidam do mesmo instituto, com tratamento oposto quanto ao efeito do recurso sobre a decisão de primeira instância.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T10:18:20+00:00"
  }
 ]

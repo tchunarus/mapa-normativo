@@ -353,5 +353,13 @@
   "titulo": "Tema 1386/STJ: Mérito Julgado · tese firmada",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1386&cod_tema_final=1386",
   "p": "stj.tema.1386"
+ },
+ {
+  "data": "2026-10-16T10:09:35+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1432/STJ: Mérito Julgado · tese firmada",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1432&cod_tema_final=1432",
+  "p": "stj.tema.1432"
  }
 ]
