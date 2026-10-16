@@ -26527,5 +26527,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T01:09:52+00:00"
+ },
+ {
+  "de": "cpc.301",
+  "para": "l9307.22-A",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 22-A da Lei 9.307/96 permite que as partes recorram ao Poder Judiciário para a concessão de medida cautelar ou de urgência antes de instituída a arbitragem, hipótese em que o juízo estatal se vale, na omissão da Lei de Arbitragem quanto aos meios executivos, do rol de medidas idôneas de asseguração de direito do art. 301 do CPC, como o arresto, o sequestro e o arrolamento de bens.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T06:14:48+00:00"
+ },
+ {
+  "de": "l8036.29-B",
+  "para": "cpc.301",
+  "tipo": "excepciona",
+  "grau": "contato",
+  "porque": "O art. 29-B da Lei 8.036/90 veda a concessão de liminar em medida cautelar ou preventiva, ainda que fundada no rol de medidas idôneas do art. 301 do CPC, quando a providência implicar saque ou movimentação da conta vinculada do FGTS, excepcionando nesse ponto a ampla liberdade de meios que o art. 301 confere ao juiz para assegurar o direito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T06:14:48+00:00"
+ },
+ {
+  "de": "cpp.125",
+  "para": "cpc.301",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos empregam o termo sequestro, mas designam institutos distintos: o art. 301 do CPC trata do sequestro como medida cautelar cível para assegurar direito patrimonial em litígio privado, enquanto o art. 125 do CPP disciplina o sequestro penal de bens imóveis adquiridos pelo indiciado com os proventos da infração, voltado à reparação do dano e ao confisco.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T06:14:48+00:00"
+ },
+ {
+  "de": "l9492.13",
+  "para": "cpc.301",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo protesto é empregado em sentidos diferentes: o art. 301 do CPC trata do registro de protesto contra alienação de bem como medida cautelar judicial de asseguração patrimonial, enquanto o art. 13 da Lei 9.492/97 disciplina o protesto extrajudicial de títulos e documentos de dívida levado a cartório, inclusive o prazo de lavratura quando a intimação ocorrer no último dia do prazo ou além dele.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T06:14:48+00:00"
+ },
+ {
+  "de": "l10522.20-D",
+  "para": "lef.1",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 20-D da Lei 10.522/02 ressalva expressamente que as medidas administrativas nele previstas, como a notificação de responsáveis e a instauração de procedimento para apuração de responsabilidade de terceiros, não prejudicam a utilização das medidas judiciais para recuperação e acautelamento dos créditos inscritos em dívida ativa, disciplinadas pelo art. 1º da Lei de Execução Fiscal, de modo que o procedimento administrativo complementa, sem substituir, a cobrança judicial ali prevista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T06:14:48+00:00"
+ },
+ {
+  "de": "l13874.18",
+  "para": "cpc.439",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 439 do CPC condiciona a utilização de documentos eletrônicos no processo convencional à verificação de sua autenticidade na forma da lei. O art. 18 da Lei 13.874/19 fornece esse parâmetro legal, estabelecendo que a autoria e a integridade do documento eletrônico se comprovam pelo meio escolhido de comum acordo pelas partes, pela aceitação da parte contrária ou, independentemente de aceitação, pela certificação no padrão ICP-Brasil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T06:14:48+00:00"
+ },
+ {
+  "de": "l8934.39-B",
+  "para": "l13874.18",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 39-B da Lei 8.934/94 permite que a comprovação da autenticação de documentos e da autoria no registro de empresas seja feita por meio eletrônico, na forma do regulamento, especializando para o registro empresarial o padrão geral de comprovação de autoria e integridade de documentos eletrônicos estabelecido pelo art. 18 da Lei 13.874/19.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T06:14:48+00:00"
+ },
+ {
+  "de": "d70235.64-B",
+  "para": "l13874.18",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 64-B do Decreto 70.235/72 atribui aos atos, termos e documentos digitalizados e armazenados eletronicamente pela administração tributária o mesmo valor probante de seus originais, especializando para o processo administrativo fiscal o critério geral de garantia de integridade e autenticidade de documentos eletrônicos fixado pelo art. 18 da Lei 13.874/19.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T06:14:48+00:00"
+ },
+ {
+  "de": "d9580.206",
+  "para": "l9430.80",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 80 da Lei 9.430/96 disciplina a baixa de ofício da inscrição no CNPJ pela falta de declarações por cinco ou mais exercícios, consequência facilmente confundível com a declaração de inaptidão da inscrição por apenas dois exercícios consecutivos, prevista no art. 81 da mesma lei e regulamentada pelo art. 206 do RIR/2018, que tem requisito temporal e natureza jurídica próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T06:14:48+00:00"
+ },
+ {
+  "de": "l10522.20",
+  "para": "l9430.80-B",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo baixa é empregado em sentidos diferentes: o art. 80-B da Lei 9.430/96 trata da baixa da inscrição no CNPJ, que não extingue os débitos tributários da pessoa jurídica, enquanto o art. 20 da Lei 10.522/02 trata do arquivamento dos autos da execução fiscal de baixo valor, expressamente sem baixa na distribuição, isto é, sem extinção do processo nem do crédito exequendo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T06:14:48+00:00"
+ },
+ {
+  "de": "l9430.80-B",
+  "para": "l11101.156",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 80-B da Lei 9.430/96 esclarece que o ato de baixa da inscrição no CNPJ não impede o lançamento ou a cobrança posterior de débitos tributários, regra que complementa a determinação do art. 156 da Lei 11.101/05 de baixa da falida no CNPJ ao final do processo falimentar, afastando o entendimento de que o encerramento da falência extinguiria automaticamente créditos tributários não satisfeitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T06:14:48+00:00"
+ },
+ {
+  "de": "l9784.20",
+  "para": "cpc.145",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos preveem a suspeição por amizade íntima ou inimizade notória e por parentesco até o terceiro grau com uma das partes, mas em esferas distintas: o art. 20 da Lei 9.784/99 disciplina a suspeição de autoridade ou servidor no processo administrativo federal, enquanto os incisos I e III do art. 145 do CPC disciplinam a suspeição do juiz no processo civil, com regime próprio de arguição e julgamento do incidente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T06:14:48+00:00"
+ },
+ {
+  "de": "l9784.20",
+  "para": "clt.801",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 20 da Lei 9.784/99 e as alíneas b e c do art. 801 da CLT preveem, cada qual em sua esfera, a suspeição do julgador ou da autoridade por amizade íntima ou por parentesco até o terceiro grau civil com os litigantes, regimes autônomos que não se confundem quanto ao órgão competente para decidir o incidente, o processo administrativo federal e o processo do trabalho, respectivamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T06:14:48+00:00"
  }
 ]
