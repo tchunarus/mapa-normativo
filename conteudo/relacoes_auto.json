@@ -26657,5 +26657,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T06:14:48+00:00"
+ },
+ {
+  "de": "cpc.439",
+  "para": "lcp227.58",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 439 do CPC exige a conversão à forma impressa e a verificação da autenticidade do documento eletrônico quando usado no processo convencional, enquanto o art. 58 da LC 227/2026 considera o documento eletrônico, com garantia de autoria, autenticidade e integridade, como original para todos os efeitos legais, sem exigir conversão; há risco de se aplicar a exigência de conversão do CPC a documento que, no âmbito do processo tributário, já é tratado como original.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T09:22:39+00:00"
+ },
+ {
+  "de": "cpp.125",
+  "para": "l11101.137",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 125 do CPP autoriza o sequestro de bem imóvel adquirido com proventos da infração mesmo já transferido a terceiro, e o art. 137 da Lei 11.101/05 autoriza, a requerimento do autor da ação revocatória, o sequestro de bens retirados do patrimônio do devedor e em poder de terceiros; a semelhança na técnica de alcançar bens em mãos de terceiros pode levar a confundir os pressupostos criminais e falimentares de cada sequestro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T09:22:39+00:00"
+ },
+ {
+  "de": "l8934.39-B",
+  "para": "cpc.411",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 39-B da Lei 8.934/94 permite que a comprovação da autenticação de documentos de registro empresarial seja feita por meio eletrônico, na forma do regulamento, especializando, para o âmbito das juntas comerciais, a regra geral do art. 411 do CPC sobre quando se considera autêntico um documento, inclusive por certificação eletrônica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T09:22:39+00:00"
+ },
+ {
+  "de": "l9492.13",
+  "para": "l9784.67",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 13 da Lei 9.492/97 resolve a intimação para protesto feita no último dia do prazo ou após ele por força maior transferindo o ato para o primeiro dia útil seguinte, enquanto o art. 67 da Lei 9.784/99 trata a força maior comprovada como causa de não suspensão do prazo processual administrativo; os dois dispositivos dão à força maior efeitos distintos sobre o prazo (prorrogação automática do ato e suspensão do prazo), o que pode ser confundido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T09:22:39+00:00"
+ },
+ {
+  "de": "l9492.13",
+  "para": "cpc.1004",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 13 da Lei 9.492/97 prorroga para o primeiro dia útil subsequente o ato de protesto cuja intimação, por força maior, ocorreu no último dia do prazo ou após ele, enquanto o art. 1.004 do CPC determina a restituição do prazo recursal em favor da parte quando sobrevém motivo de força maior que suspenda o curso do processo; a diferença entre prorrogar o ato e restituir o prazo pode ser confundida por tratarem do mesmo fato gerador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T09:22:39+00:00"
+ },
+ {
+  "de": "l9784.22",
+  "para": "cc.107",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 107 do Código Civil consagra a liberdade de forma da declaração de vontade, salvo exigência legal expressa, e o art. 22 da Lei 9.784/99 especializa esse princípio para o processo administrativo, impondo, no § 1º, que os atos sejam produzidos por escrito, em vernáculo, com data, local e assinatura da autoridade responsável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T09:22:39+00:00"
+ },
+ {
+  "de": "l9784.22",
+  "para": "cpc.188",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 22 da Lei 9.784/99 e o art. 188 do CPC consagram o mesmo princípio de liberdade de forma dos atos processuais, válidos ainda que praticados de outro modo desde que atinjam sua finalidade essencial, cada qual aplicável a seu processo (administrativo e civil, respectivamente), o que pode levar a citar o dispositivo do regime errado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T09:22:39+00:00"
+ },
+ {
+  "de": "l9784.22",
+  "para": "l14133.12",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 22 da Lei 9.784/99 afasta a exigência de forma determinada para os atos do processo administrativo, salvo exigência legal expressa, e o inciso III do art. 12 da Lei 14.133/21 aplica o mesmo princípio ao processo licitatório, ao dispor que o desatendimento de exigências meramente formais que não comprometam a qualificação do licitante ou a compreensão da proposta não importa seu afastamento nem a invalidação do processo; a coincidência de princípio entre os dois regimes pode gerar confusão sobre qual dispositivo embasa a decisão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T09:22:39+00:00"
+ },
+ {
+  "de": "l9784.36",
+  "para": "clt.818",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 36 da Lei 9.784/99 atribui ao interessado a prova dos fatos que alegou no processo administrativo, sem prejuízo do dever de instrução do órgão competente, enquanto o art. 818 da CLT distribui o ônus da prova entre reclamante e reclamada conforme o fato seja constitutivo, impeditivo, modificativo ou extintivo do direito alegado; a distribuição bilateral e rígida da CLT não corresponde ao modelo da Lei 9.784/99, que soma à parte interessada o dever de instrução oficial da administração, o que pode ser confundido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T09:22:39+00:00"
+ },
+ {
+  "de": "l9784.51",
+  "para": "lcp227.72",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 51 da Lei 9.784/99 disciplina, de modo geral, a desistência e a renúncia do interessado no processo administrativo, e o art. 72 da LC 227/2026 especializa essa disciplina para o contencioso administrativo tributário, definindo hipóteses expressas e tácitas de desistência do litígio, como o pagamento, o parcelamento, a compensação do crédito tributário em litígio ou a propositura de ação judicial sobre a mesma matéria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T09:22:39+00:00"
+ },
+ {
+  "de": "l9784.51",
+  "para": "cpc.998",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 51 da Lei 9.784/99 permite ao interessado desistir total ou parcialmente do pedido no processo administrativo, ressalvado o prosseguimento se a administração entender que o interesse público assim exige, e o art. 998 do CPC permite ao recorrente desistir do recurso a qualquer tempo, sem anuência do recorrido, sem ressalva equivalente de interesse público; a existência de requisitos distintos para a desistência em cada regime pode ser confundida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T09:22:39+00:00"
+ },
+ {
+  "de": "l9784.53",
+  "para": "lcp227.65",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 53 da Lei 9.784/99 impõe à administração o dever geral de anular seus próprios atos eivados de vício de legalidade e a faculdade de revogá-los por conveniência ou oportunidade, e o art. 65 da LC 227/2026 especializa o dever de autoanulação para a administração tributária, limitado aos atos eivados de vício de legalidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T09:22:39+00:00"
  }
 ]
