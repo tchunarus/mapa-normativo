@@ -27227,5 +27227,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T13:26:28+00:00"
+ },
+ {
+  "de": "ctn.198",
+  "para": "d9580.1043",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.043 do RIR/2018 reproduz e regulamenta, no âmbito da tributação federal, o sigilo fiscal do caput e do § 1º, incisos I e II, do art. 198 do CTN, citando-os expressamente como fundamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T14:25:57+00:00"
+ },
+ {
+  "de": "ctn.198",
+  "para": "lcp105.6",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 6º da LC 105/01 disciplina o sigilo bancário perante a fiscalização, exigindo processo administrativo instaurado para o exame de dados financeiros, o que pode ser confundido com o sigilo fiscal do art. 198 do CTN, embora protejam institutos distintos: um resguarda os dados mantidos por instituições financeiras e o outro as informações já obtidas pela própria Fazenda Pública sobre o sujeito passivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T14:25:57+00:00"
+ },
+ {
+  "de": "ctn.198",
+  "para": "l12527.25",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 25 da LAI trata do sigilo de informação classificada por grau de sigilo, regime distinto do sigilo fiscal do art. 198 do CTN, mas a semelhança terminológica entre as duas formas de informação sigilosa gera risco de confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T14:25:57+00:00"
+ },
+ {
+  "de": "l13303.59",
+  "para": "l14133.17",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 17 da Lei 14.133/21 estrutura o processo licitatório em fases sucessivas, incluindo a fase recursal prevista no inciso VI, enquanto o art. 59 da Lei 13.303/16 excepciona esse modelo para as estatais ao prever fase recursal única, salvo em caso de inversão de fases.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T14:25:57+00:00"
+ },
+ {
+  "de": "l9784.56",
+  "para": "l14133.166",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 166 da Lei 14.133/21 especializa, para as sanções dos incisos I, II e III do caput do art. 156 da mesma lei, o modelo geral de recurso hierárquico do § 1º do art. 56 da Lei 9.784/99, mantendo a mesma lógica de que a autoridade prolatora reconsidera a decisão ou a encaminha à autoridade superior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T14:25:57+00:00"
+ },
+ {
+  "de": "l9784.56",
+  "para": "l12527.15",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 15 da LAI especializa, para a negativa de acesso à informação, o recurso administrativo hierárquico do § 1º do art. 56 da Lei 9.784/99, mas dirige o recurso diretamente à autoridade hierarquicamente superior, dispensando a etapa de reconsideração pela autoridade que proferiu a decisão impugnada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T14:25:57+00:00"
+ },
+ {
+  "de": "l9784.56",
+  "para": "l12016.5",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 5º, I, da Lei 12.016/09 excepciona o cabimento do mandado de segurança quando exista recurso administrativo com efeito suspensivo, pressupondo o instituto do recurso hierárquico disciplinado de forma geral pelo art. 56 da Lei 9.784/99.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T14:25:57+00:00"
+ },
+ {
+  "de": "lcp116.5",
+  "para": "floripa_ctm.268",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 268 do CTM de Florianópolis regulamenta, no âmbito municipal, a definição de contribuinte do ISS fixada pelo art. 5º da LC 116/03, reproduzindo a mesma regra de que o contribuinte é o prestador do serviço.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T14:25:57+00:00"
+ },
+ {
+  "de": "lcp116.5",
+  "para": "lcp87.4",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 4º da LC 87/96 define como contribuinte do ICMS quem realiza prestações de serviços de transporte interestadual e intermunicipal e de comunicação, serviços que a LC 116/03 exclui do campo do ISS, de modo que a aparente sobreposição entre as duas definições de prestador de serviço contribuinte se resolve pela repartição constitucional de competências entre ICMS e ISS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T14:25:57+00:00"
+ },
+ {
+  "de": "lcp116.6",
+  "para": "floripa_ctm.269",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 269 do CTM de Florianópolis regulamenta, no âmbito municipal, a responsabilidade tributária por substituição prevista no § 2º do art. 6º da LC 116/03, reproduzindo a mesma lista de serviços dos subitens 3.05, 7.02, 7.04, 7.05, 7.09, 7.10, 7.12, 7.16, 7.17, 7.19, 11.02, 17.05 e 17.10.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T14:25:57+00:00"
+ },
+ {
+  "de": "lcp123.1",
+  "para": "cc.970",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 1º da LC 123/06 concretiza, de forma mais ampla, o tratamento favorecido e simplificado que o art. 970 do Código Civil assegura ao pequeno empresário quanto à inscrição, estendendo esse tratamento também às matérias tributária, trabalhista e previdenciária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T14:25:57+00:00"
+ },
+ {
+  "de": "lcp123.1",
+  "para": "sc_icms_lei.101",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 101 da Lei 10.297/96-SC sujeita a microempresa e a empresa de pequeno porte, para fins de ICMS, ao tratamento favorecido e diferenciado instituído pela LC 123/06, cujas normas gerais estão fixadas no art. 1º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T14:25:57+00:00"
+ },
+ {
+  "de": "lcp123.10",
+  "para": "l8934.61",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 10 da LC 123/06 integra o mesmo regime de desburocratização do art. 61 da Lei 8.934/94, que dispensa as empresas de prestar a outros órgãos informações cadastrais já fornecidas ao Registro Público de Empresas Mercantis, detalhando essa dispensa para a abertura e o fechamento de microempresas e empresas de pequeno porte, com a vedação de documentos adicionais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T14:25:57+00:00"
  }
 ]
