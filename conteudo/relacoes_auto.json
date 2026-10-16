@@ -28377,5 +28377,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T21:19:22+00:00"
+ },
+ {
+  "de": "adct.16",
+  "para": "cf.32",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 16 do ADCT remete expressamente ao art. 32, § 2º, da Constituição, estabelecendo regime transitório de indicação do Governador e do Vice-Governador do Distrito Federal pelo Presidente da República, com aprovação do Senado Federal, até que se efetive a eleição do Governador e do Vice-Governador prevista naquele dispositivo. Tratam, portanto, do mesmo instituto (a forma de investidura do chefe do Executivo distrital), diferindo apenas quanto ao momento de aplicação (transitório versus definitivo).",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "adct.18",
+  "para": "cf.37",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 18 do ADCT pressupõe a exigência de concurso público para a investidura em cargo, emprego ou função pública fixada no art. 37, II, da Constituição, ao invalidar os efeitos de atos que concederam estabilidade a quem não preencheu esse requisito. Diferem porque o art. 37, II, estabelece a regra geral de acesso ao serviço público, ao passo que o art. 18 do ADCT sanciona, de forma transitória, os atos pretéritos que a descumpriram no tocante à estabilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "adct.26",
+  "para": "cf.72",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Tanto o art. 26 do ADCT quanto o art. 72 da Constituição tratam de comissões mistas do Congresso Nacional que investigam irregularidades com o apoio do Tribunal de Contas da União, o que gera risco de confusão entre a comissão mista permanente de orçamento do art. 72 e a comissão mista temporária e específica do ADCT, destinada apenas à apuração do endividamento externo. Distinguem-se pelo objeto (fiscalização orçamentária permanente versus apuração histórica e pontual do endividamento) e pela duração (permanente versus limitada ao prazo de um ano previsto no caput do art. 26).",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "adct.26",
+  "para": "l8429.15",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 26, § 2º, do ADCT e o art. 15 da Lei de Improbidade Administrativa preveem, ambos, o dever de uma comissão apuradora comunicar irregularidades ao Ministério Público, o que pode levar à confusão entre a comissão mista legislativa de apuração do endividamento externo e a comissão processante administrativa de improbidade. Diferem na natureza do órgão (comissão mista do Congresso Nacional versus comissão processante da Administração) e no destinatário adicional da comunicação, que no art. 15 da LIA inclui também o Tribunal ou Conselho de Contas como parte do próprio procedimento disciplinar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "adct.53",
+  "para": "l8213.124",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 53 do ADCT determina que a pensão especial do ex-combatente substitui, para todos os efeitos legais, qualquer outra pensão já concedida, excepcionando a regra geral de vedação à cumulação de mais de uma pensão por morte do art. 124, VI, da Lei nº 8.213/91, que ressalva apenas o direito de opção pela mais vantajosa. São institutos conexos, pois ambos tratam de cumulação de benefícios previdenciários, mas o ADCT impõe substituição automática, e não mera opção entre benefícios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "adct.53",
+  "para": "l8213.75",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 53, II, do ADCT fixa a pensão especial do ex-combatente por referência ao soldo de segundo-tenente das Forças Armadas, em critério de cálculo distinto do estabelecido no art. 75 da Lei nº 8.213/91 para a pensão por morte do Regime Geral de Previdência Social, cujo valor corresponde a cem por cento da aposentadoria do segurado. Há risco de confusão entre os dois regimes de cálculo, já que ambos tratam de pensão por morte, mas seguem parâmetros e vinculações distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "adct.53",
+  "para": "l8213.18",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os benefícios enumerados no art. 53 do ADCT (aproveitamento com estabilidade, pensão especial, assistência médica, aposentadoria integral) recebem nomes semelhantes aos benefícios do Regime Geral de Previdência Social listados no art. 18 da Lei nº 8.213/91, como aposentadoria e pensão por morte, mas compõem regime próprio e específico do ex-combatente, não integrado ao rol do RGPS. O risco de confusão está em tratar o regime especial do ADCT como uma modalidade do RGPS, quando se trata de regime autônomo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "clt.499",
+  "para": "l8036.14",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 14 da Lei nº 8.036/90 ressalva o direito adquirido à estabilidade decenal dos trabalhadores que, até a promulgação da Constituição de 1988, já preenchiam os requisitos do Capítulo V do Título IV da CLT, capítulo do qual o art. 499 faz parte. O art. 499 excepciona esse mesmo regime de estabilidade ao excluir dele os ocupantes de cargo de direção, gerência ou outro de confiança imediata do empregador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "clt.499",
+  "para": "cc.603",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 603 do Código Civil disciplina a indenização devida ao prestador de serviço autônomo despedido sem justa causa antes do termo do contrato, instituto conexo à indenização devida ao empregado despedido sem justa causa apenas por ter exercido cargo de confiança, de que trata o art. 499, § 2º, da CLT. Distinguem-se porque o Código Civil rege a prestação de serviço sem vínculo empregatício, ao passo que a CLT pressupõe relação de emprego.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "ctn.196",
+  "para": "sc_ricms.70",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 70 do RICMS catarinense disciplina a lavratura de termo de recebimento quando livros fiscais são retirados do estabelecimento para entrega ao fisco estadual, hipótese específica de documentação do procedimento fiscalizatório, instituto conexo ao dever geral de lavrar termos previsto no art. 196 do CTN. Diferem porque o dispositivo estadual trata apenas da retirada física de livros, enquanto o CTN disciplina a documentação de toda e qualquer diligência fiscalizatória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "ctn.196",
+  "para": "floripa_ctm.115",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 115 do CTM de Florianópolis exige a expedição de Ordem de Serviço para instaurar procedimento de fiscalização ou diligência, com prazos próprios de noventa ou trinta dias, em aplicação municipal do dever geral, fixado no art. 196, § 2º, do CTN, de que a fiscalização seja precedida de documento que identifique a autoridade, o objeto e o prazo de duração do procedimento. São institutos conexos, diferindo quanto ao ente federativo e aos prazos fixados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "d70235.20",
+  "para": "d9580.957",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 957 do RIR/2018 esclarece que a competência de Superintendentes, Delegados e Inspetores para determinar a realização de exame de livros e documentos não exclui a necessidade de que esse exame seja executado por Auditor-Fiscal, complementando a regra do art. 20 do PAF sobre a designação do Auditor-Fiscal para diligências e perícias. São institutos conexos, pois um trata de quem pode determinar o exame e o outro, de quem efetivamente o executa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "d70235.20",
+  "para": "d9580.973",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 973 do RIR/2018 condiciona o exame, pelo Auditor-Fiscal, de documentos e registros de instituições financeiras à existência de processo administrativo instaurado ou procedimento fiscal em curso, complementando a designação genérica do Auditor-Fiscal para diligências e perícias prevista no art. 20 do PAF com um requisito específico para essa modalidade de exame. São institutos conexos, pois o art. 973 não trata da designação do agente, mas de um pressuposto para o exercício de sua competência em matéria de sigilo bancário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "d9580.1028",
+  "para": "lcp105.10",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.028 do RIR/2018 remete à pena do art. 325 do Código Penal (detenção de seis meses a dois anos) para a violação de sigilo funcional genérico, enquanto o art. 10 da Lei Complementar nº 105/01 tipifica como crime autônomo a quebra de sigilo bancário fora das hipóteses legais, com pena de reclusão de um a quatro anos. Há risco de confusão entre as duas infrações, que tratam de institutos conexos, a violação de sigilo por agente público, mas com tipificação e pena diversas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
+ },
+ {
+  "de": "d9580.1028",
+  "para": "l8429.11",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A conduta de revelar fato sigiloso de que se tem ciência em razão do cargo, tipificada como crime pelo art. 1.028 do RIR/2018 por remissão ao art. 325 do Código Penal, corresponde também a ato de improbidade administrativa nos termos do art. 11, III, da Lei nº 8.429/92. São institutos conexos aplicáveis cumulativamente à mesma conduta, mas em esferas de responsabilização distintas, penal e de improbidade, o que pode gerar confusão quanto à independência entre elas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T22:13:14+00:00"
  }
 ]
