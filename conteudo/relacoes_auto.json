@@ -27427,5 +27427,195 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T15:18:47+00:00"
+ },
+ {
+  "de": "d9580.983",
+  "para": "ctn.199",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 983 do RIR/2018 reproduz, com remissão expressa ao art. 199, caput, do CTN, a mesma regra de assistência mútua entre as Fazendas Públicas da União, dos Estados, do Distrito Federal e dos Municípios para a fiscalização de tributos e a permuta de informações, inclusive quanto à troca de dados com Estados estrangeiros prevista no parágrafo único de ambos os dispositivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "lcp214.318",
+  "para": "ctn.199",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 318 da LC 214/2025 prevê convênio de assistência mútua e compartilhamento de informações entre o Comitê Gestor do IBS, a Receita Federal e a Procuradoria-Geral da Fazenda Nacional, criando regra especial do mesmo instituto de cooperação fiscal entre fiscos do art. 199 do CTN, voltada à harmonização do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "lcp123.25-A",
+  "para": "ctn.199",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 25-A da LC 123/06 detalha, no âmbito do Simples Nacional, a permuta de informações entre as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios autorizada de forma geral pelo art. 199 do CTN, estabelecendo que o compartilhamento de dados fiscais seguirá a forma definida pelo Comitê Gestor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "sc_icms_lei.50",
+  "para": "ctn.199",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 50 da Lei 10.297/96-SC detalha, no âmbito estadual, a possibilidade de convênio entre fiscos para fiscalização e arrecadação prevista de modo geral pelo art. 199 do CTN, autorizando o Poder Executivo catarinense a celebrar convênios, protocolos e acordos para a fiscalização, arrecadação ou operacionalização do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "ctn.198",
+  "para": "l12527.3",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O sigilo fiscal imposto pelo art. 198 do CTN sobre a situação econômica ou financeira do contribuinte excepciona, para a matéria tributária, a diretriz geral de observância da publicidade e de sigilo como exceção fixada pelo inciso I do art. 3º da Lei de Acesso à Informação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "l13709.23",
+  "para": "l12527.3",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 23 da LGPD, ao exigir que o tratamento de dados pessoais pelas pessoas jurídicas de direito público referidas na Lei de Acesso à Informação atenda a finalidade pública específica, gera conflito aparente com a diretriz de publicidade como preceito geral do inciso I do art. 3º dessa mesma lei, resolvido pela ponderação entre transparência e proteção de dados pessoais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "l9784.2",
+  "para": "l12527.3",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O princípio da publicidade listado entre os princípios gerais da Administração Pública pelo art. 2º da Lei 9.784/99 pode ser confundido com a diretriz específica de observância da publicidade como preceito geral do acesso à informação prevista no inciso I do art. 3º da Lei de Acesso à Informação, embora tenham alcance e regime distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "l13303.8",
+  "para": "l12527.3",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 8º da Lei 13.303/16 cria regra especial de transparência para empresas públicas e sociedades de economia mista, concretizando para esse universo de entidades o mesmo instituto de divulgação de informações de interesse público independentemente de solicitação previsto no inciso II do art. 3º da Lei de Acesso à Informação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "l13303.51",
+  "para": "l8987.18-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 51 da Lei 13.303/16 permite que a habilitação anteceda excepcionalmente as fases de apresentação de propostas, julgamento, verificação e negociação, o mesmo instituto da inversão da ordem das fases de habilitação e julgamento disciplinado pelo art. 18-A da Lei 8.987/95 para as concessões, o que pode gerar confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "l13303.51",
+  "para": "l11079.13",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 51 da Lei 13.303/16 e o art. 13 da Lei 11.079/04 disciplinam o mesmo instituto da inversão da ordem das fases de habilitação e julgamento em regimes distintos, o das estatais e o das parcerias público-privadas, com risco real de confusão entre os procedimentos aplicáveis a cada caso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "lcp123.8",
+  "para": "l8934.61",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 8º da LC 123/06 assegura aos empresários entrada única de dados cadastrais e de documentos, detalhando para as microempresas e empresas de pequeno porte o mesmo instituto de desoneração de prestar informações repetidas a diferentes órgãos já previsto de modo geral pelo art. 61 da Lei 8.934/94.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "lcp123.5",
+  "para": "l8934.61",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 5º da LC 123/06 determina que os órgãos envolvidos na abertura e no fechamento de empresas mantenham informações e instrumentos integrados e consolidados para pesquisa prévia ao registro, instituto conexo à desoneração de prestar informações cadastrais repetidas disciplinada pelo art. 61 da Lei 8.934/94.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "d9580.973",
+  "para": "lcp105.6",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 973 do RIR/2018 reproduz, no âmbito da fiscalização federal, a mesma condição de exame de documentos e registros de instituições financeiras apenas quando houver processo administrativo instaurado ou procedimento fiscal em curso, prevista pelo art. 6º da LC 105/01.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "lcp105.6",
+  "para": "ctn.195",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 6º da LC 105/01 excepciona, quanto a documentos e registros de instituições financeiras protegidos por sigilo bancário, a ampla prerrogativa fiscal de examinar livros, documentos e papéis comerciais sem limitação legal prevista pelo art. 195 do CTN, exigindo processo administrativo instaurado ou procedimento fiscal em curso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "d70235.1",
+  "para": "lcp105.6",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1º do Decreto 70.235/72 rege o processo administrativo de determinação e exigência dos créditos tributários da União, detalhando o instituto conexo do processo administrativo instaurado que o art. 6º da LC 105/01 exige como condição para o exame de documentos e registros de instituições financeiras.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "lcp123.12",
+  "para": "cf.146",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 12 da LC 123/06 institui o Simples Nacional em cumprimento à reserva de lei complementar para a definição de tratamento diferenciado e favorecido às microempresas e às empresas de pequeno porte prevista pela alínea d do inciso III do art. 146 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "lcp123.12",
+  "para": "cf.179",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 12 da LC 123/06 institui o Simples Nacional como lei que concretiza o tratamento jurídico diferenciado às microempresas e às empresas de pequeno porte, mediante simplificação e redução de obrigações tributárias, previdenciárias e creditícias, determinado pelo art. 179 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "cf.156-B",
+  "para": "lcp123.12",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 156-B da Constituição Federal atribui a administração integrada do IBS, de forma exclusiva, ao Comitê Gestor do Imposto sobre Bens e Serviços, instituto conexo que pode ser confundido com a administração tributária integrada do Simples Nacional exercida pela União, pelos Estados, pelo Distrito Federal e pelos Municípios nos termos do § 3º do art. 12 da LC 123/06.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "d9580.698",
+  "para": "lcp123.14",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 698 do RIR/2018 reproduz, com remissão expressa ao art. 14 da LC 123/06, a mesma regra de incidência do imposto sobre a renda na fonte sobre os valores pagos a sócio ou titular de microempresa ou empresa de pequeno porte optante pelo Simples Nacional a título de pró-labore, aluguéis ou serviços prestados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T16:22:14+00:00"
  }
 ]
