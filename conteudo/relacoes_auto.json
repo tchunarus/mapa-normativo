@@ -28057,5 +28057,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T19:19:22+00:00"
+ },
+ {
+  "de": "adct.19",
+  "para": "cf.41",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A estabilidade excepcional do art. 19 do ADCT, destinada aos servidores que já estavam em exercício havia pelo menos cinco anos na data da promulgação da Constituição e dispensa a exigência de concurso público, é facilmente confundida com a estabilidade ordinária do art. 41 da Constituição Federal, que pressupõe nomeação por concurso público e três anos de efetivo exercício, tratando-se de regimes de aquisição distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "l13874.1",
+  "para": "cf.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Lei 13.874/19 institui a Declaração de Direitos de Liberdade Econômica expressamente nos termos do inciso IV do caput do art. 1º da Constituição Federal, que elenca os valores sociais do trabalho e da livre iniciativa como fundamento da República, regulamentando esse fundamento na proteção à livre iniciativa e ao exercício de atividade econômica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "cp.327",
+  "para": "l8429.2",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 327 do Código Penal define funcionário público para fins penais, abrangendo quem exerce cargo, emprego ou função pública ainda que transitoriamente ou sem remuneração, e o art. 2º da Lei 8.429/92 define agente público para fins de improbidade administrativa em termos muito semelhantes, de modo que os dois conceitos são facilmente confundíveis, embora pertençam a regimes de responsabilização distintos e o parágrafo único do art. 2º da Lei 8.429/92 alcance também o particular que recebe recursos públicos, hipótese estranha ao tipo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "cp.327",
+  "para": "l14133.48",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 1º do art. 327 do Código Penal equipara a funcionário público, para fins penais, quem trabalha para empresa prestadora de serviço contratada ou conveniada para a execução de atividade típica da Administração Pública, e o inciso III do art. 48 da Lei 14.133/21 veda que a Administração estabeleça vínculo de subordinação com o funcionário de empresa prestadora de serviço terceirizado, de modo que a equiparação penal não se confunde com reconhecimento de vínculo trabalhista ou funcional, que a lei de licitações expressamente afasta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "l11101.2",
+  "para": "cc.1093",
+  "tipo": "especializa",
+  "grau": "contato",
+  "porque": "O inciso II do art. 2º da Lei 11.101/05 exclui a cooperativa de crédito do regime de falência e de recuperação judicial, regra especial em relação à disciplina geral das sociedades cooperativas do art. 1.093 do Código Civil, que já ressalva expressamente a aplicação de legislação especial a esse tipo societário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "l12527.1",
+  "para": "l14133.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único, II, do art. 1º da Lei 12.527/11 inclui expressamente as empresas públicas e as sociedades de economia mista entre os sujeitos ao regime de acesso à informação, e o § 1º do art. 1º da Lei 14.133/21 exclui essas mesmas entidades do âmbito da lei de licitações, por serem regidas pela Lei 13.303/16, de modo que se pode confundir, indevidamente, o tratamento dado às estatais nos dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "l13303.29",
+  "para": "l14133.1",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 1º da Lei 14.133/21 exclui as empresas públicas e as sociedades de economia mista do âmbito da lei geral de licitações, por serem regidas pela Lei 13.303/16, cujo art. 29 institui hipóteses próprias de dispensa de licitação para essas estatais, de modo que a disciplina geral de licitação cede lugar ao regime específico da Lei 13.303/16 quanto a esse grupo de entidades.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "l14133.1",
+  "para": "l9784.1",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 1º da Lei 14.133/21 sujeita ao regime de licitações os órgãos dos Poderes Legislativo e Judiciário quando no desempenho de função administrativa, reproduzindo o mesmo critério do § 1º do art. 1º da Lei 9.784/99, que estende as normas gerais de processo administrativo a esses Poderes na mesma hipótese, de modo que a Lei 14.133/21 complementa, no âmbito das contratações públicas, o critério já fixado pela Lei 9.784/99.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "l8429.11",
+  "para": "cp.325",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 11 da Lei 8.429/92 pune como improbidade administrativa revelar fato ou circunstância de que se tem ciência em razão das atribuições e que deva permanecer em segredo, conduta muito semelhante à do art. 325 do Código Penal, que tipifica como crime revelar fato de que se tem ciência em razão do cargo e que deva permanecer em segredo, de modo que a mesma conduta pode configurar, simultânea e autonomamente, improbidade administrativa e crime contra a administração pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "l8429.11",
+  "para": "l12527.32",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 11 da Lei 8.429/92 caracteriza como improbidade administrativa negar publicidade aos atos oficiais, e o inciso I do art. 32 da Lei 12.527/11 já prevê como conduta ilícita do agente público recusar-se a fornecer informação requerida, retardar deliberadamente o fornecimento ou fornecê-la de forma incorreta, incompleta ou imprecisa, de modo que a mesma omissão pode sujeitar o agente, cumulativamente, à responsabilização autônoma prevista em cada uma das leis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "l8429.11",
+  "para": "cf.71",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso VI do art. 11 da Lei 8.429/92 pune como improbidade administrativa deixar de prestar contas quando obrigado a fazê-lo, para ocultar irregularidades, complementando, no plano da responsabilização pessoal do agente, o sistema de controle externo do art. 71 da Constituição Federal, que atribui ao Tribunal de Contas da União o julgamento das contas dos administradores de recursos públicos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "d9580.960",
+  "para": "l9430.35",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 960 do RIR/2018 reproduz, em texto de decreto, a regra do art. 35, caput, da Lei 9.430/96 sobre o exame de livros e documentos fora do estabelecimento do sujeito passivo mediante termo escrito de retenção, citando expressamente esse dispositivo legal como fonte, de modo que o decreto apenas regulamenta e consolida a mesma norma legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "l9430.35",
+  "para": "sc_ricms.71",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 35 da Lei 9.430/96 disciplina a retenção de livros e documentos fora do estabelecimento do sujeito passivo mediante termo escrito no âmbito da fiscalização federal, e o art. 71 do RICMS-SC disciplina, de modo semelhante, a apreensão de livros e documentos que constituam prova de infração no âmbito estadual, com condições de devolução distintas, o que pode levar a confundir os regimes federal e estadual de retenção de documentos fiscais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "l9430.35",
+  "para": "d9580.949",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 949 do RIR/2018 atribui ao Auditor-Fiscal da Receita Federal a competência privativa para executar procedimentos de fiscalização e praticar atos de apreensão de livros e documentos, complementando a disciplina do art. 35 da Lei 9.430/96, que regula o procedimento de retenção desses mesmos livros e documentos mediante termo escrito, sem definir, contudo, a autoridade competente para tanto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
+ },
+ {
+  "de": "l9430.35",
+  "para": "d70235.8",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 8º do Decreto 70.235/72 estabelece a regra geral de que os termos decorrentes de atividade fiscalizadora sejam lavrados em livro fiscal ou, não sendo possível, entregues em cópia autenticada ao fiscalizado, e o art. 35 da Lei 9.430/96 especializa essa regra para o caso específico da retenção de livros e documentos fora do estabelecimento, exigindo termo escrito com a especificação da quantidade, espécie, natureza e condições dos bens retidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T20:23:12+00:00"
  }
 ]
