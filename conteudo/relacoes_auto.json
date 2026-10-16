@@ -27617,5 +27617,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T16:22:14+00:00"
+ },
+ {
+  "de": "cf.156-B",
+  "para": "lcp227.2",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 2º da LC 227/2026 reproduz, para os Estados, o Distrito Federal e os Municípios, as competências administrativas do Comitê Gestor do IBS enumeradas no caput e nos incisos I a III do art. 156-B da Constituição, disciplinando o exercício integrado dessas atribuições por lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T17:18:05+00:00"
+ },
+ {
+  "de": "cf.156-B",
+  "para": "lcp227.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º da LC 227/2026 institui o CGIBS como entidade pública sob regime especial com independência técnica, administrativa, orçamentária e financeira, concretizando o § 1º do art. 156-B da Constituição e remetendo expressamente à competência do art. 156-A.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T17:18:05+00:00"
+ },
+ {
+  "de": "cf.156-B",
+  "para": "lcp227.8",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 8º da LC 227/2026 detalha a composição paritária de 27 membros dos Estados e do Distrito Federal e 27 membros dos Municípios e do Distrito Federal na instância máxima de deliberação do CGIBS, exigida pelo § 3º do art. 156-B da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T17:18:05+00:00"
+ },
+ {
+  "de": "ctn.195",
+  "para": "d9580.950",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 950 do RIR/2018 reproduz, para fins de fiscalização do imposto de renda, a regra do caput do art. 195 do CTN que afasta disposições legais excludentes ou limitativas do direito de examinar livros e documentos comerciais ou fiscais, citando expressamente esse dispositivo como fundamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T17:18:05+00:00"
+ },
+ {
+  "de": "ctn.195",
+  "para": "cc.1194",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 1.194 do Código Civil impõe ao empresário o dever geral de conservar a escrituração enquanto não ocorrer prescrição ou decadência quanto aos atos nela consignados; o parágrafo único do art. 195 do CTN especializa esse dever para fins tributários, vinculando o prazo de conservação dos livros obrigatórios à prescrição dos créditos tributários relativos às operações a que se refiram.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T17:18:05+00:00"
+ },
+ {
+  "de": "d9580.983",
+  "para": "lcp214.326",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 326 da LC 214/2025 especializa, para o IBS e a CBS, a regra geral de assistência mútua entre Fazendas Públicas do art. 199 do CTN, autorizando convênio de delegação recíproca da fiscalização nos processos fiscais de pequeno valor entre a RFB e as administrações tributárias estaduais, distritais e municipais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T17:18:05+00:00"
+ },
+ {
+  "de": "d9580.983",
+  "para": "floripa_ctm.119",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 119 do CTM de Florianópolis especializa, no âmbito municipal, a mesma regra de assistência mútua e permuta de informações fiscais entre Fazendas Públicas do art. 199 do CTN, prevendo a permuta de elementos fiscais entre a Fazenda Municipal e as Fazendas Federal e Estadual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T17:18:05+00:00"
+ },
+ {
+  "de": "l11079.13",
+  "para": "l8987.18-A",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 13 da Lei 11.079/04 repete, para a licitação de parcerias público-privadas, a mesma regra de inversão das fases de habilitação e julgamento do art. 18-A da Lei 8.987/95, aplicável subsidiariamente às concessões patrocinadas por força do art. 3º, § 1º, da própria Lei 11.079/04.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T17:18:05+00:00"
+ },
+ {
+  "de": "l13303.8",
+  "para": "cf.173",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 8º da Lei 13.303/16 concretiza o mandamento do § 1º, inciso I, do art. 173 da Constituição, que exige lei para dispor sobre as formas de fiscalização das estatais pelo Estado e pela sociedade, estabelecendo os requisitos mínimos de transparência das empresas públicas e sociedades de economia mista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T17:18:05+00:00"
+ },
+ {
+  "de": "l13303.8",
+  "para": "l12527.8",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 8º da Lei 13.303/16 especializa, para as empresas públicas e sociedades de economia mista, o dever geral de transparência ativa do art. 8º da Lei de Acesso à Informação, acrescentando exigências próprias de governança corporativa, como a carta anual e a política de distribuição de dividendos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T17:18:05+00:00"
+ },
+ {
+  "de": "l13303.8",
+  "para": "lsa.133",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 8º da Lei 13.303/16 integra, para as sociedades de economia mista sujeitas à Lei das S.A., o regime geral de divulgação de informações aos acionistas do art. 133 da LSA, detalhando deveres adicionais de transparência próprios do controle estatal, como fatores de risco e composição da remuneração da administração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T17:18:05+00:00"
+ },
+ {
+  "de": "l13709.23",
+  "para": "l12527.8",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 23 da LGPD impõe às pessoas jurídicas de direito público o dever de informar, em veículo de fácil acesso, as hipóteses em que tratam dados pessoais, complementando, para esse fim específico, o dever geral de transparência ativa do art. 8º da Lei de Acesso à Informação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T17:18:05+00:00"
+ },
+ {
+  "de": "l13709.23",
+  "para": "l8213.124-G",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 124-G da Lei 8.213/91 especializa, para o tratamento de dados pessoais dos beneficiários pelo INSS, o regime geral do art. 23 da LGPD aplicável às pessoas jurídicas de direito público, citando expressamente essa lei como fundamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T17:18:05+00:00"
  }
 ]
