@@ -26317,5 +26317,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-15T23:20:09+00:00"
+ },
+ {
+  "de": "cpc.517",
+  "para": "clt.883-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos regulam o protesto da decisão judicial transitada em julgado como instrumento de cobrança, mas o art. 883-A da CLT estabelece regra especial para a execução trabalhista, fixando prazo próprio de quarenta e cinco dias contados da citação do executado, sem garantia do juízo, diferente do prazo de pagamento voluntário do art. 523 do CPC a que remete o art. 517.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T00:10:32+00:00"
+ },
+ {
+  "de": "cpc.517",
+  "para": "l9492.26",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 517 do CPC prevê procedimento especial de cancelamento do protesto da certidão de teor da decisão judicial, por ofício do juízo, uma vez comprovada a satisfação integral da obrigação, distinto do procedimento geral de cancelamento perante o Tabelionato, a requerimento de qualquer interessado, disciplinado pelo art. 26 da Lei nº 9.492, de 1997.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T00:10:32+00:00"
+ },
+ {
+  "de": "l9430.81",
+  "para": "d9580.207",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 207 do RIR de 2018 detalha o efeito da declaração de inaptidão tratada no art. 81 da Lei nº 9.430, de 1996, ao estabelecer que o documento emitido por pessoa jurídica cuja inscrição no CNPJ seja considerada ou declarada inapta não produz efeitos tributários em favor de terceiros, ressalvada a comprovação do pagamento e do recebimento efetivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T00:10:32+00:00"
+ },
+ {
+  "de": "l9430.81-A",
+  "para": "d9580.205",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 205 do RIR de 2018 integra o mesmo regime de regularidade cadastral do art. 81-A da Lei nº 9.430, de 1996, ao prever a baixa de ofício da inscrição no CNPJ das pessoas jurídicas declaradas inaptas que não tenham regularizado sua situação, hipótese distinta da baixa automática decorrida o prazo de cento e oitenta dias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T00:10:32+00:00"
+ },
+ {
+  "de": "l9430.81-A",
+  "para": "d9580.903",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 81-A da Lei nº 9.430, de 1996, especializa para a baixa decorrente da inaptidão no CNPJ o mesmo princípio consagrado no art. 903 do RIR de 2018, segundo o qual a baixa do registro da pessoa jurídica não impede que sejam posteriormente lançados ou cobrados tributos e penalidades relativos a fatos anteriores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T00:10:32+00:00"
+ },
+ {
+  "de": "l9492.33",
+  "para": "clt.784",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A exigência de abertura, encerramento e numeração com rubrica das folhas do livro de Registros de Protesto, prevista no art. 33 da Lei nº 9.492, de 1997, assemelha-se à formalidade do livro próprio de reclamações trabalhistas rubricado em todas as folhas, do art. 784 da CLT, mas os dois disciplinam livros distintos, mantidos por órgãos de naturezas diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T00:10:32+00:00"
+ },
+ {
+  "de": "l9492.39",
+  "para": "cpc.411",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 39 da Lei nº 9.492, de 1997, especializa para os documentos arquivados no Tabelionato de Protesto o critério geral de autenticidade do documento eletrônico do inciso II do art. 411 do CPC, ao atribuir à reprodução por microfilme ou processamento eletrônico, quando autenticada pelo Tabelião, o mesmo valor do original.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-16T00:10:32+00:00"
  }
 ]
