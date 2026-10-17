@@ -28617,5 +28617,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-16T23:14:22+00:00"
+ },
+ {
+  "de": "cf.170",
+  "para": "lcp123.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 170, IX, da CF assegura tratamento favorecido às empresas de pequeno porte constituídas sob as leis brasileiras, e o art. 1º da LC 123/06 estabelece as normas gerais desse tratamento diferenciado e favorecido às microempresas e empresas de pequeno porte, regulamentando o mesmo instituto constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T00:09:51+00:00"
+ },
+ {
+  "de": "cf.170",
+  "para": "cc.970",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 970 do CC assegura tratamento favorecido, diferenciado e simplificado ao empresário rural e ao pequeno empresário quanto à inscrição, instituto conexo ao tratamento favorecido às empresas de pequeno porte do art. 170, IX, da CF, mas dirigido ao empresário individual, e não à pessoa jurídica empresa de pequeno porte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T00:09:51+00:00"
+ },
+ {
+  "de": "cf.170",
+  "para": "l8078.4",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 4º do CDC fixa os princípios da Política Nacional das Relações de Consumo e, no inciso III, refere expressamente o art. 170 da CF ao buscar compatibilizar a proteção do consumidor com o desenvolvimento econômico e tecnológico, regulamentando a defesa do consumidor como princípio da ordem econômica previsto no inciso V do art. 170.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T00:09:51+00:00"
+ },
+ {
+  "de": "cf.24",
+  "para": "l8078.55",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 55 do CDC atribui à União, aos Estados e ao Distrito Federal, em caráter concorrente, a edição de normas relativas à produção, industrialização, distribuição e consumo de produtos e serviços, exercendo exatamente a competência legislativa concorrente sobre produção e consumo prevista no inciso V do art. 24 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T00:09:51+00:00"
+ },
+ {
+  "de": "cf.24",
+  "para": "cpc.44",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 44 do CPC trata da competência jurisdicional de foro, determinada pelas normas processuais, pelas de organização judiciária e, no que couber, pelas constituições dos Estados, observados os limites da CF, o que pode ser confundido com a competência legislativa concorrente sobre procedimento em matéria processual do inciso XI do art. 24 da CF, embora se trate de institutos distintos, um de natureza jurisdicional e outro de natureza legislativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T00:09:51+00:00"
+ },
+ {
+  "de": "clt.479",
+  "para": "cc.602",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 602 do CC trata da indenização devida quando o próprio prestador de serviço contratado por tempo certo se despede sem justa causa antes do termo, hipótese inversa e instituto conexo ao do art. 479 da CLT, que regula a indenização devida pelo empregador que despede sem justa causa o empregado com contrato por prazo determinado, podendo gerar confusão quanto ao regime aplicável conforme a parte que rompe o contrato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T00:09:51+00:00"
+ },
+ {
+  "de": "l14133.74",
+  "para": "l13303.30",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 30 da Lei 13.303/16 disciplina a contratação direta por inviabilidade de competição para empresas públicas e sociedades de economia mista, com hipóteses e redação quase idênticas às do art. 74 da Lei 14.133/21, tratando do mesmo instituto da inexigibilidade de licitação, mas em regime próprio aplicável às estatais, o que pode levar à aplicação equivocada de um diploma no lugar do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T00:09:51+00:00"
+ },
+ {
+  "de": "l6019.4-A",
+  "para": "clt.442-B",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 442-B da CLT disciplina a contratação do autônomo sem vínculo empregatício, mesmo com exclusividade ou continuidade, instituto conexo à contratação de empresa prestadora de serviços a terceiros definida no art. 4º-A da Lei 6.019/74, pois ambos os dispositivos servem para estruturar a prestação de serviços sem vínculo de emprego direto com o tomador, por vias jurídicas distintas, o que pode gerar confusão sobre qual regime se aplica a cada forma de contratação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T00:09:51+00:00"
+ },
+ {
+  "de": "l6019.4-A",
+  "para": "l8212.31",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 31 da Lei 8.212/91 impõe à empresa contratante de serviços executados mediante cessão de mão de obra a retenção de 11% do valor da nota fiscal, e o § 4º, IV, inclui expressamente a contratação de trabalho temporário na forma da Lei 6.019/74 entre as hipóteses de cessão de mão de obra, complementando o regime da empresa prestadora de serviços a terceiros definida no art. 4º-A da Lei 6.019/74 com a obrigação previdenciária de retenção na fonte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T00:09:51+00:00"
+ },
+ {
+  "de": "l8213.124",
+  "para": "cf.201",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 15 do art. 201 da CF prevê que seja disciplinada a acumulação de benefícios previdenciários, e o art. 124 da Lei 8.213/91 lista as vedações à percepção conjunta de benefícios da Previdência Social, tratando do mesmo instituto da não cumulação de benefícios previdenciários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T00:09:51+00:00"
+ },
+ {
+  "de": "l8213.125",
+  "para": "cf.195",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 5º do art. 195 da CF veda a criação, majoração ou extensão de benefício ou serviço da seguridade social sem a correspondente fonte de custeio total, e o art. 125 da Lei 8.213/91 reproduz essa mesma vedação especificamente para os benefícios e serviços da Previdência Social, que integra a seguridade social, regulamentando o mesmo instituto da contrapartida de custeio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T00:09:51+00:00"
  }
 ]

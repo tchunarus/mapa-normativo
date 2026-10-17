@@ -405,5 +405,25 @@
   "titulo": "CF, Art. 201: texto alterado",
   "nota": "Incluído pela Emenda Constitucional nº 140, de 2026",
   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+ },
+ {
+  "data": "2026-10-17T00:00:58+00:00",
+  "fonte": "DOU",
+  "tipo": "publicacao",
+  "titulo": "EMENDA CONSTITUCIONAL Nº 140",
+  "url": "https://www.in.gov.br/web/dou/-/emenda-constitucional-n-140-738818242",
+  "diplomas": [
+   "cf"
+  ]
+ },
+ {
+  "data": "2026-10-17T00:00:58+00:00",
+  "fonte": "DOU",
+  "tipo": "publicacao",
+  "titulo": "EMENDA CONSTITUCIONAL Nº 141",
+  "url": "https://www.in.gov.br/web/dou/-/emenda-constitucional-n-141-738818165",
+  "diplomas": [
+   "cf"
+  ]
  }
 ]
