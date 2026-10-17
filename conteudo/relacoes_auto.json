@@ -28817,5 +28817,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-17T01:12:00+00:00"
+ },
+ {
+  "de": "d9580.716",
+  "para": "lcp214.509",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 716 do RIR/2018 sujeita à retenção de imposto de renda na fonte, à alíquota de um por cento, os pagamentos entre pessoas jurídicas pela prestação de serviços de limpeza, conservação, segurança, vigilância e locação de mão de obra, enquanto o art. 509 da LC 214/2025, ao dar nova redação ao art. 30 da Lei 10.833/2003, sujeita os mesmos pagamentos, acrescidos de transporte de valores, à retenção de CSLL de um por cento. Há risco real de confusão entre as duas retenções distintas incidentes sobre a mesma base econômica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T06:10:41+00:00"
+ },
+ {
+  "de": "d9580.716",
+  "para": "l9430.64",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 716 do RIR/2018 sujeita à retenção de um por cento de imposto de renda na fonte os pagamentos entre pessoas jurídicas por serviços de limpeza, conservação, segurança, vigilância e locação de mão de obra, e o art. 64 da Lei 9.430/96 sujeita a um regime próprio de retenção na fonte, que inclui também a contribuição social sobre o lucro líquido, os pagamentos por fornecimento de bens ou prestação de serviços em geral quando o pagador for órgão, autarquia ou fundação da administração pública federal. Há risco real de confusão sobre qual das duas retenções incide quando o tomador desses serviços específicos é entidade da administração pública federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T06:10:41+00:00"
+ },
+ {
+  "de": "l6019.10",
+  "para": "clt.445",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 10 da Lei 6.019/74 remete expressamente ao parágrafo único do art. 445 da CLT, que disciplina o contrato de experiência no contrato de trabalho por prazo determinado comum, para excluir a aplicação desse instituto ao trabalhador temporário contratado pela tomadora de serviços.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T06:10:41+00:00"
+ },
+ {
+  "de": "clt.442",
+  "para": "l6019.10",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 442 da CLT, ao definir o contrato individual de trabalho como o acordo correspondente à relação de emprego, estabelece o critério geral de configuração do vínculo empregatício, que o art. 10 da Lei 6.019/74 especializa para o trabalho temporário: o caput afasta o vínculo entre o trabalhador temporário e a tomadora de serviços, mas o § 6º reconhece a formação desse vínculo quando descumprido o intervalo de noventa dias do § 5º deste artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T06:10:41+00:00"
+ },
+ {
+  "de": "l6019.10",
+  "para": "l14133.121",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O § 7º do art. 10 da Lei 6.019/74 atribui à empresa tomadora de serviços responsabilidade subsidiária pelas obrigações trabalhistas referentes ao período de trabalho temporário, enquanto o art. 121 da Lei 14.133/21 estabelece que somente o contratado responde pelos encargos trabalhistas do contrato administrativo, sem transferência de responsabilidade à Administração Pública contratante. Há conflito aparente quando a tomadora de serviços temporários for órgão ou entidade da Administração Pública sujeita ao regime de contratações da Lei 14.133/21.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T06:10:41+00:00"
+ },
+ {
+  "de": "l6019.5-C",
+  "para": "clt.452-G",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 5º-C da Lei 6.019/74 veda a contratação, como pessoa jurídica terceirizada, de empresa cujo sócio tenha prestado serviços à contratante como empregado ou trabalhador sem vínculo nos dezoito meses anteriores, e o art. 452-G da CLT veda, pelo mesmo prazo de dezoito meses, a recontratação do empregado demitido por contrato de trabalho intermitente junto ao mesmo empregador. Há risco real de confusão entre as duas quarentenas de dezoito meses, que vedam formas distintas de recontratação dissimulada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T06:10:41+00:00"
+ },
+ {
+  "de": "l8429.15",
+  "para": "l12846.15",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 15 da Lei 8.429/92 impõe à comissão processante o dever de dar conhecimento ao Ministério Público e ao Tribunal ou Conselho de Contas da existência do procedimento por ato de improbidade, enquanto o art. 15 da Lei 12.846/13 impõe à comissão de apuração de responsabilidade da pessoa jurídica o dever de comunicar apenas o Ministério Público, e somente após a conclusão do procedimento administrativo. Há risco real de confusão entre os momentos e os destinatários da comunicação em cada regime de responsabilização.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T06:10:41+00:00"
+ },
+ {
+  "de": "l8429.2",
+  "para": "cf.37",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 37 da Constituição Federal determina, em seu § 4º, que os atos de improbidade administrativa sujeitam o agente às sanções nele previstas, na forma e gradação estabelecidas em lei, e o art. 2º da Lei 8.429/92 regulamenta esse comando ao definir quem se qualifica como agente público, abrangendo o agente político, o servidor público e todo aquele que exerce mandato, cargo, emprego ou função nas entidades da administração, para fins de sujeição às sanções da Lei de Improbidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T06:10:41+00:00"
+ },
+ {
+  "de": "l8429.2",
+  "para": "l14133.6",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 2º da Lei 8.429/92 define agente público, para os fins da Lei de Improbidade, como todo aquele que exerce, ainda que transitoriamente ou sem remuneração, mandato, cargo, emprego ou função nas entidades da administração pública, por eleição, nomeação, designação, contratação ou outra forma de investidura ou vínculo. O inciso V do art. 6º da Lei 14.133/21 define agente público, para os fins da Lei de Licitações, com elementos quase idênticos, limitando o conceito ao indivíduo que exerce mandato, cargo, emprego ou função em pessoa jurídica integrante da Administração Pública. Há risco real de confusão entre os dois conceitos legais de agente público, de alcance não necessariamente coincidente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T06:10:41+00:00"
  }
 ]

@@ -433,5 +433,13 @@
   "titulo": "Tema 1241/STJ: Mérito Julgado",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1241&cod_tema_final=1241",
   "p": "stj.tema.1241"
+ },
+ {
+  "data": "2026-10-17T06:00:38+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1433/STJ: Em Julgamento",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1433&cod_tema_final=1433",
+  "p": "stj.tema.1433"
  }
 ]
