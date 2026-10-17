@@ -28727,5 +28727,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-17T00:09:51+00:00"
+ },
+ {
+  "de": "cc.602",
+  "para": "clt.480",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 480 da CLT trata da mesma situação fática do art. 602 do Código Civil sob a ótica do empregado, que não pode se desligar do contrato de trabalho a termo sem justa causa sob pena de indenizar o empregador pelos prejuízos. Como o art. 602 do CC disciplina o prestador de serviço autônomo contratado por tempo certo que se despede sem justa causa, há risco real de confusão entre o regime civil da prestação de serviço e o regime trabalhista do contrato por prazo determinado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T01:12:00+00:00"
+ },
+ {
+  "de": "clt.442-B",
+  "para": "l6019.5-C",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 442-B da CLT valida, de forma geral, a contratação do autônomo sem configurar vínculo de emprego, ainda que com exclusividade, mas o art. 5º-C da Lei 6.019/74 especializa essa regra para o contexto da terceirização, vedando que a pessoa jurídica contratada tenha, entre seus titulares ou sócios, quem tenha prestado serviços à contratante como empregado ou trabalhador sem vínculo empregatício nos dezoito meses anteriores. A especialização limita, nesse cenário específico, a validade geral reconhecida pelo art. 442-B.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T01:12:00+00:00"
+ },
+ {
+  "de": "cpc.44",
+  "para": "l8245.79",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "contato",
+  "porque": "O art. 79 da Lei 8.245/91 determina que, nas omissões da lei do inquilinato, aplicam-se subsidiariamente as normas do Código Civil e do Código de Processo Civil, entre as quais se inclui a disciplina do art. 44 do CPC sobre a determinação da competência pelas normas do próprio Código ou pela legislação especial. Há apenas ponto de contato entre os dispositivos, pois o art. 79 não trata especificamente de competência, mas de aplicação subsidiária geral do CPC à lei de locação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T01:12:00+00:00"
+ },
+ {
+  "de": "cpc.44",
+  "para": "l9099.63",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 63 da Lei 9.099/95 fixa regra especial de competência para o Juizado Especial Criminal, determinada pelo lugar em que foi praticada a infração penal, especializando, nesse âmbito, a diretriz geral do art. 44 do CPC de que a competência é determinada pelas normas previstas no próprio Código ou em legislação especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T01:12:00+00:00"
+ },
+ {
+  "de": "cpc.44",
+  "para": "clt.669",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 669 da CLT atribui aos Juízos de Direito, quando investidos na administração da Justiça do Trabalho, a competência das Juntas de Conciliação e Julgamento, e seu § 2º admite que o critério de competência decorra da lei de organização judiciária, especializando para a Justiça do Trabalho a diretriz do art. 44 do CPC de que a competência também é determinada pelas normas de organização judiciária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T01:12:00+00:00"
+ },
+ {
+  "de": "l13303.30",
+  "para": "l14133.73",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 30 da Lei 13.303/16 e o art. 73 da Lei 14.133/21 regulam o mesmo instituto, a responsabilidade solidária por irregularidade na contratação direta, o primeiro entre quem decidiu pela contratação e o fornecedor ou prestador de serviços em caso de sobrepreço ou superfaturamento comprovado, o segundo entre o contratado e o agente público responsável em caso de contratação direta indevida com dolo, fraude ou erro grosseiro. Há risco real de confusão sobre qual regime de responsabilização se aplica conforme a natureza da entidade contratante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T01:12:00+00:00"
+ },
+ {
+  "de": "l8212.31",
+  "para": "l6019.10",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso IV do § 4º do art. 31 da Lei 8.212/91 remete expressamente à contratação de trabalho temporário na forma da Lei 6.019/74 como uma das modalidades de cessão de mão de obra sujeitas à retenção de 11%, regime cujo núcleo, a ausência de vínculo de emprego entre a tomadora e o trabalhador temporário, está definido no caput do art. 10 daquela lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T01:12:00+00:00"
+ },
+ {
+  "de": "l8212.31",
+  "para": "d9580.716",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos incidem sobre os mesmos pagamentos por serviços de limpeza, conservação, segurança e vigilância e pela locação de mão de obra, mas instituem retenções tributárias distintas sobre essa mesma base econômica, a contribuição previdenciária de 11% pelo art. 31 da Lei 8.212/91 e o imposto de renda na fonte de 1% pelo art. 716 do RIR/2018. Há risco real de confusão entre os dois regimes de retenção na fonte aplicáveis à mesma operação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T01:12:00+00:00"
+ },
+ {
+  "de": "l8213.75",
+  "para": "cf.201",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 201 da Constituição Federal assegura, como objetivo da previdência social, a pensão por morte do segurado, direito cujo valor mensal é regulamentado pelo art. 75 da Lei 8.213/91, que o fixa em cem por cento do valor da aposentadoria que o segurado recebia ou daquela a que teria direito se estivesse aposentado por invalidez na data do óbito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-17T01:12:00+00:00"
  }
 ]
