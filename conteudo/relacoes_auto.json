@@ -30047,5 +30047,15 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "clt.457",
+  "para": "l8212.28",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 457 da CLT inclui as gorjetas na remuneração do empregado para efeitos trabalhistas, ao passo que o art. 28, I, da Lei 8.212/91 inclui as mesmas gorjetas no salário de contribuição, conceito usado para a base de cálculo da contribuição previdenciária. Por tratarem de institutos conexos, porém com abrangência e finalidade distintas, há risco real de se presumir que tudo o que integra um necessariamente integra o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T20:10:29+00:00"
  }
 ]
