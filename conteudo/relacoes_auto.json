@@ -30417,5 +30417,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "clt.3",
+  "para": "cc.594",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 594 do Código Civil disciplina, em termos gerais, o contrato de prestação de serviço mediante retribuição, enquanto o art. 3º da CLT define a relação de emprego pela presença de não eventualidade, subordinação e salário. Os dois institutos tratam de trabalho prestado mediante remuneração, mas sob regimes jurídicos distintos, o que gera risco real de confusão quando se busca descaracterizar a relação de emprego como mera prestação de serviço autônoma regida pelo Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T23:10:21+00:00"
+ },
+ {
+  "de": "clt.894",
+  "para": "cpc.1044",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 894 da CLT disciplina os embargos cabíveis no Tribunal Superior do Trabalho contra decisão não unânime ou diante de divergência entre Turmas, no prazo de oito dias. O art. 1.044 do CPC disciplina os embargos de divergência no âmbito dos tribunais superiores cíveis, remédio de nome semelhante e fundado também em divergência jurisprudencial, mas sujeito a procedimento, prazos e órgão competente diversos, o que gera risco de confusão entre os dois recursos de embargos por divergência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T23:10:21+00:00"
+ },
+ {
+  "de": "lcp214.326",
+  "para": "ctn.199-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 199-A do CTN autoriza, em caráter geral, que as Fazendas Públicas da União, dos Estados, do Distrito Federal e dos Municípios estabeleçam convênio para compartilhar atividades de fiscalização, lançamento e cobrança de tributos. O art. 326 da LC 214/2025 especializa essa mesma autorização para o contexto do IBS e da CBS, ao prever convênio específico de delegação recíproca da fiscalização nos processos fiscais de pequeno valor, com limite de lançamento a ser definido em regulamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T23:10:21+00:00"
+ },
+ {
+  "de": "lcp214.330",
+  "para": "ctn.208-B",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 208-B do CTN fixa, em caráter geral, os requisitos obrigatórios do auto de infração lavrado no lançamento de ofício, como qualificação do autuado, descrição dos fatos, dispositivo legal infringido e prazo para impugnação. O art. 330 da LC 214/2025 reproduz os mesmos requisitos para o auto de infração do IBS e da CBS e acrescenta a exigência de identificação do ente federativo responsável pelo lançamento, de modo que os dois dispositivos compõem o mesmo regime de formalização do lançamento de ofício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T23:10:21+00:00"
+ },
+ {
+  "de": "lcp214.330",
+  "para": "d70235.10",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 10 do Decreto 70.235/72 (PAF) exige que o auto de infração lavrado no âmbito federal conceda prazo de vinte dias úteis para cumprimento ou impugnação, enquanto o art. 330 da LC 214/2025 exige apenas observância do prazo legal para o auto de infração do IBS e da CBS, sem fixar esse prazo especificamente. Os dois dispositivos listam requisitos quase idênticos para o auto de infração, o que cria risco de se aplicar por engano o prazo de vinte dias úteis do PAF ao lançamento de ofício do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T23:10:21+00:00"
  }
 ]
