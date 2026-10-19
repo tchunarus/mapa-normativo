@@ -29857,5 +29857,195 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "ctn.116",
+  "para": "floripa_ctm.26",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 26 do Código Tributário Municipal de Florianópolis reproduz, no âmbito da tributação municipal, a mesma regra geral do art. 116 do CTN sobre o momento em que se consideram ocorridos o fato gerador e seus efeitos, especializando essa norma geral federal para os tributos de competência do Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "ctn.116",
+  "para": "lcp87.12",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 12 da LC 87/96 fixa, para o ICMS, momentos específicos de ocorrência do fato gerador, como a saída de mercadoria do estabelecimento, afastando, nessas hipóteses, a regra supletiva de aferição temporal do art. 116 do CTN, que já ressalva expressamente a possibilidade de disposição legal em contrário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "ctn.116",
+  "para": "lcp214.412",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 412 da LC 214/2025 estabelece hipóteses próprias de ocorrência do fato gerador do Imposto Seletivo, como o primeiro fornecimento do bem ou a arrematação em leilão público, afastando, para esse tributo, a regra geral de aferição temporal do art. 116 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "ctn.117",
+  "para": "cc.125",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 117 do CTN parte do mesmo instituto da condição suspensiva disciplinado no art. 125 do Código Civil, segundo o qual não se adquire o direito enquanto pendente a condição, mas atribui a essa situação uma consequência tributária própria: o negócio jurídico condicional suspensivo somente se considera perfeito e acabado, para a ocorrência do fato gerador, desde o implemento da condição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "ctn.117",
+  "para": "cc.127",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 117 do CTN toma por base o regime da condição resolutiva do art. 127 do Código Civil, que mantém vigente o negócio enquanto pendente a condição, mas fixa efeito tributário distinto: o ato ou negócio jurídico sob condição resolutória considera-se perfeito e acabado desde a sua celebração, antecipando a ocorrência do fato gerador em relação ao implemento da condição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "ctn.117",
+  "para": "floripa_ctm.26",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 26 do Código Tributário Municipal de Florianópolis reproduz, para a tributação municipal, a mesma regra de perfeição dos negócios jurídicos condicionais do art. 117 do CTN, especializando essa norma geral federal ao âmbito do Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "d9580.136",
+  "para": "l14973.6",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 6º da Lei 14.973/24 integra o mesmo regime do custo de aquisição disciplinado no art. 136 do RIR/2018, ao permitir que a pessoa física atualize o valor de bens imóveis para o valor de mercado e tribute a diferença, o que passa a compor, para efeitos futuros de apuração do ganho de capital, um novo custo de aquisição distinto do originalmente pago.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "d9580.136",
+  "para": "l14973.8",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 8º da Lei 14.973/24 detalha, para os imóveis atualizados nos termos dos arts. 6º e 7º da mesma lei, a fórmula de apuração do ganho de capital na alienação antes de quinze anos, considerando o custo do bem antes da atualização ao lado do diferencial tributado, complementando o conceito de custo de aquisição do art. 136 do RIR/2018 para essa hipótese específica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "d9580.150",
+  "para": "l14973.8",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 8º da Lei 14.973/24 estabelece fórmula própria de apuração do ganho de capital para os imóveis atualizados nos termos dos arts. 6º e 7º da mesma lei quando alienados antes de quinze anos da atualização, afastando, para essa hipótese específica, a aplicação dos fatores de redução FR1 e FR2 do art. 150 do RIR/2018.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "d9580.166",
+  "para": "ctn.35",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 166 do RIR/2018 toma como aquisição ou alienação, para fins de imposto de renda, atos como a compra e venda e a cessão de direitos sobre imóveis, operações que coincidem, em grande parte, com a transmissão onerosa da propriedade e a cessão de direitos a ela relativos tributadas pelo ITBI no art. 35 do CTN, o que pode levar a confundir o momento relevante para a apuração do ganho de capital com o do fato gerador do imposto municipal, apesar de suas finalidades distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "d9580.166",
+  "para": "floripa_ctm.278",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 278 do Código Tributário Municipal de Florianópolis especializa, para o ITBI, a mesma transmissão onerosa da propriedade e cessão de direitos sobre imóveis que o art. 166 do RIR/2018 toma como aquisição ou alienação para fins de apuração do ganho de capital no imposto de renda, podendo-se confundir o momento relevante para cada tributo, apesar de suas bases e finalidades distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "d9580.166",
+  "para": "cc.1417",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 166 do RIR/2018 admite que a simples celebração de promessa por instrumento particular, ainda que não registrada, fixe a data de aquisição ou alienação para fins de imposto de renda, o que aparenta conflitar com o art. 1.417 do Código Civil, que condiciona a aquisição do direito real à aquisição do imóvel ao registro da promessa no Cartório de Registro de Imóveis, distinção que se explica pela diversidade de efeitos buscados por cada norma, tributários e civis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "d9580.166",
+  "para": "cc.221",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 166 do RIR/2018 especializa, para fins de apuração do imposto de renda, a regra geral do art. 221 do Código Civil sobre a ineficácia do instrumento particular perante terceiros antes do registro, ao fixar critérios próprios e alternativos ao registro, como o pagamento por cheque nominativo ou a menção na declaração de bens, para que a autoridade fiscal aceite a data do instrumento particular.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "d9580.732",
+  "para": "l8212.26",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 732 do RIR/2018 tributa pelo imposto de renda, exclusivamente na fonte, o prêmio em dinheiro recebido pelo apostador em concursos de prognósticos e loterias, o que pode ser confundido com a contribuição social de que trata o art. 26 da Lei 8.212/91, que incide sobre a receita do próprio concurso de prognósticos arrecadada para a Seguridade Social, tributo e sujeito passivo diversos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "d9580.732",
+  "para": "clt.457",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo prêmios empregado no art. 732 do RIR/2018 para os valores pagos ao ganhador de loterias e concursos de prognósticos pode ser confundido com os prêmios a que se refere o art. 457 da CLT, que integram a remuneração do empregado quando pagos habitualmente pelo empregador, institutos que apenas compartilham a mesma palavra, sem qualquer relação de conteúdo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "d9580.733",
+  "para": "clt.457",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os prêmios distribuídos em bens e serviços por concursos e sorteios de que trata o art. 733 do RIR/2018 podem ser confundidos com os prêmios do art. 457 da CLT, pagos habitualmente pelo empregador e integrantes da remuneração do empregado, tratando-se de institutos que apenas compartilham a mesma denominação, sem relação de conteúdo entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "ec132.19",
+  "para": "lcp214.309",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 309 da LC 214/2025 regulamenta, em nível infraconstitucional, o crédito presumido instituído pelo art. 19 da EC 132/2023 para os projetos habilitados aos benefícios das Leis 9.440/97 e 9.826/99, detalhando a mesma hipótese e os mesmos beneficiários previstos na norma constitucional transitória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "ec132.19",
+  "para": "lcp214.316",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 316 da LC 214/2025 prorroga, até 31 de dezembro de 2026, os benefícios de IPI das Leis 9.440/97 e 9.826/99 referidos no art. 19 da EC 132/2023, integrando o mesmo regime de transição automotiva ao crédito presumido instituído pela norma constitucional, mas incidindo sobre tributo diverso, o IPI, e não a contribuição do art. 195, V, da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
+ },
+ {
+  "de": "ec132.19",
+  "para": "lcp214.310",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 310 da LC 214/2025 veda a cumulação do crédito presumido de que trata o art. 309, que implementa o crédito presumido do art. 19 da EC 132/2023, com outros benefícios fiscais federais da CBS, complementando a disciplina constitucional ao delimitar o alcance do incentivo no plano infraconstitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T19:15:02+00:00"
  }
 ]
