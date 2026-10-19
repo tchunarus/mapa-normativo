@@ -29017,5 +29017,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T10:11:32+00:00"
+ },
+ {
+  "de": "d9580.720",
+  "para": "lcp123.13",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 6º do art. 720 do RIR/2018 remete expressamente ao art. 13 da LC 123/06 para dispensar as pessoas jurídicas optantes pelo Simples Nacional da retenção do imposto de renda na fonte, uma vez que esse tributo já é recolhido de forma unificada pelo regime, conforme o inciso I do caput do dispositivo citado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T11:12:45+00:00"
+ },
+ {
+  "de": "lcp214.516",
+  "para": "lcp123.3",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 516 da LC 214/2025 altera o art. 3º da LC 123/06, acrescentando ao § 4º o inciso V a referência à administração de fato ou de direito e o inciso XII sobre filial, sucursal, agência ou representação no exterior como causas de vedação ao tratamento diferenciado, com produção de efeitos vinculada à implementação da reforma tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T11:12:45+00:00"
+ },
+ {
+  "de": "lcp214.517",
+  "para": "lcp123.3",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 517 da LC 214/2025 altera o art. 3º da LC 123/06, inserindo o § 1º-A para incluir no conceito de receita bruta as operações com bens imateriais e direitos, e modificando o § 11 para abranger também o IBS no impedimento de recolhimento unificado por excesso de receita, com produção de efeitos futura ligada à reforma tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T11:12:45+00:00"
+ },
+ {
+  "de": "lcp214.518",
+  "para": "lcp123.3",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 518 da LC 214/2025 altera novamente o § 11 do art. 3º da LC 123/06, restringindo o impedimento de recolhimento unificado por excesso de receita apenas ao IBS, e cria o art. 13-A da mesma lei complementar para fixar em separado o limite de receita bruta aplicável ao recolhimento do IBS pelo Simples Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T11:12:45+00:00"
+ },
+ {
+  "de": "lcp227.169",
+  "para": "lcp123.33",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 169 da LC 227/2026 altera o § 1º-C do art. 33 da LC 123/06, ampliando de oito para dez os incisos do art. 13 cujos tributos podem ser lançados pela autoridade fiscal competente, em decorrência da inclusão do IBS e da CBS entre os tributos abrangidos pelo Simples Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T11:12:45+00:00"
  }
 ]
