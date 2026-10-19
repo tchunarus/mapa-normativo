@@ -441,5 +441,13 @@
   "titulo": "Tema 1433/STJ: Em Julgamento",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1433&cod_tema_final=1433",
   "p": "stj.tema.1433"
+ },
+ {
+  "data": "2026-10-19T09:03:14+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1454/STJ: Em Julgamento",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1454&cod_tema_final=1454",
+  "p": "stj.tema.1454"
  }
 ]

@@ -28907,5 +28907,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-17T06:10:41+00:00"
+ },
+ {
+  "de": "clt.445",
+  "para": "cc.598",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 445 da CLT limita a dois anos o contrato de trabalho por prazo determinado, ao passo que o art. 598 do Código Civil limita a quatro anos a prestação de serviço regida pelo direito civil. A distinção entre contrato de trabalho subordinado e prestação de serviços autônoma é fonte frequente de confusão quanto ao prazo máximo aplicável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T09:11:27+00:00"
+ },
+ {
+  "de": "clt.452-G",
+  "para": "l6019.5-D",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos reproduzem a mesma regra de quarentena de dezoito meses, introduzida pela reforma trabalhista, para impedir que o empregado demitido seja recontratado pelo mesmo empregador em modalidade mais precária, porém aplicada a institutos diferentes: trabalho intermitente no art. 452-G da CLT e terceirização por empresa prestadora de serviços no art. 5º-D da Lei 6.019/74.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T09:11:27+00:00"
+ },
+ {
+  "de": "l14133.121",
+  "para": "l13303.77",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O caput e o § 1º do art. 121 da Lei 14.133/21 reproduzem, com redação quase idêntica, a regra do art. 77 da Lei 13.303/16 sobre a responsabilidade exclusiva do contratado pelos encargos trabalhistas, fiscais e comerciais, cada qual aplicável a um regime de contratação pública distinto (Administração Pública em geral e empresas estatais, respectivamente), o que pode levar à invocação do diploma equivocado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T09:11:27+00:00"
+ },
+ {
+  "de": "l9099.63",
+  "para": "cpp.70",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 70 do CPP fixa a competência territorial penal pelo lugar da consumação da infração, a chamada teoria do resultado, enquanto o art. 63 da Lei 9.099/95 fixa a competência do Juizado Especial Criminal pelo lugar em que a infração foi praticada, a teoria da atividade. A aplicação do critério geral do CPP ao procedimento sumaríssimo é erro comum, o que caracteriza risco real de confusão entre os dois critérios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T09:11:27+00:00"
+ },
+ {
+  "de": "l9430.37",
+  "para": "lcp214.336",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 336 da LC 214/2025 reproduz literalmente a regra do art. 37 da Lei 9.430/96 sobre a conservação dos comprovantes de escrituração relativos a fatos que repercutam em exercícios futuros até a decadência do direito de a Fazenda Pública constituir o crédito tributário, um para os tributos federais sobre a renda e o outro para o IBS e a CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T09:11:27+00:00"
+ },
+ {
+  "de": "l9430.37",
+  "para": "ctn.195",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 195 do CTN estabelece a regra geral de conservação dos comprovantes de escrituração até a prescrição dos créditos tributários a que se refiram, e o art. 37 da Lei 9.430/96 especializa essa regra para a hipótese de fatos que repercutam em lançamentos contábeis de exercícios futuros, vinculando a conservação à decadência do direito de constituir o crédito relativo a esses exercícios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T09:11:27+00:00"
  }
 ]
