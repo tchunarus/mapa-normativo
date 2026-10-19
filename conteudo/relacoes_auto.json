@@ -29067,5 +29067,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T11:12:45+00:00"
+ },
+ {
+  "de": "lcp123.13",
+  "para": "sc_icms_lei.37",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso XIII do § 1º do art. 13 da LC 123/06 excetua da apuração unificada do Simples Nacional o ICMS devido nas operações sujeitas ao regime de substituição tributária, de modo que o recolhimento como substituto tributário disciplinado pelo art. 37 da Lei 10.297/96-SC continua a ser exigido do optante conforme a legislação estadual, em regime distinto do documento único de arrecadação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T12:13:37+00:00"
+ },
+ {
+  "de": "lcp123.13",
+  "para": "lcp87.9",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso XIII do § 1º do art. 13 da LC 123/06 excetua da apuração unificada do Simples Nacional o ICMS devido por substituição tributária, regime que, nas operações interestaduais, depende de acordo específico entre os Estados interessados nos termos do art. 9º da LC 87/96, permanecendo o optante sujeito a essa disciplina própria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T12:13:37+00:00"
+ },
+ {
+  "de": "lef.1",
+  "para": "lcp123.41",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 1º da LEF disciplina o procedimento da execução judicial da Dívida Ativa da União, dos Estados, do Distrito Federal e dos Municípios; é esse o rito aplicável à cobrança judicial dos créditos tributários do Simples Nacional que o § 2º do art. 41 da LC 123/06 determina sejam inscritos em Dívida Ativa da União e cobrados pela Procuradoria-Geral da Fazenda Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T12:13:37+00:00"
+ },
+ {
+  "de": "lcp123.41",
+  "para": "floripa_ctm.188",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso II do § 5º do art. 41 da LC 123/06 excetua da representação pela Procuradoria-Geral da Fazenda Nacional as ações que tratem exclusivamente de tributos municipais, propostas em face do Município representado por sua própria procuradoria; o art. 188 do CTM de Florianópolis complementa essa regra ao estabelecer que, inscrito o crédito em dívida ativa, cessa a competência dos órgãos fazendários municipais e passa à Procuradoria Geral do Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T12:13:37+00:00"
+ },
+ {
+  "de": "lcp123.5",
+  "para": "floripa_ctm.328",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso II do parágrafo único do art. 5º da LC 123/06 assegura ao usuário, na pesquisa prévia, informação sobre todos os requisitos para obtenção de licenças de autorização de funcionamento; o art. 328 do CTM de Florianópolis complementa, no âmbito municipal, essa exigência ao condicionar a autorização à inscrição do estabelecimento sujeito à Taxa de Licença para Localização.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T12:13:37+00:00"
+ },
+ {
+  "de": "clt.135",
+  "para": "lcp123.51",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 135 da CLT exige a anotação da concessão de férias no livro ou nas fichas de registro dos empregados; o inciso II do art. 51 da LC 123/06 excepciona essa exigência para as microempresas e empresas de pequeno porte, dispensando-as dessa anotação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T12:13:37+00:00"
+ },
+ {
+  "de": "clt.628",
+  "para": "lcp123.51",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 628 da CLT obriga as empresas a possuir o livro intitulado Inspeção do Trabalho; o inciso IV do art. 51 da LC 123/06 excepciona essa obrigação para as microempresas e empresas de pequeno porte, dispensando-as da posse desse livro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T12:13:37+00:00"
+ },
+ {
+  "de": "clt.139",
+  "para": "lcp123.51",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 139 da CLT impõe ao empregador o dever de comunicar ao órgão local do Ministério do Trabalho as datas de início e fim das férias coletivas; o inciso V do art. 51 da LC 123/06 excepciona esse dever para as microempresas e empresas de pequeno porte, dispensando-as dessa comunicação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T12:13:37+00:00"
+ },
+ {
+  "de": "l13874.3",
+  "para": "lcp123.6",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso II do § 1º do art. 3º da Lei 13.874/19 determina que, na falta de ato do Poder Executivo federal sobre a classificação de atividades de baixo risco, aplica-se resolução do CGSIM, repetindo para o direito geral de desenvolver atividade de baixo risco sem atos de liberação o mesmo mecanismo subsidiário que o § 3º do art. 6º da LC 123/06 prevê para a definição do grau de risco no registro e na legalização de empresas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T12:13:37+00:00"
+ },
+ {
+  "de": "l13874.9",
+  "para": "lcp123.6",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 5º do art. 4º da Lei 11.598/07, incluído pelo art. 9º da Lei 13.874/19, atribui ao Poder Executivo federal a classificação mínima de atividades de baixo risco válida para todos os integrantes da Redesim, com autodeclaração de enquadramento como requerimento suficiente; esse mecanismo complementa, no âmbito nacional, a classificação de baixo grau de risco que o § 4º do art. 6º da LC 123/06 utiliza para dispensar a comprovação prévia de exigências no licenciamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T12:13:37+00:00"
+ },
+ {
+  "de": "lcp123.68",
+  "para": "cc.1179",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 68 da LC 123/06 define o pequeno empresário referido no art. 970 e no art. 1.179 do Código Civil como o empresário individual enquadrado como microempresa que aufira receita bruta anual até o limite do § 1º do art. 18-A da própria lei complementar; essa definição complementa o § 2º do art. 1.179 do Código Civil, que dispensa justamente esse pequeno empresário das exigências de escrituração contábil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T12:13:37+00:00"
+ },
+ {
+  "de": "cc.1072",
+  "para": "lcp123.70",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 1.072 do Código Civil exige que as deliberações dos sócios sejam tomadas em reunião ou assembleia, conforme previsto no contrato social; o art. 70 da LC 123/06 excepciona essa exigência para as microempresas e empresas de pequeno porte, substituindo-a por deliberação representativa da maioria absoluta do capital social, ressalvadas as hipóteses do § 1º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T12:13:37+00:00"
  }
 ]
