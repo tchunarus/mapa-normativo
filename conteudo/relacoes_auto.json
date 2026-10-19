@@ -30057,5 +30057,225 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T20:10:29+00:00"
+ },
+ {
+  "de": "l8212.28",
+  "para": "l8213.29",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 29 da Lei 8.213/91 calcula o salário de benefício a partir dos salários de contribuição definidos no art. 28 da Lei 8.212/91, que fixa o que compõe essa base de incidência previdenciária. São institutos conexos, um define a base de cálculo mensal da contribuição e o outro utiliza essa base para apurar o valor do benefício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "l8212.28",
+  "para": "l8213.34",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 34 da Lei 8.213/91 determina que, no cálculo da renda mensal do benefício, sejam computados os salários de contribuição referentes aos meses de contribuições devidas, base definida no art. 28 da Lei 8.212/91. São institutos conexos, um fixando a base de incidência e o outro utilizando-a para apurar a renda do benefício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "l8212.28",
+  "para": "l8213.33",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 33 da Lei 8.213/91 limita a renda mensal do benefício ao teto do salário de contribuição, remetendo ao limite máximo fixado no § 5º do art. 28 da Lei 8.212/91. São institutos conexos ligados pelo mesmo parâmetro de teto previdenciário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "l8212.28",
+  "para": "clt.458",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 458 da CLT inclui no salário as utilidades fornecidas habitualmente pelo empregador, e o art. 28, I, da Lei 8.212/91 inclui no salário de contribuição os ganhos habituais sob a forma de utilidades. São institutos conexos, porém distintos, o que gera risco real de confusão entre a remuneração trabalhista e a base previdenciária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "l8212.28",
+  "para": "l8036.15",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 15 da Lei 8.036/90 calcula o depósito do FGTS sobre a remuneração que inclui as parcelas dos arts. 457 e 458 da CLT, e o art. 28 da Lei 8.212/91 define o salário de contribuição previdenciário por critério semelhante de totalidade dos rendimentos habituais. São institutos conexos e confundíveis, pois, apesar da proximidade, FGTS e contribuição previdenciária têm regimes e exclusões próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.318",
+  "para": "cf.156-B",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 156-B, I, da Constituição Federal atribui ao Comitê Gestor do IBS a competência de editar regulamento único e uniformizar a interpretação e a aplicação da legislação do imposto. O art. 318 da LC 214/2025 complementa essa atuação ao prever a harmonização conjunta entre o Comitê Gestor do IBS, a Receita Federal e a Procuradoria-Geral da Fazenda Nacional, estendendo-a também à CBS, dentro do mesmo regime da reforma tributária sobre o consumo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.318",
+  "para": "lcp227.2",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 2º da LC 227/2026 regula as competências administrativas do CGIBS relativas ao IBS, entre elas uniformizar a interpretação e a aplicação da legislação do imposto. O art. 318 da LC 214/2025 complementa essa atuação ao prever a harmonização conjunta entre o Comitê Gestor do IBS, a Receita Federal e a Procuradoria-Geral da Fazenda Nacional quanto ao IBS e à CBS, no mesmo regime da reforma tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.318",
+  "para": "ctn.199-A",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 199-A do CTN permite às Fazendas Públicas estabelecer, mediante convênio, o compartilhamento de atividades de fiscalização, lançamento e cobrança de tributos. O art. 318 da LC 214/2025 especializa essa possibilidade de cooperação para a harmonização de normas, interpretações, obrigações acessórias e procedimentos relativos ao IBS e à CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323",
+  "para": "lcp227.11",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 11, IV e V, da LC 227/2026 atribui ao Conselho Superior do CGIBS a competência de aprovar ato normativo para uniformizar a interpretação da legislação do IBS e de aprovar propostas conjuntas de interesse comum do IBS e da CBS. O art. 323 da LC 214/2025 trata de harmonização por outro colegiado, o Comitê de Harmonização das Administrações Tributárias e o Fórum de Harmonização Jurídica das Procuradorias, havendo ponto de contato entre as competências e risco de confusão entre os órgãos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323",
+  "para": "cf.156-B",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 156-B, I, da Constituição Federal atribui ao Comitê Gestor do IBS a competência de editar regulamento único e uniformizar a interpretação da legislação do imposto. O art. 323 da LC 214/2025 impõe a observância de ato conjunto de outro órgão, o Comitê de Harmonização das Administrações Tributárias e o Fórum de Harmonização Jurídica das Procuradorias, por todas as administrações tributárias e procuradorias dos entes federativos, havendo ponto de contato entre as competências de uniformização.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323-A",
+  "para": "d70235.46",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 46 do PAF (Decreto 70.235/72) assegura ao sujeito passivo o direito de formular consulta sobre a legislação tributária federal aplicável a fato determinado, e o art. 323-A da LC 214/2025 assegura o mesmo direito quanto à legislação do IBS e da CBS. Tratam-se do mesmo instituto, a consulta tributária, disciplinado por diplomas diferentes, com risco de se presumir aplicável à nova consulta o mesmo procedimento do PAF sem base legal expressa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323-A",
+  "para": "d70235.47",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 47 do PAF exige que a consulta seja apresentada por escrito, no domicílio tributário do consulente, e o caput do art. 323-A da LC 214/2025 também exige consulta escrita, agora sobre a legislação do IBS e da CBS. Tratam-se do mesmo instituto em diplomas diferentes, cada um com seu próprio órgão competente para recebê-la.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323-A",
+  "para": "ctn.107",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 107, § 1º, do CTN estabelece, em caráter geral, que a resolução de dúvidas sobre a legislação tributária se dá pelo processo administrativo de solução de consulta. O art. 323-A da LC 214/2025 especializa essa regra geral ao instituir o direito de consulta especificamente sobre a legislação do IBS e da CBS, com requisitos próprios de petição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323-A",
+  "para": "ctn.113",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 323-A, § 1º, III, da LC 214/2025 exige a indicação da data do fato gerador da obrigação principal ou acessória, conceitos definidos no art. 113 do CTN, que distingue a obrigação principal, de pagamento de tributo ou penalidade, da acessória, de prestações no interesse da arrecadação ou da fiscalização. O dispositivo da LC 214/2025 pressupõe esses conceitos gerais do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323-G",
+  "para": "lcp227.323-G",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 323-G da LC 214/2025 e o art. 323-G da LC 227/2026 têm redação idêntica, instituindo o mesmo recurso especial à Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS contra decisões divergentes sobre a legislação comum dos dois tributos. Tratam-se do mesmo instituto, replicado nos dois diplomas complementares da reforma tributária, o que exige que eventual alteração em um seja espelhada no outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323-G",
+  "para": "lcp227.75",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 75, IV, da LC 227/2026 relaciona o recurso especial entre os recursos cabíveis no contencioso administrativo do IBS, remetendo expressamente à forma do art. 323-G da LC 214/2025 para a sua disciplina. É o próprio diploma de 2026 que reconhece o art. 323-G da LC 214/2025 como a norma de regência desse recurso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323-G",
+  "para": "d70235.37",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 37, § 2º, do PAF prevê recurso especial à Câmara Superior de Recursos Fiscais do CARF contra decisão que der à lei tributária interpretação divergente da de outra Câmara ou turma. O art. 323-G da LC 214/2025 institui recurso especial análogo, perante a Câmara Nacional de Integração do IBS e da CBS, inclusive contra decisões do próprio CARF, havendo institutos conexos sujeitos a confusão quanto ao órgão e ao tributo envolvidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323-G",
+  "para": "cpc.1043",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.043 do CPC disciplina os embargos de divergência contra acórdão de órgão fracionário de tribunal que diverge do julgamento de outro órgão do mesmo tribunal em recurso especial ou extraordinário. O art. 323-G da LC 214/2025 cuida de mecanismo semelhante de uniformização por divergência interpretativa, porém no âmbito administrativo tributário, havendo apenas ponto de contato entre os institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323-G",
+  "para": "lcp227.323-J",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 323-J da LC 227/2026 trata de quem pode suscitar o incidente de uniformização perante a Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS, mesmo órgão colegiado referido no § 1º do art. 323-G da LC 214/2025 para o julgamento do recurso especial. Os dois mecanismos de uniformização, recurso especial e incidente de uniformização, integram o mesmo sistema do contencioso administrativo do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323-H",
+  "para": "lcp227.323-H",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 323-H da LC 214/2025 e o art. 323-H da LC 227/2026 têm redação idêntica, disciplinando o cabimento do incidente de uniformização perante a Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS. Tratam-se do mesmo instituto, replicado nos dois diplomas complementares da reforma tributária, o que exige que eventual alteração em um seja espelhada no outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323-H",
+  "para": "lcp227.81",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 81 da LC 227/2026 prevê incidente de uniformização perante a Câmara Superior do IBS, restrito à legislação específica do IBS, com a mesma estrutura de matérias repetitivas e provimento vinculante do art. 323-H da LC 214/2025. O art. 323-H complementa esse mecanismo ao estendê-lo, perante a Câmara Nacional de Integração, às questões comuns ao IBS e à CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "lcp214.323-H",
+  "para": "cpc.985",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 985 do CPC determina que a tese fixada no incidente de resolução de demandas repetitivas se aplica a todos os processos pendentes e futuros sobre a mesma questão de direito, salvo revisão. O § 1º e o § 2º do art. 323-H da LC 214/2025 preveem efeito vinculante semelhante para a tese do incidente de uniformização administrativa do IBS e da CBS, havendo institutos conexos em esferas distintas, a judicial e a administrativa tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T21:14:45+00:00"
  }
 ]
