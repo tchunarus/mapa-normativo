@@ -29297,5 +29297,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T14:13:43+00:00"
+ },
+ {
+  "de": "cpc.418",
+  "para": "cc.226",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 226 do Código Civil atribui valor probatório aos livros e fichas dos empresários, inclusive em favor do autor quando escriturados sem vício e confirmados por outros subsídios. O art. 418 do CPC complementa esse mesmo instituto no processo civil, ao dispor que os livros empresariais que preencham os requisitos legais provam a favor de seu autor no litígio entre empresários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T15:13:54+00:00"
+ },
+ {
+  "de": "l13874.14",
+  "para": "l8934.4",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 14 da Lei 13.874/19 deu nova redação ao art. 4º da Lei 8.934/94, que define as finalidades do Departamento Nacional de Registro Empresarial e Integração, mantendo o mesmo instituto sob texto atualizado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T15:13:54+00:00"
+ },
+ {
+  "de": "l13874.14",
+  "para": "l8934.31",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 14 da Lei 13.874/19 deu nova redação ao art. 31 da Lei 8.934/94, que passou a exigir a publicação dos atos decisórios em sítio da junta comercial na rede mundial de computadores, tratando do mesmo instituto da publicidade dos atos do registro empresarial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T15:13:54+00:00"
+ },
+ {
+  "de": "l13874.14",
+  "para": "l8934.32",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 14 da Lei 13.874/19 alterou o art. 32 da Lei 8.934/94, que trata do que compreende o registro empresarial, acrescentando regra sobre o aproveitamento automático de dados cadastrais já disponíveis em outras bases públicas, dentro do mesmo instituto do registro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T15:13:54+00:00"
+ },
+ {
+  "de": "l13874.14",
+  "para": "l8934.35",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 14 da Lei 13.874/19 alterou o art. 35 da Lei 8.934/94, que lista os documentos que não podem ser arquivados pelas juntas comerciais, dispensando a autorização governamental prévia para o registro dos atos constitutivos, dentro do mesmo instituto das vedações ao arquivamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T15:13:54+00:00"
+ },
+ {
+  "de": "l13874.14",
+  "para": "l8934.41",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 14 da Lei 13.874/19 deu nova redação ao art. 41 da Lei 8.934/94, mantendo o regime de decisão colegiada das juntas comerciais para o arquivamento dos atos de constituição de sociedades anônimas, com o parágrafo único fixando o prazo de cinco dias úteis para a decisão desses pedidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T15:13:54+00:00"
+ },
+ {
+  "de": "l13874.14",
+  "para": "l8934.42",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 14 da Lei 13.874/19 alterou o art. 42 da Lei 8.934/94, que disciplina a decisão singular dos atos do registro público de empresas mercantis não sujeitos ao regime colegiado do art. 41, cujo § 2º fixa o prazo de dois dias úteis para a decisão dos pedidos de arquivamento não previstos no inciso I do caput do art. 41.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T15:13:54+00:00"
+ },
+ {
+  "de": "lcp123.82",
+  "para": "l8213.55",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 82 da LC 123/06 acrescentou o § 4º ao art. 55 da Lei 8.213/91, excluindo da contagem do tempo de contribuição, para efeito de aposentadoria por tempo de contribuição, o período em que o segurado contribuinte individual ou facultativo tiver contribuído na forma do § 2º do art. 21 da Lei 8.212/91, salvo complementação na forma do § 3º do mesmo artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T15:13:54+00:00"
+ },
+ {
+  "de": "l10522.11",
+  "para": "floripa_ctm.78",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 11 da Lei 10.522/02 condiciona a formalização do parcelamento ao prévio pagamento da primeira prestação, conforme o montante do débito e o prazo solicitado. O art. 78 do Código Tributário Municipal de Florianópolis disciplina instituto conexo, o parcelamento de créditos tributários municipais, também condicionado ao recolhimento da primeira parcela antes da protocolização do pedido, o que gera risco real de confusão entre os regimes federal e municipal aplicáveis a cada caso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T15:13:54+00:00"
  }
 ]
