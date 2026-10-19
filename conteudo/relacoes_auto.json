@@ -29387,5 +29387,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T15:13:54+00:00"
+ },
+ {
+  "de": "l8934.41",
+  "para": "lsa.279",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 41, I, c, da Lei 8.934/94 sujeita ao regime de decisão colegiada o arquivamento dos atos de constituição e alterações de consórcio e de grupo de sociedades, remetendo expressamente à Lei nº 6.404/76, e o art. 279 da LSA disciplina o conteúdo do contrato que constitui o consórcio cujo arquivamento está sujeito a essa decisão colegiada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T16:10:42+00:00"
+ },
+ {
+  "de": "l8934.41",
+  "para": "lsa.271",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 41, I, c, da Lei 8.934/94 submete à decisão colegiada o arquivamento dos atos de constituição de grupo de sociedades previstos na Lei nº 6.404/76, e o art. 271 da LSA estabelece que o grupo se considera constituído exatamente a partir da data desse arquivamento no registro do comércio da sede da sociedade de comando.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T16:10:42+00:00"
+ },
+ {
+  "de": "l8934.4",
+  "para": "lcp123.10",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 4º, XII e XIII, da Lei 8.934/94 atribui ao Drei a função de articular e supervisionar a integração para o registro e a legalização de empresas, e o art. 10 da LC 123/06 veda a exigência de documentos adicionais pelos órgãos envolvidos nessa mesma integração, de modo que esse dispositivo concretiza, para o empresário, o resultado que o primeiro busca coordenar institucionalmente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T16:10:42+00:00"
+ },
+ {
+  "de": "l8934.42",
+  "para": "lcp123.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 42, § 3º, da Lei 8.934/94 fixa os requisitos para o deferimento automático do arquivamento dos atos constitutivos e de alterações perante a junta comercial, e o art. 9º da LC 123/06 determina que esse mesmo registro ocorra independentemente da regularidade de obrigações tributárias, previdenciárias ou trabalhistas do empresário ou da sociedade, compondo o mesmo regime de simplificação do registro empresarial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T16:10:42+00:00"
+ },
+ {
+  "de": "lcp214.1",
+  "para": "lcp227.1",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1º da LC 214/2025 institui o Imposto sobre Bens e Serviços de competência compartilhada entre Estados, Municípios e Distrito Federal, e o art. 1º da LC 227/2026 institui o Comitê Gestor do IBS, entidade criada justamente para administrar de forma compartilhada esse mesmo imposto, de modo que os dois dispositivos integram o mesmo arranjo normativo de instituição e gestão do tributo, cada um cuidando de um aspecto distinto dele.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T16:10:42+00:00"
+ },
+ {
+  "de": "adct.125",
+  "para": "lcp214.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 125 do ADCT fixa, para o ano de 2026, a alíquota de teste de 0,1% para o IBS e de 0,9% para a CBS, tributos instituídos pelo art. 1º da LC 214/2025, compensáveis com as contribuições então vigentes, tratando-se de regra de transição que concretiza, nesse período, o mesmo imposto e a mesma contribuição ali criados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T16:10:42+00:00"
+ },
+ {
+  "de": "lcp214.12",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 156-A da Constituição Federal autoriza a lei complementar a instituir o Imposto sobre Bens e Serviços e fixa os princípios gerais que devem orientá-lo, e o art. 12 da LC 214/2025 regulamenta, dentro desse marco constitucional, a base de cálculo do IBS e da CBS, especificando o que compõe e o que não compõe o valor da operação tributada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T16:10:42+00:00"
+ },
+ {
+  "de": "lcp214.12",
+  "para": "lcp87.13",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 13 da LC 87/96 inclui na base de cálculo do ICMS o montante do próprio imposto, no regime do cálculo por dentro, enquanto o art. 12 da LC 214/2025 exclui expressamente o montante do IBS e da CBS incidentes sobre a operação dessa mesma base, existindo risco real de se presumir, por analogia com o ICMS que esses tributos substituem, a mesma lógica de inclusão do imposto em sua própria base, quando o regime é oposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T16:10:42+00:00"
  }
 ]
