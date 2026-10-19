@@ -29187,5 +29187,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T12:13:37+00:00"
+ },
+ {
+  "de": "clt.135",
+  "para": "lcp123.52",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 135 da CLT exige que o empregado apresente a Carteira de Trabalho e Previdência Social para a anotação da concessão de férias; o inciso I do art. 52 da LC 123/06 esclarece que a dispensa prevista no art. 51 não alcança essa anotação na CTPS, de modo que a obrigação do § 1º do art. 135 permanece exigível das microempresas e das empresas de pequeno porte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T13:12:17+00:00"
+ },
+ {
+  "de": "cc.1179",
+  "para": "cpc.417",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 1.179 do Código Civil impõe ao empresário e à sociedade empresária o dever de manter escrituração uniforme dos livros empresariais; o art. 417 do CPC dá efeito probatório a esses mesmos livros, ao dispor que provam contra o próprio empresário, ressalvada a demonstração, por qualquer meio de prova, de que os lançamentos não correspondem à verdade dos fatos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T13:12:17+00:00"
+ },
+ {
+  "de": "cc.1179",
+  "para": "l11101.105",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 1.179 do Código Civil impõe ao empresário e à sociedade empresária o dever de levantar anualmente o balanço patrimonial e o de resultado econômico; o inciso I do art. 105 da Lei 11.101/05 exige, no requerimento de autofalência, a apresentação de demonstrações contábeis dos três últimos exercícios sociais, compostas obrigatoriamente de balanço patrimonial, documento que decorre diretamente da escrituração exigida pelo art. 1.179.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T13:12:17+00:00"
  }
 ]
