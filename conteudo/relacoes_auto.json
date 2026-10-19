@@ -28967,5 +28967,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T09:11:27+00:00"
+ },
+ {
+  "de": "cc.598",
+  "para": "l14133.113",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 598 do Código Civil limita a quatro anos a duração do contrato de prestação de serviço regido pelo direito civil, enquanto o art. 113 da Lei 14.133/21 fixa em cinco anos o prazo máximo do contrato administrativo de fornecimento e prestação de serviço associado celebrado com a Administração Pública, regime distinto e com prazo diverso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T10:11:32+00:00"
+ },
+ {
+  "de": "cpp.70",
+  "para": "cp.6",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 70 do CPP define o lugar da consumação para fins de competência territorial interna, adotando a teoria do resultado, enquanto o art. 6º do Código Penal define o lugar do crime para fins de aplicação da lei penal no espaço, adotando a teoria da ubiquidade, institutos próximos mas com finalidades distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T10:11:32+00:00"
+ },
+ {
+  "de": "d9580.720",
+  "para": "l9430.64",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 720 do RIR/2018 regulamenta expressamente o art. 64 da Lei 9.430/96, disciplinando a mesma retenção na fonte sobre pagamentos da administração pública federal a pessoas jurídicas pelo fornecimento de bens ou pela prestação de serviços, com remissão direta ao dispositivo legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T10:11:32+00:00"
+ },
+ {
+  "de": "lcp214.502",
+  "para": "l9430.64",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 502 da LC 214/2025 altera o caput do art. 64 da Lei 9.430/96 para excluir a menção à contribuição para a seguridade social COFINS e à contribuição para o PIS/PASEP, mantendo apenas a retenção do imposto de renda e da contribuição social sobre o lucro líquido, alteração ainda pendente de produção de efeitos vinculada ao cronograma da reforma tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T10:11:32+00:00"
+ },
+ {
+  "de": "l9784.1",
+  "para": "l12846.8",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 1º da Lei 9.784/99 fixa as normas básicas do processo administrativo federal, aplicáveis subsidiariamente ao processo administrativo de responsabilização de pessoa jurídica instituído pelo art. 8º da Lei 12.846/13, que disciplina apenas a competência para instauração e julgamento sem regular o rito processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T10:11:32+00:00"
  }
 ]
