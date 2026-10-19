@@ -29217,5 +29217,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T13:12:17+00:00"
+ },
+ {
+  "de": "cpc.417",
+  "para": "cc.226",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam do valor probante dos livros empresariais quanto ao seu titular: o art. 226 do Código Civil fixa a regra geral de que os livros provam contra o empresário e, em certas condições, também a seu favor, enquanto o art. 417 do CPC detalha a prova em contrário, permitindo que o empresário demonstre por qualquer meio lícito que os lançamentos não correspondem à verdade dos fatos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T14:13:43+00:00"
+ },
+ {
+  "de": "l11101.105",
+  "para": "lsa.176",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 105 da Lei 11.101/05 exige que o devedor instrua o pedido de autofalência com demonstrações contábeis elaboradas com estrita observância da legislação societária aplicável, remissão que alcança o art. 176 da Lei das Sociedades Anônimas, que define o conjunto de demonstrações financeiras a serem elaboradas ao fim de cada exercício social. Tratam de institutos conexos, pois um disciplina os documentos exigidos no processo falimentar e o outro a elaboração periódica das demonstrações financeiras das companhias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T14:13:43+00:00"
+ },
+ {
+  "de": "lcp123.52",
+  "para": "clt.29",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 52 da Lei Complementar 123/06 ressalva que o tratamento diferenciado dado às microempresas e empresas de pequeno porte não as dispensa das anotações na Carteira de Trabalho e Previdência Social, obrigação cuja forma e prazo de cumprimento estão definidos no art. 29 da CLT. Tratam de institutos conexos, pois um define os limites da simplificação do regime do Simples Nacional e o outro a obrigação trabalhista geral de anotação que permanece exigível.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T14:13:43+00:00"
+ },
+ {
+  "de": "lcp123.79",
+  "para": "l10522.11",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 79 da Lei Complementar 123/06 determina que se apliquem ao parcelamento ali previsto as demais regras vigentes para parcelamento de tributos e contribuições federais, remissão que alcança o art. 11 da Lei 10.522/02, que disciplina a formalização geral do parcelamento mediante o pagamento da primeira prestação. A Lei 10.522/02 incide de modo subsidiário sobre o que a Lei Complementar 123/06 não disciplina especificamente a respeito do parcelamento especial de ingresso no Simples Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T14:13:43+00:00"
+ },
+ {
+  "de": "lcp123.79",
+  "para": "l11101.68",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 79 da Lei Complementar 123/06 e o art. 68 da Lei 11.101/05 preveem tratamento diferenciado de parcelamento em favor de microempresas e empresas de pequeno porte, o que gera risco de confusão entre os dois regimes. O primeiro trata do parcelamento especial para ingresso no Simples Nacional de débitos vencidos até 30 de junho de 2008, enquanto o segundo trata do parcelamento de créditos fiscais e previdenciários no âmbito da recuperação judicial, com prazos superiores aos das demais empresas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T14:13:43+00:00"
+ },
+ {
+  "de": "lcp123.74",
+  "para": "l9099.8",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 74 da Lei Complementar 123/06 admite as microempresas e empresas de pequeno porte como proponentes de ação perante o Juizado Especial, nos mesmos termos aplicáveis às pessoas físicas capazes, e o art. 8º da Lei 9.099/95 é a própria norma que disciplina, no âmbito do Juizado Especial, quem pode figurar como parte e quem está habilitado a propor ação. Tratam do mesmo instituto, a legitimidade ativa perante o Juizado Especial, sendo o art. 74 a norma de extensão e o art. 8º a norma operacional que a incorpora.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T14:13:43+00:00"
+ },
+ {
+  "de": "lcp123.8",
+  "para": "l13874.14",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 8º da Lei Complementar 123/06 assegura aos empresários a entrada única de dados cadastrais perante os diversos órgãos, resguardada a independência das bases de dados. O art. 14 da Lei 13.874/19 altera a Lei 8.934/94 para prever que o cadastro nacional mantido pelo Departamento Nacional de Registro Empresarial e Integração seja formado a partir das informações originárias do cadastro estadual, mecanismo que viabiliza a entrada única ao evitar a duplicidade de bases independentes. Tratam de institutos conexos, pois um enuncia o princípio geral da entrada única e o outro disciplina a estrutura do cadastro nacional empresarial que o implementa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T14:13:43+00:00"
+ },
+ {
+  "de": "lcp123.80",
+  "para": "l8213.94",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O novo § 3º do art. 21 da Lei 8.212/91, inserido pelo art. 80 da Lei Complementar 123/06, remete expressamente à contagem recíproca do tempo de contribuição prevista no art. 94 da Lei 8.213/91, ao exigir a complementação da contribuição para que esse tempo seja aproveitado nessa contagem. Tratam de institutos conexos, pois um disciplina a alíquota diferenciada do segurado contribuinte individual e o outro a compensação financeira entre regimes previdenciários na contagem recíproca.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T14:13:43+00:00"
  }
 ]
