@@ -29657,5 +29657,205 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T17:14:21+00:00"
+ },
+ {
+  "de": "cf.149-C",
+  "para": "lcp214.473",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 473 da LC 214/2025 regulamenta o caput do art. 149-C da CF ao reproduzir a regra de redução a zero das alíquotas do IBS e da CBS devidas aos demais entes e de elevação equivalente da alíquota devida ao ente federativo contratante nas aquisições da administração pública direta, de autarquias e de fundações públicas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "cf.149-C",
+  "para": "lcp214.472",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 472 da LC 214/2025 regulamenta o § 1º do art. 149-C da CF, ao fixar a redução uniforme das alíquotas do IBS e da CBS nas aquisições de bens e serviços pela administração pública direta, por autarquias e por fundações públicas, na proporção do redutor estabelecido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "cf.149-C",
+  "para": "lcp214.372",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 372 da LC 214/2025 fixa o cronograma de vigência do regime de destinação integral da arrecadação do IBS e da CBS ao ente contratante, criado pelo art. 473 em cumprimento ao art. 149-C da CF, graduando sua aplicação entre 2026 e 2033 conforme o tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "cf.149-C",
+  "para": "lcp214.306",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 306 da LC 214/2025 estende às aquisições de serviços financeiros e de planos de assistência à saúde pela administração pública o mesmo regime de destinação da arrecadação ao ente contratante que o art. 473 criou para cumprir o art. 149-C da CF, complementando seu alcance para esses dois setores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "floripa_ctm.57",
+  "para": "ctn.148",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 57 do CTM de Florianópolis reproduz, para o ISS municipal, a regra geral de arbitramento do valor ou do preço de bens ou serviços do art. 148 do CTN, inclusive a ressalva da avaliação contraditória em caso de contestação, funcionando como regra especial para esse tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.245",
+  "para": "d9580.733",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O parágrafo único do art. 245 da LC 214/2025 exclui as premiações pagas em concursos de prognósticos da incidência do IBS e da CBS; o art. 733 do RIR/2018 sujeita essas mesmas premiações ao imposto de renda exclusivamente na fonte, à alíquota de vinte por cento, o que evita a falsa impressão de desoneração total.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.245",
+  "para": "d9580.732",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O inciso II do art. 732 do RIR/2018 sujeita os prêmios em concursos de prognósticos à incidência do imposto de renda exclusivamente na fonte, à alíquota de trinta por cento; o parágrafo único do art. 245 da LC 214/2025 exclui essas mesmas premiações da incidência do IBS e da CBS, tributos que não se confundem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.254",
+  "para": "ctn.116",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 116 do CTN considera ocorrido o fato gerador, nas situações jurídicas, desde o momento em que estejam definitivamente constituídas; o art. 254 da LC 214/2025 aplica esse critério geral ao definir que o fato gerador do IBS e da CBS, na alienação de bem imóvel, ocorre no momento do ato de alienação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.254",
+  "para": "ctn.117",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 117 do CTN estabelece que, sendo suspensiva a condição de um negócio jurídico, ele se reputa perfeito desde o momento do implemento da condição; o § 1º do art. 254 da LC 214/2025 reproduz esse critério ao considerar ocorrida a alienação do imóvel quando implementada a condição suspensiva a que ela estiver sujeita.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.254",
+  "para": "d9580.166",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 166 do RIR/2018 caracteriza a aquisição e a alienação de imóveis pelos atos de compra e venda, permuta, cessão de direitos e promessa dessas operações, para apurar o ganho de capital na alienação; o art. 254 da LC 214/2025 usa critério semelhante para definir o fato gerador do IBS e da CBS, tributo diverso do imposto de renda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.256",
+  "para": "floripa_ctm.281",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 281 do CTM de Florianópolis fixa como base de cálculo do ITBI municipal o valor venal do imóvel; o art. 256 da LC 214/2025 disciplina a apuração do valor de referência do mesmo imóvel para o IBS e a CBS, com critérios próximos aos de mercado, complementando a apuração do valor do bem entre os dois tributos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.256",
+  "para": "adct.130",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 130 do ADCT trata da alíquota de referência dos tributos previstos nos arts. 156-A e 195, V, da CF; o art. 256 da LC 214/2025 trata do valor de referência do imóvel; a semelhança terminológica entre os dois institutos, um de alíquota e outro de valor de bem, pode gerar confusão, embora sejam institutos tributários distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.258",
+  "para": "d9580.136",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 136 do RIR/2018 define o custo de aquisição de bens para o ganho de capital no imposto de renda e veda sua atualização monetária após 1995; o art. 258 da LC 214/2025 define o valor de aquisição do imóvel para o redutor de ajuste do IBS e da CBS e autoriza a atualização desse valor pelo IPCA até 31 de dezembro de 2026, regimes que não se confundem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.258",
+  "para": "d9580.150",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 150 do RIR/2018 institui fatores de redução do ganho de capital na alienação de imóveis para o imposto de renda; o art. 258 da LC 214/2025 institui o redutor de ajuste do valor do imóvel para o IBS e a CBS; a proximidade entre os dois mecanismos de redução pode levar a confundir o regime de um tributo com o do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.27",
+  "para": "lcp87.5",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 5º da LC 87/96 permite atribuir a terceiros a responsabilidade pelo pagamento do ICMS quando concorrerem para o não recolhimento; o inciso V do art. 27 da LC 214/2025 prevê, de modo semelhante, o pagamento por aquele a quem a lei complementar atribuir responsabilidade pelo IBS e pela CBS, regime próprio que não se confunde com o do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.27",
+  "para": "lcp87.24",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 24 da LC 87/96 disciplina a extinção da obrigação do ICMS por compensação entre créditos e débitos escriturados ou, residualmente, por pagamento em dinheiro; o art. 27 da LC 214/2025 prevê mecanismo semelhante para o IBS e a CBS, acrescido do split payment e do recolhimento pelo adquirente, o que exige cuidado para não se aplicar automaticamente a lógica de apuração do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.27",
+  "para": "lcp227.471-D",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 27 da LC 214/2025 institui o split payment como modalidade de extinção do débito do IBS e da CBS; o art. 471-D da LC 227/2026 complementa esse regime ao cominar penalidades ao prestador de serviço de pagamento que deixar de segregar ou de recolher corretamente os valores de IBS e CBS na liquidação financeira.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.314",
+  "para": "ec132.19",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 19 da EC 132/2023 institui crédito presumido da contribuição do art. 195, V, da CF para projetos do setor automotivo habilitados até 2032; o art. 314 da LC 214/2025 trata de penalidades por descumprimento das condições de outro crédito presumido da mesma contribuição, o que exige cuidado para não se confundirem os dois regimes de habilitação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.314",
+  "para": "ctn.168",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 2º do art. 168 do CTN trata da habilitação do indébito tributário perante a administração tributária, procedimento de restituição de valores pagos indevidamente; o art. 314 da LC 214/2025 trata da habilitação do contribuinte à fruição do crédito presumido do IBS e da CBS e das penalidades por seu descumprimento; o termo habilitação designa, nos dois casos, procedimentos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
+ },
+ {
+  "de": "lcp214.314",
+  "para": "floripa_ctm.439",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O inciso IV do art. 439 do CTM de Florianópolis prevê a suspensão ou o cancelamento de isenção como penalidade tributária municipal; o art. 314 da LC 214/2025 prevê o cancelamento ou a suspensão da habilitação ao crédito presumido do IBS e da CBS como penalidade por descumprimento de condições; ambos usam a suspensão de benefício fiscal como sanção, em tributos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T18:21:34+00:00"
  }
 ]
