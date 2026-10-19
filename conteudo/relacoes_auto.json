@@ -30277,5 +30277,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T21:14:45+00:00"
+ },
+ {
+  "de": "clt.458",
+  "para": "d9580.35",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 2º, incisos II e III, do art. 458 da CLT exclui do salário, para fins trabalhistas, o auxílio educação e o transporte fornecidos pelo empregador, enquanto o art. 35, I, do RIR/2018 trata da isenção do imposto de renda sobre alimentação, transporte e uniformes fornecidos gratuitamente; são regimes distintos, trabalhista e tributário, que versam sobre as mesmas utilidades e podem ser confundidos entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "cpc.1043",
+  "para": "clt.894",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 894 da CLT disciplina os embargos cabíveis no Tribunal Superior do Trabalho contra decisões de Turmas divergentes entre si ou contrárias a súmula, instituto análogo aos embargos de divergência do art. 1.043 do CPC, cabíveis no STF e no STJ; são regimes distintos, cada qual com órgão, prazo e requisitos próprios, e a identidade de nome gera risco de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "cpc.1043",
+  "para": "clt.897-A",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 897-A da CLT disciplina os embargos de declaração, cabíveis para sanar omissão, contradição ou equívoco manifesto na decisão, instituto distinto dos embargos de divergência do art. 1.043 do CPC, que servem para resolver divergência entre órgãos do mesmo tribunal em recurso especial ou extraordinário; a nomenclatura comum, embargos, é o único ponto de contato entre eles e gera risco real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "cpc.1043",
+  "para": "cpp.609",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 609 do CPP admite embargos infringentes e de nulidade contra decisão não unânime de segunda instância desfavorável ao réu, função análoga à dos embargos de divergência do art. 1.043 do CPC quanto a impugnar decisão colegiada não unânime, mas com nome, órgão e requisitos próprios do processo penal, o que pode gerar confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "cpc.985",
+  "para": "lcp227.81",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 81 da LC 227/2026 instituiu o incidente de uniformização perante a Câmara Superior do IBS para matérias repetitivas, com efeito vinculante análogo ao do incidente de resolução de demandas repetitivas regido pelo art. 985 do CPC, mas no âmbito administrativo tributário; a semelhança de função entre os dois institutos gera risco de se confundir o alcance e os efeitos de cada um.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "cpc.985",
+  "para": "clt.896-C",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 896-C da CLT permite afetar à Seção Especializada em Dissídios Individuais ou ao Tribunal Pleno recursos de revista fundados em questão de direito idêntica, mecanismo análogo ao incidente de resolução de demandas repetitivas cujos efeitos o art. 985 do CPC disciplina, porém no âmbito da Justiça do Trabalho e com procedimento próprio, o que pode levar à confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "cpc.985",
+  "para": "cf.103-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A súmula vinculante do art. 103-A da Constituição Federal produz efeito vinculante geral após reiteradas decisões do Supremo Tribunal Federal sobre matéria constitucional, efeito semelhante ao da tese fixada em incidente de resolução de demandas repetitivas de que trata o art. 985 do CPC, mas com fonte, procedimento e abrangência distintos, o que pode causar confusão entre os dois institutos vinculantes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "ctn.107",
+  "para": "d70235.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 107 do CTN remete a resolução de dúvidas sobre a legislação tributária ao processo de solução de consulta regido pela legislação específica; o art. 1º do Decreto 70.235/72 é essa legislação específica no âmbito federal, ao reger expressamente o processo de consulta sobre a aplicação da legislação tributária federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "ctn.107",
+  "para": "floripa_ctm.15",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 15 do Código Tributário Municipal de Florianópolis reproduz, no âmbito municipal, a mesma regra do caput do art. 107 do CTN, segundo a qual a legislação tributária será interpretada conforme o capítulo próprio, especializando essa diretriz para a legislação tributária do município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "ctn.107",
+  "para": "floripa_ctm.159",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 107 do CTN remete a resolução de dúvidas sobre a legislação tributária à legislação específica que regula o processo de consulta; o art. 159 do Código Tributário Municipal de Florianópolis é essa legislação específica no âmbito municipal, ao disciplinar a consulta sobre a interpretação de dispositivos da legislação tributária do município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "d70235.46",
+  "para": "floripa_ctm.159",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 46 do Decreto 70.235/72 assegura ao sujeito passivo o direito de formular consulta sobre a legislação tributária federal aplicável a fato determinado; o art. 159 do Código Tributário Municipal de Florianópolis assegura direito análogo no âmbito municipal, com legitimados e procedimento próprios, o que pode gerar confusão entre os dois regimes de consulta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "d70235.47",
+  "para": "ctn.127",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 47 do Decreto 70.235/72 exige que a consulta seja apresentada no domicílio tributário do consulente, sem definir esse conceito; o art. 127 do CTN disciplina subsidiariamente a fixação do domicílio tributário na falta de eleição pelo contribuinte, aplicando-se à consulta administrativa na omissão do próprio decreto quanto à definição do termo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "l8036.15",
+  "para": "clt.3",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os §§ 1º e 2º do art. 15 da Lei 8.036/90 definem empregador e trabalhador para fins de depósito do FGTS em termos mais amplos que o conceito de empregado do art. 3º da CLT, abrangendo também o tomador e o fornecedor de mão de obra; a proximidade entre os dois conceitos gera risco de se presumir que o FGTS alcança apenas o empregado no sentido estrito da CLT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
+ },
+ {
+  "de": "l8213.29",
+  "para": "l8212.45-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 29, incisos I e II, da Lei 8.213/91 calcula o salário de benefício pela média aritmética simples dos maiores salários de contribuição correspondentes a oitenta por cento do período contributivo; o art. 45-A da Lei 8.212/91 usa critério semelhante para fixar a indenização devida pelo contribuinte individual que pretenda contar tempo de contribuição alcançado pela decadência, o que gera risco de se confundirem as duas bases de cálculo apesar das finalidades distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T22:13:13+00:00"
  }
 ]
