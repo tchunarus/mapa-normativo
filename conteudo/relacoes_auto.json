@@ -29467,5 +29467,195 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T16:10:42+00:00"
+ },
+ {
+  "de": "adct.125",
+  "para": "cf.156-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O caput do art. 125 do ADCT refere-se expressamente ao art. 156-A da Constituição Federal, instituidor do imposto sobre bens e serviços cuja alíquota estadual de 2026 o próprio art. 125 fixa a título de regra de transição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "adct.125",
+  "para": "cf.156-B",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 3º, I, do art. 125 do ADCT cita de forma expressa o art. 156-B, § 2º, III, da Constituição Federal ao destinar parte da arrecadação transitória ao financiamento do Comitê Gestor do Imposto sobre Bens e Serviços ali previsto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "adct.125",
+  "para": "cf.159",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 125 do ADCT determina que a arrecadação do imposto de que trata o caput não observará, durante o período transitório, as vinculações, repartições e destinações constitucionais, entre as quais se inclui a repartição do produto da arrecadação prevista no art. 159 da Constituição Federal, destinada aos Fundos de Participação dos Estados e dos Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "adct.125",
+  "para": "lcp214.343",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 343 da Lei Complementar nº 214/2025 reproduz, no plano infraconstitucional, a mesma alíquota estadual de 0,1% do IBS fixada pelo caput do art. 125 do ADCT para os fatos geradores ocorridos em 2026, bem como a regra de não vinculação da arrecadação prevista no parágrafo único daquele artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "adct.125",
+  "para": "lcp214.346",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 346 da Lei Complementar nº 214/2025 reproduz a mesma alíquota de 0,9% da CBS fixada pelo caput do art. 125 do ADCT para os fatos geradores ocorridos em 2026.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "adct.125",
+  "para": "lcp214.348",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 348, I e II, da Lei Complementar nº 214/2025 detalha, para o IBS e a CBS, o mesmo mecanismo de compensação com as contribuições do art. 195, I, alínea \"b\", e IV, e com a contribuição do art. 239, e de ressarcimento, previsto nos §§ 1º e 2º do art. 125 do ADCT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "lcp214.13",
+  "para": "ctn.148",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 13 da Lei Complementar nº 214/2025 especializa, para o IBS e a CBS, o mesmo instituto do arbitramento da base de cálculo já disciplinado em caráter geral pelo art. 148 do Código Tributário Nacional para as hipóteses em que sejam omissos ou não mereçam fé as declarações ou os documentos do sujeito passivo ou de terceiro legalmente obrigado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "lcp214.13",
+  "para": "lcp87.18",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 18 da Lei Complementar nº 87/1996 disciplina o arbitramento da base de cálculo do ICMS em termos quase idênticos aos do art. 13 da Lei Complementar nº 214/2025 para o IBS e a CBS, o que gera risco real de se aplicar por engano a um tributo a regra de arbitramento concebida para o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "lcp214.13",
+  "para": "floripa_ctm.57",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 57 do Código Tributário Municipal de Florianópolis prevê o arbitramento do valor ou preço de bens ou serviços para o ISS em termos muito próximos aos do art. 13 da Lei Complementar nº 214/2025, o que cria risco real de confusão entre o arbitramento do imposto municipal e o do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "lcp214.14",
+  "para": "lcp227.107",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 107, II, da Lei Complementar nº 227/2026 complementa o regime do art. 14, § 2º, da Lei Complementar nº 214/2025 ao detalhar o ajuste, no rateio do produto da arrecadação entre os entes federativos, decorrente da fixação de alíquota do IBS distinta da alíquota de referência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "lcp214.14",
+  "para": "lcp227.129",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 129 da Lei Complementar nº 227/2026 emprega a mesma técnica de fixação por lei específica do ente federativo prevista no art. 14 da Lei Complementar nº 214/2025, mas para instituto conexo e distinto, o percentual adicional do IBS destinado ao Fundo de Combate à Pobreza de que trata o art. 82 do ADCT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "lcp214.15",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 15 da Lei Complementar nº 214/2025 regulamenta a regra do art. 156-A, § 1º, VII, da Constituição Federal, segundo a qual o imposto será cobrado pelo somatório das alíquotas do Estado e do Município de destino da operação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "lcp214.15",
+  "para": "cf.152",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 152 da Constituição Federal veda a diferenciação tributária entre bens e serviços em razão de procedência ou destino, princípio distinto do critério de destino adotado pelo art. 15 da Lei Complementar nº 214/2025 para definir a alíquota aplicável ao IBS, mas a coincidência da referência a procedência e destino gera risco real de confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "lcp214.16",
+  "para": "cf.149-C",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 149-C da Constituição Federal excepciona a regra de alíquota uniforme do art. 16 da Lei Complementar nº 214/2025 ao determinar, para as operações contratadas pela administração pública direta, por autarquias e por fundações públicas, a redução a zero das alíquotas devidas aos demais entes e a elevação equivalente da alíquota devida ao ente contratante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "lcp214.19",
+  "para": "adct.130",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 19 da Lei Complementar nº 214/2025 complementa o regime transitório de alíquotas de referência instituído pelo art. 130 do ADCT, acrescentando a hipótese adicional de ajuste dessas alíquotas em razão de alteração na legislação federal que reduza ou eleve a arrecadação do IBS ou da CBS, distinta da fixação inicial disciplinada pelo art. 130.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "lcp214.19",
+  "para": "lcp123.12",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 1º, I, \"c\", do art. 19 da Lei Complementar nº 214/2025 refere-se expressamente ao Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte, Simples Nacional, instituído pelo art. 12 da Lei Complementar nº 123/2006.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "lcp214.191",
+  "para": "ctn.113",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 191 da Lei Complementar nº 214/2025 especializa, para as entidades que realizam operações com serviços financeiros, o instituto geral da obrigação acessória definido no art. 113, § 2º, do Código Tributário Nacional, ao impor a prestação de informações sobre as operações realizadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "lcp214.200",
+  "para": "cc.1368-B",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 200 da Lei Complementar nº 214/2025 complementa, no plano tributário, o mesmo instituto da consolidação da propriedade fiduciária em garantia disciplinado pelo parágrafo único do art. 1.368-B do Código Civil, definindo a não incidência do IBS e da CBS sobre a consolidação em favor do credor e as regras de incidência na alienação posterior do bem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:02+00:00"
+ },
+ {
+  "de": "lcp214.19",
+  "para": "lcp123.18-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 19, § 1º, I, alínea \"c\", da Lei Complementar nº 214/2025 refere-se expressamente ao Microempreendedor Individual (MEI), regime específico disciplinado pelo art. 18-A da Lei Complementar nº 123/2006, dentro da mesma lógica de tratamento favorecido às microempresas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-19T17:14:21+00:00"
  }
 ]
