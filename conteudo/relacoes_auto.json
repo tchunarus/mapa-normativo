@@ -31357,5 +31357,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T13:11:58+00:00"
+ },
+ {
+  "de": "lcp214.332",
+  "para": "ctn.127-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 127-A do Código Tributário Nacional autoriza a intimação dos atos do processo tributário administrativo por meio do Domicílio Tributário Eletrônico, enquanto o art. 332 da LC 214/2025 institui, com redação quase idêntica, o mesmo mecanismo de DTE para o processo administrativo do IBS e da CBS; a coincidência de nomenclatura e de redação entre os dois regimes tributários distintos gera risco de se aplicar ao processo de um tributo a disciplina procedimental prevista para o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T14:13:14+00:00"
+ },
+ {
+  "de": "d9580.203",
+  "para": "floripa_ctm.398",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 203 do RIR/2018 define domicílio tributário do sujeito passivo, para fins de intimação no processo administrativo fiscal federal, como o endereço postal ou eletrônico informado à administração tributária, enquanto o art. 398 do Código Tributário Municipal de Florianópolis define domicílio tributário do contribuinte, para o imposto predial e territorial urbano, pelo endereço do proprietário de terreno sem edificação ou pela situação do imóvel objeto do lançamento; a identidade do rótulo entre os dois dispositivos, apesar dos critérios de fixação diferentes, pode induzir à aplicação do critério de um ente federativo ao processo conduzido por outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T14:13:14+00:00"
+ },
+ {
+  "de": "l8212.32-A",
+  "para": "lcp123.38",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 32-A da Lei 8.212/91 e o art. 38 da LC 123/06 preveem, para declarações tributárias distintas, a GFIP da Lei 8.212/91 e a Declaração Simplificada da Pessoa Jurídica do Simples Nacional, a mesma estrutura de multa de 2% ao mês-calendário ou fração sobre o montante informado, limitada a 20%, com as mesmas reduções de metade e de 75% em caso de entrega espontânea ou no prazo da intimação, embora os valores da multa por grupo de informações incorretas sejam diferentes em cada lei, o que pode levar à aplicação do valor de uma norma no lugar da outra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T14:13:14+00:00"
+ },
+ {
+  "de": "lcp227.64",
+  "para": "lcp214.332",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 64, § 1º, da LC 227/2026 remete expressamente ao art. 332 da LC 214/2025 para disciplinar a intimação dos atos do processo administrativo tributário do IBS e da CBS por meio do Domicílio Tributário Eletrônico, nos mesmos termos do precedente já registrado quanto ao art. 333 da LC 214/2025.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T14:13:14+00:00"
+ },
+ {
+  "de": "lcp214.446",
+  "para": "adct.40",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 446 da LC 214/2025 disciplina, no regime do IBS, a entrada de bens materiais no Amazonas não destinados à indústria incentivada da Zona Franca de Manaus, implementando no novo tributo a manutenção dos incentivos fiscais assegurados pelo art. 40 do ADCT à Zona Franca de Manaus, sem esgotar a disciplina constitucional da zona franca, que compreende também matérias alheias à tributação do IBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T14:13:14+00:00"
+ },
+ {
+  "de": "lcp214.457",
+  "para": "adct.131",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 457, III e IV, da LC 214/2025 remete expressamente ao art. 131, § 1º, II e III, do ADCT para vincular o percentual da contribuição de contrapartida devida pelo Estado do Amazonas, a partir de 2033, à recomposição de receita do IBS prevista naquele dispositivo constitucional transitório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T14:13:14+00:00"
+ },
+ {
+  "de": "lcp214.517",
+  "para": "cf.146",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 146, III, d, e § 1º, da Constituição Federal autoriza a lei complementar a instituir regime único de arrecadação para as microempresas e as empresas de pequeno porte, e o art. 517 da LC 214/2025 implementa esse mandamento ao alterar a LC 123/06 para inserir a cobrança do IBS e da CBS nesse regime único, sem esgotar a disciplina constitucional, que também abrange o ICMS, o ISS e as contribuições da União.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T14:13:14+00:00"
  }
 ]

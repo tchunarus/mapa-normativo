@@ -459,5 +459,13 @@
   "diplomas": [
    "l8212"
   ]
+ },
+ {
+  "data": "2026-10-20T14:04:38+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1311/STJ: Trânsito em Julgado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1311&cod_tema_final=1311",
+  "p": "stj.tema.1311"
  }
 ]
