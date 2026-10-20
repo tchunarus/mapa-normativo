@@ -449,5 +449,15 @@
   "titulo": "Tema 1454/STJ: Em Julgamento",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1454&cod_tema_final=1454",
   "p": "stj.tema.1454"
+ },
+ {
+  "data": "2026-10-20T06:01:08+00:00",
+  "fonte": "DOU",
+  "tipo": "publicacao",
+  "titulo": "ATO DECLARATÓRIO EXECUTIVO CODAR Nº 84, DE 15 DE OUTUBRO DE 2026",
+  "url": "https://www.in.gov.br/web/dou/-/ato-declaratorio-executivo-codar-n-84-de-15-de-outubro-de-2026-739058702",
+  "diplomas": [
+   "l8212"
+  ]
  }
 ]

@@ -30697,5 +30697,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T01:09:50+00:00"
+ },
+ {
+  "de": "ctn.160",
+  "para": "floripa_ctm.244",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 160 do CTN autoriza a legislação tributária a conceder desconto pela antecipação do pagamento; o art. 244 do CTM de Florianópolis especializa essa autorização ao fixar, nos incisos I e II, os percentuais de desconto de vinte por cento para pagamento em cota única e de dez por cento para pagamento parcelado do imposto municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T06:07:40+00:00"
+ },
+ {
+  "de": "lcp214.404",
+  "para": "ec132.12",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 8º do art. 12 da Emenda Constitucional nº 132/2023 determina que a União complemente os recursos de que trata o § 1º do mesmo artigo em caso de insuficiência para a compensação prevista no § 2º; o art. 404 da LC 214/2025 complementa essa regra ao acrescentar que a complementação fique limitada aos montantes previstos no projeto de lei orçamentária anual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T06:07:40+00:00"
+ },
+ {
+  "de": "lcp214.409",
+  "para": "cf.153",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso VIII do art. 153 da Constituição Federal atribui à União competência para instituir, nos termos de lei complementar, imposto sobre produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente; o art. 409 da LC 214/2025 regulamenta esse dispositivo ao instituir efetivamente o Imposto Seletivo e definir, nos §§ 1º e 2º, os bens e serviços sujeitos à incidência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T06:07:40+00:00"
  }
 ]
