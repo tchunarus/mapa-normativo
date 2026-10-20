@@ -31427,5 +31427,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T14:13:14+00:00"
+ },
+ {
+  "de": "floripa_ctm.398",
+  "para": "ctn.127",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 398 do CTM de Florianópolis fixa regra especial de domicílio tributário para o IPTU, vinculando o domicílio ao endereço indicado pelo proprietário no caso de terreno sem edificação e ao local do imóvel no caso de prédio, enquanto o art. 127 do CTN estabelece a regra geral de domicílio tributário aplicável na falta de eleição pelo contribuinte. O dispositivo municipal especializa, para o IPTU, o critério geral do CTN, substituindo a residência habitual ou a sede por critério vinculado à localização do imóvel.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T15:13:40+00:00"
+ },
+ {
+  "de": "floripa_ctm.398",
+  "para": "ctn.127-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 127-A do CTN trata do Domicílio Tributário Eletrônico, destinado a intimações no processo tributário administrativo, enquanto o art. 398 do CTM de Florianópolis define o domicílio tributário físico do contribuinte do IPTU pelo endereço do imóvel. A semelhança de nomenclatura entre o domicílio tributário físico e o domicílio tributário eletrônico cria risco de se confundirem institutos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T15:13:40+00:00"
+ },
+ {
+  "de": "lcp214.518",
+  "para": "lcp123.13-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 518 da LC 214/2025 dá nova redação ao art. 13-A da LC 123/06, substituindo o teto de recolhimento do ICMS e do ISS pelo Simples Nacional por teto de recolhimento do IBS, mantido o valor de três milhões e seiscentos mil reais e ajustada a remissão aos parágrafos do art. 18 desta Lei Complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T15:13:40+00:00"
+ },
+ {
+  "de": "lcp214.518",
+  "para": "lcp123.18-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 518 da LC 214/2025 dá nova redação ao § 3º do art. 18-A da LC 123/06, para incluir o IBS e a CBS entre os valores fixos de recolhimento do Microempreendedor Individual, e ao parágrafo que atribui ao CGSN a competência para determinar as atividades autorizadas a optar por essa sistemática.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T15:13:40+00:00"
+ },
+ {
+  "de": "lcp214.518",
+  "para": "lcp123.31",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 518 da LC 214/2025 dá nova redação ao § 3º do art. 31 da LC 123/06, substituindo a competência do CGSN para regulamentar o impedimento de recolher o ICMS e o ISS pelo Simples Nacional por competência para regulamentar o impedimento de recolher o IBS, em razão da ultrapassagem do limite do art. 13-A.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T15:13:40+00:00"
+ },
+ {
+  "de": "lcp214.518",
+  "para": "lcp123.32",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 518 da LC 214/2025 dá nova redação ao § 3º do art. 32 da LC 123/06, substituindo a referência ao ICMS e ao ISS pela referência ao IBS entre os tributos cuja sujeição às normas gerais de tributação se estende à empresa impedida de recolhê-los pelo Simples Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T15:13:40+00:00"
+ },
+ {
+  "de": "lcp214.534",
+  "para": "lsa.299",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 534 da LC 214/2025 ressalva, na nova redação do art. 17 da Lei 14.789/23, os incentivos fiscais da Sudene e da Sudam, institutos também referidos pelo art. 299 da LSA, que mantém as disposições sobre incentivos fiscais da Sudene e da Sudam aplicáveis às sociedades por ações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T15:13:40+00:00"
+ },
+ {
+  "de": "lcp214.534",
+  "para": "d9580.628",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 534 da LC 214/2025 ressalva, na nova redação do art. 17 da Lei 14.789/23, os incentivos fiscais federais relativos ao IRPJ concedidos às áreas de atuação da Sudene, regime de que o art. 628 do RIR/2018 é expressão concreta ao prever redução de setenta e cinco por cento do imposto sobre a renda para empreendimentos sediados nessas áreas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T15:13:40+00:00"
+ },
+ {
+  "de": "lcp214.534",
+  "para": "d9580.634",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 534 da LC 214/2025 ressalva, na nova redação do art. 17 da Lei 14.789/23, os incentivos fiscais federais relativos ao IRPJ concedidos às áreas de atuação da Sudam, regime de que o art. 634 do RIR/2018 é expressão concreta ao prever redução de setenta e cinco por cento do imposto sobre a renda para empreendimentos sediados nessas áreas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T15:13:40+00:00"
+ },
+ {
+  "de": "lcp214.543",
+  "para": "lcp87.31-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 543, III, da LC 214/2025 revoga a integralidade da LC 87/96 a partir de 1º de janeiro de 2033, atingindo também o art. 31-A, que trata da redução escalonada das alíquotas do ICMS entre 2029 e 2032.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T15:13:40+00:00"
+ },
+ {
+  "de": "lcp214.543",
+  "para": "lcp116.8-B",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 543, IV, da LC 214/2025 revoga a integralidade da LC 116/03 a partir de 1º de janeiro de 2033, atingindo também o art. 8º-B, que trata da redução escalonada das alíquotas do ISS entre 2029 e 2032.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T15:13:40+00:00"
  }
 ]
