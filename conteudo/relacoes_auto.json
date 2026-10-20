@@ -31537,5 +31537,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T15:13:40+00:00"
+ },
+ {
+  "de": "l9430.26",
+  "para": "lcp123.32",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 32 da LC 123/06 faculta à empresa excluída do Simples Nacional optar pelo recolhimento do imposto de renda e da CSLL pelo lucro presumido, lucro real trimestral ou anual, e o art. 26 da Lei 9.430/96 complementa essa mesma opção ao fixar que ela será aplicada a todo o período de atividade do ano-calendário e ao definir o momento em que deve ser manifestada mediante o pagamento da quota correspondente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T16:10:42+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "lcp214.89",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 174 da LC 227/2026 altera o § 4º do art. 89 da LC 214/2025 para dispensar o pagamento do IBS e da CBS na hipótese de importação temporária de aeronaves, seus componentes e motores, mediante arrendamento mercantil por contribuinte do regime regular, ampliando o alcance da dispensa que antes abrangia apenas a aeronave.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T16:10:42+00:00"
+ },
+ {
+  "de": "lcp214.480",
+  "para": "lcp227.1",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 480 da LC 214/2025 instituiu o CGIBS em caráter provisório, até 31 de dezembro de 2025, enquanto o art. 1º da LC 227/2026 institui o mesmo órgão em caráter permanente, com a mesma natureza, sede e autonomia técnica e administrativa, o que gera risco de se confundir qual norma é o fundamento legal vigente do comitê.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T16:10:42+00:00"
  }
 ]
