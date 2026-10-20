@@ -32467,5 +32467,195 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "cpc.596",
+  "para": "cc.1320",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 596 do CPC disciplina o procedimento judicial pelo qual se concretiza a ação de divisão, ouvindo as partes sobre o cálculo e o plano da divisão para que o juiz delibere a partilha, dando efetividade processual ao direito do condômino de exigir a divisão da coisa comum a qualquer tempo, assegurado pelo art. 1.320 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "cpc.570",
+  "para": "cc.1320",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 570 do CPC autoriza a cumulação da ação demarcatória com a divisória da coisa comum, regulando o processamento conjunto das duas ações quando a demarcação for necessária à efetivação do direito de divisão do condômino previsto no art. 1.320 do CC, sem se confundir com a norma material.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "cc.1320",
+  "para": "cpc.649",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 649 do CPC trata da divisão cômoda de bens no cumprimento de sentença de partilha hereditária, instituto distinto da divisão da coisa comum entre condôminos regulada pelo art. 1.320 do CC, havendo risco de confusão pela semelhança terminológica entre as duas formas de divisão de bens.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "floripa_ctm.419",
+  "para": "cc.1320",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 419 do CTM de Florianópolis atribui a responsabilidade pela Contribuição de Melhoria a um só condômino no condomínio indiviso, pressupondo o regime de indivisão que os §§ 1º e 2º do art. 1.320 do CC autorizam entre condôminos por prazo determinado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "l11101.13",
+  "para": "d70235.15",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 13 da Lei 11.101/05 trata da impugnação de crédito no processo de falência ou recuperação judicial, dirigida ao juiz, enquanto o art. 15 do Decreto 70.235/72 disciplina a impugnação administrativa ao lançamento tributário federal, no prazo de vinte dias úteis perante o órgão preparador, havendo risco de confusão entre institutos homônimos de naturezas e ritos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "lcp227.67",
+  "para": "d70235.15",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 67 da LC 227/2026 institui a impugnação como ato de instauração do contencioso administrativo tributário do IBS e da CBS, no prazo de vinte dias contado da intimação do lançamento de ofício, paralelo ao prazo de vinte dias úteis do art. 15 do Decreto 70.235/72 para a impugnação dos tributos federais regidos pelo PAF, podendo gerar confusão quanto ao regime aplicável a cada tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "lcp227.62",
+  "para": "d70235.5-B",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 62 da LC 227/2026 estabelece, para o contencioso administrativo tributário do IBS e da CBS, contagem de prazos em dias úteis com suspensão entre 20 de dezembro e 20 de janeiro, regime paralelo e de redação semelhante ao do Decreto 70.235/72, podendo gerar confusão sobre qual regime de contagem rege o prazo residual do art. 5º-B deste último.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "d70235.7",
+  "para": "lcp214.328",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os arts. 7º do Decreto 70.235/72 e 328 da LC 214/2025 definem, em termos quase idênticos, os marcos de início do procedimento fiscal e seus efeitos sobre a espontaneidade do sujeito passivo, mas regem tributos distintos, o primeiro os tributos federais sujeitos ao PAF e o segundo o IBS e a CBS, havendo risco de se invocar o dispositivo equivocado conforme o tributo fiscalizado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "d9580.895",
+  "para": "d70235.7",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 895 do RIR/2018 determina que a declaração retificadora não produz efeitos quando apresentada após o início do procedimento fiscal, com expressa remissão ao art. 7º, caput, inciso I, e § 1º, do Decreto 70.235/72, detalhando para o imposto de renda o efeito da perda de espontaneidade decorrente do início do procedimento fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "l9430.47",
+  "para": "d70235.7",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 47 da Lei 9.430/96 permite que o sujeito passivo pague, em até vinte dias após o recebimento do termo de início de fiscalização, os tributos já declarados com os acréscimos próprios do procedimento espontâneo, mitigando nesse prazo a regra do § 1º do art. 7º do Decreto 70.235/72, segundo a qual o início do procedimento fiscal exclui a espontaneidade do sujeito passivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "lcp227.168",
+  "para": "lcp123.21",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 168 da LC 227/2026 altera o art. 22 da LC 123/06 para incluir o Comitê Gestor do IBS entre os destinatários do repasse dos valores arrecadados pelo documento único de arrecadação do Simples Nacional, complementando o regime de pagamento unificado estabelecido pelo art. 21 da mesma Lei Complementar ao disciplinar a destinação dos valores nele recolhidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "lcp123.21",
+  "para": "lcp116.3",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 21 da LC 123/06 condiciona a retenção na fonte do ISS das optantes pelo Simples Nacional à observância do art. 3º da LC 116/03, que define o Município competente para a cobrança do imposto, de modo que a retenção só é válida se praticada em conformidade com o critério de incidência espacial ali estabelecido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "lcp123.87",
+  "para": "lcp227.111",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 87 da LC 123/06 altera o § 1º do art. 3º da LC 63/90 para definir o valor adicionado que baseia o repasse do ICMS aos Municípios, enquanto o art. 111 da LC 227/2026 define a Receita-Base que baseará o repasse do IBS aos entes federativos, institutos funcionalmente equivalentes mas com metodologias de cálculo distintas, podendo gerar confusão entre os dois regimes de distribuição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "sc_ricms.10-C",
+  "para": "lcp123.87",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 10-C do RICMS-SC disciplina, na remessa ou transferência de mercadorias para exportação por estabelecimento situado em outro Estado, o critério de apuração do valor de saída a considerar no cálculo do valor adicionado do Município catarinense, operacionalizando no âmbito estadual o conceito de valor adicionado definido pelo § 1º do art. 3º da LC 63/90 na redação dada pelo art. 87 da LC 123/06.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "lcp214.3",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 3º da LC 214/2025 define os conceitos de operações com bens e serviços, fornecimento, fornecedor, adquirente e destinatário, regulamentando a norma de incidência do IBS prevista no art. 156-A, § 1º, I, da CF, que estabelece a incidência do imposto sobre operações com bens materiais ou imateriais, inclusive direitos, ou com serviços.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "lcp214.3",
+  "para": "cc.83",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 3º da LC 214/2025 equipara a bens materiais as energias com valor econômico para fins de incidência do IBS e da CBS, especializando para o direito tributário o mesmo critério adotado pelo inciso I do art. 83 do CC, que classifica as energias com valor econômico como bens móveis para os efeitos civis em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "lcp227.323-M",
+  "para": "lcp214.325",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 323-M da LC 227/2026 dá nova redação ao § 4º do art. 325 da LC 214/2025, mantendo a disciplina do ambiente compartilhado de fiscalização do IBS e da CBS entre a RFB e as administrações tributárias dos Estados, do Distrito Federal e dos Municípios, inclusive as vedações ao compartilhamento de informações protegidas por sigilo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "lcp214.325",
+  "para": "lcp105.6",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "A alínea c do inciso III do § 4º do art. 325 da LC 214/2025 veda, no ambiente conjunto de fiscalização do IBS e da CBS, o compartilhamento das informações obtidas com fundamento no art. 6º da LC 105/01, que disciplina o acesso de autoridades fiscais a dados de instituições financeiras mediante processo administrativo instaurado ou procedimento fiscal em curso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "lcp214.325",
+  "para": "ctn.199-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 325 da LC 214/2025 implementa, especificamente para a fiscalização do IBS e da CBS, o compartilhamento de atividades de fiscalização entre a RFB e as administrações tributárias dos Estados, do Distrito Federal e dos Municípios, dando concretude à autorização genérica de cooperação interfederativa mediante convênio prevista no art. 199-A do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T23:16:21+00:00"
  }
 ]
