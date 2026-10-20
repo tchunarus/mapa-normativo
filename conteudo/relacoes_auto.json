@@ -31567,5 +31567,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T16:10:42+00:00"
+ },
+ {
+  "de": "lcp214.480",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 480 da LC 214/2025 instituiu o Comitê Gestor do Imposto sobre Bens e Serviços como entidade pública dotada de independência técnica, administrativa, orçamentária e financeira, concretizando a determinação do § 1º do art. 156-B da Constituição Federal, que atribui ao Comitê Gestor essa mesma natureza jurídica e independência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.107",
+  "para": "lcp214.124",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 107 da LC 227/2026 determina a dedução, da receita inicial de cada ente federativo, do valor destinado à devolução geral do IBS às pessoas físicas, nos termos da LC 214/2025; o art. 124 dessa lei complementa o dispositivo ao definir exatamente o conceito de devolução geral, distinguindo-o da devolução específica prevista em seu inciso II.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.107",
+  "para": "adct.131",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 131 do ADCT determina que a distribuição do produto da arrecadação do IBS observe critério de lei complementar que compute a variação da alíquota fixada pelo ente em relação à alíquota de referência; o inciso II do art. 107 da LC 227/2026 regulamenta esse critério ao estabelecer a dedução ou o acréscimo decorrente da fixação de alíquota diferente da alíquota de referência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.107",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso VIII do § 5º do art. 156-A da Constituição Federal atribui à lei complementar a disciplina das hipóteses de devolução do imposto a pessoas físicas; o inciso I do art. 107 da LC 227/2026 regulamenta essa devolução ao determinar que o valor correspondente seja deduzido da receita inicial de cada ente federativo no cálculo de sua participação no produto da arrecadação do IBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.109",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "A alínea b do inciso I do § 5º do art. 156-A da Constituição Federal atribui à lei complementar disciplinar o tratamento das operações em que o imposto não seja recolhido tempestivamente; o parágrafo único do art. 109 da LC 227/2026 regulamenta essa previsão ao excluir as multas punitivas e os respectivos juros de mora da retenção prevista no caput do mesmo artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.109",
+  "para": "ctn.113",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 109 da LC 227/2026 menciona o descumprimento de obrigação tributária principal ou acessória para delimitar as multas punitivas excluídas da retenção, adotando a distinção fixada pelo art. 113 do CTN entre obrigação principal e obrigação acessória, norma geral à qual o dispositivo se reporta sem alterá-la.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.11",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso VII do § 2º do art. 156-B da Constituição Federal atribui à lei complementar e ao regimento interno a definição da estrutura e da gestão do Comitê Gestor; o art. 11 da LC 227/2026 regulamenta essa previsão ao atribuir ao Conselho Superior do CGIBS as competências de eleger os titulares da Diretoria Executiva, da Corregedoria e da Auditoria Interna, de aprovar o regimento interno e de deliberar sobre a estrutura do órgão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.11",
+  "para": "cf.37",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso VII do art. 11 da LC 227/2026 condiciona a aprovação do plano de cargos e salários dos empregados públicos do CGIBS à observância do inciso XI do caput do art. 37 da Constituição Federal, que fixa o teto remuneratório do funcionalismo público, de modo que a competência do Conselho Superior é exercida nos limites dessa norma geral de direito administrativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.11",
+  "para": "adct.130",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 10 do art. 130 do ADCT determina que o Comitê Gestor do Imposto sobre Bens e Serviços forneça ao Tribunal de Contas da União os subsídios necessários ao cálculo das alíquotas de referência; o inciso X do art. 11 da LC 227/2026 regulamenta esse dever ao atribuir ao Conselho Superior do CGIBS a competência para aprovar a metodologia e o cálculo da alíquota de referência antes do envio ao Tribunal de Contas da União.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.122",
+  "para": "ec132.5",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 82 do ADCT, na redação dada pelo art. 5º da Emenda Constitucional nº 132/2023, autoriza destinar aos Fundos de Combate à Pobreza percentual do imposto de que trata o art. 156-A da Constituição Federal, nos limites definidos em lei complementar; o art. 122 da LC 227/2026 regulamenta essa destinação ao disciplinar a dedução, da receita de IBS de cada Estado, da parcela devida ao respectivo Fundo de Combate à Pobreza.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.128",
+  "para": "cf.212-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 212-A da Constituição Federal fixa em vinte por cento a parcela do IBS destinada ao Fundeb; o inciso I do § 1º do art. 128 da LC 227/2026 regulamenta essa vinculação ao determinar que o percentual do Fundeb seja deduzido do montante do IBS destinado a cada Município antes da transferência pelo CGIBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.129",
+  "para": "adct.82",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 82 do ADCT prevê, no § 1º, adicional de até dois pontos percentuais na alíquota do ICMS e, no § 2º, adicional de até meio ponto percentual na alíquota do ISS para financiamento dos Fundos de Combate à Pobreza; o art. 129 da LC 227/2026 regulamenta a transição desse financiamento para o IBS, ao determinar que a relação percentual apurada com base nesses adicionais, no período de 2019 a 2026, sirva de parâmetro e limite para o percentual do IBS destinado aos mesmos Fundos a partir de 2033.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.129",
+  "para": "ec132.5",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 82 do ADCT, na redação dada pelo art. 5º da Emenda Constitucional nº 132/2023, autoriza destinar aos Fundos de Combate à Pobreza percentual do imposto de que trata o art. 156-A da Constituição Federal nos limites definidos em lei complementar; o caput do art. 129 da LC 227/2026 regulamenta esse limite ao fixar o teto de um por cento da receita do IBS, com vigência a partir de 1º de janeiro de 2033.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.146",
+  "para": "cf.155",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso I do caput do art. 155 da Constituição Federal atribui aos Estados e ao Distrito Federal a competência para instituir o imposto sobre transmissão causa mortis e doação de quaisquer bens ou direitos; o art. 146 da LC 227/2026 regulamenta essa competência ao abrir o Livro da lei complementar dedicado a disciplinar nacionalmente o ITCMD.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "lcp227.146",
+  "para": "lcp214.4",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso I do § 5º do art. 4º da LC 214/2025 preserva a autonomia do imposto sobre transmissão causa mortis e doação de que trata o inciso I do caput do art. 155 da Constituição Federal, ao determinar que a incidência do IBS e da CBS não altera sua base de cálculo; o art. 146 da LC 227/2026 complementa essa delimitação ao abrir, na mesma reforma tributária, o Livro que disciplina nacionalmente esse mesmo imposto estadual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T17:14:42+00:00"
  }
 ]
