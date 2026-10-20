@@ -30957,5 +30957,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T10:12:41+00:00"
+ },
+ {
+  "de": "lcp116.8-B",
+  "para": "lcp214.508",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 508 da LC 214/2025 é o dispositivo que deu ao art. 8º-B da LC 116/2003 a redação hoje vigente, ao incluir na lei do ISS o cronograma de redução progressiva de alíquotas e de benefícios fiscais entre 2029 e 2032.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T11:14:38+00:00"
+ },
+ {
+  "de": "lcp116.8-B",
+  "para": "lcp87.31-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 8º-B da LC 116/2003 e o art. 31-A da LC 87/1996 reproduzem, com redação quase idêntica, o mesmo cronograma de redução progressiva de alíquotas e de benefícios fiscais entre 2029 e 2032, incluídos pela mesma LC 214/2025, podendo ser confundidos apesar de regularem tributos distintos: o primeiro o ISS municipal, e o segundo o ICMS estadual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T11:14:38+00:00"
+ },
+ {
+  "de": "lcp214.327-A",
+  "para": "lcp227.323-M",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 323-M da LC 227/2026 é o dispositivo, dentro do bloco de alterações promovido por essa lei complementar, que inseriu o art. 327-A na LC 214/2025, atribuindo à Suframa a fiscalização, na Zona Franca de Manaus e nas Áreas de Livre Comércio, do cumprimento do processo produtivo básico e dos demais compromissos dos projetos econômicos aprovados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T11:14:38+00:00"
+ },
+ {
+  "de": "lcp214.41",
+  "para": "lcp123.16",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 41 da LC 214/2025 remete expressamente à LC 123/2006 a disciplina procedimental para o exercício, pelo optante do Simples Nacional, da opção de apurar o IBS e a CBS pelo regime regular prevista no § 3º do mesmo artigo, e o art. 16 da LC 123/2006 é o dispositivo geral que rege a forma, o prazo e a irretratabilidade da opção pelo Simples Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T11:14:38+00:00"
+ },
+ {
+  "de": "lcp214.41",
+  "para": "cf.146",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 41 da LC 214/2025, ao permitir que o optante do Simples Nacional, regime único de que trata o § 1º do art. 146 da Constituição Federal, exerça a opção de apurar o IBS e a CBS pelo regime regular, implementa a faculdade do § 2º do art. 146 da Constituição Federal, segundo a qual o optante pelo regime único pode apurar esses tributos nos termos próprios de cada um.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T11:14:38+00:00"
+ },
+ {
+  "de": "lcp214.441",
+  "para": "adct.92-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 441 da LC 214/2025 mantém, para o IBS e a CBS, as exclusões historicamente aplicadas ao regime favorecido da Zona Franca de Manaus (armas, fumo, bebidas alcoólicas, automóveis, petróleo e seus derivados e produtos de perfumaria), dando cumprimento ao caput do art. 92-B do ADCT, que exige a manutenção do diferencial competitivo da Zona Franca de Manaus nos níveis estabelecidos pela legislação dos tributos extintos pela reforma tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T11:14:38+00:00"
+ },
+ {
+  "de": "lcp214.445",
+  "para": "lcp123.12",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 445 da LC 214/2025 remete expressamente ao art. 12 da LC 123/2006 ao admitir, como condição alternativa para a redução a zero das alíquotas do IBS e da CBS nas operações destinadas à Zona Franca de Manaus, que o contribuinte seja optante pelo Simples Nacional instituído por aquele dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T11:14:38+00:00"
+ },
+ {
+  "de": "lcp214.445",
+  "para": "adct.92-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 445 da LC 214/2025 reduz a zero as alíquotas do IBS e da CBS nas operações que destinem bens industrializados à Zona Franca de Manaus, implementando o mecanismo exigido pelo caput do art. 92-B do ADCT para manter o diferencial competitivo assegurado à Zona Franca de Manaus na instituição dos tributos previstos nos arts. 156-A e 195, V, da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T11:14:38+00:00"
  }
 ]
