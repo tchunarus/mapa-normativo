@@ -30467,5 +30467,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-19T23:10:21+00:00"
+ },
+ {
+  "de": "cpc.1044",
+  "para": "lcp227.79",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.044 do CPC disciplina os embargos de divergência no Superior Tribunal de Justiça, cujo julgamento interrompe o prazo para recurso extraordinário, enquanto o art. 79 da LC 227/2026 cria o recurso de uniformização para dirimir divergência entre órgãos julgadores do contencioso administrativo do IBS, de modo que os dois institutos buscam uniformizar o entendimento diante de decisões divergentes, mas em regimes processuais distintos, um judicial e outro administrativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T00:11:20+00:00"
+ },
+ {
+  "de": "cpc.1044",
+  "para": "cpp.609",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.044 do CPC regula os embargos de divergência cabíveis no Superior Tribunal de Justiça para superar decisões divergentes entre órgãos fracionários, e o art. 609 do CPP prevê os embargos infringentes e de nulidade diante de decisão não unânime desfavorável ao réu em segunda instância, de modo que ambos os institutos nascem da falta de unanimidade de julgamento, mas possuem pressupostos, órgãos competentes e efeitos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T00:11:20+00:00"
+ },
+ {
+  "de": "d70235.10",
+  "para": "ctn.208-B",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 10 do Decreto 70.235/1972 e o art. 208-B do CTN exigem, em redação quase idêntica, que o auto de infração contenha a qualificação do autuado, a descrição do fato, o dispositivo legal infringido e a intimação para cumprimento ou impugnação, de modo que há risco real de se invocar a norma federal específica do processo administrativo fiscal quando a exigência decorre, em caráter geral, do próprio Código Tributário Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T00:11:20+00:00"
+ },
+ {
+  "de": "floripa_ctm.130",
+  "para": "ctn.208-B",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 130 do CTM de Florianópolis reproduz, no âmbito municipal, os mesmos requisitos do auto de infração estabelecidos de forma geral pelo art. 208-B do CTN, como local, data, descrição do fato e indicação do dispositivo violado, de modo que a norma local pode ser confundida com a regra nacional, ainda que acrescente exigências próprias, como a via manuscrita e a presença de testemunhas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T00:11:20+00:00"
+ },
+ {
+  "de": "lcp214.336",
+  "para": "ctn.195",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 336 da LC 214/2025 manda conservar os comprovantes de escrituração até a decadência do direito de constituir o crédito tributário, enquanto o parágrafo único do art. 195 do CTN manda conservar os livros e comprovantes até a prescrição dos créditos tributários, de modo que as duas normas tratam do mesmo dever de guarda documental, mas fixam termos finais diferentes, decadência e prescrição, com risco de confusão entre os prazos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T00:11:20+00:00"
+ },
+ {
+  "de": "lcp214.341-A",
+  "para": "lcp227.341-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 341-A da LC 214/2025 e o art. 341-A da LC 227/2026 definem, com redação idêntica, a infração tributária como toda ação ou omissão, ainda que involuntária, que importe inobservância de obrigação tributária principal ou acessória, de modo que há duplicidade literal entre as duas leis complementares que regem o IBS e a CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T00:11:20+00:00"
+ },
+ {
+  "de": "lcp214.341-F",
+  "para": "lcp227.341-F",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 341-F da LC 214/2025 e o art. 341-F da LC 227/2026 fixam, em redação idêntica, a multa de 75% nos casos de lançamento de ofício e as majorações de 100% e 150% nos casos de sonegação, fraude, simulação ou conluio, de modo que há duplicidade literal da penalidade entre as duas leis complementares do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T00:11:20+00:00"
+ },
+ {
+  "de": "lcp214.341-F",
+  "para": "floripa_ctm.445",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 341-F da LC 214/2025 define fraude, para fins da multa qualificada de lançamento de ofício, como toda ação ou omissão dolosa tendente a impedir ou retardar o fato gerador da obrigação tributária principal, ou a excluir ou modificar suas características essenciais, para reduzir o tributo devido ou adiar o pagamento, em termos quase idênticos ao art. 445 do CTM de Florianópolis, de modo que o mesmo conceito histórico de fraude tributária se repete, com redação muito semelhante, entre o regime nacional do IBS e a legislação municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T00:11:20+00:00"
+ },
+ {
+  "de": "lcp214.341-F",
+  "para": "sc_icms_lei.93",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 341-F da LC 214/2025 conceitua fraude, para a multa qualificada do lançamento de ofício, como ação ou omissão dolosa que reduz o montante do tributo ou adia o seu pagamento mediante alteração do fato gerador, em termos muito próximos ao art. 93 da Lei 10.297/1996 de Santa Catarina, de modo que a mesma definição clássica de fraude tributária aparece, com redação semelhante, tanto no regime do IBS quanto na legislação estadual do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T00:11:20+00:00"
+ },
+ {
+  "de": "lcp214.341-H",
+  "para": "lcp227.341-H",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 341-H da LC 214/2025 e o art. 341-H da LC 227/2026 preveem, com redação idêntica, as reduções de 50%, 40%, 30% e 20% da multa de lançamento de ofício conforme o momento do pagamento ou do parcelamento do crédito tributário, de modo que há duplicidade literal do mesmo benefício entre as duas leis complementares que regem o IBS e a CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T00:11:20+00:00"
+ },
+ {
+  "de": "lcp214.341-H",
+  "para": "d9580.1002",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 341-H da LC 214/2025 reduz a multa de lançamento de ofício do IBS e da CBS em percentuais escalonados conforme o pagamento ou o parcelamento ocorra antes ou depois do prazo de impugnação administrativa, e o art. 1.002 do RIR/2018 reduz a multa de lançamento de ofício do imposto sobre a renda em percentuais semelhantes conforme o pagamento ou o parcelamento ocorra dentro de 30 dias da notificação, de modo que os dois regimes adotam o mesmo instituto de redução premial da multa, mas com marcos temporais diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T00:11:20+00:00"
+ },
+ {
+  "de": "lcp214.341-H",
+  "para": "sc_ricms.67",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 341-H da LC 214/2025 escalona a redução da multa de lançamento de ofício do IBS e da CBS conforme o momento do pagamento ou do parcelamento, e o art. 67 do RICMS de Santa Catarina escalona de modo semelhante a redução da multa do ICMS parcelado conforme a parcela em que ocorre o recolhimento, de modo que o mesmo instituto de redução gradual da penalidade tributária aparece, com percentuais e critérios próprios, no regime federal do IBS e no regime estadual do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T00:11:20+00:00"
+ },
+ {
+  "de": "lcp214.341-H",
+  "para": "floripa_ctm.71",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 341-H da LC 214/2025 reduz a multa de lançamento de ofício do IBS e da CBS em percentuais que chegam a 50% conforme o momento do pagamento, e o art. 71 do CTM de Florianópolis prevê redução fixa de 50% da multa quando o crédito tributário municipal é pago dentro do prazo de 30 dias, de modo que o mesmo instituto de redução premial da multa por pagamento tempestivo aparece, de forma mais simples, na legislação tributária municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T00:11:20+00:00"
  }
 ]
