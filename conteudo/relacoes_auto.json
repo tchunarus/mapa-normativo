@@ -31037,5 +31037,215 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T11:14:38+00:00"
+ },
+ {
+  "de": "adct.92-B",
+  "para": "lcp214.457",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 92-B, § 1º, do ADCT autoriza o uso de instrumentos fiscais, econômicos ou financeiros para manter o diferencial competitivo da Zona Franca de Manaus, e o art. 457 da LC 214/2025 institui, com expressa remissão ao caput do art. 92-B, a contribuição de contrapartida que opera como um desses instrumentos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "adct.92-B",
+  "para": "lcp214.446",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 92-B, caput, do ADCT determina que a legislação do IBS estabeleça mecanismos para manter o diferencial competitivo da Zona Franca de Manaus, e o art. 446 da LC 214/2025 concretiza esse mandado ao fixar a alíquota reduzida de 70% para o IBS incidente na entrada de bens na Zona Franca de Manaus.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "adct.92-B",
+  "para": "lcp214.443",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 92-B, caput, do ADCT exige que a legislação instituidora do IBS e da CBS preserve o diferencial competitivo da Zona Franca de Manaus, e o art. 443 da LC 214/2025 implementa esse mandado ao suspender a incidência do IBS e da CBS na importação de bens por indústria incentivada da Zona Franca de Manaus.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "adct.92-B",
+  "para": "lcp214.464",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 92-B, caput, do ADCT estende às áreas de livre comércio existentes em 31 de maio de 2023 a garantia do diferencial competitivo, e o art. 464 da LC 214/2025 aplica a essas áreas a mesma redução de alíquota do IBS prevista para a Zona Franca de Manaus no art. 446 da mesma lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp123.16",
+  "para": "d9580.1037",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 16, § 1º-A a § 1º-D, da LC 123/2006 cria sistema próprio de comunicação eletrônica para notificar o optante do Simples Nacional sobre indeferimento de opção, exclusão do regime e ações fiscais, especializando, para esses atos, a regra geral de intimação eletrônica do art. 1.037, III, do RIR/2018.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp123.16",
+  "para": "d70235.23",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O regime de comunicação eletrônica criado pelo art. 16, § 1º-A a § 1º-D, da LC 123/2006, com contagem do prazo pela data da consulta eletrônica, especializa, para o optante do Simples Nacional, a regra geral de intimação por meio eletrônico prevista no art. 23, III, do Decreto nº 70.235/72.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp123.16",
+  "para": "clt.628-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O sistema de comunicação eletrônica do art. 16, § 1º-A e § 1º-B, da LC 123/2006, que dispensa publicação no Diário Oficial e envio postal e considera pessoal a comunicação, tem estrutura quase idêntica à do Domicílio Eletrônico Trabalhista do art. 628-A da CLT, o que gera risco de confusão entre os dois regimes, aplicáveis a ramos distintos do direito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp123.16",
+  "para": "lcp214.333",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O sistema de comunicação eletrônica próprio do Simples Nacional, previsto no art. 16, § 1º-A, da LC 123/2006, pode ser confundido com o Domicílio Tributário Eletrônico instituído pelo art. 333 da LC 214/2025 para a RFB e o Comitê Gestor do IBS, por tratarem de sistemas eletrônicos de notificação tributária distintos e de uso potencialmente simultâneo pelo mesmo contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp214.479",
+  "para": "ec132.7",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 477 da LC 214/2025, ao qual o art. 479 se refere, regulamenta a compensação pela substituição da arrecadação do IPI pela do Imposto Seletivo determinada pelo art. 7º da EC 132/2023, e o art. 479 estende a essa compensação os mesmos critérios, prazos e garantias do art. 159, I e II, da Constituição Federal, exatamente como prevê o art. 7º, § 1º, II, da EC 132/2023.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp214.479",
+  "para": "cf.198",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 479, § 1º, IV, da LC 214/2025 ressalva da vedação de vinculação os percentuais mínimos para ações e serviços de saúde previstos no art. 198, § 2º, da Constituição Federal, preservando essa vinculação mesmo em relação aos recursos da compensação instituída pela lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp214.479",
+  "para": "cf.212",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 479, § 1º, V, da LC 214/2025 ressalva da vedação de vinculação os percentuais mínimos de manutenção e desenvolvimento do ensino de que trata o art. 212 da Constituição Federal, preservando essa vinculação em relação aos recursos da compensação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp214.479",
+  "para": "cf.212-A",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 479, § 1º, VI, da LC 214/2025 ressalva da vedação de vinculação a parcela destinada à manutenção e ao desenvolvimento do ensino básico e à remuneração dos profissionais da educação de que trata o art. 212-A da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp214.500",
+  "para": "ec132.20",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 20 da EC 132/2023 mantém a cobrança da contribuição ao Programa de Formação do Patrimônio do Servidor Público na forma da Lei nº 9.715/98 até que lei disponha sobre a matéria, e o art. 500 da LC 214/2025, ao alterar a Lei nº 8.019/90 para destinar a arrecadação da CBS ao FAT e ao BNDES, é essa lei superveniente que regula a nova destinação dos recursos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp214.508",
+  "para": "adct.128",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 128 do ADCT determina, para o ISS e o ICMS, a redução das alíquotas nas proporções de 9/10, 8/10, 7/10 e 6/10 entre 2029 e 2032, com redução proporcional dos benefícios fiscais, e o art. 8º-B acrescentado à LC 116/2003 pelo art. 508 da LC 214/2025 detalha essa mesma redução para o ISS, expressando-a em percentuais de 10%, 20%, 30% e 40%, com idêntica regra de redução proporcional dos benefícios no § 1º e no § 2º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp214.508",
+  "para": "lcp87.31-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 8º-B acrescentado à LC 116/2003 pelo art. 508 da LC 214/2025 reproduz, para o ISS, a mesma redução escalonada de alíquotas e de benefícios fiscais prevista para o ICMS no art. 31-A da LC 87/96, acrescentado por idêntico dispositivo da reforma tributária, ambos regulamentando a redução geral determinada pelo art. 128 do ADCT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp214.509",
+  "para": "l9430.64",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 34 da Lei nº 10.833/03, na redação dada pelo art. 509 da LC 214/2025, obriga as entidades da administração pública federal nele listadas a efetuar as retenções do imposto de renda e da CSLL de que trata o art. 64 da Lei nº 9.430/96, estendendo a essas entidades a mesma sistemática de retenção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp214.516",
+  "para": "lcp123.2",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 516 da LC 214/2025 altera o art. 2º, I e III, da LC 123/2006 para renomear o comitê de registro de empresas como CGSIM e redefinir a composição do CGSN, além de acrescentar os parágrafos sobre quórum e indicação de seus membros.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp214.516",
+  "para": "lcp123.12",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 516 da LC 214/2025 acrescenta ao art. 12 da LC 123/2006 o § 2º e o § 3º, que explicitam os princípios do Simples Nacional e o exercício integrado da administração tributária pelos entes federativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp214.516",
+  "para": "lcp123.26",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 516 da LC 214/2025 altera o art. 26, II e § 3º, da LC 123/2006 para incluir a nova declaração do MEI prevista no art. 25-B entre as obrigações acessórias cujos documentos devem ser mantidos em boa guarda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp214.516",
+  "para": "lcp123.38-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 516 da LC 214/2025 altera o art. 38-A, I e os parágrafos primeiro, terceiro, quinto e sexto, da LC 123/2006, que disciplina a multa por atraso ou ausência na entrega da declaração do Simples Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "lcp214.516",
+  "para": "lcp123.41",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 516 da LC 214/2025 acrescenta o § 4º ao art. 41 da LC 123/2006 para estender aos tributos não recolhidos informados nas declarações dos arts. 25 e 25-B o mesmo regime de cobrança do artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T12:19:23+00:00"
  }
 ]
