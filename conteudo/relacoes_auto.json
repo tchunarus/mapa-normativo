@@ -31717,5 +31717,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T17:14:42+00:00"
+ },
+ {
+  "de": "ec132.5",
+  "para": "adct.82",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 82 do ADCT, em sua redação vigente, prevê adicional de até dois pontos percentuais na alíquota do ICMS e de até meio ponto percentual na alíquota do ISS para financiar os Fundos de Combate à Pobreza; o art. 5º da Emenda Constitucional 132/2023 dá nova redação aos §§ 1º e 2º do art. 82, substituindo esses adicionais por percentual do imposto de que trata o art. 156-A da Constituição Federal e dos recursos distribuídos nos termos dos arts. 131 e 132 do ADCT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "lcp227.115",
+  "para": "adct.82",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 82 do ADCT autoriza adicional de até dois pontos percentuais na alíquota do ICMS sobre produtos e serviços supérfluos para financiar os Fundos Estaduais e Distrital de Combate à Pobreza; o inciso II do § 1º do art. 115 da LC 227/2026 regulamenta a apuração da receita média de referência ao incluir, no cálculo da arrecadação do ICMS de cada ente, a receita obtida na forma do art. 82 do ADCT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "lcp227.118",
+  "para": "adct.82",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 82 do ADCT autoriza adicional na alíquota do ICMS para financiar o Fundo de Combate à Pobreza do Estado; o § 2º do art. 118 da LC 227/2026 regulamenta a transição desse financiamento para o IBS ao determinar que, do montante apurado como Receita-Base do Estado, seja deduzida a parcela destinada ao Fundo de Combate à Pobreza do Estado, no percentual previsto na respectiva legislação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "ctn.18-A",
+  "para": "adct.82",
+  "tipo": "excepciona",
+  "grau": "contato",
+  "porque": "O § 1º do art. 82 do ADCT autoriza adicional de até dois pontos percentuais na alíquota do ICMS sobre produtos e serviços supérfluos, para financiar os Fundos de Combate à Pobreza; o art. 18-A do CTN excepciona dessa categoria os combustíveis, o gás natural, a energia elétrica, as comunicações e o transporte coletivo, declarando-os bens e serviços essenciais que não podem ser tratados como supérfluos, o que restringe a base sobre a qual aquele adicional pode incidir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "ec132.5",
+  "para": "adct.104",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 5º da Emenda Constitucional 132/2023 deu nova redação ao inciso IV do art. 104 do ADCT, hoje incorporada ao texto vigente, para determinar que o Comitê Gestor do Imposto sobre Bens e Serviços retenha os repasses de que trata o art. 158 da Constituição Federal e os deposite na conta especial referida no art. 101 do ADCT, para utilização como nele previsto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "lcp227.119",
+  "para": "lcp214.124",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso II do caput do art. 124 da LC 214/2025 define devolução específica a pessoas físicas do IBS ou da CBS como a diferença entre o percentual fixado pelo ente federativo e o percentual geral de que trata o art. 118 da mesma Lei Complementar; o inciso II do caput do art. 119 da LC 227/2026 complementa essa definição ao determinar que o montante correspondente a essa devolução específica seja deduzido da Receita-Base de cada Município, nos termos previstos em lei municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "lcp214.4",
+  "para": "cf.155",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O inciso I do § 5º do art. 4º da LC 214/2025 dispõe que a incidência do IBS e da CBS sobre as operações onerosas de que trata o caput deste artigo não altera a base de cálculo do Imposto sobre a Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos, de que trata o inciso I do caput do art. 155 da Constituição Federal; o art. 155, I, da Constituição Federal é o dispositivo expressamente remetido, que atribui aos Estados e ao Distrito Federal a competência para instituir esse imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "lcp214.4",
+  "para": "cf.156",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O inciso II do § 5º do art. 4º da LC 214/2025 dispõe que a incidência do IBS e da CBS sobre as operações onerosas de que trata o caput deste artigo não altera a base de cálculo do Imposto sobre a Transmissão Inter Vivos de Bens Imóveis e Direitos a eles Relativos, de que trata o inciso II do caput do art. 156 da Constituição Federal; o art. 156, II, da Constituição Federal é o dispositivo expressamente remetido, que atribui aos Municípios a competência para instituir esse imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "lcp214.4",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso I do § 1º do art. 156-A da Constituição Federal estabelece que o imposto sobre bens e serviços incidirá sobre operações com bens materiais ou imateriais, inclusive direitos, ou com serviços; o caput do art. 4º da LC 214/2025 regulamenta esse fato gerador ao especificar que o IBS e a CBS incidem sobre operações onerosas com bens ou com serviços, com contraprestação, nos termos detalhados em seus parágrafos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "lcp227.150",
+  "para": "cc.1804",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "A alínea a do inciso I do art. 150 da LC 227/2026 afasta a incidência do ITCMD sobre a renúncia à herança ou ao legado feita sem ressalva ou condição, em benefício do monte; o parágrafo único do art. 1.804 do Código Civil dispõe que a transmissão da herança tem-se por não verificada quando o herdeiro renuncia, efeito civil do qual depende a não incidência tributária, já que, sem transmissão, não há fato gerador do imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "lcp227.150",
+  "para": "cc.1951",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 150 da LC 227/2026 afasta a incidência do ITCMD sobre a extinção do fideicomisso, independentemente de a consolidação da propriedade reverter-se em proveito do fiduciário ou do fideicomissário; o art. 1.951 do Código Civil define o fideicomisso como a disposição testamentária pela qual a herança ou o legado se transmite ao fiduciário, resolvendo-se seu direito, por sua morte, a certo tempo ou sob certa condição, em favor do fideicomissário, instituto civil cuja extinção configura o fato isento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "lcp227.151",
+  "para": "cpc.659",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "A alínea e do inciso II do art. 151 da LC 227/2026 considera ocorrido o fato gerador da transmissão por doação na data da homologação da partilha ou adjudicação, em relação ao excedente de meação ou de quinhão que beneficiar uma das partes; o § 2º do art. 659 do CPC disciplina o procedimento seguinte a essa homologação, ao determinar que o fisco seja intimado para o lançamento administrativo do imposto de transmissão incidente sobre esse excedente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "lcp227.158",
+  "para": "ctn.41",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso I do caput do art. 158 da LC 227/2026 atribui ao Estado ou ao Distrito Federal da situação do bem imóvel a competência para instituir o ITCMD sobre esses bens; o art. 41 do CTN adota o mesmo critério de conexão, a situação do bem, para atribuir ao Município ou ao Distrito Federal a competência para o ITBI, o que gera risco de confusão entre esses dois impostos sobre bens imóveis, incidentes em hipóteses e perante entes federativos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "lcp227.158",
+  "para": "cc.73",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 158 da LC 227/2026 presume o domicílio, para fins de competência do ITCMD sobre bem imóvel situado no exterior, com base na declaração de rendimentos, apenas na hipótese de a pessoa possuir mais de um domicílio; na omissão dessa regra quanto à pessoa natural que não tenha residência habitual, aplica-se subsidiariamente o art. 73 do Código Civil, que fixa como domicílio o lugar onde ela for encontrada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "lcp227.158",
+  "para": "cpc.23",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso I do caput do art. 158 da LC 227/2026 atribui competência tributária ao Estado da situação do bem imóvel situado no Brasil para o ITCMD, ainda que o de cujus ou o doador tenha domicílio ou residência no exterior; o inciso II do art. 23 do CPC fixa, com fórmula assemelhada, a competência exclusiva da autoridade judiciária brasileira para o inventário e a partilha de bens situados no Brasil, ainda que o autor da herança tenha domicílio fora do território nacional, o que pode gerar confusão entre competência tributária e competência jurisdicional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "lcp227.159",
+  "para": "lindb.10",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O inciso I do caput do art. 159 da LC 227/2026 atribui a competência para o ITCMD sobre bens móveis ao Estado do domicílio do de cujus, independentemente da localização dos bens; o art. 10 da LINDB consagra o princípio geral de que a sucessão por morte obedece à lei do país em que domiciliado o defunto, qualquer que seja a natureza e a situação dos bens, princípio que o art. 159 especializa para fins de competência tributária interna entre os entes federativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T18:15:27+00:00"
  }
 ]
