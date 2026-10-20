@@ -31877,5 +31877,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T18:15:27+00:00"
+ },
+ {
+  "de": "cc.1804",
+  "para": "cpc.640",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 1.804, parágrafo único, do Código Civil trata a renúncia como se a transmissão nunca tivesse ocorrido, mas o art. 640 do CPC excepciona esse efeito para fins de colação, pois o herdeiro renunciante continua obrigado a conferir as liberalidades recebidas do autor da herança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "cc.1951",
+  "para": "l8245.7",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 1.951 do Código Civil institui o fideicomisso sucessório, cuja extinção é pressuposto do art. 7º da Lei 8.245/91, que disciplina a denúncia da locação celebrada pelo fiduciário quando o fideicomisso se extingue, regulando apenas o efeito locatício desse instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "cc.1951",
+  "para": "lsa.70",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo fiduciário designa, no art. 1.951 do Código Civil, o herdeiro ou legatário gravado pelo fideicomisso sucessório, e, no art. 70 da LSA, o agente fiduciário dos debenturistas na escritura de emissão, institutos sem qualquer relação de conteúdo entre si, apesar da mesma denominação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "cpc.23",
+  "para": "lindb.12",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 12, §1º, da LINDB fixa a competência exclusiva da autoridade judiciária brasileira para ações relativas a imóveis situados no Brasil, e o art. 23, I, do CPC retoma essa regra e a complementa, estendendo a exclusividade também à sucessão hereditária e à partilha de bens em família.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "cpc.23",
+  "para": "lindb.10",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 10 da LINDB define a lei aplicável à sucessão por morte (a do domicílio do falecido), enquanto o art. 23, II, do CPC define a competência jurisdicional exclusiva brasileira para o inventário e a partilha de bens situados no Brasil, institutos conexos que a prática frequentemente confunde, já que a exclusividade da jurisdição independe da lei material aplicável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "ctn.18-A",
+  "para": "lcp87.32-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 18-A do CTN reproduz, em termos quase idênticos, a regra de essencialidade dos combustíveis, do gás natural, da energia elétrica, das comunicações e do transporte coletivo já prevista no art. 32-A da LC 87/96 para o ICMS, generalizando ao sistema tributário o mesmo instituto antes restrito a esse imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "ctn.18-A",
+  "para": "lcp214.413",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 18-A do CTN veda que a energia elétrica e as comunicações sejam tratadas como supérfluas, e o art. 413, II, da LC 214/2025 concretiza essa essencialidade ao excluir essas mesmas operações da incidência do Imposto Seletivo, que recai sobre bens e serviços nocivos à saúde ou ao meio ambiente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "ctn.18-A",
+  "para": "adct.83",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 83 do ADCT autoriza lei federal a definir os produtos e serviços supérfluos a que se referem os arts. 80, II, e 82, §2º, do ADCT, e o art. 18-A do CTN excepciona dessa classificação os combustíveis, o gás natural, a energia elétrica, as comunicações e o transporte coletivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "ctn.41",
+  "para": "cf.156",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 156, II, da Constituição Federal outorga aos Municípios a competência sobre a transmissão inter vivos de bens imóveis, e o art. 41 do CTN, como norma geral de direito tributário, regulamenta o critério espacial dessa competência, atribuindo o imposto ao Município da situação do bem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "ctn.41",
+  "para": "lcp227.160",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 41 do CTN atribui ao Município da situação do bem a competência sobre o imposto de transmissão inter vivos, e o art. 160 da LC 227/2026 atribui aos Estados e ao Distrito Federal a competência sobre o ITCMD, imposto de transmissão causa mortis e doação, institutos conexos mas com entes tributantes distintos e frequentemente confundidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "lcp227.115",
+  "para": "adct.136",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 115, §3º, I, da LC 227/2026 remete expressamente ao art. 136 do ADCT ao excluir do cômputo da receita estadual as contribuições sobre produtos primários e semielaborados substituídas por contribuições semelhantes nos termos desse dispositivo transitório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "lcp227.115",
+  "para": "adct.132",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 132 do ADCT determina a retenção de parcela do produto do IBS para redistribuição aos entes com menor razão em relação à respectiva receita média, apurada na forma de lei complementar, e o art. 115 da LC 227/2026 é essa lei complementar, ao definir o cálculo da receita média de referência de cada ente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "lcp227.115",
+  "para": "lcp214.350",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 350 da LC 214/2025 define a receita de referência usada para fixar as alíquotas de referência do IBS e da CBS, enquanto o art. 115 da LC 227/2026 define a receita média de referência usada para apurar a repartição transitória entre os entes federativos, institutos conexos com nomes semelhantes mas finalidades distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "lcp227.118",
+  "para": "cf.212-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 118, §4º, I, da LC 227/2026 determina a dedução do percentual previsto no inciso II do caput do art. 212-A da Constituição Federal, destinado ao Fundo de Manutenção e Desenvolvimento da Educação Básica, remetendo expressamente a esse dispositivo constitucional para calcular a parcela da Receita-Base do Estado reservada à educação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "lcp227.118",
+  "para": "lcp214.124",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 118, II, da LC 227/2026 determina a dedução da devolução específica de IBS a pessoas físicas, conceito definido no art. 124 da LC 214/2025 como a diferença entre o percentual fixado pelo ente federativo e o percentual da devolução geral, ambos calculados sobre a mesma base.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "lcp227.119",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 156-B, II, da Constituição Federal atribui ao Comitê Gestor do IBS a competência para distribuir o produto da arrecadação entre os entes federativos, e o art. 119, §7º, da LC 227/2026 regulamenta essa distribuição ao determinar que o CGIBS segregue os recursos relativos à Receita-Base de cada Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "lcp227.119",
+  "para": "ctn.91",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 119 da LC 227/2026 disciplina a apuração da Receita-Base de cada Município no novo sistema de partilha do IBS, enquanto o art. 91 do CTN disciplina o rateio do Fundo de Participação dos Municípios, mecanismo distinto de repartição de receita tributária que a prática costuma aproximar indevidamente do novo regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T19:14:07+00:00"
  }
 ]
