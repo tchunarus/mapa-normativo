@@ -32047,5 +32047,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T19:14:07+00:00"
+ },
+ {
+  "de": "lcp214.371",
+  "para": "adct.132",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 371 da LC 214/2025 proíbe, de 2029 a 2077, a fixação de alíquotas do IBS abaixo do necessário para garantir as retenções de que tratam o § 1º do art. 131 e o art. 132 do ADCT, detalhando, no mesmo regime de transição do IBS, a forma de assegurar a retenção prevista no art. 132.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "ec132.5",
+  "para": "adct.132",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 5º da EC 132/2023, ao dar nova redação ao art. 82 do ADCT sobre o Fundo de Combate à Pobreza, autoriza, no § 1º, destinar a esse fundo parte dos recursos distribuídos nos termos dos arts. 131 e 132 do ADCT, ligando o financiamento do fundo à retenção de 5% prevista no art. 132, sem se confundir com ela.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "adct.132",
+  "para": "lcp227.117",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 117 da LC 227/2026 reproduz estrutura quase idêntica à do art. 132 do ADCT (distribuição do valor retido aos entes com as menores razões entre dois indicadores), mas refere-se à retenção do art. 110 da própria lei complementar, não à retenção de 5% do art. 132 do ADCT, o que gera risco de confusão entre os dois mecanismos de retenção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "lcp214.350",
+  "para": "adct.136",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 2º, I, do art. 350 da LC 214/2025 exclui expressamente da receita de referência dos Estados a receita das contribuições sobre produtos primários e semielaborados substituídas por contribuições semelhantes nos termos do art. 136 do ADCT, detalhando, dentro do mesmo cálculo, o tratamento dessas contribuições.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "adct.136",
+  "para": "lcp214.457",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 457 da LC 214/2025 também autoriza a instituição de contribuição de contrapartida semelhante a uma existente em 31 de dezembro de 2023, mas destinada ao Estado do Amazonas para ensino superior e desenvolvimento regional, finalidade distinta das contribuições vinculadas a diferimento de ICMS tratadas no art. 136 do ADCT, o que pode gerar confusão entre os dois regimes de contribuição semelhante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "ec132.22",
+  "para": "adct.83",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O inciso II, alínea b, do art. 22 da EC 132/2023 revoga, a partir de 2033, o art. 83 do ADCT, entre outros dispositivos, extinguindo a norma que hoje delega à lei federal a definição dos produtos e serviços supérfluos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "adct.83",
+  "para": "lcp87.32-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 32-A da LC 87/96 repete, para o ICMS, a mesma classificação de essencialidade de combustíveis, gás natural, energia elétrica, comunicações e transporte coletivo prevista no art. 18-A do CTN, em regime conexo mas distinto do que o art. 83 do ADCT delega à lei federal para definir produtos e serviços supérfluos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "cpc.640",
+  "para": "cc.2008",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 640 do CPC regula o procedimento de colação devida pelo herdeiro que renunciou à herança ou dela foi excluído, obrigação substantiva estabelecida no art. 2.008 do CC, que impõe a mesma conferência das doações recebidas para repor o que exceder o disponível.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "cpc.640",
+  "para": "cc.2007",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 640 do CPC disciplina, nos §§ 1º a 3º, o procedimento de licitação entre herdeiros para repor a parte inoficiosa da doação, operacionalizando a redução das liberalidades excessivas prevista no art. 2.007 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "cpc.640",
+  "para": "cc.1968",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.968 do CC prevê mecanismo semelhante de divisão ou compensação em dinheiro para reduzir legado que exceda a parte disponível, instituto conexo mas distinto da colação de doações do art. 640 do CPC, por recair sobre legado e não sobre doação em vida, o que pode gerar confusão entre os dois regimes de redução por inoficiosidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "ctn.91",
+  "para": "cf.159",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 91 do CTN detalha os percentuais e critérios de rateio do Fundo de Participação dos Municípios entre capitais e demais municípios, fundo instituído pela alínea b do inciso I do art. 159 da Constituição Federal, que destina 22,5% do produto do imposto de renda e do imposto previsto no art. 153, VIII, a esse fundo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "ctn.91",
+  "para": "adct.131",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 131 do ADCT estabelece, para o produto do IBS, um método de distribuição por coeficiente de participação entre Estados, Distrito Federal e Municípios, análogo na lógica mas distinto do antigo critério de rateio do Fundo de Participação dos Municípios do art. 91 do CTN, por envolver tributo e fundo diversos, o que pode causar confusão entre os dois critérios de coeficiente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "l8245.7",
+  "para": "cc.1410",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 7º da Lei 8.245/91 regula a denúncia da locação celebrada pelo usufrutuário ou fiduciário quando extinto o usufruto ou o fideicomisso, hipóteses de extinção do usufruto disciplinadas em geral pelo art. 1.410 do CC, cuja aplicação à locação é especializada pela norma locatícia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "l8245.7",
+  "para": "cc.1955",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "A extinção do fideicomisso por renúncia do fideicomissário, prevista no art. 1.955 do CC como hipótese de caducidade, é uma das causas que, nos termos do art. 7º da Lei 8.245/91, autoriza a denúncia da locação celebrada pelo fiduciário, que dá regra especial para esse efeito locatício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "l8245.7",
+  "para": "cc.1958",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "A morte do fideicomissário antes do fiduciário, causa de caducidade do fideicomisso prevista no art. 1.958 do CC, também enseja, nos termos do art. 7º da Lei 8.245/91, a denúncia da locação pelo fiduciário, que especializa para a locação os efeitos dessa extinção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "lcp214.350",
+  "para": "adct.130",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 350 da LC 214/2025 define a receita de referência da União, dos Estados e dos Municípios usada no cálculo das alíquotas de referência, forma de cálculo cuja definição por lei complementar é exigida pelo caput do art. 130 do ADCT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "lcp214.413",
+  "para": "lcp87.32-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 413 da LC 214/2025 exclui da incidência do Imposto Seletivo a energia elétrica e as telecomunicações, bens e serviços que o art. 32-A da LC 87/96 também classifica como essenciais e não supérfluos para fins do ICMS, mantendo coerência entre os regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T20:11:45+00:00"
  }
 ]
