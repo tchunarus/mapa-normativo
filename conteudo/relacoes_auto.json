@@ -31247,5 +31247,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T12:19:23+00:00"
+ },
+ {
+  "de": "clt.628-A",
+  "para": "ctn.127-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O Domicílio Eletrônico Trabalhista (DET), instituído pelo art. 628-A da CLT para comunicações entre a fiscalização do trabalho e o empregador, e o Domicílio Tributário Eletrônico (DTE), de que trata o art. 127-A do CTN, são institutos distintos, um trabalhista e outro tributário, mas a semelhança de sigla e de função (domicílio eletrônico oficial para intimações) pode gerar confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T13:11:58+00:00"
+ },
+ {
+  "de": "d70235.23",
+  "para": "d9580.1037",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.037 do RIR/2018 reproduz, para fins do imposto de renda, a mesma regra de quando se considera feita a intimação prevista no art. 23, § 2º, do PAF (Decreto nº 70.235/72), citado expressamente como fundamento normativo do dispositivo regulamentar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T13:11:58+00:00"
+ },
+ {
+  "de": "d70235.23",
+  "para": "d9580.203",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 203 do RIR/2018 reproduz, para o imposto de renda, o mesmo conceito de domicílio tributário do sujeito passivo definido no art. 23, § 4º, do PAF (Decreto nº 70.235/72), citado expressamente como fonte do dispositivo regulamentar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T13:11:58+00:00"
+ },
+ {
+  "de": "ctn.127-A",
+  "para": "d70235.23",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 127-A do CTN autoriza a intimação por Domicílio Tributário Eletrônico nos termos das leis reguladoras do processo tributário administrativo, remetendo a normas como o PAF (Decreto nº 70.235/72), que disciplina em caráter geral, no âmbito federal, as formas de intimação no processo administrativo fiscal, inclusive por meio eletrônico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T13:11:58+00:00"
+ },
+ {
+  "de": "d9580.1037",
+  "para": "lcp214.332",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.037, III, do RIR/2018 disciplina a intimação por meio eletrônico no processo administrativo fiscal federal regido pelo PAF, enquanto o art. 332 da LC 214/2025 disciplina a intimação por Domicílio Tributário Eletrônico no processo administrativo do IBS e da CBS; são institutos análogos, de regimes tributários distintos, com prazos e requisitos próprios, podendo ser confundidos na aplicação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T13:11:58+00:00"
+ },
+ {
+  "de": "lcp123.2",
+  "para": "cf.156-B",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O Comitê Gestor do Simples Nacional, de que trata o art. 2º da LC 123/06, e o Comitê Gestor do Imposto sobre Bens e Serviços, de que trata o art. 156-B da CF, são órgãos distintos de gestão de regimes tributários diferentes, mas a identidade de nomenclatura entre os dois comitês gestores pode gerar confusão quanto às competências de cada um.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T13:11:58+00:00"
+ },
+ {
+  "de": "lcp123.26",
+  "para": "lcp214.60",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 26, I, da LC 123/06 estabelece regra específica de emissão de documento fiscal para as microempresas e empresas de pequeno porte optantes pelo Simples Nacional, conforme instruções do Comitê Gestor, especializando para esse grupo a regra geral de emissão de documento fiscal eletrônico do sujeito passivo do IBS e da CBS prevista no art. 60 da LC 214/2025.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T13:11:58+00:00"
+ },
+ {
+  "de": "lcp123.38-A",
+  "para": "l8212.32-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos os dispositivos preveem multa por falta de prestação de informações em sistema eletrônico com estrutura e percentuais quase idênticos, de 2% ao mês-calendário e R$ 20,00 por grupo de 10 informações incorretas ou omitidas, mas disciplinam declarações distintas, a GFIP da Lei 8.212/91 e o sistema eletrônico de cálculo do Simples Nacional previsto no art. 18, § 15, da LC 123/06, o que pode levar à aplicação indevida de uma multa no lugar da outra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T13:11:58+00:00"
+ },
+ {
+  "de": "lcp227.64",
+  "para": "lcp214.333",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 64, § 1º, da LC 227/2026 remete expressamente ao art. 333 da LC 214/2025 para disciplinar o uso do sistema de comunicação eletrônica nas intimações do processo administrativo tributário do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T13:11:58+00:00"
+ },
+ {
+  "de": "lcp214.333",
+  "para": "lcp227.57",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 333 da LC 214/2025 disciplina o sistema de comunicação eletrônica destinado a notificações e intimações do IBS e da CBS, enquanto o art. 57 da LC 227/2026 disciplina o sistema eletrônico de tramitação do processo administrativo tributário do IBS; são institutos conexos que compõem, em conjunto, a digitalização do contencioso administrativo desse tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T13:11:58+00:00"
+ },
+ {
+  "de": "lcp214.443",
+  "para": "adct.40",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 40 do ADCT mantém, de modo genérico, a Zona Franca de Manaus com seus incentivos fiscais; o art. 443 da LC 214/2025 implementa, no regime do IBS e da CBS, suspensão tributária específica compatível com essa manutenção constitucional, mas trata de instituto distinto, a suspensão do tributo na importação, e não a manutenção da zona em si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T13:11:58+00:00"
  }
 ]
