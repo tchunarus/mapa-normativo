@@ -30837,5 +30837,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T09:13:49+00:00"
+ },
+ {
+  "de": "adct.128",
+  "para": "lcp116.8-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 8º-B da Lei Complementar nº 116/03, inserido pela LC 214/2025, reproduz para o ISS a mesma proporção de redução de alíquotas e de benefícios fixada pelo caput e pelo § 1º do art. 128 do ADCT para o período de 2029 a 2032, disciplinando em lei complementar o comando constitucional de transição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T10:12:41+00:00"
+ },
+ {
+  "de": "adct.128",
+  "para": "lcp87.31-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 31-A da Lei Complementar nº 87/96, inserido pela LC 214/2025, reproduz para o ICMS a mesma proporção de redução de alíquotas e de benefícios fixada pelo caput e pelo § 1º do art. 128 do ADCT entre 2029 e 2032, disciplinando em lei complementar o comando constitucional de transição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T10:12:41+00:00"
+ },
+ {
+  "de": "adct.128",
+  "para": "lcp214.384",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 384 da LC 214/2025 disciplina a compensação, por recursos do Fundo instituído pela Emenda Constitucional nº 132/2023, das pessoas titulares de benefícios onerosos de ICMS atingidas pela redução prevista no art. 128, § 1º, do ADCT, detalhando o mesmo regime de transição tributária entre 2029 e 2032.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T10:12:41+00:00"
+ },
+ {
+  "de": "adct.40",
+  "para": "lcp214.442",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 442 da LC 214/2025 regulamenta, para o novo sistema do IBS e da CBS, os critérios de habilitação aos incentivos fiscais da Zona Franca de Manaus cuja manutenção é assegurada pelo art. 40 do ADCT, preservando a competência de lei federal sobre a aprovação dos projetos ali referida no parágrafo único.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T10:12:41+00:00"
+ },
+ {
+  "de": "adct.40",
+  "para": "lcp214.445",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 445 da LC 214/2025 reduz a zero as alíquotas do IBS e da CBS nas operações que destinem bens industrializados à Zona Franca de Manaus, implementando no novo sistema tributário o regime de incentivos fiscais cuja manutenção o art. 40 do ADCT assegura por prazo determinado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T10:12:41+00:00"
+ },
+ {
+  "de": "adct.40",
+  "para": "lcp214.441",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 441 da LC 214/2025 exclui do regime favorecido da Zona Franca de Manaus certas mercadorias, como armas, fumo, bebidas alcoólicas e automóveis de passageiros, excepcionando a abrangência genérica dos incentivos fiscais cuja manutenção é garantida pelo art. 40 do ADCT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T10:12:41+00:00"
+ },
+ {
+  "de": "adct.40",
+  "para": "lcp214.327-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 327-A da LC 214/2025 atribui à Suframa a fiscalização do cumprimento do processo produtivo básico e da aprovação do projeto econômico na Zona Franca de Manaus, disciplinando em lei federal os critérios de aprovação de projetos a que se refere o parágrafo único do art. 40 do ADCT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T10:12:41+00:00"
+ },
+ {
+  "de": "adct.40",
+  "para": "lcp214.534",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 534 da LC 214/2025 altera a Lei nº 14.789/2023 para preservar expressamente a fruição de incentivos fiscais federais de IRPJ e CSLL concedidos à Zona Franca de Manaus, complementando no âmbito federal a garantia de incentivos fiscais que o art. 40 do ADCT assegura à área.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T10:12:41+00:00"
+ },
+ {
+  "de": "l9430.79",
+  "para": "lcp214.89",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 89 da LC 214/2025 estabelece, para o IBS e a CBS, mecanismo de tributação proporcional ao tempo de permanência de bens admitidos temporariamente no País, análogo ao que o art. 79 da Lei nº 9.430/96 prevê para os impostos incidentes na importação, com risco de confusão sobre qual regime se aplica a cada tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T10:12:41+00:00"
+ },
+ {
+  "de": "lcp123.23",
+  "para": "lcp214.41",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 41, § 2º, da LC 214/2025 mantém os optantes pelo Simples Nacional sujeitos às regras próprias desse regime, excepcionando-os do regime regular do IBS e da CBS e preservando, entre essas regras especiais, a vedação de apropriação e de transferência de créditos prevista no art. 23 da LC 123/06.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T10:12:41+00:00"
+ },
+ {
+  "de": "lcp214.384",
+  "para": "ec132.15",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 15 da Emenda Constitucional nº 132/2023 exclui os recursos do Fundo de que trata o art. 12 da mesma Emenda, destinado a custear a compensação prevista no art. 384 da LC 214/2025, das bases de cálculo e dos limites de despesas da legislação fiscal referida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T10:12:41+00:00"
+ },
+ {
+  "de": "lcp214.405",
+  "para": "ec132.15",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 15 da Emenda Constitucional nº 132/2023 exclui das bases de cálculo e dos limites de despesas os recursos do Fundo de que trata o art. 12 da mesma Emenda, cujo saldo financeiro remanescente em 31 de dezembro de 2032 o art. 405 da LC 214/2025 disciplina quanto ao provisionamento e à destinação final.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T10:12:41+00:00"
  }
 ]
