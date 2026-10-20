@@ -30597,5 +30597,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T00:11:20+00:00"
+ },
+ {
+  "de": "floripa_ctm.130",
+  "para": "d70235.10",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos disciplinam o mesmo instituto, os requisitos do auto de infração, com listas semelhantes, entre elas a qualificação do autuado, o local, a data e a hora da lavratura e a descrição do fato com indicação do dispositivo legal infringido e da penalidade. A diferença está na exigência, pelo art. 10 do PAF, do prazo de impugnação de vinte dias úteis e, pelo art. 130 do CTM de Florianópolis, das assinaturas do autuante, do autuado e das testemunhas, o que gera risco de confusão entre os regimes federal e municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T01:09:50+00:00"
+ },
+ {
+  "de": "floripa_ctm.130",
+  "para": "lcp214.330",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 330 da LC 214/2025 reproduz, para o IBS e a CBS, requisitos do auto de infração equivalentes aos do art. 130 do CTM de Florianópolis, entre eles a qualificação do autuado, o local, a data e a hora da lavratura e a descrição do fato, tratando do mesmo instituto em esferas tributárias distintas. A diferença essencial é que o art. 130 do CTM exige forma manuscrita, sem entrelinhas, emendas ou rasuras, exigência ausente no art. 330 da LC 214/2025.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T01:09:50+00:00"
+ },
+ {
+  "de": "floripa_ctm.445",
+  "para": "sc_icms_lei.93",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "As duas normas definem fraude tributária em termos quase idênticos, como toda ação ou omissão tendente a impedir ou retardar, total ou parcialmente, a ocorrência do fato gerador, ou a excluir ou modificar suas características essenciais, para reduzir o tributo devido ou postergar seu pagamento. Tratam do mesmo instituto em esferas distintas, o ISS municipal e o ICMS estadual, o que gera risco de se tomar uma definição pela outra na qualificação de condutas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T01:09:50+00:00"
+ },
+ {
+  "de": "floripa_ctm.445",
+  "para": "lcp214.341-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 445 do CTM de Florianópolis define fraude como conduta dolosa, enquanto o art. 341-A da LC 214/2025 define infração, de forma mais ampla, como toda ação ou omissão, ainda que involuntária, que importe inobservância de obrigação tributária. Os institutos são conexos, pois fraude é espécie dolosa de infração, e a diferença quanto ao elemento subjetivo entre os dois dispositivos gera risco de se confundir o gênero infração com a espécie fraude.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T01:09:50+00:00"
+ },
+ {
+  "de": "floripa_ctm.445",
+  "para": "lcp227.341-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 341-A da LC 227/2026 repete, para o contencioso administrativo do IBS, a mesma definição ampla de infração do art. 341-A da LC 214/2025, como toda ação ou omissão, ainda que involuntária, que importe inobservância de obrigação tributária. Relaciona-se com o art. 445 do CTM de Florianópolis pela mesma razão, o risco de se confundir o gênero infração, que independe de dolo, com a espécie fraude, que o exige.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T01:09:50+00:00"
+ },
+ {
+  "de": "floripa_ctm.445",
+  "para": "sc_icms_lei.91",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 91 da Lei 10.297/96-SC define infração, no âmbito do ICMS, como toda ação ou omissão que importe descumprimento de obrigação tributária, principal ou acessória, sem exigir dolo, ao passo que o art. 445 do CTM de Florianópolis exige a dolosidade para caracterizar a fraude. Os institutos são conexos, pois fraude é espécie dolosa do gênero infração, e a ausência de referência ao dolo no dispositivo estadual gera risco de confusão entre os dois conceitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T01:09:50+00:00"
+ },
+ {
+  "de": "floripa_ctm.71",
+  "para": "ctn.160",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 160 do CTN fixa, de forma supletiva, o prazo de trinta dias contados da notificação do lançamento para o vencimento do crédito tributário quando a legislação tributária não fixar outro prazo, e o art. 71 do CTM de Florianópolis fixa exatamente esse mesmo prazo de trinta dias para pagamento ou apresentação de defesa. Os dispositivos têm ponto de contato no prazo utilizado, mas disciplinam institutos distintos, a regra supletiva geral do CTN e a norma municipal que fixa o prazo por legislação própria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T01:09:50+00:00"
+ },
+ {
+  "de": "floripa_ctm.71",
+  "para": "sc_ricms.67",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 67 do RICMS-SC e o art. 71 do CTM de Florianópolis tratam do mesmo instituto, a redução da multa de lançamento de ofício para quem paga ou parcela o crédito tributário no prazo de trinta dias contado do ciente da notificação fiscal. A diferença está no percentual, fixo em cinquenta por cento na norma municipal e escalonado conforme a parcela paga na norma estadual, o que gera risco de se aplicar por engano o percentual de um regime ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T01:09:50+00:00"
+ },
+ {
+  "de": "lcp214.367",
+  "para": "adct.131",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 131 do ADCT utiliza as alíquotas de referência apuradas nos termos do art. 130 do ADCT para distribuir, entre 2029 e 2077, o produto da arrecadação do IBS entre os entes federativos, enquanto o art. 367 da LC 214/2025 utiliza esses mesmos parâmetros para calcular o Teto de Referência e a Receita-Base Total, destinados a monitorar a carga tributária agregada da transição. Os institutos são conexos, pois partem das mesmas alíquotas de referência para finalidades diferentes, a repartição do produto da arrecadação entre entes e o controle da carga tributária nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T01:09:50+00:00"
+ },
+ {
+  "de": "lcp214.367",
+  "para": "lcp227.105",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 367 da LC 214/2025 define Receita-Base da União, Receita-Base dos Entes Subnacionais e Receita-Base Total como agregados nacionais usados no cálculo do teto de carga tributária da transição, enquanto o art. 105 da LC 227/2026 define Receita-Base de cada Estado, Distrito Federal ou Município como grandeza individual apurada para fins de repartição do produto da arrecadação do IBS entre os entes federativos. Os dois dispositivos usam a mesma expressão, Receita-Base, com definição e finalidade distintas, o que gera risco real de confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T01:09:50+00:00"
  }
 ]
