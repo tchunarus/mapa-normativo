@@ -30727,5 +30727,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T06:07:40+00:00"
+ },
+ {
+  "de": "ec132.12",
+  "para": "adct.128",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 12 da Emenda Constitucional nº 132/2023 remete expressamente à redução de benefícios onerosos prevista no § 1º do art. 128 do ADCT, de modo que os dois dispositivos tratam do mesmo instituto: o cronograma de redução dos benefícios fiscais do ICMS entre 2029 e 2032.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T09:13:49+00:00"
+ },
+ {
+  "de": "ec132.12",
+  "para": "lcp214.384",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 384 da LC 214/2025 regulamenta o Fundo de Compensação de Benefícios Fiscais ou Financeiro-Fiscais instituído pelo art. 12 da Emenda Constitucional nº 132/2023, disciplinando o direito à compensação dos titulares de benefícios onerosos do ICMS pela redução prevista no § 1º do art. 128 do ADCT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T09:13:49+00:00"
+ },
+ {
+  "de": "ec132.12",
+  "para": "lcp214.405",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 405 da LC 214/2025 disciplina o provisionamento do saldo financeiro remanescente, em 31 de dezembro de 2032, do Fundo instituído pelo art. 12 da Emenda Constitucional nº 132/2023.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T09:13:49+00:00"
+ },
+ {
+  "de": "ec132.12",
+  "para": "lcp214.388",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 388 da LC 214/2025 regulamenta quem pode ser beneficiário da compensação prevista no art. 12 da Emenda Constitucional nº 132/2023, excluindo os titulares de benefícios onerosos que já sejam alcançados por outra forma de compensação prevista na Constituição Federal, nos termos do Ato das Disposições Constitucionais Transitórias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T09:13:49+00:00"
+ },
+ {
+  "de": "ec132.12",
+  "para": "lcp214.386",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 386 da LC 214/2025 atribui à RFB as competências operacionais para processar a compensação de que trata o art. 384 desta Lei Complementar, que por sua vez regulamenta diretamente o Fundo instituído pelo art. 12 da Emenda Constitucional nº 132/2023.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T09:13:49+00:00"
+ },
+ {
+  "de": "lcp214.434",
+  "para": "ctn.48",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 48 do Código Tributário Nacional consagra a seletividade do Imposto sobre Produtos Industrializados em função da essencialidade dos produtos, instituto diverso do Imposto Seletivo criado pela reforma tributária e disciplinado no art. 434 da LC 214/2025, mas a identidade de nomes gera risco real de confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T09:13:49+00:00"
+ },
+ {
+  "de": "lcp214.434",
+  "para": "l9430.79",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 79 da Lei 9.430/96 estabelece a regra geral de pagamento dos impostos incidentes na importação de bens admitidos temporariamente no País, proporcional ao tempo de permanência, e o § 6º do art. 434 da LC 214/2025 replica esse mesmo critério de proporcionalidade especificamente para a suspensão do Imposto Seletivo, tratando-se de instituto conexo especializado para esse tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T09:13:49+00:00"
+ },
+ {
+  "de": "lcp214.454",
+  "para": "adct.40",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 40 do ADCT garante a manutenção da Zona Franca de Manaus com seus incentivos fiscais, e o art. 454 da LC 214/2025 especializa essa garantia ao reduzir a zero a alíquota do Imposto sobre Produtos Industrializados para produtos industrializados na Zona Franca de Manaus em 2024 ou com projeto aprovado pela Suframa até a data de publicação da Lei Complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T09:13:49+00:00"
+ },
+ {
+  "de": "lcp214.47",
+  "para": "sc_icms_lei.22",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 22 da Lei 10.297/96-SC assegura o crédito do ICMS pela mera entrada da mercadoria no estabelecimento, enquanto o art. 47 da LC 214/2025 condiciona a apropriação do crédito do IBS e da CBS à extinção efetiva do débito do fornecedor pelas modalidades do art. 27 da mesma Lei Complementar, de modo que há risco de se confundir a não cumulatividade física do ICMS com a não cumulatividade financeira do IBS e da CBS, institutos conexos mas estruturalmente distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T09:13:49+00:00"
+ },
+ {
+  "de": "lcp214.47",
+  "para": "lcp123.23",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 23 da LC 123/06 permite que o adquirente não optante pelo Simples Nacional se credite do ICMS incidente nas aquisições de microempresa ou de empresa de pequeno porte optante, e o § 3º do art. 47 da LC 214/2025 estende solução equivalente ao IBS e à CBS, admitindo a apropriação de crédito nas aquisições de fornecedor optante pelo Simples Nacional, tratando-se de instituto conexo especializado para o novo regime não cumulativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T09:13:49+00:00"
+ },
+ {
+  "de": "lcp214.471-F",
+  "para": "lcp227.471-F",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 471-F da LC 227/2026 altera o art. 471-F da LC 214/2025, mantendo idêntica a regra de impugnação da penalidade aplicada ao prestador de serviço de pagamento ou à instituição operadora do sistema de pagamento, perante a RFB quanto à CBS e perante o CGIBS quanto ao IBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T09:13:49+00:00"
  }
 ]
