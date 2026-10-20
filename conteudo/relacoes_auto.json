@@ -32267,5 +32267,205 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T21:13:28+00:00"
+ },
+ {
+  "de": "cpc.725",
+  "para": "cc.1320",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "Os incisos IV e V do art. 725 do CPC regulam o procedimento judicial para a administração e a alienação da coisa comum e de quinhão nela, matéria conexa ao direito do condômino de exigir a divisão da coisa comum, disciplinado no art. 1.320 do Código Civil, ambos relativos ao exercício dos direitos sobre o condomínio voluntário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.166",
+  "para": "lcp123.87",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 166 da LC 227/2026 fixa novos percentuais de repasse do ICMS aos Municípios, alterando o art. 3º da LC 63/1990, o mesmo dispositivo cuja definição de valor adicionado fora anteriormente alterada pelo art. 87 da LC 123/2006, de modo que os dois comandos integram o mesmo regime de rateio da receita do imposto estadual aos Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "ec132.6",
+  "para": "lcp227.166",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 6º da EC 132/2023 determina que, enquanto não sobrevier a lei complementar prevista na Constituição, os critérios de rateio do ICMS observem, no que couber, a LC 63/1990 e suas alterações, abrangendo a nova redação dada pelo art. 166 da LC 227/2026 aos percentuais de repasse aos Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.169",
+  "para": "lcp123.21",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 169 da LC 227/2026 acrescenta o § 4º ao art. 21 da LC 123/2006 para determinar que a alíquota aplicável na retenção na fonte do ISS corresponda à alíquota efetiva devida pela microempresa ou pela empresa de pequeno porte no mês da prestação, alterando o regime de pagamento dos tributos do Simples Nacional disciplinado nesse artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.169",
+  "para": "lcp123.18-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 169 da LC 227/2026 acrescenta o inciso I ao § 7º do art. 18-A da LC 123/2006 para fixar que a opção do Microempreendedor Individual deve ser efetuada até 31 de dezembro do ano-calendário, produzindo efeitos a partir de 1º de janeiro do ano-calendário seguinte, alterando a sistemática de opção pelo regime fixo de recolhimento prevista nesse artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.170",
+  "para": "adct.76-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 170 da LC 227/2026 fixa em 12% o piso de gasto em saúde dos Estados e do Distrito Federal no art. 6º da LC 141/2012, piso que o inciso I do parágrafo único do art. 76-A do ADCT resguarda ao excetuar da desvinculação de receitas os recursos destinados ao financiamento das ações e serviços públicos de saúde.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.170",
+  "para": "adct.76-B",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 170 da LC 227/2026 fixa em 15% o piso de gasto em saúde dos Municípios no art. 7º da LC 141/2012, piso que o inciso I do § 1º do art. 76-B do ADCT resguarda ao excetuar da desvinculação de receitas municipais os recursos destinados ao financiamento das ações e serviços públicos de saúde.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.173",
+  "para": "d70235.5-B",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 173 da LC 227/2026 acrescenta o art. 5º-B ao Decreto 70.235/1972 para fixar prazo supletivo de 10 dias úteis para a prática de atos do sujeito passivo ou da Fazenda Pública quando o Decreto não previr prazo específico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.173",
+  "para": "d70235.7",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 173 da LC 227/2026 altera o § 2º do art. 7º do Decreto 70.235/1972 para fixar em 90 dias, prorrogáveis sucessivamente por igual período, a validade dos atos que caracterizam o início do procedimento fiscal referidos nos incisos I e II do caput desse artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.173",
+  "para": "d70235.10",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 173 da LC 227/2026 altera o inciso V do art. 10 do Decreto 70.235/1972 para manter a exigência de que o auto de infração contenha a determinação da exigência e a intimação para cumpri-la ou impugná-la no prazo de 20 dias úteis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.173",
+  "para": "d70235.15",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 173 da LC 227/2026 dá nova redação ao art. 15 do Decreto 70.235/1972, mantendo o prazo de 20 dias úteis, contado da intimação da exigência, para a apresentação da impugnação por escrito ao órgão preparador, instruída com os documentos pertinentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "lcp214.5",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 174 da LC 227/2026 dá nova redação ao inciso I do art. 5º da LC 214/2025 para detalhar as hipóteses de fornecimento não oneroso ou a valor inferior ao de mercado sujeitas ao IBS e à CBS, especificando os beneficiários e os bens e serviços alcançados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "lcp214.3",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 174 da LC 227/2026 acrescenta o § 3º ao art. 3º da LC 214/2025 para incluir a locação, o arrendamento e a cessão temporária do bem no conceito de operações com bens previsto na alínea a do inciso I do caput desse artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "As novas hipóteses de incidência do IBS e da CBS inseridas pelo art. 174 da LC 227/2026 nos arts. 3º a 5º da LC 214/2025 dão concretude à regra do § 1º do art. 156-A da Constituição Federal, segundo a qual o imposto incide sobre operações com bens materiais ou imateriais, inclusive direitos, ou com serviços.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "lcp214.6",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O novo art. 5º da LC 214/2025, alterado pelo art. 174 da LC 227/2026, trata como hipótese de incidência o fornecimento gratuito de bens e serviços do contribuinte a empregados e sócios, regime que pode ser confundido com a não incidência prevista no inciso I do art. 6º da LC 214/2025 para os serviços prestados por empregados ao próprio contribuinte em decorrência da relação de emprego.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "d9580.35",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O fornecimento gratuito de alimentação, transporte e bens semelhantes a empregados, tratado como hipótese de incidência do IBS e da CBS pelo novo art. 5º da LC 214/2025, alterado pelo art. 174 da LC 227/2026, pode ser confundido com a isenção do imposto de renda sobre esses mesmos benefícios prevista no inciso I do art. 35 do RIR/2018, regimes tributários distintos que incidem sobre o mesmo fato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.176",
+  "para": "lcp214.72",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 31 do Decreto-Lei 37/1966, na redação dada pelo art. 176 da LC 227/2026, reproduz a mesma regra do parágrafo único do art. 72 da LC 214/2025, segundo a qual, na importação por conta e ordem de terceiro, considera-se importador o adquirente dos bens no exterior, unificando esse critério para o imposto de importação e para o IBS e a CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.176",
+  "para": "lcp214.74",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso III do parágrafo único do art. 32 do Decreto-Lei 37/1966, alterado pelo art. 176 da LC 227/2026, qualifica como responsável quem registra em seu nome a declaração de importação de bens adquiridos por outra pessoa, regra equivalente à do inciso I do art. 74 da LC 214/2025 para a responsabilidade solidária pelo IBS e pela CBS na importação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.2",
+  "para": "lcp214.325",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 2º da LC 227/2026 refere-se expressamente ao inciso II do caput do art. 325 da LC 214/2025 ao atribuir ao CGIBS a gestão compartilhada, com a Receita Federal, do sistema de registro do início e do resultado das fiscalizações do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
+ },
+ {
+  "de": "lcp227.2",
+  "para": "lcp214.480",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 2º da LC 227/2026 define as competências administrativas exercidas pelo CGIBS, entidade pública instituída pelo art. 480 da LC 214/2025 com independência técnica, administrativa, orçamentária e financeira, complementando o regime jurídico desse órgão criado para gerir o IBS de forma compartilhada entre os entes federativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T22:16:51+00:00"
  }
 ]
