@@ -32217,5 +32217,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T20:11:45+00:00"
+ },
+ {
+  "de": "cc.1410",
+  "para": "cpc.725",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.410 do CC lista as causas de extinção do usufruto, entre elas a morte ou renúncia do usufrutuário (inciso I), o termo de duração (inciso II) e a consolidação (inciso VI). O art. 725, inciso VI, do CPC atribui o procedimento de jurisdição voluntária à extinção de usufruto apenas quando esta não decorrer de uma dessas três causas, tratando do mesmo instituto em sua vertente processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T21:13:28+00:00"
+ },
+ {
+  "de": "cc.1955",
+  "para": "lsa.67",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.955 do CC trata do fiduciário como beneficiário do fideicomisso sucessório, titular da propriedade resolúvel até a consolidação em seu favor. O art. 67 da LSA emprega a mesma palavra para designar o agente fiduciário das debêntures, representante da comunhão dos debenturistas perante a companhia emissora. As duas figuras não guardam conteúdo comum, apenas a coincidência terminológica, o que gera risco real de confusão entre elas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T21:13:28+00:00"
+ },
+ {
+  "de": "cc.1958",
+  "para": "cpc.725",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.958 do CC trata da caducidade do fideicomisso quando o fideicomissário morre antes do fiduciário ou antes de se realizar a condição resolutória do direito deste último. O art. 725, inciso VI, do CPC atribui o procedimento de jurisdição voluntária à extinção do fideicomisso justamente quando decorrer de renúncia ou ocorrer antes do evento que caracterizar a condição resolutória, tratando do mesmo instituto em sua vertente processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T21:13:28+00:00"
+ },
+ {
+  "de": "cc.1958",
+  "para": "lsa.68",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.958 do CC regula a caducidade do fideicomisso e a consolidação da propriedade resolúvel do fiduciário. O art. 68 da LSA emprega a mesma palavra para outro instituto, o agente fiduciário que representa a comunhão dos debenturistas perante a companhia emissora. As duas figuras não guardam conteúdo comum, apenas homonímia terminológica apta a induzir a erro na leitura dos textos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T21:13:28+00:00"
+ },
+ {
+  "de": "lcp227.160",
+  "para": "ctn.150",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 150 do CTN define o lançamento por homologação como o ato pelo qual a autoridade administrativa toma conhecimento da atividade do sujeito passivo e expressamente a homologa. O art. 160 da LC 227/2026 especializa essa regra geral para o ITCMD, atribuindo privativamente a homologação do cálculo do imposto à administração tributária dos Estados e do Distrito Federal, por meio de servidores efetivos competentes para o lançamento de ofício. Tratam do mesmo instituto do lançamento por homologação, com a lei complementar definindo a competência específica para o tributo estadual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-20T21:13:28+00:00"
  }
 ]
