@@ -34527,5 +34527,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T22:12:15+00:00"
+ },
+ {
+  "de": "lsa.183",
+  "para": "cc.1187",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O caput do art. 183 da LSA fixa os critérios de avaliação dos elementos do ativo no balanço da sociedade anônima, regime especial para esse tipo societário que convive com o critério geral de avaliação do inventário mercantil fixado pelo art. 1.187 do CC para os empresários e sociedades em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T23:14:20+00:00"
+ },
+ {
+  "de": "cc.1187",
+  "para": "d9580.305",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 1.187 do CC manda avaliar as mercadorias e matérias primas destinadas à alienação pelo custo de aquisição ou de fabricação para fins de escrituração comercial do empresário, e o art. 305 do RIR/2018 manda avaliar as mercadorias e matérias primas em almoxarifado pelo mesmo custo de aquisição, mas para fins de apuração do lucro real sujeito ao imposto de renda, o que pode gerar confusão entre os dois regimes de avaliação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T23:14:20+00:00"
+ },
+ {
+  "de": "lcp87.5",
+  "para": "sc_icms_lei.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 5º da LC 87/96 autoriza, em termos gerais, que a lei atribua a terceiros a responsabilidade pelo ICMS quando atos ou omissões destes concorrerem para o não recolhimento, e o art. 9º da Lei 10.297/96-SC exerce essa autorização ao definir, no território catarinense, os armazéns gerais, os depositários e os transportadores como responsáveis nas hipóteses de irregularidade documental que ensejam o não recolhimento do imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T23:14:20+00:00"
+ },
+ {
+  "de": "lcp87.6",
+  "para": "sc_icms_lei.37",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O caput do art. 6º da LC 87/96 autoriza a lei estadual a atribuir ao contribuinte ou ao depositário a condição de substituto tributário do ICMS, e o caput do art. 37 da Lei 10.297/96-SC exerce essa autorização ao definir, no inciso I, o destinatário da mercadoria ou usuário do serviço como responsável pelo recolhimento nas operações amparadas por diferimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T23:14:20+00:00"
+ },
+ {
+  "de": "lcp87.9",
+  "para": "sc_icms_lei.38",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O caput do art. 9º da LC 87/96 condiciona a substituição tributária em operações interestaduais a acordo específico celebrado pelos Estados interessados, e o art. 38 da Lei 10.297/96-SC reproduz, no âmbito catarinense, a mesma condição, acrescentando apenas o Distrito Federal entre os entes que podem celebrar o acordo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T23:14:20+00:00"
+ },
+ {
+  "de": "lcp87.9",
+  "para": "sc_icms_lei.39",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "Os incisos I e II do § 1º do art. 9º da LC 87/96 autorizam atribuir a responsabilidade por substituição tributária ao contribuinte que realizar operação interestadual com petróleo e derivados e às empresas geradoras ou distribuidoras de energia elétrica, e os incisos I e II do art. 39 da Lei 10.297/96-SC reproduzem, com redação semelhante, essas mesmas duas hipóteses para o ICMS catarinense.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T23:14:20+00:00"
+ },
+ {
+  "de": "lef.1",
+  "para": "clt.889",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 1º da LEF disciplina a execução judicial da dívida ativa e remete, nas omissões, ao Código de Processo Civil, e o art. 889 da CLT determina que, nos trâmites e incidentes da execução trabalhista não regulados pelo próprio título, apliquem-se os preceitos que regem o processo dos executivos fiscais, o que torna a LEF fonte subsidiária também da execução trabalhista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T23:14:20+00:00"
+ },
+ {
+  "de": "clt.908",
+  "para": "lef.1",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 908 da CLT determina que a cobrança das multas administrativas trabalhistas seja feita mediante executivo fiscal, perante o juízo competente para a cobrança da dívida ativa da Fazenda Pública Federal, regime de execução judicial que o art. 1º da LEF disciplina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T23:14:20+00:00"
+ },
+ {
+  "de": "ctn.184",
+  "para": "lef.10",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 184 do CTN estabelece que a totalidade dos bens e das rendas do sujeito passivo responde pelo crédito tributário, excetuados unicamente os bens que a lei declare absolutamente impenhoráveis, e o art. 10 da LEF aplica essa mesma regra material no plano processual da penhora, ao permitir que esta recaia em qualquer bem do executado, com idêntica ressalva da impenhorabilidade absoluta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T23:14:20+00:00"
+ },
+ {
+  "de": "cpc.832",
+  "para": "lef.10",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 10 da LEF ressalva da penhora os bens que a lei declare absolutamente impenhoráveis, sem definir quais são, e o art. 832 do CPC, aplicado subsidiariamente à execução fiscal, enuncia a regra geral de que não estão sujeitos à execução os bens que a lei considera impenhoráveis ou inalienáveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T23:14:20+00:00"
+ },
+ {
+  "de": "cpc.862",
+  "para": "lef.11",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 11 da LEF admite, excepcionalmente, que a penhora recaia sobre estabelecimento comercial, industrial ou agrícola, sem disciplinar o procedimento dessa constrição, e o art. 862 do CPC, aplicado subsidiariamente, determina que o juiz nomeie administrador depositário e fixe o plano de administração do estabelecimento penhorado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T23:14:20+00:00"
+ },
+ {
+  "de": "cpc.874",
+  "para": "lef.15",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 15 da LEF autoriza a Fazenda Pública a requerer o reforço da penhora insuficiente, sem disciplinar o procedimento desse reforço, e o art. 874 do CPC, aplicado subsidiariamente, permite ao juiz ampliar a penhora para outros bens mais valiosos quando o valor dos bens penhorados for inferior ao crédito do exequente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T23:14:20+00:00"
  }
 ]
