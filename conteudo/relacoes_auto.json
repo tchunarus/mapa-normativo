@@ -33647,5 +33647,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "cc.1183",
+  "para": "d9580.262",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 262 do RIR/2018 reproduz, para fins tributários, a mesma regra de escrituração comercial do CC, citando expressamente o art. 1.183, caput e parágrafo único, como fonte da exigência de forma contábil sem rasuras, entrelinhas ou emendas, e do uso de código de números ou abreviaturas em livro próprio autenticado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T15:14:55+00:00"
+ },
+ {
+  "de": "cc.48",
+  "para": "lsa.286",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Ambos os dispositivos tratam da anulação de deliberações de pessoa jurídica eivadas de erro, dolo, simulação ou fraude e que violem a lei ou o estatuto, porém com prazos e naturezas distintas: o CC, art. 48, parágrafo único, fixa decadência de três anos para pessoas jurídicas em geral com administração coletiva, enquanto a LSA, art. 286, fixa prescrição de dois anos, restrita às deliberações de assembleia geral ou especial de companhias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T15:14:55+00:00"
+ },
+ {
+  "de": "cpc.282",
+  "para": "d70235.59",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O PAF, art. 59, § 3º, reproduz no processo administrativo fiscal a mesma lógica do CPC, art. 282, § 2º: quando a decisão de mérito favorecer a parte a quem aproveitaria a nulidade, a autoridade (ou o juiz) não a pronuncia, com risco de se aplicar o regime de um ao outro apesar de disciplinarem processos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T15:14:55+00:00"
+ },
+ {
+  "de": "cpc.282",
+  "para": "cpp.573",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O CPP, art. 573, § 2º, impõe ao juiz o mesmo dever do CPC, art. 282, caput, de declarar os atos atingidos pela nulidade para fins de repetição ou retificação, com risco de se transportar ao processo penal regras do processo civil sobre o alcance da nulidade, apesar de os dois diplomas regularem institutos próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T15:14:55+00:00"
+ },
+ {
+  "de": "cpc.282",
+  "para": "l9099.65",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "A Lei 9.099/95, art. 65, § 1º, adota o mesmo princípio do CPC, art. 282, de que a nulidade não se pronuncia sem prejuízo efetivo à parte, mas sob regime próprio e mais flexível dos juizados especiais, o que pode levar à aplicação indevida de um regime ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T15:14:55+00:00"
+ },
+ {
+  "de": "l14133.169",
+  "para": "l12527.26",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 169, § 2º, da Lei 14.133/21, torna o órgão de controle corresponsável pela manutenção do sigilo de informação que lhe seja compartilhada, no mesmo sentido do parágrafo único do art. 26 da LAI, que impõe a quem, por vínculo com o poder público, execute tratamento de informações sigilosas, o dever de adotar providências para que os procedimentos de segurança sejam observados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T15:14:55+00:00"
+ },
+ {
+  "de": "lcp227.67",
+  "para": "d70235.16",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Ambos exigem que o pedido de diligência ou perícia acompanhe a peça de impugnação, com indicação do profissional técnico e dos pontos a esclarecer, mas o PAF, art. 16, IV, denomina essa figura perito, enquanto a LC 227/2026, art. 67, § 7º, a denomina assistente técnico, terminologia que pode ser confundida entre os dois regimes de contencioso tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T15:14:55+00:00"
+ },
+ {
+  "de": "lcp227.67",
+  "para": "ctn.145",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O CTN, art. 145, estabelece que o lançamento regularmente notificado só pode ser alterado por impugnação do sujeito passivo, recurso de ofício ou iniciativa de ofício da autoridade; a LC 227/2026, art. 67, regulamenta especificamente a primeira dessas hipóteses, disciplinando como se instaura e se processa a impugnação no contencioso administrativo do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T15:14:55+00:00"
+ },
+ {
+  "de": "lcp227.67",
+  "para": "ctn.208-D",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O CTN, art. 208-D, I, assegura, no regime nacional do processo administrativo tributário introduzido pela reforma tributária, o direito de apresentação de impugnação em vinte dias contados da ciência da lavratura do auto de infração; a LC 227/2026, art. 67, integra esse mesmo regime ao detalhar, para o contencioso do IBS e da CBS, o procedimento da impugnação quanto a provas, preclusão, diligências e perícia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T15:14:55+00:00"
+ },
+ {
+  "de": "cpc.282",
+  "para": "clt.797",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "A CLT, art. 797, reproduz no processo do trabalho o mesmo dever do CPC, art. 282, caput, de o julgador declarar os atos a que a nulidade se estende, o que gera risco de confusão entre o regime trabalhista e o regime processual civil, ainda que sejam diplomas distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T15:15:22+00:00"
  }
 ]
