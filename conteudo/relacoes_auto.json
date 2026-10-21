@@ -33177,5 +33177,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T10:12:19+00:00"
+ },
+ {
+  "de": "cc.1321",
+  "para": "cpc.596",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 1.321 do CC determina a aplicação, no que couber, das regras de partilha de herança à divisão do condomínio; o art. 596 do CPC disciplina exatamente o momento de deliberação da partilha dentro do processo judicial de divisão, servindo de rito processual complementar à norma civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T11:14:07+00:00"
+ },
+ {
+  "de": "lcp123.39",
+  "para": "cf.156-B",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 39 da LC 123/06 atribui o julgamento do contencioso do Simples Nacional ao órgão da estrutura administrativa do ente federativo que efetuou o lançamento, mesmo quando o débito inclua parcela do Imposto sobre Bens e Serviços; o art. 156-B da Constituição reserva exclusivamente ao Comitê Gestor a competência para decidir o contencioso administrativo do IBS, o que gera conflito aparente de competência entre os dois dispositivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T11:14:07+00:00"
+ },
+ {
+  "de": "lcp214.327",
+  "para": "cf.156-B",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 327 da LC 214/2025 permite convênio de delegação recíproca do julgamento do contencioso administrativo relativo ao lançamento de ofício do IBS e da CBS entre o Ministério da Fazenda e o Comitê Gestor do IBS, o que gera conflito aparente com o art. 156-B da Constituição, que reserva exclusivamente ao Comitê Gestor a competência para decidir o contencioso administrativo do IBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T11:14:07+00:00"
+ },
+ {
+  "de": "lcp227.341-A",
+  "para": "sc_icms_lei.91",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 341-A da LC 227/2026 e o art. 91 da Lei 10.297/96-SC definem infração tributária em termos praticamente idênticos, um para o IBS e a CBS e outro para o ICMS catarinense, o que gera risco de confusão sobre qual regime de infrações se aplica durante a convivência transitória entre os dois tributos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T11:14:07+00:00"
  }
 ]

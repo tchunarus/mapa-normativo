@@ -483,5 +483,13 @@
   "titulo": "Tema 1364/STJ: Acórdão Publicado",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1364&cod_tema_final=1364",
   "p": "stj.tema.1364"
+ },
+ {
+  "data": "2026-10-21T11:05:22+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1421/STJ: Trânsito em Julgado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1421&cod_tema_final=1421",
+  "p": "stj.tema.1421"
  }
 ]
