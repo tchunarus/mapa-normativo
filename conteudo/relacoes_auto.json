@@ -34307,5 +34307,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "cpc.978",
+  "para": "lcp227.95",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 95 da LC 227/2026 atribui à instância de uniformização administrativa do IBS competência para julgar o incidente de uniformização, o recurso de uniformização e o pedido de retificação, o que pode ser confundido com a regra do art. 978 do CPC, segundo a qual o órgão colegiado que julga o incidente de resolução de demandas repetitivas também julga o recurso, a remessa necessária ou o processo de origem; são institutos conexos (uniformização de entendimento por órgão colegiado), um processual civil e judicial e o outro contencioso administrativo tributário do IBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T21:13:09+00:00"
+ },
+ {
+  "de": "ctn.49",
+  "para": "lcp87.19",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 49 do CTN consagra a não cumulatividade do IPI mediante a diferença, em cada período, entre o imposto incidente sobre os produtos saídos e o pago nos produtos entrados, com transferência do saldo credor para o período seguinte; o art. 19 da LC 87/96 consagra o mesmo instituto para o ICMS, compensando o imposto devido em cada operação com o cobrado nas operações anteriores; a semelhança do mecanismo de compensação entre tributos distintos gera risco real de confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T21:13:09+00:00"
+ },
+ {
+  "de": "ctn.49",
+  "para": "lcp214.45",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O saldo credor do IPI, que o parágrafo único do art. 49 do CTN transfere para o período seguinte, é conceito conexo ao saldo apurado pelo contribuinte do IBS e da CBS na forma do art. 45 da LC 214/2025 (diferença entre débitos e créditos do período, com saldo a recuperar quando negativo); tratam de institutos conexos de apuração periódica por compensação em tributos diferentes, sem que a LC 214/2025 declare expressamente a não cumulatividade nos mesmos termos do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T21:13:09+00:00"
+ },
+ {
+  "de": "floripa_ctm.247",
+  "para": "lcp87.2",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "Os incisos IV e V do art. 2º da LC 87/96 delimitam a fronteira entre ICMS e ISS ao tratar do fornecimento de mercadorias com prestação de serviços não compreendidos ou compreendidos na competência tributária dos Municípios, remetendo à lista de serviços sujeita ao imposto municipal que o art. 247 do CTM de Florianópolis relaciona; há conflito aparente de competência tributária entre os dois impostos nessas operações mistas, resolvido pela lista de serviços da lei complementar federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T21:13:09+00:00"
+ },
+ {
+  "de": "lcp214.45",
+  "para": "l10522.14-C",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 5º do art. 45 da LC 214/2025 qualifica a confissão de dívida do § 4º como instrumento hábil e suficiente para a exigência do IBS e da CBS; o parágrafo único do art. 14-C da Lei 10.522/02 emprega a mesma figura da confissão de dívida como instrumento hábil e suficiente para a exigência do crédito tributário no parcelamento simplificado; tratam do mesmo instituto (confissão de dívida como título apto à exigência do crédito), aplicado a regimes tributários distintos, com risco real de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T21:13:09+00:00"
+ },
+ {
+  "de": "lcp214.45",
+  "para": "d9580.979",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 45 da LC 214/2025 atribui à apuração do saldo do IBS e da CBS o efeito de confissão de dívida e constituição do crédito tributário; o § 1º do art. 979 do RIR/2018 atribui efeito semelhante ao documento que formaliza o cumprimento de obrigação acessória do imposto sobre a renda, qualificando-o como confissão de dívida e instrumento hábil e suficiente para a exigência do crédito; são institutos conexos de autolançamento por confissão, em tributos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T21:13:09+00:00"
+ },
+ {
+  "de": "lcp214.69",
+  "para": "adct.133",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 69 da LC 214/2025 exclui da base de cálculo do IBS e da CBS, na importação, o IPI, o ICMS e o ISS; essa exclusão regulamenta, para a hipótese de importação, o comando do art. 133 do ADCT, segundo o qual os tributos dos arts. 153, IV, 155, II, e 156, III, da Constituição Federal não integrarão a base de cálculo do imposto do art. 156-A e da contribuição do art. 195, V; tratam do mesmo instituto, em níveis normativo constitucional e complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T21:13:09+00:00"
+ },
+ {
+  "de": "lcp214.69",
+  "para": "d9580.140",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O inciso II do art. 140 do RIR/2018 utiliza o valor que serviu de base para o cálculo do imposto de importação, acrescido dos tributos e das despesas de desembaraço aduaneiro, para fixar o custo de aquisição de bens na apuração do ganho de capital; o art. 69 da LC 214/2025 utiliza lógica semelhante de agregação de tributos e encargos aduaneiros ao valor aduaneiro para compor a base de cálculo do IBS e da CBS na importação; há apenas ponto de contato entre os dispositivos, pois servem a finalidades tributárias distintas (apuração do imposto sobre a renda e base de cálculo do IBS e da CBS).",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T21:13:09+00:00"
+ },
+ {
+  "de": "lcp87.2",
+  "para": "sc_icms_lei.2",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 2º da Lei 10.297/96-SC reproduz, para Santa Catarina, as hipóteses de incidência do ICMS fixadas pelo art. 2º da LC 87/96 (Lei Kandir); os dois dispositivos tratam do mesmo instituto (fato gerador do ICMS), cabendo à lei estadual apenas aplicar e detalhar, no território catarinense, o que a norma geral complementar federal já define.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T21:13:09+00:00"
+ },
+ {
+  "de": "lcp87.2",
+  "para": "cf.155",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 2º da LC 87/96 regulamenta, para fins de incidência, a competência tributária outorgada aos Estados e ao Distrito Federal pelo inciso II do art. 155 da Constituição Federal para instituir o ICMS sobre operações de circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação; tratam do mesmo instituto, em níveis normativo constitucional e complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T21:13:09+00:00"
+ },
+ {
+  "de": "lcp87.31-A",
+  "para": "lcp214.501",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 501 da LC 214/2025 altera a LC 87/96 para nela inserir o art. 31-A, reproduzindo entre aspas o texto integral do dispositivo sobre a redução escalonada das alíquotas do ICMS de 10%, 20%, 30% e 40% entre 2029 e 2032; tratam do mesmo instituto, um como norma alteradora e o outro como redação resultante da alteração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T21:13:09+00:00"
+ },
+ {
+  "de": "lcp87.31-A",
+  "para": "lcp214.342",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 342 da LC 214/2025 remete expressamente ao regime de redução das alíquotas do imposto do art. 155, II, da Constituição Federal entre 2029 e 2032, implementado pelo art. 501 desta mesma lei, que corresponde ao art. 31-A da LC 87/96 cujo texto integral reproduz; tratam do mesmo instituto de transição tributária do ICMS para o IBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T21:13:09+00:00"
  }
 ]
