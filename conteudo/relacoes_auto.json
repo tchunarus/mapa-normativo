@@ -33507,5 +33507,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "cpc.211",
+  "para": "floripa_ctm.139",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O inciso VII do art. 139 do CTM de Florianópolis exige que os atos processuais do processo administrativo tributário municipal sejam legíveis e sem emendas ou rasuras, tratando do mesmo instituto formal do art. 211 do CPC, que veda espaços em branco, entrelinhas, emendas ou rasuras não ressalvadas nos atos e termos processuais, com risco de se aplicar por engano o regime do processo civil ao processo administrativo tributário municipal, que tem disciplina própria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "cpc.211",
+  "para": "cc.1183",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.183 do CC exige que a escrituração comercial seja feita sem intervalos em branco, entrelinhas, borrões, rasuras ou emendas, tema conexo ao do art. 211 do CPC, que impõe requisito formal semelhante aos atos e termos processuais judiciais, ainda que se trate de institutos distintos, pois um disciplina a escrituração empresarial e o outro a prática de atos no processo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "l13303.85",
+  "para": "l12527.1",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 85 da Lei 13.303/16 condiciona o acesso dos órgãos de controle a documentos sigilosos das empresas estatais aos termos da Lei nº 12.527, cujo art. 1º submete expressamente as empresas públicas e as sociedades de economia mista ao regime da Lei de Acesso à Informação, de modo que o art. 85 remete diretamente à disciplina de sujeição fixada no art. 1º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "l13303.85",
+  "para": "l14133.169",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 85 da Lei 13.303/16 assegura aos órgãos de controle acesso irrestrito a documentos e informações das empresas estatais, inclusive as classificadas como sigilosas nos termos da Lei nº 12.527, com corresponsabilidade do órgão de controle pelo sigilo, regra praticamente idêntica à do art. 169 da Lei 14.133/21 para as contratações públicas em geral, da qual as empresas estatais regidas pela Lei 13.303/16 são excluídas, de modo que há risco de se confundir qual das duas leis disciplina o acesso em cada caso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "l13303.87",
+  "para": "l14133.164",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 87 da Lei 13.303/16 permite a qualquer cidadão impugnar edital de licitação de empresa estatal até cinco dias úteis antes do certame, com resposta em até três dias úteis, regra do mesmo instituto da impugnação de edital tratada no art. 164 da Lei 14.133/21 para as licitações em geral, que admite a impugnação por qualquer pessoa em prazo de três dias úteis antes da abertura do certame, com prazos e legitimados distintos entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "l13303.87",
+  "para": "l14133.170",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 87 da Lei 13.303/16 permite a qualquer licitante, contratado ou pessoa física ou jurídica representar ao tribunal de contas ou aos órgãos de controle interno contra irregularidades na aplicação da lei, regra quase idêntica à do § 4º do art. 170 da Lei 14.133/21 para as contratações em geral, aplicável a universo de contratações distinto, pois as empresas estatais regidas pela Lei 13.303/16 não se submetem à Lei 14.133/21.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "l13303.87",
+  "para": "cf.71",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 87 da Lei 13.303/16 permite que os tribunais de contas solicitem a qualquer tempo documentos contábeis, financeiros, orçamentários e patrimoniais das empresas estatais, dando concretude, para esse universo de entidades, ao poder de fiscalização e de realização de inspeções e auditorias que o inciso IV do art. 71 da Constituição confere ao Tribunal de Contas da União sobre a administração direta e indireta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "l8212.32-B",
+  "para": "d9580.981",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 32-B da Lei 8.212/91 obriga órgãos da administração direta, autarquias, fundações e empresas públicas a apresentar contabilidade e folha de pagamento à Secretaria da Receita Federal do Brasil para fins de controle das contribuições previdenciárias, dever de colaboração conexo ao do art. 981 do RIR/2018, que obriga órgãos da administração pública e entidades de economia mista a auxiliar a fiscalização e prestar informações à mesma Secretaria, ainda que para finalidade distinta de controle do imposto de renda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "lcp227.341-G",
+  "para": "l8137.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os incisos XIII e XIV do art. 341-G da LC 227/2026 cominam multa administrativa para quem emitir documento fiscal não idôneo ou falsificar, adulterar, extraviar ou inutilizar documento fiscal relativo ao IBS e à CBS, condutas muito próximas às descritas nos incisos II e III do art. 1º da Lei 8.137/90 como crime contra a ordem tributária, de modo que a mesma conduta pode configurar simultaneamente o ilícito administrativo e o ilícito penal, institutos distintos e cumuláveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "lcp227.341-G",
+  "para": "sc_icms_lei.73-E",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso VI do art. 341-G da LC 227/2026 pune quem desenvolver, fornecer ou instalar programa ou aplicativo fiscal que possibilite a supressão ou a redução de valores do IBS ou da CBS, infração conexa à do art. 73-E da Lei 10.297/96-SC, que pune o desenvolvimento, o fornecimento ou a instalação de programa aplicativo fiscal em desacordo com a legislação do ICMS que possibilite a perda ou a alteração de dados fiscais, tributos que coexistem durante o período de transição da reforma tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "lcp227.65",
+  "para": "cc.48",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 65 da LC 227/2026 determina que a administração tributária deve anular os próprios atos quando eivados de vício de legalidade, aplicação, no âmbito tributário, do mesmo instituto geral da anulabilidade por vício que o parágrafo único do art. 48 do CC prevê para as decisões de pessoa jurídica de administração coletiva que violarem a lei ou o estatuto, ou forem eivadas de erro, dolo, simulação ou fraude, ainda que em contextos de direito público e de direito privado bem distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "lcp227.65",
+  "para": "l8213.103-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 65 da LC 227/2026 atribui à administração tributária o dever geral de anular os próprios atos eivados de vício de legalidade, instituto conexo ao do art. 103-A da Lei 8.213/91, que fixa em dez anos o prazo decadencial para a Previdência Social anular os atos administrativos de que decorram efeitos favoráveis aos beneficiários, aplicação, em outro ramo da administração pública, do mesmo poder-dever de autotutela sujeito, ali, a limite temporal expresso que o art. 65 não prevê.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "lcp227.66",
+  "para": "cpc.282",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 66 da LC 227/2026 determina que, ao declarar a nulidade, a autoridade indicará os atos por ela atingidos e ordenará as providências necessárias ao prosseguimento do processo, regra do mesmo instituto do art. 282 do CPC, segundo o qual o juiz, ao pronunciar a nulidade, declarará quais atos são atingidos e ordenará as providências necessárias para que sejam repetidos ou retificados, ainda que um regule o processo administrativo tributário do IBS e da CBS e o outro o processo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
+ },
+ {
+  "de": "lcp227.66",
+  "para": "ctn.203",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 66 da LC 227/2026 comina nulidade aos atos lavrados com erro na identificação do sujeito passivo, regra do mesmo instituto do art. 203 do CTN, que comina nulidade à inscrição em dívida ativa e ao processo de cobrança dela decorrente quando houver erro relativo aos requisitos do sujeito passivo, ainda que a nulidade do CTN seja sanável até a decisão de primeira instância mediante substituição da certidão, o que o art. 66 da LC 227/2026 não prevê nesses termos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T14:17:10+00:00"
  }
 ]
