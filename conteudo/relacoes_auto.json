@@ -33997,5 +33997,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T17:13:40+00:00"
+ },
+ {
+  "de": "d70235.34",
+  "para": "ctn.145",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 34 do PAF disciplina o procedimento do recurso de ofício, formalizado por declaração na própria decisão de primeira instância, que o art. 145, II, do CTN apenas enumera como uma das hipóteses em que o lançamento regularmente notificado pode ser alterado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T18:13:48+00:00"
+ },
+ {
+  "de": "floripa_ctm.151",
+  "para": "d70235.34",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos regulam o recurso de ofício contra decisão de primeira instância favorável ao sujeito passivo, formalizado no próprio corpo da decisão, mas em regimes tributários distintos (tributos municipais de Florianópolis e tributos federais), com hipóteses de cabimento próprias de cada diploma, o que expõe ao risco de se aplicar a um regime a disciplina do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T18:13:48+00:00"
+ },
+ {
+  "de": "floripa_ctm.151",
+  "para": "l9784.61",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 151 do CTM de Florianópolis atribui efeito suspensivo automático ao recurso de ofício ao Pleno quando a sucumbência da Fazenda excede o patamar fixado ou a matéria é de relevante interesse, excepcionando, nesse âmbito municipal, a regra geral do art. 61 da Lei 9.784/99, segundo a qual o recurso administrativo não tem efeito suspensivo, salvo disposição legal em contrário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T18:13:48+00:00"
+ },
+ {
+  "de": "lcp227.78",
+  "para": "d70235.56",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 78 da LC 227/2026 garante recurso voluntário ao colegiado de segunda instância contra decisão de primeira instância contrária ao sujeito passivo, tal como o art. 56 do PAF prevê recurso voluntário com efeito suspensivo de decisão de primeira instância, em regimes tributários distintos (IBS e tributos federais em geral), o que pode causar confusão quanto ao prazo e aos efeitos aplicáveis a cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T18:13:48+00:00"
+ },
+ {
+  "de": "lcp227.78",
+  "para": "ctn.208-C",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 208-C do CTN assegura, de forma geral para o contencioso administrativo fiscal, o cabimento de recurso voluntário contra a decisão de primeira instância, e o art. 78 da LC 227/2026 especializa essa regra para o âmbito do IBS, atribuindo o julgamento ao colegiado de segunda instância e disciplinando a devolutividade da matéria recorrida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T18:13:48+00:00"
+ },
+ {
+  "de": "lcp227.79",
+  "para": "lcp214.323-G",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 6º do art. 79 da LC 227/2026 remete expressamente ao art. 323-G da Lei Complementar nº 214, de 16 de janeiro de 2025, para os casos em que a divergência de interpretação envolver a legislação comum do IBS e da CBS, hipótese em que não é cabível o recurso de uniformização de que trata o caput do próprio art. 79.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T18:13:48+00:00"
+ },
+ {
+  "de": "lcp227.79",
+  "para": "ctn.208-D",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 208-D do CTN assegura, em termos gerais, a interposição de recurso especial contra decisão de segunda instância desfavorável nas hipóteses previstas na legislação específica, e o art. 79 da LC 227/2026 especializa essa garantia para o IBS, com o recurso de uniformização dirigido à Câmara Superior do IBS no prazo de 10 dias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T18:13:48+00:00"
+ },
+ {
+  "de": "lcp227.8",
+  "para": "lcp214.481",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 8º da LC 227/2026 e o art. 481 da LC 214/2025 descrevem, em termos praticamente idênticos, a mesma composição do Conselho Superior do CGIBS (27 membros e suplentes representantes dos Estados e do Distrito Federal e 27 representantes do conjunto dos Municípios e do Distrito Federal), ambos vigentes, o que expõe ao risco de se citar o diploma equivocado ao tratar da composição do colegiado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T18:13:48+00:00"
  }
 ]
