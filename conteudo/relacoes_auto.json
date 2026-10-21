@@ -34427,5 +34427,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T21:13:09+00:00"
+ },
+ {
+  "de": "d9580.140",
+  "para": "cc.1187",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos mencionam o custo de aquisição apurado no inventário, mas tratam de institutos distintos: o art. 140 do RIR disciplina a base de cálculo do ganho de capital na alienação de bens de pessoa física, enquanto o art. 1.187 do CC fixa critérios de avaliação contábil do inventário mercantil da empresa, o que pode gerar confusão entre os dois sentidos da palavra inventário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T22:12:15+00:00"
+ },
+ {
+  "de": "ctn.155-A",
+  "para": "l10522.14-C",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 155-A do CTN determina que as disposições do CTN relativas à moratória aplicam-se subsidiariamente ao parcelamento tributário; o art. 14-C da Lei 10.522/02 disciplina especificamente o parcelamento simplificado, que é a lei específica a que se refere o caput do art. 155-A.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T22:12:15+00:00"
+ },
+ {
+  "de": "lcp214.342",
+  "para": "adct.128",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 342 da LC 214/2025 remete ao art. 501 desta lei complementar quanto à redução das alíquotas do ICMS entre 2029 e 2032, exatamente o período e o tributo disciplinados pelo art. 128 do ADCT, que fixa as proporções constitucionais dessa redução transitória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T22:12:15+00:00"
+ },
+ {
+  "de": "lcp214.342",
+  "para": "lcp116.8-B",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 342 da LC 214/2025 remete ao art. 508 desta lei complementar quanto à redução das alíquotas do imposto previsto no art. 156, III, da Constituição Federal entre 2029 e 2032, mesma redução e mesmo período disciplinados pelo art. 8º-B da LC 116/03 para o ISS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T22:12:15+00:00"
+ },
+ {
+  "de": "lcp214.342",
+  "para": "adct.130",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "Os incisos III e IV do art. 342 da LC 214/2025 tratam da fixação das alíquotas de referência do IBS entre 2029 e 2035, matéria que o art. 130 do ADCT atribui à resolução do Senado Federal, de modo que a lei complementar detalha, em seus próprios artigos, o que a norma constitucional determina de forma geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T22:12:15+00:00"
+ },
+ {
+  "de": "lcp214.501",
+  "para": "adct.128",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O caput do art. 31-A inserido na LC 87/96 pelo art. 501 da LC 214/2025 reduz as alíquotas do ICMS nas mesmas proporções e no mesmo período de 2029 a 2032 previstos no art. 128 do ADCT, que fixa a regra constitucional de transição para esse imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T22:12:15+00:00"
+ },
+ {
+  "de": "lcp214.501",
+  "para": "ec132.12",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 31-A inserido na LC 87/96 pelo art. 501 da LC 214/2025 reduz na mesma proporção os benefícios fiscais do ICMS referidos na LC 160/2017, enquanto o art. 12 da EC 132/2023 institui fundo para compensar, no mesmo período de transição, os beneficiários desses incentivos pela perda de valor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T22:12:15+00:00"
+ },
+ {
+  "de": "lcp227.95",
+  "para": "lcp214.323-H",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 95 da LC 227/2026 atribui à instância de uniformização a competência para julgar o incidente de uniformização relativo à legislação do IBS, instituto que o art. 323-H da LC 214/2025 cria e disciplina, distinguindo as hipóteses de matérias repetitivas e de inaplicação de provimento vinculante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T22:12:15+00:00"
+ },
+ {
+  "de": "lcp87.19",
+  "para": "sc_icms_lei.21",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 19 da LC 87/96 fixa a regra geral de não cumulatividade do ICMS a ser observada por todos os Estados, e o art. 21 da Lei 10.297/96-SC reproduz, no âmbito de Santa Catarina, a mesma regra de compensação do imposto cobrado nas operações anteriores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T22:12:15+00:00"
+ },
+ {
+  "de": "lcp87.4",
+  "para": "sc_icms_lei.8",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 4º da LC 87/96 define, como norma geral nacional, quem é contribuinte do ICMS, e o art. 8º da Lei 10.297/96-SC reproduz essa mesma definição para fins de aplicação do imposto no território catarinense.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T22:12:15+00:00"
  }
 ]
