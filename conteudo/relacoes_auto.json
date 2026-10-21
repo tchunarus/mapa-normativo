@@ -33217,5 +33217,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T11:14:07+00:00"
+ },
+ {
+  "de": "ctn.149",
+  "para": "lcp227.341-F",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 149 do CTN disciplina o procedimento do lançamento de ofício, dando efetividade processual à hipótese de incidência da multa prevista no caput do art. 341-F da LC 227/2026, que se aplica expressamente aos casos de lançamento de ofício do IBS e da CBS. São institutos conexos, pois um regula o procedimento e o outro a penalidade nele aplicável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "lcp227.38",
+  "para": "lcp214.480",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 38 da LC 227/2026 organiza a Diretoria de Procuradorias como órgão interno do CGIBS, entidade instituída em caráter geral pelo art. 480 da LC 214/2025. Os dispositivos integram o mesmo regime jurídico do CGIBS, um o instituindo e o outro detalhando sua estrutura de representação judicial e de cobrança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "lcp227.38",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "Os incisos II, III e V do art. 38 atribuem à Diretoria de Procuradorias a coordenação da cobrança judicial e extrajudicial da dívida ativa e a inscrição em dívida ativa por delegação ao CGIBS, implementando a competência de arrecadação do imposto prevista no inciso II do caput do art. 156-B da Constituição Federal. São institutos conexos, a competência constitucional genérica do CGIBS e a organização interna que a exerce.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "lcp227.38",
+  "para": "lef.1",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "A coordenação das atividades de cobrança judicial da dívida ativa do CGIBS, atribuída à Diretoria de Procuradorias pelo inciso II do art. 38, remete ao regime da execução fiscal disciplinado pelo art. 1º da LEF, aplicável subsidiariamente pelo Código de Processo Civil. São institutos conexos, a atribuição de competência interna e o rito processual da cobrança a que ela se refere.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "lcp227.40",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O próprio caput do art. 40 cita expressamente o inciso IV do § 2º do art. 156-B da Constituição Federal, regulamentando a fiscalização contábil, financeira, orçamentária, operacional e patrimonial do CGIBS ali prevista, ao atribuí-la de forma coordenada, compartilhada e colegiada aos Tribunais de Contas dos Estados, do Distrito Federal e dos Municípios. Tratam do mesmo instituto, o controle externo do CGIBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "lcp227.40",
+  "para": "lcp214.480",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 40 complementa o regime do CGIBS instituído pelo art. 480 da LC 214/2025, disciplinando um aspecto de seu funcionamento, o controle externo por Tribunais de Contas, não tratado naquele dispositivo. Ambos integram o mesmo regime jurídico do CGIBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "lcp227.40",
+  "para": "cf.70",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 40 reproduz, para o CGIBS, a fórmula da fiscalização contábil, financeira, orçamentária, operacional e patrimonial do art. 70 da Constituição Federal, mas especializa o modelo ao substituir o controle unitário exercido sobre a União por um controle colegiado exercido conjuntamente por Tribunais de Contas estaduais, distrital e municipais, dada a natureza compartilhada do CGIBS. São institutos conexos, pois os entes fiscalizados e a estrutura de controle diferem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "lcp227.471-D",
+  "para": "lcp214.471-D",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 471-D da LC 227/2026 corresponde ao texto integralmente incluído no art. 471-D da LC 214/2025, conforme a nota de vigência que o acompanha. Trata-se do mesmo dispositivo, que fixa as penalidades administrativas de natureza não tributária aplicáveis ao prestador de serviço de pagamento e à instituição operadora de sistemas de pagamento no split payment.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "lcp227.471-D",
+  "para": "lcp214.32",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 471-D remete expressamente ao § 2º do art. 32 da LC 214/2025 para definir quem deve transmitir as informações cuja falta ou incorreção exclui a responsabilidade do prestador de serviço de pagamento. O § 2º do art. 32 trata exatamente dessa transmissão de informações pelo fornecedor, pelo adquirente ou pela plataforma digital, formando com o art. 471-D o mesmo instituto do procedimento padrão do split payment.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "lcp227.471-D",
+  "para": "lcp214.341-G",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 471-D impõe multas de natureza administrativa não tributária ao prestador de serviço de pagamento pelo descumprimento de deveres ligados ao split payment, ao passo que o art. 341-G da LC 214/2025 impõe multas de natureza tributária ao sujeito passivo por descumprimento de obrigações acessórias do IBS e da CBS. Há risco real de confusão entre os dois regimes de multa, ambos ligados ao IBS e à CBS, mas aplicáveis a sujeitos e por fundamentos jurídicos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "lcp227.56",
+  "para": "d70235.2",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O caput do art. 56 reproduz, com redação muito próxima, a regra de instrumentalidade das formas do art. 2º do Decreto nº 70.235/72, e o § 1º do art. 56, ao prever a formalização dos atos em formato eletrônico, corresponde à previsão do parágrafo único do art. 2º sobre a formalização em meio digital. Há risco real de confusão entre os dois dispositivos, pois o art. 56 institui regime autônomo para o processo administrativo tributário do CGIBS, distinto do processo administrativo fiscal federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "lcp227.56",
+  "para": "cpc.188",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O caput do art. 56 reproduz, quase literalmente, o princípio da instrumentalidade das formas do art. 188 do CPC, considerando válidos os atos praticados de outro modo que cumpram sua finalidade essencial. Há risco de se aplicar ao processo administrativo tributário do CGIBS a jurisprudência formada sobre o art. 188 do CPC, embora se trate de regime processual autônomo e não judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "lcp227.57",
+  "para": "lcp214.323-G",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O processo eletrônico de que trata o art. 57 abrange a tramitação e o julgamento do recurso especial perante o CGIBS disciplinado pelo art. 323-G da LC 214/2025. Os dispositivos integram o mesmo regime do contencioso administrativo do IBS e da CBS, um estabelecendo o meio eletrônico do processo e o outro o recurso nele cabível.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "lcp227.57",
+  "para": "lcp214.480",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 57 atribui ao CGIBS, entidade instituída pelo art. 480 da LC 214/2025, a competência para implementar e gerir o sistema eletrônico do processo administrativo tributário do IBS e da CBS. Ambos os dispositivos integram o mesmo regime jurídico do CGIBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T12:16:48+00:00"
  }
 ]
