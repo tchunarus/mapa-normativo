@@ -32867,5 +32867,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T01:11:07+00:00"
+ },
+ {
+  "de": "cpc.569",
+  "para": "cc.1297",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 569, I, do CPC disciplina a ação de demarcação, pela qual o proprietário obriga o confinante a estremar os prédios ou a aviventar rumos apagados; essa ação é o meio processual para o exercício do direito material assegurado pelo art. 1.297 do Código Civil, que confere ao proprietário a faculdade de demarcar o imóvel e constranger o confinante a proceder à demarcação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T06:13:11+00:00"
+ },
+ {
+  "de": "cpc.569",
+  "para": "cc.1320",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 569, II, do CPC disciplina a ação de divisão, pela qual o condômino obriga os demais consortes a estremar os quinhões; essa ação dá efetividade processual ao direito material do condômino de exigir, a todo tempo, a divisão da coisa comum, assegurado pelo art. 1.320 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T06:13:11+00:00"
+ },
+ {
+  "de": "cc.1315",
+  "para": "cpc.569",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.315 do Código Civil impõe ao condômino o dever de concorrer, na proporção de sua parte, para as despesas da divisão da coisa comum, complementando o regime da ação de divisão prevista no art. 569, II, do CPC, ao disciplinar o ônus econômico que recai sobre quem exerce essa faculdade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T06:13:11+00:00"
+ },
+ {
+  "de": "cc.1686",
+  "para": "cpc.651",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.686 do Código Civil dispõe que as dívidas de um dos cônjuges, quando superiores à sua meação, não obrigam o outro cônjuge nem seus herdeiros, regra substantiva que complementa a ordem de pagamentos do art. 651 do CPC, segundo a qual as dívidas atendidas precedem a separação da meação do cônjuge no esboço de partilha.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T06:13:11+00:00"
+ },
+ {
+  "de": "cc.1678",
+  "para": "cpc.651",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.678 do Código Civil determina que, se um cônjuge solveu dívida do outro com bens próprios, o valor deve ser atualizado e imputado à meação do outro na data da dissolução, detalhe substantivo que complementa a ordem de pagamentos do art. 651 do CPC ao disciplinar como se apura a meação disponível.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T06:13:11+00:00"
+ },
+ {
+  "de": "cc.2014",
+  "para": "cpc.651",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 2.014 do Código Civil permite ao testador indicar os bens e valores que compõem os quinhões hereditários, prevalecendo essa partilha feita pelo próprio testador, regra que complementa a ordem de pagamentos do art. 651 do CPC ao determinar como se definem os quinhões hereditários que o partidor deve observar por último.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T06:13:11+00:00"
+ },
+ {
+  "de": "lef.24",
+  "para": "cpc.876",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 24 da LEF disciplina a adjudicação de bens penhorados pela Fazenda Pública em execução fiscal, com regras próprias sobre o momento do pedido, antes ou depois do leilão, e a preferência sobre licitantes, constituindo regra especial em relação à adjudicação pelo exequente comum prevista no art. 876 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T06:13:11+00:00"
+ },
+ {
+  "de": "floripa_ctm.250",
+  "para": "lcp214.11",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 250 do Código Tributário Municipal de Florianópolis define o local da prestação de serviço para fins de ISSQN a partir do estabelecimento do prestador, enquanto o art. 11 da LC 214/2025 define o local da operação para fins de IBS e de CBS a partir de critérios distintos, como o local da entrega ou da prestação ao destinatário, o que gera risco de confusão na transição entre os dois regimes tributários sobre o mesmo serviço.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T06:13:11+00:00"
+ },
+ {
+  "de": "floripa_ctm.251",
+  "para": "sc_icms_lei.6",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 251 do Código Tributário Municipal de Florianópolis define estabelecimento prestador, para fins de ISSQN, como o local onde o contribuinte exerce, de modo permanente ou temporário, unidade econômica ou profissional de prestação de serviços, enquanto o art. 6º da Lei 10.297/96-SC define estabelecimento, para fins de ICMS, de modo mais amplo, incluindo o simples local de armazenamento de mercadorias, o que gera risco de confusão quando a operação envolve, a um só tempo, mercadoria e serviço.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T06:13:11+00:00"
+ },
+ {
+  "de": "lcp214.11",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 11 da LC 214/2025 regulamenta os critérios para a definição do destino da operação a que se refere o § 5º, IV, do art. 156-A da Constituição Federal, ao fixar, conforme a natureza do bem ou do serviço, o local da entrega, da disponibilização, da prestação ou do domicílio do adquirente ou destinatário como critério de local da operação para fins de distribuição do produto da arrecadação do IBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T06:13:11+00:00"
+ },
+ {
+  "de": "lcp214.11",
+  "para": "lcp87.11",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 11 da LC 214/2025 define o local da operação com bem móvel material pelo critério de destino, ou seja, o local da entrega ou da disponibilização ao destinatário, enquanto o art. 11 da LC 87/96 define o local da operação com mercadoria pelo critério de origem, em regra o do estabelecimento onde a mercadoria se encontre, divergência que gera risco de confusão na aplicação dos dois regimes durante a transição tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T06:13:11+00:00"
+ },
+ {
+  "de": "lcp214.5",
+  "para": "lsa.243",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 6º do art. 5º da LC 214/2025 remete expressamente ao art. 243, §§ 1º, 4º e 5º, da Lei 6.404/76 para definir, para fins de IBS e de CBS, o que se considera sociedade coligada nas operações não onerosas entre partes relacionadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T06:13:11+00:00"
+ },
+ {
+  "de": "lcp214.5",
+  "para": "lsa.116",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 5º do art. 5º da LC 214/2025 define relação de controle, para fins de IBS e de CBS, por critérios próprios, como deter preponderância nas deliberações sociais, participação superior a cinquenta por cento do capital ou poder de administrar a outra entidade, critérios que não coincidem exatamente com a definição de acionista controlador do art. 116 da Lei 6.404/76, fundada no uso efetivo do poder de voto, o que gera risco de se presumir equivalência entre os dois conceitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T06:13:11+00:00"
  }
 ]
