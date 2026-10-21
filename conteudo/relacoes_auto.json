@@ -33067,5 +33067,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T09:11:35+00:00"
+ },
+ {
+  "de": "cpc.590",
+  "para": "cc.1321",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 590 do CPC trata das operações periciais de medição e divisão do imóvel na ação de divisão, procedimento que executa a divisão do condomínio a que se refere o art. 1.321 do CC, segundo o qual se aplicam à divisão do condomínio, no que couber, as regras de partilha de herança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T10:12:19+00:00"
+ },
+ {
+  "de": "cpc.590",
+  "para": "cc.1358-D",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 1.358-D do CC exclui expressamente o imóvel em regime de multipropriedade da ação de divisão regulada pelo art. 590 do CPC, ao dispor que tal imóvel é indivisível e não se sujeita a ação de divisão ou de extinção de condomínio, excepcionando o instituto conexo da multipropriedade do procedimento geral de divisão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T10:12:19+00:00"
+ },
+ {
+  "de": "lcp227.111",
+  "para": "adct.131",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 111 da LC 227/2026 define a Receita-Base de cada Estado, Distrito Federal e Município para fins de distribuição do produto da arrecadação do imposto de que trata o art. 156-A da CF, regulamentando, na forma de lei complementar exigida pelo § 2º do art. 131 do ADCT, o mecanismo de repartição do produto da arrecadação entre os entes federativos ali previsto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T10:12:19+00:00"
+ },
+ {
+  "de": "lcp227.168",
+  "para": "lcp123.22",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 168 da LC 227/2026 dá nova redação ao art. 22 da LC 123/2006, que passa a incluir, nos incisos IV a VI do sistema de repasses do CGSN, o repasse do valor correspondente ao IBS ao CGIBS, ao Município e ao Estado, ressalvadas as hipóteses do MEI.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T10:12:19+00:00"
+ },
+ {
+  "de": "lcp227.168",
+  "para": "lcp123.33",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 168 da LC 227/2026 dá nova redação (NR) ao art. 33 da LC 123/2006, que mantém a atribuição da competência fiscalizatória das obrigações do Simples Nacional à Secretaria Especial da Receita Federal do Brasil e às secretarias de fazenda ou de finanças do Estado, do Distrito Federal ou do Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T10:12:19+00:00"
+ },
+ {
+  "de": "lcp227.168",
+  "para": "lcp123.39",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 168 da LC 227/2026 dá nova redação ao art. 39 da LC 123/2006, que passa a repartir o contencioso administrativo do Simples Nacional, no inciso II, atribuindo ao CGIBS, por meio dos Estados, do Distrito Federal e dos Municípios, o julgamento quando a questão decorrer do IBS, em vez de atribuir a competência apenas ao ente federativo autor do lançamento, como previa a redação anterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T10:12:19+00:00"
+ },
+ {
+  "de": "lcp227.168",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "A nova redação do art. 39, II, da LC 123/2006, dada pelo art. 168 da LC 227/2026, atribui ao CGIBS o julgamento do contencioso administrativo do Simples Nacional relativo ao IBS, em exercício da competência que o art. 156-B, III, da CF confere a esse colegiado para decidir o contencioso administrativo desse imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T10:12:19+00:00"
+ },
+ {
+  "de": "lcp227.168",
+  "para": "lcp214.327",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "Os incisos II e III do novo art. 39 da LC 123/2006 estabelecem regra especial de competência para o contencioso administrativo do Simples Nacional quando a matéria envolver o IBS, repartindo-a entre o CGIBS e os órgãos julgadores estaduais, distritais ou municipais, em relação de especialidade com o regime geral de delegação recíproca do julgamento do contencioso do IBS e da CBS previsto no art. 327 da LC 214/2025.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T10:12:19+00:00"
+ },
+ {
+  "de": "lcp227.323-G",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O recurso especial do art. 323-G, ao uniformizar a jurisprudência administrativa do CGIBS e do Carf em matéria comum de IBS e CBS, concretiza a competência que o inciso I do art. 156-B da CF atribui ao Comitê Gestor do IBS para uniformizar a interpretação e a aplicação da legislação do imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T10:12:19+00:00"
+ },
+ {
+  "de": "lcp227.323-J",
+  "para": "lcp214.323-J",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 323-J da LC 227/2026 integra a alteração promovida pelo art. 174 dessa lei complementar à LC 214/2025, reproduzindo integralmente o texto do art. 323-J da LC 214/2025, que relaciona os legitimados a suscitar o incidente de uniformização de matérias repetitivas de que trata o inciso I do art. 323-H.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T10:12:19+00:00"
+ },
+ {
+  "de": "lcp227.323-M",
+  "para": "lcp214.323-M",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 323-M da LC 227/2026 integra a alteração promovida pelo art. 174 dessa lei complementar à LC 214/2025, reproduzindo integralmente o texto do art. 323-M da LC 214/2025, que remete a ato conjunto do CGIBS e do Ministro de Estado da Fazenda a regulamentação do incidente de uniformização dos arts. 323-H a 323-L.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T10:12:19+00:00"
  }
 ]
