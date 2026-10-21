@@ -34147,5 +34147,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T19:12:50+00:00"
+ },
+ {
+  "de": "lcp116.1",
+  "para": "cf.155",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 155, II, da Constituição atribui aos Estados a competência sobre o ICMS, que incide sobre mercadorias e sobre serviços de transporte interestadual e de comunicação, enquanto o art. 1º da LC 116/03 fixa o fato gerador do ISS municipal. O § 2º desse art. 1º ressalva que, salvo exceção expressa na lista anexa, os serviços tributados pelo ISS não se sujeitam ao ICMS, delimitando os campos de incidência dos dois impostos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp116.1",
+  "para": "lcp87.2",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 2º da LC 87/96 sujeita ao ICMS o fornecimento de mercadorias com prestação de serviços não compreendidos na competência tributária dos Municípios, enquanto o art. 1º da LC 116/03 atrai para o ISS os serviços da lista anexa, ainda que a prestação envolva fornecimento de mercadorias. As duas normas se articulam para evitar a incidência cumulativa dos dois impostos sobre a mesma operação mista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp116.1",
+  "para": "sc_icms_lei.2",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 2º da Lei 10.297/96-SC, que institui o ICMS catarinense, sujeita ao imposto estadual o fornecimento de mercadorias com prestação de serviços não compreendidos na competência municipal, enquanto o art. 1º da LC 116/03 atrai para o ISS os serviços da lista anexa, inclusive quando envolvam fornecimento de mercadorias, delimitando a fronteira entre os dois impostos também no plano da legislação catarinense.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp116.1",
+  "para": "floripa_ctm.247",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1º da LC 116/03 fixa, em âmbito nacional, a lista de serviços tributáveis pelo ISS que vincula a competência legislativa dos Municípios, e o art. 247 do Código Tributário de Florianópolis institui o mesmo imposto reproduzindo essa lista para fins de cobrança municipal. Os dois dispositivos integram o mesmo regime do ISS, cabendo à lei complementar nacional as normas gerais e à lei municipal a efetiva instituição do tributo em Florianópolis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp214.323-K",
+  "para": "lcp227.323-K",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O texto vigente do art. 323-K da LC 214/2025 traz a anotação de que foi incluído pela LC 227/2026, cujo próprio texto reproduz a mesma redação sobre a exigência de indicação do provimento vinculante não aplicado como requisito do incidente de uniformização perante a Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS, previsto no inciso II do art. 323-H.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp214.323-K",
+  "para": "cpc.978",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 323-K da LC 214/2025 disciplina requisito do incidente de uniformização administrativo tributário do IBS e da CBS, e o art. 978 do CPC trata do julgamento do incidente de resolução de demandas repetitivas pelo órgão de uniformização de jurisprudência do tribunal. Os institutos cumprem função análoga de unificação de entendimento, em esferas distintas, administrativa e judicial, o que pode gerar confusão entre os regimes de uniformização.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp87.12",
+  "para": "sc_icms_lei.4",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 12 da LC 87/96 fixa, em âmbito nacional, os momentos de ocorrência do fato gerador do ICMS, e o art. 4º da Lei 10.297/96-SC reproduz, para o Estado de Santa Catarina, as mesmas hipóteses de ocorrência do fato gerador. Os dois dispositivos integram o mesmo regime do ICMS, cabendo à lei complementar as normas gerais e à lei estadual a instituição do tributo em Santa Catarina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp87.13",
+  "para": "sc_icms_lei.10",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 13 da LC 87/96 estabelece, em âmbito nacional, as regras de base de cálculo do ICMS para cada hipótese de fato gerador, e o art. 10 da Lei 10.297/96-SC reproduz essas mesmas regras para o imposto estadual catarinense. Os dois dispositivos integram o mesmo regime do ICMS, cabendo à lei complementar as normas gerais e à lei estadual a disciplina do tributo em Santa Catarina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp87.13",
+  "para": "cf.155",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 155 da Constituição Federal atribui à lei complementar, entre outras funções, fixar a base de cálculo do ICMS de modo que o montante do próprio imposto a integre, inclusive na importação. O § 1º, I, do art. 13 da LC 87/96 regulamenta exatamente essa delegação, ao determinar que o montante do próprio imposto integra sua base de cálculo, com o destaque em documento fiscal servindo apenas de controle.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp87.13",
+  "para": "lcp214.69",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 13, V, da LC 87/96 inclui o imposto de importação e o IPI na base de cálculo do ICMS incidente sobre bens importados, e o § 2º, II, do art. 69 da LC 214/2025 exclui expressamente o ICMS da base de cálculo do IBS e da CBS na importação de bens materiais. As duas normas delimitam, na importação, quais tributos compõem a base de cálculo de cada imposto, evitando sobreposição entre o regime atual e o regime do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp87.15",
+  "para": "sc_icms_lei.15",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 15 da LC 87/96 fixa, em âmbito nacional, os critérios supletivos de base de cálculo do ICMS quando falte o valor da operação, e o art. 15 da Lei 10.297/96-SC reproduz os mesmos critérios para o imposto estadual catarinense. Os dois dispositivos integram o mesmo regime do ICMS, cabendo à lei complementar as normas gerais e à lei estadual a disciplina do tributo em Santa Catarina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp87.18",
+  "para": "sc_icms_lei.18",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 18 da LC 87/96 autoriza, em âmbito nacional, o arbitramento da base de cálculo do ICMS quando as declarações do sujeito passivo sejam omissas ou não mereçam fé, e o art. 18 da Lei 10.297/96-SC detalha, para o Estado de Santa Catarina, o procedimento de arbitramento, incluindo as fontes de dados que a autoridade fiscal pode utilizar e a garantia de avaliação contraditória ao contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp87.24",
+  "para": "ctn.49",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 24 da LC 87/96 disciplina a apuração periódica do ICMS por compensação entre créditos e débitos escriturados, com transporte do saldo credor para o período seguinte, e o art. 49 do CTN prevê a mesma técnica de não cumulatividade e transporte de saldo credor para o IPI. Por se tratar de impostos distintos regidos por diplomas diferentes, a identidade da técnica de apuração entre ICMS e IPI pode gerar confusão entre os regimes de cada tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp87.24",
+  "para": "lcp214.45",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 24 da LC 87/96 disciplina a apuração periódica do ICMS pela compensação entre créditos e débitos do período, com transporte do saldo credor para o período seguinte, e o art. 45 da LC 214/2025 disciplina a mesma técnica de apuração periódica por saldo para o IBS e a CBS. A coexistência do regime de apuração do ICMS com o regime de apuração do tributo que o substituirá gera risco real de confusão entre os dois mecanismos durante o período de transição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp87.24",
+  "para": "sc_icms_lei.34",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 24 da LC 87/96 fixa, em âmbito nacional, a regra de apuração periódica do ICMS por compensação de créditos e débitos, e o art. 34 da Lei 10.297/96-SC reproduz essa mesma regra para o imposto estadual catarinense. Os dois dispositivos integram o mesmo regime do ICMS, cabendo à lei complementar as normas gerais e à lei estadual a disciplina do tributo em Santa Catarina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
+ },
+ {
+  "de": "lcp87.31",
+  "para": "lcp214.404",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 31 da LC 87/96 disciplina a entrega, pela União aos Estados e Municípios, de recursos compensatórios pela desoneração do ICMS nas exportações, limitada às disponibilidades orçamentárias da União, e o art. 404 da LC 214/2025 disciplina a complementação, pela União, dos recursos de compensação da transição para o IBS e a CBS, também limitada ao previsto na lei orçamentária anual. Tratando-se de fundos distintos de compensação federal a entes subnacionais, a semelhança do mecanismo pode gerar confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T20:15:34+00:00"
  }
 ]
