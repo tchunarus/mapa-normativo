@@ -33747,5 +33747,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T15:15:22+00:00"
+ },
+ {
+  "de": "clt.797",
+  "para": "cpp.573",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 573 do CPP impõe ao juiz, ao pronunciar a nulidade, o mesmo dever de declarar os atos a que ela se estende que o art. 797 da CLT prevê para o processo do trabalho, com risco de confusão entre os dois regimes de nulidade processual, cada qual com requisitos próprios de arguição e sanação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "cpp.573",
+  "para": "clt.798",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 798 da CLT prevê, para o processo do trabalho, a mesma regra de contenção dos efeitos da nulidade aos atos posteriores dela dependentes ou consequentes que o § 1º do art. 573 do CPP estabelece para o processo penal, cada qual sujeito a requisitos próprios de arguição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "cpp.573",
+  "para": "cpc.281",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 281 do CPC dispõe que a nulidade do ato torna sem efeito os subsequentes que dele dependam, preservando os independentes, regra equivalente à do § 1º do art. 573 do CPP, ainda que inserida no regime de nulidades do processo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "cpp.573",
+  "para": "d70235.59",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 59 do Decreto 70.235/72 repete, para o processo administrativo fiscal federal, a mesma regra de contenção dos efeitos da nulidade aos atos dependentes ou consequentes do § 1º do art. 573 do CPP, cada qual sujeito a regime de sanação próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "cpp.573",
+  "para": "ctn.208-H",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 208-H do CTN estabelece, para o processo administrativo tributário em geral, a mesma regra de contenção dos efeitos da nulidade aos atos posteriores dependentes ou consequentes do § 1º do art. 573 do CPP, em regime próprio de nulidades do contencioso administrativo tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "cpp.573",
+  "para": "floripa_ctm.135",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 135 do CTM de Florianópolis repete, para o processo administrativo tributário municipal, a mesma regra de contenção dos efeitos da nulidade aos atos posteriores dependentes ou consequentes do § 1º do art. 573 do CPP, em regime de nulidades próprio do contencioso tributário local.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "ctn.145",
+  "para": "floripa_ctm.53",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 53 do CTM de Florianópolis reproduz a estrutura do art. 145 do CTN sobre as hipóteses de alteração do lançamento regularmente notificado, mas diverge nos incisos I e III, ao falar em notificação direta e em publicação em jornais locais no lugar da impugnação do sujeito passivo e da iniciativa de ofício do art. 149 do CTN, o que gera conflito apenas aparente, pois o CTN, como norma geral de direito tributário, prevalece sobre a norma municipal nesses pontos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "d70235.16",
+  "para": "ctn.208-D",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 208-D do CTN assegura, em termos gerais, o direito à apresentação de impugnação no prazo de 20 dias contados da ciência da lavratura do auto de infração, direito ao qual o art. 16 do Decreto 70.235/72 dá efetividade processual ao detalhar, para o processo administrativo fiscal federal, os requisitos de conteúdo que a petição de impugnação deve observar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "d70235.16",
+  "para": "ctn.208-E",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 16 do Decreto 70.235/72 já exige que a impugnação informe se a matéria foi submetida à apreciação judicial, com juntada de cópia da petição, e o art. 208-E do CTN complementa essa exigência ao erigi-la em dever geral do sujeito passivo no contencioso administrativo tributário, estendendo-a, no parágrafo único, à consequência da renúncia ao poder de recorrer na esfera administrativa e à desistência do recurso acaso interposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "d70235.16",
+  "para": "lcp227.68",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 68 da LC 227/2026 disciplina, para o contencioso do IBS e da CBS, o indeferimento da impugnação inepta por ausência de requisitos, hipótese próxima à disciplina dos requisitos de conteúdo da impugnação do art. 16 do Decreto 70.235/72, mas cada qual pertencente a regime de contencioso administrativo tributário distinto, com risco de confusão entre os requisitos exigíveis em um e outro processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "l9099.65",
+  "para": "cpc.188",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 188 do CPC consagra a mesma regra de instrumentalidade das formas do caput do art. 65 da Lei 9.099/95, considerando válido o ato que, ainda que realizado de outro modo, preencha a finalidade essencial, cada qual, porém, inserido em regime recursal e de nulidades próprio do seu procedimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "l9099.65",
+  "para": "lcp227.56",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 56 da LC 227/2026 repete, para o contencioso administrativo do IBS e da CBS, a mesma regra de instrumentalidade das formas do caput do art. 65 da Lei 9.099/95, considerando válido o ato que, realizado de outro modo, cumpra sua finalidade essencial, ainda que em regime processual distinto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "lcp227.72",
+  "para": "floripa_ctm.137",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 137 do CTM de Florianópolis disciplina, para o contencioso tributário municipal, hipóteses de desistência expressa e tácita do litígio administrativo semelhantes às do art. 72 da LC 227/2026 para o IBS e a CBS, incluindo a propositura de ação judicial sobre a mesma matéria, mas sem contemplar a desistência tácita pela não apresentação tempestiva do recurso da alínea c do inciso II do art. 72, nem exigir, como este, que a circunstância seja reconhecida pela autoridade julgadora após colher a manifestação da autoridade competente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "lcp227.72",
+  "para": "ctn.208-E",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 208-E do CTN já prevê que a propositura de ação judicial pelo sujeito passivo com o mesmo objeto do processo administrativo fiscal importa renúncia ao poder de recorrer na esfera administrativa e desistência do recurso acaso interposto, e a alínea b do inciso II do art. 72 da LC 227/2026 complementa essa regra ao condicionar o reconhecimento dessa desistência tácita, no âmbito do IBS e da CBS, à manifestação da autoridade competente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "lcp227.74",
+  "para": "cpc.927",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 927 do CPC fixa o dever de juízes e tribunais observarem as decisões do STF em controle concentrado de constitucionalidade, os enunciados de súmula vinculante e os acórdãos em julgamento de recursos repetitivos, dever que o art. 74 da LC 227/2026 especializa para as autoridades julgadoras do contencioso administrativo do IBS e da CBS, em esfera administrativa distinta da jurisdicional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T16:16:04+00:00"
  }
 ]

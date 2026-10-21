@@ -499,5 +499,13 @@
   "titulo": "Tema 1225/STJ: Acórdão Publicado - RE Pendente",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1225&cod_tema_final=1225",
   "p": "stj.tema.1225"
+ },
+ {
+  "data": "2026-10-21T16:05:03+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1384/STJ: Acórdão Publicado - RE Pendente",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1384&cod_tema_final=1384",
+  "p": "stj.tema.1384"
  }
 ]
