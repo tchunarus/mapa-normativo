@@ -32657,5 +32657,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-20T23:16:21+00:00"
+ },
+ {
+  "de": "cc.83",
+  "para": "l9279.5",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CC, art. 83, III, classifica como bem móvel, para os efeitos legais, os direitos pessoais de caráter patrimonial e as ações correspondentes; a LPI, art. 5º, especializa essa mesma classificação ao declarar que também são bens móveis, para os efeitos legais, os direitos de propriedade industrial, com redação que reproduz a fórmula do dispositivo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T00:11:18+00:00"
+ },
+ {
+  "de": "cc.83",
+  "para": "lsa.11",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O CC, art. 83, III, qualifica como bem móvel os direitos pessoais de caráter patrimonial e as ações correspondentes a esses direitos; a LSA, art. 11, emprega o mesmo vocábulo ações para designar as frações em que se divide o capital social da companhia, instituto de natureza inteiramente diferente, o que gera risco real de confusão terminológica entre os dois dispositivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T00:11:18+00:00"
+ },
+ {
+  "de": "cpc.570",
+  "para": "adct.67",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O CPC, art. 570, trata da demarcação de terras particulares em ação cumulada com a de divisão de coisa comum entre confinantes e condôminos; o ADCT, art. 67, emprega o mesmo termo demarcação para a demarcação das terras indígenas pela União, instituto de natureza constitucional e administrativa totalmente distinta, o que gera risco real de confusão entre os dois institutos homônimos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T00:11:18+00:00"
+ },
+ {
+  "de": "cpc.596",
+  "para": "cc.1386",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O CPC, art. 596, determina que o perito institua, no ato da demarcação dos quinhões, as servidões indispensáveis em favor de uns quinhões sobre os outros; o CC, art. 1.386, prevê que as servidões prediais já existentes são indivisíveis e subsistem à divisão dos imóveis, de modo que os dois dispositivos regulam, sob ângulos complementares, o destino das servidões no processo de divisão de bem comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T00:11:18+00:00"
+ },
+ {
+  "de": "cpc.649",
+  "para": "cc.2019",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O CC, art. 2.019, prevê que os bens insuscetíveis de divisão cômoda, que não couberem na meação do cônjuge sobrevivente ou no quinhão de um só herdeiro, serão vendidos judicialmente, partilhando-se o valor apurado, ressalvado acordo para adjudicação a todos; o CPC, art. 649, reproduz essa mesma regra no processo de inventário, acrescentando a licitação entre os interessados como alternativa à venda judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T00:11:18+00:00"
+ },
+ {
+  "de": "d9580.895",
+  "para": "ctn.138",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CTN, art. 138, dispõe que a espontaneidade do sujeito passivo, excludente de responsabilidade, cessa com o início de qualquer procedimento administrativo ou medida de fiscalização relacionados com a infração; o RIR/2018, art. 895, especializa essa mesma lógica para a declaração retificadora do imposto de renda, que perde efeitos quando apresentada após o início do procedimento fiscal definido no PAF, art. 7º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T00:11:18+00:00"
+ },
+ {
+  "de": "floripa_ctm.419",
+  "para": "ctn.130",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O CTN, art. 130, determina que os créditos tributários relativos a impostos sobre a propriedade, o domínio útil ou a posse de imóvel, bem como os relativos a contribuições de melhoria, sub-rogam-se na pessoa do adquirente; o CTM de Florianópolis, art. 419, complementa esse regime ao identificar, para a Contribuição de Melhoria municipal, quem responde originalmente pelo tributo, a saber, o proprietário, o titular do domínio útil ou o possuidor a qualquer título do imóvel beneficiado pela obra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T00:11:18+00:00"
+ },
+ {
+  "de": "floripa_ctm.419",
+  "para": "ctn.34",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CTN, art. 34, define o contribuinte do imposto sobre a propriedade predial e territorial urbana pela titularidade do imóvel, ou seja, o proprietário, o titular do domínio útil ou o possuidor a qualquer título; o CTM de Florianópolis, art. 419, especializa essa mesma fórmula de vinculação ao imóvel para determinar o responsável pelo pagamento da Contribuição de Melhoria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T00:11:18+00:00"
+ },
+ {
+  "de": "l9430.47",
+  "para": "d9580.954",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "A Lei 9.430/96, art. 47, faculta à pessoa física ou jurídica submetida a ação fiscal o pagamento, até o vigésimo dia seguinte ao recebimento do termo de início de fiscalização, dos tributos já declarados, com os acréscimos legais do procedimento espontâneo; o RIR/2018, art. 954, regulamenta essa mesma regra para o imposto de renda, reproduzindo-a com a mesma redação essencial e indicando expressamente a Lei 9.430/96, art. 47, como fonte legal do dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T00:11:18+00:00"
+ },
+ {
+  "de": "l9430.47",
+  "para": "d9580.999",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A Lei 9.430/96, art. 47, concede ao sujeito passivo fiscalizado a possibilidade de pagamento dos tributos já declarados dentro do prazo de vinte dias após o termo de início de fiscalização; o RIR/2018, art. 999, complementa essa mesma disciplina ao esclarecer que, fora desse prazo, o pagamento do tributo após o início da ação fiscal não afasta as penalidades previstas na legislação tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T00:11:18+00:00"
  }
 ]
