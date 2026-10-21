@@ -32997,5 +32997,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T06:13:11+00:00"
+ },
+ {
+  "de": "cc.1297",
+  "para": "cpc.574",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 574 do CPC disciplina os requisitos da petição inicial da ação de demarcação (designação do imóvel, descrição dos limites a aviventar ou renovar e nomeação dos confinantes), dando forma processual ao mesmo direito de demarcação previsto no art. 1.297 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T09:11:35+00:00"
+ },
+ {
+  "de": "cc.1315",
+  "para": "cpc.596",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 596 do CPC regula a atuação do perito na demarcação dos quinhões e na adjudicação de benfeitorias comuns mediante compensação, concretizando em juízo a obrigação de cada condômino de concorrer, na proporção de sua parte, para as despesas de divisão prevista no art. 1.315 do CC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T09:11:35+00:00"
+ },
+ {
+  "de": "cc.1315",
+  "para": "cpc.590",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 590 do CPC prevê a nomeação de peritos para a medição do imóvel e as operações de divisão, com indicação de valores de benfeitorias e proprietários, servindo de base processual para apurar as despesas de divisão que o art. 1.315 do CC impõe aos condôminos na proporção de suas partes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T09:11:35+00:00"
+ },
+ {
+  "de": "cc.1678",
+  "para": "cpc.790",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 790 do CPC trata da execução, por terceiro credor, dos bens próprios ou da meação do cônjuge que respondem por dívida comum, o que pode ser confundido com a imputação interna prevista no art. 1.678 do CC, instituto distinto por disciplinar o acerto entre os próprios cônjuges, e não a satisfação de credor externo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T09:11:35+00:00"
+ },
+ {
+  "de": "cc.2014",
+  "para": "ctn.192",
+  "tipo": "complementa",
+  "grau": "contato",
+  "porque": "O art. 192 do CTN condiciona toda sentença de partilha ou adjudicação à prova de quitação dos tributos relativos aos bens do espólio, requisito que também recai sobre a partilha feita pelo próprio testador nos termos do art. 2.014 do CC, sem que os dois dispositivos tratem da mesma matéria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T09:11:35+00:00"
+ },
+ {
+  "de": "lcp214.6",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 6º da LC 214/2025 detalha as hipóteses em que o IBS e a CBS não incidem, regulamentando o imposto sobre bens e serviços de competência compartilhada instituído pelo art. 156-A da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T09:11:35+00:00"
+ },
+ {
+  "de": "lcp214.72",
+  "para": "ctn.19",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 19 do CTN define a entrada de produto estrangeiro no território nacional como fato gerador do imposto de importação, conceito que pode ser confundido com a identificação do contribuinte do IBS e da CBS pelo art. 72 da LC 214/2025, embora se trate de tributo diverso, com fato gerador próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T09:11:35+00:00"
  }
 ]
