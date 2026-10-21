@@ -33897,5 +33897,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T16:16:04+00:00"
+ },
+ {
+  "de": "clt.798",
+  "para": "cpc.281",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 281 do CPC consagra, no processo civil, a mesma regra de limitação dos efeitos da nulidade aos atos posteriores que dela dependam, presente no art. 798 da CLT para o processo do trabalho, de modo que há risco de se invocar o dispositivo do rito diverso daquele em curso, apesar de cada um pertencer a regime processual próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T17:13:40+00:00"
+ },
+ {
+  "de": "clt.798",
+  "para": "d70235.59",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 59 do Decreto 70.235/72 repete, no processo administrativo fiscal federal, a mesma regra do art. 798 da CLT, de que a nulidade só prejudica os atos posteriores que dela dependam diretamente ou sejam consequência, cada qual, porém, em esfera processual própria e sujeita a hipóteses de nulidade distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T17:13:40+00:00"
+ },
+ {
+  "de": "clt.798",
+  "para": "ctn.208-H",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 208-H do CTN enuncia, para o processo administrativo fiscal, a mesma regra de contenção dos efeitos da nulidade prevista no art. 798 da CLT, segundo a qual só são atingidos os atos posteriores que dela dependam diretamente, apesar de cada dispositivo pertencer a regime processual distinto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T17:13:40+00:00"
+ },
+ {
+  "de": "clt.798",
+  "para": "floripa_ctm.135",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 135 do CTM de Florianópolis reproduz, no contencioso tributário municipal, a mesma regra do art. 798 da CLT, de que a nulidade do ato só prejudica os posteriores que dele dependam diretamente, cada qual, no entanto, inserido em regime processual próprio e com hipóteses de nulidade distintas entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T17:13:40+00:00"
+ },
+ {
+  "de": "ctn.208-E",
+  "para": "lef.38",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 38 da LEF já prevê, para a execução fiscal, que a propositura pelo contribuinte de mandado de segurança, ação de repetição do indébito ou ação anulatória do ato declarativo da dívida importa renúncia ao poder de recorrer na esfera administrativa e desistência do recurso interposto, e o art. 208-E do CTN complementa essa consequência ao generalizá-la para qualquer ação judicial com o mesmo objeto do processo administrativo fiscal e ao acrescentar o dever de o sujeito passivo informar a propositura e juntar cópia da petição para exame da identidade dos objetos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T17:13:40+00:00"
+ },
+ {
+  "de": "ctn.208-E",
+  "para": "floripa_ctm.137",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 137 do CTM de Florianópolis prevê, para o contencioso tributário municipal, que a propositura de ação judicial relativa à matéria do processo administrativo opera a desistência tácita do litígio, hipótese próxima à renúncia ao poder de recorrer e à desistência do recurso que o art. 208-E do CTN atribui, no âmbito federal, à propositura de ação judicial com o mesmo objeto do processo administrativo fiscal, mas sem reproduzir o dever de informar a propositura nem a avaliação da identidade dos objetos pela autoridade administrativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T17:13:40+00:00"
+ },
+ {
+  "de": "lcp227.68",
+  "para": "l8934.48",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 48 da Lei 8.934/94 prevê, no registro mercantil, o indeferimento liminar do recurso assinado por procurador sem mandato ou interposto fora do prazo, hipóteses próximas às de ilegitimidade de parte e de intempestividade que o art. 68 da LC 227/2026 trata como causas de indeferimento da impugnação e dos recursos no contencioso administrativo do IBS e da CBS, ainda que em regimes administrativos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T17:13:40+00:00"
+ },
+ {
+  "de": "lcp227.75",
+  "para": "ctn.208-D",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 208-D do CTN garante, no processo administrativo fiscal em geral, o direito à impugnação e à interposição de recurso voluntário e de recurso especial, cada qual no prazo de 20 dias, estrutura muito próxima à que o art. 75 da LC 227/2026 prevê para o contencioso administrativo do IBS e da CBS, que também admite recurso voluntário e recurso especial e fixa, no § 1º, prazo padrão de 20 dias, acrescentando ainda o recurso de ofício e o recurso de uniformização, inexistentes no rol do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T17:13:40+00:00"
+ },
+ {
+  "de": "lcp227.77",
+  "para": "d70235.34",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 34 do Decreto 70.235/72 impõe à autoridade de primeira instância o recurso de ofício à instância superior quando a decisão exonerar o sujeito passivo do pagamento de tributo e multa de valor total a ser fixado em ato ministerial, regra análoga à do art. 77 da LC 227/2026, que impõe o recurso de ofício ao órgão julgador de primeira instância do contencioso do IBS e da CBS sempre que a decisão for contrária à Fazenda Pública, ressalvada, em ambos os casos, a hipótese de valor inferior ao limite fixado pela autoridade competente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T17:13:40+00:00"
+ },
+ {
+  "de": "lcp227.77",
+  "para": "floripa_ctm.151",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 151 do CTM de Florianópolis impõe à câmara julgadora, no contencioso tributário municipal, recurso de ofício ao pleno sempre que a sucumbência da Fazenda Pública exceda o valor de 10.000 UFIRs, regra próxima à do art. 77 da LC 227/2026, que impõe o recurso de ofício ao órgão julgador de primeira instância do contencioso do IBS e da CBS quando a decisão for contrária à Fazenda Pública, ressalvado valor inferior ao limite fixado pelo CGIBS, ainda que cada regime fixe o parâmetro de valor e a autoridade competente para defini-lo de modo próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T17:13:40+00:00"
  }
 ]

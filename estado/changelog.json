@@ -507,5 +507,14 @@
   "titulo": "Tema 1384/STJ: Acórdão Publicado - RE Pendente",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1384&cod_tema_final=1384",
   "p": "stj.tema.1384"
+ },
+ {
+  "data": "2026-10-21T17:06:00+00:00",
+  "fonte": "Planalto",
+  "tipo": "alterado",
+  "d": "l13874.20",
+  "titulo": "Lei 13.874/19, Art. 20: texto alterado",
+  "nota": "",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm"
  }
 ]
