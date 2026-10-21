@@ -32757,5 +32757,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T00:11:18+00:00"
+ },
+ {
+  "de": "adct.67",
+  "para": "cf.231",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 67 do ADCT fixou prazo de cinco anos, a partir da promulgação da Constituição, para a União concluir a demarcação das terras indígenas cujo reconhecimento e demarcação são tratados, em caráter permanente, pelo art. 231 da Constituição Federal, que atribui à União a competência para demarcá-las e dispõe sobre os direitos originários dos índios sobre essas terras.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T01:11:07+00:00"
+ },
+ {
+  "de": "adct.67",
+  "para": "cpc.569",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 569 do CPC disciplina a ação de demarcação entre particulares, para fixar os limites entre prédios confinantes, instituto de direito privado distinto da demarcação de terras indígenas prevista no art. 67 do ADCT, que é ato administrativo da União fundado no art. 231 da Constituição; a coincidência do termo demarcação entre os dois dispositivos gera risco de confusão entre os institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T01:11:07+00:00"
+ },
+ {
+  "de": "cc.2019",
+  "para": "cpc.651",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 651 do CPC disciplina a ordem de pagamentos observada pelo partidor na organização do esboço da partilha, etapa do mesmo processo de inventário em que se insere a hipótese de bens insuscetíveis de divisão cômoda tratada no art. 2.019 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T01:11:07+00:00"
+ },
+ {
+  "de": "cc.2019",
+  "para": "cpc.640",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 640 do CPC determina a licitação entre os herdeiros quando a parte inoficiosa da doação recair sobre bem imóvel que não comporte divisão cômoda, aplicando aos excessos de doação a mesma técnica de licitação que o art. 2.019 do Código Civil prevê para os bens insuscetíveis de divisão cômoda na partilha.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T01:11:07+00:00"
+ },
+ {
+  "de": "cc.2019",
+  "para": "cpc.876",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 876 do CPC trata da adjudicação de bens penhorados pelo exequente, no âmbito da execução forçada, instituto distinto da adjudicação de bens insuscetíveis de divisão cômoda a herdeiro ou cônjuge sobrevivente prevista no art. 2.019 do Código Civil, de modo que a identidade terminológica entre as adjudicações gera risco de confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T01:11:07+00:00"
+ },
+ {
+  "de": "d9580.954",
+  "para": "ctn.138",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 138 do CTN exclui a espontaneidade da denúncia apresentada após o início de medida de fiscalização; o art. 954 do RIR/2018 disciplina exatamente o que ocorre nesse momento posterior, permitindo o pagamento do tributo já declarado, porém com multa e juros de mora, já que a denúncia espontânea deixou de ser cabível.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T01:11:07+00:00"
+ },
+ {
+  "de": "d9580.954",
+  "para": "l9430.61",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 61 da Lei nº 9.430/96 fixa a multa de mora geral de trinta e três centésimos por cento ao dia para os débitos não pagos no prazo legal, ao passo que o art. 954 do RIR/2018 prevê regra específica aplicável no prazo de vinte dias após o início da fiscalização, com acréscimos legais próprios do procedimento espontâneo, afastando nesse período a aplicação da multa de mora geral do art. 61.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T01:11:07+00:00"
+ },
+ {
+  "de": "d9580.999",
+  "para": "ctn.138",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 999 do RIR/2018 dispõe que o pagamento do tributo após o início da ação fiscal não exime o contribuinte das penalidades previstas na legislação tributária; essa regra aplica, no âmbito do imposto sobre a renda, o mesmo critério do parágrafo único do art. 138 do CTN, segundo o qual não se considera espontânea a denúncia apresentada após o início de procedimento administrativo ou medida de fiscalização, afastando a exclusão de responsabilidade por denúncia espontânea.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T01:11:07+00:00"
+ },
+ {
+  "de": "lcp116.3",
+  "para": "floripa_ctm.250",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 250 do Código Tributário Municipal de Florianópolis reproduz, para o Município, a regra geral do art. 3º da LC 116/03 sobre o local onde se considera prestado o serviço e devido o imposto, regulamentando no âmbito municipal o estabelecimento prestador como critério geral e as exceções previstas em incisos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T01:11:07+00:00"
+ },
+ {
+  "de": "lcp116.3",
+  "para": "lcp214.11",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 3º da LC 116/03 define o local da prestação de serviço para fins de ISS, em regra, pelo estabelecimento do prestador, enquanto o art. 11 da LC 214/2025, incisos I a III, adota para o IBS e a CBS critérios distintos, vinculados à entrega do bem, à localização do imóvel ou ao local da prestação ao destinatário, o que pode gerar confusão entre os critérios de localização da tributação sobre serviços no regime do ISS e no novo regime do IBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T01:11:07+00:00"
+ },
+ {
+  "de": "lcp116.3",
+  "para": "floripa_ctm.251",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 251 do Código Tributário Municipal de Florianópolis define o que se considera estabelecimento prestador, conceito central para a aplicação da regra geral de local de incidência do imposto prevista no art. 3º da LC 116/03, complementando-a com os elementos que caracterizam essa unidade econômica ou profissional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T01:11:07+00:00"
  }
 ]
