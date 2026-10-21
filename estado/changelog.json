@@ -1164,5 +1164,13 @@
   "titulo": "LC 123/06, Art. 89: texto alterado",
   "nota": "Vide Lei Complementar nº 214, de 2025",
   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm"
+ },
+ {
+  "data": "2026-10-21T19:03:27+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1332/STJ: Em Julgamento",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1332&cod_tema_final=1332",
+  "p": "stj.tema.1332"
  }
 ]

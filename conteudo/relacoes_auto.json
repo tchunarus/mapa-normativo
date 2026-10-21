@@ -34077,5 +34077,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T18:13:48+00:00"
+ },
+ {
+  "de": "lcp227.80",
+  "para": "cpc.1022",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O pedido de retificação do art. 80 da LC 227/2026 autoriza corrigir erro de fato, eliminar contradição ou obscuridade e suprir omissão na decisão do contencioso administrativo do IBS, com fundamentos quase idênticos aos dos embargos de declaração do art. 1.022 do CPC (esclarecer obscuridade, eliminar contradição, suprir omissão, corrigir erro material). São institutos conexos, um administrativo e outro judicial, com risco real de confusão quanto ao regime cabível em cada via de impugnação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T19:12:50+00:00"
+ },
+ {
+  "de": "lcp227.82-A",
+  "para": "floripa_ctm.389",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 82-A da LC 227/2026 reproduz a contribuição para custeio da iluminação pública e de sistemas de monitoramento de logradouros, nos moldes do art. 149-A da Constituição Federal. O art. 389 do CTM de Florianópolis, porém, ainda denomina o mesmo encargo de Taxa de Iluminação Pública, com base em dispositivo constitucional anterior à criação da contribuição, citado no próprio texto municipal, o que gera risco de confusão sobre a natureza jurídica do tributo vigente sobre a mesma materialidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T19:12:50+00:00"
+ },
+ {
+  "de": "lcp227.82-A",
+  "para": "cf.149-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 82-A da LC 227/2026 reproduz, em lei complementar federal, o texto do art. 149-A da Constituição Federal, mantendo a competência dos Municípios e do Distrito Federal para instituir a contribuição de custeio da iluminação pública e dos sistemas de monitoramento de logradouros, inclusive a faculdade de cobrança na fatura de energia elétrica prevista no parágrafo único do art. 149-A.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T19:12:50+00:00"
+ },
+ {
+  "de": "lcp227.86",
+  "para": "lcp214.323-K",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 86 da LC 227/2026, segundo o art. 85 da mesma lei, aplica-se ao incidente de uniformização do inciso II do art. 81, relativo à legislação específica do IBS, exigindo a indicação do provimento vinculante não aplicado pela decisão de segunda instância. O art. 323-K da LC 214/2025 impõe exigência equivalente para o incidente de uniformização do inciso II do art. 323-H, relativo à legislação comum do IBS e da CBS. São institutos conexos, com texto quase idêntico, que se distinguem apenas pelo âmbito de legislação a que se aplicam.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T19:12:50+00:00"
+ },
+ {
+  "de": "lcp87.1",
+  "para": "sc_icms_lei.1",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1º da LC 87/96 fixa, como norma geral nacional, a competência dos Estados para instituir o ICMS. O art. 1º da Lei 10.297/96-SC especializa essa competência para o Estado de Santa Catarina, declarando que o imposto já instituído pela Lei estadual nº 7.547/89 passa a reger-se pela nova lei estadual, dentro dos limites da norma geral complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T19:12:50+00:00"
+ },
+ {
+  "de": "lcp87.1",
+  "para": "lcp116.1",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 1º da LC 87/96 institui o ICMS sobre operações de circulação de mercadorias e sobre serviços de transporte interestadual e intermunicipal e de comunicação. O § 2º do art. 1º da LC 116/03, lei do ISS municipal, resolve o aparente conflito de competência ao determinar que os serviços constantes da lista anexa não ficam sujeitos ao ICMS, ressalvadas as exceções nela expressas, ainda que a prestação envolva fornecimento de mercadorias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T19:12:50+00:00"
+ },
+ {
+  "de": "lcp87.11",
+  "para": "sc_icms_lei.5",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 11 da LC 87/96 fixa, como norma geral nacional, os critérios de definição do local da operação ou da prestação para fins de cobrança do ICMS e identificação do estabelecimento responsável. O art. 5º da Lei 10.297/96-SC especializa os mesmos critérios para as operações e prestações alcançadas pela competência tributária do Estado de Santa Catarina, reproduzindo as mesmas hipóteses das alíneas do inciso I ao V.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T19:12:50+00:00"
  }
 ]
