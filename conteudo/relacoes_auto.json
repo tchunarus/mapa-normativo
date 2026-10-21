@@ -33357,5 +33357,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T12:16:48+00:00"
+ },
+ {
+  "de": "cf.70",
+  "para": "adct.16",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 16, § 2º, do ADCT repete o mesmo regime de fiscalização contábil, financeira, orçamentária, operacional e patrimonial do art. 70 da Constituição, mas o aplica, em caráter transitório, ao Distrito Federal, por meio do Senado Federal e do Tribunal de Contas do Distrito Federal, enquanto não instalada a Câmara Legislativa distrital.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "cf.70",
+  "para": "l13303.85",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 85 da Lei 13.303/16 reproduz o mesmo conjunto de aspectos da fiscalização previsto no art. 70 da Constituição (contábil, financeiro, operacional e patrimonial), mas o volta especificamente para as empresas públicas e sociedades de economia mista, exercido pelos órgãos de controle externo e interno das três esferas de governo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "cf.70",
+  "para": "l13303.87",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 87 da Lei 13.303/16 detalha o procedimento de controle das despesas de contratos das estatais pelos órgãos de controle interno e pelo tribunal de contas competente, invocando expressamente os termos da Constituição, e assim dá execução, em contexto específico, ao controle externo e interno de que trata o art. 70.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "cf.70",
+  "para": "l8212.32-B",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 32-B da Lei 8.212/91 impõe aos órgãos da administração direta, autarquias, fundações e empresas públicas a obrigação de apresentar sua contabilidade ao Tribunal de Controle Externo, dando concretude ao dever de prestação de contas de quem administra recursos públicos previsto no parágrafo único do art. 70 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "d70235.2",
+  "para": "cpc.211",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 211 do CPC veda, nos mesmos termos do art. 2º do PAF (sem espaço em branco, entrelinhas, rasuras ou emendas não ressalvadas), a presença de vícios formais nos atos e termos processuais, de modo que a identidade de redação entre os diplomas gera risco real de se invocar a regra processual civil em vez da regra do processo administrativo fiscal, ou vice-versa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "d70235.2",
+  "para": "cpc.188",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 188 do CPC consagra a mesma instrumentalidade das formas do art. 2º do PAF (os atos e termos processuais independem de forma determinada, salvo exigência legal expressa, bastando atingir a finalidade essencial), com redação praticamente idêntica, o que pode levar a se confundir qual diploma rege o processo administrativo fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "d70235.2",
+  "para": "cpc.193",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 193 do CPC, ao autorizar que os atos processuais sejam total ou parcialmente digitais, trata do mesmo tema do parágrafo único do art. 2º do PAF (atos e termos processuais formalizados, tramitados, comunicados e transmitidos em formato digital), com risco de se confundir o regime de digitalização do processo civil com o do processo administrativo fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "lcp214.341-G",
+  "para": "lcp227.341-G",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 341-G da LC 227/2026 reproduz, com a mesma numeração e redação, as multas por descumprimento de obrigações acessórias do IBS e da CBS já previstas no art. 341-G da LC 214/2025, de modo que a coexistência de dois dispositivos idênticos em diplomas distintos gera risco real de se citar a lei complementar equivocada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "lcp214.471-D",
+  "para": "lcp227.471-F",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 471-F da LC 227/2026 estabelece o procedimento de impugnação da penalidade aplicada ao prestador de serviço de pagamento ou à instituição operadora do sistema de pagamento, dentro do mesmo regime de penalidades do split payment de que trata o art. 471-D, ao prever o prazo e o órgão competente para a impugnação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "lcp227.58",
+  "para": "l13874.18",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 18 da Lei 13.874/19 consagra a regra geral de que qualquer meio de comprovação de autoria e integridade de documento em forma eletrônica é válido, da qual o art. 58 da LC 227/2026 constitui regra especial, ao definir, para o âmbito tributário do IBS e da CBS, que o documento eletrônico com garantia de autoria, autenticidade e integridade é considerado original para todos os efeitos legais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "lcp227.58",
+  "para": "cpc.195",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 195 do CPC exige que o registro do ato processual eletrônico atenda aos requisitos de autenticidade e integridade, tema conexo ao do art. 58 da LC 227/2026, que também condiciona o valor de documento original à garantia de autenticidade e integridade, ainda que em contextos distintos de ato processual judicial e de documento fiscal eletrônico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "lcp227.58",
+  "para": "cpc.411",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 411 do CPC considera autêntico o documento cuja autoria esteja identificada por certificação eletrônica, tratando do mesmo instituto da equivalência entre documento eletrônico e documento original versado no art. 58 da LC 227/2026, com risco de se aplicar o critério genérico do CPC em vez do critério específico da legislação tributária do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "lcp227.58",
+  "para": "l8934.39-B",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 39-B da Lei 8.934/94 permite a comprovação eletrônica de autenticação e autoria de documentos no registro público de empresas mercantis, ponto de contato com o art. 58 da LC 227/2026, que trata da mesma equivalência eletrônica em outro contexto de documentos fiscais do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "lcp227.64",
+  "para": "ctn.127-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 127-A do CTN autoriza, em termos gerais, que as intimações do processo tributário administrativo sejam feitas por meio de Domicílio Tributário Eletrônico, e o art. 64 da LC 227/2026, em conjunto com os arts. 332 e 333 da LC 214/2025 ali referidos, dá concretude a essa autorização para o processo administrativo tributário do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
+ },
+ {
+  "de": "lcp227.64",
+  "para": "d70235.23",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 23 do PAF disciplina as formas gerais de intimação no processo administrativo fiscal federal, pessoal, postal e eletrônica, tema do mesmo instituto tratado pelo art. 64 da LC 227/2026 para o processo administrativo tributário do IBS e da CBS, que estabelece regime próprio de intimação por DTE, com risco de se aplicar por engano a regra geral do PAF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-21T13:16:04+00:00"
  }
 ]
