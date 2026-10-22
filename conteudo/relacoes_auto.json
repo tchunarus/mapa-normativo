@@ -34787,5 +34787,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T06:10:30+00:00"
+ },
+ {
+  "de": "cpc.58",
+  "para": "l7347.2",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam da prevenção do juízo como critério para concentrar ações relacionadas perante um único julgador, mas o art. 2º da Lei 7.347/85 estabelece regra especial para a ação civil pública, fixando o foro do local do dano e prevenindo a jurisdição do juízo para toda ação posterior com a mesma causa de pedir ou o mesmo objeto, enquanto o art. 58 do CPC define a regra geral de reunião, no juízo prevento, das ações propostas em separado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "cpc.58",
+  "para": "l11101.78",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 78 da Lei 11.101/05 institui regra especial de distribuição por dependência, que concentra no juízo da falência as ações a ela relacionadas, ao passo que o art. 58 do CPC trata da reunião, no juízo prevento, das ações conexas propostas em separado, de modo que os dois dispositivos tocam institutos conexos de concentração de causas perante um único juízo, sem se confundirem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "floripa_ctm.101",
+  "para": "ctn.184",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos reproduzem a mesma regra de garantia patrimonial do crédito tributário, respondendo a totalidade dos bens e rendas do sujeito passivo ainda que gravados por ônus real ou cláusula de inalienabilidade ou impenhorabilidade, mas o art. 101 do CTM de Florianópolis especializa essa norma geral do art. 184 do CTN para o âmbito da arrecadação tributária municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "floripa_ctm.101",
+  "para": "cc.1911",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 1.911 do Código Civil estabelece que a cláusula de inalienabilidade imposta por liberalidade implica impenhorabilidade e incomunicabilidade do bem, mas o art. 101 do CTM de Florianópolis excepciona esse efeito civil ao determinar que o crédito tributário municipal alcança os bens gravados por tal cláusula, qualquer que seja a data de sua constituição, afastando a proteção patrimonial que a cláusula normalmente confere.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "floripa_ctm.104",
+  "para": "ctn.187",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos afastam o crédito tributário do concurso de credores e da habilitação em falência, concordata, inventário ou arrolamento, estabelecendo a mesma ordem de preferência entre pessoas jurídicas de direito público, mas o art. 104 do CTM de Florianópolis especializa a regra geral do art. 187 do CTN para a cobrança do crédito tributário municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "floripa_ctm.104",
+  "para": "lef.31",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 104 do CTM de Florianópolis afasta o crédito tributário municipal do concurso de credores e da habilitação em falência, concordata, inventário ou arrolamento, e o art. 31 da LEF complementa esse regime de extraconcursalidade ao condicionar qualquer alienação judicial autorizada nesses processos à prova de quitação da Dívida Ativa ou à concordância da Fazenda Pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "lef.32",
+  "para": "l14973.40",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 32 da LEF sujeita os depósitos judiciais à atualização monetária pelos índices dos débitos tributários federais, e o art. 40 da Lei 14.973/24 complementa essa disciplina ao estabelecer que os valores depositados na Conta Única do Tesouro Nacional sejam corrigidos conforme a norma vigente ao tempo do depósito, até a edição do ato regulamentador próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "lef.34",
+  "para": "cpc.1023",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 34 da LEF autoriza embargos infringentes e de declaração contra sentenças de execuções de pequeno valor sem detalhar os requisitos dos embargos de declaração, que vêm supridos, por força da aplicação subsidiária do Código de Processo Civil à execução fiscal, pelo art. 1.023 do CPC, que fixa prazo de cinco dias e exige a indicação de erro, obscuridade, contradição ou omissão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "lef.34",
+  "para": "cpc.1026",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "A LEF não disciplina os efeitos dos embargos de declaração previstos em seu art. 34, de modo que se aplica subsidiariamente o art. 1.026 do CPC, segundo o qual os embargos de declaração não possuem efeito suspensivo, interrompem o prazo recursal e podem gerar multa quando manifestamente protelatórios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "lef.38",
+  "para": "lcp227.72",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 38 da LEF prevê que a propositura de ação judicial sobre a Dívida Ativa importa renúncia ao poder de recorrer administrativamente, e a alínea b do inciso II do art. 72 da LC 227/2026 complementa essa consequência ao prever, de forma geral para o processo administrativo tributário, que a propositura de ação judicial sobre a mesma matéria opera a desistência tácita do litígio na esfera administrativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "lef.38",
+  "para": "cpc.999",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 38 da LEF impõe ao contribuinte a renúncia ao poder de recorrer administrativamente pela só propositura da ação judicial, e o art. 999 do CPC aplica-se subsidiariamente ao esclarecer o princípio geral de que a renúncia ao direito de recorrer independe da aceitação da outra parte, ainda que os dois dispositivos tratem de esferas recursais distintas, administrativa e judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "lef.39",
+  "para": "l8429.23-B",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos isentam o adiantamento de custas e despesas processuais, mas há risco de confusão quanto ao alcance de cada um, pois o art. 39 da LEF beneficia exclusivamente a Fazenda Pública em qualquer ação de seu interesse, enquanto o art. 23-B da LIA isenta qualquer parte nas ações e nos acordos regidos por essa lei, prevendo ainda pagamento das custas ao final em caso de procedência e honorários apenas se comprovada má-fé do réu absolvido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "lef.39",
+  "para": "l7347.18",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Há risco de confusão entre a isenção de custas da Fazenda Pública prevista no art. 39 da LEF, aplicável a qualquer ação de seu interesse, e a isenção de adiantamento de custas, emolumentos e honorários periciais do art. 18 da Lei 7.347/85, que beneficia a associação autora de ação civil pública, com dispensa condicionada à ausência de má-fé e fundamento distinto do privilégio processual da Fazenda Pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "lef.4",
+  "para": "ctn.188",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 4º da LEF determina expressamente que se aplica à Dívida Ativa da Fazenda Pública de natureza não tributária o disposto nos arts. 186 e 188 a 192 do CTN, entre os quais está o art. 188, que trata da extraconcursalidade dos créditos tributários decorrentes de fatos geradores ocorridos no curso do processo de falência, regra assim estendida pela LEF à dívida ativa não tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "lef.4",
+  "para": "cpc.795",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O inciso V do art. 4º da LEF permite promover a execução fiscal contra o responsável, nos termos da lei, por dívidas de pessoa jurídica de direito privado, hipótese em que se aplica subsidiariamente o art. 795 do CPC, que resguarda o benefício de ordem do sócio responsabilizado, autorizando a exigência de prévia excussão dos bens da sociedade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T09:16:16+00:00"
  }
 ]
