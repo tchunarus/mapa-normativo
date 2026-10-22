@@ -36107,5 +36107,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cc.111",
+  "para": "l9784.27",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 111 do Código Civil reconhece no silêncio uma forma de anuência quando as circunstâncias ou os usos o autorizarem, ao passo que o art. 27 da Lei 9.784/99 esclarece que o desatendimento da intimação no processo administrativo não importa reconhecimento da verdade dos fatos nem renúncia a direito. A aproximação textual pode induzir a aplicação indevida da presunção civil de anuência tácita ao silêncio do administrado perante a Administração Pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T19:14:49+00:00"
+ },
+ {
+  "de": "cc.111",
+  "para": "cpp.58",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 111 do Código Civil atribui ao silêncio o efeito de anuência apenas quando as circunstâncias ou os usos o autorizarem e a declaração expressa não for necessária, enquanto o art. 58 do Código de Processo Penal impõe ao silêncio do querelado, após a intimação sobre o perdão, o efeito automático e específico de aceitação, independentemente de circunstâncias ou usos. A semelhança na redação pode induzir a crer que a regra processual penal é mera aplicação da regra geral civil, quando se trata de efeito legal próprio e distinto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T19:14:49+00:00"
+ },
+ {
+  "de": "cp.1",
+  "para": "cf.5",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º do Código Penal reproduz, no plano infraconstitucional, o mesmo princípio da legalidade penal consagrado no art. 5º, inciso XXXIX, da Constituição Federal (não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal), de modo que os dois dispositivos tratam do mesmo instituto sob redação essencialmente idêntica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T19:14:49+00:00"
+ },
+ {
+  "de": "cp.1",
+  "para": "l9099.92",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "contato",
+  "porque": "O art. 92 da Lei 9.099/95 determina a aplicação subsidiária das disposições do Código Penal e do Código de Processo Penal nos Juizados Especiais Criminais, no que não forem incompatíveis com a lei especial, o que torna aplicável nesse procedimento o próprio princípio da legalidade penal fixado no art. 1º do Código Penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T19:14:49+00:00"
+ },
+ {
+  "de": "cpc.366",
+  "para": "lef.17",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O Código de Processo Civil aplica-se subsidiariamente à execução fiscal regida pela Lei 6.830/80, e o parágrafo único do art. 17 da LEF reproduz, para os embargos à execução fiscal dispensados de audiência, o mesmo prazo de trinta dias para a sentença que o art. 366 do CPC estabelece em geral quando encerrado o debate ou oferecidas as razões finais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T19:14:49+00:00"
+ },
+ {
+  "de": "cpc.389",
+  "para": "cc.214",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 389 do CPC define a confissão como a admissão, judicial ou extrajudicial, de fato contrário ao próprio interesse e favorável ao do adversário, e o art. 214 do Código Civil completa esse mesmo instituto ao fixar sua irrevogabilidade, ressalvada a anulação por erro de fato ou coação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T19:14:49+00:00"
+ },
+ {
+  "de": "cpc.389",
+  "para": "cc.212",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 389 do CPC conceitua a confissão como meio de prova processual, e o art. 212 do Código Civil a inclui, no inciso I, entre os meios pelos quais o fato jurídico pode ser provado, de modo que os dois dispositivos regulam, sob ângulos processual e material, o mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T19:14:49+00:00"
+ },
+ {
+  "de": "cpc.389",
+  "para": "cc.213",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 389 do CPC define a confissão como admissão de fato contrário ao próprio interesse, e o art. 213 do Código Civil completa esse mesmo instituto ao condicionar sua eficácia à capacidade da parte de dispor do direito a que se referem os fatos confessados, inclusive quando feita por representante, conforme o parágrafo único desse artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T19:14:49+00:00"
+ },
+ {
+  "de": "cpc.389",
+  "para": "cc.1602",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 389 do CPC atribui à confissão o valor de admissão de fato contrário ao próprio interesse, mas o art. 1.602 do Código Civil excepciona esse efeito probatório ao estabelecer que a confissão materna, isoladamente, não basta para excluir a paternidade, por estar em jogo o estado de filiação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T19:14:49+00:00"
+ },
+ {
+  "de": "cpc.389",
+  "para": "cc.1192",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 389 do CPC define o conceito geral de confissão, e o art. 1.192 do Código Civil especializa esse instituto no âmbito da escrituração empresarial, ao atribuir à recusa de apresentação dos livros o efeito de confissão quanto ao alegado pela parte contrária, ressalvada a prova documental em contrário prevista no parágrafo único desse artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T19:14:49+00:00"
  }
 ]
