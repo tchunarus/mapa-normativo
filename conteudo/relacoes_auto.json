@@ -35917,5 +35917,195 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T17:12:02+00:00"
+ },
+ {
+  "de": "clt.850",
+  "para": "cpp.403",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 850 da CLT prevê razões finais limitadas a 10 (dez) minutos para cada parte na audiência trabalhista, enquanto o art. 403 do CPP prevê alegações finais orais de 20 (vinte) minutos para acusação e defesa, prorrogáveis por mais 10 (dez) minutos. Ambos os dispositivos regulam o mesmo instituto da manifestação final oral antes da decisão, mas com prazos distintos, o que gera risco de se aplicar à audiência trabalhista o prazo mais extenso do processo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "clt.850",
+  "para": "cpp.554",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 850 da CLT prevê razões finais de até 10 (dez) minutos para cada parte na audiência trabalhista, seguidas de decisão imediata, assim como o art. 554 do CPP prevê alegações orais de 10 (dez) minutos para o órgão do Ministério Público e para o defensor no processo de aplicação de medida de segurança, também seguidas de sentença. A coincidência exata do prazo entre os dois dispositivos, ainda que em processos de natureza distinta, gera risco de se presumir que as demais regras do rito são as mesmas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "clt.850",
+  "para": "l8934.23",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 850 da CLT atribui ao Presidente da Junta a condução da tomada de votos dos vogais na solução do dissídio trabalhista, enquanto o art. 23 da Lei 8.934/94 atribui ao presidente da junta comercial a direção das sessões do Plenário, também composto por vogais. A coincidência dos termos junta, vogal e presidente entre os dois institutos, de naturezas inteiramente distintas, gera risco de se confundir as competências e a composição de um órgão com as do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cpp.198",
+  "para": "cc.111",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 198 do CPP estabelece que o silêncio do acusado não importa confissão, apenas elemento de convicção do juiz, ao passo que o art. 111 do Código Civil consagra a regra oposta para os negócios jurídicos, segundo a qual o silêncio importa anuência quando as circunstâncias ou os usos o autorizarem. A proximidade terminológica em torno do efeito jurídico do silêncio gera risco de se transportar para o processo penal a lógica civil de que calar é consentir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cpp.198",
+  "para": "cpc.389",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 198 do CPP nega ao silêncio do acusado o efeito de confissão, enquanto o art. 389 do CPC define a confissão como a admissão da verdade de fato contrário ao próprio interesse e favorável ao do adversário. A diferença está em que o processo penal protege o direito ao silêncio e recusa equipará-lo à confissão, ao passo que o processo civil trata a confissão, quando existente, como meio de prova pleno contra o confitente, o que gera risco de se presumir que a inércia do acusado produz o mesmo efeito probatório da confissão civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cpp.2",
+  "para": "d70235.65",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 2º do CPP aplica ao processo penal o princípio da aplicação imediata da lei processual, sem prejuízo da validade dos atos praticados sob a lei anterior, e o art. 65 do PAF aplica a mesma lógica ao processo administrativo fiscal, inclusive quanto à preservação dos prazos iniciados antes da nova norma. Ambos tratam do direito intertemporal processual, mas em ramos distintos, o que gera risco de se presumir aplicável ao processo penal a disciplina específica de prazos do PAF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cpp.2",
+  "para": "cp.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 2º do CPP determina a aplicação imediata da lei processual penal aos processos em curso, ainda que mais gravosa ao acusado, enquanto o art. 1º do CP exige lei anterior para a definição do crime e a cominação da pena, vedando a aplicação retroativa de lei penal mais severa. A proximidade entre os dois institutos, ambos relativos ao direito intertemporal penal, gera risco de se aplicar à lei processual a mesma vedação de retroatividade que rege a lei penal material.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cpp.277",
+  "para": "cpc.468",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 277 do CPP impõe ao perito nomeado a obrigação de aceitar o encargo, sob pena de multa fixada em valores históricos, salvo escusa atendível, e pune com a mesma multa o perito que, sem justa causa, deixa de comparecer ou de entregar o laudo nos prazos fixados. O art. 468 do CPC também sanciona o perito que descumpre o prazo do laudo sem motivo legítimo, mas por meio de multa calculada em vista do valor da causa e do prejuízo ao processo, além da comunicação à corporação profissional. Ambos tratam da responsabilização do perito por descumprimento do encargo, porém com bases de cálculo e consequências próprias de cada processo, o que gera risco de se aplicar ao processo penal os parâmetros de multa do processo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cpp.277",
+  "para": "cpc.157",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 277 do CPP obriga o perito nomeado a aceitar o encargo, ressalvada a escusa atendível, sob pena de multa, enquanto o art. 157 do CPC impõe ao perito o dever de cumprir o ofício no prazo fixado pelo juiz, com a mesma possibilidade de escusa por motivo legítimo, desde que apresentada em prazo próprio. A semelhança na estrutura da escusa do perito entre os dois códigos gera risco de se transportar para o processo penal o prazo e a forma de apresentação da escusa próprios do processo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cpp.3",
+  "para": "ctn.108",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 3º do CPP admite livremente a aplicação analógica e o suplemento dos princípios gerais de direito no processo penal, sem fixar ordem ou restrição entre esses métodos. O art. 108 do CTN, ao tratar da integração da legislação tributária, impõe ordem sucessiva entre analogia, princípios gerais de direito tributário, princípios gerais de direito público e equidade, além de vedar que a analogia resulte na exigência de tributo não previsto em lei. A proximidade entre os dois institutos de integração normativa gera risco de se transportar para o processo penal a ordem e as restrições próprias da analogia tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cpp.3",
+  "para": "ctn.177",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 3º do CPP admite a interpretação extensiva como método geral de aplicação da lei processual penal, enquanto o art. 177 do CTN veda a interpretação extensiva da isenção tributária, salvo disposição de lei em contrário. A oposição entre os dois dispositivos quanto à extensão interpretativa, cada um relativo a um ramo distinto do direito, gera risco de se presumir, de forma equivocada, que a interpretação extensiva autorizada no processo penal também se aplica à isenção tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cpp.400",
+  "para": "l9099.81",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 400 do CPP determina ordem rígida para a produção de provas na audiência de instrução e julgamento do processo penal comum: declarações do ofendido, inquirição das testemunhas de acusação e defesa, esclarecimentos dos peritos, acareações, reconhecimento de pessoas e coisas e, por último, o interrogatório do acusado. O art. 81 da Lei 9.099/95 estabelece, para os Juizados Especiais Criminais, sequência distinta e mais simplificada, com a oitiva da vítima e das testemunhas seguida imediatamente do interrogatório do acusado e dos debates orais, sem as etapas de esclarecimento pericial e acareação previstas no procedimento comum. A Lei 9.099/95 excepciona, para as infrações de menor potencial ofensivo, a ordem detalhada do procedimento comum estabelecida pelo CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cpp.400",
+  "para": "clt.848",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 400 do CPP fixa o interrogatório do acusado como último ato da instrução, após as testemunhas, os peritos e as acareações, enquanto o art. 848 da CLT determina que, na audiência trabalhista, o interrogatório das partes ocorre logo após a defesa e antes da oitiva das testemunhas, peritos e técnicos. A inversão da ordem do interrogatório entre os dois ritos, ambos estruturados em uma única audiência de instrução, gera risco de se aplicar ao processo penal ou ao processo do trabalho a sequência de atos própria do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cpp.400",
+  "para": "l9099.33",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 400 do CPP concentra a produção de provas em uma única audiência de instrução e julgamento, permitindo ao juiz indeferir as consideradas irrelevantes, impertinentes ou protelatórias, assim como o art. 33 da Lei 9.099/95 determina que todas as provas sejam produzidas na audiência de instrução e julgamento do Juizado Especial, ainda que não requeridas previamente, podendo o juiz limitar ou excluir as excessivas, impertinentes ou protelatórias. A identidade quase literal da regra de concentração e do critério de indeferimento de provas entre os dois diplomas gera risco de se desconsiderar a ordem sequencial própria do art. 400 do CPP, inexistente no procedimento do Juizado Especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cpp.403",
+  "para": "l9099.81",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 403 do CPP fixa, no procedimento comum, alegações finais orais de 20 (vinte) minutos para acusação e defesa, prorrogáveis por mais 10 (dez) minutos, seguidas imediatamente de sentença. O art. 81 da Lei 9.099/95, ao disciplinar a audiência única dos Juizados Especiais Criminais, prevê debates orais após o interrogatório do acusado, mas sem fixar prazo específico para essa manifestação final. A ausência de prazo expresso no procedimento sumaríssimo, perante a disciplina detalhada do procedimento comum, gera risco de se aplicar aos debates do Juizado Especial o prazo de 20 (vinte) minutos próprio do art. 403 do CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "cpp.403",
+  "para": "cpc.366",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 403 do CPP determina que, oferecidas as alegações finais orais, o juiz profira a sentença a seguir, na própria audiência, ressalvada apenas a hipótese excepcional de memoriais. O art. 366 do CPC, por sua vez, permite que o juiz profira sentença em audiência ou no prazo de 30 (trinta) dias após encerrado o debate ou oferecidas as razões finais. A proximidade entre os dois institutos, ambos relativos ao momento da sentença após a manifestação final das partes, gera risco de se estender ao processo penal o prazo de 30 (trinta) dias próprio do processo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "ctn.109",
+  "para": "floripa_ctm.17",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 109 do CTN autoriza o uso dos princípios gerais de direito privado para pesquisar a definição, o conteúdo e o alcance de seus institutos, conceitos e formas, vedando que esse uso defina os efeitos tributários. O art. 17 do Código Tributário Municipal de Florianópolis reproduz, no plano municipal, a mesma regra, nos mesmos termos de pesquisa de definição e de vedação quanto aos efeitos tributários. O dispositivo municipal detalha, para o tributo local, o mesmo regime hermenêutico já estabelecido pela norma geral do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "ctn.109",
+  "para": "floripa_ctm.18",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 109 do CTN permite o uso dos princípios gerais de direito privado unicamente para pesquisar a definição, o conteúdo e o alcance de institutos privados, sem alcançar os efeitos tributários. O art. 18 do Código Tributário Municipal de Florianópolis, por sua vez, veda que a legislação tributária altere a definição, o conteúdo e o alcance de institutos de direito privado utilizados pela Constituição para definir ou limitar a competência tributária municipal. Os dois dispositivos tratam de institutos conexos dentro da hermenêutica do direito privado em matéria tributária, mas com finalidades distintas, o que gera risco de se confundir a autorização de uso interpretativo com a proibição de alteração conceitual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
+ },
+ {
+  "de": "ctn.109",
+  "para": "cpp.3",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 109 do CTN restringe o uso dos princípios gerais de direito privado à pesquisa de definição, conteúdo e alcance de institutos, sem que isso defina os efeitos tributários, enquanto o art. 3º do CPP admite, de modo amplo, a interpretação extensiva, a aplicação analógica e o suplemento dos princípios gerais de direito no processo penal, sem a mesma restrição finalística. A coincidência da expressão princípios gerais de direito entre os dois dispositivos, empregada com alcance e finalidade diferentes em cada ramo, gera risco de se aplicar ao direito tributário a amplitude interpretativa própria do processo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T18:15:52+00:00"
  }
 ]
