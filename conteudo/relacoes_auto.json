@@ -35247,5 +35247,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T12:15:17+00:00"
+ },
+ {
+  "de": "cc.1647",
+  "para": "cpc.73",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.647 do CC exige autorização do outro cônjuge, exceto no regime de separação absoluta, para pleitear, como autor ou réu, acerca de bens imóveis ou direitos a eles relativos, conforme o inciso II. O art. 73 do CPC detalha essa mesma exigência para o processo civil, ao condicionar a propositura de ação sobre direito real imobiliário ao consentimento do outro cônjuge, repetindo a mesma ressalva do regime de separação absoluta. Os dois dispositivos integram o mesmo regime de outorga conjugal, pois o CPC apenas disciplina, no plano processual, a autorização que o Código Civil exige no plano material.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T13:24:07+00:00"
+ },
+ {
+  "de": "cc.1647",
+  "para": "cpc.391",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 391 do CPC exige, nas ações sobre bens imóveis ou direitos reais sobre imóveis alheios, a confissão de ambos os cônjuges, salvo no regime de separação absoluta de bens, ressalva idêntica à do art. 1.647 do CC. Contudo, o CPC trata de meio de prova, a confissão judicial, enquanto o CC regula atos de disposição e a legitimidade para demandar sobre tais bens, conforme o inciso II. São institutos conexos, e a identidade da ressalva de regime de bens gera risco de se aplicar a um a disciplina pensada para o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T13:24:07+00:00"
+ },
+ {
+  "de": "l9099.19",
+  "para": "cpc.274",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 19 da Lei 9.099/95 reputa eficazes as intimações enviadas ao endereço anteriormente indicado quando a parte não comunica ao juízo a mudança de endereço, regra equivalente à presunção de validade do parágrafo único do art. 274 do CPC. A Lei dos Juizados Especiais especializa, para o procedimento sumaríssimo cível, a mesma solução que o CPC adota como regra geral das intimações no processo civil comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T13:24:07+00:00"
+ },
+ {
+  "de": "cpc.473",
+  "para": "cpp.160",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 473 do CPC exige, no inciso IV, resposta conclusiva a todos os quesitos apresentados e, no § 1º, fundamentação em linguagem simples e coerente. O art. 160 do CPP exige, de modo mais sucinto, que os peritos descrevam minuciosamente o que examinarem e respondam aos quesitos formulados, no mesmo prazo de elaboração do laudo. Tratam do mesmo instituto, o conteúdo do laudo pericial, mas o CPC é mais detalhado quanto à linguagem e à fundamentação exigidas do perito, o que gera risco de se aplicar ao processo penal um padrão de exigência estranho ao CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T13:24:07+00:00"
+ },
+ {
+  "de": "cpc.963",
+  "para": "cpp.788",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 963 do CPC e o art. 788 do CPP tratam do mesmo instituto, os requisitos para a homologação de decisão estrangeira, com redação muito próxima quanto à autoridade competente, à citação regular e à tradução, previstas, respectivamente, nos incisos I, II e V do art. 963 e nos incisos II e V do art. 788. Contudo, apenas o CPP exige expressamente, no inciso III, que a sentença tenha transitado em julgado, e apenas o CPC exige, no inciso IV, que a decisão não ofenda a coisa julgada brasileira, de modo que aplicar o requisito de um regime ao outro pode induzir a erro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T13:24:07+00:00"
+ },
+ {
+  "de": "cpc.963",
+  "para": "cpp.781",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O inciso VI do art. 963 do CPC veda a homologação de decisão estrangeira que contenha manifesta ofensa à ordem pública, exigência que o art. 781 do CPP repete para as sentenças estrangeiras e as cartas rogatórias, ao vedar a homologação ou o cumprimento quando contrários à ordem pública e aos bons costumes. Tratam do mesmo instituto, a vedação de ordem pública na homologação de decisão estrangeira, mas o CPP soma a esse requisito a referência aos bons costumes, enquanto o CPC trata as cartas rogatórias à parte, no seu parágrafo único, e não no inciso que cuida da ordem pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T13:24:07+00:00"
+ },
+ {
+  "de": "cpc.963",
+  "para": "l9307.39",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso VI do art. 963 do CPC exige que a decisão estrangeira não contenha manifesta ofensa à ordem pública para ser homologada, requisito equivalente ao do inciso II do art. 39 da Lei 9.307/96, que nega a homologação da sentença arbitral estrangeira quando a decisão ofende a ordem pública nacional. São institutos conexos, pois o art. 39 regula um regime próprio e mais restrito, com apenas duas causas de denegação, a arbitrabilidade do inciso I e a ordem pública do inciso II, distinto do rol mais amplo de requisitos do art. 963.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T13:24:07+00:00"
+ },
+ {
+  "de": "cpp.781",
+  "para": "l9307.2",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 781 do CPP veda a homologação de sentença estrangeira e o cumprimento de carta rogatória contrários à ordem pública e aos bons costumes. O § 1º do art. 2º da Lei 9.307/96 emprega os mesmos conceitos, ordem pública e bons costumes, como limite à liberdade das partes de escolher as regras de direito aplicáveis na arbitragem. São institutos conexos, pois ambos usam o mesmo par de conceitos como barreira à autonomia da vontade ou à eficácia de ato estrangeiro, mas em contextos distintos, a homologação judicial de sentença estrangeira e a escolha do direito aplicável à arbitragem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T13:24:07+00:00"
+ },
+ {
+  "de": "cpp.788",
+  "para": "cpc.964",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 788 do CPP relaciona os requisitos positivos para a homologação da sentença penal estrangeira, entre eles, no inciso II, ter sido proferida por juiz competente. O art. 964 do CPC estabelece o requisito negativo correspondente para a homologação civil, vedando-a quando configurada a competência exclusiva da autoridade judiciária brasileira, inclusive, por força do parágrafo único, para a concessão do exequatur à carta rogatória. Tratam do mesmo instituto, a competência como condição de homologação, sob o ângulo penal e civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T13:24:07+00:00"
+ },
+ {
+  "de": "cpp.788",
+  "para": "cp.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 788 do CPP fixa os requisitos para a homologação da sentença penal estrangeira, enquanto o art. 9º do Código Penal define as finalidades dessa mesma homologação, obrigar o condenado à reparação do dano e a restituições, conforme o inciso I, ou sujeitá-lo a medida de segurança, conforme o inciso II, além de condicionar, no parágrafo único, cada finalidade a um pressuposto próprio. Os dois dispositivos integram o mesmo regime da homologação de sentença penal estrangeira, um tratando de quando ela é cabível e o outro de para que ela serve.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T13:24:07+00:00"
+ },
+ {
+  "de": "l9307.2",
+  "para": "l14133.152",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 2º da Lei 9.307/96 determina que a arbitragem envolvendo a administração pública será sempre de direito e respeitará o princípio da publicidade. O art. 152 da Lei 14.133/21 repete, com redação quase idêntica, essa mesma regra para as contratações por ela regidas. Os dois dispositivos integram o mesmo regime da arbitragem com a administração pública, e a lei de licitações apenas reitera, no seu âmbito, o que a lei de arbitragem já estabelecia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T13:24:07+00:00"
  }
 ]

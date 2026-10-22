@@ -1200,5 +1200,32 @@
   "titulo": "Tema 1285/STJ: Mérito Julgado · tese firmada",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1285&cod_tema_final=1285",
   "p": "stj.tema.1285"
+ },
+ {
+  "data": "2026-10-22T13:15:57+00:00",
+  "fonte": "Planalto",
+  "tipo": "alterado",
+  "d": "lcp123.18",
+  "titulo": "LC 123/06, Art. 18: texto alterado",
+  "nota": "Incluído pela Lei Complementar nº 147, de 2014; Vide Lei Complementar nº 227, de 2026",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm"
+ },
+ {
+  "data": "2026-10-22T13:15:57+00:00",
+  "fonte": "Planalto",
+  "tipo": "alterado",
+  "d": "lcp123.48",
+  "titulo": "LC 123/06, Art. 48: texto alterado",
+  "nota": "Redação dada pela Lei Complementar nº 147, de 2014; Vide Lei Complementar nº 238, de 2026",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm"
+ },
+ {
+  "data": "2026-10-22T13:15:57+00:00",
+  "fonte": "Planalto",
+  "tipo": "alterado",
+  "d": "lcp123.49",
+  "titulo": "LC 123/06, Art. 49: texto alterado",
+  "nota": "Vide Lei Complementar nº 238, de 2026",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm"
  }
 ]
