@@ -35067,5 +35067,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T10:13:48+00:00"
+ },
+ {
+  "de": "cpc.319",
+  "para": "l8213.129-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 129-A da Lei nº 8.213/91 exige, para a ação cujo fundamento seja a discussão de ato praticado pela perícia médica federal, requisitos adicionais à petição inicial em complemento aos requisitos previstos no art. 319 do CPC, de modo que os dois dispositivos tratam do mesmo instituto, detalhado pela lei especial para essa ação previdenciária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T11:12:40+00:00"
+ },
+ {
+  "de": "cpc.319",
+  "para": "clt.852-B",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 852-B da CLT fixa, nos incisos I e II, requisitos próprios e mais restritos para a petição no procedimento sumaríssimo trabalhista (pedido certo ou determinado, com indicação do valor correspondente, e correta indicação do nome e endereço do reclamado), tratando de instituto conexo ao do art. 319 do CPC, que disciplina de forma mais ampla os requisitos gerais da petição inicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T11:12:40+00:00"
+ },
+ {
+  "de": "cpc.320",
+  "para": "l8245.60",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 60 da Lei nº 8.245/91 exige, para as ações de despejo fundadas no inciso IV do art. 9º, no inciso IV do art. 47 e no inciso II do art. 53, que a petição inicial seja instruída com prova da propriedade do imóvel ou do compromisso registrado, especializando, para essas hipóteses, a exigência genérica do art. 320 do CPC de instrução da petição inicial com os documentos indispensáveis à propositura da ação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T11:12:40+00:00"
+ },
+ {
+  "de": "cpc.59",
+  "para": "lef.28",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 59 do CPC estabelece a regra geral de que o registro ou a distribuição da petição inicial torna prevento o juízo. O parágrafo único do art. 28 da LEF aplica essa mesma lógica de prevenção pela distribuição ao determinar, para a reunião de execuções fiscais contra o mesmo devedor, a redistribuição dos processos ao juízo da primeira distribuição, cuidando de instituto conexo e específico do processo de execução fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T11:12:40+00:00"
+ },
+ {
+  "de": "cpc.829",
+  "para": "lef.8",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam do mesmo instituto, a citação do executado para pagamento da dívida, mas a LEF é lei especial que fixa prazo próprio de 5 (cinco) dias e modalidades específicas de citação, de modo que o art. 829 do CPC, que prevê prazo de 3 (três) dias, aplica-se apenas subsidiariamente à execução fiscal, na omissão da lei especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T11:12:40+00:00"
+ },
+ {
+  "de": "cpc.829",
+  "para": "l8212.53",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 53 da Lei nº 8.212/91 determina que a penhora seja efetivada concomitantemente com a citação inicial do devedor na execução judicial da dívida ativa previdenciária, excepcionando a regra geral do § 1º do art. 829 do CPC, segundo a qual a ordem de penhora somente é cumprida pelo oficial de justiça após verificado o não pagamento no prazo assinalado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T11:12:40+00:00"
+ },
+ {
+  "de": "lef.9",
+  "para": "cpc.842",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos cuidam da posição do cônjuge do executado quando o bem oferecido ou penhorado é imóvel, mas em momentos e com exigências distintas que não se devem confundir: o § 1º do art. 9º da LEF exige o consentimento expresso do cônjuge para que o executado indique ou o terceiro ofereça imóvel à penhora, enquanto o art. 842 do CPC, no regime geral da execução, apenas determina a intimação do cônjuge depois de a penhora já ter recaído sobre o imóvel, sem exigir consentimento prévio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T11:12:40+00:00"
  }
 ]
