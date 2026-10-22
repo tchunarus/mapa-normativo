@@ -35837,5 +35837,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cc.116",
+  "para": "cpc.71",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 71 do CPC regula especificamente quem exerce a representação do incapaz em juízo (pais, tutor ou curador), hipótese sujeita ao princípio geral do art. 116 do CC, segundo o qual os atos do representante, nos limites de seus poderes, produzem efeitos em relação ao representado. O CPC especializa, para o processo civil, o instituto geral da representação disciplinado no Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T17:12:02+00:00"
+ },
+ {
+  "de": "clt.887",
+  "para": "cpc.870",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 887 da CLT estabelece regra especial para a execução trabalhista, atribuindo a avaliação dos bens penhorados a avaliador escolhido de comum acordo pelas partes, em vez da regra geral do art. 870 do CPC, que atribui a avaliação ao oficial de justiça. Ambos regulam o mesmo instituto da avaliação de bens penhorados na execução, mas a CLT especializa o procedimento para o processo do trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T17:12:02+00:00"
+ },
+ {
+  "de": "clt.887",
+  "para": "cpc.873",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 887 da CLT disciplina a escolha do avaliador na execução trabalhista, mas nada dispõe sobre a possibilidade de nova avaliação. Essa lacuna é suprida subsidiariamente pelo art. 873 do CPC, que admite nova avaliação quando houver erro, dolo do avaliador, alteração do valor do bem ou fundada dúvida do juiz sobre o valor atribuído na primeira avaliação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T17:12:02+00:00"
+ },
+ {
+  "de": "clt.887",
+  "para": "cpc.874",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 887 da CLT não disciplina o que ocorre após a avaliação quando o valor dos bens penhorados se mostra desproporcional ao crédito executado. Essa lacuna é suprida subsidiariamente pelo art. 874 do CPC, que permite ao juiz, a requerimento do interessado e ouvida a parte contrária, reduzir ou ampliar a penhora conforme o valor apurado na avaliação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T17:12:02+00:00"
+ },
+ {
+  "de": "cpc.361",
+  "para": "cpp.400",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 361 do CPC e o art. 400 do CPP disciplinam a ordem de produção das provas orais em audiência, mas com sequências distintas: no processo civil ouvem-se primeiro o perito e os assistentes técnicos, depois as partes em depoimento pessoal e por fim as testemunhas, enquanto no processo penal a ordem é a tomada de declarações do ofendido, a inquirição das testemunhas, os esclarecimentos dos peritos e, por último, o interrogatório do acusado. A semelhança do instituto da instrução oral entre os dois processos gera risco de se presumir, de forma equivocada, a mesma ordem em ambos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T17:12:02+00:00"
+ },
+ {
+  "de": "cpc.364",
+  "para": "cpp.403",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 364 do CPC e o art. 403 do CPP preveem, ambos, debate oral final de 20 (vinte) minutos para cada parte, prorrogável por mais 10 (dez) minutos a critério do juiz, mas em processos distintos (civil e penal) e com participantes e consequências próprias de cada regime, como a divisão do tempo entre litisconsortes no processo civil e a individualização do tempo de defesa por acusado no processo penal. A coincidência exata dos prazos entre os dois dispositivos cria risco de se presumir que as demais regras do debate oral também coincidem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T17:12:02+00:00"
+ },
+ {
+  "de": "cpc.364",
+  "para": "clt.850",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 364 do CPC prevê razões finais orais de 20 (vinte) minutos para cada parte, prorrogáveis por mais 10 (dez) minutos, enquanto o art. 850 da CLT prevê razões finais de prazo não excedente de 10 (dez) minutos para cada uma na execução trabalhista. A proximidade do instituto das razões finais entre os dois processos gera risco de se aplicar à audiência trabalhista o prazo mais extenso do processo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T17:12:02+00:00"
+ },
+ {
+  "de": "cpc.467",
+  "para": "cpp.277",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 467 do CPC permite que o perito se escuse ou seja recusado por impedimento ou suspeição, com nomeação de novo perito pelo juiz, enquanto o art. 277 do CPP trata de hipótese distinta: a obrigatoriedade de o perito nomeado aceitar o encargo, salvo escusa atendível, sob pena de multa. A semelhança terminológica em torno da escusa do perito entre os dois códigos gera risco de se confundir o direito de recusa por impedimento ou suspeição, do processo civil, com o dever de aceitar o encargo, do processo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T17:12:02+00:00"
+ },
+ {
+  "de": "cpc.467",
+  "para": "l9307.16",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 467 do CPC trata da escusa ou recusa do perito por impedimento ou suspeição, com nomeação de novo perito, enquanto o art. 16 da Lei 9.307/96 trata da escusa ou impossibilidade do árbitro, com assunção do substituto indicado no compromisso. Ambos os dispositivos regulam a substituição de um terceiro imparcial do processo (perito e árbitro) em razão de impedimento, mas em regimes autônomos, o que gera risco de se aplicar à perícia judicial as regras próprias da substituição de árbitro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T17:12:02+00:00"
+ },
+ {
+  "de": "cpc.870",
+  "para": "clt.721",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 870 do CPC atribui, como regra geral, a avaliação dos bens penhorados ao oficial de justiça, enquanto o art. 721 da CLT especializa essa atribuição para o processo do trabalho, incumbindo aos Oficiais de Justiça e Oficiais de Justiça Avaliadores da Justiça do Trabalho a realização dos atos decorrentes da execução dos julgados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T17:12:02+00:00"
  }
 ]
