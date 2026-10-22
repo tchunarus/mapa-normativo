@@ -36207,5 +36207,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T19:14:49+00:00"
+ },
+ {
+  "de": "cpc.420",
+  "para": "cc.1192",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 420 do CPC autoriza a exibição integral dos livros empresariais quando e como a lei determinar, viabilizando processualmente a hipótese do art. 1.192 do Código Civil, que comina a confissão ficta à recusa de apresentação dos livros nos casos do artigo antecedente, ressalvada a prova documental em contrário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T20:11:06+00:00"
+ },
+ {
+  "de": "cc.1192",
+  "para": "sc_ricms.73",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 73 do RICMS-SC determina que, recusada a apresentação dos livros ao fisco, o agente providenciará junto ao Ministério Público a exibição judicial, consequência tributária distinta da confissão ficta que o art. 1.192 do Código Civil atribui, em sede civil, à mesma recusa, cujo parágrafo único permite elidi-la por prova documental em contrário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T20:11:06+00:00"
+ },
+ {
+  "de": "cc.1602",
+  "para": "cpc.392",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1.602 do Código Civil nega eficácia probatória à confissão materna isolada para excluir a paternidade, especializando, no direito de família, a regra geral do art. 392 do CPC, segundo a qual não vale como confissão a admissão em juízo de fatos relativos a direitos indisponíveis, como o estado de filiação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T20:11:06+00:00"
+ },
+ {
+  "de": "cpc.443",
+  "para": "cc.212",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 443 do CPC veda a inquirição de testemunhas sobre fatos já provados por documento ou confissão, ou que só por documento ou perícia possam ser provados, disciplinando processualmente a hierarquia entre os meios de prova arrolados pelo art. 212 do Código Civil, a saber, confissão, documento, testemunha e perícia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T20:11:06+00:00"
+ },
+ {
+  "de": "ctn.204",
+  "para": "cc.212",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 204 do CTN atribui à dívida ativa regularmente inscrita presunção relativa de certeza e liquidez, especializando para a execução fiscal o meio de prova da presunção arrolado no inciso IV do art. 212 do Código Civil, presunção que, conforme o parágrafo único do art. 204, pode ser ilidida por prova inequívoca a cargo do sujeito passivo ou do terceiro a que aproveite.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T20:11:06+00:00"
+ },
+ {
+  "de": "l13709.1",
+  "para": "cf.5",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 1º da Lei Geral de Proteção de Dados declara como finalidade proteger os direitos fundamentais de liberdade e de privacidade da pessoa natural, dando concretização, no tratamento de dados pessoais, à inviolabilidade da intimidade e da vida privada asseguradas pelo inciso X do art. 5º da Constituição Federal, ainda que regule instituto próprio e mais amplo, o da proteção de dados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T20:11:06+00:00"
+ },
+ {
+  "de": "l12527.31",
+  "para": "cf.5",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 31 da Lei de Acesso à Informação exige que o tratamento de informações pessoais respeite a intimidade, a vida privada, a honra e a imagem das pessoas, reproduzindo o mesmo elenco de bens protegidos pelo inciso X do art. 5º da Constituição Federal e aplicando-o ao regime de acesso a documentos públicos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T20:11:06+00:00"
+ },
+ {
+  "de": "lcp105.1",
+  "para": "cf.5",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 1º da Lei Complementar 105/2001 impõe às instituições financeiras o dever de sigilo sobre as operações ativas e passivas de seus clientes, dando concretização, no âmbito dos dados financeiros, à inviolabilidade do sigilo de dados assegurada pelo inciso XII do art. 5º da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T20:11:06+00:00"
+ },
+ {
+  "de": "floripa_ctm.18",
+  "para": "ctn.110",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 18 do Código Tributário Municipal de Florianópolis repete, no âmbito da competência tributária do Município, a vedação do art. 110 do CTN a que a lei tributária altere a definição, o conteúdo e o alcance de institutos de direito privado utilizados pela Constituição para definir ou limitar competências tributárias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T20:11:06+00:00"
+ },
+ {
+  "de": "l8078.7",
+  "para": "cc.942",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 7º do Código de Defesa do Consumidor repete, para os danos decorrentes de relação de consumo, a regra de solidariedade entre os coautores da ofensa prevista no parágrafo único do art. 942 do Código Civil, vinculando a responsabilidade solidária especificamente à reparação dos danos regidos pelas normas de proteção ao consumidor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T20:11:06+00:00"
  }
 ]
