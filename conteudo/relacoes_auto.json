@@ -35357,5 +35357,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T13:24:07+00:00"
+ },
+ {
+  "de": "cpp.789",
+  "para": "cp.9",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 9º do CP condiciona, na alínea b do parágrafo único, a homologação destinada à medida de segurança à existência de tratado de extradição ou à requisição do Ministro da Justiça, e o art. 789 do CPP disciplina o procedimento pelo qual o procurador-geral da República obtém, perante o Ministro da Justiça, os elementos necessários para requerer essa homologação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T14:15:43+00:00"
+ },
+ {
+  "de": "cpp.790",
+  "para": "cp.9",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 9º do CP exige, na alínea a do parágrafo único, pedido da parte interessada para a homologação destinada aos efeitos civis do inciso I, e o art. 790 do CPP indica que esse interessado deve requerer a homologação ao Supremo Tribunal Federal, observando o que prescreve o Código de Processo Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T14:15:43+00:00"
+ },
+ {
+  "de": "cpc.391",
+  "para": "cc.213",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 213 do CC nega eficácia à confissão de quem não pode dispor do direito confessado, e o parágrafo único do art. 391 do CPC especializa essa regra para as ações sobre bens imóveis ou direitos reais imobiliários, exigindo a confissão de ambos os cônjuges ou companheiros, salvo no regime de separação absoluta de bens.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T14:15:43+00:00"
+ },
+ {
+  "de": "lindb.12",
+  "para": "cpc.964",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 12 da LINDB atribui competência exclusiva à autoridade judiciária brasileira para as ações relativas a imóveis situados no Brasil, hipótese que complementa a regra do art. 964 do CPC, segundo a qual a decisão estrangeira não será homologada, nem se concederá exequatur à carta rogatória, quando a matéria for de competência exclusiva da Justiça brasileira.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T14:15:43+00:00"
+ },
+ {
+  "de": "cpc.477",
+  "para": "cpp.160",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 160 do CPP fixa prazo máximo de 10 dias para a entrega do laudo pericial no processo penal, prorrogável em casos excepcionais a requerimento dos peritos, enquanto o art. 477 do CPC fixa, para o processo civil, prazo definido pelo juiz, de pelo menos 20 dias antes da audiência de instrução e julgamento, regimes que podem ser confundidos entre si por tratarem do mesmo tema com prazos e critérios distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T14:15:43+00:00"
+ },
+ {
+  "de": "cpc.476",
+  "para": "cpp.160",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 160 do CPP permite a prorrogação do prazo do laudo pericial em casos excepcionais, a requerimento dos peritos, sem limite de fração expressamente fixado, enquanto o art. 476 do CPC só admite a prorrogação por uma vez e pela metade do prazo originalmente fixado, o que gera risco de se aplicar por engano o critério de um processo ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T14:15:43+00:00"
+ },
+ {
+  "de": "l9307.39",
+  "para": "cp.9",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 9º do CP trata da homologação da sentença penal estrangeira perante a Justiça brasileira, e o art. 39 da Lei 9.307/96 trata da denegação da homologação da sentença arbitral estrangeira pelo Superior Tribunal de Justiça, institutos que podem ser confundidos por tratarem, sob o mesmo rótulo de homologação de decisão estrangeira, de regimes, órgãos competentes e requisitos inteiramente distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T14:15:43+00:00"
+ },
+ {
+  "de": "lef.12",
+  "para": "cpc.841",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 841 do CPC determina, como regra geral, que a intimação da penhora seja feita ao advogado do executado ou, na falta deste, pessoalmente, e o art. 12 da LEF excepciona essa regra na execução fiscal, ao determinar que a intimação da penhora se faça mediante publicação do ato de juntada do termo ou do auto de penhora no órgão oficial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T14:15:43+00:00"
  }
 ]
