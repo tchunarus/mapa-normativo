@@ -36447,5 +36447,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T21:11:56+00:00"
+ },
+ {
+  "de": "cpc.421",
+  "para": "cc.1190",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 421 do CPC permite ao juiz, de ofício, determinar a exibição parcial dos livros e documentos empresariais para extrair a suma de interesse ao litígio, outra hipótese prevista em lei que excepciona o sigilo da escrituração empresarial assegurado, como regra geral, pelo art. 1.190 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T22:13:16+00:00"
+ },
+ {
+  "de": "cpc.421",
+  "para": "cc.1191",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 421 do CPC autoriza a exibição apenas parcial dos livros empresariais, de ofício e independentemente das hipóteses específicas de sucessão, comunhão, sociedade, administração ou gestão à conta de outrem ou falência exigidas pelo art. 1.191 do Código Civil para a exibição integral, podendo os dois regimes ser confundidos por tratarem do mesmo tema geral da exibição judicial de livros.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T22:13:16+00:00"
+ },
+ {
+  "de": "sc_ricms.73",
+  "para": "cc.1191",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 73 do RICMS-SC prevê a exibição judicial dos livros contábeis e fiscais do contribuinte perante recusa ao exame feito pelo agente do fisco estadual, hipótese de exibição judicial de natureza tributária que pode ser confundida com a exibição integral dos livros empresariais no interesse de terceiros disciplinada pelo art. 1.191 do Código Civil, embora os dois dispositivos tratem de institutos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T22:13:16+00:00"
+ },
+ {
+  "de": "lsa.105",
+  "para": "cc.1191",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 105 da LSA especializa, para as sociedades anônimas, a exibição integral dos livros empresariais disciplinada pelo art. 1.191 do Código Civil, ao autorizar a medida mediante requerimento de acionistas que representem ao menos cinco por cento do capital social diante de suspeita fundada de irregularidades, hipótese adicional às previstas na regra geral civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T22:13:16+00:00"
+ },
+ {
+  "de": "l8934.12",
+  "para": "clt.647",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 12 da Lei 8.934/94 disciplina a escolha dos vogais da junta comercial por representação de categorias, como entidades patronais e profissões liberais, e o art. 647 da CLT compõe a extinta Junta de Conciliação e Julgamento por vogais representantes de empregadores e empregados, institutos totalmente distintos que o uso comum do termo vogal pode levar a confundir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T22:13:16+00:00"
+ },
+ {
+  "de": "clt.852-D",
+  "para": "cpc.370",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 852-D da CLT especializa, para o rito sumaríssimo trabalhista, o poder do juiz de determinar as provas necessárias e indeferir as diligências inúteis ou protelatórias previsto, em caráter geral, pelo art. 370 do CPC, ao atribuir ao juízo trabalhista a mesma liberdade instrutória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T22:13:16+00:00"
+ },
+ {
+  "de": "clt.852-D",
+  "para": "cpc.375",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "A parte final do art. 852-D da CLT, ao determinar que o juiz dê especial valor às regras de experiência comum ou técnica na apreciação das provas, especializa para o rito sumaríssimo trabalhista a diretriz de valoração da prova pelas regras de experiência que o art. 375 do CPC estabelece em caráter geral para o processo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T22:13:16+00:00"
+ },
+ {
+  "de": "d70235.29",
+  "para": "cpc.370",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 29 do Decreto 70.235/72 (PAF) atribui à autoridade julgadora administrativa o poder de formar livremente sua convicção e determinar as diligências necessárias na apreciação da prova, poder instrutório análogo ao que o art. 370 do CPC confere ao juiz no processo civil, ainda que em regimes e órgãos julgadores diversos, podendo gerar confusão quanto ao regime aplicável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T22:13:16+00:00"
+ },
+ {
+  "de": "l9099.38",
+  "para": "clt.852-I",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 38 da Lei 9.099/95 e o art. 852-I da CLT preveem, com redação quase idêntica, que a sentença mencionará os elementos de convicção do juiz, com resumo dos fatos relevantes ocorridos em audiência, dispensado o relatório, um nos juizados especiais cíveis e outro no rito sumaríssimo trabalhista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T22:13:16+00:00"
+ },
+ {
+  "de": "l9099.6",
+  "para": "clt.852-I",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 6º da Lei 9.099/95 e o § 1º do art. 852-I da CLT reproduzem a mesma diretriz de equidade, autorizando o juiz a adotar a decisão mais justa e equânime atendendo aos fins sociais da lei e às exigências do bem comum, um nos juizados especiais cíveis e outro no rito sumaríssimo trabalhista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T22:13:16+00:00"
+ },
+ {
+  "de": "clt.852-I",
+  "para": "lindb.5",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 852-I da CLT, ao autorizar o juiz a adotar a decisão mais justa e equânime atendendo aos fins sociais da lei e às exigências do bem comum, especializa para a sentença do rito sumaríssimo trabalhista o critério hermenêutico geral de aplicação da lei fixado pelo art. 5º da LINDB, que não contempla o mesmo grau de discricionariedade decisória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T22:13:16+00:00"
  }
 ]
