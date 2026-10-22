@@ -35839,16 +35839,6 @@
   "em": "2026-10-22T16:19:15+00:00"
  },
  {
-  "de": "cc.116",
-  "para": "cpc.71",
-  "tipo": "especializa",
-  "grau": "conexo",
-  "porque": "O art. 71 do CPC regula especificamente quem exerce a representação do incapaz em juízo (pais, tutor ou curador), hipótese sujeita ao princípio geral do art. 116 do CC, segundo o qual os atos do representante, nos limites de seus poderes, produzem efeitos em relação ao representado. O CPC especializa, para o processo civil, o instituto geral da representação disciplinado no Código Civil.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-10-22T17:12:02+00:00"
- },
- {
   "de": "clt.887",
   "para": "cpc.870",
   "tipo": "especializa",
@@ -35912,7 +35902,7 @@
   "de": "cpc.467",
   "para": "cpp.277",
   "tipo": "confundivel_com",
-  "grau": "conexo",
+  "grau": "contato",
   "porque": "O art. 467 do CPC permite que o perito se escuse ou seja recusado por impedimento ou suspeição, com nomeação de novo perito pelo juiz, enquanto o art. 277 do CPP trata de hipótese distinta: a obrigatoriedade de o perito nomeado aceitar o encargo, salvo escusa atendível, sob pena de multa. A semelhança terminológica em torno da escusa do perito entre os dois códigos gera risco de se confundir o direito de recusa por impedimento ou suspeição, do processo civil, com o dever de aceitar o encargo, do processo penal.",
   "refs": [],
   "origem": "rotina",
@@ -35924,16 +35914,6 @@
   "tipo": "confundivel_com",
   "grau": "conexo",
   "porque": "O art. 467 do CPC trata da escusa ou recusa do perito por impedimento ou suspeição, com nomeação de novo perito, enquanto o art. 16 da Lei 9.307/96 trata da escusa ou impossibilidade do árbitro, com assunção do substituto indicado no compromisso. Ambos os dispositivos regulam a substituição de um terceiro imparcial do processo (perito e árbitro) em razão de impedimento, mas em regimes autônomos, o que gera risco de se aplicar à perícia judicial as regras próprias da substituição de árbitro.",
-  "refs": [],
-  "origem": "rotina",
-  "em": "2026-10-22T17:12:02+00:00"
- },
- {
-  "de": "cpc.870",
-  "para": "clt.721",
-  "tipo": "especializa",
-  "grau": "conexo",
-  "porque": "O art. 870 do CPC atribui, como regra geral, a avaliação dos bens penhorados ao oficial de justiça, enquanto o art. 721 da CLT especializa essa atribuição para o processo do trabalho, incumbindo aos Oficiais de Justiça e Oficiais de Justiça Avaliadores da Justiça do Trabalho a realização dos atos decorrentes da execução dos julgados.",
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T17:12:02+00:00"
