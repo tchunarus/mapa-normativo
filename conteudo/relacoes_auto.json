@@ -36557,5 +36557,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T22:13:16+00:00"
+ },
+ {
+  "de": "cpc.375",
+  "para": "l9099.5",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 375 do CPC autoriza o juiz a valorar as regras de experiência comum e, quanto à experiência técnica, ressalva apenas o exame pericial; o art. 5º da Lei 9.099/95 concede ao juiz do juizado especial cível liberdade para apreciar a prova e dar especial valor às regras de experiência comum ou técnica, sem repetir essa ressalva, o que gera risco de se concluir, de forma equivocada, que no juizado especial a perícia pode ser sempre dispensada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T23:12:32+00:00"
+ },
+ {
+  "de": "cpc.421",
+  "para": "cc.1192",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 421 do CPC autoriza o juiz a ordenar de ofício a exibição parcial de livros e documentos, extraindo-se a suma que interessar ao litígio; o art. 1.192 do Código Civil complementa esse mesmo regime de exibição de livros empresariais ao disciplinar a consequência da recusa em apresentá-los, determinando a apreensão judicial e, pelo parágrafo único, admitindo como verdadeiro o alegado pela parte contrária, ressalvada prova documental em contrário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T23:12:32+00:00"
+ },
+ {
+  "de": "cpp.405",
+  "para": "cpc.367",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 405 do CPP determina que o ocorrido em audiência seja lavrado em termo assinado pelo juiz e pelas partes, admitindo pelo § 2º o registro por gravação audiovisual sem necessidade de transcrição; o art. 367 do CPC disciplina, para o processo civil, a lavratura de termo semelhante, exigindo pelo § 2º a subscrição pelo juiz, pelos advogados, pelo membro do Ministério Público e pelo escrivão ou chefe de secretaria, regras distintas sobre a mesma espécie de termo que podem ser confundidas entre os dois processos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T23:12:32+00:00"
+ },
+ {
+  "de": "cpp.474-A",
+  "para": "cpc.772",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 474-A do CPP protege a dignidade da vítima durante a instrução em plenário do júri, vedando manifestações que ofendam essa dignidade; o art. 772 do CPC trata de instituto diverso, o ato atentatório à dignidade da justiça praticado pelo executado na execução civil, previsto no inciso II; a proximidade terminológica entre os dois institutos, voltados a bens jurídicos distintos, gera risco de confusão na pesquisa pelo termo dignidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T23:12:32+00:00"
+ },
+ {
+  "de": "d70235.29",
+  "para": "cpp.155",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 29 do Decreto 70.235/72 autoriza a autoridade julgadora administrativa a formar livremente sua convicção na apreciação da prova e determinar as diligências necessárias; o art. 155 do CPP também consagra a livre apreciação da prova, mas impõe limite ausente no art. 29, ao vedar que o juiz penal funde a decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas; são institutos conexos, pois tratam do mesmo princípio da persuasão racional em processos de natureza distinta, administrativa fiscal e penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T23:12:32+00:00"
+ },
+ {
+  "de": "d70235.29",
+  "para": "lcp227.69",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 69 da LC 227/2026 especializa, para o contencioso administrativo do IBS e da CBS, a mesma regra de livre apreciação da prova e de diligências de ofício do art. 29 do Decreto 70.235/72, ao dispor que a autoridade julgadora não fica adstrita às razões de fato ou de direito invocadas e pode determinar diligências mesmo após outras medidas, exigindo, pelo § 1º, que a decisão que as determinar seja motivada, exigência não prevista expressamente no art. 29.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T23:12:32+00:00"
+ },
+ {
+  "de": "l8934.12",
+  "para": "clt.662",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 12 da Lei 8.934/94 disciplina a escolha dos vogais e suplentes das juntas comerciais, mediante listas tríplices indicadas por entidades patronais, associações comerciais e órgãos profissionais; o art. 662 da CLT trata de instituto diverso, a escolha dos vogais das juntas de conciliação e julgamento da Justiça do Trabalho, também a partir de listas elaboradas por associações sindicais; a identidade do termo vogal entre órgãos de natureza totalmente distinta, o registro público de empresas e a representação classista trabalhista, gera risco real de confusão na pesquisa pelo termo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T23:12:32+00:00"
+ },
+ {
+  "de": "l9099.38",
+  "para": "cpc.491",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 38 da Lei 9.099/95 veda, de forma absoluta, sentença condenatória por quantia ilíquida no juizado especial cível, ainda que genérico o pedido; o art. 491 do CPC, regra geral do processo civil, admite a prolação de sentença ilíquida nas hipóteses dos incisos I e II, quando não for possível determinar de modo definitivo o montante devido ou quando a apuração depender de prova de realização demorada ou excessivamente dispendiosa; o art. 38 excepciona, no âmbito do juizado especial, essa possibilidade geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T23:12:32+00:00"
+ },
+ {
+  "de": "l9099.6",
+  "para": "lindb.5",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 5º da LINDB determina que, na aplicação da lei, o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum; o art. 6º da Lei 9.099/95 complementa esse mesmo cânone hermenêutico para o juizado especial cível, determinando que o juiz adote, em cada caso, a decisão que reputar mais justa e equânime, atendendo aos mesmos fins sociais da lei e exigências do bem comum, com autorização expressa de julgamento por equidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T23:12:32+00:00"
  }
 ]
