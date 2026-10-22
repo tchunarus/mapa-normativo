@@ -34687,5 +34687,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T00:11:37+00:00"
+ },
+ {
+  "de": "lef.17",
+  "para": "cpc.1023",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 17 da LEF trata dos embargos à execução fiscal, defesa do executado contra a cobrança da dívida ativa, enquanto o art. 1.023 do CPC disciplina os embargos de declaração, recurso contra decisão com obscuridade, contradição, omissão ou erro material. O nome comum, embargos, pode induzir à confusão entre institutos de natureza processual totalmente diversa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T01:11:05+00:00"
+ },
+ {
+  "de": "lef.19",
+  "para": "cpc.826",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 826 do CPC assegura ao executado o direito de remir a execução a qualquer tempo, antes da adjudicação ou da alienação dos bens. O art. 19 da LEF confere direito análogo, de remição, ao terceiro que prestou garantia real, mas o especializa para a execução fiscal ao restringi-lo ao prazo de quinze dias contado da ausência de embargos ou da rejeição deles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T01:11:05+00:00"
+ },
+ {
+  "de": "lef.2",
+  "para": "floripa_ctm.182",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 2º da LEF complementa, à semelhança do que faz em relação ao art. 201 do CTN, o conceito de dívida ativa tributária do art. 182 do Código Tributário Municipal de Florianópolis, ao estender a disciplina da cobrança judicial também à dívida ativa não tributária do Município, prevista na Lei nº 4.320, de 1964.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T01:11:05+00:00"
+ },
+ {
+  "de": "lef.20",
+  "para": "cpc.676",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 676 do CPC trata dos embargos de terceiro oferecidos no juízo deprecado quando a constrição decorrer de carta, enquanto o art. 20 da LEF disciplina os embargos do próprio executado na execução por carta. A semelhança do cenário processual, a execução por carta, pode gerar confusão entre os dois institutos, que têm legitimados e objetos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T01:11:05+00:00"
+ },
+ {
+  "de": "lef.22",
+  "para": "cpc.887",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 887 do CPC exige apenas cinco dias de antecedência entre a publicação do edital e a data do leilão. O § 1º do art. 22 da LEF especializa essa regra para a execução fiscal ao fixar prazo próprio, entre dez e trinta dias, para a antecedência da publicação do edital, além de exigir a intimação pessoal do representante judicial da Fazenda Pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T01:11:05+00:00"
+ },
+ {
+  "de": "lef.26",
+  "para": "d70235.42",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 26 da LEF emprega a expressão decisão de primeira instância para designar a sentença judicial proferida na execução fiscal, enquanto o art. 42 do PAF usa a mesma expressão para a decisão de primeira instância do contencioso administrativo fiscal. A identidade terminológica pode induzir à confusão entre a instância judicial da execução e a instância administrativa do processo fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T01:11:05+00:00"
  }
 ]
