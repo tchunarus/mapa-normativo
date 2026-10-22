@@ -34937,5 +34937,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T09:16:16+00:00"
+ },
+ {
+  "de": "cc.1911",
+  "para": "lef.30",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 1.911 do Código Civil atribui à cláusula de inalienabilidade imposta aos bens por ato de liberalidade o efeito de impenhorabilidade, mas o art. 30 da LEF torna penhoráveis, para o pagamento da dívida ativa da Fazenda Pública, os bens gravados por essa cláusula, qualquer que seja a data de sua constituição, excecionando a regra civil quanto aos débitos fiscais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T10:13:48+00:00"
+ },
+ {
+  "de": "cc.1911",
+  "para": "ctn.184",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "Tal como o art. 30 da LEF, o art. 184 do CTN torna os bens gravados por cláusula de inalienabilidade respondentes pelo crédito tributário, afastando, para essa finalidade, a impenhorabilidade que o art. 1.911 do Código Civil atribui à cláusula de liberalidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T10:13:48+00:00"
+ },
+ {
+  "de": "cc.1911",
+  "para": "cpc.833",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 833 do CPC lista os bens inalienáveis entre os impenhoráveis, detalhando, para fins de execução civil, o efeito que o art. 1.911 do Código Civil atribui à cláusula de inalienabilidade imposta por liberalidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T10:13:48+00:00"
+ },
+ {
+  "de": "cc.1911",
+  "para": "lsa.169",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 169 da LSA estende às ações novas distribuídas por capitalização a inalienabilidade e a incomunicabilidade que porventura gravarem as ações originárias, aplicando à companhia o mesmo efeito que o art. 1.911 do Código Civil atribui à cláusula de inalienabilidade sobre bens em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T10:13:48+00:00"
+ },
+ {
+  "de": "l11101.78",
+  "para": "lef.5",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 78 da Lei 11.101/05 sujeita à distribuição por dependência, no juízo da falência, as ações a ele relacionadas, mas o art. 5º da LEF excepciona a execução fiscal dessa regra, atribuindo a ela juízo próprio que exclui o da falência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T10:13:48+00:00"
+ },
+ {
+  "de": "l11101.78",
+  "para": "cpc.59",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 59 do CPC fixa a regra geral de que o registro ou a distribuição da petição inicial torna prevento o juízo, e o parágrafo único do art. 78 da Lei 11.101/05 especializa essa regra para o juízo falimentar, determinando a distribuição por dependência das ações nele propostas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T10:13:48+00:00"
+ },
+ {
+  "de": "lef.40",
+  "para": "cc.206-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 206-A do Código Civil remete, para a prescrição intercorrente das pretensões em geral, ao regime do art. 921 do CPC, o que pode ser confundido com a prescrição intercorrente específica da execução fiscal, disciplinada pelos parágrafos do art. 40 da LEF, com prazo e marco inicial próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T10:13:48+00:00"
+ },
+ {
+  "de": "lef.5",
+  "para": "floripa_ctm.104",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 104 do Código Tributário Municipal de Florianópolis reproduz, para o crédito tributário municipal, a mesma regra do art. 187 do CTN, complementando a exclusividade de juízo da execução fiscal prevista no art. 5º da LEF ao afastar a sujeição do crédito a concurso de credores ou habilitação naqueles processos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T10:13:48+00:00"
+ },
+ {
+  "de": "lef.5",
+  "para": "l8397.14",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 14 da Lei 8.397/92 determina que os autos da medida cautelar fiscal sejam apensados aos da execução fiscal, o que pressupõe a exclusividade de juízo que o art. 5º da LEF atribui a essa execução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T10:13:48+00:00"
+ },
+ {
+  "de": "lef.6",
+  "para": "cpc.319",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O caput do art. 319 do CPC exige da petição inicial um rol extenso de requisitos, e o caput do art. 6º da LEF especializa essa regra para a execução fiscal, reduzindo-os a apenas o juiz a quem é dirigida, o pedido e o requerimento de citação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T10:13:48+00:00"
+ },
+ {
+  "de": "lef.6",
+  "para": "cpc.320",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 320 do CPC exige que a petição inicial seja instruída com os documentos indispensáveis à propositura da ação, e o § 1º do art. 6º da LEF especializa essa exigência para a execução fiscal, determinando que a petição seja instruída com a Certidão da Dívida Ativa, que dela fará parte integrante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T10:13:48+00:00"
+ },
+ {
+  "de": "lef.7",
+  "para": "cpc.829",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 829 do CPC determina que o mandado de citação na execução comum já contenha a ordem de penhora e de avaliação, e o art. 7º da LEF especializa essa estrutura para a execução fiscal, fazendo o despacho que defere a inicial importar, desde logo, em ordem de citação, penhora, arresto, registro e avaliação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T10:13:48+00:00"
+ },
+ {
+  "de": "lef.7",
+  "para": "cpc.835",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 7º da LEF determina a penhora sem estabelecer a ordem dos bens a penhorar, de modo que se aplica subsidiariamente a gradação do art. 835 do CPC, que trata do mesmo instituto no âmbito da execução civil em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T10:13:48+00:00"
  }
 ]
