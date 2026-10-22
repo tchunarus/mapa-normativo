@@ -35437,5 +35437,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T14:15:43+00:00"
+ },
+ {
+  "de": "cc.213",
+  "para": "cpc.392",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 213 do CC nega eficácia à confissão de quem não pode dispor do direito confessado e, em seu parágrafo único, limita a eficácia da confissão feita por representante aos poderes de vinculação deste, e o art. 392 do CPC, no § 1º e no § 2º, especializa essa mesma disciplina para a confissão feita em juízo, sem alterar a regra geral do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T15:15:20+00:00"
+ },
+ {
+  "de": "cc.213",
+  "para": "l10522.14-C",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 213 do CC trata da confissão como meio de prova, cuja eficácia depende da capacidade de disposição do confitente ou dos limites de poder do representante, e o art. 14-C da Lei 10.522/02 emprega a mesma palavra confissão em sentido inteiramente distinto, como efeito do pagamento da primeira prestação do parcelamento simplificado, que confessa a dívida tributária para fins de constituição do crédito, gerando risco de se confundirem dois institutos que só compartilham o rótulo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T15:15:20+00:00"
+ },
+ {
+  "de": "cpc.476",
+  "para": "lef.13",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 476 do CPC permite ao juiz prorrogar, por uma vez e pela metade do prazo originalmente fixado, o prazo para o perito apresentar o laudo por motivo justificado, e o § 2º do art. 13 da LEF trata de situação próxima, o avaliador que não consegue apresentar o laudo de avaliação no prazo de quinze dias, mas reage de modo distinto, com a nomeação de outra pessoa ou entidade, risco de se aplicar por engano o remédio de um regime ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T15:15:20+00:00"
+ },
+ {
+  "de": "cpc.477",
+  "para": "cpp.411",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 477 do CPC permite à parte requerer ao juiz que intime o perito ou o assistente técnico a comparecer à audiência para prestar esclarecimentos adicionais sobre o laudo, e o § 1º do art. 411 do CPP prevê, no processo penal, que os esclarecimentos dos peritos também dependam de prévio requerimento e de deferimento pelo juiz, regimes próximos que podem ser confundidos quanto aos requisitos e ao momento de produção desse esclarecimento pericial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T15:15:20+00:00"
+ },
+ {
+  "de": "cc.312",
+  "para": "cpc.841",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 312 do CC trata do pagamento feito pelo devedor ao credor apesar de intimado da penhora que recaiu sobre o crédito, hipótese em que o pagamento não vale perante o exequente, e o art. 841 do CPC disciplina a intimação da penhora ao executado da ação principal, destinatários diferentes que, por usarem a mesma expressão intimado da penhora, podem ser confundidos entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T15:15:20+00:00"
+ },
+ {
+  "de": "cpp.789",
+  "para": "cpc.960",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 789 do CPP disciplina a homologação da sentença penal estrangeira pelo procedimento com embargos, relator e revisor segundo o Regimento Interno do Supremo Tribunal Federal, e o art. 960 do CPC disciplina, de modo geral, a homologação de decisão estrangeira por ação própria segundo o Regimento Interno do Superior Tribunal de Justiça, regimes que tratam do mesmo instituto da homologação de decisão estrangeira mas por procedimentos e órgãos distintos, com risco de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T15:15:20+00:00"
+ },
+ {
+  "de": "cpp.790",
+  "para": "cpc.960",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 790 do CPP determina que a homologação de sentença penal estrangeira para reparação do dano e outros efeitos civis observe o que a respeito prescreve o Código de Processo Civil, e o art. 960 do CPC é a norma que disciplina a ação de homologação de decisão estrangeira para a qual o art. 790 remete.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T15:15:20+00:00"
+ },
+ {
+  "de": "ctn.146",
+  "para": "lindb.24",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 24 da LINDB veda que a revisão administrativa, controladora ou judicial declare inválidas situações plenamente constituídas com base em mudança posterior de orientação geral, levando em conta as orientações da época do ato, e o art. 146 do CTN especializa essa mesma proteção para o lançamento tributário, ao vedar que a modificação de critério jurídico adotado pela autoridade administrativa seja aplicada a fato gerador já ocorrido em relação ao mesmo sujeito passivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T15:15:20+00:00"
+ },
+ {
+  "de": "cpc.14",
+  "para": "lindb.24",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 24 da LINDB protege situações administrativas já plenamente constituídas contra a invalidação baseada em mudança posterior de orientação geral, considerando as orientações da época do ato, e o art. 14 do CPC protege, de modo distinto, os atos processuais praticados e as situações jurídicas consolidadas contra a aplicação retroativa de nova norma processual aos processos em curso, institutos conexos de proteção à segurança jurídica que podem ser confundidos quanto ao objeto protegido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T15:15:20+00:00"
+ },
+ {
+  "de": "l8213.124-C",
+  "para": "lindb.28",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 28 da LINDB prevê que o agente público responda pessoalmente por suas decisões ou opiniões técnicas apenas em caso de dolo ou erro grosseiro, e o art. 124-C da Lei 8.213/91 especializa essa mesma regra para o servidor responsável pela análise dos pedidos de benefícios previdenciários, reproduzindo o mesmo padrão de responsabilização pessoal restrita a dolo ou erro grosseiro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T15:15:20+00:00"
  }
 ]

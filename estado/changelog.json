@@ -1227,5 +1227,13 @@
   "titulo": "LC 123/06, Art. 49: texto alterado",
   "nota": "Vide Lei Complementar nº 238, de 2026",
   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm"
+ },
+ {
+  "data": "2026-10-22T15:06:20+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1403/STJ: Mérito Julgado · tese firmada",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1403&cod_tema_final=1403",
+  "p": "stj.tema.1403"
  }
 ]
