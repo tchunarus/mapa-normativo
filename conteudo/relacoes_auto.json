@@ -34647,5 +34647,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-21T23:14:20+00:00"
+ },
+ {
+  "de": "lef.30",
+  "para": "cpc.832",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 30 da LEF determina que a totalidade dos bens e rendas do executado responde pela Dívida Ativa da Fazenda Pública, ressalvados unicamente os bens absolutamente impenhoráveis, especializando para a execução fiscal a regra geral de impenhorabilidade prevista no art. 832 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T00:11:37+00:00"
+ },
+ {
+  "de": "ctn.184",
+  "para": "lef.30",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 184 do CTN e o art. 30 da LEF reproduzem redação quase idêntica sobre a responsabilidade patrimonial do devedor, mas o CTN restringe o alcance ao crédito tributário, enquanto a LEF abrange toda a Dívida Ativa da Fazenda Pública, tributária e não tributária, o que gera risco de citação equivocada do dispositivo em cobrança não tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T00:11:37+00:00"
+ },
+ {
+  "de": "ctn.184",
+  "para": "cpc.832",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 184 do CTN resguarda, assim como o art. 832 do CPC, os bens que a lei declara absolutamente impenhoráveis, especializando para o crédito tributário a regra geral de impenhorabilidade do Código de Processo Civil ao definir que a totalidade dos bens e das rendas do sujeito passivo responde pela dívida, ressalvada essa exceção legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T00:11:37+00:00"
+ },
+ {
+  "de": "d9580.305",
+  "para": "lsa.183",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 305 do RIR remete expressamente ao art. 183, caput, inciso II, da Lei das Sociedades por Ações ao fixar que mercadorias, matérias-primas e bens em almoxarifado sejam avaliados pelo custo de aquisição, adotando para fins de apuração do imposto de renda o mesmo critério contábil de avaliação do ativo previsto na legislação societária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T00:11:37+00:00"
  }
 ]
