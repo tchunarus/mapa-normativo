@@ -34747,5 +34747,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T01:11:05+00:00"
+ },
+ {
+  "de": "lef.28",
+  "para": "cpc.58",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 58 do CPC determina que a reunião de ações propostas em separado ocorra no juízo prevento, para decisão simultânea, regra geral que o art. 28 da LEF especializa para a execução fiscal, ao prever a redistribuição ao juízo da primeira distribuição quando o Juiz, a requerimento das partes, ordenar a reunião de processos contra o mesmo devedor por conveniência da unidade da garantia da execução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T06:10:30+00:00"
+ },
+ {
+  "de": "lef.29",
+  "para": "floripa_ctm.104",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 104 do Código Tributário Municipal de Florianópolis reproduz, para o crédito tributário municipal, a mesma regra de não sujeição a concurso de credores e a mesma ordem de preferência entre entes públicos do art. 187 do CTN, e o art. 29 da LEF complementa essa regra ao estendê-la a toda a Dívida Ativa da Fazenda Pública, tributária ou não, mantendo a mesma ordem de preferência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T06:10:30+00:00"
+ },
+ {
+  "de": "floripa_ctm.101",
+  "para": "lef.30",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 101 do Código Tributário Municipal de Florianópolis reproduz redação quase idêntica à do art. 30 da LEF sobre a responsabilidade patrimonial do devedor por seus bens e rendas perante a Fazenda Pública, mas restringe o alcance ao crédito tributário municipal, enquanto a LEF abrange toda a Dívida Ativa, tributária e não tributária, o que gera risco de citação equivocada do dispositivo em cobrança não tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T06:10:30+00:00"
+ },
+ {
+  "de": "floripa_ctm.108",
+  "para": "lef.31",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 108 do Código Tributário Municipal de Florianópolis exige, para a concordata, prova de quitação dos tributos municipais relativos à atividade mercantil do falido como condição para a extinção de suas obrigações, exigência que se insere na regra mais ampla do art. 31 da LEF, segundo a qual nenhuma alienação será judicialmente autorizada, nesses processos, sem prova de quitação da Dívida Ativa ou concordância da Fazenda Pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T06:10:30+00:00"
  }
 ]
