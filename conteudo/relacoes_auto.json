@@ -35537,5 +35537,305 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T15:15:20+00:00"
+ },
+ {
+  "de": "l8245.76",
+  "para": "cpc.14",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 76 da Lei 8.245/1991 excepciona a regra geral de aplicação imediata da norma processual aos processos em curso prevista no art. 14 do CPC, pois determina que as disposições da lei não se aplicam às ações já ajuizadas quando de sua entrada em vigor, preservando o rito anterior para essas demandas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpc.14",
+  "para": "cpp.2",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 2º do CPP estabelece, para o processo penal, a aplicação imediata da lei processual aos atos futuros, sem prejudicar a validade dos atos já realizados, podendo ser confundido com o art. 14 do CPC, que trata do mesmo instituto para o processo civil, mas acrescenta a ressalva expressa quanto às situações jurídicas já consolidadas sob a norma revogada, ausente no texto do CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpc.14",
+  "para": "d70235.65",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º e o § 2º do art. 65 do Decreto 70.235/1972 mantêm sob a legislação revogada, respectivamente, o preparo dos processos em curso até a decisão de primeira instância e os prazos já iniciados, reproduzindo para o processo administrativo fiscal o mesmo princípio de preservação dos atos praticados sob a norma revogada consagrado no art. 14 do CPC, o que pode gerar confusão quanto ao alcance da regra geral deste no âmbito administrativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpc.14",
+  "para": "clt.769",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 769 da CLT determina que o direito processual comum seja fonte subsidiária do processo do trabalho nos casos omissos, e a CLT não dispõe sobre a aplicação no tempo das normas processuais trabalhistas supervenientes, de modo que se aplica subsidiariamente o art. 14 do CPC, que assegura a aplicação imediata da nova norma processual aos processos em curso, resguardados os atos já praticados e as situações jurídicas consolidadas sob a lei revogada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpc.392",
+  "para": "cpp.198",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 392 do CPC condiciona a eficácia da confissão à capacidade de disposição do direito confessado, enquanto o art. 198 do CPP, ao vedar que o silêncio do acusado seja interpretado como confissão, revela instituto conexo porém distinto, pois no processo penal a confissão depende de manifestação expressa e nunca pode ser presumida da inércia da parte, ao contrário do regime de disponibilidade do direito civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpc.392",
+  "para": "l10522.14-C",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 392 do CPC exige capacidade de disposição do direito para que a confissão produza efeitos no processo civil, enquanto o art. 14-C da Lei 10.522/2002 emprega a expressão confissão de dívida em sentido técnico diverso, como efeito automático do pagamento da primeira parcela do parcelamento simplificado, sem relação com a indisponibilidade do crédito tributário, o que pode induzir confusão entre os dois institutos homônimos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpc.392",
+  "para": "d9580.979",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 392 do CPC condiciona a eficácia da confissão em juízo à capacidade de disposição do direito confessado, enquanto o § 1º do art. 979 do RIR/2018 atribui o rótulo confissão de dívida ao documento que formaliza o cumprimento de obrigação acessória e comunica a existência de crédito tributário, instrumento hábil para a exigência do crédito independentemente de qualquer juízo sobre disponibilidade, o que aproxima os nomes mas não os institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpc.392",
+  "para": "cc.116",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 116 do Código Civil estabelece, em termos gerais, que a manifestação de vontade do representante, nos limites de seus poderes, produz efeitos em relação ao representado, regra geral que o § 2º do art. 392 do CPC especializa para a confissão, ao dispor que a confissão feita por um representante somente é eficaz nos limites em que este pode vincular o representado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpp.411",
+  "para": "l9099.81",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 411 do CPP disciplina a audiência de instrução do procedimento do júri, determinando a oitiva do ofendido e das testemunhas de acusação e defesa, o interrogatório do acusado e os debates em uma só audiência, sequência muito próxima da que o art. 81 da Lei 9.099/1995 prevê para a audiência de instrução e julgamento dos Juizados Especiais Criminais, cujo § 1º também concentra a produção de todas as provas em audiência única, podendo gerar confusão entre os dois ritos, apesar de o procedimento do júri não encerrar com sentença na mesma audiência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpp.411",
+  "para": "cpc.364",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 411 do CPP concede à acusação e à defesa o prazo de 20 (vinte) minutos para as alegações orais, prorrogável por mais 10 (dez) minutos, prazo idêntico ao que o art. 364 do CPC fixa para os debates orais na audiência de instrução e julgamento cível, o que aproxima os dois institutos a ponto de serem confundidos, embora o art. 411 do CPP preveja ainda a divisão proporcional do tempo entre corréus no § 5º e os 10 (dez) minutos adicionais ao assistente do Ministério Público no § 6º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpp.411",
+  "para": "cpc.361",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 411 do CPP e o art. 361 do CPC regulam a ordem de produção das provas orais em audiência, mas em sequências distintas, pois o CPP ouve primeiro o ofendido e as testemunhas de acusação e defesa para depois interrogar o acusado, enquanto o CPC determina a oitiva do perito e dos assistentes técnicos antes dos depoimentos pessoais do autor e do réu e, por último, das testemunhas, conforme os incisos I a III do art. 361, revelando institutos conexos porém com lógica inversa quanto à posição do interrogatório e da oitiva pericial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "ctn.146",
+  "para": "l9307.26",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 146 do CTN condiciona a mudança de critérios jurídicos do lançamento, entre outras hipóteses, à existência de sentença arbitral proferida no âmbito da arbitragem especial tributária e aduaneira, remetendo ao conceito geral de sentença arbitral cujos requisitos obrigatórios, como relatório, fundamentos e dispositivo, estão fixados no art. 26 da Lei 9.307/1996.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "ctn.146",
+  "para": "l9307.31",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "Ao equiparar a sentença arbitral da arbitragem especial tributária e aduaneira à decisão administrativa ou judicial para fins de limitar no tempo a mudança de critérios jurídicos do lançamento, o art. 146 do CTN remete ao art. 31 da Lei 9.307/1996, que atribui à sentença arbitral os mesmos efeitos da sentença judicial e, quando condenatória, a eficácia de título executivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "l8213.124-C",
+  "para": "l14133.73",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 124-C da Lei 8.213/1991 limita a responsabilidade pessoal do servidor do INSS aos casos de dolo ou erro grosseiro na análise dos benefícios, padrão igual ao que o art. 73 da Lei 14.133/2021 emprega para a responsabilidade solidária do agente público na contratação direta indevida, podendo os dois dispositivos ser confundidos apesar de regularem contextos administrativos distintos e consequências diferentes, pois a Lei 14.133/2021 impõe responsabilidade solidária pelo dano ao erário, enquanto a Lei 8.213/1991 trata de responsabilidade pessoal do próprio servidor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "l8213.124-C",
+  "para": "ctn.208",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 124-C da Lei 8.213/1991 só responsabiliza pessoalmente o servidor por dolo ou erro grosseiro, padrão mais brando que o do art. 208 do CTN, que também responsabiliza pessoalmente o funcionário pelo crédito tributário e juros de mora, mas exige dolo ou fraude na certidão negativa expedida com erro contra a Fazenda Pública, o que pode gerar confusão sobre qual padrão de culpa se aplica ao servidor público em cada hipótese.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "l8213.124-C",
+  "para": "cpc.181",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 124-C da Lei 8.213/1991 exige dolo ou erro grosseiro para responsabilizar pessoalmente o servidor, padrão distinto do art. 181 do CPC, que impõe ao membro do Ministério Público responsabilidade civil e regressiva apenas quando agir com dolo ou fraude, sem contemplar o erro grosseiro como fundamento autônomo, o que evidencia instituto conexo porém com parâmetros de imputação diversos entre agentes públicos de funções distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "l8213.124-C",
+  "para": "l9279.204",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 124-C da Lei 8.213/1991 usa a expressão erro grosseiro no sentido técnico consolidado para limitar a responsabilidade pessoal do agente público, ao passo que o art. 204 da Lei 9.279/1996 emprega a mesma expressão em contexto de direito privado, como um dos fundamentos de responsabilidade por perdas e danos de quem requer busca e apreensão de má-fé, por espírito de emulação, mero capricho ou erro grosseiro, revelando risco de confusão entre institutos homônimos de regimes diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpc.873",
+  "para": "lef.13",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 13 da LEF permite a impugnação da avaliação pelo executado ou pela Fazenda Pública antes da publicação do edital de leilão, sem especificar os fundamentos dessa impugnação, lacuna preenchida subsidiariamente pelo art. 873 do CPC, que admite nova avaliação especificamente quando houver erro ou dolo do avaliador, majoração ou diminuição do valor do bem após a avaliação, ou fundada dúvida do juiz sobre o valor atribuído.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "lef.13",
+  "para": "cpc.870",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 13 da LEF atribui a avaliação dos bens penhorados a quem lavrar o auto ou termo de penhora, e o § 2º desse artigo prevê avaliador nomeado pelo juiz, com laudo em até 15 (quinze) dias, se não houver avaliador oficial na comarca. O art. 870 do CPC segue lógica semelhante ao atribuir a avaliação ao oficial de justiça como regra geral, reservando a nomeação de avaliador, com prazo de 10 (dez) dias para o laudo, apenas quando forem necessários conhecimentos especializados, o que aproxima os dois regimes a ponto de serem confundidos quanto ao prazo aplicável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "lef.13",
+  "para": "cpc.635",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 13 da LEF determina que, apresentado o laudo de avaliação, o juiz decida de plano sobre a avaliação, sem abrir prazo prévio às partes, regime mais sumário do que o do art. 635 do CPC, que assegura manifestação das partes no prazo de 15 (quinze) dias após a entrega do laudo e, em caso de impugnação procedente, determina a retificação da avaliação pelo perito, instituto conexo mas com contraditório mais amplo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "lef.13",
+  "para": "clt.887",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 13 da LEF atribui a avaliação a quem lavrar o auto de penhora, reservando ao avaliador oficial apenas a hipótese de impugnação, enquanto o art. 887 da CLT impõe a escolha de avaliador de comum acordo entre as partes como regra geral da execução trabalhista, cabendo ao juiz ou presidente do tribunal designá-lo livremente apenas quando as partes não chegarem a acordo no prazo de cinco dias, revelando institutos próximos porém com lógicas de nomeação do avaliador invertidas entre os dois regimes de execução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpc.760",
+  "para": "lindb.3",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 760 do CPC trata da escusa do tutor ou curador ao encargo, direito de eximir-se da função mediante justificativa apresentada ao juiz em prazo determinado, sentido completamente diferente do emprego da mesma palavra no art. 3º da LINDB, que nega eficácia à alegação de desconhecimento da lei como meio de afastar o dever de cumpri-la.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cc.1739",
+  "para": "lindb.3",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.739 do Código Civil disciplina a consequência de o juiz não admitir a escusa do tutor nomeado, que continua a exercer a tutela até o julgamento do recurso, hipótese estranha ao sentido do termo escusa no art. 3º da LINDB, que trata da impossibilidade de a ignorância da lei justificar o seu descumprimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cc.1764",
+  "para": "lindb.3",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.764 do Código Civil inclui, entre as causas de cessação das funções do tutor, a superveniência de escusa legítima, uso do termo que nada tem a ver com o sentido do art. 3º da LINDB, segundo o qual ninguém pode escusar-se de cumprir a lei alegando que não a conhece.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpc.467",
+  "para": "lindb.3",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 467 do CPC permite que o perito se escuse ou seja recusado por impedimento ou suspeição, hipótese de afastamento justificado do encargo pericial que não guarda relação de conteúdo com o art. 3º da LINDB, o qual impede que o desconhecimento da lei sirva de escusa ao seu cumprimento, apesar da coincidência vocabular entre os dois dispositivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "floripa_ctm.16",
+  "para": "lindb.4",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 16 do Código Tributário Municipal de Florianópolis especializa para a legislação tributária municipal o método de integração do art. 4º da LINDB, pois determina a aplicação sucessiva e na ordem enunciada da analogia, dos princípios gerais de direito público e da equidade na ausência de disposição expressa, substituindo o recurso aos costumes previsto na regra geral e limitando, no parágrafo único, o emprego da analogia para não instituir tributo novo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "ctn.109",
+  "para": "lindb.4",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 109 do CTN restringe, para a definição dos institutos de direito tributário, o recurso aos princípios gerais de direito privado mencionados no art. 4º da LINDB como fonte de integração, ao autorizar seu uso apenas para pesquisar a definição, o conteúdo e o alcance desses institutos, vedando que sirvam para definir os respectivos efeitos tributários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "l8078.7",
+  "para": "lindb.4",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 7º do CDC emprega a mesma relação de fontes do art. 4º da LINDB, princípios gerais do direito, analogia, costumes e equidade, mas com função distinta, pois o art. 4º da LINDB autoriza o juiz a integrar lacunas da lei quando ela for omissa, enquanto o art. 7º do CDC apenas afirma que os direitos do consumidor não excluem outros decorrentes dessas mesmas fontes, sem tratar de integração de lacuna legislativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "cpp.3",
+  "para": "lindb.4",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 3º do CPP especializa para o processo penal o método de integração previsto no art. 4º da LINDB, pois substitui o recurso aos costumes, incompatível com a legalidade estrita da matéria penal, pela interpretação extensiva e pela aplicação analógica, mantendo o suplemento dos princípios gerais de direito como fonte residual comum aos dois dispositivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
+ },
+ {
+  "de": "floripa_ctm.17",
+  "para": "lindb.4",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 17 do Código Tributário Municipal de Florianópolis especializa, para a legislação tributária do município, o recurso aos princípios gerais de direito privado referido no art. 4º da LINDB, ao restringi-lo a método supletivo de interpretação para pesquisa de definição, conteúdo e alcance dos institutos, conceitos e formas de direito privado, vedando sua utilização para definir os efeitos tributários respectivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T16:19:15+00:00"
  }
 ]
