@@ -35137,5 +35137,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T11:12:40+00:00"
+ },
+ {
+  "de": "clt.852-B",
+  "para": "l9099.19",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 852-B da CLT e o § 2º do art. 19 da Lei 9.099/95 tratam do mesmo instituto, a comunicação obrigatória de mudança de endereço no curso do processo e a eficácia das intimações enviadas ao local anteriormente indicado quando não há comunicação, com redação quase idêntica. Há risco real de confusão, pois o procedimento sumaríssimo trabalhista foi inspirado no rito dos juizados especiais cíveis, mas cada diploma rege um processo distinto, com órgãos e recursos próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T12:14:31+00:00"
+ },
+ {
+  "de": "cpc.842",
+  "para": "cc.1647",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 842 do CPC exige a intimação do cônjuge do executado quando a penhora recai sobre imóvel, salvo regime de separação absoluta de bens, mesmo critério de exclusão usado pelo art. 1.647 do Código Civil para dispensar a autorização do outro cônjuge na alienação de imóveis e nos demais atos do caput. São institutos conexos, a intimação na execução e a outorga conjugal nos negócios jurídicos, unidos pelo mesmo conceito de separação absoluta que delimita quando a proteção ao cônjuge deixa de existir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T12:14:31+00:00"
+ },
+ {
+  "de": "l8213.129-A",
+  "para": "cpc.320",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 129-A da Lei 8.213/91 especifica os documentos que devem instruir a petição inicial para atendimento do disposto no art. 320 do CPC, conforme menção expressa no próprio texto legal. É o mesmo instituto, a instrução documental da petição inicial, detalhado pela lei previdenciária para as ações sobre benefício por incapacidade, sem dispensar os documentos indispensáveis exigidos pela regra geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T12:14:31+00:00"
+ },
+ {
+  "de": "l8213.129-A",
+  "para": "cpc.473",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 129-A da Lei 8.213/91 impõe ao perito do juízo, em caso de divergência com o laudo administrativo, o dever de indicar de forma fundamentada as razões técnicas e científicas do dissenso, exigência adicional e específica em relação ao conteúdo geral do laudo pericial exigido pelo art. 473 do CPC. São institutos conexos, pois a lei previdenciária especializa, para as ações sobre benefício por incapacidade, a disciplina geral da prova pericial no processo civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T12:14:31+00:00"
+ },
+ {
+  "de": "lindb.15",
+  "para": "cpc.963",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 15 da LINDB e o art. 963 do CPC tratam do mesmo instituto, os requisitos para a homologação de sentença estrangeira no Brasil, com correspondência quase literal entre as alíneas a, b, c e d do art. 15 e os incisos I, II, III e V do art. 963. Há risco real de confusão, pois a alínea e do art. 15 ainda menciona homologação pelo Supremo Tribunal Federal, competência hoje atribuída ao Superior Tribunal de Justiça, disciplina que o art. 963 do CPC reflete de forma atualizada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T12:14:31+00:00"
+ },
+ {
+  "de": "lindb.15",
+  "para": "cpp.788",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 15 da LINDB e o art. 788 do CPP regulam institutos conexos, os requisitos de homologação de sentença estrangeira, um de natureza civil e outro de natureza penal, com redação muito semelhante quanto à competência do juiz prolator, citação regular, trânsito em julgado e tradução. O risco de confusão existe porque os regimes de homologação civil e penal seguem ritos e competências distintas, apesar da proximidade textual entre os dois dispositivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T12:14:31+00:00"
+ },
+ {
+  "de": "l9307.34",
+  "para": "lindb.15",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 34 da Lei 9.307/96 excepciona, para a sentença arbitral estrangeira, o regime geral de homologação de sentença estrangeira do art. 15 da LINDB, submetendo o reconhecimento e a execução da sentença arbitral aos tratados internacionais e, na sua ausência, estritamente aos termos da própria Lei de Arbitragem. São institutos conexos, pois ambos tratam da eficácia no Brasil de decisões proferidas no exterior, mas por regimes jurídicos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T12:14:31+00:00"
+ },
+ {
+  "de": "cpp.781",
+  "para": "lindb.17",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 781 do CPP especializa, para a homologação de sentença penal estrangeira e o cumprimento de cartas rogatórias, a regra geral do art. 17 da LINDB, segundo a qual leis, atos e sentenças estrangeiras não produzem eficácia no Brasil quando contrariam a ordem pública e os bons costumes. São institutos conexos, pois o CPP aplica ao processo penal o mesmo critério de limitação que a LINDB estabelece de forma ampla para qualquer ato estrangeiro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T12:14:31+00:00"
+ },
+ {
+  "de": "l9307.2",
+  "para": "lindb.17",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 2º da Lei 9.307/96 especializa, para a arbitragem, a regra geral do art. 17 da LINDB, ao condicionar a escolha das regras de direito aplicáveis pelas partes à não violação dos bons costumes e da ordem pública. São institutos conexos, pois a Lei de Arbitragem aplica ao negócio jurídico arbitral o mesmo limite de ordem pública e bons costumes que a LINDB estabelece, de modo amplo, para a eficácia de atos e declarações de vontade estrangeiros no Brasil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T12:14:31+00:00"
+ },
+ {
+  "de": "clt.852-B",
+  "para": "cpc.274",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 274 do CPC, em seu parágrafo único, presume válidas as intimações dirigidas ao endereço constante dos autos quando a parte não comunica mudança de endereço ao juízo, regra equivalente à do § 2º do art. 852-B da CLT. São institutos conexos, pois o CPC fixa a regra geral para o processo civil, e a CLT impõe regra própria ao procedimento sumaríssimo trabalhista, sem remissão expressa entre os dois textos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T12:15:17+00:00"
+ },
+ {
+  "de": "cpc.842",
+  "para": "lef.12",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 12 da Lei de Execução Fiscal determina a intimação do cônjuge quando a penhora recai sobre imóvel, regra equivalente à exigida pelo art. 842 do CPC para a execução civil comum. Ambos tratam do mesmo instituto, mas por vias distintas, pois a execução fiscal remete às normas de citação do art. 8º da própria lei, enquanto o CPC não faz tal remissão, o que gera risco de se aplicar o rito errado conforme o tipo de execução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-22T12:15:17+00:00"
  }
 ]
