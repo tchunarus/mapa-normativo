@@ -37057,5 +37057,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "cc.1083",
+  "para": "lsa.174",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos regulam a eficácia da redução do capital social, mas por regimes distintos: na sociedade limitada, o art. 1.083 do CC torna a redução efetiva a partir da averbação da ata no Registro Público de Empresas Mercantis, ao passo que, na sociedade anônima, o art. 174 da LSA somente produz efeito sessenta dias após a publicação da ata, prazo durante o qual os credores quirografários por títulos anteriores podem se opor à redução, nos termos do § 1º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T10:11:58+00:00"
+ },
+ {
+  "de": "cc.1083",
+  "para": "l8934.1",
+  "tipo": "complementa",
+  "grau": "contato",
+  "porque": "A eficácia da redução do capital na sociedade limitada depende, pelo art. 1.083 do CC, da averbação no Registro Público de Empresas Mercantis, registro cujas finalidades de dar garantia, publicidade, autenticidade, segurança e eficácia aos atos jurídicos das empresas mercantis estão enunciadas no inciso I do art. 1º da Lei 8.934/94.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T10:11:58+00:00"
+ },
+ {
+  "de": "cc.1088",
+  "para": "lsa.1",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1.088 do CC enuncia a regra de que, na sociedade anônima, o capital se divide em ações e cada sócio ou acionista responde apenas pelo preço de emissão das ações que subscrever ou adquirir, regra que o art. 1º da LSA reproduz como abertura do regime especial e exaustivo que disciplina integralmente as sociedades anônimas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T10:11:58+00:00"
+ },
+ {
+  "de": "cc.1098",
+  "para": "lsa.243",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Ambos definem sociedade controlada, mas com critérios diferentes: o art. 1.098 do CC exige que a controladora possua a maioria dos votos nas deliberações dos quotistas ou da assembleia geral, enquanto o § 2º do art. 243 da LSA contenta-se com a preponderância nas deliberações sociais, padrão que pode ser atingido sem a maioria estrita de votos exigida pelo Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T10:11:58+00:00"
+ },
+ {
+  "de": "ctn.178",
+  "para": "floripa_ctm.94",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 178 do CTN disciplina a revogabilidade da isenção, pressupondo o conceito de isenção que o art. 94 do CTM de Florianópolis complementa ao defini-la, no âmbito municipal, como a dispensa legal do pagamento do tributo devido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T10:11:58+00:00"
+ },
+ {
+  "de": "d9580.530",
+  "para": "cc.1098",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 530 do RIR/2018 define o sócio ou acionista controlador a partir da titularidade de direitos que asseguram a maioria dos votos na sociedade, conceito que o art. 1.098 do CC complementa ao definir a sua contraface, a sociedade controlada, como aquela de cujo capital outra sociedade possui a maioria dos votos nas deliberações e o poder de eleger a maioria dos administradores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T10:11:58+00:00"
  }
 ]
