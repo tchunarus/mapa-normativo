@@ -37907,5 +37907,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T21:13:54+00:00"
+ },
+ {
+  "de": "d9580.410",
+  "para": "lsa.200",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 410 do RIR/2018 só permite excluir do lucro real o prêmio na emissão de debêntures quando a reserva de lucros correspondente for destinada a absorção de prejuízos ou a aumento do capital social; essas duas destinações correspondem a hipóteses de uso de reserva de capital já previstas, em caráter geral, no art. 200 da Lei das S.A., que a norma tributária detalha para fins de apuração do imposto de renda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T22:14:03+00:00"
+ },
+ {
+  "de": "l13303.13",
+  "para": "lsa.143",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso VI do art. 13 da Lei 13.303/16 especializa, para as estatais, a regra geral do art. 143 da Lei das S.A. sobre prazo de gestão da diretoria, substituindo o limite geral de três anos por prazo unificado não superior a dois anos, com no máximo três reconduções consecutivas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T22:14:03+00:00"
+ },
+ {
+  "de": "l13303.13",
+  "para": "lsa.161",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 13 da Lei 13.303/16 especializa, para as empresas públicas e sociedades de economia mista, a regra do art. 161 da Lei das S.A. sobre o conselho fiscal, tornando obrigatório o funcionamento permanente desse órgão, que na companhia comum só é instalado a pedido de acionistas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T22:14:03+00:00"
+ },
+ {
+  "de": "l13303.44",
+  "para": "l14133.14",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 44 da Lei 13.303/16 e o art. 14 da Lei 14.133/21 vedam, em termos quase idênticos, a participação do autor do anteprojeto ou do projeto básico na licitação de obras e serviços de engenharia; como a Lei 13.303 rege especificamente as empresas públicas e sociedades de economia mista e a Lei 14.133 rege a administração em geral, há risco real de confusão sobre qual diploma disciplina a vedação em cada caso concreto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T22:14:03+00:00"
+ },
+ {
+  "de": "lsa.299",
+  "para": "d9580.628",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 299 da Lei das S.A. mantém em vigor a legislação especial sobre sociedades por ações nas áreas de atuação da Sudene, entre outras; o art. 628 do RIR/2018 detalha, no plano tributário, um desses incentivos fiscais regionais, relativo à redução do imposto de renda para empreendimentos aprovados nas áreas de atuação da Sudene.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T22:14:03+00:00"
+ },
+ {
+  "de": "lsa.299",
+  "para": "d9580.634",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 299 da Lei das S.A. mantém em vigor a legislação especial sobre sociedades por ações nas áreas de atuação da Sudam, entre outras; o art. 634 do RIR/2018 detalha, no plano tributário, um desses incentivos fiscais regionais, relativo à redução do imposto de renda para empreendimentos aprovados nas áreas de atuação da Sudam.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T22:14:03+00:00"
+ },
+ {
+  "de": "lsa.299",
+  "para": "d9580.661",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 299 da Lei das S.A. mantém em vigor a legislação especial sobre sociedades por ações beneficiárias de incentivos fiscais regionais; o art. 661 do RIR/2018 detalha, no plano tributário, a aplicação das quantias destinadas ao Finor e ao Finam, fundos que viabilizam esses mesmos incentivos nas áreas de atuação da Sudene e da Sudam.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T22:14:03+00:00"
  }
 ]
