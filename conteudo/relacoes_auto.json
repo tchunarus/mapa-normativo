@@ -36647,5 +36647,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-22T23:12:32+00:00"
+ },
+ {
+  "de": "l9099.5",
+  "para": "clt.852-D",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois artigos adotam redação quase idêntica sobre a liberdade do juiz para dirigir a instrução e valorizar as regras de experiência, mas pertencem a regimes distintos: o art. 5 da Lei 9.099/95 rege os juizados especiais cíveis e criminais, e o art. 852-D da CLT rege o procedimento sumaríssimo trabalhista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T00:07:39+00:00"
+ },
+ {
+  "de": "l9279.204",
+  "para": "lindb.28",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos adotam o padrão do erro grosseiro como limite de responsabilização, mas em contextos distintos: o art. 204 da LPI responsabiliza por perdas e danos quem requer busca e apreensão de má-fé, emulação, capricho ou erro grosseiro, enquanto o art. 28 da LINDB trata da responsabilidade pessoal do agente público por decisões ou opiniões técnicas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T00:07:39+00:00"
+ },
+ {
+  "de": "l9307.16",
+  "para": "l9099.24",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos tratam de juízo arbitral, mas em institutos distintos: o art. 16 da Lei 9.307/96 rege a substituição do árbitro na arbitragem convencional, enquanto o art. 24 da Lei 9.099/95 disciplina o juízo arbitral simplificado dos juizados especiais cíveis, sem a mesma formalidade da Lei de Arbitragem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T00:07:39+00:00"
  }
 ]
