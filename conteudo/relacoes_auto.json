@@ -37977,5 +37977,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T22:14:03+00:00"
+ },
+ {
+  "de": "l14133.14",
+  "para": "l13303.38",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Ambos impedem a participação em licitação de quem mantém vínculo com dirigente do contratante ou foi declarado inidôneo, mas o art. 38 da Lei 13.303/16 é a norma específica para empresa pública e sociedade de economia mista, distinta do regime geral do art. 14 da Lei 14.133/21, com risco de aplicação equivocada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T23:12:04+00:00"
+ },
+ {
+  "de": "l14133.14",
+  "para": "l12527.33",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A suspensão temporária de licitar e a declaração de inidoneidade previstas nos incisos IV e V do art. 33 da Lei de Acesso à Informação são sanções que, uma vez aplicadas, configuram a situação de impedimento por sanção a que se refere o inciso III do art. 14 da Lei 14.133/21.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T23:12:04+00:00"
+ },
+ {
+  "de": "lsa.143",
+  "para": "l13303.16",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 16 da Lei 13.303/16 submete o administrador de empresa pública e de sociedade de economia mista, sem prejuízo do disposto naquela lei, às normas da Lei 6.404/76, de modo que a composição da diretoria tratada no art. 143 desta lei aplica-se de forma subsidiária a essas sociedades, ressalvadas as regras próprias da lei das estatais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T23:12:04+00:00"
+ },
+ {
+  "de": "lsa.143",
+  "para": "l13303.17",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 17 da Lei 13.303/16 acrescenta exigências próprias de reputação ilibada e experiência profissional para os indicados a diretor de empresa pública e de sociedade de economia mista, que se somam, sem substituir, à disciplina geral de composição da diretoria do art. 143 desta lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T23:12:04+00:00"
+ },
+ {
+  "de": "lsa.200",
+  "para": "l13303.11",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "A Lei 13.303/16 veda à empresa pública a emissão de partes beneficiárias, afastando, para esse tipo de sociedade estatal, o instituto cujo resgate mediante reserva de capital está previsto no inciso III do art. 200 desta lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T23:12:04+00:00"
+ },
+ {
+  "de": "lsa.200",
+  "para": "d9580.579",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 579 do RIR/2018 disciplina o efeito fiscal da absorção de prejuízos mediante débito a reservas de lucros ou de capital, detalhando, para fins de compensação do prejuízo fiscal, a mesma operação societária autorizada pelo inciso I do art. 200 desta lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T23:12:04+00:00"
+ },
+ {
+  "de": "lsa.30",
+  "para": "d9580.520",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 520 do RIR/2018 trata do lucro na venda de ações em tesouraria, que só existem em razão da exceção à vedação de negociar com as próprias ações aberta pela alínea b do § 1º do art. 30 desta lei, complementando-a quanto ao efeito tributário da operação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T23:12:04+00:00"
+ },
+ {
+  "de": "lsa.39",
+  "para": "cc.1452",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Tanto o penhor de ações do art. 39 desta lei quanto o penhor de direito do art. 1.452 do Código Civil exigem instrumento registrado para a constituição da garantia, mas em livros distintos, o de Registro de Ações Nominativas da companhia e o Registro de Títulos e Documentos, o que gera risco de se aplicar a formalidade civil genérica em vez da formalidade própria das ações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T23:12:04+00:00"
+ },
+ {
+  "de": "lsa.46",
+  "para": "cc.1092",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Na sociedade em comandita por ações, o art. 1.092 do Código Civil exige o consentimento dos diretores para que a assembleia geral crie partes beneficiárias, especializando, para esse tipo societário, a disciplina geral de emissão prevista no art. 46 desta lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T23:12:04+00:00"
+ },
+ {
+  "de": "lsa.46",
+  "para": "d9580.520",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 520 do RIR/2018 trata do valor da alienação de partes beneficiárias como importância não computada no lucro real quando destinada a reserva de capital, complementando o regime do art. 46 desta lei quanto ao efeito tributário da emissão desses títulos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T23:12:04+00:00"
+ },
+ {
+  "de": "lsa.46",
+  "para": "d9580.697",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 697 do RIR/2018 disciplina a incidência do imposto de renda na fonte sobre os rendimentos pagos a pessoas físicas titulares de partes beneficiárias, complementando, quanto ao efeito tributário, o direito de participação nos lucros anuais conferido pelo § 1º do art. 46 desta lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T23:12:04+00:00"
  }
 ]
