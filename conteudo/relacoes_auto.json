@@ -37327,5 +37327,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T13:16:36+00:00"
+ },
+ {
+  "de": "l13303.7",
+  "para": "lsa.177",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 7º da Lei 13.303/16 estende às estatais as normas da Lei das Sociedades por Ações sobre escrituração contábil, e o art. 177 da LSA é a norma que fixa os princípios e critérios dessa escrituração, de modo que o segundo artigo é o conteúdo concreto da remissão feita pelo primeiro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T14:11:34+00:00"
+ },
+ {
+  "de": "lsa.161",
+  "para": "cc.1066",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos os dispositivos disciplinam o conselho fiscal de sociedades, mas em regimes distintos: na companhia regida pela LSA ele é obrigatório, com três a cinco membros eleitos pela assembleia-geral, enquanto na sociedade limitada, por força do art. 1.066 do Código Civil, é facultativo e previsto pelo próprio contrato social, o que gera risco de se aplicar a uma o regime da outra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T14:11:34+00:00"
+ },
+ {
+  "de": "lsa.162",
+  "para": "cc.1068",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 162 da LSA fixa remuneração do conselho fiscal com piso mínimo de dez por cento da média paga aos diretores, enquanto o art. 1.068 do Código Civil deixa a remuneração do conselho fiscal da sociedade limitada inteiramente à fixação da assembleia dos sócios, sem esse piso, risco de se transportar indevidamente a garantia mínima da companhia para a limitada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T14:11:34+00:00"
+ },
+ {
+  "de": "lsa.186",
+  "para": "cc.1189",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 1.189 do Código Civil determina que o balanço de resultado econômico do empresário seja elaborado na forma da lei especial, remissão que recai sobre a disciplina societária das demonstrações financeiras da companhia, entre as quais a demonstração de lucros ou prejuízos acumulados do art. 186 da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T14:11:34+00:00"
+ },
+ {
+  "de": "lsa.189",
+  "para": "d9580.344",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O caput do art. 344 do RIR/2018 cita expressamente o art. 189 da Lei nº 6.404/76 como fundamento da obrigatoriedade de constituir provisão para o imposto de renda sobre o lucro real, repetindo o mesmo mecanismo de dedução da provisão do resultado do exercício antes de qualquer participação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T14:11:34+00:00"
+ },
+ {
+  "de": "lsa.211",
+  "para": "cc.1105",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 211 da LSA e o art. 1.105 do Código Civil atribuem ao liquidante praticamente os mesmos poderes de representar a sociedade e alienar bens, transigir e dar quitação, mas a autorização para gravar bens e contrair empréstimos depende da assembleia-geral na companhia e do contrato social ou da maioria dos sócios na sociedade regida pelo Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T14:11:34+00:00"
  }
 ]

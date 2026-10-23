@@ -1243,5 +1243,13 @@
   "titulo": "Tema 1351/STJ: Em Julgamento",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1351&cod_tema_final=1351",
   "p": "stj.tema.1351"
+ },
+ {
+  "data": "2026-10-23T14:05:20+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1270/STJ: Acórdão Publicado · tese firmada",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1270&cod_tema_final=1270",
+  "p": "stj.tema.1270"
  }
 ]
