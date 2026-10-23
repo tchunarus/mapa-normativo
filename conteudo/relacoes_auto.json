@@ -37487,5 +37487,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T16:10:13+00:00"
+ },
+ {
+  "de": "cc.1182",
+  "para": "d9580.264",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 264 do RIR/2018 regulamenta, para fins tributários, a mesma regra do Código Civil sobre a responsabilidade da escrituração por contabilista legalmente habilitado, citando expressamente o art. 1.182 do Código Civil como fundamento e estendendo a exceção da falta de profissional na localidade ao contribuinte ou a pessoa por ele designada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T17:11:06+00:00"
+ },
+ {
+  "de": "lsa.234",
+  "para": "l8934.64",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A Lei 8.934/94 integra o mesmo regime do registro público de empresas e atribui força probante geral às certidões expedidas pelas juntas comerciais para fins de transferência de bens, complementando o art. 234 da Lei das Sociedades Anônimas, que confere à certidão da incorporação, fusão ou cisão a mesma função específica de documento hábil para a averbação da sucessão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T17:11:06+00:00"
+ },
+ {
+  "de": "lsa.235",
+  "para": "l13303.7",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 7º da Lei 13.303/16 estende as obrigações de escrituração e de elaboração de demonstrações financeiras da Lei das Sociedades Anônimas também às empresas públicas e às sociedades de economia mista de capital fechado, detalhando, dentro do mesmo regime de sujeição previsto no art. 235, o alcance dessas obrigações contábeis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T17:11:06+00:00"
+ },
+ {
+  "de": "lsa.238",
+  "para": "l13303.15",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 15 da Lei 13.303/16 atribui ao acionista controlador da sociedade de economia mista a mesma responsabilidade por abuso de poder prevista na Lei das Sociedades Anônimas, complementando os deveres de acionista controlador que o art. 238 atribui à pessoa jurídica controladora da companhia de economia mista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T17:11:06+00:00"
+ },
+ {
+  "de": "lsa.238",
+  "para": "l13303.27",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 27 da Lei 13.303/16 detalha a função social de interesse coletivo ou de segurança nacional que, segundo o art. 238 da Lei das Sociedades Anônimas, autoriza o controlador a orientar as atividades da companhia de economia mista além do interesse exclusivo do acionista controlador comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T17:11:06+00:00"
+ },
+ {
+  "de": "lsa.239",
+  "para": "l13303.19",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 19 da Lei 13.303/16 reafirma e estende a todas as sociedades de economia mista e empresas públicas o direito da minoria de eleger um conselheiro quando não lhe couber maior número pelo voto múltiplo, complementando a mesma garantia prevista no caput do art. 239 da Lei das Sociedades Anônimas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T17:11:06+00:00"
+ },
+ {
+  "de": "lsa.243",
+  "para": "d9580.420",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 420 do RIR/2018 regulamenta, para fins de avaliação de investimentos pelo método da equivalência patrimonial, a mesma definição de sociedade controlada do art. 243, § 2º, da Lei das Sociedades Anônimas, ao qual faz remissão expressa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T17:11:06+00:00"
+ },
+ {
+  "de": "lsa.243",
+  "para": "cc.1099",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 1.099 do Código Civil define coligada como a sociedade que participa com dez por cento ou mais do capital de outra sem controlá-la, enquanto o art. 243 da Lei das Sociedades Anônimas define influência significativa e a presume a partir de vinte por cento do capital votante, o que gera risco real de se aplicar o percentual de um regime no âmbito do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T17:11:06+00:00"
  }
 ]
