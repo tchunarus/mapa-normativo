@@ -37597,5 +37597,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T18:09:32+00:00"
+ },
+ {
+  "de": "lsa.141",
+  "para": "l13303.22",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O caput do art. 22 da Lei 13.303/16 remete expressamente ao art. 141 da LSA para definir o número mínimo de conselheiros independentes na hipótese de exercício da faculdade do voto múltiplo pelos acionistas minoritários, institutos distintos (composição mínima do conselho e voto múltiplo) ligados apenas por esse ponto de contato normativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.266",
+  "para": "cc.1097",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.097 do CC define como coligadas as sociedades controladas, filiadas ou de simples participação por critério de participação societária, enquanto o art. 266 da LSA trata da sociedade filiada a grupo de sociedades formalmente constituído por convenção, regime distinto que pode ser confundido pela coincidência de nomenclatura entre as duas categorias de filiada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.266",
+  "para": "l8078.28",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 28 do CDC torna as sociedades integrantes de grupos societários subsidiariamente responsáveis pelas obrigações de consumo, excepcionando, nas relações de consumo, a regra do art. 266 da LSA de que cada sociedade do grupo conserva patrimônio distinto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.268",
+  "para": "cc.1132",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.132 do CC exige autorização do Poder Executivo para a constituição da sociedade anônima nacional dependente de autorização, e o art. 268 da LSA complementa esse mesmo regime ao exigir, além disso, aprovação específica da autoridade competente para que a companhia já autorizada participe de grupo de sociedades.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.268",
+  "para": "cc.1133",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.133 do CC sujeita a aprovação da autoridade competente as modificações do contrato ou estatuto de sociedade dependente de autorização, e o art. 268 da LSA aplica essa mesma exigência de aprovação à convenção de grupo de sociedades, equiparando essa convenção, para esse fim, a uma alteração estatutária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.269",
+  "para": "cc.1097",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 269 da LSA disciplina a convenção que constitui formalmente o grupo de sociedades, com sociedade de comando e filiadas, enquanto o art. 1.097 do CC usa a mesma palavra filiada para sociedades ligadas apenas por participação de capital, sem convenção nem estrutura de comando, o que gera risco de confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.271",
+  "para": "cc.1099",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 271 da LSA trata das sociedades filiadas que integram o grupo constituído por convenção registrada, ao passo que o art. 1.099 do CC chama de filiada a sociedade em que outra participa com dez por cento ou mais do capital sem controlá-la, noção diversa que pode ser confundida com a filiação ao grupo de sociedades.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.271",
+  "para": "l8934.36",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 271 da LSA vincula a constituição do grupo à data do arquivamento dos documentos, e o art. 36 da Lei 8.934/94 complementa esse regime ao fixar o prazo de trinta dias, contado da assinatura, para a apresentação a arquivamento dos documentos referidos no inciso II do art. 32, sob pena de o arquivamento só produzir efeitos a partir do despacho que o conceder.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.278",
+  "para": "d9580.784",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 784 do RIR/2018 remete expressamente aos arts. 278 e 279 da LSA para definir o consórcio que pode efetuar a retenção do imposto de renda em nome próprio, com responsabilidade solidária das consorciadas, disciplinando efeito tributário conexo ao regime de ausência de solidariedade presumida do § 1º do art. 278 da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.278",
+  "para": "l8987.19",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 278 da LSA afasta a presunção de solidariedade entre as sociedades consorciadas, regra que o § 2º do art. 19 da Lei 8.987/95 excepciona ao atribuir à empresa líder a responsabilidade perante o poder concedente sem prejuízo da responsabilidade solidária das demais consorciadas na concessão de serviço público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.278",
+  "para": "l14133.15",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 278 da LSA afasta a presunção de solidariedade entre as sociedades consorciadas, regra que o inciso V do art. 15 da Lei 14.133/21 excepciona ao impor responsabilidade solidária dos integrantes do consórcio pelos atos praticados tanto na fase de licitação quanto na de execução do contrato administrativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.278",
+  "para": "l8078.28",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 278 da LSA afasta a presunção de solidariedade entre as sociedades consorciadas, regra que o § 3º do art. 28 do CDC excepciona ao tornar as sociedades consorciadas solidariamente responsáveis pelas obrigações decorrentes das relações de consumo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.279",
+  "para": "d9580.784",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 784 do RIR/2018 remete expressamente aos arts. 278 e 279 da LSA para definir o consórcio que pode efetuar a retenção do imposto de renda em nome próprio, tratando de efeito tributário conexo ao contrato de consórcio disciplinado pelo art. 279 da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.279",
+  "para": "l8987.19",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 19 da Lei 8.987/95 disciplina requisitos de habilitação para participação de consórcio em licitação, sem definir o conteúdo obrigatório do contrato de consórcio, lacuna preenchida subsidiariamente pelos incisos do art. 279 da LSA, que relacionam as cláusulas desse contrato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.279",
+  "para": "l14133.15",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 15 da Lei 14.133/21 estabelece exigências de habilitação para consórcio participante de licitação, sem definir o conteúdo do contrato de consórcio, lacuna preenchida subsidiariamente pelos incisos do art. 279 da LSA, que relacionam as cláusulas obrigatórias desse contrato.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.280",
+  "para": "cc.1161",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.161 do CC complementa o regime do art. 280 da LSA ao permitir que a sociedade em comandita por ações, regida pelas normas da sociedade anônima, adote denominação aditada da expressão comandita por ações em vez de firma, regra de nome empresarial não tratada no capítulo próprio da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "lsa.280",
+  "para": "cc.1046",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 280 da LSA rege a sociedade em comandita por ações pelas normas das companhias, enquanto o art. 1.046 do CC rege a sociedade em comandita simples pelas normas da sociedade em nome coletivo, institutos de nomenclatura semelhante mas de regimes totalmente diversos, o que gera risco real de confusão entre os dois tipos de comandita.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T19:16:55+00:00"
  }
 ]
