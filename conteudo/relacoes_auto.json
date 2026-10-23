@@ -37117,5 +37117,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T10:11:58+00:00"
+ },
+ {
+  "de": "l13303.15",
+  "para": "lsa.246",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 15 da Lei 13.303/16 determina que a ação de reparação por abuso de poder do acionista controlador da empresa pública ou da sociedade de economia mista seja proposta nos termos do art. 246 da Lei 6.404/76, que disciplina a mesma ação de responsabilidade da sociedade controladora perante a companhia controlada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T11:17:09+00:00"
+ },
+ {
+  "de": "l13303.15",
+  "para": "lsa.117",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O caput do art. 15 da Lei 13.303/16 reproduz, para o acionista controlador de empresa pública e de sociedade de economia mista, a responsabilização por abuso de poder prevista no art. 117 da Lei 6.404/76, ao qual remete genericamente a expressão nos termos da Lei nº 6.404, de 1976.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T11:17:09+00:00"
+ },
+ {
+  "de": "l13303.4",
+  "para": "lsa.238",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 4º da Lei 13.303/16 repete, de forma quase literal, a regra do art. 238 da Lei 6.404/76 sobre os deveres do controlador de sociedade de economia mista e o dever de respeitar o interesse público que justificou a criação da companhia, o que cria risco de se invocar a fonte normativa equivocada para a mesma obrigação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T11:17:09+00:00"
+ },
+ {
+  "de": "lsa.235",
+  "para": "l13303.4",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 235 da Lei 6.404/76 sujeita a sociedade de economia mista a essa Lei sem prejuízo das disposições especiais de lei federal, de modo que suas normas aplicam-se subsidiariamente ao regime próprio da sociedade de economia mista federal definido no art. 4º da Lei 13.303/16.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T11:17:09+00:00"
+ },
+ {
+  "de": "l11101.2",
+  "para": "l13303.4",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 2º da Lei 11.101/05 exclui expressamente a empresa pública e a sociedade de economia mista do âmbito da recuperação judicial e da falência, excepcionando do regime falimentar as entidades cuja definição consta do art. 4º da Lei 13.303/16.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T11:17:09+00:00"
+ },
+ {
+  "de": "lsa.132",
+  "para": "cc.1078",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 132 da Lei 6.404/76 e o art. 1.078 do Código Civil preveem, cada um para seu tipo societário, a assembleia anual obrigatória no prazo de quatro meses após o encerramento do exercício social, com a mesma finalidade de tomar as contas dos administradores e deliberar sobre o balanço, o que favorece a confusão entre os regimes da sociedade anônima e da sociedade limitada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T11:17:09+00:00"
+ },
+ {
+  "de": "lsa.144",
+  "para": "cc.1018",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 144 da Lei 6.404/76 autoriza os diretores a constituir mandatários da companhia, desde que especificados no instrumento os atos que poderão praticar, regra equivalente à do art. 1.018 do Código Civil para o administrador de sociedade simples, o que gera risco de confundir o regime aplicável conforme o tipo societário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T11:17:09+00:00"
  }
 ]
