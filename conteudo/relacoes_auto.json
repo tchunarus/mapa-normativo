@@ -37837,5 +37837,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T20:11:26+00:00"
+ },
+ {
+  "de": "l8987.19",
+  "para": "l13303.44",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O inciso IV do art. 19 da Lei 8.987/95 veda que uma empresa consorciada participe da mesma licitação por meio de mais de um consórcio ou isoladamente, para impedir a multiplicação de propostas pela mesma consorciada. O inciso II do art. 44 da Lei 13.303/16 veda, em vez disso, que a pessoa jurídica que elaborou o anteprojeto ou o projeto básico participe da licitação em consórcio, para evitar conflito de interesses do autor do projeto. Por tratarem ambos de impedimento de participação em consórcio na licitação, há risco de se confundir as duas vedações, que protegem bens jurídicos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T21:13:54+00:00"
+ },
+ {
+  "de": "lsa.140",
+  "para": "l13303.13",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 140 da LSA exige apenas o número mínimo de três membros no conselho de administração das companhias em geral. O inciso I do art. 13 da Lei 13.303/16 especializa esse piso para as empresas públicas e sociedades de economia mista, ao determinar que a lei autorizadora da criação da estatal fixe, para o Conselho de Administração, o número mínimo de sete e o número máximo de onze membros, mais restritivo que a regra geral da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T21:13:54+00:00"
+ },
+ {
+  "de": "lsa.140",
+  "para": "cc.1066",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 140 da LSA disciplina a composição do conselho de administração, órgão de gestão que define a política da companhia e fiscaliza a diretoria, com no mínimo três membros eleitos pela assembleia geral. O art. 1.066 do CC disciplina o conselho fiscal da sociedade limitada, órgão de fiscalização contábil e financeira, também composto por três ou mais membros eleitos em assembleia. A semelhança na forma de composição e eleição entre os dois órgãos, de natureza e competência distintas, gera risco real de confusão entre conselho de administração e conselho fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T21:13:54+00:00"
+ },
+ {
+  "de": "lsa.199",
+  "para": "d9580.410",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 199 da LSA permite que a assembleia destine o saldo da reserva de lucros que ultrapassar o capital social à integralização, ao aumento do capital social ou à distribuição de dividendos. O art. 410 do RIR/2018 excepciona essa liberdade de destinação para a reserva específica do prêmio na emissão de debêntures não computado no lucro real, que, nos termos das alíneas a e b do inciso II, somente pode ser utilizada para absorção de prejuízos ou aumento do capital social, sem a opção de distribuição de dividendos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T21:13:54+00:00"
+ },
+ {
+  "de": "lsa.281",
+  "para": "cc.1157",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1.157 do CC fixa a regra geral de que a sociedade com sócios de responsabilidade ilimitada opera sob firma formada pelo nome de um dos sócios aditado da expressão e companhia, respondendo solidária e ilimitadamente pelas obrigações sociais quem figurar no nome empresarial. O art. 281 da LSA especializa essa regra para a sociedade em comandita por ações, exigindo, conforme o parágrafo único, que a firma ou a denominação seja seguida da expressão Comandita por Ações, e restringindo a responsabilidade solidária e ilimitada aos sócios diretores ou gerentes que figurarem no nome.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T21:13:54+00:00"
+ },
+ {
+  "de": "lsa.282",
+  "para": "cc.1091",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 282 da LSA estabelece que apenas o sócio ou acionista tem qualidade para administrar a sociedade em comandita por ações, respondendo o diretor ou gerente subsidiária mas ilimitada e solidariamente pelas obrigações sociais, com destituição, pelo §1º, apenas por deliberação de acionistas que representem dois terços do capital social. O art. 1.091 do CC disciplina o mesmo instituto com redação quase idêntica, inclusive quanto ao quorum de destituição de dois terços, previsto no §2º, o que gera risco real de se aplicar o diploma equivocado ao definir qual norma rege a administração dessa sociedade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T21:13:54+00:00"
+ },
+ {
+  "de": "lsa.285",
+  "para": "cc.45",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 45 do CC fixa prazo geral de três anos, de natureza decadencial, para anular a constituição de pessoas jurídicas de direito privado por defeito do ato constitutivo, contado da publicação da inscrição no registro. O art. 285 da LSA especializa essa regra para a sociedade anônima, reduzindo o prazo para um ano e qualificando a ação como prescricional, também contado da publicação dos atos constitutivos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T21:13:54+00:00"
  }
 ]
