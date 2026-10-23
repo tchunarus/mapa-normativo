@@ -37437,5 +37437,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T15:12:33+00:00"
+ },
+ {
+  "de": "cc.1114",
+  "para": "cpc.609",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 1.114 do CC remete, no silêncio do contrato social, ao art. 1.031 do CC para apuração dos haveres do sócio dissidente que se retira em razão da transformação, e o art. 609 do CPC disciplina o procedimento de pagamento desses haveres, uma vez apurados, nos termos do § 2º do art. 1.031.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T16:10:13+00:00"
+ },
+ {
+  "de": "d9580.1048",
+  "para": "cc.1182",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos tratam da responsabilidade do contabilista legalmente habilitado pela escrituração, mas em contextos distintos: o art. 1.182 do CC fixa o dever geral de responsabilidade pela escrituração mercantil, enquanto o art. 1.048 do RIR impõe aos signatários dos documentos contábeis responsabilidade específica, inclusive por falsidade destinada a fraudar o imposto de renda, o que pode levar a confundir o alcance de cada responsabilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T16:10:13+00:00"
+ },
+ {
+  "de": "d9580.232",
+  "para": "l9430.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 232 do RIR consolida, para fins regulamentares, a regra do § 1º do art. 1º da Lei 9.430/96, segundo a qual, nos casos de incorporação, fusão ou cisão, a apuração da base de cálculo e do imposto de renda devido é feita na data do evento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T16:10:13+00:00"
+ },
+ {
+  "de": "d9580.232",
+  "para": "l9430.5",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 232 do RIR remete ao § 4º do art. 5º da Lei 9.430/96 para fixar o prazo de pagamento do imposto de renda apurado no balanço específico levantado por ocasião da incorporação, fusão ou cisão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T16:10:13+00:00"
+ },
+ {
+  "de": "lsa.232",
+  "para": "cc.1122",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 232 da LSA e o art. 1.122 do CC disciplinam o mesmo instituto, o direito do credor anterior de pleitear judicialmente a anulação da incorporação, fusão ou cisão que o prejudique, mas fixam prazos decadenciais diferentes (60 dias na LSA e 90 dias no CC), o que gera risco de se aplicar o prazo da lei errada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T16:10:13+00:00"
  }
 ]
