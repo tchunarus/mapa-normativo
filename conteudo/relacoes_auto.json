@@ -36867,5 +36867,195 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T06:08:03+00:00"
+ },
+ {
+  "de": "cpc.107",
+  "para": "clt.901",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 107, II, do CPC assegura ao advogado o direito de requerer vista dos autos de qualquer processo pelo prazo de 5 (cinco) dias, enquanto o art. 901 da CLT garante às partes vista dos autos em cartório ou secretaria e, no parágrafo único, permite aos procuradores vista fora do cartório apenas quando não estiver correndo prazo comum, sem reproduzir o direito de retirada pelo prazo legal previsto no inciso III do art. 107 do CPC, o que gera risco de se supor aplicável ao processo do trabalho prazo ou alcance que a CLT não contempla.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "cpp.803",
+  "para": "cpc.107",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 803 do CPP proíbe a retirada de autos do cartório salvo nos casos expressos em lei, e o art. 107, III, do CPC é exatamente um desses casos, ao autorizar o advogado a retirar os autos do cartório ou da secretaria pelo prazo legal sempre que lhe couber falar nos autos por determinação do juiz, nos casos previstos em lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "cpp.803",
+  "para": "clt.901",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 803 do CPP proíbe, como regra geral, a retirada de autos do cartório, ainda que em confiança, e o parágrafo único do art. 901 da CLT abre exceção a essa lógica ao permitir aos procuradores das partes ter vista dos autos fora do cartório ou secretaria, salvo quando estiver correndo prazo comum, criando regime próprio do processo do trabalho que afasta a proibição geral do CPP.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "cpp.803",
+  "para": "cpc.383",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 803 do CPP proíbe a retirada de autos do cartório salvo nos casos expressos em lei, e o art. 383 do CPC prevê um desses casos ao determinar que, no procedimento de jurisdição voluntária ali disciplinado, os autos permaneçam em cartório por 1 (um) mês para extração de cópias e certidões e, findo o prazo, sejam entregues ao promovente da medida, conforme o parágrafo único.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "d70235.28",
+  "para": "cpc.938",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 28 do PAF determina que, na decisão em que for julgada questão preliminar, também se julgue o mérito, salvo quando incompatíveis, regra equivalente à do art. 938 do CPC, segundo a qual a questão preliminar suscitada no julgamento será decidida antes do mérito, deste não se conhecendo caso seja incompatível com a decisão, ainda que o PAF regule processo administrativo fiscal e o CPC regule processo judicial civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "floripa_ctm.95",
+  "para": "ctn.178",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 95 do CTM de Florianópolis estabelece que a concessão não traduz direito adquirido e pode ser cassada a qualquer tempo, salvo quando concedida por prazo determinado, reproduzindo no plano municipal a regra geral do art. 178 do CTN, segundo a qual a isenção pode ser revogada ou modificada por lei a qualquer tempo, salvo se concedida por prazo certo e em função de determinadas condições.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "floripa_ctm.95",
+  "para": "ctn.155",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 95 do CTM de Florianópolis prevê a regra geral de que a concessão não gera direito adquirido e pode ser cassada a qualquer tempo, enquanto o art. 155 do CTN disciplina especificamente a moratória em caráter individual, que tampouco gera direito adquirido e pode ser revogada de ofício quando descumpridas as condições, com regime próprio de imposição ou não de penalidade conforme os incisos I e II, o que pode levar a se aplicar à moratória a disciplina genérica municipal em vez da específica do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "floripa_ctm.95",
+  "para": "ctn.182",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 95 do CTM de Florianópolis dispõe que a concessão não traduz direito adquirido e pode ser cassada a qualquer tempo, e o parágrafo único do art. 182 do CTN estabelece, de modo específico para a anistia não concedida em caráter geral, que o despacho que a efetiva não gera direito adquirido, aplicando-se o disposto no art. 155 do CTN, regime próprio que pode ser confundido com a regra genérica municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "l13303.5",
+  "para": "lsa.235",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 5º da Lei 13.303/16 sujeita a sociedade de economia mista ao regime da LSA ressalvado o disposto nesta Lei, e o art. 235 da LSA complementa essa regra do lado da própria lei societária, ao prever que as sociedades anônimas de economia mista estão sujeitas à LSA sem prejuízo das disposições especiais de lei federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "l13303.5",
+  "para": "cc.1089",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 5º da Lei 13.303/16 submete a sociedade de economia mista ao regime da LSA, lei especial que, nos termos do art. 1.089 do Código Civil, rege a sociedade anônima, aplicando-se-lhe o Código Civil apenas nos casos omissos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "l13303.5",
+  "para": "cf.173",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 5º da Lei 13.303/16 regulamenta, ao determinar a forma societária e o regime aplicável à sociedade de economia mista, o mandamento do § 1º do art. 173 da Constituição Federal, que exige lei estabelecendo o estatuto jurídico da sociedade de economia mista, incluída a sujeição ao regime jurídico próprio das empresas privadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "lsa.11",
+  "para": "cc.1088",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 11 da LSA disciplina, de modo especial, a fixação do número de ações em que se divide o capital social e a opção por ações com ou sem valor nominal, enquanto o art. 1.088 do Código Civil enuncia a regra geral de que, na sociedade anônima, o capital se divide em ações e cada acionista se obriga somente pelo preço de emissão das que subscrever ou adquirir, aplicável subsidiariamente por força do art. 1.089 do Código Civil nos pontos em que a LSA for omissa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "lsa.11",
+  "para": "cc.1083",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 11 da LSA trata do valor nominal das ações da sociedade anônima, e o art. 1.083 do Código Civil trata do valor nominal das quotas na sociedade limitada, por ocasião da redução do capital, institutos conexos por disciplinarem a mesma técnica de representação do capital social em unidades de valor nominal, mas em tipos societários distintos, o que pode levar à aplicação indevida de uma regra à outra espécie societária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "lsa.116",
+  "para": "l13303.4",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 116 da LSA define o acionista controlador como a pessoa ou grupo de pessoas que é titular de direitos de sócio assegurando a maioria dos votos e o poder de eleger a maioria dos administradores e que usa efetivamente esse poder para dirigir as atividades sociais, e o § 1º do art. 4º da Lei 13.303/16 remete expressamente a essa figura ao dispor que a pessoa jurídica que controla a sociedade de economia mista tem os deveres e as responsabilidades do acionista controlador estabelecidos na Lei nº 6.404/1976.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "lsa.116",
+  "para": "l13303.15",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 116 da LSA define o acionista controlador, e o art. 15 da Lei 13.303/16 remete a essa mesma figura ao dispor que o acionista controlador da empresa pública e da sociedade de economia mista responderá pelos atos praticados com abuso de poder nos termos da Lei nº 6.404/1976.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "lsa.116",
+  "para": "cc.1098",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 116 da LSA define o acionista controlador da companhia a partir da titularidade de direitos de sócio que assegurem a maioria dos votos e o poder de eleger a maioria dos administradores, somado ao uso efetivo desse poder para dirigir as atividades sociais, enquanto o art. 1.098 do Código Civil define a sociedade controlada, no regime geral das sociedades, apenas pela maioria de votos nas deliberações e pelo poder de eleger a maioria dos administradores, sem exigir o uso efetivo do poder de direção, o que pode levar a se tratar como equivalentes dois conceitos de controle com requisitos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "lsa.116",
+  "para": "d9580.530",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 116 da LSA define o acionista controlador exigindo a maioria dos votos, o poder de eleger a maioria dos administradores e o uso efetivo desse poder para dirigir as atividades sociais, enquanto o parágrafo único do art. 530 do RIR/2018 define, para fins da presunção de distribuição disfarçada de lucros ali tratada, sócio ou acionista controlador como a pessoa física ou jurídica que, direta ou indiretamente, por meio de sociedade ou sociedades sob seu controle, exerce essa posição, conceito próprio da legislação tributária que pode divergir do da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "lsa.116",
+  "para": "l8397.4",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 116 da LSA restringe o acionista controlador a quem detém a maioria dos votos e o poder de eleger a maioria dos administradores e o exerce efetivamente, enquanto o § 1º do art. 4º da Lei 8.397/92 estende a indisponibilidade de bens, na medida cautelar fiscal, ao acionista controlador e também aos que, em razão do contrato social ou estatuto, tenham poderes para fazer a empresa cumprir suas obrigações fiscais, grupo mais amplo que pode ser confundido com o conceito estrito do art. 116 da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
+ },
+ {
+  "de": "lsa.119",
+  "para": "l9279.217",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 119 da LSA exige representante no Brasil com poderes para receber citação para o acionista residente ou domiciliado no exterior, e o art. 217 da LPI impõe exigência equivalente à pessoa domiciliada no exterior que seja titular de direitos de propriedade industrial, a qual deve constituir e manter procurador no País com poderes para representá-la administrativa e judicialmente, inclusive para receber citações, institutos conexos aplicáveis a sujeitos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T09:13:54+00:00"
  }
 ]
