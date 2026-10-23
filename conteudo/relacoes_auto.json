@@ -37767,5 +37767,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T19:16:55+00:00"
+ },
+ {
+  "de": "cc.1132",
+  "para": "lsa.82",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 82 da LSA disciplina o regime geral da constituição de companhia por subscrição pública, exigindo prévio registro da emissão na Comissão de Valores Mobiliários e intermediação de instituição financeira. O art. 1.132 do CC complementa esse regime ao acrescentar, para as sociedades anônimas nacionais que dependam de autorização do Poder Executivo para funcionar, a exigência adicional de obter essa autorização antes da constituição, instruída com cópias do projeto de estatuto e do prospecto, conforme o § 1º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T20:11:26+00:00"
+ },
+ {
+  "de": "cc.1133",
+  "para": "lsa.199",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 199 da LSA permite que a assembleia delibere sobre a aplicação do excesso das reservas de lucros na integralização ou no aumento do capital social. O art. 1.133 do CC complementa esse regime ao dispensar de aprovação do Poder Executivo, para as sociedades a ele sujeitas, justamente a modificação estatutária decorrente de aumento de capital social em virtude de utilização de reservas, prevendo exceção aplicável a essa hipótese do regime geral de aumento de capital.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T20:11:26+00:00"
+ },
+ {
+  "de": "cc.1161",
+  "para": "lsa.281",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 281 da LSA já disciplina, no capítulo da sociedade em comandita por ações, a possibilidade de adotar firma ou denominação, exigindo em ambos os casos o acréscimo da expressão \"Comandita por Ações\" (parágrafo único). O art. 1.161 do CC trata do mesmo instituto, o nome empresarial da sociedade em comandita por ações, ao prever a faculdade de adotar denominação em lugar de firma, o que gera risco real de confusão sobre qual dos dois diplomas disciplina a matéria, por tratarem exatamente do mesmo ponto com redações diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T20:11:26+00:00"
+ },
+ {
+  "de": "l13303.22",
+  "para": "lsa.239",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 239 da LSA já impõe às companhias de economia mista a obrigatoriedade de Conselho de Administração e assegura à minoria o direito de eleger um conselheiro. O art. 22 da Lei 13.303/16 complementa esse regime de composição do Conselho de Administração da sociedade de economia mista ao detalhar a exigência mínima de membros independentes e os critérios de caracterização da independência, previstos nos incisos I a VII do § 1º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T20:11:26+00:00"
+ },
+ {
+  "de": "l13303.22",
+  "para": "lsa.140",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 140 da LSA fixa a regra geral de composição mínima do conselho de administração das companhias em geral, de no mínimo três membros. O art. 22 da Lei 13.303/16 especializa esse regime ao impor, para empresas públicas e sociedades de economia mista, requisito adicional de percentual mínimo de conselheiros independentes, não exigido da generalidade das companhias regidas pela LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T20:11:26+00:00"
+ },
+ {
+  "de": "l14133.15",
+  "para": "l8987.19",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 15 da Lei 14.133/21 e o art. 19 da Lei 8.987/95 disciplinam, com redação quase idêntica, os mesmos requisitos para participação de consórcio em licitação, entre eles a comprovação do compromisso de constituição, a indicação da empresa líder ou responsável, o somatório dos quantitativos para habilitação e o impedimento de participação em mais de um consórcio. Por regularem o mesmo instituto em diplomas distintos, a lei geral de licitações e a lei das concessões de serviço público, há risco real de se aplicar o dispositivo equivocado ao definir qual regime rege o consórcio em determinada licitação de concessão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T20:11:26+00:00"
+ },
+ {
+  "de": "l8934.36",
+  "para": "lsa.96",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 96 da LSA prevê que, quando a companhia for constituída por escritura pública, basta o arquivamento de certidão do instrumento no registro do comércio. O art. 36 da Lei 8.934/94 complementa esse regime de arquivamento de atos societários na junta comercial ao fixar o prazo de 30 dias, contado da assinatura, para que o arquivamento retroaja seus efeitos a essa data, sem o qual a eficácia só se inicia a partir do despacho concessivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T20:11:26+00:00"
  }
 ]
