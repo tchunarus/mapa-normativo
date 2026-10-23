@@ -37277,5 +37277,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T12:16:34+00:00"
+ },
+ {
+  "de": "l13303.11",
+  "para": "lsa.57",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "A Lei das Sociedades Anônimas permite, em geral, que a companhia emita debêntures conversíveis em ações, enquanto o art. 11, inciso I, da Lei 13.303/16 veda expressamente essa emissão pela empresa pública, por se tratar de entidade estatal sujeita a restrição especial quanto à conversibilidade em participação acionária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T13:16:36+00:00"
+ },
+ {
+  "de": "l13303.11",
+  "para": "lsa.46",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "A Lei das Sociedades Anônimas faculta à companhia, em geral, criar partes beneficiárias, título negociável sem valor nominal e estranho ao capital social, ao passo que o art. 11, inciso II, da Lei 13.303/16 veda expressamente essa emissão pela empresa pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T13:16:36+00:00"
+ },
+ {
+  "de": "l13303.26",
+  "para": "lsa.162",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 26 da Lei 13.303/16 determina a aplicação, aos membros do conselho fiscal da empresa pública, das disposições da Lei das Sociedades Anônimas sobre requisitos de investidura, e o §1º acrescenta exigência de formação acadêmica compatível e de experiência mínima de três anos em cargo de direção ou assessoramento na administração pública, ou de administrador ou conselheiro fiscal em empresa, o que detalha o requisito equivalente de três anos de administrador de empresa ou de conselheiro fiscal já previsto no art. 162 da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T13:16:36+00:00"
+ },
+ {
+  "de": "l13303.26",
+  "para": "lsa.161",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O §2º do art. 26 da Lei 13.303/16 acrescenta à composição do conselho fiscal da empresa pública, já disciplinada no art. 161 da LSA (no mínimo três e no máximo cinco membros), a exigência de que ao menos um dos membros seja indicado pelo ente controlador e seja servidor público com vínculo permanente com a administração pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T13:16:36+00:00"
+ },
+ {
+  "de": "l13303.7",
+  "para": "lsa.176",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 7º da Lei 13.303/16 determina a aplicação, às empresas públicas e às sociedades de economia mista de capital fechado, das disposições da Lei das Sociedades Anônimas sobre elaboração de demonstrações financeiras, remetendo ao regime previsto no art. 176 da LSA, que relaciona o balanço patrimonial, a demonstração do resultado e a demonstração dos fluxos de caixa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T13:16:36+00:00"
  }
 ]
