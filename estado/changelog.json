@@ -1267,5 +1267,13 @@
   "titulo": "Tema 1431/STJ: Em Julgamento",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1431&cod_tema_final=1431",
   "p": "stj.tema.1431"
+ },
+ {
+  "data": "2026-10-23T18:03:45+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1211/STJ: Acórdão Publicado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1211&cod_tema_final=1211",
+  "p": "stj.tema.1211"
  }
 ]

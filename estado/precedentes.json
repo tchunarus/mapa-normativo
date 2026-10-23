@@ -1241,9 +1241,9 @@
   "numero": "1211",
   "titulo": "Tema 1211/STJ",
   "orgao": "Segunda Seção",
-  "situacao": "Mérito Julgado",
+  "situacao": "Acórdão Publicado",
   "questao": "Legalidade de cláusula contratual que estabeleça reajuste do prêmio de seguro de vida em grupo de acordo com a faixa etária.",
-  "tese": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+  "tese": "I - Em contratos de seguro de vida em grupo, é válida a cláusula de reajuste do prêmio por mudança de faixa etária do segurado ou beneficiário, desde que haja previsão expressa nas condições contratuais, com prévia comunicação ao segurado nas renovações, observadas as normas setoriais da Superintendência de Seguros Privados (SUSEP) e do Conselho Nacional de Seguros Privados (CNSP); II - É descabida a aplicação, por analogia, dos art. 15 da Lei 9.656/1998 (Lei de Planos de Saúde) e art. 15, § 3º, da Lei 10.741/2003 (Estatuto do Idoso).",
   "ramo": "DIREITO DO CONSUMIDOR",
   "processos": [
    {
@@ -1251,13 +1251,13 @@
     "origem": "TJSC",
     "relator": "Raul Araújo",
     "julgado": "08/10/2026",
-    "publicado": null
+    "publicado": "23/10/2026"
    },
    {
     "numero": "REsp 1926108/SC",
     "origem": "TJSC",
     "relator": "Raul Araújo",
-    "julgado": "08/10/2026",
+    "julgado": "23/10/2026",
     "publicado": null
    }
   ],
@@ -1265,7 +1265,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1211&cod_tema_final=1211",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T11:07:51+00:00"
+  "verificado_em": "2026-10-23T18:03:45+00:00"
  },
  "stj.tema.1212": {
   "id": "stj.tema.1212",
@@ -1299,7 +1299,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1212&cod_tema_final=1212",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T11:07:51+00:00"
+  "verificado_em": "2026-10-23T18:03:45+00:00"
  },
  "stj.tema.1213": {
   "id": "stj.tema.1213",
@@ -1456,7 +1456,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1216&cod_tema_final=1216",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T11:07:51+00:00"
+  "verificado_em": "2026-10-23T18:03:45+00:00"
  },
  "stj.tema.1217": {
   "id": "stj.tema.1217",
@@ -6125,7 +6125,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1332&cod_tema_final=1332",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T11:07:51+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1333": {
@@ -6209,7 +6209,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1334&cod_tema_final=1334",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T11:07:51+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1335": {
@@ -6251,7 +6251,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1335&cod_tema_final=1335",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T11:07:51+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1336": {
@@ -6328,7 +6328,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1337&cod_tema_final=1337",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T11:07:51+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1338": {
@@ -6405,7 +6405,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1339&cod_tema_final=1339",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T11:07:51+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1340": {
@@ -6447,7 +6447,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1340&cod_tema_final=1340",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T11:07:51+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1341": {
@@ -6482,7 +6482,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1341&cod_tema_final=1341",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T11:07:51+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1342": {
@@ -6545,7 +6545,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1343&cod_tema_final=1343",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T11:07:51+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1344": {
@@ -7336,7 +7336,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1363&cod_tema_final=1363",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T11:07:51+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1364": {
@@ -7385,7 +7385,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1364&cod_tema_final=1364",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T11:07:51+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1365": {
@@ -11164,7 +11164,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1463&cod_tema_final=1463",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T10:05:17+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1464": {
@@ -11199,7 +11199,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1464&cod_tema_final=1464",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T10:05:17+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1465": {
@@ -11234,7 +11234,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1465&cod_tema_final=1465",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T10:05:17+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1466": {
@@ -11276,7 +11276,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1466&cod_tema_final=1466",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T10:05:17+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1467": {
@@ -11318,7 +11318,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1467&cod_tema_final=1467",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T10:05:17+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1468": {
@@ -11353,7 +11353,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1468&cod_tema_final=1468",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T10:05:17+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1469": {
@@ -11388,7 +11388,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1469&cod_tema_final=1469",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T10:05:17+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1470": {
@@ -11423,7 +11423,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1470&cod_tema_final=1470",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T10:05:17+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1471": {
@@ -11458,7 +11458,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1471&cod_tema_final=1471",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T10:05:17+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1472": {
@@ -11493,7 +11493,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1472&cod_tema_final=1472",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T10:05:17+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1473": {
@@ -11535,7 +11535,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1473&cod_tema_final=1473",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T10:05:17+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.1474": {
@@ -11570,7 +11570,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1474&cod_tema_final=1474",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T10:05:17+00:00",
+  "verificado_em": "2026-10-23T18:03:45+00:00",
   "novo": false
  },
  "stj.tema.526": {

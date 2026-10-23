@@ -37567,5 +37567,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T17:11:06+00:00"
+ },
+ {
+  "de": "l13303.19",
+  "para": "lsa.141",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 19 da Lei 13.303/16 remete expressamente ao processo de voto múltiplo previsto na Lei das Sociedades Anônimas para assegurar aos acionistas minoritários o direito de eleger um conselheiro, instituto que o art. 141 da LSA define e disciplina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T18:09:32+00:00"
+ },
+ {
+  "de": "l13303.27",
+  "para": "cf.173",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 27 da Lei 13.303/16 dá concretude à função social de interesse coletivo ou de segurança nacional que o § 1º, inciso I, do art. 173 da Constituição determina que a lei do estatuto jurídico da empresa pública e da sociedade de economia mista discipline.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T18:09:32+00:00"
+ },
+ {
+  "de": "l8934.64",
+  "para": "lsa.9",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 9º da Lei das Sociedades Anônimas estabelece que, na falta de declaração em contrário, os bens com que o subscritor contribui se transferem à companhia a título de propriedade, e o art. 64 da Lei 8.934/94 complementa essa transferência ao atribuir à certidão da junta comercial a função de documento hábil para a sua transcrição no registro público competente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T18:09:32+00:00"
  }
 ]
