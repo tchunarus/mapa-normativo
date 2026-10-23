@@ -37187,5 +37187,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T11:17:09+00:00"
+ },
+ {
+  "de": "cc.1078",
+  "para": "lsa.133",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 1.078 do Código Civil exige que os documentos da administração fiquem à disposição dos sócios da sociedade limitada trinta dias antes da assembleia anual, regra equivalente à do art. 133 da Lei 6.404/76, que impõe aos administradores da companhia comunicar, até um mês antes da assembleia-geral ordinária, que tais documentos estão à disposição dos acionistas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T12:16:34+00:00"
+ },
+ {
+  "de": "cc.1078",
+  "para": "lsa.134",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 1.078 do Código Civil determina que, instalada a assembleia da sociedade limitada, os documentos da administração sejam lidos e submetidos a votação, vedada a participação dos administradores e do conselho fiscal, regra análoga à do art. 134 da Lei 6.404/76, que impede os administradores da companhia de votar os mesmos documentos na assembleia-geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T12:16:34+00:00"
+ },
+ {
+  "de": "cc.1078",
+  "para": "lsa.286",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 1.078 do Código Civil fixa em dois anos o prazo para anular a aprovação, sem reserva, do balanço e do resultado econômico da sociedade limitada, prazo idêntico ao do art. 286 da Lei 6.404/76 para a ação que anula deliberações da assembleia-geral da companhia, o que favorece confundir os dois regimes de impugnação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T12:16:34+00:00"
+ },
+ {
+  "de": "lsa.117",
+  "para": "l13709.42",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 117 da Lei 6.404/76 responsabiliza o acionista controlador por danos decorrentes de abuso de poder na condução da companhia, enquanto o art. 42 da Lei 13.709/18 responsabiliza o controlador de dados pessoais por danos no tratamento de dados, institutos distintos que compartilham apenas o termo controlador, o que gera risco real de confusão entre os regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T12:16:34+00:00"
+ },
+ {
+  "de": "lsa.165",
+  "para": "l13303.26",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 26 da Lei 13.303/16 determina a aplicação, ao conselho fiscal da empresa pública e da sociedade de economia mista, das disposições da Lei 6.404/76 sobre poderes, deveres e responsabilidades desse órgão, entre as quais a do art. 165, especializando para as estatais o regime geral de responsabilidade dos conselheiros fiscais por omissão, culpa ou dolo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T12:16:34+00:00"
+ },
+ {
+  "de": "lsa.165",
+  "para": "cc.1070",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 1.070 do Código Civil submete a responsabilidade dos membros do conselho fiscal da sociedade limitada à mesma regra aplicável aos administradores, exatamente como o art. 165 da Lei 6.404/76 impõe aos conselheiros fiscais da companhia os mesmos deveres dos administradores, o que favorece confundir o regime de responsabilidade entre os dois tipos societários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T12:16:34+00:00"
+ },
+ {
+  "de": "lsa.171",
+  "para": "cc.1081",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 1.081 do Código Civil assegura aos sócios da sociedade limitada preferência para participar do aumento de capital na proporção das quotas que possuem, cedível nos termos do § 2º do mesmo artigo, regime equivalente ao direito de preferência dos acionistas previsto no art. 171 e no § 6º do art. 171 da Lei 6.404/76 para a sociedade anônima.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T12:16:34+00:00"
+ },
+ {
+  "de": "lsa.171",
+  "para": "l13303.11",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 171 da Lei 6.404/76 assegura aos acionistas direito de preferência na subscrição de debêntures conversíveis em ações e de partes beneficiárias conversíveis, mas o art. 11 da Lei 13.303/16 proíbe a empresa pública de emitir exatamente esses títulos, excepcionando essa espécie de companhia estatal da faculdade geral prevista na Lei das Sociedades Anônimas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T12:16:34+00:00"
+ },
+ {
+  "de": "lsa.174",
+  "para": "cc.1084",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 174 da Lei 6.404/76 condiciona a eficácia da redução do capital da companhia, com restituição aos acionistas, à ausência de oposição do credor quirografário anterior no prazo de sessenta dias, enquanto o § 1º do art. 1.084 do Código Civil prevê o mesmo mecanismo de oposição para a sociedade limitada, mas com prazo de noventa dias, diferença que pode levar a confundir os dois regimes de redução de capital com restituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T12:16:34+00:00"
  }
 ]
