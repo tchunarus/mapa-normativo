@@ -36677,5 +36677,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T00:07:39+00:00"
+ },
+ {
+  "de": "l9784.46",
+  "para": "floripa_ctm.136",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 46 da Lei 9.784/99 assegura aos interessados vista do processo administrativo federal e obtenção de certidões ou cópias, e o art. 136 do Código Tributário Municipal de Florianópolis assegura o mesmo direito no processo administrativo tributário municipal, mas com regras próprias, como a retirada dos autos pelo advogado por até 8 dias prevista no § 1º, o que gera risco de se aplicar ao processo municipal os limites e as ressalvas da lei federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T01:12:02+00:00"
+ },
+ {
+  "de": "lcp227.69",
+  "para": "d70235.18",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 69 da LC 227/2026 atribui à autoridade julgadora do contencioso administrativo do Comitê Gestor do IBS e do ITCMD o poder de determinar diligências de ofício, tal como o art. 18 do Decreto 70.235/72 faz para o processo administrativo fiscal federal, havendo risco de se invocar o regime de diligências de um contencioso tributário para o outro, por regerem institutos distintos ainda que redigidos de maneira muito semelhante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T01:12:02+00:00"
+ },
+ {
+  "de": "lcp227.69",
+  "para": "floripa_ctm.156",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 69 da LC 227/2026 e o art. 156 do Código Tributário Municipal de Florianópolis atribuem, cada qual no seu próprio contencioso administrativo tributário, o poder de determinar diligências de ofício ou a requerimento do interessado, com redação próxima o suficiente para gerar risco de confusão entre o regime do IBS e do ITCMD e o regime do contencioso tributário municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T01:12:02+00:00"
+ },
+ {
+  "de": "lindb.6",
+  "para": "cpc.502",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 6º, § 3º, da LINDB define coisa julgada como a decisão judicial de que já não caiba recurso, e o art. 502 do CPC detalha esse mesmo instituto ao denominar coisa julgada material a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T01:12:02+00:00"
+ },
+ {
+  "de": "lindb.6",
+  "para": "cpc.504",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 6º, § 3º, da LINDB consagra o conceito de coisa julgada, e o art. 504 do CPC o complementa ao delimitar seus efeitos objetivos, excluindo da autoridade da coisa julgada os motivos da decisão e a verdade dos fatos nela estabelecida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T01:12:02+00:00"
+ },
+ {
+  "de": "lindb.6",
+  "para": "l8397.16",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 6º, § 3º, da LINDB consagra o conceito geral de coisa julgada, e o art. 16 da Lei 8.397/92 o excepciona ao prever que a sentença proferida na medida cautelar fiscal não faz coisa julgada em relação à execução judicial da dívida ativa da Fazenda Pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T01:12:02+00:00"
+ },
+ {
+  "de": "lindb.6",
+  "para": "floripa_ctm.95",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 6º da LINDB protege o direito adquirido, e o art. 95 do Código Tributário Municipal de Florianópolis o excepciona ao prever que a concessão não traduz direito adquirido, podendo ser cassada a qualquer tempo, salvo quando concedida por prazo determinado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T01:12:02+00:00"
+ },
+ {
+  "de": "cc.1089",
+  "para": "lsa.1",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 1089 do Código Civil determina que a sociedade anônima disciplinada pelo art. 1º da Lei das Sociedades por Ações rege-se por lei especial, aplicando-se-lhe as disposições do Código Civil apenas nos casos omissos, de modo que o Código Civil é subsidiário à lei especial quanto ao mesmo instituto da sociedade anônima.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T01:12:02+00:00"
+ },
+ {
+  "de": "lsa.1",
+  "para": "l13303.5",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 5º da Lei 13.303/16 submete a sociedade de economia mista, constituída sob a forma de sociedade anônima nos termos do art. 1º da LSA, ao regime da Lei 6.404/76, ressalvado o que a própria Lei 13.303/16 dispuser, de modo que a LSA aplica-se subsidiariamente à sociedade de economia mista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T01:12:02+00:00"
+ },
+ {
+  "de": "lsa.1",
+  "para": "cc.1090",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 1090 do Código Civil determina que a sociedade em comandita por ações se rege pelas normas da sociedade anônima do art. 1º da LSA, sem prejuízo das modificações constantes do próprio capítulo do Código Civil, de modo que a LSA aplica-se subsidiariamente nos pontos não modificados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T01:12:02+00:00"
+ },
+ {
+  "de": "lsa.1",
+  "para": "cc.1053",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 1053, parágrafo único, do Código Civil permite que o contrato social preveja a regência supletiva da sociedade limitada pelas normas da sociedade anônima do art. 1º da LSA, hipótese em que a LSA aplica-se subsidiariamente, de forma facultativa, à sociedade limitada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T01:12:02+00:00"
+ },
+ {
+  "de": "cc.1192",
+  "para": "lsa.105",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1192 do Código Civil complementa o regime de exibição integral de livros ao prever que, recusada a apresentação prevista no artigo antecedente, os livros serão apreendidos judicialmente, consequência que também se aplica à ordem de exibição integral dos livros da companhia prevista no art. 105 da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T01:12:02+00:00"
+ },
+ {
+  "de": "cpc.421",
+  "para": "lsa.105",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 421 do CPC complementa o regime de exibição de livros empresariais ao prever, ao lado da exibição integral do art. 105 da LSA, a exibição parcial de ofício pelo juiz, limitada à suma que interessar ao litígio, com reproduções autenticadas dos trechos pertinentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T01:12:02+00:00"
  }
 ]
