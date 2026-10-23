@@ -36807,5 +36807,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T01:12:02+00:00"
+ },
+ {
+  "de": "cc.1090",
+  "para": "lsa.280",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 1.090 do Código Civil determina que a sociedade em comandita por ações rege-se pelas normas relativas à sociedade anônima, sem prejuízo das modificações do próprio capítulo, e o art. 280 da Lei das Sociedades Anônimas contém regra equivalente de remissão ao regime da companhia, com ressalva semelhante quanto às modificações do capítulo. Os dois dispositivos tratam do mesmo instituto sob a perspectiva de diplomas distintos, o Código Civil e a lei especial a que ele remete.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T06:08:03+00:00"
+ },
+ {
+  "de": "cpc.502",
+  "para": "cpp.148",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 148 do CPP dispõe que nenhuma decisão no processo penal fará coisa julgada em prejuízo de ulterior processo penal ou civil, enquanto o art. 502 do CPC trata da coisa julgada material como atributo de imutabilidade da decisão de mérito no processo civil. Há risco de confusão entre a coisa julgada civil definitiva do art. 502 e as decisões no processo penal que, por disposição expressa, nunca a adquirem, por se tratar de institutos processuais distintos quanto a seus efeitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T06:08:03+00:00"
+ },
+ {
+  "de": "d70235.18",
+  "para": "floripa_ctm.156",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 18 do PAF autoriza a autoridade julgadora de primeira instância a determinar, de ofício ou a requerimento do impugnante, a realização de diligências ou perícias no processo administrativo fiscal federal, e o art. 156 do CTM de Florianópolis traz regra quase idêntica para o processo administrativo fiscal municipal. Há risco real de confusão entre os dois regimes, pois tratam do mesmo instituto processual em esferas distintas, a federal e a municipal, com prazos e exigências próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T06:08:03+00:00"
+ },
+ {
+  "de": "floripa_ctm.156",
+  "para": "d70235.28",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 156 do CTM de Florianópolis exige, em seu § 3º, que o indeferimento do pedido de diligência ou perícia seja fundamentado e apreciado como preliminar pela instância de recurso, e o art. 28 do PAF prevê, de modo semelhante, que a decisão sobre questão preliminar também contenha o indeferimento fundamentado do pedido de diligência ou perícia. Há risco de confusão entre os dois regimes, municipal e federal, pois ambos regulam a mesma exigência de fundamentação dentro de processos administrativos fiscais distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T06:08:03+00:00"
+ },
+ {
+  "de": "floripa_ctm.136",
+  "para": "cpc.107",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 136 do CTM de Florianópolis faculta às partes vista dos autos na repartição e permite que o advogado habilitado os retire mediante carga por prazo não superior a 8 dias, enquanto o inciso III do art. 107 do CPC assegura ao advogado, de modo geral, o direito de retirar os autos do cartório ou da secretaria pelo prazo legal, nos casos nele previstos. O dispositivo municipal especializa, para o processo administrativo fiscal de Florianópolis, o direito geral de retirada de autos reconhecido ao advogado pelo CPC, com prazo próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T06:08:03+00:00"
+ },
+ {
+  "de": "floripa_ctm.136",
+  "para": "cpp.803",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 136 do CTM de Florianópolis permite que o advogado habilitado retire os autos da repartição mediante carga por até 8 dias, enquanto o art. 803 do CPP proíbe, como regra, a retirada de autos do cartório, ainda que em confiança, salvo os casos expressos em lei. Há risco de confusão entre os dois regimes, pois tratam do mesmo instituto da retirada de autos com soluções opostas, a permissão no processo administrativo fiscal municipal e a vedação geral no processo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T06:08:03+00:00"
  }
 ]
