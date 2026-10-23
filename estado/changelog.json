@@ -1251,5 +1251,21 @@
   "titulo": "Tema 1270/STJ: Acórdão Publicado · tese firmada",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1270&cod_tema_final=1270",
   "p": "stj.tema.1270"
+ },
+ {
+  "data": "2026-10-23T15:05:23+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1430/STJ: Em Julgamento",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1430&cod_tema_final=1430",
+  "p": "stj.tema.1430"
+ },
+ {
+  "data": "2026-10-23T15:05:23+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1431/STJ: Em Julgamento",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1431&cod_tema_final=1431",
+  "p": "stj.tema.1431"
  }
 ]

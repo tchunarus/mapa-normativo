@@ -37387,5 +37387,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T14:11:34+00:00"
+ },
+ {
+  "de": "cc.1066",
+  "para": "clt.522",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O conselho fiscal do art. 1.066 do Código Civil fiscaliza a sociedade limitada, enquanto o conselho fiscal do art. 522 da CLT é órgão de administração do sindicato cuja competência é limitada à fiscalização da gestão financeira da entidade sindical, conforme o § 2º desse artigo, de modo que o nome idêntico não indica identidade de regime ou de função.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T15:12:33+00:00"
+ },
+ {
+  "de": "d9580.215",
+  "para": "lsa.177",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 215 do RIR/2018 invoca expressamente, em seu caput, a competência conferida pelo § 3º do art. 177 da Lei 6.404/1976 à Comissão de Valores Mobiliários para expedir normas contábeis, remetendo-se a esse dispositivo para disciplinar o regime tributário de transição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T15:12:33+00:00"
+ },
+ {
+  "de": "lsa.177",
+  "para": "d9580.1048",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 4º do art. 177 da LSA exige que as demonstrações financeiras da companhia sejam assinadas pelos administradores, além dos contabilistas, regra especial que acrescenta requisito à exigência geral de assinatura por profissional contábil habilitado prevista no caput do art. 1.048 do RIR/2018 para a escrituração comercial em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T15:12:33+00:00"
+ },
+ {
+  "de": "lsa.221",
+  "para": "cc.1114",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1.114 do Código Civil exige, como regra geral para as sociedades, o consentimento unânime dos sócios para a transformação, assegurando ao dissidente o direito de retirar-se, regra que o art. 221 da LSA especializa para a companhia, inclusive ao admitir, no parágrafo único, a renúncia contratual ao direito de retirada no caso de transformação em companhia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T15:12:33+00:00"
+ },
+ {
+  "de": "d9580.232",
+  "para": "lsa.227",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 232 do RIR/2018 impõe o levantamento de balanço específico na data do evento de incorporação, fusão ou cisão, para fins de apuração do imposto sobre a renda, dando efetividade tributária à operação de incorporação disciplinada pelo art. 227 da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-23T15:12:33+00:00"
  }
 ]
