@@ -38087,5 +38087,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-23T23:12:04+00:00"
+ },
+ {
+  "de": "cc.1092",
+  "para": "lsa.283",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 1.092 do Código Civil reproduz, para a sociedade em comandita por ações regida por este código, a mesma restrição à competência da assembleia geral prevista no art. 283 da Lei das Sociedades Anônimas, com redação quase idêntica mas abrangência diferente, pois a LSA inclui também os gerentes e a vedação de participação em grupo de sociedades, o que gera risco real de se invocar um dispositivo pelo outro como se fossem idênticos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T00:10:05+00:00"
+ },
+ {
+  "de": "d9580.520",
+  "para": "lsa.182",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 520 desta lei exclui do lucro real as importâncias creditadas a reservas de capital decorrentes do ágio na emissão de ações e da alienação de partes beneficiárias e de bônus de subscrição, hipóteses que correspondem exatamente às alíneas a e b do § 1º do art. 182 da Lei das Sociedades Anônimas, que classifica essas mesmas contas como reservas de capital para fins societários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T00:10:05+00:00"
+ },
+ {
+  "de": "d9580.579",
+  "para": "lsa.189",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 579 desta lei trata da absorção de prejuízos mediante débito a lucros acumulados, reservas de lucros ou capital social para fins de compensação do prejuízo fiscal, operação que corresponde à ordem de absorção do prejuízo do exercício fixada no parágrafo único do art. 189 da Lei das Sociedades Anônimas, entre lucros acumulados, reservas de lucros e reserva legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T00:10:05+00:00"
+ },
+ {
+  "de": "d9580.697",
+  "para": "lsa.190",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 697 desta lei tributa na fonte os rendimentos pagos a pessoas físicas a título de partes beneficiárias, rendimentos cuja apuração segue a ordem de cálculo da participação das partes beneficiárias no lucro líquido estabelecida pelo art. 190 da Lei das Sociedades Anônimas, que disciplina exatamente essa participação estatutária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T00:10:05+00:00"
+ },
+ {
+  "de": "l13303.17",
+  "para": "cf.173",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 17 desta lei detalha os requisitos de reputação ilibada e de experiência profissional para os indicados a administrador de empresa pública e de sociedade de economia mista, dando cumprimento ao mandamento do § 1º do art. 173 da Constituição Federal, que remete à lei a definição do estatuto jurídico dessas entidades, inclusive quanto à sua função social e às formas de fiscalização pelo Estado e pela sociedade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T00:10:05+00:00"
+ },
+ {
+  "de": "l13303.17",
+  "para": "lsa.239",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 17 desta lei disciplina os requisitos de reputação ilibada e experiência profissional exigidos dos indicados ao Conselho de Administração e à diretoria de empresa pública e de sociedade de economia mista, complementando a exigência de manutenção desse conselho prevista no art. 239 da Lei das Sociedades Anônimas, que impõe à sociedade de economia mista ter Conselho de Administração mas não disciplina os requisitos de seus membros.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T00:10:05+00:00"
  }
 ]
