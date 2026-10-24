@@ -38147,5 +38147,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-24T00:10:05+00:00"
+ },
+ {
+  "de": "d9580.356",
+  "para": "lsa.182",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 356 do RIR/2018 exclui do cálculo da parcela dedutível da contribuição social os valores de ajustes de avaliação patrimonial a que se refere o art. 182, § 3º, da Lei das Sociedades por Ações, remetendo expressamente a esse dispositivo para delimitar a base de cálculo, ainda que trate de regime tributário distinto da classificação contábil societária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T01:11:39+00:00"
+ },
+ {
+  "de": "d9580.527",
+  "para": "lsa.190",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 527 do RIR/2018 soma ao lucro líquido, para apuração do lucro real, as participações nos lucros atribuídas a partes beneficiárias de emissão da companhia e aos administradores, regulando para fins tributários o mesmo grupo de participações estatutárias cuja ordem de cálculo é fixada pelo art. 190 da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T01:11:39+00:00"
+ },
+ {
+  "de": "d9580.526",
+  "para": "lsa.190",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 526 do RIR/2018 disciplina a dedução do lucro líquido das participações nos lucros atribuídas às debêntures de emissão da companhia e aos empregados, regulando para fins tributários outra parte do mesmo conjunto de participações estatutárias cuja ordem de apuração é fixada pelo art. 190 da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T01:11:39+00:00"
+ },
+ {
+  "de": "l13303.11",
+  "para": "lsa.283",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 11 da Lei 13.303/16 proíbe de modo absoluto que a empresa pública lance debêntures ou outros valores mobiliários conversíveis em ações e que emita partes beneficiárias, enquanto o art. 283 da LSA, regra geral das sociedades anônimas, apenas exige o consentimento dos diretores ou gerentes para a assembleia geral emitir debêntures ou criar partes beneficiárias, tornando mais rígida, para essa categoria de companhia, a restrição geral da lei societária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T01:11:39+00:00"
+ },
+ {
+  "de": "lsa.67",
+  "para": "cc.1953",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 67 da LSA trata do agente fiduciário que representa os debenturistas perante a companhia emissora e pode ser substituído pela Comissão de Valores Mobiliários, instituto de direito societário e de mercado de capitais, enquanto o art. 1.953 do Código Civil disciplina o fiduciário do fideicomisso sucessório, que recebe a propriedade restrita e resolúvel da herança ou do legado, de modo que a coincidência do termo fiduciário entre os dois institutos pode induzir confusão, apesar de não guardarem qualquer relação de regime entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T01:11:39+00:00"
+ },
+ {
+  "de": "lsa.70",
+  "para": "cc.1365",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 70 da LSA condiciona a substituição de bens dados em garantia na emissão de debêntures à concordância do agente fiduciário, representante dos debenturistas, enquanto o art. 1.365 do Código Civil disciplina a propriedade fiduciária do credor na alienação fiduciária em garantia, instituto bem diverso em que o fiduciário é o próprio credor titular resolúvel do bem, de modo que a coincidência do termo fiduciário pode induzir confusão entre os dois regimes de garantia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T01:11:39+00:00"
+ },
+ {
+  "de": "d9580.774",
+  "para": "lsa.73",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 774 do RIR/2018 exige que a remessa ao exterior de juros e amortizações seja submetida ao Banco Central do Brasil e à Secretaria da Receita Federal do Brasil, mediante contratos e documentos comprobatórios, complementando sob o aspecto cambial e tributário a exigência do art. 73, § 2º, da LSA de que somente sejam remetidos ao exterior o principal e os encargos de debêntures registradas no Banco Central do Brasil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T01:11:39+00:00"
+ },
+ {
+  "de": "lsa.73",
+  "para": "cc.224",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 73, § 3º, da LSA permite que os documentos exigidos pelas leis do país de emissão de debêntures no exterior, quando não redigidos em português, sejam divulgados com tradução simples, detalhando para esse fim específico o dever geral de tradução do documento estrangeiro para que produza efeitos legais no País, previsto no art. 224 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T01:11:39+00:00"
+ },
+ {
+  "de": "l13874.8",
+  "para": "lsa.82",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 8º da Lei 13.874/19 alterou o art. 85 da LSA para permitir que a subscrição pública seja feita por carta à instituição intermediária e para dispensar a assinatura de lista ou boletim quando a oferta for liquidada por sistema administrado eletronicamente, detalhando a mecânica de adesão dos subscritores ao mesmo procedimento de constituição de companhia por subscrição pública cujo registro na Comissão de Valores Mobiliários e intermediação por instituição financeira são exigidos pelo art. 82 da LSA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-24T01:11:39+00:00"
  }
 ]
