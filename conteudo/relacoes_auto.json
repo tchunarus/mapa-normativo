@@ -39137,5 +39137,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T17:48:32+00:00"
+ },
+ {
+  "de": "l8934.36",
+  "para": "cc.1151",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 36 da Lei 8.934/94 fixa, para o arquivamento de atos na junta comercial, o mesmo prazo de trinta dias e a mesma consequência do atraso (eficácia apenas a partir da concessão) que o art. 1.151 do Código Civil estabelece de modo geral para o registro dos atos do empresário sujeitos a essa formalidade, detalhando no âmbito do registro mercantil a regra civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T18:50:05+00:00"
+ },
+ {
+  "de": "l8934.40",
+  "para": "cc.1154",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 40 da Lei 8.934/94 disciplina o exame, pela junta comercial, do cumprimento das formalidades legais do ato apresentado a arquivamento, etapa procedimental que precede e viabiliza o efeito que o art. 1.154 do Código Civil atribui ao registro regularmente cumprido, a oponibilidade do ato a terceiros.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T18:50:05+00:00"
+ },
+ {
+  "de": "sc_icms_lei.101",
+  "para": "lcp123.33",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 6º do art. 101 da Lei 10.297/96-SC aplica, para o lançamento do ICMS enquanto não editados a lei ou o convênio do art. 37, XXII, da Constituição, a competência fiscalizatória do § 1º-C do art. 33 da Lei Complementar 123/06, detalhando no âmbito estadual a atribuição de competência para o lançamento dos tributos do Simples Nacional que esse dispositivo federal confere às secretarias de fazenda ou finanças dos entes federativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T18:50:05+00:00"
  }
 ]
