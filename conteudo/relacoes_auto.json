@@ -39717,5 +39717,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "lcp87.3",
+  "para": "cf.153",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 5º do art. 153 da Constituição Federal determina que o ouro, quando definido em lei como ativo financeiro ou instrumento cambial, sujeita-se exclusivamente ao imposto da União sobre operações de crédito, câmbio e seguro, e o inciso IV do art. 3º da LC 87/96 exclui da incidência do ICMS as operações com esse mesmo ouro, em decorrência direta dessa exclusividade constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:53:25+00:00"
+ },
+ {
+  "de": "sc_icms_lei.73-E",
+  "para": "l8137.2",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 73-E da Lei 10.297/96-SC comina multa administrativa de R$ 5.000,00 a quem desenvolver, fornecer ou instalar programa aplicativo fiscal em desacordo com a legislação tributária que possibilite a perda ou a alteração de dados fiscais, e o inciso V do art. 2º da Lei 8.137/90 tipifica como crime contra a ordem tributária a utilização ou a divulgação de programa de processamento de dados que permita ao contribuinte possuir informação contábil diversa daquela fornecida ao fisco, de modo que a mesma espécie de fraude por meio de programa fiscal pode sujeitar os envolvidos, cumulativamente, à sanção administrativa estadual e à responsabilização penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:53:25+00:00"
+ },
+ {
+  "de": "sc_icms_lei.76",
+  "para": "l8137.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 76 da Lei 10.297/96-SC comina multa pela escrituração de livro fiscal com vício, fraude ou simulação mediante uso de programa, e o inciso II do art. 1º da Lei 8.137/90 tipifica como crime contra a ordem tributária fraudar a fiscalização tributária inserindo elementos inexatos ou omitindo operação em documento ou livro exigido pela lei fiscal, de modo que a mesma espécie de fraude na escrituração fiscal pode sujeitar o contribuinte, cumulativamente, à sanção administrativa estadual e à responsabilização penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:53:25+00:00"
+ },
+ {
+  "de": "sc_icms_lei.8",
+  "para": "lcp116.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 8º da Lei 10.297/96-SC atribui a condição de contribuinte do ICMS a quem realize com habitualidade operações de circulação de mercadoria, e o § 2º do art. 1º da LC 116/03 estabelece que os serviços constantes da lista anexa ao imposto sobre serviços não se sujeitam ao ICMS ainda que sua prestação envolva fornecimento de mercadorias, o que pode gerar confusão sobre quem é contribuinte de cada imposto quando a operação combina mercadoria e serviço.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:53:25+00:00"
+ },
+ {
+  "de": "sc_icms_lei.8",
+  "para": "floripa_ctm.268",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 8º da Lei 10.297/96-SC define contribuinte do ICMS pela habitualidade ou pelo intuito comercial nas operações de circulação de mercadoria, e o art. 268 do Código Tributário Municipal de Florianópolis define contribuinte do imposto sobre serviços simplesmente como o prestador do serviço, o que pode gerar confusão entre os critérios de sujeição passiva de tributos distintos sobre uma mesma atividade econômica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:53:25+00:00"
  }
 ]
