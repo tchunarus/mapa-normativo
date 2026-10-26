@@ -38957,5 +38957,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "cc.1368-A",
+  "para": "lsa.113",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "A alienação fiduciária da ação, cujo regime de exercício do voto está no parágrafo único do art. 113 da Lei das Sociedades por Ações, é espécie de propriedade fiduciária regida por lei especial, nos termos do art. 1.368-A do Código Civil, aplicando-se as disposições deste apenas no que não for incompatível com aquele regime próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:46:14+00:00"
+ },
+ {
+  "de": "cc.1430",
+  "para": "cpc.851",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 851 do CPC autoriza nova penhora quando o produto da alienação dos bens executados não bastar para o pagamento do exequente, dando efetividade processual à regra do art. 1.430 do Código Civil, segundo a qual o devedor continua pessoalmente obrigado pelo restante da dívida quando o produto do penhor ou da hipoteca não for suficiente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:46:14+00:00"
+ },
+ {
+  "de": "cc.961",
+  "para": "ctn.186",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 186 do CTN excepciona a ordem geral de preferência do art. 961 do Código Civil ao atribuir ao crédito tributário preferência sobre qualquer outro, ressalvados os créditos trabalhistas, ainda que o inciso I do parágrafo único do próprio art. 186 restabeleça, na falência, a preferência do crédito com garantia real sobre o tributário, no limite do valor do bem gravado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:46:14+00:00"
+ },
+ {
+  "de": "d9580.347",
+  "para": "l9430.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 347 do RIR/2018 regulamenta, com remissão expressa ao art. 9º, caput, da Lei 9.430/1996, a dedutibilidade, como despesa para fins de determinação do lucro real, das perdas no recebimento de créditos decorrentes das atividades da pessoa jurídica, nos critérios fixados pelos parágrafos daquele artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:46:14+00:00"
+ },
+ {
+  "de": "l9430.11",
+  "para": "d9580.349",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 349 do RIR/2018 regulamenta, com remissão expressa ao art. 11, caput, da Lei 9.430/1996, a faculdade de excluir do lucro líquido, para fins de determinação do lucro real, os encargos financeiros sobre crédito vencido há mais de dois meses e ainda não recebido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:46:14+00:00"
+ },
+ {
+  "de": "l9430.12",
+  "para": "d9580.350",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 350 do RIR/2018 regulamenta, com remissão expressa ao art. 12, caput, da Lei 9.430/1996, o dever de computar na determinação do lucro real o montante dos créditos deduzidos que tenham sido recuperados, inclusive nos casos de novação da dívida ou de arresto dos bens recebidos em garantia real.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:46:14+00:00"
  }
 ]
