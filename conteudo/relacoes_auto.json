@@ -38477,5 +38477,15 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T09:59:33+00:00"
+ },
+ {
+  "de": "cf.13",
+  "para": "cpc.192",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 13 da CF consagra o português como idioma oficial da República Federativa do Brasil. O parágrafo único do art. 192 do CPC especializa esse princípio geral no âmbito do processo civil, ao condicionar a juntada de documento redigido em língua estrangeira à apresentação de versão em português feita por via diplomática, por autoridade central ou por tradutor juramentado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T10:53:50+00:00"
  }
 ]
