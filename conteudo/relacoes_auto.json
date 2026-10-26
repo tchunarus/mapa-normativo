@@ -39017,5 +39017,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T14:46:14+00:00"
+ },
+ {
+  "de": "d9580.290",
+  "para": "lsa.187",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 290 do RIR/2018 cita expressamente o art. 187, caput, inciso II, da Lei das Sociedades Anônimas para definir o lucro bruto como a diferença entre a receita líquida e o custo dos bens e serviços vendidos, adotando para fins tributários o mesmo conceito contábil exigido na demonstração do resultado do exercício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T17:00:23+00:00"
+ },
+ {
+  "de": "d9580.626",
+  "para": "lsa.187",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 626 do RIR/2018 refere-se expressamente ao inciso IV do caput do art. 187 da Lei das Sociedades Anônimas ao excluir do lucro da exploração as outras receitas ou despesas ali discriminadas na demonstração do resultado do exercício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T17:00:23+00:00"
+ },
+ {
+  "de": "cc.1097",
+  "para": "lsa.247",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.097 do Código Civil define coligada pelo critério de simples participação societária entre sociedades civis, enquanto o art. 247 da Lei das Sociedades Anônimas emprega a mesma expressão para companhias sem repetir aqui o critério próprio da lei acionária, o que gera risco de se aplicar por engano o conceito do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T17:00:23+00:00"
+ },
+ {
+  "de": "cc.1098",
+  "para": "lsa.247",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.098 do Código Civil define controlada pelo critério de maioria de votos nas deliberações sociais entre sociedades civis, enquanto o art. 247 da Lei das Sociedades Anônimas usa a mesma expressão para companhias sem repetir aqui o critério próprio da lei acionária, o que gera risco de se aplicar por engano o conceito do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T17:00:23+00:00"
+ },
+ {
+  "de": "d9580.420",
+  "para": "lsa.248",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 420 do RIR/2018 cita expressamente o art. 248, caput, da Lei das Sociedades Anônimas ao determinar que os investimentos em controladas, coligadas e sociedades do mesmo grupo sejam avaliados pelo valor de patrimônio líquido, adotando para fins tributários o método da equivalência patrimonial ali previsto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T17:00:23+00:00"
+ },
+ {
+  "de": "d9580.424",
+  "para": "lsa.248",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 424 do RIR/2018 permite, para os anos-calendário de 2008 a 2014, avaliar o investimento pelo valor de patrimônio líquido da coligada ou controlada de acordo com o disposto na Lei nº 6.404, de 1976, remetendo ao método da equivalência patrimonial regido pelo art. 248 dessa lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T17:00:23+00:00"
+ },
+ {
+  "de": "lef.14",
+  "para": "lsa.31",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 14 da LEF determina o registro da penhora de ações na Junta Comercial, na Bolsa de Valores e na sociedade, execução que se efetiva por meio do livro de Registro de Ações Nominativas de que trata o art. 31 da Lei das Sociedades Anônimas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T17:00:23+00:00"
+ },
+ {
+  "de": "cc.1128",
+  "para": "lsa.96",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 1.128 do Código Civil repete, para o pedido de autorização de sociedade nacional perante o Poder Executivo, a mesma regra do art. 96 da Lei das Sociedades Anônimas sobre bastar a certidão da escritura pública de constituição, aplicável porém a procedimento distinto do registro do comércio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T17:00:23+00:00"
  }
 ]
