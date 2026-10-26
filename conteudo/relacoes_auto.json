@@ -39277,5 +39277,215 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T19:48:41+00:00"
+ },
+ {
+  "de": "floripa_ctm.264",
+  "para": "lcp87.24",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 264 do CTM de Florianópolis descreve a liquidação do imposto proporcional à receita bruta por compensação até o montante dos créditos fiscais escriturados, nos mesmos termos do art. 24 da LC 87/96 para o ICMS. Há risco de confusão, pois o ISS não é tributo não cumulativo por crédito e débito como o ICMS, de modo que o regime de créditos fiscais do art. 264 é instituto próprio, restrito à modalidade de imposto proporcional à receita bruta, e não a sistemática geral de compensação do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "l9784.40",
+  "para": "l9279.34",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 34 da LPI aplica ao procedimento de exame do pedido de patente o mesmo instituto do art. 40 da Lei 9.784/99: a falta de apresentação, no prazo fixado, de documentos ou objeções solicitados implica o arquivamento do pedido. A LPI especializa a regra geral para o rito do INPI, fixando prazo próprio de 60 dias e o rol dos incisos I a III.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "l9784.40",
+  "para": "l9279.33",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 33 da LPI reproduz, para o pedido de exame de patente, o mesmo instituto do art. 40 da Lei 9.784/99: o decurso do prazo sem a provocação do interessado implica o arquivamento do pedido. É regra especial perante o INPI, com prazo próprio de 36 meses e possibilidade de desarquivamento mediante retribuição específica, conforme o parágrafo único.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "l9784.40",
+  "para": "clt.852-B",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 852-B da CLT aplica ao procedimento sumaríssimo trabalhista o mesmo instituto do art. 40 da Lei 9.784/99: o não atendimento, pelo reclamante, de exigência formal da petição implica o arquivamento da reclamação. A CLT especializa a regra geral para o processo do trabalho, com as exigências próprias dos incisos I e II do caput.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "l9784.40",
+  "para": "l8934.36",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 36 da Lei 8.934/94 usa o termo arquivamento em sentido diverso do art. 40 da Lei 9.784/99: ali designa o registro do documento na junta comercial, não a extinção do processo por inércia do interessado. Há risco real de confusão entre os dois institutos, que a coincidência do vocábulo não dissipa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "lcp87.20",
+  "para": "sc_icms_lei.27",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 27 da Lei 10.297/96-SC reproduz o § 1º do art. 20 da LC 87/96: não dão direito a crédito as entradas de mercadorias ou serviços ligados a operações isentas, não tributadas ou alheias à atividade do estabelecimento, inclusive a presunção quanto a veículos de transporte pessoal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "lcp87.20",
+  "para": "sc_icms_lei.28",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 28 da Lei 10.297/96-SC reproduz o § 3º do art. 20 da LC 87/96, vedando o crédito nas hipóteses de industrialização ou comercialização cuja saída subsequente seja isenta ou não tributada, ressalvada a saída para o exterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "lcp87.20",
+  "para": "sc_ricms.39",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 39 do RICMS-SC detalha, no âmbito regulamentar catarinense, a apropriação fracionada de 1/48 avos dos créditos de ativo permanente prevista no § 5º do art. 20 da LC 87/96, reproduzindo os incisos I e II daquele parágrafo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "lcp87.23",
+  "para": "sc_icms_lei.24",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 24 da Lei 10.297/96-SC reproduz, de forma literal, o caput do art. 23 da LC 87/96: o direito de crédito fica condicionado à idoneidade da documentação e à escrituração nos prazos e condições da legislação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "lcp87.23",
+  "para": "sc_ricms.31",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 31 do RICMS-SC reproduz o caput do art. 23 da LC 87/96 no âmbito regulamentar catarinense, condicionando o direito de crédito à idoneidade da documentação e à escrituração tempestiva.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "lcp87.23",
+  "para": "ctn.173",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O parágrafo único do art. 23 da LC 87/96 fixa em cinco anos o prazo para o contribuinte utilizar o crédito de ICMS já apropriado, enquanto o art. 173 do CTN fixa prazo igual, mas para a Fazenda Pública constituir o crédito tributário por lançamento. Apesar do termo crédito e do prazo comuns, os institutos são distintos quanto ao titular do direito e ao objeto, o que gera risco real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "sc_icms_lei.4",
+  "para": "sc_ricms.3",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 3º do RICMS-SC reproduz, no âmbito regulamentar, os mesmos incisos I a V do art. 4º da Lei 10.297/96-SC sobre o momento de ocorrência do fato gerador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "sc_icms_lei.4",
+  "para": "cf.155",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 4º da Lei 10.297/96-SC detalha o momento de ocorrência do fato gerador do imposto cuja instituição é autorizada pelo art. 155, II, da CF, sobre operações relativas à circulação de mercadorias e prestações de serviços de transporte interestadual, intermunicipal e de comunicação. São institutos conexos: a competência constitucional e a definição legal do fato gerador que a exerce.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "sc_icms_lei.4",
+  "para": "lcp116.1",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso VIII, alínea b, do art. 4º da Lei 10.297/96-SC remete à lei complementar aplicável para identificar quando, nas operações mistas de mercadoria com serviço, incide o ICMS em vez do ISS. O art. 1º da LC 116/03 define o fato gerador do ISS a partir da lista de serviços anexa, que é o critério de demarcação entre os dois impostos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "sc_icms_lei.43-B",
+  "para": "ctn.182",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 43-B da Lei 10.297/96-SC condiciona o benefício da Central de Compras a despacho da autoridade administrativa, mediante requerimento com prova do preenchimento das condições e requisitos, na mesma estrutura procedimental do art. 182 do CTN para a concessão da anistia em caráter individual. São institutos conexos, um de redução de base de cálculo e outro de exclusão do crédito tributário, mas o mecanismo de concessão por despacho individual mediante comprovação de requisitos é o mesmo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "sc_icms_lei.43-B",
+  "para": "lcp123.23",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 3º, IV, do art. 43-B da Lei 10.297/96-SC remete ao regime da Lei Complementar 123/06 para as Centrais de Compras formadas exclusivamente por optantes do Simples Nacional. O art. 23 da LC 123/06, instituto conexo, disciplina a restrição geral à apropriação e à transferência de créditos de ICMS por esses optantes, pano de fundo da remissão feita pelo art. 43-B.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "sc_icms_lei.5",
+  "para": "sc_ricms.4",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 4º do RICMS-SC reproduz, no âmbito regulamentar, os mesmos critérios do art. 5º da Lei 10.297/96-SC para definição do local da operação ou da prestação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "sc_icms_lei.5",
+  "para": "cf.155",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 5º da Lei 10.297/96-SC define o local da operação para fins de cobrança do imposto cuja instituição é autorizada pelo art. 155, II, da CF. São institutos conexos: a competência constitucional para instituir o ICMS e o critério espacial fixado pela lei estadual para a sua cobrança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "sc_icms_lei.50",
+  "para": "ctn.214",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 214 do CTN autoriza convênios entre o Poder Executivo e os Estados para excluir ou limitar a incidência do imposto sobre circulação de mercadorias nas exportações, enquanto o art. 50 da Lei 10.297/96-SC autoriza, de modo mais amplo, convênios para fiscalização, arrecadação e operacionalização do ICMS. Ambos compõem o mesmo sistema de cooperação interfederativa por convênio em torno desse imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "sc_icms_lei.50",
+  "para": "floripa_ctm.300",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 300 do CTM de Florianópolis autoriza o Poder Executivo municipal a celebrar convênio com Estados e Municípios para implementar normas e procedimentos de cobrança e fiscalização de seu tributo, no mesmo desenho institucional do art. 50 da Lei 10.297/96-SC para o ICMS estadual. São institutos conexos, pois aplicados a tributos e entes federativos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:31:50+00:00"
+ },
+ {
+  "de": "lcp87.23",
+  "para": "sc_ricms.32",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 32 do RICMS-SC reproduz, em norma própria do regulamento catarinense, o mesmo prazo de cinco anos do parágrafo único do art. 23 da LC 87/96 para a extinção do direito de utilizar o crédito, contado da data de emissão do documento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T20:32:08+00:00"
  }
 ]
