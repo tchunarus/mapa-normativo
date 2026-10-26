@@ -1,11 +1,11 @@
 {
- "em": "2026-10-26T18:04:23+00:00",
+ "em": "2026-10-26T19:04:41+00:00",
  "diario": false,
  "semanal": false,
  "resumo": {
   "dou": 0,
   "planalto": 0,
-  "stj": 1
+  "stj": 10
  },
- "mudancas": 1
+ "mudancas": 10
 }
