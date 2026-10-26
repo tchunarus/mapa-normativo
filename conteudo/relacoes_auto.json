@@ -39097,5 +39097,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T17:00:23+00:00"
+ },
+ {
+  "de": "lef.14",
+  "para": "cpc.844",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 14 da Lei de Execução Fiscal e o art. 844 do Código de Processo Civil tratam do mesmo instituto, a averbação da penhora ou do arresto para presunção de conhecimento por terceiros, mas a lei especial atribui ao oficial de justiça a entrega da contrafé e da cópia do termo diretamente aos registros competentes, enquanto a regra geral do processo civil impõe ao próprio exequente a providência da averbação, independentemente de mandado judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T17:48:32+00:00"
+ },
+ {
+  "de": "lsa.99",
+  "para": "cc.1151",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 99 da Lei das Sociedades Anônimas responsabiliza solidariamente os primeiros administradores pelos prejuízos decorrentes da demora no cumprimento das formalidades complementares à constituição da companhia, especializando, para a sociedade anônima, a regra geral do art. 1.151 do Código Civil, que impõe às pessoas obrigadas a requerer o registro dos atos societários a responsabilidade por perdas e danos em caso de omissão ou demora.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T17:48:32+00:00"
+ },
+ {
+  "de": "lsa.99",
+  "para": "cc.1154",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 99 da Lei das Sociedades Anônimas afasta a responsabilidade da própria companhia pelos atos praticados pelos primeiros administradores antes de cumpridas as formalidades de constituição, enquanto o art. 1.154 do Código Civil trata da inoponibilidade a terceiros do ato sujeito a registro enquanto não cumpridas as respectivas formalidades. Os dois dispositivos cuidam de efeitos distintos do mesmo período de pendência registral e podem ser confundidos por quem não distinguir o plano interno do plano da oponibilidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T17:48:32+00:00"
+ },
+ {
+  "de": "sc_ricms.9",
+  "para": "sc_icms_lei.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 9º do Regulamento do ICMS de Santa Catarina regulamenta, em maior detalhe administrativo, a mesma lista de bases de cálculo definida pelo art. 10 da Lei 10.297/96-SC, disciplinando por decreto a execução das hipóteses legais de incidência do imposto fixadas na lei estadual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T17:48:32+00:00"
  }
 ]
