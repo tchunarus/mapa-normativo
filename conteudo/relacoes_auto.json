@@ -38487,5 +38487,305 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T10:53:50+00:00"
+ },
+ {
+  "de": "cc.1188",
+  "para": "lsa.176",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1.188 do Código Civil impõe a toda empresa o dever geral de elaborar balanço patrimonial fiel à situação real do patrimônio, e o art. 176 da Lei das Sociedades por Ações especializa esse dever para as companhias, elencando o balanço patrimonial entre as demonstrações financeiras obrigatórias de cada exercício social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cc.1188",
+  "para": "lsa.184",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 184 da Lei das Sociedades por Ações especializa, para as companhias, os critérios de avaliação dos elementos do passivo no balanço, detalhando o dever geral de fidelidade e clareza do balanço patrimonial estabelecido no art. 1.188 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cc.1188",
+  "para": "lsa.247",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.188, parágrafo único, do Código Civil remete à lei especial a disciplina das informações que acompanharão o balanço patrimonial em caso de sociedades coligadas, e o art. 247 da Lei das Sociedades por Ações complementa essa remissão ao exigir notas explicativas sobre as sociedades coligadas e controladas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cc.1188",
+  "para": "lsa.248",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 248 da Lei das Sociedades por Ações complementa o parágrafo único do art. 1.188 do Código Civil, ao detalhar o método de avaliação dos investimentos em coligadas e controladas que deve constar do balanço patrimonial da companhia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cc.1361",
+  "para": "l11101.69-F",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 69-F da Lei 11.101/2005 autoriza o financiamento do devedor em recuperação judicial mediante oneração ou alienação fiduciária de bens e direitos, utilizando diretamente o instituto da propriedade fiduciária disciplinado pelo art. 1.361 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cc.1361",
+  "para": "l8245.32",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 32 da Lei 8.245/1991 excepciona da regra geral de preferência do locatário os casos de constituição da propriedade fiduciária, instituto definido pelo art. 1.361 do Código Civil, e de perda da propriedade por execução de garantia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cc.1361",
+  "para": "sc_icms_lei.95",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O inciso III do art. 95 da Lei 10.297/1996-SC atribui a condição de transportador, para fins de ICMS, ao devedor fiduciante do veículo submetido a alienação fiduciária em garantia, pressupondo o desdobramento da posse definido no § 2º do art. 1.361 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cc.1361",
+  "para": "lsa.31",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O caput do art. 31 da Lei das Sociedades por Ações especializa, para as ações nominativas custodiadas, o instituto da propriedade fiduciária do art. 1.361 do Código Civil, ao atribuir à instituição custodiante a qualidade de proprietária fiduciária das ações enquanto perdurar a custódia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cc.1361",
+  "para": "lsa.113",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 113 da Lei das Sociedades por Ações especializa, para a ação gravada com garantia, o instituto da propriedade fiduciária do art. 1.361 do Código Civil, ao vedar ao credor garantido por alienação fiduciária da ação o exercício do direito de voto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cc.1487-A",
+  "para": "cpc.495",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A hipoteca judiciária do art. 495 do CPC nasce automaticamente da decisão condenatória ao pagamento de quantia, sem registro negocial prévio, e não se confunde com a extensão da hipoteca convencional do art. 1.487-A do Código Civil, que pressupõe garantia já constituída e registrada em favor do mesmo credor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cc.1487-A",
+  "para": "l11101.129",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 129 da Lei 11.101/2005 torna ineficaz em relação à massa falida a constituição de direito real de garantia dentro do termo legal, o que excepciona a eficácia da extensão da hipoteca prevista no art. 1.487-A do Código Civil quando realizada nesse período suspeito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cf.13",
+  "para": "cc.224",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 224 do Código Civil especializa, para a validade dos atos jurídicos em geral, o princípio constitucional do idioma oficial do art. 13 da Constituição Federal, ao exigir tradução para o português do documento redigido em língua estrangeira como condição de eficácia legal no País.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cpc.38",
+  "para": "lindb.12",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 12 da LINDB complementa o regime de cooperação jurídica internacional do art. 38 do CPC, ao fixar a competência da autoridade judiciária brasileira nas hipóteses que também fundamentam os pedidos de cooperação dirigidos pela autoridade central a Estado requerido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cpc.38",
+  "para": "cpp.784",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 784 do CPP especializa, para a esfera penal, o regime de cooperação jurídica internacional do art. 38 do CPC, disciplinando a carta rogatória em sentido inverso, com tradução para a língua nacional, enquanto o CPC cuida do pedido brasileiro traduzido para a língua do Estado requerido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cpc.38",
+  "para": "cc.224",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 224 do Código Civil e o art. 38 do CPC complementam-se na exigência de tradução para viabilizar a cooperação jurídica internacional, cuidando de sentidos opostos do fluxo documental, a tradução para o português de documento estrangeiro e a tradução do documento brasileiro para a língua do Estado requerido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cpc.38",
+  "para": "l11101.167-H",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 167-H da Lei 11.101/2005 complementa o regime geral de cooperação jurídica internacional do art. 38 do CPC, ao instituir procedimento próprio para que o representante estrangeiro peça ao juízo brasileiro o reconhecimento do processo de insolvência estrangeiro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "d9580.258",
+  "para": "l9430.11",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 11 da Lei 9.430/1996 complementa a regra geral do art. 258 do RIR/2018 sobre ajuste do lucro líquido por adições e exclusões, ao prever a exclusão específica dos encargos financeiros de crédito vencido há mais de dois meses na apuração do lucro real.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "d9580.258",
+  "para": "l9430.10",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 10 da Lei 9.430/1996 complementa o art. 258 do RIR/2018, ao disciplinar o registro contábil das perdas admitidas e o correspondente estorno ou adição ao lucro líquido para fins de determinação do lucro real.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "d9580.258",
+  "para": "l9430.12",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 12 da Lei 9.430/1996 complementa o art. 258 do RIR/2018, ao determinar que os créditos deduzidos e posteriormente recuperados sejam computados como adição na determinação do lucro real.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "d9580.258",
+  "para": "l9430.16",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 16 da Lei 9.430/1996 complementa o art. 258 do RIR/2018, ao disciplinar a adição, na determinação do lucro real, dos lucros arbitrados de filiais, sucursais, controladas e coligadas no exterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "d9580.258",
+  "para": "l9430.54",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 54 da Lei 9.430/1996 pressupõe o conceito de lucro real do art. 258 do RIR/2018 ao disciplinar a transição do regime de tributação com base no lucro real para o lucro presumido ou arbitrado, exigindo a adição dos saldos de valores cuja tributação havia sido diferida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "d9580.259",
+  "para": "lsa.187",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 259 do RIR/2018 exige que o lucro líquido do período de apuração observe os preceitos da lei comercial, e o art. 187 da Lei das Sociedades por Ações complementa essa remissão ao discriminar os elementos da demonstração do resultado do exercício, da receita bruta até o lucro ou prejuízo operacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "d9580.259",
+  "para": "lsa.190",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 259 do RIR/2018 define o lucro líquido do período de apuração como soma do lucro operacional, das receitas e despesas e das participações, e o art. 190 da Lei das Sociedades por Ações complementa esse conceito ao disciplinar o cálculo sucessivo das participações de empregados, administradores e partes beneficiárias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "d9580.259",
+  "para": "l9430.28",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 28 da Lei 9.430/1996 remete ao lucro líquido apurado nos termos do art. 259 do RIR/2018 ao estender à base de cálculo da contribuição social sobre o lucro líquido as mesmas normas aplicáveis à apuração do imposto de renda da pessoa jurídica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "d9580.259",
+  "para": "l8212.23",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 23 da Lei 8.212/1991 toma o lucro líquido do período base, apurado nos moldes do art. 259 do RIR/2018, como base de cálculo de alíquota adicional da contribuição patronal destinada à Seguridade Social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "lsa.58",
+  "para": "cpc.784",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 784 do CPC complementa o regime do art. 58 da Lei das Sociedades por Ações, ao atribuir à debênture a natureza de título executivo extrajudicial, independentemente de a garantia subjacente ser real, flutuante ou quirografária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "lsa.58",
+  "para": "l11101.124",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 124 da Lei 11.101/2005 excepciona da suspensão geral de juros pós-falência os juros das debêntures com garantia real de que trata o art. 58 da Lei das Sociedades por Ações, limitando a responsabilidade ao produto dos bens dados em garantia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "lsa.58",
+  "para": "l11101.41",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 41 da Lei 11.101/2005 complementa o regime do art. 58 da Lei das Sociedades por Ações, ao reconhecer os titulares de debêntures com garantia real como classe própria de credores na assembleia geral de recuperação judicial ou falência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "lsa.58",
+  "para": "cc.963",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 963 do Código Civil complementa o § 1º do art. 58 da Lei das Sociedades por Ações, ao definir o privilégio geral como o que recai sobre todos os bens do devedor não sujeitos a crédito real nem a privilégio especial, qualidade que a garantia flutuante da debênture assegura sobre o ativo da companhia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "lsa.58",
+  "para": "cc.1420",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 1.420 do Código Civil aplica-se subsidiariamente ao art. 58 da Lei das Sociedades por Ações, ao exigir que somente quem pode alienar o bem possa empenhar ou hipotecar, regra geral que disciplina a validade da garantia real constituída para a debênture quando a lei societária for omissa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T12:32:51+00:00"
  }
 ]

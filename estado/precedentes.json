@@ -3241,7 +3241,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1261&cod_tema_final=1261",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T21:04:53+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1262": {
@@ -3276,7 +3276,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1262&cod_tema_final=1262",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T21:04:53+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1263": {
@@ -3346,7 +3346,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1263&cod_tema_final=1263",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T21:04:53+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1264": {
@@ -3388,7 +3388,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1264&cod_tema_final=1264",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T21:04:53+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1265": {
@@ -3465,7 +3465,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1266&cod_tema_final=1266",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T21:04:53+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1267": {
@@ -3611,22 +3611,22 @@
     "numero": "REsp 2101592/SP",
     "origem": "TJSPRGL",
     "relator": "Rogerio Schietti",
-    "julgado": "23/10/2026",
-    "publicado": null
+    "julgado": "08/10/2026",
+    "publicado": "23/10/2026"
    },
    {
     "numero": "REsp 2115433/SP",
     "origem": "TJSPRGL",
     "relator": "Rogerio Schietti",
-    "julgado": "23/10/2026",
-    "publicado": null
+    "julgado": "08/10/2026",
+    "publicado": "23/10/2026"
    }
   ],
-  "data": "23/10/2026",
+  "data": "08/10/2026",
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1270&cod_tema_final=1270",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T21:04:53+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1271": {
@@ -3654,7 +3654,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1271&cod_tema_final=1271",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T21:04:53+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1272": {
@@ -3808,7 +3808,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1273&cod_tema_final=1273",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T21:04:53+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1274": {
@@ -3899,7 +3899,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1275&cod_tema_final=1275",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T21:04:53+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1276": {
@@ -3941,7 +3941,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1276&cod_tema_final=1276",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T21:04:53+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1277": {
@@ -4025,7 +4025,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1279&cod_tema_final=1279",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T21:04:53+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1280": {
@@ -6860,7 +6860,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1351&cod_tema_final=1351",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T21:04:53+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1352": {
@@ -6909,7 +6909,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1352&cod_tema_final=1352",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T21:04:53+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1353": {
@@ -8183,7 +8183,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1386&cod_tema_final=1386",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T20:03:26+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1387": {
@@ -8274,7 +8274,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1388&cod_tema_final=1388",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T20:03:26+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1389": {
@@ -8330,7 +8330,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1389&cod_tema_final=1389",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T20:03:26+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1390": {
@@ -8379,7 +8379,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1390&cod_tema_final=1390",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T20:03:26+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1391": {
@@ -8421,7 +8421,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1391&cod_tema_final=1391",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T20:03:26+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1392": {
@@ -8463,7 +8463,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1392&cod_tema_final=1392",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T20:03:26+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1393": {
@@ -8474,7 +8474,7 @@
   "numero": "1393",
   "titulo": "Tema 1393/STJ",
   "orgao": "Primeira Seção",
-  "situacao": "Acórdão Publicado",
+  "situacao": "Trânsito em Julgado",
   "questao": "Definir se é possível prosseguir a execução fiscal contra o espólio ou os sucessores caso o executado venha a falecer sem ser citado.",
   "tese": "O redirecionamento da execução fiscal contra o espólio ou os sucessores só é admitido quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos respectivos autos.",
   "ramo": "DIREITO TRIBUTÁRIO",
@@ -8498,7 +8498,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1393&cod_tema_final=1393",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T20:03:26+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1394": {
@@ -8561,7 +8561,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1395&cod_tema_final=1395",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T20:03:26+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1396": {
@@ -8589,7 +8589,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1396&cod_tema_final=1396",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T20:03:26+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1397": {
@@ -8624,7 +8624,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1397&cod_tema_final=1397",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T20:03:26+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1398": {
@@ -8659,7 +8659,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1398&cod_tema_final=1398",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T20:03:26+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1399": {
@@ -8694,7 +8694,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1399&cod_tema_final=1399",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-10-23T20:03:26+00:00",
+  "verificado_em": "2026-10-26T11:47:26+00:00",
   "novo": false
  },
  "stj.tema.1400": {

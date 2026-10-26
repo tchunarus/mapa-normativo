@@ -1355,5 +1355,13 @@
   "titulo": "Tema 119/STJ: incidência da taxa Selic na repetição de indébito de tributos estaduais incluído",
   "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200900307520&dt_publicacao=25/05/2009",
   "p": "stj.tema.119"
+ },
+ {
+  "data": "2026-10-26T11:47:26+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1393/STJ: Trânsito em Julgado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1393&cod_tema_final=1393",
+  "p": "stj.tema.1393"
  }
 ]
