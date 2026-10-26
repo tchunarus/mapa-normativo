@@ -38787,5 +38787,15 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T12:32:51+00:00"
+ },
+ {
+  "de": "cf.13",
+  "para": "l9279.155",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 13 da Constituição Federal fixa a língua portuguesa como idioma oficial. O parágrafo único do art. 155 da LPI complementa esse princípio no âmbito administrativo, ao exigir que o requerimento de registro de sinal distintivo e os documentos que o acompanham sejam apresentados em língua portuguesa perante o INPI.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T13:03:25+00:00"
  }
 ]
