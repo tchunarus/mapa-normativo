@@ -38797,5 +38797,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T13:03:25+00:00"
+ },
+ {
+  "de": "cc.963",
+  "para": "l11101.41",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 963 do Código Civil distingue o privilégio especial, que recai apenas sobre os bens legalmente vinculados ao crédito favorecido, do privilégio geral, que abrange os demais bens não sujeitos a garantia real nem a privilégio especial. O inciso III do art. 41 da Lei 11.101/2005 utiliza exatamente essas duas categorias para compor, entre os credores quirografários, as classes de voto na assembleia geral de credores da recuperação judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "cpp.784",
+  "para": "cpc.961",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 961 do CPC, em sua regra geral, condiciona a eficácia no Brasil da decisão estrangeira à homologação de sentença estrangeira ou à concessão do exequatur à carta rogatória, ressalvada disposição em sentido contrário de lei ou tratado. O art. 784 do CPP constitui exatamente essa disposição em contrário na esfera penal, ao dispensar homologação para a carta rogatória emanada de autoridade estrangeira competente, desde que encaminhada por via diplomática e o crime, segundo a lei brasileira, não exclua a extradição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "cpp.784",
+  "para": "lindb.12",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 12, §2º, da LINDB condiciona o cumprimento, pela autoridade judiciária brasileira, de diligências deprecadas por autoridade estrangeira competente à concessão do exequatur. O art. 784 do CPP excepciona essa exigência quanto à carta rogatória penal, que é atendida sem depender de homologação quando encaminhada por via diplomática e o crime, segundo a lei brasileira, não excluir a extradição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "l11101.124",
+  "para": "ctn.186",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 186, parágrafo único, do CTN estabelece a ordem de preferência do crédito tributário na falência em relação aos créditos extraconcursais e aos créditos com garantia real. O art. 124, parágrafo único, da Lei 11.101/2005 integra o mesmo regime concursal falimentar ao determinar que os juros das debêntures e dos créditos com garantia real só são exigíveis contra a massa falida até o limite do produto dos bens dados em garantia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "l11101.124",
+  "para": "cc.1430",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 1.430 do Código Civil estabelece que, insuficiente o produto da execução do penhor ou da hipoteca para o pagamento da dívida e das despesas judiciais, o devedor continua pessoalmente obrigado pelo restante. O art. 124, parágrafo único, da Lei 11.101/2005 excepciona essa regra geral na falência, pois determina que os juros dos créditos com garantia real só são exigíveis contra o produto dos bens que constituem a própria garantia, sem responsabilidade pessoal residual do devedor falido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "l11101.167-H",
+  "para": "cpc.192",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 192, parágrafo único, do CPC só admite a juntada de documento em língua estrangeira acompanhado de versão vertida por via diplomática, por autoridade central ou por tradutor juramentado, após exigir, no caput, o uso da língua portuguesa nos atos do processo. O art. 167-H, §3º, da Lei 11.101/2005 excepciona essa exigência no reconhecimento do processo estrangeiro de insolvência transnacional, ao permitir que o juiz dispense a tradução oficial e aceite tradução simples, declarada fiel pelo próprio advogado, sem prejuízo aos credores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "l11101.167-H",
+  "para": "cc.224",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 224 do Código Civil exige que os documentos redigidos em língua estrangeira sejam traduzidos para o português para produzir efeitos legais no País. O art. 167-H, §3º, da Lei 11.101/2005 excepciona essa exigência quanto aos documentos que instruem o pedido de reconhecimento do processo estrangeiro de insolvência, ao permitir, quando não houver prejuízo aos credores, que o juiz dispense a tradução oficial e aceite tradução simples, declarada fiel e autêntica pelo próprio advogado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "l11101.41",
+  "para": "cc.961",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 961 do Código Civil estabelece a ordem geral de preferência entre os créditos, segundo a qual o crédito real prefere ao pessoal, o privilegiado prefere ao simples e o privilégio especial prefere ao geral. O inciso III do art. 41 da Lei 11.101/2005 especializa essa mesma hierarquia ao reunir, na classe dos credores quirografários da assembleia geral, os titulares de crédito com privilégio especial, com privilégio geral ou subordinados, conforme a ordem civil de preferência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "l11101.41",
+  "para": "cc.707",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 707 do Código Civil atribui privilégio geral ao crédito do comissário relativo a comissões e despesas feitas, no caso de falência ou insolvência do comitente. Esse crédito se enquadra na classe de credores quirografários com privilégio geral prevista no inciso III do art. 41 da Lei 11.101/2005 para fins de composição e voto na assembleia geral de credores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "l11101.41",
+  "para": "cc.965",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 965 do Código Civil relaciona os créditos que gozam de privilégio geral sobre os bens do devedor, entre eles as despesas com a arrecadação e a liquidação da massa. O inciso III do art. 41 da Lei 11.101/2005 situa justamente esses créditos privilegiados gerais, ao lado dos quirografários com privilégio especial e dos subordinados, em classe própria da assembleia geral de credores da recuperação judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "l11101.69-F",
+  "para": "cc.1368-A",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 1.368-A do Código Civil determina que as demais espécies de propriedade fiduciária ou de titularidade fiduciária se submetem à disciplina específica das respectivas leis especiais, aplicando-se o Código Civil apenas subsidiariamente, no que não for incompatível com a legislação especial. O art. 69-F da Lei 11.101/2005, ao autorizar a garantia do financiamento da recuperação judicial mediante oneração ou alienação fiduciária de bens e direitos, constitui justamente essa legislação especial à qual o Código Civil se aplica apenas subsidiariamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "l11101.69-F",
+  "para": "cc.1368-B",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1.368-B do Código Civil confere ao fiduciante direito real de aquisição na alienação fiduciária em garantia de bem móvel ou imóvel. O art. 69-F da Lei 11.101/2005 especializa esse mesmo instituto ao autorizar expressamente que o devedor em recuperação judicial e os demais integrantes de seu grupo garantam o financiamento da recuperação mediante oneração ou alienação fiduciária de bens e direitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "l8245.32",
+  "para": "cc.520",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 520 do Código Civil estabelece que o direito de preferência não se pode ceder nem passa aos herdeiros, no regime geral da preempção civil. O art. 32 da Lei 8.245/1991 especializa esse mesmo instituto para o direito de preferência do locatário na aquisição do imóvel locado, definindo as hipóteses de transferência da propriedade em que esse direito não incide.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "l8245.32",
+  "para": "lsa.172",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 172, parágrafo único, da Lei das Sociedades Anônimas trata do direito de preferência dos acionistas na subscrição de ações, podendo o estatuto excluir esse direito nas hipóteses que especifica. O art. 32 da Lei 8.245/1991 emprega a mesma expressão direito de preferência para tratar de instituto totalmente distinto, o direito do locatário de adquirir o imóvel locado em igualdade de condições, o que gera risco real de confusão entre os dois institutos homônimos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "l9430.10",
+  "para": "d9580.348",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 348 do RIR/2018 regulamenta o art. 10 da Lei 9.430/1996, pois reproduz literalmente, com remissão expressa a esse artigo, a mesma regra de registro contábil das perdas admitidas a débito de conta de resultado e a crédito da conta do crédito ou de conta redutora, nos mesmos incisos I e II do caput.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
+ },
+ {
+  "de": "l9430.10",
+  "para": "d9580.347",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 347 do RIR/2018 regulamenta o art. 9º da Lei 9.430/1996, que disciplina os requisitos para o registro das perdas no recebimento de créditos. O art. 10 da mesma lei trata da contabilização dessas perdas e remete, em seu inciso I, à alínea a do inciso II do §1º do art. 9º, hipótese que corresponde à alínea a do inciso II do §1º do art. 347 do RIR/2018.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T14:03:21+00:00"
  }
 ]

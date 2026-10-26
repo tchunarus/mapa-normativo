@@ -1363,5 +1363,13 @@
   "titulo": "Tema 1393/STJ: Trânsito em Julgado",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1393&cod_tema_final=1393",
   "p": "stj.tema.1393"
+ },
+ {
+  "data": "2026-10-26T13:14:24+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1406/STJ: Trânsito em Julgado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1406&cod_tema_final=1406",
+  "p": "stj.tema.1406"
  }
 ]
