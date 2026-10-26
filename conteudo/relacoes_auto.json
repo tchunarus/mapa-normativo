@@ -39487,5 +39487,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T20:32:08+00:00"
+ },
+ {
+  "de": "ctn.214",
+  "para": "lcp87.3",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 214 do CTN previa a exclusão da incidência do imposto sobre circulação de mercadorias nas exportações mediante convênio entre a União e os Estados, enquanto o inciso II do art. 3º da LC 87/96 estabelece hoje a não incidência direta do ICMS sobre operações destinadas ao exterior, sem necessidade de convênio, o que gera risco de se supor ainda exigível o mecanismo convenial para a desoneração das exportações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T21:47:50+00:00"
+ },
+ {
+  "de": "floripa_ctm.300",
+  "para": "ctn.199",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 199 do CTN prevê a assistência mútua entre as Fazendas Públicas da União, dos Estados, do Distrito Federal e dos Municípios para a fiscalização dos tributos e a permuta de informações, e o art. 300 do Código Tributário Municipal de Florianópolis aplica esse mesmo mecanismo ao imposto local, autorizando convênio com Estados e Municípios inclusive para disciplinar a substituição tributária quando o substituto estiver sediado em outro Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T21:47:50+00:00"
+ },
+ {
+  "de": "floripa_ctm.300",
+  "para": "ctn.199-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 199-A do CTN autoriza as Fazendas Públicas da União, dos Estados, do Distrito Federal e dos Municípios a compartilhar, mediante convênio, as atividades de fiscalização, lançamento e cobrança de tributos, e o art. 300 do Código Tributário Municipal de Florianópolis aplica o mesmo instituto ao autorizar convênio do Poder Executivo municipal com Estados e Municípios para a cobrança e a fiscalização do imposto local.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T21:47:50+00:00"
+ },
+ {
+  "de": "sc_icms_lei.24",
+  "para": "sc_ricms.31",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 31 do RICMS-SC regulamenta o art. 24 da Lei 10.297/96-SC, reproduzindo de forma literal a condição de idoneidade da documentação e de escrituração nos prazos e condições da legislação para o reconhecimento do direito de crédito do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T21:47:50+00:00"
+ },
+ {
+  "de": "sc_icms_lei.27",
+  "para": "sc_ricms.34",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 34 do RICMS-SC regulamenta o art. 27 da Lei 10.297/96-SC, repetindo nos incisos I e III a vedação ao crédito nas entradas de mercadorias ou serviços resultantes de operações isentas ou não tributadas ou alheios à atividade do estabelecimento, e reproduzindo no parágrafo único a presunção de que os veículos de transporte pessoal são alheios a essa atividade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T21:47:50+00:00"
+ },
+ {
+  "de": "sc_icms_lei.28",
+  "para": "sc_ricms.35",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 35 do RICMS-SC regulamenta o art. 28 da Lei 10.297/96-SC, repetindo nos incisos I e II a vedação ao crédito relativo à mercadoria ou ao serviço empregado em industrialização, produção rural, comercialização ou prestação de serviço quando a saída subsequente for isenta ou não tributada, ressalvada a exportação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T21:47:50+00:00"
+ },
+ {
+  "de": "sc_icms_lei.51",
+  "para": "sc_ricms.57",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 51 da Lei 10.297/96-SC comina multa de 50% pelo não recolhimento do imposto devido por estimativa fiscal, regime cuja disciplina consta do art. 57 do RICMS-SC, que autoriza a administração fazendária a calcular e exigir o imposto mensalmente por estimativa de duração semestral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T21:47:50+00:00"
  }
 ]
