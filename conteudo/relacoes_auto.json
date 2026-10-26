@@ -39167,5 +39167,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T18:50:05+00:00"
+ },
+ {
+  "de": "l8934.40",
+  "para": "l9784.40",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 40 da Lei 8.934/94 fixa, nos §§ 2º e 3º, prazo de 30 dias para o cumprimento de exigência no processo de arquivamento perante a junta comercial e prevê que a falta de devolução no prazo torna o processo novo pedido de arquivamento, regra especial em relação ao art. 40 da Lei 9.784/99, que prevê o arquivamento do processo administrativo federal quando o interessado não atende, no prazo fixado, a exigência de dados, documentos ou atuações necessários à apreciação do pedido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T19:48:41+00:00"
+ },
+ {
+  "de": "sc_icms_lei.21",
+  "para": "sc_ricms.28",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 28 do RICMS-SC regulamenta, em redação praticamente idêntica, a não cumulatividade do ICMS catarinense prevista no art. 21 da Lei 10.297/96-SC, disciplinando por decreto a mesma compensação do imposto devido com o montante cobrado nas operações anteriores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T19:48:41+00:00"
+ },
+ {
+  "de": "sc_icms_lei.22",
+  "para": "lcp87.20",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O caput do art. 22 da Lei 10.297/96-SC reproduz, no essencial, a mesma regra do caput do art. 20 da LC 87/96 sobre o direito de crédito do imposto cobrado nas operações de entrada de mercadoria no estabelecimento, inclusive a destinada ao ativo permanente, cabendo à lei estadual disciplinar, em seus incisos, o procedimento de apropriação desse crédito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T19:48:41+00:00"
+ },
+ {
+  "de": "sc_icms_lei.22",
+  "para": "sc_ricms.39",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso I do § 1º do art. 22 da Lei 10.297/96-SC prevê que a apropriação do crédito de ativo permanente seja feita à razão de um quarenta e oito avos por mês, e o art. 39 do RICMS-SC regulamenta a mesma sistemática, no inciso I, ao determinar apropriação à razão de 1/48 por mês a partir da entrada do bem no estabelecimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T19:48:41+00:00"
+ },
+ {
+  "de": "sc_icms_lei.22",
+  "para": "sc_ricms.37",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso VI do art. 22 da Lei 10.297/96-SC exige lançamento em livro próprio dos créditos de ativo permanente, além do lançamento em conjunto com os demais créditos, e o art. 37 do RICMS-SC regulamenta essa exigência ao determinar que tais créditos sejam lançados em ficha própria, mantida em arquivo à disposição do fisco.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T19:48:41+00:00"
+ },
+ {
+  "de": "sc_icms_lei.25",
+  "para": "sc_ricms.32",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 32 do RICMS-SC regulamenta, em redação idêntica, o prazo de cinco anos para a utilização do crédito do ICMS previsto no art. 25 da Lei 10.297/96-SC, contado da data de emissão do documento fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T19:48:41+00:00"
+ },
+ {
+  "de": "sc_icms_lei.25",
+  "para": "lcp87.23",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 23 da LC 87/96 fixa a mesma regra de extinção do direito de utilizar o crédito do ICMS em cinco anos contados da emissão do documento que o art. 25 da Lei 10.297/96-SC reproduz para o imposto catarinense, condicionando-a, no caput, à idoneidade da documentação e à escrituração nos prazos legais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T19:48:41+00:00"
+ },
+ {
+  "de": "sc_icms_lei.25",
+  "para": "ctn.173",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 173 do CTN fixa prazo de cinco anos para a Fazenda Pública constituir o crédito tributário por lançamento, e o art. 25 da Lei 10.297/96-SC prevê prazo idêntico de cinco anos, mas para instituto diverso, a extinção do direito do contribuinte de utilizar o crédito escritural do ICMS, sem relação com a decadência do lançamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T19:48:41+00:00"
+ },
+ {
+  "de": "sc_icms_lei.25",
+  "para": "floripa_ctm.91",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 91 do Código Tributário Municipal de Florianópolis fixa prazo de cinco anos para a Fazenda Municipal constituir o crédito tributário, e o art. 25 da Lei 10.297/96-SC prevê prazo idêntico de cinco anos, mas para instituto diverso, a extinção do direito de utilizar o crédito escritural do ICMS estadual, não a decadência do lançamento municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T19:48:41+00:00"
+ },
+ {
+  "de": "sc_icms_lei.34",
+  "para": "sc_ricms.58",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 58 do RICMS-SC regulamenta, em redação praticamente idêntica, a regra de vencimento e liquidação da obrigação tributária por compensação ou pagamento em dinheiro do art. 34 da Lei 10.297/96-SC, remetendo ao art. 60 do Regulamento o prazo de liquidação da diferença, em vez do art. 36 da lei estadual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T19:48:41+00:00"
+ },
+ {
+  "de": "sc_icms_lei.34",
+  "para": "floripa_ctm.264",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 264 do Código Tributário Municipal de Florianópolis adota, para imposto municipal proporcional à receita bruta, estrutura quase idêntica à do art. 34 da Lei 10.297/96-SC quanto ao vencimento da obrigação tributária no último dia do período de apuração e à liquidação por compensação ou pagamento em dinheiro, mas disciplina tributo municipal distinto do ICMS estadual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T19:48:41+00:00"
  }
 ]
