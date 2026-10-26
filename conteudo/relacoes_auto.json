@@ -39557,5 +39557,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T21:47:50+00:00"
+ },
+ {
+  "de": "lcp87.3",
+  "para": "sc_icms_lei.7",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 3º da LC 87/96 fixa, em âmbito nacional, as hipóteses de não incidência do ICMS, e o art. 7º da Lei 10.297/96-SC reproduz essas mesmas hipóteses para o imposto estadual catarinense, tratando os dois dispositivos do mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "lcp87.3",
+  "para": "sc_ricms.6",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 6º do RICMS-SC reproduz, em sede regulamentar e com redação praticamente idêntica, as hipóteses de não incidência do ICMS fixadas pelo art. 3º da LC 87/96, disciplinando por decreto, no âmbito catarinense, o que a norma geral complementar federal já estabelece.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "lcp87.3",
+  "para": "cf.155",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 3º da LC 87/96 regulamenta a reserva de lei complementar do art. 155, § 2º, XII, alínea e, da Constituição Federal, que exige lei complementar para excluir da incidência do ICMS as exportações, e dá efetividade à imunidade do art. 155, § 2º, X, alíneas a, b e c, da Constituição Federal, sobre exportações, operações interestaduais com petróleo e energia elétrica e ouro como ativo financeiro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "lcp87.3",
+  "para": "lcp214.426",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 3º da LC 87/96 equipara à exportação a saída de mercadoria com fim específico destinada a empresa comercial exportadora, para fins de não incidência do ICMS, e o art. 426 da LC 214/2025 prevê regra equivalente de não incidência do Imposto Seletivo no fornecimento de bens à empresa comercial exportadora, podendo gerar confusão entre os regimes de não incidência de dois tributos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "lcp87.3",
+  "para": "lcp214.413",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 3º da LC 87/96 afasta a incidência do ICMS apenas sobre as operações interestaduais com energia elétrica e petróleo destinados à industrialização ou comercialização, e o inciso II do art. 413 da LC 214/2025 afasta a incidência do Imposto Seletivo, de forma ampla, sobre toda operação com energia elétrica, podendo gerar confusão entre o alcance mais restrito da não incidência do ICMS e o mais amplo da não incidência do Imposto Seletivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "sc_icms_lei.6",
+  "para": "sc_ricms.5",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 6º da Lei 10.297/96-SC define estabelecimento, para efeitos do ICMS, como o local onde a pessoa física ou jurídica exerce suas atividades ou armazena mercadorias, e o art. 5º do RICMS-SC regulamenta, em redação praticamente idêntica, a mesma definição e as mesmas regras de autonomia de cada estabelecimento do mesmo titular.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "sc_icms_lei.6",
+  "para": "cc.1142",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 6º da Lei 10.297/96-SC define estabelecimento, para fins de ICMS, como o próprio local físico onde a pessoa exerce suas atividades ou armazena mercadorias, e o § 1º do art. 1.142 do Código Civil afirma expressamente que o estabelecimento empresarial não se confunde com o local onde se exerce a atividade, de modo que o mesmo termo designa institutos distintos no direito tributário estadual e no direito civil empresarial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "sc_icms_lei.6",
+  "para": "lcp116.4",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 6º da Lei 10.297/96-SC define estabelecimento, para fins de ICMS, pelo local onde a pessoa exerce suas atividades ou armazena mercadorias, e o art. 4º da LC 116/03 define estabelecimento prestador, para fins de ISS, pelo local onde o contribuinte presta serviços de modo a configurar unidade econômica ou profissional, critérios distintos que podem gerar confusão quando uma mesma operação envolve circulação de mercadorias e prestação de serviços.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "sc_icms_lei.6",
+  "para": "lcp214.11",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 6º da Lei 10.297/96-SC fixa o estabelecimento como critério central de sujeição ao ICMS, mas o inciso I do art. 11 da LC 214/2025 desloca, para o IBS e a CBS, o critério de localização da operação com bem móvel material do estabelecimento do fornecedor para o local da entrega ou disponibilização do bem ao destinatário, mudança de paradigma que pode gerar confusão na transição entre os dois regimes tributários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "sc_icms_lei.73-E",
+  "para": "lcp214.341-G",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso VI do art. 341-G da LC 214/2025 pune quem desenvolver, fornecer ou instalar programa, software, aplicativo fiscal ou solução tecnológica que possibilite a emissão de documentos fiscais com supressão ou redução de valores do IBS ou da CBS, infração conexa à do art. 73-E da Lei 10.297/96-SC, que pune o desenvolvimento, o fornecimento ou a instalação de programa aplicativo fiscal em desacordo com a legislação do ICMS que possibilite a perda ou a alteração de dados fiscais, tributos que coexistem durante o período de transição da reforma tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "sc_icms_lei.76",
+  "para": "lcp214.341-G",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso V do art. 341-G da LC 214/2025 pune quem instalar ou manter instalado programa, software, aplicativo fiscal ou solução tecnológica que possibilite a emissão de documentos fiscais com supressão ou redução de valores do IBS ou da CBS, infração conexa à do art. 76 da Lei 10.297/96-SC, que pune a utilização de programa para emissão, impressão ou escrituração de documento ou livro fiscal com vício, fraude ou simulação relativo ao ICMS, tributos que coexistem durante o período de transição da reforma tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "sc_icms_lei.8",
+  "para": "sc_ricms.7",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 8º da Lei 10.297/96-SC define quem é contribuinte do ICMS e as hipóteses especiais dos §§ 1º e 2º, e o art. 7º do RICMS-SC regulamenta, em redação praticamente idêntica, a mesma definição e as mesmas hipóteses especiais de sujeição passiva.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "sc_icms_lei.8",
+  "para": "lcp116.5",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 8º da Lei 10.297/96-SC define como contribuinte do ICMS qualquer pessoa que realize, com habitualidade ou intuito comercial, operações de circulação de mercadorias ou prestações de transporte e comunicação, e o art. 5º da LC 116/03 define como contribuinte do ISS apenas o prestador do serviço, conceitos distintos que podem gerar confusão em operações mistas de fornecimento de mercadorias com prestação de serviços.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "sc_icms_lei.83",
+  "para": "sc_ricms.33",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 83 da Lei 10.297/96-SC comina multa pelo atraso na escrituração dos livros fiscais, pela utilização sem prévia autenticação ou pela escrituração em desacordo com a legislação, e o art. 33 do RICMS-SC assegura ao contribuinte o direito de se creditar, independentemente de autorização do fisco, do imposto pago indevidamente por erro de fato na escrituração desses mesmos livros fiscais, institutos conexos que tratam de consequências diferentes para a escrituração irregular do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "sc_icms_lei.83-A",
+  "para": "d9580.1010",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 83-A da Lei 10.297/96-SC comina multa percentual ao contribuinte que deixar de escriturar os livros fiscais relativos à escrituração fiscal digital do ICMS, e o art. 1.010 do RIR/2018 comina multa percentual, calculada sobre o lucro líquido, ao sujeito passivo que deixar de apresentar o Livro de Apuração do Lucro Real ou o apresentar com inexatidões, paralelo entre penalidades por falha em livro fiscal obrigatório em tributos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
+ },
+ {
+  "de": "sc_icms_lei.83-A",
+  "para": "sc_ricms.75",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 83-A da Lei 10.297/96-SC pune objetivamente, com multa fixa, a falta de escrituração dos livros fiscais da escrituração fiscal digital, e o inciso VII do art. 75 do RICMS-SC trata a falta de escrituração contábil de documento relativo à entrada de mercadorias como indício que autoriza presumir operação tributável não registrada, institutos conexos que tratam de consequências diferentes para a omissão na escrituração fiscal do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T23:04:13+00:00"
  }
 ]
