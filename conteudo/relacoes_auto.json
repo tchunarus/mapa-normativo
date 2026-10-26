@@ -38347,5 +38347,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-24T06:09:01+00:00"
+ },
+ {
+  "de": "cpc.192",
+  "para": "cpp.236",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 192 do CPC exige tradução do documento em língua estrangeira juntado aos autos do processo civil, por via diplomática, autoridade central ou tradutor juramentado, e o art. 236 do CPP impõe exigência equivalente para o processo penal, com tradução por tradutor público ou pessoa idônea nomeada pela autoridade, existindo risco real de se invocar o dispositivo do código errado conforme a natureza do processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T09:59:33+00:00"
+ },
+ {
+  "de": "l11101.49",
+  "para": "ctn.191-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 49 da Lei 11.101/05 define os créditos sujeitos aos efeitos da recuperação judicial, e o art. 191-A do CTN complementa esse regime ao condicionar a concessão da recuperação judicial à prova de quitação de todos os tributos, tratando de aspecto distinto, mas integrado, do mesmo procedimento de soerguimento da empresa devedora.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T09:59:33+00:00"
+ },
+ {
+  "de": "l11101.49",
+  "para": "cc.349",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 1º do art. 49 da Lei 11.101/05 assegura que os credores do devedor em recuperação judicial conservam seus direitos e privilégios contra coobrigados, fiadores e obrigados de regresso, o que pode ser confundido com a sub-rogação do art. 349 do Código Civil, que transfere ao novo credor os direitos, as ações, os privilégios e as garantias do credor original, mas cuida de instituto diverso: a transmissão do crédito a terceiro que paga a dívida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T09:59:33+00:00"
+ },
+ {
+  "de": "l11101.49",
+  "para": "l10522.10-C",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 49 da Lei 11.101/05 sujeita à recuperação judicial os créditos existentes na data do pedido, e o art. 10-C da Lei 10.522/02 complementa esse regime ao prever modalidade especial de transação tributária perante a Procuradoria-Geral da Fazenda Nacional, destinada ao empresário ou à sociedade empresária com processamento da recuperação judicial deferido, tratando do crédito tributário nesse contexto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T09:59:33+00:00"
+ },
+ {
+  "de": "l11101.69-C",
+  "para": "cc.1361",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 2º do art. 69-C da Lei 11.101/05 exclui expressamente do seu alcance qualquer modalidade de alienação fiduciária ou de cessão fiduciária, de modo que a garantia subordinada ali disciplinada não se confunde com a propriedade fiduciária definida no art. 1.361 do Código Civil, ainda que ambas sejam espécies de garantia sobre bens do devedor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T09:59:33+00:00"
+ },
+ {
+  "de": "l11101.69-C",
+  "para": "lsa.58",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 69-C da Lei 11.101/05 permite a constituição de garantia subordinada em favor do financiador do devedor em recuperação judicial, e o art. 58 da Lei das S.A. prevê a debênture com garantia subordinada aos demais credores da companhia, existindo risco de se confundirem os dois institutos, apesar de disciplinarem situações distintas: o financiamento da recuperação judicial e a classificação de preferência das debêntures.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T09:59:33+00:00"
+ },
+ {
+  "de": "l11101.69-C",
+  "para": "cc.1487-A",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 69-C da Lei 11.101/05 autoriza o juiz a constituir garantia subordinada sobre ativo já gravado em favor do financiador do devedor, dispensando a anuência do titular da garantia original, enquanto o art. 1.487-A do Código Civil permite ao proprietário estender a hipoteca para garantir nova obrigação em favor do mesmo credor, mantida a prioridade registral, disciplinando de forma distinta a sobreposição de garantias sobre o mesmo bem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T09:59:33+00:00"
+ },
+ {
+  "de": "l9279.155",
+  "para": "cpc.192",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O parágrafo único do art. 155 da Lei de Propriedade Industrial admite tradução simples do documento em língua estrangeira apresentada em até sessenta dias no pedido de registro de marca perante o INPI, enquanto o art. 192 do CPC exige, para o processo civil, tradução por via diplomática, autoridade central ou tradutor juramentado, existindo risco de se aplicar ao processo administrativo a formalidade mais rigorosa exigida pelo processo judicial, ou vice-versa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T09:59:33+00:00"
+ },
+ {
+  "de": "lsa.178",
+  "para": "cc.1188",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1.188 do Código Civil exige que o balanço patrimonial exprima, com fidelidade e clareza, a situação real da empresa, remetendo às disposições das leis especiais, e o art. 178 da Lei das S.A. especializa essa exigência ao disciplinar, para a companhia, a classificação das contas do ativo e do passivo em grupos específicos, segundo o grau de liquidez e a natureza dos elementos patrimoniais registrados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T09:59:33+00:00"
+ },
+ {
+  "de": "lsa.178",
+  "para": "d9580.286",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 178 da Lei das S.A. disciplina a classificação das contas do balanço patrimonial da companhia em grupos de ativo, passivo e patrimônio líquido, e o art. 286 do RIR/2018 complementa esse regime ao exigir que a apuração do lucro líquido do período, para fins tributários, observe as disposições da Lei nº 6.404/1976 na elaboração do balanço patrimonial e das demonstrações de resultado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T09:59:33+00:00"
+ },
+ {
+  "de": "lsa.191",
+  "para": "d9580.259",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 191 da Lei das S.A. define o lucro líquido do exercício como o resultado remanescente após deduzidas as participações do art. 190, e o art. 259 do RIR/2018 complementa esse conceito ao determinar, para fins tributários, que o lucro líquido do período de apuração seja a soma algébrica do lucro operacional, das demais receitas e despesas e das participações, apurado em observância aos preceitos da lei comercial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T09:59:33+00:00"
+ },
+ {
+  "de": "lsa.191",
+  "para": "d9580.258",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 191 da Lei das S.A. define o lucro líquido do exercício, base contábil societária do resultado da companhia, e o art. 258 do RIR/2018 complementa esse conceito ao definir o lucro real como o lucro líquido do período de apuração ajustado pelas adições, exclusões ou compensações previstas na legislação tributária, tratando de instituto fiscal conexo, mas distinto do lucro líquido societário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T09:59:33+00:00"
+ },
+ {
+  "de": "cpp.236",
+  "para": "cpc.38",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 236 do CPP exige a tradução, por tradutor público ou pessoa idônea, de documento em língua estrangeira juntado ao processo penal brasileiro, e o art. 38 do CPC disciplina a direção inversa da cooperação jurídica internacional, exigindo que o pedido formulado por autoridade brasileira seja acompanhado de tradução para a língua oficial do Estado requerido, existindo risco de se confundirem as duas exigências de tradução por tratarem de sentidos opostos do mesmo fluxo de cooperação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-26T09:59:33+00:00"
  }
 ]

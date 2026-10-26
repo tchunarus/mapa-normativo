@@ -1275,5 +1275,85 @@
   "titulo": "Tema 1211/STJ: Acórdão Publicado",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1211&cod_tema_final=1211",
   "p": "stj.tema.1211"
+ },
+ {
+  "data": "2026-10-26T10:03:32+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 294/STJ: compensação como fundamento de defesa nos embargos à execução fiscal incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200702750399&dt_publicacao=01/02/2010",
+  "p": "stj.tema.294"
+ },
+ {
+  "data": "2026-10-26T10:03:32+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 249/STJ: prosseguimento da execução fiscal pelo valor remanescente após embargos parcialmente acolhidos incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200900039810&dt_publicacao=30/11/2010",
+  "p": "stj.tema.249"
+ },
+ {
+  "data": "2026-10-26T10:03:32+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 241/STJ: depósito prévio não condiciona a ação anulatória de débito fiscal incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200701452151&dt_publicacao=18/12/2009",
+  "p": "stj.tema.241"
+ },
+ {
+  "data": "2026-10-26T10:03:32+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 229/STJ: termo a quo da prescrição na repetição de indébito de tributo lançado de ofício incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200700991022&dt_publicacao=26/10/2010",
+  "p": "stj.tema.229"
+ },
+ {
+  "data": "2026-10-26T10:03:32+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 504/STJ: IRPJ e CSLL sobre juros na devolução de depósitos judiciais incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200900861943&dt_publicacao=08/05/2023",
+  "p": "stj.tema.504"
+ },
+ {
+  "data": "2026-10-26T10:03:32+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 505/STJ: juros Selic na repetição de indébito tributário fora da base do IR e da CSLL incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200900861943&dt_publicacao=08/05/2023",
+  "p": "stj.tema.505"
+ },
+ {
+  "data": "2026-10-26T10:03:32+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 137/STJ: prescrição quinquenal dos tributos por homologação após a LC 118/2005 incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201101256443&dt_publicacao=04/06/2012",
+  "p": "stj.tema.137"
+ },
+ {
+  "data": "2026-10-26T10:03:32+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 173/STJ: ilegitimidade do contribuinte de fato para repetição de indébito de IPI incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200602520769&dt_publicacao=26/04/2010",
+  "p": "stj.tema.173"
+ },
+ {
+  "data": "2026-10-26T10:03:32+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 142/STJ: termo inicial da prescrição na repetição de tributo lançado de ofício incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200900083134&dt_publicacao=21/05/2010",
+  "p": "stj.tema.142"
+ },
+ {
+  "data": "2026-10-26T10:03:32+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 119/STJ: incidência da taxa Selic na repetição de indébito de tributos estaduais incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200900307520&dt_publicacao=25/05/2009",
+  "p": "stj.tema.119"
  }
 ]
