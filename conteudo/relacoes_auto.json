@@ -40697,5 +40697,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T16:24:44+00:00"
+ },
+ {
+  "de": "cpp.133",
+  "para": "l12846.19",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 133 do CPP e o art. 19, inciso I, da Lei 12.846/13 tratam do perdimento de bens decretado judicialmente com a mesma ressalva ao direito do lesado ou de terceiro de boa-fé, mas em regimes distintos: o primeiro na execução da sentença penal condenatória e o segundo na ação de responsabilização civil e administrativa da pessoa jurídica, o que gera risco de se aplicar a disciplina errada de destinação dos bens.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T17:48:43+00:00"
+ },
+ {
+  "de": "cpc.881",
+  "para": "cpp.133",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 133 do CPP determina a venda dos bens cujo perdimento foi decretado em leilão público, sem disciplinar o procedimento do leilão, lacuna suprida pelo art. 881 do CPC, que exige leiloeiro público e disciplina a forma de alienação, aplicado subsidiariamente à execução penal nesse ponto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T17:48:43+00:00"
+ },
+ {
+  "de": "d9580.298",
+  "para": "lcp214.335",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 298 do RIR/2018 caracteriza omissão de receita para fins de imposto de renda a partir do levantamento quantitativo de matérias-primas, enquanto o art. 335 da LC 214/2025 caracteriza omissão de receita para fins de IBS e CBS a partir de outros indícios contábeis, institutos conexos que tratam da mesma presunção fiscal em regimes tributários distintos e com critérios próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T17:48:43+00:00"
+ },
+ {
+  "de": "d9580.299",
+  "para": "lcp214.335",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 299 do RIR/2018 caracteriza omissão de receita, para fins de imposto de renda, pelos valores creditados em conta de depósito ou investimento sem origem comprovada, enquanto o art. 335 da LC 214/2025 caracteriza omissão de receita para fins de IBS e CBS por outras hipóteses contábeis, institutos conexos que podem ser confundidos por tratarem do mesmo fenômeno em tributos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T17:48:43+00:00"
+ },
+ {
+  "de": "d9580.913",
+  "para": "lcp214.335",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 913 do RIR/2018 caracteriza omissão de receita ou rendimento, sujeita a lançamento de ofício, pelos valores creditados em conta de depósito ou investimento sem origem comprovada, enquanto o art. 335 da LC 214/2025 caracteriza omissão de receita para fins de IBS e CBS por hipóteses próprias, institutos conexos aplicáveis a tributos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T17:48:43+00:00"
+ },
+ {
+  "de": "d9580.768",
+  "para": "l9430.85",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 768 do RIR/2018 reproduz, com remissão expressa ao caput e ao parágrafo único do art. 85 da Lei 9.430/96, a mesma incidência do imposto de renda na fonte sobre rendimentos de companhias estrangeiras de navegação aérea e marítima e a mesma isenção condicionada à reciprocidade tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T17:48:43+00:00"
+ },
+ {
+  "de": "sc_ricms.74",
+  "para": "sc_icms_lei.48",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 74 do RICMS-SC regulamenta, em texto idêntico, a infração à obrigação tributária acessória prevista no art. 48 da Lei 10.297/96-SC, consistente na simples omissão de registro de documentos fiscais de entrada na escrita fiscal quando lançados na escrita comercial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T17:48:43+00:00"
+ },
+ {
+  "de": "ctn.113",
+  "para": "sc_icms_lei.48",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 113 do CTN define em termos gerais a obrigação tributária acessória como as prestações no interesse da arrecadação ou da fiscalização dos tributos, e o art. 48 da Lei 10.297/96-SC especializa essa categoria geral ao tipificar como infração concreta a omissão de registro de documentos fiscais de entrada na escrita fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T17:48:43+00:00"
+ },
+ {
+  "de": "d70235.63",
+  "para": "sc_icms_lei.96",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 63 do Decreto 70.235/72 trata da destinação de mercadorias ou bens apreendidos ou dados em garantia de crédito tributário segundo a legislação aplicável, enquanto o art. 96 da Lei 10.297/96-SC disciplina especificamente a retenção de mercadorias sem documentação fiscal idônea mediante garantia do crédito tributário do ICMS, institutos conexos em esferas federal e estadual que tratam da mesma garantia sobre bens retidos por razões fiscais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T17:48:43+00:00"
  }
 ]
