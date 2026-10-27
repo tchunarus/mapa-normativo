@@ -40787,5 +40787,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T17:48:43+00:00"
+ },
+ {
+  "de": "cpc.881",
+  "para": "lef.23",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos regulam a alienação de bens penhorados mediante leilão público, sendo a execução fiscal regida pela lei especial da LEF e o Código de Processo Civil aplicado de modo subsidiário nos pontos em que a LEF for omissa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "cpc.881",
+  "para": "lef.22",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 22 da LEF disciplina o edital que precede a arrematação na execução fiscal, e o Código de Processo Civil aplica-se de modo subsidiário quanto aos aspectos do leilão que essa lei especial não regula.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "lef.24",
+  "para": "cpc.881",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 24 da LEF especializa, para a execução fiscal, a adjudicação dos bens penhorados pela Fazenda Pública antes e depois do leilão, enquanto o art. 881 do Código de Processo Civil prevê o leilão apenas quando a adjudicação não se efetivar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "l8212.98",
+  "para": "cpc.881",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 98 da Lei 8.212/91 especializa, para a execução fiscal da dívida ativa do INSS, o leilão judicial de bens penhorados previsto no art. 881 do Código de Processo Civil, fixando lance mínimo próprio para o primeiro e o segundo leilão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.190-C",
+  "para": "cpc.881",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 190-C do Código Tributário Municipal de Florianópolis condiciona o parcelamento do débito fiscal ao prazo até dois dias úteis antes do leilão judicial, pressupondo o leilão regulado pelo art. 881 do Código de Processo Civil sem disciplinar o seu procedimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "sc_ricms.53",
+  "para": "sc_icms_lei.32",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 53 do RICMS-SC regulamenta, em termos praticamente idênticos, a apuração mensal do ICMS por confronto entre débitos e créditos escriturados já prevista no art. 32 da Lei 10.297/96-SC, lei estadual que o regulamento detalha.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "sc_ricms.53",
+  "para": "lcp87.26",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 53 do RICMS-SC especializa, para Santa Catarina, a faculdade de regime de apuração diverso do mensal que a Lei Complementar 87/96, norma geral nacional do ICMS, atribui aos Estados para disciplinar em legislação própria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "sc_ricms.74",
+  "para": "floripa_ctm.277",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 74 do RICMS-SC e o art. 277 do Código Tributário Municipal de Florianópolis repetem a mesma estrutura de presunção de infração por omissão de registro na escrita fiscal, mas um trata do ICMS estadual e o outro do ISS municipal, o que gera risco real de confusão entre os regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "sc_ricms.74",
+  "para": "ctn.113",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 74 do RICMS-SC especializa, para o ICMS catarinense, a conversão da obrigação acessória em obrigação principal quanto à penalidade pecuniária prevista no art. 113 do CTN, ao definir uma hipótese concreta de infração a obrigação acessória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.197",
+  "para": "ctn.3",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 197 do Código Tributário Municipal de Florianópolis reproduz, para fins do sistema tributário municipal, o conceito de tributo do art. 3 do CTN, mas na redação vigente omite o termo compulsória presente na norma geral nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.198",
+  "para": "ctn.4",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 198 do Código Tributário Municipal de Florianópolis reproduz, para o âmbito municipal, a regra do art. 4 do CTN de que a natureza jurídica do tributo é determinada pelo fato gerador, sendo irrelevantes a denominação e a destinação da arrecadação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "sc_icms_lei.3",
+  "para": "ctn.4",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 3 da Lei 10.297/96-SC aplica, de modo mais restrito, a lógica do art. 4 do CTN ao afirmar que a caracterização do fato gerador do ICMS independe da natureza jurídica da operação, tratando da ocorrência do fato gerador e não da qualificação do tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.200",
+  "para": "ctn.7",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 200 do Código Tributário Municipal de Florianópolis reproduz, para o Município, a regra de indelegabilidade da competência tributária do art. 7 do CTN, ressalvada a atribuição das funções de arrecadar ou fiscalizar tributos a outra pessoa jurídica de direito público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "l9784.14",
+  "para": "ctn.7",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "A Lei 9.784/99 aplica-se de modo subsidiário aos requisitos formais do ato de delegação, como publicação e revogabilidade, que o art. 7 do CTN não disciplina ao tratar da atribuição de funções de arrecadação ou fiscalização tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "ctn.7",
+  "para": "l9784.13",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 7 do CTN especializa, para a competência tributária, o regime geral de vedações à delegação do art. 13 da Lei 9.784/99, ao admitir que a Fazenda Pública atribua a outra pessoa jurídica de direito público as funções de arrecadar ou fiscalizar tributos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T18:49:04+00:00"
  }
 ]
