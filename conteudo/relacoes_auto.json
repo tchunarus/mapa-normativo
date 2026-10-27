@@ -40607,5 +40607,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T15:03:31+00:00"
+ },
+ {
+  "de": "d9580.187",
+  "para": "l9430.85",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 187 do RIR/2018 isenta do imposto sobre a renda as companhias estrangeiras de navegação marítima e aérea quando há reciprocidade do país de origem, com base no Decreto-Lei nº 5.844/1943, enquanto o art. 85 da Lei 9.430/96 sujeita essas mesmas companhias à retenção de quinze por cento na fonte, dispensada apenas quando o país de domicílio não tributar as companhias brasileiras equivalentes, no parágrafo único; a sobreposição de dois regimes de reciprocidade sobre o mesmo fato gerador cria risco real de se aplicar a isenção ampla onde já incide a retenção da lei mais recente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T16:24:44+00:00"
+ },
+ {
+  "de": "d9580.294",
+  "para": "sc_icms_lei.49",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 294 do RIR/2018 autoriza arbitrar omissão de receita quando não comprovadas a efetividade e a origem de recursos de caixa fornecidos por administradores, sócios ou acionista controlador, nos mesmos termos da alínea a do inciso I do art. 49 da Lei 10.297/96-SC, que presume operação tributável não registrada diante do mesmo indício contábil; a redação quase idêntica, aplicada a tributos diferentes (imposto de renda e ICMS), gera risco de se invocar o regime equivocado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T16:24:44+00:00"
+ },
+ {
+  "de": "d9580.294",
+  "para": "sc_ricms.75",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 294 do RIR/2018 e a alínea a do inciso I do art. 75 do RICMS-SC descrevem a mesma presunção de omissão por incrementos de caixa fornecidos por administrador, sócio, titular ou acionista controlador sem comprovação de origem, um para fins de imposto de renda e outro para fins de ICMS, o que pode levar a se invocar o dispositivo tributário errado diante do mesmo indício contábil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T16:24:44+00:00"
+ },
+ {
+  "de": "l12846.24",
+  "para": "cpp.133",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 24 da Lei 12.846/13 destina a multa e o perdimento de bens aplicados com fundamento nessa lei, de natureza administrativa, preferencialmente aos órgãos ou entidades públicas lesadas, enquanto o art. 133 do CPP trata do destino do produto da venda em leilão de bens cujo perdimento penal foi decretado após sentença condenatória transitada em julgado, recolhido aos cofres públicos ou ao lesado; a proximidade dos dois institutos de perdimento pode levar a se aplicar o destino equivocado aos valores apurados em cada via.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T16:24:44+00:00"
+ },
+ {
+  "de": "l12846.24",
+  "para": "cp.43",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 43 do Código Penal lista a perda de bens e valores como pena restritiva de direitos aplicada ao condenado, enquanto o art. 24 da Lei 12.846/13 trata do perdimento de bens aplicado administrativamente com fundamento na própria lei anticorrupção, sem natureza de pena criminal, de modo que a semelhança terminológica entre perda de bens e perdimento pode gerar confusão sobre o regime aplicável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T16:24:44+00:00"
+ },
+ {
+  "de": "d9580.298",
+  "para": "l9430.41",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 298 do RIR/2018 reproduz, com remissão expressa ao caput do art. 41 da Lei 9.430/96, o mesmo método de arbitramento da omissão de receita por levantamento de quantidades de matérias-primas e produtos intermediários utilizados no processo produtivo, regulamentando no regulamento do imposto de renda a regra fixada originalmente na lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T16:24:44+00:00"
+ },
+ {
+  "de": "d9580.913",
+  "para": "l9430.42",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 913 do RIR/2018 regulamenta, com remissão expressa ao caput do art. 42 da Lei 9.430/96, a mesma presunção de omissão de receita ou rendimento pelos valores creditados em conta de depósito ou investimento cuja origem o titular, pessoa física ou jurídica, não comprove quando intimado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T16:24:44+00:00"
+ },
+ {
+  "de": "d9580.299",
+  "para": "l9430.42",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 299 do RIR/2018 regulamenta, com remissão expressa ao caput e ao parágrafo primeiro do art. 42 da Lei 9.430/96, a mesma presunção de omissão de receita por depósitos bancários não comprovados, restringindo-a, porém, ao titular pessoa jurídica, enquanto o dispositivo legal analisado abrange também a pessoa física.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T16:24:44+00:00"
+ },
+ {
+  "de": "sc_icms_lei.35-A",
+  "para": "lcp87.26",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 26 da LC 87/96 autoriza a lei estadual a substituir o regime normal de apuração do ICMS por recolhimento calculado por estimativa, em função do porte ou da atividade do estabelecimento, e o art. 35-A da Lei 10.297/96-SC é o exercício dessa autorização pelo Estado de Santa Catarina, disciplinando a estimativa com base no imposto apurado no mês anterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T16:24:44+00:00"
  }
 ]
