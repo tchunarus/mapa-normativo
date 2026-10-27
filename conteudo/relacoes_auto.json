@@ -39957,5 +39957,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T06:45:43+00:00"
+ },
+ {
+  "de": "lcp87.21",
+  "para": "sc_icms_lei.30",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 21 da LC 87/96 fixa, em âmbito nacional, as hipóteses de estorno do crédito do ICMS nos incisos I a IV, e o art. 30 da Lei 10.297/96-SC reproduz as mesmas hipóteses para o imposto estadual catarinense, tratando os dois dispositivos do mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T09:49:19+00:00"
+ },
+ {
+  "de": "lcp87.21",
+  "para": "sc_ricms.36",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 36 do RICMS-SC reproduz, em redação praticamente idêntica, as hipóteses de estorno de crédito do art. 21 da LC 87/96, disciplinando por decreto, no âmbito catarinense, o que a norma geral complementar federal já estabelece.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T09:49:19+00:00"
+ },
+ {
+  "de": "lcp87.21",
+  "para": "sc_ricms.43",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 43 do RICMS-SC reproduz a regra do § 3º do art. 21 da LC 87/96, segundo a qual o estorno não impede o aproveitamento do crédito em operações posteriores com a mesma mercadoria, detalhando essa regra para as operações de transferência de propriedade do estabelecimento e de produtos agropecuários, conforme seus incisos I e II.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T09:49:19+00:00"
+ },
+ {
+  "de": "sc_icms_lei.26",
+  "para": "floripa_ctm.81",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 26 da Lei 10.297/96-SC permite ao contribuinte creditar-se diretamente do ICMS pago por erro de fato na escrituração, independentemente de prévia autorização do Fisco, regime distinto da restituição tributária do art. 81 do CTM de Florianópolis, que pressupõe pedido e decisão da administração sobre os mesmos casos de erro na apuração do tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T09:49:19+00:00"
+ },
+ {
+  "de": "lcp87.11",
+  "para": "sc_ricms.5",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 11 da LC 87/96 define estabelecimento, para efeitos do ICMS, nos mesmos termos do art. 5º do RICMS-SC (local, privado ou público, onde a pessoa exerça suas atividades, autonomia de cada estabelecimento do mesmo titular e responsabilidade de todos pelo crédito tributário), tratando ambos do mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T09:49:19+00:00"
+ },
+ {
+  "de": "sc_ricms.5",
+  "para": "cc.73",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 1º do art. 5º do RICMS-SC determina que, na impossibilidade de determinação do estabelecimento, considera-se como tal o local em que foi efetuada a operação, regra subsidiária de localização que apenas toca, sem se confundir, com a do art. 73 do Código Civil, que fixa o domicílio da pessoa natural sem residência habitual no lugar onde for encontrada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T09:49:19+00:00"
+ },
+ {
+  "de": "lcp87.26",
+  "para": "sc_ricms.57",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 26 da LC 87/96 autoriza a lei estadual a instituir o pagamento do ICMS por estimativa, em função do porte ou da atividade do estabelecimento, assegurado o direito de impugná-la e instaurar processo contraditório, e o art. 57 do RICMS-SC disciplina esse mesmo regime de estimativa semestral em Santa Catarina, com idêntica garantia de impugnação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T09:49:19+00:00"
+ },
+ {
+  "de": "sc_icms_lei.35",
+  "para": "sc_ricms.57",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 57 do RICMS-SC regulamenta, em redação praticamente idêntica, o regime de estimativa semestral do imposto previsto no art. 35 da Lei 10.297/96-SC, mantendo ao sujeito passivo o mesmo direito de impugná-la e instaurar processo contraditório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T09:49:19+00:00"
+ },
+ {
+  "de": "lcp87.24",
+  "para": "sc_ricms.58",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 24 da LC 87/96 fixa a regra nacional de vencimento da obrigação do ICMS no último dia do período de apuração e sua liquidação por compensação ou em dinheiro, com os mesmos critérios dos incisos I a III, e o art. 58 do RICMS-SC reproduz essa mesma regra para o imposto estadual catarinense.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T09:49:19+00:00"
+ },
+ {
+  "de": "ctn.49",
+  "para": "sc_ricms.58",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 49 do CTN fixa o princípio da não cumulatividade do imposto, determinando que o saldo credor se transfira para os períodos seguintes, e o art. 58 do RICMS-SC operacionaliza esse mesmo princípio para o ICMS catarinense, disciplinando o vencimento e a liquidação mensal da obrigação por compensação ou em dinheiro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T09:49:19+00:00"
+ },
+ {
+  "de": "sc_ricms.6",
+  "para": "cf.155",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "Os incisos II e III do art. 6º do RICMS-SC reproduzem, em sede regulamentar, a não incidência do ICMS sobre operações de exportação e sobre operações interestaduais com petróleo, combustíveis e energia elétrica, asseguradas pelas alíneas a e b do inciso X do § 2º do art. 155 da Constituição Federal, tratando do mesmo instituto da imunidade tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T09:49:19+00:00"
+ },
+ {
+  "de": "sc_ricms.63",
+  "para": "floripa_ctm.78",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 63 do RICMS-SC disciplina o parcelamento do crédito tributário de ICMS em até 60 ou 84 prestações, conforme a hipótese, e o art. 78 do CTM de Florianópolis disciplina o parcelamento de créditos tributários municipais em até 24 prestações, regimes distintos que tratam do mesmo instituto em entes federativos diferentes e podem ser confundidos entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T09:49:19+00:00"
  }
 ]
