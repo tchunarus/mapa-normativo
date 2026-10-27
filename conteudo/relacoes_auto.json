@@ -39837,5 +39837,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T00:45:47+00:00"
+ },
+ {
+  "de": "sc_icms_lei.91",
+  "para": "lcp214.341-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 341-A da LC 214/2025 conceitua a infração tributária relativa ao IBS e à CBS com redação quase idêntica à do art. 91 da Lei 10.297/96-SC, de modo que há risco de se confundir, durante a transição da reforma tributária, o regime de infrações do novo tributo sobre o consumo com o do ICMS ainda vigente em Santa Catarina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T01:45:48+00:00"
+ },
+ {
+  "de": "sc_icms_lei.92",
+  "para": "floripa_ctm.430",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 430 do CTM de Florianópolis também afasta a relevância da intenção do agente na caracterização da infração tributária municipal, em termos semelhantes ao art. 92 da Lei 10.297/96-SC, o que pode levar à confusão entre o regime de responsabilidade por infrações do ISS e o do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T01:45:48+00:00"
+ },
+ {
+  "de": "sc_icms_lei.93",
+  "para": "floripa_ctm.444",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 93 da Lei 10.297/96-SC define fraude, enquanto o art. 444 do CTM de Florianópolis define sonegação como instituto tributário distinto, mas com elementos muito semelhantes, pois ambos tratam de ação ou omissão dolosa que afeta a ocorrência ou o conhecimento do fato gerador, o que gera risco real de se confundirem as duas figuras na qualificação da conduta do contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T01:45:48+00:00"
+ },
+ {
+  "de": "sc_icms_lei.95",
+  "para": "cc.1368-B",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 95 da Lei 10.297/96-SC atribui a condição de transportador, para fins de ICMS, ao devedor fiduciante do veículo alienado fiduciariamente, pressupondo o regime de alienação fiduciária em garantia de bem móvel disciplinado pelo art. 1.368-B do Código Civil, que confere ao fiduciante o direito real de aquisição sobre o bem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T01:45:48+00:00"
+ },
+ {
+  "de": "sc_ricms.28",
+  "para": "cf.155",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 28 do RICMS-SC reproduz, para fins de regulamentação administrativa do imposto em Santa Catarina, o princípio da não cumulatividade fixado pelo art. 155, § 2º, I, da Constituição Federal, segundo o qual o ICMS será não cumulativo mediante compensação do que for devido em cada operação com o montante cobrado nas anteriores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T01:45:48+00:00"
+ },
+ {
+  "de": "sc_ricms.28",
+  "para": "lcp87.19",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 28 do RICMS-SC e o art. 19 da LC 87/96 tratam do mesmo instituto da não cumulatividade do ICMS dentro do mesmo regime nacional do imposto, com a diferença de que a lei complementar fala em compensação com o montante cobrado pelo mesmo ou por outro Estado, sem mencionar expressamente o Distrito Federal nessa parte do texto, ao contrário do regulamento estadual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T01:45:48+00:00"
+ },
+ {
+  "de": "sc_ricms.3",
+  "para": "lcp87.12",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 3º do RICMS-SC reproduz, para fins de regulamentação do imposto em Santa Catarina, as mesmas hipóteses de ocorrência do fato gerador do ICMS fixadas pelo art. 12 da LC 87/96, com a diferença de que, no inciso III, a lei complementar refere-se a depósito situado no Estado do transmitente, enquanto o texto estadual fala apenas em depósito situado neste Estado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T01:45:48+00:00"
  }
 ]
