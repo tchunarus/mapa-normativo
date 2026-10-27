@@ -40077,5 +40077,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T09:49:19+00:00"
+ },
+ {
+  "de": "lcp87.26",
+  "para": "sc_icms_lei.35",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 26 da LC 87/96 autoriza a lei estadual a instituir regime de apuração do ICMS por estimativa, em função do porte ou da atividade do estabelecimento, assegurados a impugnação e o contraditório; o art. 35 da Lei 10.297/96-SC exerce essa autorização ao fixar a duração semestral do regime e o momento do confronto com a escrituração regular do contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T11:01:17+00:00"
+ },
+ {
+  "de": "lcp87.26",
+  "para": "sc_icms_lei.33",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "Os incisos I e II do art. 26 da LC 87/96 autorizam a lei estadual a admitir o cotejo entre créditos e débitos por período ou por operação, em substituição ao regime geral de apuração; o art. 33 da Lei 10.297/96-SC exerce essa autorização, detalhando as hipóteses em que cada modalidade se aplica, como a substituição tributária e a importação do exterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T11:01:17+00:00"
+ },
+ {
+  "de": "sc_icms_lei.30",
+  "para": "sc_ricms.43",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 30 da Lei 10.297/96-SC autoriza a utilização, em operações posteriores, dos créditos estornados ou não creditados, nas hipóteses previstas em regulamento; o art. 43 do RICMS-SC regulamenta essa autorização, especificando as duas hipóteses em que isso ocorre, a transferência de propriedade do estabelecimento e as operações com produtos agropecuários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T11:01:17+00:00"
+ },
+ {
+  "de": "sc_icms_lei.35",
+  "para": "floripa_ctm.261",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 35 da Lei 10.297/96-SC prevê o regime de apuração do ICMS por estimativa de duração semestral, e o art. 261 do CTM de Florianópolis prevê regime análogo de apuração por estimativa para o imposto municipal, com hipóteses e fundamento próprios, o que pode gerar confusão entre os dois institutos por tratarem de tributos de entes federativos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T11:01:17+00:00"
+ },
+ {
+  "de": "sc_ricms.36",
+  "para": "sc_icms_lei.30",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 30 da Lei 10.297/96-SC institui o dever de estorno do crédito do ICMS nas mesmas quatro hipóteses elencadas pelo art. 36 do RICMS-SC, que regulamenta esse dever acrescentando hipóteses adicionais de estorno proporcional ao faturamento para atividades mistas sujeitas ao ICMS e ao imposto sobre serviços e para o transporte iniciado em outro Estado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T11:01:17+00:00"
+ },
+ {
+  "de": "sc_ricms.7",
+  "para": "lcp87.4",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 7º do RICMS-SC regulamenta, no âmbito estadual, a mesma definição de contribuinte do ICMS do art. 4º da LC 87/96, repetindo as hipóteses de sujeição passiva por importação, aquisição em licitação e aquisição interestadual de combustíveis e energia elétrica, mas o § 2º do RICMS-SC trata do diferencial de alíquota nas operações que destinam mercadorias a consumidor final neste Estado, enquanto o § 2º da LC 87/96 trata do diferencial nas operações que destinam mercadorias a consumidor final em outro Estado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T11:01:17+00:00"
+ },
+ {
+  "de": "sc_ricms.70",
+  "para": "l9430.35",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 35 da Lei 9.430/96 exige termo escrito de retenção quando livros e documentos são examinados fora do estabelecimento na fiscalização federal, e o art. 70 do RICMS-SC exige termo de recebimento em duas vias quando livros fiscais são retirados do estabelecimento na fiscalização estadual do ICMS, podendo o mecanismo semelhante de documentação gerar confusão entre os regimes de retenção federal e estadual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T11:01:17+00:00"
+ },
+ {
+  "de": "sc_ricms.71",
+  "para": "ctn.196",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 196 do CTN impõe à autoridade fiscal o dever geral de lavrar termo para documentar qualquer diligência de fiscalização; o art. 71 do RICMS-SC especializa esse dever para a apreensão de livros e documentos que constituam prova de infração, condicionando a devolução da coisa apreendida à apresentação de cópia autenticada e à ausência de prejuízo para a Fazenda Estadual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T11:01:17+00:00"
  }
 ]
