@@ -40327,5 +40327,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "cf.59",
+  "para": "ctn.100",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 59, II, da Constituição Federal insere a lei complementar como espécie do processo legislativo, aprovada por maioria absoluta nos termos do art. 69, enquanto o art. 100 do Código Tributário Nacional trata das normas complementares, atos infralegais como portarias, decisões administrativas e práticas reiteradas da administração tributária. A proximidade terminológica entre lei complementar e normas complementares gera risco real de se confundir institutos de natureza e hierarquia distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:59:33+00:00"
+ },
+ {
+  "de": "cp.334",
+  "para": "cf.178",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 334, §1o, II, do Código Penal pune quem pratica navegação de cabotagem fora dos casos permitidos em lei, remetendo à disciplina legal dessa permissão. O art. 178, parágrafo único, da Constituição Federal é a norma que atribui à lei a definição das condições em que o transporte de mercadorias na cabotagem e a navegação interior podem ser feitos por embarcações estrangeiras, base constitucional dos casos de permissão a que o tipo penal se refere.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:59:33+00:00"
+ },
+ {
+  "de": "floripa_ctm.199",
+  "para": "ctn.6",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 199 do Código Tributário Municipal de Florianópolis reproduz, para o âmbito municipal, a mesma regra do art. 6o do Código Tributário Nacional sobre a atribuição constitucional de competência tributária e a competência legislativa plena, substituindo a referência às Constituições dos Estados e às Leis Orgânicas do Distrito Federal e dos Municípios pela Constituição Estadual e pela Lei Orgânica do Município. Trata-se de regra especial que adapta o mesmo instituto à esfera municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:59:33+00:00"
+ },
+ {
+  "de": "floripa_ctm.277",
+  "para": "sc_icms_lei.49",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 277 do Código Tributário Municipal de Florianópolis reproduz, para o ISS, a mesma técnica de presunção de prestação de serviço não registrada a partir de indícios contábeis, como suprimento de caixa sem comprovação da origem e despesas superiores ao lucro bruto, prevista no art. 49 da Lei 10.297/96-SC para o ICMS. A redação quase idêntica entre os dispositivos, aplicáveis a tributos de entes federativos distintos, gera risco de se invocar o dispositivo equivocado conforme o imposto em discussão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:59:33+00:00"
+ },
+ {
+  "de": "floripa_ctm.277",
+  "para": "sc_icms_lei.48",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O caput do art. 277 do Código Tributário Municipal de Florianópolis considera infração à obrigação acessória a simples omissão de registro de prestações de serviços tributáveis na escrita fiscal, desde que lançadas na comercial, reproduzindo para o ISS a mesma regra que o art. 48 da Lei 10.297/96-SC estabelece para o ICMS quanto à omissão de registro de documentos fiscais de entrada. A coincidência de redação entre os dois dispositivos, voltados a tributos distintos, gera risco real de confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:59:33+00:00"
+ },
+ {
+  "de": "l9430.34",
+  "para": "d9580.958",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 958 do Regulamento do Imposto de Renda de 2018 reproduz literalmente a regra do art. 34 da Lei 9.430/96 sobre a sujeição a exame dos documentos do sujeito passivo mantidos em arquivos magnéticos ou assemelhados, encontrados no local da verificação e relacionados direta ou indiretamente com sua atividade, citando expressamente esse dispositivo legal como fundamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:59:33+00:00"
+ },
+ {
+  "de": "l9430.34",
+  "para": "ctn.195",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 195 do Código Tributário Nacional estabelece, como regra geral, que nenhuma disposição legal exclui ou limita o direito do Fisco de examinar mercadorias, livros, arquivos, documentos, papéis e efeitos comerciais ou fiscais dos comerciantes, industriais ou produtores. O art. 34 da Lei 9.430/96 complementa essa regra geral ao estender expressamente o direito de exame aos documentos mantidos em arquivos magnéticos ou assemelhados, hipótese não prevista literalmente no Código Tributário Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:59:33+00:00"
+ },
+ {
+  "de": "l9430.40",
+  "para": "d9580.293",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 293 do Regulamento do Imposto de Renda de 2018 consolida, entre as hipóteses de omissão no registro de receita, a regra do art. 40 da Lei 9.430/96 sobre a falta de escrituração de pagamentos efetuados pela pessoa jurídica e a manutenção, no passivo, de obrigações cuja exigibilidade não seja comprovada, citando esse dispositivo expressamente como fundamento legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:59:33+00:00"
+ },
+ {
+  "de": "l9430.40",
+  "para": "floripa_ctm.277",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 40 da Lei 9.430/96 caracteriza como omissão de receita, para fins de imposto de renda da pessoa jurídica, a manutenção, no passivo, de obrigações cuja exigibilidade não seja comprovada. O art. 277 do Código Tributário Municipal de Florianópolis prevê, com redação quase idêntica, a mesma hipótese como presunção de prestação de serviço não registrada para fins de ISS, o que gera risco de se invocar o dispositivo equivocado conforme o tributo e o ente federativo em discussão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:59:33+00:00"
  }
 ]
