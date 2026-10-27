@@ -41327,5 +41327,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "ctn.12",
+  "para": "floripa_ctm.204",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 204 do Código Tributário Municipal de Florianópolis reproduz, para as autarquias da União e dos Estados, a mesma extensão da imunidade tributária recíproca ao patrimônio, à renda e aos serviços vinculados às finalidades essenciais que o art. 12 do CTN estabelece em caráter geral, constituindo regra especial aplicável no âmbito da tributação municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T22:58:31+00:00"
+ },
+ {
+  "de": "ctn.14",
+  "para": "floripa_ctm.206",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 206 do Código Tributário Municipal de Florianópolis repete, para as entidades imunes na órbita municipal, os mesmos requisitos de não distribuição de patrimônio ou renda, aplicação integral dos recursos no país e escrituração contábil que o art. 14 do CTN exige das entidades referidas na alínea c do inciso IV do art. 9º, configurando regra especial de alcance municipal para o mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T22:58:31+00:00"
+ },
+ {
+  "de": "d9580.180",
+  "para": "ctn.14",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 180 do RIR de 2018 regulamenta, para fins de imposto de renda, a imunidade dos partidos políticos e das entidades sindicais dos trabalhadores, reproduzindo e citando expressamente os requisitos do art. 14 do CTN quanto à não distribuição de patrimônio, à aplicação integral dos recursos no país e à escrituração contábil regular.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T22:58:31+00:00"
+ },
+ {
+  "de": "d9580.179",
+  "para": "ctn.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 179 do RIR de 2018 regulamenta, para fins de imposto de renda, a vedação de tributar o patrimônio, a renda e os serviços dos templos de qualquer culto, citando expressamente a alínea b do inciso IV do art. 9º do CTN como fundamento legal da imunidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T22:58:31+00:00"
+ },
+ {
+  "de": "lcp214.9",
+  "para": "ctn.14",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 9º da LC 214 de 2025 remete expressamente ao art. 14 do CTN, exigindo que as entidades imunes ao IBS e à CBS por força do inciso III do caput cumpram cumulativamente os mesmos requisitos de não distribuição de patrimônio e de aplicação integral dos recursos no país já exigidos para a imunidade de impostos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T22:58:31+00:00"
+ },
+ {
+  "de": "lcp214.9",
+  "para": "ctn.12",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 9º da LC 214 de 2025 estende a imunidade ao IBS e à CBS das autarquias e fundações públicas apenas quanto às operações vinculadas às suas finalidades essenciais, especializando para o novo sistema tributário sobre bens e serviços a mesma extensão que o art. 12 do CTN já prevê para os impostos sobre patrimônio, renda e serviços.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T22:58:31+00:00"
+ },
+ {
+  "de": "l9099.52",
+  "para": "cpc.513",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 52 da Lei 9.099 de 1995 determina expressamente a aplicação, no que couber, do Código de Processo Civil à execução perante o Juizado Especial, de modo que o art. 513 do CPC, norma geral do cumprimento de sentença, incide subsidiariamente naquilo que a lei especial não regular de forma diversa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T22:58:31+00:00"
+ },
+ {
+  "de": "l9099.52",
+  "para": "cpc.525",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso IX do art. 52 da Lei 9.099 de 1995 mantém, sob o nome de embargos, hipóteses de defesa do executado muito semelhantes às da impugnação do art. 525 do CPC, como falta ou nulidade da citação, excesso de execução e erro de cálculo, o que gera risco de confusão entre os dois institutos, já que o procedimento e a nomenclatura não coincidem integralmente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T22:58:31+00:00"
  }
 ]
