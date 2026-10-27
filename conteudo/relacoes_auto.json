@@ -40937,5 +40937,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T18:49:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.190-C",
+  "para": "ctn.155-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 155-A do CTN remete à lei específica a disciplina das condições do parcelamento do crédito tributário, e o art. 190-C do Código Tributário Municipal de Florianópolis exerce essa competência ao condicionar o parcelamento, na execução fiscal com hasta pública já designada, à quitação mínima de cinquenta por cento à vista e ao prazo de dois dias úteis antes do leilão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T19:49:22+00:00"
+ },
+ {
+  "de": "floripa_ctm.190-C",
+  "para": "l8212.98",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos tratam de parcelamento vinculado a hasta pública em execução fiscal, mas o art. 190-C do Código Tributário Municipal de Florianópolis disciplina o parcelamento do débito exequendo antes do leilão, ao passo que o § 1º do art. 98 da Lei 8.212/91 disciplina o parcelamento do valor da arrematação pelo próprio arrematante, já depois de realizado o leilão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T19:49:22+00:00"
+ },
+ {
+  "de": "floripa_ctm.198",
+  "para": "sc_icms_lei.3",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 198 do Código Tributário Municipal de Florianópolis dispõe que a natureza jurídica do tributo é determinada pelo fato gerador, e o art. 3º da Lei 10.297/96-SC trata do sentido inverso, a irrelevância da natureza jurídica da operação para a caracterização do fato gerador do ICMS, o que gera risco de confusão entre os dois enunciados pelo uso dos mesmos termos em sentidos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T19:49:22+00:00"
+ },
+ {
+  "de": "l10522.34",
+  "para": "l8212.98",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 34 da Lei 10.522/2002 é o dispositivo que acrescentou o § 11 ao art. 98 da Lei 8.212/91, estendendo às execuções fiscais da Dívida Ativa da União o regime especial de leilão com leiloeiro oficial e de parcelamento do valor da arrematação ali previsto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T19:49:22+00:00"
+ },
+ {
+  "de": "l8212.98",
+  "para": "lef.23",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 98 da Lei 8.212/91, estendido pelo § 11 às execuções fiscais da Dívida Ativa da União, disciplina de modo especial o leilão dos bens penhorados, com leiloeiro oficial indicado pelo credor e regras próprias de lance e de repetição da hasta, regime distinto do procedimento geral de alienação em leilão público do art. 23 da Lei de Execução Fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T19:49:22+00:00"
+ },
+ {
+  "de": "l9784.13",
+  "para": "cf.68",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 13 da Lei 9.784/99 veda a delegação de competência administrativa quanto à edição de atos normativos, à decisão de recursos administrativos e às matérias de competência exclusiva do órgão, e o § 1º do art. 68 da Constituição Federal trata da delegação legislativa ao Presidente da República e das matérias insuscetíveis de lei delegada, institutos distintos que o uso comum do termo delegação pode levar a confundir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T19:49:22+00:00"
+ },
+ {
+  "de": "l9784.14",
+  "para": "floripa_ctm.200",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 14 da Lei 9.784/99 fixa os requisitos formais do ato de delegação no processo administrativo federal, como a publicação no meio oficial e a especificação das matérias, dos poderes e do prazo da delegação, exigências que o art. 200 do Código Tributário Municipal de Florianópolis não repete ao tratar da atribuição da competência tributária municipal, de modo que a norma geral aplica-se subsidiariamente para suprir essa lacuna.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T19:49:22+00:00"
+ },
+ {
+  "de": "cpc.884",
+  "para": "lef.23",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 23 da Lei de Execução Fiscal disciplina de modo incompleto o leilão público dos bens penhorados, sem especificar as atribuições do leiloeiro quanto à publicação do edital, à realização do leilão, ao depósito do produto e à prestação de contas, de modo que o art. 884 do CPC aplica-se subsidiariamente para suprir essa omissão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T19:49:22+00:00"
  }
 ]
