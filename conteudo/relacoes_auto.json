@@ -41017,5 +41017,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T19:49:22+00:00"
+ },
+ {
+  "de": "cpc.884",
+  "para": "l8212.98",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 98 da Lei 8.212/91 especializa, para as execuções fiscais da dívida ativa do INSS, o regime geral do leiloeiro público do art. 884 do CPC, ao determinar que o leiloeiro oficial seja indicado pelo credor e ao fixar valores mínimos de lance no primeiro e no segundo leilões.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "cpc.884",
+  "para": "l14133.31",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 31 da Lei 14.133/21 também emprega os termos leiloeiro oficial e leilão, mas no contexto da alienação administrativa de bens públicos em procedimento licitatório, instituto distinto do leilão judicial de bens penhorados regulado pelo art. 884 do CPC; a coincidência de vocabulário pode gerar confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "cpc.884",
+  "para": "l9099.52",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 52 da Lei 9.099/95 determina que, no que couber, se aplique à execução no Juizado Especial o disposto no Código de Processo Civil; como a Lei 9.099/95 não disciplina as atribuições do leiloeiro público, aplica-se subsidiariamente o art. 884 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "l10522.34",
+  "para": "lef.23",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 11 acrescentado pelo art. 34 da Lei 10.522/02 ao art. 98 da Lei 8.212/91 estende a toda execução fiscal da Dívida Ativa da União a regra de leiloeiro oficial indicado pelo credor, especializando, nesse ponto, a disciplina genérica do art. 23 da LEF, que não define quem indica o leiloeiro, apenas que o leilão ocorre no local designado pelo juiz.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "sc_icms_lei.3",
+  "para": "sc_ricms.2",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 2º do RICMS-SC regulamenta, repetindo o mesmo texto, o art. 3º da Lei 10.297/96-SC, consolidando no regulamento a regra da lei instituidora do ICMS catarinense segundo a qual a natureza jurídica da operação é irrelevante para a caracterização do fato gerador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "sc_icms_lei.3",
+  "para": "ctn.118",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 3º da Lei 10.297/96-SC aplica à caracterização do fato gerador do ICMS o mesmo princípio de interpretação objetiva consagrado no art. 118, I, do CTN, segundo o qual a definição legal do fato gerador independe da validade jurídica dos atos praticados e da natureza do seu objeto; a lei estadual apenas reafirma, para o ICMS, a regra geral do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "sc_icms_lei.32",
+  "para": "sc_ricms.54",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 32 da Lei 10.297/96-SC remete ao regulamento a disciplina da apuração conjunta de todos os estabelecimentos do sujeito passivo no Estado; o art. 54 do RICMS-SC é essa regulamentação, fixando os requisitos de comunicação eletrônica e o prazo mínimo de permanência no regime centralizado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "sc_icms_lei.32",
+  "para": "lcp87.24",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 24 da LC 87/96 atribui à legislação tributária estadual a disciplina do período de apuração do ICMS; o art. 32 da Lei 10.297/96-SC exerce essa competência ao fixar a apuração mensal por confronto entre débitos e créditos em cada estabelecimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "sc_icms_lei.32",
+  "para": "lcp87.25",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 25 da LC 87/96 estabelece que os débitos e créditos sejam apurados em cada estabelecimento, com compensação dos saldos entre os estabelecimentos do mesmo sujeito passivo no Estado; o art. 32 da Lei 10.297/96-SC, no caput e no § 1º, exerce essa mesma competência para o ICMS catarinense.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "ctn.8",
+  "para": "floripa_ctm.201",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 201 do CTM de Florianópolis reproduz, para a competência tributária municipal, a mesma regra do art. 8º do CTN, segundo a qual o não exercício da competência tributária não a transfere a pessoa jurídica de direito público diversa daquela a que a Constituição a atribuiu.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "ctn.9",
+  "para": "lcp214.496",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 496 da LC 214/2025 altera o art. 9º do CTN para estender a vedação de cobrança de impostos também à contribuição de que trata o inciso V do art. 195 da CF, instituída pela reforma tributária, texto já incorporado à redação vigente do inciso IV.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "ctn.9",
+  "para": "cf.150",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 9º do CTN regulamenta, em lei complementar nacional, o núcleo das vedações e imunidades do art. 150 da CF (imunidade recíproca, templos, partidos políticos, entidades de educação e assistência social, papel de imprensa), disciplinando em maior detalhe as limitações já estabelecidas na Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "ctn.9",
+  "para": "floripa_ctm.202",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 202 do CTM de Florianópolis reproduz, para o âmbito da competência tributária municipal, a mesma estrutura de vedações do art. 9º do CTN (legalidade, anterioridade, limitação ao tráfego, imunidades), adaptada ao Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "ctn.9",
+  "para": "d9580.181",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 181 do RIR/2018 regulamenta, para fins de imposto de renda, a imunidade das instituições de educação e de assistência social sem fins lucrativos prevista no art. 9º, IV, c, do CTN, citando esse dispositivo expressamente como fundamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "ctn.10",
+  "para": "cf.151",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 10 do CTN veda à União instituir tributo não uniforme ou que estabeleça distinção ou preferência em favor de Estado ou Município, sem prever exceção; o art. 151, I, da CF repete essa vedação mas admite expressamente a concessão de incentivos fiscais destinados ao equilíbrio do desenvolvimento socioeconômico regional, o que gera conflito aparente quanto ao alcance da vedação, resolvido pela prevalência da norma constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:33+00:00"
+ },
+ {
+  "de": "ctn.9",
+  "para": "d9580.182",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 182 do RIR/2018 regulamenta, para fins de imposto de renda, a regra do § 2º do art. 9º do CTN, citando-o expressamente como fundamento: a imunidade só alcança os resultados relacionados às finalidades essenciais das entidades, e não se estende a atividades estranhas a esse objetivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T20:59:54+00:00"
  }
 ]
