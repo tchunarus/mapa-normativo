@@ -40577,5 +40577,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "cf.178",
+  "para": "d9580.187",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 178 da Constituição Federal condiciona a ordenação do transporte internacional à reciprocidade entre o Brasil e o país da companhia estrangeira, e o art. 187 do RIR/2018 aplica esse mesmo princípio ao conceder isenção do imposto de renda às companhias estrangeiras de navegação marítima e aérea apenas quando as companhias brasileiras gozarem de igual prerrogativa no exterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T15:03:31+00:00"
+ },
+ {
+  "de": "cf.178",
+  "para": "l14967.55",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 178 da Constituição Federal atribui à lei a disciplina da ordenação do transporte internacional, e o art. 55 da Lei 14.967/24 exerce essa competência ao determinar que a atividade de transporte internacional de numerário, bens ou valores seja disciplinada por ato conjunto dos ministérios competentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T15:03:31+00:00"
+ },
+ {
+  "de": "lcp214.335",
+  "para": "sc_icms_lei.49",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 335 da LC 214/2025 caracteriza omissão de receita sujeita ao IBS e à CBS pelas mesmas hipóteses de saldo credor de caixa, omissão de bens e direitos e manutenção no passivo de obrigações já pagas que o art. 49 da Lei 10.297/96-SC presume para fins de ICMS, ampliando o rol para as novas figuras tributárias federais e compartilhadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T15:03:31+00:00"
  }
 ]
