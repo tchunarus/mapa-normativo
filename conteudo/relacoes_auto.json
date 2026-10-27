@@ -41177,5 +41177,155 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T20:59:54+00:00"
+ },
+ {
+  "de": "cf.150",
+  "para": "ctn.177",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A imunidade tributária do art. 150 opera no plano constitucional, impedindo a própria incidência do tributo, enquanto a isenção tratada no art. 177 do CTN é dispensa legal do pagamento de tributo validamente incidente, institutos frequentemente confundidos apesar de terem natureza e efeitos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "cf.150",
+  "para": "lcp214.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 9º da LC 214/2025 estende às novas espécies tributárias IBS e CBS as mesmas categorias de imunidade subjetiva já previstas no art. 150, VI, da Constituição, para entidades religiosas, partidos políticos, entidades sindicais de trabalhadores, instituições de educação e assistência social e livros, jornais e periódicos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "cf.150",
+  "para": "lcp227.149",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 149 da LC 227/2026 reproduz, para o ITCMD, o mesmo rol de imunidades subjetivas do art. 150, VI, da Constituição, estendendo a entidades religiosas, partidos políticos, entidades sindicais e instituições sem fins lucrativos a não incidência já consagrada para os demais impostos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "cf.150",
+  "para": "d9580.179",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 179 do RIR/2018 regulamenta, para fins de imposto de renda, a imunidade dos templos de qualquer culto prevista no art. 150, caput, inciso VI, alínea b, da Constituição, citada expressamente como fundamento do dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "cf.150",
+  "para": "d9580.180",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 180 do RIR/2018 regulamenta, para fins de imposto de renda, a imunidade dos partidos políticos e das entidades sindicais de trabalhadores prevista no art. 150, caput, inciso VI, alínea c, da Constituição, condicionando o gozo do benefício aos requisitos que especifica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "ctn.118",
+  "para": "floripa_ctm.27",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 27 do Código Tributário Municipal de Florianópolis reproduz, no plano local, a mesma regra de interpretação objetiva do fato gerador fixada pelo art. 118 do CTN como norma geral de direito tributário vinculante aos Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "d9580.181",
+  "para": "ctn.14",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 181 do RIR/2018 regulamenta, para fins de imposto de renda, os requisitos de não distribuição de patrimônio, aplicação integral de recursos no país e escrituração regular já exigidos pelo art. 14 do CTN para o gozo da imunidade das instituições de educação e assistência social.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "d9580.181",
+  "para": "lcp227.149",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 149 da LC 227/2026 estende ao ITCMD a imunidade das instituições sem fins lucrativos de relevância pública e social, instituto conexo à imunidade de renda do art. 181 do RIR, pois ambos partem da mesma categoria de entidade mas incidem sobre tributos diferentes e com requisitos próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "d9580.182",
+  "para": "cf.150",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 182 do RIR/2018 regulamenta expressamente, com base nos §§ 2º e 3º do art. 150 da Constituição, os limites da imunidade de renda às finalidades essenciais das entidades, excluindo resultados de exploração econômica regida pelas normas aplicáveis a empreendimentos privados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "d9580.182",
+  "para": "ctn.12",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 182 do RIR/2018 regulamenta a extensão da imunidade de renda às autarquias e fundações instituídas e mantidas pelo poder público, nos mesmos termos e limites do art. 12 do CTN, restrita ao patrimônio, à renda e aos serviços vinculados às finalidades essenciais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "floripa_ctm.201",
+  "para": "ctn.7",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A regra de que o não exercício da competência não a desloca a outro ente, do art. 201, é instituto conexo, mas distinto, da indelegabilidade da competência tributária tratada no art. 7º do CTN, pois uma trata da inércia do titular e a outra da impossibilidade de transferência voluntária da competência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "floripa_ctm.202",
+  "para": "cf.150",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 202 do Código Tributário Municipal reproduz, para o Município de Florianópolis, as mesmas vedações de legalidade, anterioridade e imunidade recíproca e subjetiva já estabelecidas pelo art. 150 da Constituição, sem acrescentar conteúdo normativo novo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "floripa_ctm.202",
+  "para": "cf.152",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O inciso V do art. 202, que veda a diferença tributária em razão de procedência ou destino do bem, reproduz, para o Município, a mesma vedação do art. 152 da Constituição, dirigida a Estados, Distrito Federal e Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "l14133.31",
+  "para": "cpc.886",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O leilão da Lei 14.133/21 e o leilão judicial do art. 886 do CPC compartilham a mesma técnica de alienação por hasta pública, com requisitos de edital semelhantes, mas disciplinam institutos distintos: a alienação de bens públicos em licitação e a alienação forçada de bens penhorados em execução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
+ },
+ {
+  "de": "l14133.31",
+  "para": "lef.22",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O leilão administrativo do art. 31 da Lei 14.133/21 e o leilão fiscal do art. 22 da Lei de Execuções Fiscais utilizam a mesma figura do leilão público com edital prévio, mas um disciplina a alienação de bens da Administração em licitação e o outro a arrematação de bens penhorados do executado em dívida ativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T21:47:46+00:00"
  }
 ]
