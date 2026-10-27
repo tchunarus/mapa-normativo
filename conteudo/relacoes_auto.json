@@ -39907,5 +39907,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T01:45:48+00:00"
+ },
+ {
+  "de": "sc_ricms.33",
+  "para": "sc_icms_lei.26",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O regulamento reproduz a faculdade de autocrédito do imposto pago indevidamente por erro de fato na escrituração, já prevista na lei estadual, tratando do mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T06:45:43+00:00"
+ },
+ {
+  "de": "sc_ricms.33",
+  "para": "d9580.943",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos tratam da correção de tributo pago indevidamente ou a maior, mas por mecanismos distintos: o ICMS admite o autocrédito direto pelo contribuinte, independentemente de autorização prévia, enquanto o imposto de renda exige pedido administrativo de restituição, o que gera risco de se confundirem os dois procedimentos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T06:45:43+00:00"
+ },
+ {
+  "de": "sc_ricms.34",
+  "para": "lcp116.1",
+  "tipo": "conflito_aparente",
+  "grau": "contato",
+  "porque": "O inciso IV veda o crédito de ICMS sobre entradas aplicadas em atividade sujeita ao imposto sobre serviços de competência municipal, apenas delimitando a fronteira entre os dois tributos, sem que exista conflito real de competência entre o ICMS estadual e o ISS disciplinado pela Lei Complementar 116/03.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T06:45:43+00:00"
+ },
+ {
+  "de": "sc_ricms.35",
+  "para": "lcp87.21",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 35 trata da vedação originária ao crédito, que nunca chega a nascer quando a entrada já se destina a saída isenta ou não tributada, enquanto o art. 21 da Lei Complementar 87/96 disciplina o estorno do crédito já apropriado e posteriormente tornado indevido por fato superveniente, distinção frequentemente confundida na prática.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T06:45:43+00:00"
+ },
+ {
+  "de": "sc_ricms.4",
+  "para": "lcp87.11",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A Lei Complementar 87/96 integra o mesmo regime nacional do ICMS e já define, em termos gerais, o local da operação ou da prestação para fins de cobrança do imposto, regra que o regulamento catarinense apenas detalha para fins de aplicação em Santa Catarina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T06:45:43+00:00"
  }
 ]
