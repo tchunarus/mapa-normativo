@@ -40157,5 +40157,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T11:01:17+00:00"
+ },
+ {
+  "de": "floripa_ctm.261",
+  "para": "sc_icms_lei.35-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 261 da Consolidação Tributária de Florianópolis autoriza a apuração do ISS por estimativa a critério da autoridade administrativa, em casos como estabelecimento temporário ou de organização rudimentar, com ajuste anual pela Guia de Informação Fiscal. O art. 35-A da Lei 10.297/96-SC institui regime homônimo de estimativa para o ICMS, com base no imposto apurado no mês anterior e confronto mensal, podendo gerar confusão entre os dois regimes por tratarem de tributos e critérios de apuração distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "sc_ricms.53",
+  "para": "sc_icms_lei.33",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 53 do RICMS-SC regulamenta, em termos quase idênticos, as hipóteses de substituição ao regime geral de apuração mensal do ICMS, reproduzindo a mesma divisão por mercadoria ou serviço dentro de período, por operação individual na importação e por operação isolada nos casos do inciso III do art. 33 da Lei 10.297/96-SC, que fixa esse regime especial em sede legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "floripa_ctm.259",
+  "para": "sc_icms_lei.33",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 259 da Consolidação Tributária de Florianópolis substitui o regime geral de apuração do ISS por apuração por prestação de serviço quando o contribuinte não for inscrito ou estiver desobrigado de manter escrituração fiscal, em redação quase idêntica à da alínea c do inciso III do art. 33 da Lei 10.297/96-SC para o mesmo caso no ICMS, podendo gerar confusão entre os regimes municipal e estadual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "sc_ricms.73",
+  "para": "l9430.34",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 73 do RICMS-SC autoriza o agente do fisco estadual a examinar livros e documentos de escrituração contábil e fiscal, inclusive meios magnéticos, e o art. 34 da Lei 9.430/96 confere poder semelhante à fiscalização federal sobre arquivos magnéticos relacionados à atividade do contribuinte, podendo ser confundidos apesar de disciplinarem esferas tributárias distintas, a estadual e a federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "cpc.420",
+  "para": "sc_ricms.73",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 420 do CPC autoriza a exibição judicial integral de livros empresariais e documentos de arquivo quando a lei assim determinar, servindo de base processual à providência do parágrafo único do art. 73 do RICMS-SC, que determina ao agente do fisco buscar perante o Ministério Público a exibição judicial dos livros e documentos recusados pelo contribuinte, hipótese em que o CPC se aplica subsidiariamente por falta de rito próprio na legislação tributária estadual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "sc_ricms.75",
+  "para": "sc_icms_lei.49",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 75 do RICMS-SC regulamenta, em redação quase idêntica, o art. 49 da Lei 10.297/96-SC, reproduzindo as mesmas hipóteses de presunção de operação ou prestação tributável não registrada a partir de indícios na escrituração contábil do sujeito passivo, como o saldo credor de caixa e a manutenção no passivo de obrigações já pagas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "sc_ricms.75",
+  "para": "lcp214.335",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 335 da LC 214/2025 reproduz, para fins de incidência da CBS e do IBS, o mesmo rol de indícios de omissão de receita do art. 75 do RICMS-SC, incluindo o saldo credor na conta caixa e a manutenção no passivo de obrigações já pagas ou sem comprovação de exigibilidade, podendo gerar confusão entre o regime de presunção do ICMS e o do novo sistema tributário sobre o consumo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "sc_ricms.75",
+  "para": "l9430.40",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 40 da Lei 9.430/96 caracteriza como omissão de receita, para fins de imposto de renda, a falta de escrituração de pagamentos efetuados e a manutenção no passivo de obrigações cuja exigibilidade não seja comprovada, hipóteses quase idênticas às do art. 75 do RICMS-SC para o ICMS, o que pode gerar confusão entre os dois regimes de presunção por pertencerem a tributos e entes federativos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "sc_ricms.75",
+  "para": "floripa_ctm.277",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 277-A da Consolidação Tributária de Florianópolis presume prestação de serviço tributável não registrada diante do suprimento de caixa sem comprovação da origem e da efetivação de despesas em limite superior ao lucro bruto auferido pelo contribuinte, hipóteses com redação quase idêntica às do art. 75 do RICMS-SC para o ICMS, podendo ser confundidas apesar de disciplinarem tributos de entes federativos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "sc_ricms.77",
+  "para": "sc_icms_lei.96",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 77 do RICMS-SC regulamenta o art. 96 da Lei 10.297/96-SC, detalhando o procedimento de retenção em depósito de mercadorias sem documentação fiscal idônea mediante lavratura de Termo de Ocorrência e Depósito, e reproduz no § 2º a mesma exigência de fiança idônea ou depósito de bens, valores ou títulos mobiliários para garantir o crédito tributário quando o sujeito passivo não for domiciliado no Estado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "sc_ricms.77",
+  "para": "cp.334",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 77 do RICMS-SC autoriza a retenção administrativa em depósito de mercadorias transportadas ou estocadas sem documentação fiscal ou com documentação fraudulenta, enquanto o art. 334 do Código Penal tipifica como descaminho iludir o pagamento de imposto devido pela entrada, saída ou consumo de mercadoria e manter em depósito mercadoria de procedência estrangeira introduzida clandestinamente, consequência penal autônoma que pode ser aplicada cumulativamente à retenção fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "sc_ricms.77",
+  "para": "lcp214.428",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 77 do RICMS-SC permite a retenção em depósito das mercadorias transportadas ou estocadas sem documentação fiscal idônea até a identificação do proprietário, enquanto o art. 428 da LC 214/2025 comina a pena de perdimento, consequência mais severa e definitiva, aos produtos fumígenos do Anexo XVII transportados, depositados ou expostos à venda sem a documentação fiscal comprobatória de procedência, podendo-se confundir o alcance das duas medidas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "sc_ricms.8",
+  "para": "lcp214.24",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 8º do RICMS-SC atribui responsabilidade pelo pagamento do ICMS aos armazéns gerais, depositários a qualquer título e transportadores em hipóteses de mercadoria sem documentação fiscal idônea, e o art. 24 da LC 214/2025 impõe responsabilidade solidária quase idêntica, para o IBS e a CBS, a quem mantém bem em depósito sem documento fiscal idôneo e ao transportador que o conduza desacobertado de documento fiscal, podendo-se confundir os regimes de responsabilidade dos dois sistemas tributários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "sc_ricms.9",
+  "para": "lcp87.13",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 9º do RICMS-SC especializa, para as operações no território catarinense, a regra geral de base de cálculo do ICMS estabelecida pelo art. 13 da Lei Complementar 87/96, reproduzindo o mesmo critério do valor da operação nas saídas de mercadoria e do preço do serviço nas prestações de transporte interestadual e intermunicipal e de comunicação, em cumprimento à reserva de lei complementar para normas gerais do imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "ctn.2",
+  "para": "cf.59",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 2º do CTN inclui as leis complementares entre as fontes do sistema tributário nacional, remetendo à espécie normativa disciplinada pelo art. 59 da Constituição Federal, que arrola a lei complementar entre os atos do processo legislativo e prevê que lei complementar disporá sobre a elaboração, redação, alteração e consolidação das leis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "ctn.2",
+  "para": "cf.25",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 2º do CTN inclui as Constituições e leis estaduais entre as fontes do sistema tributário nacional, remetendo à autonomia constitucional dos Estados para se organizarem e reger-se por suas próprias Constituições e leis, prevista no art. 25 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
+ },
+ {
+  "de": "ctn.2",
+  "para": "floripa_ctm.199",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 2º do CTN insere as leis municipais, nos limites das respectivas competências, entre as fontes do sistema tributário nacional, e o art. 199 da Consolidação Tributária de Florianópolis complementa essa previsão ao reconhecer que a competência tributária municipal compreende a competência legislativa plena, ressalvadas as limitações da Constituição Federal, da Constituição Estadual, das leis complementares e da Lei Orgânica do Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T12:05:28+00:00"
  }
 ]
