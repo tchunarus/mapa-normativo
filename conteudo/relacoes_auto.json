@@ -40417,5 +40417,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T12:59:33+00:00"
+ },
+ {
+  "de": "ctn.100",
+  "para": "floripa_ctm.6",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 6º do Código Tributário Municipal de Florianópolis reproduz, para o âmbito municipal, o rol de normas complementares da legislação tributária previsto nos incisos I a IV do art. 100 do CTN (atos normativos expedidos pelas autoridades administrativas, decisões de órgãos de jurisdição administrativa, práticas reiteradamente observadas e convênios). Trata-se do mesmo instituto, com o dispositivo municipal especializando, para os tributos de Florianópolis, a disciplina geral fixada pelo Código Tributário Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "ctn.6",
+  "para": "cf.146",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 6º do CTN define o alcance da competência legislativa tributária plena, ressalvadas as limitações constitucionais. O art. 146 da Constituição Federal atribui à lei complementar a função de dispor sobre conflitos de competência tributária e de regular as limitações constitucionais ao poder de tributar, exatamente as limitações a que o art. 6º do CTN se refere. São institutos conexos, e o CTN, recebido com eficácia de lei complementar, complementa o comando constitucional ao detalhar o exercício da competência tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "ctn.6",
+  "para": "cf.24",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 6º do CTN trata da competência tributária, o poder de instituir e cobrar tributos, enquanto o art. 24 da Constituição Federal trata da competência legislativa concorrente para legislar sobre direito tributário como matéria. Há risco real de confusão entre os dois institutos, pois ambos tratam de repartição de competência entre a União, os Estados e o Distrito Federal em assuntos tributários, mas um diz respeito ao poder de instituir o tributo e o outro ao poder de editar normas gerais e específicas sobre direito tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "d9580.293",
+  "para": "lcp214.335",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 293 do RIR/2018 presume omissão de receita para fins de imposto de renda pelos incisos I, saldo credor de caixa, II, falta de escrituração de pagamentos efetuados, e III, manutenção no passivo de obrigações já pagas ou cuja exigibilidade não seja comprovada. O art. 335 da LC 214/2025 prevê, para o IBS e a CBS, hipóteses praticamente idênticas nos incisos II, III e IV. Há risco real de confusão entre os dois institutos, por tratarem da mesma técnica de presunção fiscal aplicada a tributos diferentes, com regimes probatórios próprios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "d9580.293",
+  "para": "sc_icms_lei.49",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 293 do RIR/2018 presume, no inciso I, omissão de receita por indicação de saldo credor de caixa, para fins de imposto de renda. O art. 49 da Lei 10.297/96-SC presume, na alínea b do inciso I, operação ou prestação tributável de ICMS não registrada pela mesma indicação de saldo credor de caixa. Há risco real de confusão entre os dois institutos, pois a mesma técnica presuntiva contábil é aplicada a tributos de entes federativos diferentes, com consequências e ônus probatórios próprios de cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "d9580.293",
+  "para": "sc_ricms.75",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 293 do RIR/2018 presume, no inciso I, omissão de receita por indicação de saldo credor de caixa, para fins de imposto de renda. O art. 75 do RICMS-SC presume, na alínea b do inciso I, operação ou prestação tributável de ICMS não registrada pela mesma indicação de saldo credor de caixa. Há risco real de confusão entre os dois institutos, por aplicarem a mesma técnica presuntiva a tributos distintos, regulados por entes federativos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "d9580.958",
+  "para": "sc_ricms.73",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 958 do RIR/2018 autoriza o exame de documentos do sujeito passivo mantidos em arquivos magnéticos, para fins de fiscalização do imposto de renda. O art. 73 do RICMS-SC autoriza o exame de livros e documentos de escrituração contábil e fiscal do contribuinte, inclusive em meios magnéticos, para fins de ICMS. Há risco real de confusão entre os dois institutos, pois tratam do mesmo poder de fiscalização sobre documentos digitais, exercido por administrações tributárias diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "lcp214.24",
+  "para": "cc.50",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A alínea b do inciso V do art. 24 da LC 214/2025 atribui responsabilidade solidária pelo IBS e pela CBS a quem concorrer para o descumprimento de obrigações tributárias por abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, na mesma redação do art. 50 do Código Civil. Há risco real de confusão entre os dois institutos, pois a solidariedade tributária decorre diretamente da lei, sem a necessidade do incidente de desconsideração da personalidade jurídica regido pelo art. 50 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "lcp214.24",
+  "para": "sc_icms_lei.9",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A alínea a do inciso II do art. 24 da LC 214/2025 responsabiliza solidariamente o transportador pelo IBS e pela CBS quando o bem transportado estiver desacobertado de documento fiscal idôneo. A alínea a do inciso II do art. 9º da Lei 10.297/96-SC responsabiliza o transportador pelo ICMS em hipótese análoga, quando a mercadoria transportada estiver sem documento fiscal. Há risco real de confusão entre os dois institutos, por preverem a mesma lógica de responsabilização do transportador para tributos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "lcp214.24",
+  "para": "d9580.201",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O caput do art. 24 da LC 214/2025 ressalva expressamente que as hipóteses de solidariedade pelo IBS e pela CBS nele previstas não prejudicam as demais hipóteses da Lei 5.172/66, o Código Tributário Nacional. O art. 201 do RIR/2018 reproduz, para o imposto de renda, uma dessas hipóteses gerais do CTN, a responsabilidade solidária dos administradores de bens de terceiros. Os dois regimes de responsabilidade solidária se complementam, aplicando-se cumulativamente a tributos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "lcp214.335",
+  "para": "l9430.42",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O inciso VII do art. 335 da LC 214/2025 caracteriza omissão de receita, para fins de IBS e CBS, pelos valores creditados em conta de depósito ou de investimento mantida em instituição financeira cuja origem o titular, regularmente intimado, não comprove mediante documentação idônea. O art. 42 da Lei 9.430/96 prevê a mesma hipótese, nos mesmos termos, para o imposto de renda. É o mesmo instituto, a omissão de receita por depósito bancário não justificado, aplicado a tributos diferentes, com risco real de confusão quanto ao padrão probatório exigido em cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "lcp214.335",
+  "para": "d9580.294",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O inciso VIII do art. 335 da LC 214/2025 caracteriza omissão de receita, para fins de IBS e CBS, pelo suprimento de caixa fornecido à empresa por administrador, sócio, titular da firma individual ou acionista controlador, quando não comprovadas a efetividade da entrega e a origem dos recursos. O art. 294 do RIR/2018 prevê a mesma hipótese de arbitramento da omissão de receita para o imposto de renda, nos mesmos termos. É o mesmo instituto aplicado a tributos diferentes, com risco real de confusão quanto ao regime probatório de cada um.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "lcp214.335",
+  "para": "l9430.41",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso IX do art. 335 da LC 214/2025 caracteriza omissão de receita, para fins de IBS e CBS, pela diferença apurada mediante o controle quantitativo das entradas e saídas das operações, considerados os saldos inicial e final. O art. 41 da Lei 9.430/96 prevê, no mesmo sentido, o levantamento quantitativo por espécie de matérias primas e produtos intermediários, com apuração da diferença entre os saldos inicial e final de estoque, para fins de imposto de renda. São institutos conexos, pela mesma técnica de apuração quantitativa aplicada a tributos diferentes, com risco real de confusão quanto ao alcance de cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "lcp214.335",
+  "para": "floripa_ctm.277",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso VIII do art. 335 da LC 214/2025 caracteriza omissão de receita, para fins de IBS e CBS, pelo suprimento de caixa fornecido à empresa por administrador, sócio ou acionista controlador, quando não comprovadas a efetividade da entrega e a origem dos recursos. O art. 277A do Código Tributário Municipal de Florianópolis presume, de modo semelhante, prestação de serviço tributável de ISS não registrada quando houver suprimento de caixa sem comprovação da origem do numerário. Há risco real de confusão entre os dois institutos, por aplicarem a mesma lógica presuntiva a tributos de entes federativos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "lcp214.428",
+  "para": "sc_icms_lei.96",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 428 da LC 214/2025 comina pena de perdimento aos produtos fumígenos transportados, depositados ou expostos à venda sem documentação fiscal comprobatória de procedência. O art. 96 da Lei 10.297/96-SC prevê, para mercadorias transportadas ou estocadas sem documentação fiscal ou com documentação fraudulenta, a retenção em depósito até a identificação do proprietário, com possibilidade de liberação mediante garantia. Há risco real de confusão entre os dois institutos, pois fatos semelhantes, bem sem documentação fiscal, geram consequências jurídicas diferentes, perdimento definitivo em um caso e retenção reversível no outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
+ },
+ {
+  "de": "lcp214.428",
+  "para": "l12846.24",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 428 da LC 214/2025 trata da pena de perdimento de produtos fumígenos sem documentação fiscal, no âmbito do IBS, da CBS e do Imposto Seletivo. O art. 24 da Lei 12.846/13 trata do perdimento de bens, direitos ou valores aplicados no âmbito da responsabilização de pessoas jurídicas por atos lesivos à administração pública. Há risco real de confusão entre os dois institutos, pois ambos usam o termo perdimento, mas em regimes sancionatórios totalmente distintos, um tributário e aduaneiro e outro anticorrupção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T14:10:59+00:00"
  }
 ]
