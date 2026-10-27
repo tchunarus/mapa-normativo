@@ -39767,5 +39767,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-26T23:53:25+00:00"
+ },
+ {
+  "de": "cc.1142",
+  "para": "sc_ricms.5",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1.142 do Código Civil define estabelecimento como o complexo de bens organizado para o exercício da empresa e, no § 1º, afirma expressamente que o estabelecimento não se confunde com o local onde se exerce a atividade, ao passo que o art. 5º do RICMS-SC, para fins de ICMS, define estabelecimento exatamente como o local onde a atividade é exercida, o que gera risco de confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T00:45:47+00:00"
+ },
+ {
+  "de": "lcp116.4",
+  "para": "floripa_ctm.251",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 251 do Código Tributário Municipal de Florianópolis reproduz a mesma definição de estabelecimento prestador do art. 4º da LC 116/03, irrelevantes as denominações de sede, filial ou agência, e a detalha, acrescentando o critério do local onde a atividade seja executada mediante utilização de empregados, dentro do mesmo regime do ISS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T00:45:47+00:00"
+ },
+ {
+  "de": "lcp116.4",
+  "para": "sc_ricms.5",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 4º da LC 116/03 define estabelecimento prestador, para fins de ISS, como o local onde o contribuinte presta serviços de modo permanente ou temporário, com unidade econômica ou profissional, enquanto o art. 5º do RICMS-SC define estabelecimento, para fins de ICMS, como o local onde se exercem atividades ou se armazenam mercadorias, conceito próximo mas aplicável a tributo e critérios diversos, o que gera risco de confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T00:45:47+00:00"
+ },
+ {
+  "de": "lcp214.426",
+  "para": "ctn.48",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 426 da LC 214/2025 trata do Imposto Seletivo, tributo autônomo instituído pela reforma tributária sobre bens e serviços prejudiciais à saúde ou ao meio ambiente, enquanto o art. 48 do CTN emprega a expressão seletivo apenas como técnica de graduação de alíquotas em função da essencialidade dos produtos, no âmbito do IPI, o que gera risco de se confundirem os dois institutos por força da nomenclatura semelhante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T00:45:47+00:00"
+ },
+ {
+  "de": "sc_icms_lei.7",
+  "para": "sc_ricms.6",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 6º do RICMS-SC regulamenta, em redação praticamente idêntica, as mesmas hipóteses de não incidência do ICMS previstas no art. 7º da Lei 10.297/96-SC, disciplinando por decreto a aplicação administrativa do mesmo regime legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T00:45:47+00:00"
+ },
+ {
+  "de": "sc_icms_lei.7",
+  "para": "lcp214.426",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 7º da Lei 10.297/96-SC equipara à exportação, para fins de não incidência do ICMS, a saída de mercadoria com fim específico de exportação destinada a empresa comercial exportadora, hipótese muito semelhante à não incidência do Imposto Seletivo para o fornecimento de bens à empresa comercial exportadora prevista no art. 426 da LC 214/2025, ainda que se trate de tributos distintos, o que gera risco de confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T00:45:47+00:00"
+ },
+ {
+  "de": "sc_icms_lei.9",
+  "para": "sc_ricms.8",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 8º do RICMS-SC regulamenta, em redação praticamente idêntica, as mesmas hipóteses de responsabilidade pelo pagamento do ICMS atribuídas a armazéns gerais, depositários e transportadores pelo art. 9º da Lei 10.297/96-SC, disciplinando por decreto a aplicação administrativa do mesmo regime legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-27T00:45:47+00:00"
  }
 ]
