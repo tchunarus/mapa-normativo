@@ -41487,5 +41487,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T00:41:28+00:00"
+ },
+ {
+  "de": "lcp227.149",
+  "para": "ctn.12",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 149, §1º, I, da LC 227/2026 restringe a imunidade de ITCMD das autarquias e fundações públicas, alínea b do inciso I, às transmissões de bens ou direitos relacionados às finalidades essenciais dessas entidades, condição semelhante à que o art. 12 do CTN impõe à imunidade recíproca extensiva às autarquias, mas os dois dispositivos regem tributos diferentes, com requisitos e procedimento de verificação próprios de cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T01:02:44+00:00"
+ },
+ {
+  "de": "lcp227.149",
+  "para": "d9580.180",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 149, §1º, III, da LC 227/2026 remete aos requisitos do art. 14 do CTN para a imunidade de ITCMD dos partidos políticos e das entidades sindicais de trabalhadores, alíneas d e e do inciso I, os mesmos requisitos que o art. 180 do RIR/2018 exige, com base no mesmo art. 14 do CTN e no art. 150, VI, c, da Constituição, para a isenção do imposto de renda dessas entidades, tributos distintos que não devem ser confundidos quanto ao alcance de cada imunidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T01:02:44+00:00"
+ },
+ {
+  "de": "lcp227.149",
+  "para": "cf.155",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "A LC 227/2026, no art. 149, disciplina as hipóteses de imunidade do ITCMD, imposto cuja competência o art. 155, I, da Constituição atribui aos Estados e ao Distrito Federal, regulamentando como lei complementar de normas gerais o exercício dessa competência quanto à transmissão causa mortis e à doação de bens ou direitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T01:02:44+00:00"
+ },
+ {
+  "de": "lcp227.149",
+  "para": "d9580.505",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 149, III, c, da LC 227/2026 imuniza ao ITCMD a doação de imóveis desapropriados para fins de reforma agrária ao beneficiário do programa, operação para a qual o art. 505 do RIR/2018 concede isenção do imposto de renda sobre o ganho de capital, com base no art. 184, §5º, da Constituição, de modo que a mesma transmissão recebe desoneração tributária em dois impostos distintos, cujos requisitos não se confundem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T01:02:44+00:00"
  }
 ]
