@@ -41747,5 +41747,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "d9580.131",
+  "para": "cf.184",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 131 do RIR/2018 exclui da base de cálculo do ganho de capital a indenização por desapropriação da terra nua para fins de reforma agrária, aplicando no âmbito do imposto de renda a mesma imunidade tributária estabelecida no art. 184, § 5º, da Constituição Federal, que o próprio dispositivo regulamentar cita como fundamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T09:59:07+00:00"
+ },
+ {
+  "de": "ctn.76",
+  "para": "cf.154",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 76 do CTN disciplina o imposto extraordinário de guerra também previsto no inciso II do art. 154 da Constituição Federal, complementando a regra constitucional ao fixar prazo máximo de cinco anos para a supressão gradativa do tributo após a celebração da paz, detalhe que a Constituição não especifica ao mencionar apenas a cessação das causas de sua criação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T09:59:07+00:00"
+ },
+ {
+  "de": "lcp214.424",
+  "para": "ctn.51",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 424 da LC 214/2025 define o contribuinte do Imposto Seletivo repetindo a estrutura do art. 51 do CTN para o IPI, que também elege como contribuinte o industrial, o importador e o arrematante de produtos levados a leilão, o que gera risco de confusão entre os dois tributos federais incidentes sobre produtos industrializados, apesar de os fatos geradores serem distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T09:59:07+00:00"
+ },
+ {
+  "de": "lcp227.132",
+  "para": "lcp87.25",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 132 da LC 227/2026 cria regime especial de reconhecimento dos saldos credores de ICMS existentes em 31 de dezembro de 2032 para fins de extinção do tributo, o que pode ser confundido com a compensação ordinária de saldos credores entre estabelecimentos prevista no art. 25 da LC 87/96, regime que continua vigente apenas até aquela mesma data limite.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T09:59:07+00:00"
+ },
+ {
+  "de": "lcp227.134",
+  "para": "lcp87.20",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 134 da LC 227/2026 remete expressamente ao art. 20, § 5º, da LC 87/96 (Lei Kandir) para delimitar os créditos decorrentes da entrada de mercadorias destinadas ao ativo permanente, categoria sujeita a prazos de protocolo e de resposta diferentes dos previstos no caput para a homologação geral dos saldos credores de ICMS existentes em 2032.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T09:59:07+00:00"
+ },
+ {
+  "de": "lcp227.134",
+  "para": "ctn.150",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 134 da LC 227/2026 trata da homologação de saldo credor acumulado de ICMS pelo ente federativo, instituto que pode ser confundido com o lançamento por homologação do art. 150 do CTN por emprestar o mesmo termo homologação, mas que corresponde à confirmação de um crédito já existente em favor do contribuinte, e não à validação do pagamento antecipado de tributo pelo sujeito passivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T09:59:07+00:00"
+ },
+ {
+  "de": "lcp227.136",
+  "para": "lcp87.20",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 136 da LC 227/2026 refere-se ao art. 20, § 5º, da LC 87/96 (Lei Kandir) para segregar, no relato enviado ao CGIBS, os créditos de entrada de mercadorias destinadas ao ativo permanente dos demais créditos, mantendo a mesma categoria de créditos definida pela Lei Kandir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T09:59:07+00:00"
  }
 ]
