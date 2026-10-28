@@ -42217,5 +42217,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T18:27:36+00:00"
+ },
+ {
+  "de": "ctn.102",
+  "para": "floripa_ctm.7",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 102 do CTN fixa a regra geral de extraterritorialidade da legislação tributária estadual, distrital e municipal, limitada aos convênios de que a entidade participe ou às normas gerais da União. O art. 7º do CTM de Florianópolis aplica a mesma regra especificamente à legislação tributária do Município, tratando do mesmo instituto, a extraterritorialidade por convênio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T22:44:00+00:00"
+ },
+ {
+  "de": "ctn.103",
+  "para": "floripa_ctm.8",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 103 do CTN disciplina o início de vigência das normas complementares referidas no art. 100 (atos administrativos, decisões com eficácia normativa e convênios). O art. 8º do CTM de Florianópolis reproduz a mesma estrutura de vigência para as normas complementares municipais listadas no art. 6º, tratando do mesmo instituto em nível local.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T22:44:00+00:00"
+ },
+ {
+  "de": "ctn.104",
+  "para": "floripa_ctm.9",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 104 do CTN estabelece a vigência no exercício seguinte para dispositivos que instituem, majoram impostos sobre patrimônio ou renda ou reduzem isenções. O art. 9º do CTM de Florianópolis reproduz a mesma regra para o imposto sobre o patrimônio no âmbito municipal, tratando do mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T22:44:00+00:00"
+ },
+ {
+  "de": "ctn.105",
+  "para": "floripa_ctm.11",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 105 do CTN determina a aplicação imediata da legislação tributária aos fatos geradores futuros e pendentes. O art. 11 do CTM de Florianópolis reproduz a mesma regra para a legislação tributária municipal, tratando do mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T22:44:00+00:00"
+ },
+ {
+  "de": "ctn.106",
+  "para": "floripa_ctm.12",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 106 do CTN disciplina a retroatividade da lei tributária mais benigna nas hipóteses do inciso II. O art. 12 do CTM de Florianópolis reproduz a mesma regra para a legislação tributária municipal, tratando do mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T22:44:00+00:00"
+ },
+ {
+  "de": "ctn.111",
+  "para": "floripa_ctm.19",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 111 do CTN impõe interpretação literal da legislação tributária sobre suspensão ou exclusão do crédito tributário, outorga de isenção e dispensa de obrigações acessórias. O art. 19 do CTM de Florianópolis reproduz a mesma regra hermenêutica para a legislação tributária municipal, tratando do mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T22:44:00+00:00"
+ },
+ {
+  "de": "ctn.119",
+  "para": "floripa_ctm.28",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 119 do CTN define o sujeito ativo da obrigação tributária como a pessoa jurídica de direito público titular da competência para exigir seu cumprimento. O art. 28 do CTM de Florianópolis especializa essa definição, identificando o Município de Florianópolis como sujeito ativo da obrigação tributária municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T22:44:00+00:00"
  }
 ]
