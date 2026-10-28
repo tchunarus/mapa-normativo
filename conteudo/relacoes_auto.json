@@ -41407,5 +41407,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-27T22:58:31+00:00"
+ },
+ {
+  "de": "lcp227.149",
+  "para": "ec132.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 149, inciso I, alínea f, da LC 227/2026 concede imunidade do ITCMD às instituições sem fins lucrativos com finalidade de relevância pública e social, incluídos os institutos científicos e tecnológicos, nos mesmos termos em que a nova redação do art. 155, § 1º, inciso VII, da Constituição, dada pela Emenda Constitucional 132/2023, exige lei complementar para disciplinar essa imunidade na transmissão causa mortis e na doação, de modo que a LC 227/2026 regulamenta essa norma constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T00:41:28+00:00"
+ },
+ {
+  "de": "lcp227.149",
+  "para": "ctn.14",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso III do § 1º do art. 149 da LC 227/2026 remete expressamente aos requisitos do art. 14 da Lei nº 5.172, de 25 de outubro de 1966, Código Tributário Nacional, exigindo o cumprimento cumulativo desses requisitos, entre eles não distribuir patrimônio ou renda e manter escrituração regular, para que as instituições sem fins lucrativos façam jus à imunidade do ITCMD nas hipóteses das alíneas d, e e f do inciso I e b do inciso III do caput do mesmo artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T00:41:28+00:00"
+ },
+ {
+  "de": "lcp227.149",
+  "para": "lcp214.9",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 149 da LC 227/2026 e o art. 9º da LC 214/2025 concedem imunidades semelhantes, oriundas da mesma reforma tributária, a entidades religiosas, partidos políticos, entidades sindicais e instituições sem fins lucrativos, mas cada um elenca os beneficiários e remete a condições próprias para tributos distintos, o ITCMD e o conjunto formado pelo IBS e pela CBS, o que gera risco real de se aplicar a uma lista de beneficiários ou a uma condição pensada para um desses tributos ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T00:41:28+00:00"
+ },
+ {
+  "de": "lcp87.25",
+  "para": "sc_icms_lei.31",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 25 da LC 87/96 permite que os saldos credores acumulados pelos estabelecimentos exportadores sejam imputados a outro estabelecimento do mesmo sujeito passivo no Estado ou transferidos a outros contribuintes mediante documento que reconheça o crédito, regra que o art. 31 da Lei 10.297/96-SC reproduz, no âmbito catarinense, nos mesmos termos, inclusive quanto à transferência a outros contribuintes do Estado mediante documento emitido pela autoridade competente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T00:41:28+00:00"
+ },
+ {
+  "de": "sc_ricms.2",
+  "para": "ctn.118",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 2º do RICMS-SC, ao dispor que a caracterização do fato gerador do ICMS independe da natureza jurídica da operação que o constitua, especializa para o ICMS o princípio geral do inciso I do art. 118 do CTN, segundo o qual a definição legal do fato gerador se interpreta abstraindo-se da validade jurídica dos atos praticados e da natureza do seu objeto ou dos seus efeitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T00:41:28+00:00"
+ },
+ {
+  "de": "sc_ricms.54",
+  "para": "lcp87.25",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 54 do RICMS-SC institui, mediante opção do contribuinte com permanência mínima de doze meses, um regime de apuração conjunta de todos os estabelecimentos catarinenses como se fossem um único contribuinte, regime mais abrangente que a compensação obrigatória de saldos entre estabelecimentos do mesmo sujeito passivo prevista no art. 25 da LC 87/96, de modo que o regulamento estadual complementa, para quem optar por ele, o regime nacional de compensação interestabelecimentos sem substituir a regra geral obrigatória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T00:41:28+00:00"
+ },
+ {
+  "de": "ctn.13",
+  "para": "floripa_ctm.205",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 13 do CTN afasta a imunidade da alínea a do inciso IV do art. 9º para os serviços públicos concedidos, atribuindo o tratamento tributário ao poder concedente, e o art. 205 do Código Tributário Municipal de Florianópolis reproduz essa mesma regra para os tributos municipais, inclusive a ressalva de que a União, como poder concedente, pode impor limitação tributária tendo em vista o interesse comum, de modo que o dispositivo municipal especializa, para Florianópolis, o mesmo instituto da não extensão da imunidade aos serviços concedidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T00:41:28+00:00"
+ },
+ {
+  "de": "ctn.13",
+  "para": "l8987.2",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 13 do CTN condiciona a tributação dos serviços públicos concedidos ao tratamento estabelecido pelo poder concedente, conceito que o art. 2º, incisos I e II, da Lei 8.987/95 define como o ente federativo titular do serviço e disciplina a concessão como delegação de sua prestação mediante licitação, de modo que a lei de concessões regulamenta, para fins gerais, a noção de poder concedente de que depende a aplicação do art. 13 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T00:41:28+00:00"
  }
 ]
