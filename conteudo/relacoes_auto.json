@@ -41937,5 +41937,25 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T12:49:25+00:00"
+ },
+ {
+  "de": "sc_ricms.23",
+  "para": "sc_icms_lei.12",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 23 do RICMS-SC regulamenta, por decreto do Poder Executivo estadual, a mesma exclusão da base de cálculo do ICMS prevista no art. 12 da Lei 10.297/96-SC (o montante do Imposto sobre Produtos Industrializados quando a operação, entre contribuintes, configurar fato gerador dos dois impostos, os acréscimos financeiros nas vendas a prazo a consumidor final e as bonificações em mercadorias), repetindo os incisos I a III e acrescentando o inciso IV sobre o valor da demanda de potência não utilizada no fornecimento de energia elétrica por demanda contratada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T14:11:51+00:00"
+ },
+ {
+  "de": "ctn.65",
+  "para": "cf.153",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 153 da Constituição Federal faculta ao Poder Executivo, atendidas as condições e os limites estabelecidos em lei, alterar as alíquotas dos impostos dos incisos I, II, IV e V do caput, entre eles o do inciso V sobre operações de crédito, câmbio e seguro ou relativas a títulos ou valores mobiliários. O art. 65 do CTN regulamenta essa faculdade ao autorizar o Poder Executivo a alterar, nas condições e nos limites da lei, tanto as alíquotas quanto as bases de cálculo desse imposto, a fim de ajustá-lo aos objetivos da política monetária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T14:11:51+00:00"
  }
 ]
