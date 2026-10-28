@@ -42177,5 +42177,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T17:35:35+00:00"
+ },
+ {
+  "de": "floripa_ctm.423",
+  "para": "ctn.142",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 423 do CTM de Florianópolis disciplina a notificação do lançamento da contribuição de melhoria municipal, etapa integrante do procedimento de constituição do crédito tributário definido em termos gerais pelo art. 142 do CTN; são institutos conexos, pois o dispositivo municipal regula um ato específico (a notificação de lançamento já constituído), e não a atividade de lançamento em si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T18:27:36+00:00"
+ },
+ {
+  "de": "floripa_ctm.423",
+  "para": "d70235.11",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Ambos os dispositivos disciplinam o conteúdo mínimo da notificação de lançamento tributário (montante do crédito, prazo e elementos de cálculo, possibilidade de reclamação ou impugnação), mas o art. 11 do PAF rege exclusivamente o processo administrativo fiscal federal, enquanto o art. 423 do CTM de Florianópolis rege a notificação do lançamento da contribuição de melhoria municipal, de modo que há risco real de se aplicar indevidamente a disciplina federal a lançamento de tributo municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T18:27:36+00:00"
+ },
+ {
+  "de": "ctn.92",
+  "para": "lcp227.116",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 92 do CTN trata da comunicação, pelo Tribunal de Contas da União ao Banco do Brasil, dos coeficientes de participação nos fundos do art. 159, I, da Constituição Federal, enquanto o art. 116 da LC 227/2026 trata do cálculo e da divulgação, pelo CGIBS, dos coeficientes de participação dos entes federativos na partilha do IBS; são institutos conexos de rateio de receita tributária entre entes federados, regidos por fundamentos constitucionais e órgãos distintos, o que pode gerar confusão entre os dois regimes de coeficientes de participação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T18:27:36+00:00"
+ },
+ {
+  "de": "ctn.98",
+  "para": "d9580.1042",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.042 do RIR/2018 reproduz, para fins de aplicação ao imposto de renda, a regra do art. 98 do CTN sobre a prevalência dos tratados e convenções internacionais sobre a legislação tributária interna, citando expressamente esse dispositivo do Código como fundamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T18:27:36+00:00"
  }
 ]
