@@ -41527,5 +41527,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T01:02:44+00:00"
+ },
+ {
+  "de": "sc_icms_lei.31",
+  "para": "sc_ricms.40",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 40 do RICMS-SC regulamenta, em maior detalhe, a mesma hipótese de saldo credor acumulado por manutenção de crédito em operações isentas ou não tributadas de que trata o art. 31 da Lei 10.297/96-SC, disciplinando como se considera acumulado o crédito para fins de transferência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T01:20:45+00:00"
+ },
+ {
+  "de": "sc_icms_lei.31",
+  "para": "adct.134",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 31 da Lei 10.297/96-SC disciplina a transferência ordinária de saldos credores acumulados de ICMS, mas o art. 134 do ADCT excepciona esse regime ao determinar que os saldos credores existentes ao final de 2032 serão aproveitados pelos contribuintes segundo disciplina própria de lei complementar, no contexto da extinção gradual do imposto pela reforma tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T01:20:45+00:00"
+ },
+ {
+  "de": "ctn.15",
+  "para": "cf.148",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 15 do CTN lista três hipóteses de empréstimo compulsório mediante lei ordinária, mas o art. 148 da Constituição, norma hierarquicamente superior e posterior, exige lei complementar e mantém apenas as hipóteses de despesa extraordinária por calamidade ou guerra e de investimento público urgente, sem reproduzir a hipótese de conjuntura inflacionária do inciso III do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T01:20:45+00:00"
+ },
+ {
+  "de": "ctn.16",
+  "para": "floripa_ctm.222",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 222 do Código Tributário Municipal especializa, para o âmbito local, a mesma noção de imposto do art. 16 do CTN, definindo o tributo não vinculado a atividade estatal específica em relação ao contribuinte, ainda que com redação própria do Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T01:20:45+00:00"
+ },
+ {
+  "de": "ctn.17",
+  "para": "floripa_ctm.223",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 223 do Código Tributário Municipal repete, para o sistema tributário municipal, a mesma regra de taxatividade dos impostos do art. 17 do CTN, ao dispor que os impostos municipais são exclusivamente os previstos no respectivo Livro, com as limitações da legislação tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T01:20:45+00:00"
+ },
+ {
+  "de": "ctn.18",
+  "para": "cf.147",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 18, II, do CTN atribui ao Distrito Federal e aos Estados não divididos em Municípios a competência cumulativa de impostos estaduais e municipais, mas o art. 147 da Constituição, mais recente, já disciplina diretamente a competência do Distrito Federal para os impostos municipais, tornando a hipótese dos Estados não divididos em Municípios inaplicável à realidade atual, em que todo Estado possui Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T01:20:45+00:00"
+ },
+ {
+  "de": "ctn.20",
+  "para": "cf.153",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 153, I, da Constituição atribui à União a competência para instituir o imposto de importação, e o art. 20 do CTN complementa esse mesmo regime ao fixar a base de cálculo do tributo, distinguindo a alíquota específica, pela unidade de medida, da alíquota ad valorem, pelo preço normal de uma venda em livre concorrência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T01:20:45+00:00"
+ },
+ {
+  "de": "ctn.21",
+  "para": "cf.153",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 153 da Constituição permite ao Poder Executivo alterar, nos limites e condições da lei, as alíquotas dos impostos de importação, exportação, produtos industrializados e operações financeiras, e o art. 21 do CTN complementa esse mesmo regime ao autorizar também o ajuste da base de cálculo do imposto de importação para fins de política cambial e de comércio exterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T01:20:45+00:00"
  }
 ]
