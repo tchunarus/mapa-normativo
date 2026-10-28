@@ -42127,5 +42127,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T16:44:26+00:00"
+ },
+ {
+  "de": "ctn.92",
+  "para": "cf.159-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 92 do CTN atribui ao Tribunal de Contas da União a comunicação dos coeficientes individuais de participação nos fundos do inciso I do art. 159 da Constituição Federal, e o § 5º do art. 159-A da Constituição Federal atribui ao mesmo Tribunal de Contas da União a regulamentação e o cálculo dos coeficientes individuais de participação no Fundo Nacional de Desenvolvimento Regional, instituto conexo de repartição de receitas que pode ser confundido com o procedimento do art. 92.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T17:35:35+00:00"
+ },
+ {
+  "de": "ctn.92",
+  "para": "cf.162",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 92 do CTN trata da comunicação prévia, pelo Tribunal de Contas da União, dos coeficientes de participação nos fundos do inciso I do art. 159 da Constituição Federal, enquanto o art. 162 da Constituição Federal complementa esse mesmo regime de repartição de receitas tributárias ao exigir a divulgação mensal, pelos entes federados, dos montantes arrecadados, dos valores entregues e a entregar e dos critérios de rateio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T17:35:35+00:00"
+ },
+ {
+  "de": "ctn.96",
+  "para": "floripa_ctm.1",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1º do Código Tributário Municipal de Florianópolis define lei tributária, para fins municipais, como todo ato votado pela Câmara de Vereadores sobre instituição, conceituação, incidência, cobrança, fiscalização e extinção de tributos, especializando para o Município o conceito geral de legislação tributária estabelecido pelo art. 96 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T17:35:35+00:00"
+ },
+ {
+  "de": "ctn.97",
+  "para": "floripa_ctm.2",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 2º do Código Tributário Municipal de Florianópolis reproduz, com a mesma enumeração de incisos, a reserva legal do art. 97 do CTN quanto à instituição, majoração, extinção ou redução de tributos, à definição do fato gerador, à fixação de alíquotas e bases de cálculo e à cominação de penalidades, especializando para o Município o mesmo instituto, inclusive quanto à equiparação de alteração da base tributária a majoração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T17:35:35+00:00"
+ },
+ {
+  "de": "ctn.99",
+  "para": "floripa_ctm.5",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 5º do Código Tributário Municipal de Florianópolis reproduz, quase literalmente, a regra do art. 99 do CTN segundo a qual o conteúdo e o alcance dos atos regulamentares se restringem aos das leis em função das quais foram expedidos, especializando para o Município o mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T17:35:35+00:00"
  }
 ]
