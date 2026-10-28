@@ -1467,5 +1467,13 @@
   "titulo": "Tema 119/STJ: Trânsito em Julgado",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=119&cod_tema_final=119",
   "p": "stj.tema.119"
+ },
+ {
+  "data": "2026-10-28T06:13:07+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1220/STJ: Cancelado",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1220&cod_tema_final=1220",
+  "p": "stj.tema.1220"
  }
 ]

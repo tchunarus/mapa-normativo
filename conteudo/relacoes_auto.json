@@ -41607,5 +41607,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T01:20:45+00:00"
+ },
+ {
+  "de": "lcp227.134",
+  "para": "adct.134",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 134 da LC 227/2026 disciplina o prazo de cinco anos para o pedido de homologação dos saldos credores do ICMS e o prazo de vinte e quatro meses para a manifestação do Estado ou do Distrito Federal, regulamentando a homologação a que se refere o art. 134 do ADCT, que remete essa disciplina à lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "lcp227.132",
+  "para": "adct.134",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 132 da LC 227/2026 define os saldos credores relativos ao ICMS existentes em 31 de dezembro de 2032 e os requisitos para sua caracterização, regulamentando o aproveitamento desses saldos de que trata o caput do art. 134 do ADCT, que remete essa disciplina à lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "lcp227.133",
+  "para": "adct.134",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 5º do art. 134 do ADCT prevê que, a partir de 2033, os saldos credores serão atualizados pelo IPCA, e o art. 133 da LC 227/2026 regulamenta essa atualização, fixando seu termo inicial em 1º de fevereiro de 2033.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "lcp227.137",
+  "para": "adct.134",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 134 do ADCT determina que os créditos homologados sejam compensados pelo prazo remanescente do art. 20, § 5º, da Lei Complementar nº 87, de 1996, quanto aos créditos de ativo permanente, e em duzentas e quarenta parcelas mensais nos demais casos, e o art. 137 da LC 227/2026 regulamenta exatamente essa mesma compensação para o saldo credor informado ao CGIBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "lcp227.136",
+  "para": "adct.134",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 134 do ADCT determina que o saldo dos créditos homologados seja informado pelos Estados e pelo Distrito Federal ao Comitê Gestor do Imposto sobre Bens e Serviços, e o art. 136 da LC 227/2026 regulamenta esse dever de informação, fixando prazo de trinta dias e a segregação dos créditos entre os de ativo permanente e os demais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "lcp227.141",
+  "para": "adct.134",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 134 do ADCT exclui o valor compensado da base de cálculo dos repasses previstos nos arts. 158, 198, 204, 212, 212-A e 216 da Constituição Federal, e o art. 141 da LC 227/2026 regulamenta essa mesma exclusão quanto ao valor compensado ou ressarcido na forma dos arts. 137 a 139 e 144 daquela Lei Complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "cf.148",
+  "para": "ctn.76",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 76 do CTN trata do imposto extraordinário de guerra, espécie tributária distinta do empréstimo compulsório do art. 148, I, da Constituição Federal, mas ambos podem ser instituídos pela União na iminência ou no caso de guerra externa, o que gera risco de se confundir as duas figuras como se fossem a mesma espécie de tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "d9580.505",
+  "para": "cf.184",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 505 do RIR/2018 concede isenção do imposto sobre a renda ao ganho obtido na transferência de imóveis desapropriados para fins de reforma agrária, remetendo expressamente ao art. 184, § 5º, da Constituição Federal como fundamento do benefício, de modo que regulamenta, no âmbito do imposto de renda, a norma constitucional que instituiu essa desoneração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "floripa_ctm.223",
+  "para": "cf.156",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 223 do CTM de Florianópolis declara exclusivos os impostos municipais constantes do Livro que inaugura, cujo Capítulo II trata em seguida do imposto sobre a propriedade predial e territorial urbana, e essa enumeração municipal regulamenta, no plano local, a competência que o art. 156 da Constituição Federal atribui aos Municípios para instituir impostos sobre propriedade predial e territorial urbana, transmissão inter vivos de bens imóveis e serviços de qualquer natureza.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "sc_ricms.40",
+  "para": "lcp87.25",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 25 da LC 87/96 permite que os saldos credores acumulados por estabelecimentos que realizem as operações e prestações do inciso II do art. 3º e seu parágrafo único sejam transferidos, na proporção que essas saídas representem do total das saídas do estabelecimento, a outro estabelecimento do mesmo titular ou, havendo saldo remanescente, a outros contribuintes do Estado, e o art. 40 do RICMS-SC regulamenta essa mesma transferência proporcional dos saldos credores acumulados no âmbito catarinense.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "sc_ricms.40",
+  "para": "lcp87.20",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 20 da LC 87/96 veda o crédito relativo a mercadoria cuja saída subsequente seja isenta ou não tributada, e o § 4º do mesmo artigo permite que deliberação dos Estados afaste essa vedação no todo ou em parte, e o art. 40 do RICMS-SC disciplina exatamente essa manutenção excepcionalmente autorizada do crédito, que passa a constituir saldo credor acumulado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "sc_ricms.40",
+  "para": "adct.134",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 40 do RICMS-SC disciplina o regime ordinário de saldos credores acumulados do ICMS decorrentes de operações isentas ou não tributadas, enquanto o art. 134 do ADCT disciplina o regime extraordinário de transição dos saldos credores do ICMS existentes em 31 de dezembro de 2032 para o IBS, e a coincidência de nomenclatura entre os dois institutos gera risco de se aplicar a um deles as regras próprias do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "ctn.22",
+  "para": "lcp214.72",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 22 do CTN define como contribuinte do imposto de importação o importador ou quem a lei a ele equiparar, e o art. 72 da LC 214/2025 define de modo semelhante o importador como contribuinte do IBS e da CBS na importação de bens materiais, e a semelhança de redação entre as definições de tributos distintos incidentes sobre a mesma operação de importação gera risco de se confundir a quem compete a condição de contribuinte em cada imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
+ },
+ {
+  "de": "ctn.22",
+  "para": "lcp214.424",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 22 do CTN elege como contribuinte do imposto de importação o arrematante de produtos apreendidos ou abandonados, e o inciso III do art. 424 da LC 214/2025 elege o arrematante como contribuinte do Imposto Seletivo na arrematação, e a coincidência na figura do arrematante como contribuinte de tributos diferentes gera risco de se confundir o regime aplicável a cada um deles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T07:00:03+00:00"
  }
 ]
