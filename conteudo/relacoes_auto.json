@@ -41957,5 +41957,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T14:11:51+00:00"
+ },
+ {
+  "de": "ctn.68",
+  "para": "lcp87.2",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 68 do CTN define o fato gerador do extinto imposto federal sobre serviços de transportes e comunicações com redação quase idêntica à dos incisos II e III do art. 2º da LC 87/96, que hoje tributam pelo ICMS estadual a mesma prestação de serviço de transporte interestadual e intermunicipal e de comunicação, o que gera risco de confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:03:38+00:00"
+ },
+ {
+  "de": "ctn.68",
+  "para": "sc_icms_lei.2",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 2° da Lei 10.297/96-SC reproduz, para o ICMS catarinense, a mesma materialidade descrita nos incisos I e II do art. 68 do CTN para o extinto imposto federal sobre transportes e comunicações, de modo que a semelhança de redação pode induzir à confusão sobre qual regime se aplica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:03:38+00:00"
+ },
+ {
+  "de": "ctn.69",
+  "para": "lcp116.7",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A frase final do art. 69 do CTN, segundo a qual a base de cálculo do imposto é o preço do serviço, é idêntica à primeira frase do art. 7º da LC 116/03, que fixa dessa forma a base de cálculo do ISS, embora se trate de impostos distintos, o extinto imposto federal do CTN e o ISS municipal atual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:03:38+00:00"
+ },
+ {
+  "de": "ctn.69",
+  "para": "lcp87.13",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 13 da LC 87/96 fixa como base de cálculo do ICMS, na prestação de serviço de transporte interestadual e intermunicipal e de comunicação, o preço do serviço, reproduzindo a mesma fórmula do art. 69 do CTN para a mesma prestação, hoje tributada pelo ICMS e não mais pelo imposto federal extinto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:03:38+00:00"
+ },
+ {
+  "de": "ctn.74",
+  "para": "lcp87.3",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 74 do CTN definia o fato gerador do extinto imposto único federal sobre combustíveis, lubrificantes, energia elétrica e minerais, enquanto o inciso III do art. 3º da LC 87/96 trata da não incidência do ICMS sobre operações interestaduais com energia elétrica e petróleo, lubrificantes e combustíveis líquidos e gasosos dele derivados quando destinados à industrialização ou comercialização, regulando hoje pelo ICMS a mesma materialidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:03:38+00:00"
+ },
+ {
+  "de": "ctn.74",
+  "para": "lcp214.413",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 413 da LC 214/2025 exclui energia elétrica e telecomunicações da incidência do Imposto Seletivo, dando tratamento especial ao mesmo bem que o art. 74 do CTN submetia ao extinto imposto único federal, o que pode confundir o leitor quanto ao regime tributário hoje aplicável.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:03:38+00:00"
+ },
+ {
+  "de": "ctn.75",
+  "para": "cf.155",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 75 do CTN dispõe que a incidência do imposto sobre operações relativas à circulação de mercadorias ocorre sobre a distribuição, materialidade hoje tributada pelo ICMS de competência estadual nos termos do inciso II do art. 155 da Constituição Federal, que atribui aos Estados e ao Distrito Federal o imposto sobre operações relativas à circulação de mercadorias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:03:38+00:00"
+ },
+ {
+  "de": "ctn.78",
+  "para": "floripa_ctm.304",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 304 do Código Tributário Municipal de Florianópolis reproduz, com adaptação para a Administração Municipal, a mesma definição de poder de polícia do art. 78 do CTN, inclusive o critério de regularidade do respectivo parágrafo único, especializando o conceito geral para a cobrança de taxas municipais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:03:38+00:00"
+ },
+ {
+  "de": "ctn.78",
+  "para": "cf.145",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 145 da Constituição Federal autoriza a cobrança de taxas em razão do exercício do poder de polícia, conceito que o art. 78 do CTN define, inclusive quanto ao critério de regularidade do exercício fixado em seu parágrafo único, complementando a norma constitucional de competência com o conteúdo técnico do instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:03:38+00:00"
+ },
+ {
+  "de": "ctn.78",
+  "para": "l13874.2",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 2º da Lei 13.874/19 impõe a intervenção subsidiária e excepcional do Estado sobre a atividade econômica, princípio que restringe o exercício do poder de polícia definido no art. 78 do CTN quando incide sobre atividades econômicas, sem se confundir com o conceito tributário ali fixado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:03:38+00:00"
+ },
+ {
+  "de": "ctn.80",
+  "para": "floripa_ctm.306",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 306 do Código Tributário Municipal de Florianópolis reproduz, restrita ao Município, a mesma regra do art. 80 do CTN sobre o âmbito de atribuições que delimita a competência para instituição e cobrança de taxas, especializando-a para o ente municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:03:38+00:00"
+ },
+ {
+  "de": "ctn.81",
+  "para": "floripa_ctm.415",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 415 do Código Tributário Municipal de Florianópolis institui e regula a contribuição de melhoria com fato gerador na realização de obra pública e limite total na despesa realizada, especializando para o Município o mesmo instituto e o mesmo limite fixados no art. 81 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:03:38+00:00"
+ },
+ {
+  "de": "ctn.81",
+  "para": "floripa_ctm.421",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 421 do Código Tributário Municipal de Florianópolis detalha os critérios de rateio da contribuição de melhoria entre os contribuintes, como o valor da propriedade, a testada e a área territorial e edificada, complementando o limite individual previsto no art. 81 do CTN como o acréscimo de valor que a obra resultar para cada imóvel beneficiado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:03:38+00:00"
  }
 ]
