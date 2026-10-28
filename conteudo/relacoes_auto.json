@@ -41817,5 +41817,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T09:59:07+00:00"
+ },
+ {
+  "de": "cf.154",
+  "para": "ctn.15",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O imposto extraordinário de guerra do inciso II do art. 154 da Constituição Federal e o empréstimo compulsório de guerra do inciso I do art. 15 do CTN compartilham o mesmo fato desencadeador (a guerra externa ou sua iminência), o que gera risco de confusão entre os dois institutos, mas são distintos: o imposto não é restituível, ao passo que o empréstimo compulsório sujeita a União à devolução do valor arrecadado, conforme o prazo e as condições de resgate fixados na forma do parágrafo único do art. 15 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T10:53:25+00:00"
+ },
+ {
+  "de": "ctn.24",
+  "para": "cf.153",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 24 do CTN fixa a base de cálculo do imposto de exportação, tributo cuja competência é atribuída à União pelo inciso II do art. 153 da Constituição Federal, regulamentando em nível infraconstitucional esse mesmo imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T10:53:25+00:00"
+ },
+ {
+  "de": "ctn.26",
+  "para": "cf.153",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 26 do CTN autoriza o Poder Executivo a alterar, nas condições e nos limites da lei, as alíquotas ou as bases de cálculo do imposto de exportação, tributo de competência da União nos termos do inciso II do art. 153 da Constituição Federal, cujo § 1º também trata da faculdade de o Poder Executivo alterar alíquotas; o CTN regulamenta, para o imposto de exportação, essa mesma espécie de competência excepcional atribuída ao Executivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T10:53:25+00:00"
  }
 ]
