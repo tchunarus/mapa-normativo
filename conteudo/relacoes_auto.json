@@ -42087,5 +42087,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T15:06:08+00:00"
+ },
+ {
+  "de": "floripa_ctm.252",
+  "para": "lcp116.7",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 252 do CTM de Florianópolis reproduz, para o ISS municipal, a mesma base de cálculo fixada pelo art. 7º da LC 116/03 para o preço do serviço, detalhando nos parágrafos seguintes o que integra essa receita, de modo que os dois dispositivos tratam do mesmo instituto em regimes que se completam.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:44:26+00:00"
+ },
+ {
+  "de": "floripa_ctm.304",
+  "para": "ctn.77",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 304 do CTM de Florianópolis define o poder de polícia que serve de fundamento ao fato gerador das taxas tratado no art. 77 do CTN, de maneira que os dois dispositivos cuidam de institutos conexos, um conceituando o poder de polícia e o outro definindo a taxa que dele decorre.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:44:26+00:00"
+ },
+ {
+  "de": "ctn.82",
+  "para": "floripa_ctm.416",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 416 do CTM de Florianópolis reproduz, para a contribuição de melhoria municipal, os mesmos elementos de publicação prévia exigidos pelo inciso I do art. 82 do CTN, detalhando a área de influência e o fator de absorção que a lei municipal deve observar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:44:26+00:00"
+ },
+ {
+  "de": "ctn.82",
+  "para": "floripa_ctm.423",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 423 do CTM de Florianópolis reproduz o mesmo dever de notificação do contribuinte quanto ao montante, à forma e ao prazo de pagamento previsto no § 2º do art. 82 do CTN, cumprindo essa exigência no âmbito do lançamento municipal da contribuição de melhoria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T16:44:26+00:00"
  }
 ]
