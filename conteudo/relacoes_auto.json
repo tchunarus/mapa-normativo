@@ -41847,5 +41847,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T10:53:25+00:00"
+ },
+ {
+  "de": "ctn.40",
+  "para": "cf.156",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 40 do CTN trata da dedução, do imposto sobre a renda, do montante do imposto de transmissão causa mortis a que se refere o mesmo capítulo, relativo ao provento tributado nos termos do art. 43, ao passo que o art. 156, II, da CF institui o ITBI municipal, incidente apenas sobre a transmissão inter vivos, a título oneroso, de bens imóveis. Há risco de confusão entre os dois impostos de transmissão, pois o CTN, anterior à Constituição de 1988, regulava conjuntamente a transmissão causa mortis e a inter vivos, mas os dispositivos tratam de fatos geradores distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T12:42:46+00:00"
+ },
+ {
+  "de": "ctn.45",
+  "para": "d9580.34",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 34 do RIR/2018 regulamenta, com base no art. 43, § 1º, do CTN, o conceito de disponibilidade de renda que o art. 45 do CTN toma como critério para definir o contribuinte do imposto, ao dispor que a tributação independe da denominação, da origem ou da forma de percepção dos rendimentos. O instituto é conexo, não idêntico, pois o art. 45 define o sujeito passivo e o art. 34 delimita o alcance do fato gerador a que esse sujeito se vincula.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T12:42:46+00:00"
+ },
+ {
+  "de": "ctn.45",
+  "para": "d9580.796",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 796 do RIR/2018 regulamenta diretamente a atribuição de responsabilidade pela retenção do imposto sobre a renda à fonte pagadora, faculdade prevista no parágrafo único do art. 45 do CTN, detalhando as hipóteses em que a pessoa jurídica pagadora, a que recebe recursos em transferência de dívidas e as bolsas de valores respondem pela retenção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T12:42:46+00:00"
+ },
+ {
+  "de": "ctn.45",
+  "para": "d9580.782",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 782 do RIR/2018 regulamenta a condição de responsável da fonte pagadora prevista no parágrafo único do art. 45 do CTN, impondo a obrigação de recolhimento do imposto sobre a renda ainda que a retenção não tenha sido efetuada, o que detalha o alcance prático da responsabilidade legalmente atribuída à fonte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T12:42:46+00:00"
+ },
+ {
+  "de": "ctn.46",
+  "para": "lcp214.412",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 46 do CTN define o fato gerador do IPI (desembaraço aduaneiro, saída do estabelecimento e arrematação), enquanto o art. 412 da LC 214/2025 define o fato gerador do Imposto Seletivo, tributo federal criado pela EC 132/2023 que incide sobre a produção de bens e serviços prejudiciais à saúde ou ao meio ambiente. A semelhança estrutural entre as hipóteses de incidência, como o fornecimento, a arrematação em leilão e o consumo pelo fabricante, cria risco real de confusão entre os dois impostos federais sobre a produção, que permanecem distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T12:42:46+00:00"
+ },
+ {
+  "de": "ctn.46",
+  "para": "sc_icms_lei.4",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 46 do CTN define como fato gerador do IPI a saída do estabelecimento industrial, e o inciso I do art. 4º da Lei 10.297/96-SC define o fato gerador do ICMS como a saída de mercadoria do estabelecimento de contribuinte. A mesma operação de saída de produto industrializado pode configurar, a um só tempo, o fato gerador dos dois impostos, de competências distintas (União e Estado), o que gera conflito aparente de incidência, resolvido por regras próprias de coordenação entre as duas bases de cálculo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T12:42:46+00:00"
+ },
+ {
+  "de": "ctn.46",
+  "para": "sc_icms_lei.12",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 12 da Lei 10.297/96-SC complementa a disciplina do art. 46 do CTN ao excluir da base de cálculo do ICMS o montante do IPI, nas operações entre contribuintes destinadas à industrialização ou à comercialização em que se configure o fato gerador dos dois impostos, evitando a tributação do IPI pelo ICMS quando ambos os fatos geradores ocorrem na mesma operação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T12:42:46+00:00"
+ },
+ {
+  "de": "ctn.46",
+  "para": "lcp214.454",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 454 da LC 214/2025 excepciona, a partir de 1º de janeiro de 2027, a incidência do IPI cujo fato gerador o art. 46 do CTN define, ao reduzir a zero as alíquotas do imposto para produtos industrializados na Zona Franca de Manaus sujeitos a alíquota inferior a 6,5%, nas condições que especifica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T12:42:46+00:00"
  }
 ]
