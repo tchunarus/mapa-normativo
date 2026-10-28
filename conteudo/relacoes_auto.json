@@ -41927,5 +41927,15 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T12:42:46+00:00"
+ },
+ {
+  "de": "ctn.46",
+  "para": "sc_ricms.23",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O inciso I do art. 23 do RICMS-SC exclui da base de cálculo do ICMS o montante do Imposto sobre Produtos Industrializados quando a operação configurar fato gerador dos dois impostos, remetendo à hipótese de incidência do IPI definida no art. 46 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T12:49:25+00:00"
  }
 ]
