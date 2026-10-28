@@ -41957,5 +41957,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T14:11:51+00:00"
+ },
+ {
+  "de": "ctn.68",
+  "para": "lcp87.2",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 68 do CTN definia o fato gerador do extinto imposto federal sobre serviços de transporte e de comunicações; o art. 2º da LC 87/96 disciplina a incidência do ICMS estadual sobre as mesmas prestações de serviço de transporte interestadual e intermunicipal e de comunicação (incisos II e III), o que pode gerar confusão entre o tributo federal histórico e o imposto estadual vigente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T15:06:08+00:00"
+ },
+ {
+  "de": "ctn.69",
+  "para": "lcp116.7",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 69 do CTN fixava a base de cálculo do extinto imposto federal sobre serviços de transporte e comunicações como o preço do serviço; o art. 7º da LC 116/03 define a base de cálculo do ISS municipal com a mesma redação (o preço do serviço), apesar de se tratar de tributo distinto, o que pode gerar confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T15:06:08+00:00"
+ },
+ {
+  "de": "ctn.69",
+  "para": "floripa_ctm.252",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 252 do CTM de Florianópolis reproduz, para o ISS municipal, a mesma redação do art. 69 do CTN sobre a base de cálculo (o preço do serviço), referente a tributo distinto do extinto imposto federal sobre serviços de transporte e comunicações, o que pode gerar confusão entre os regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T15:06:08+00:00"
+ },
+ {
+  "de": "ctn.69",
+  "para": "lcp87.13",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 13 da LC 87/96 fixa o preço do serviço como base de cálculo do ICMS nas prestações de serviço de transporte interestadual e intermunicipal e de comunicação, as mesmas prestações a que se referia o extinto imposto federal do art. 69 do CTN, o que pode gerar confusão entre o tributo histórico e o imposto estadual atual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T15:06:08+00:00"
+ },
+ {
+  "de": "ctn.74",
+  "para": "lcp87.3",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 74 do CTN instituía o extinto imposto único federal sobre operações com combustíveis, lubrificantes e energia elétrica; o inciso III do art. 3º da LC 87/96 trata da não incidência do ICMS estadual sobre operações interestaduais com os mesmos bens, o que pode gerar confusão entre os regimes tributários sucessivos sobre essas operações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T15:06:08+00:00"
+ },
+ {
+  "de": "ctn.74",
+  "para": "lcp87.32-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 32-A da LC 87/96 trata da essencialidade tributária das operações com combustíveis e energia elétrica no regime atual do ICMS, objeto que também era alcançado pelo extinto imposto único federal do art. 74 do CTN sobre as mesmas operações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T15:06:08+00:00"
+ },
+ {
+  "de": "ctn.74",
+  "para": "lcp214.413",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 413 da LC 214/2025 trata da não incidência do Imposto Seletivo sobre operações com energia elétrica, objeto análogo ao do extinto imposto único federal sobre energia elétrica, combustíveis, lubrificantes e minerais do art. 74 do CTN, ainda que sob regime de não incidência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T15:06:08+00:00"
+ },
+ {
+  "de": "ctn.78",
+  "para": "floripa_ctm.304",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 304 do CTM de Florianópolis reproduz, para a administração municipal, a mesma definição de poder de polícia do art. 78 do CTN, especializando o conceito ao âmbito da fiscalização municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T15:06:08+00:00"
+ },
+ {
+  "de": "ctn.78",
+  "para": "cf.145",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 145 da CF autoriza a instituição de taxas em razão do exercício do poder de polícia; o art. 78 do CTN, como lei complementar de normas gerais em matéria tributária, detalha o conceito de poder de polícia e os requisitos de seu exercício regular, no parágrafo único.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T15:06:08+00:00"
+ },
+ {
+  "de": "ctn.80",
+  "para": "floripa_ctm.306",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 306 do CTM de Florianópolis reproduz, especializando ao âmbito municipal, a mesma regra do art. 80 do CTN sobre a atribuição de competência para instituição e cobrança de taxas conforme a repartição constitucional e legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T15:06:08+00:00"
+ },
+ {
+  "de": "ctn.81",
+  "para": "floripa_ctm.415",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 415 do CTM de Florianópolis regula a contribuição de melhoria municipal com o mesmo fato gerador (obra pública) e o mesmo limite total (despesa realizada) estabelecidos pelo art. 81 do CTN, especializando a norma geral ao âmbito municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T15:06:08+00:00"
+ },
+ {
+  "de": "ctn.81",
+  "para": "floripa_ctm.418",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 418 do CTM de Florianópolis detalha o lançamento da contribuição de melhoria em obras executadas em conjunto com o Estado ou a União, integrando a repartição de competências prevista no art. 81 do CTN para a contribuição cobrada por cada ente no âmbito de suas atribuições.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T15:06:08+00:00"
+ },
+ {
+  "de": "ctn.81",
+  "para": "cf.149-A",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A contribuição de melhoria regida pelo art. 81 do CTN, vinculada à valorização imobiliária decorrente de obra pública, não se confunde com a contribuição para custeio do serviço de iluminação pública do art. 149-A da CF, apesar de ambas serem tributos municipais denominados contribuição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-28T15:06:08+00:00"
  }
 ]
