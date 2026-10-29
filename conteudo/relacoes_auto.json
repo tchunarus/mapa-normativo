@@ -42527,5 +42527,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T06:42:46+00:00"
+ },
+ {
+  "de": "floripa_ctm.63",
+  "para": "cc.838",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "A moratória do art. 838 do CC é a prorrogação do prazo de pagamento concedida unilateralmente pelo credor, que desonera o fiador, instituto de direito privado distinto da moratória tributária disciplinada pelo art. 154 do CTN e reproduzida no art. 63 do CTM, que é ato legal ou administrativo de suspensão da exigibilidade do crédito tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T09:58:26+00:00"
+ },
+ {
+  "de": "floripa_ctm.66",
+  "para": "ctn.180",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 180 do CTN exclui a anistia, e não a moratória, dos casos de dolo, fraude ou simulação, com redação muito próxima à do art. 66 do CTM; são institutos conexos mas distintos, a moratória suspende a exigibilidade e a anistia exclui o crédito tributário, e a semelhança textual cria risco de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T09:58:26+00:00"
+ },
+ {
+  "de": "ctn.157",
+  "para": "floripa_ctm.68",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 68 do CTM reproduz, para os tributos municipais, a regra do art. 157 do CTN de que a imposição de penalidade não substitui o pagamento integral do crédito tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T09:58:26+00:00"
+ },
+ {
+  "de": "ctn.157",
+  "para": "sc_icms_lei.75",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 75 da Lei 10.297/96-SC aplica ao ICMS a mesma regra do art. 157 do CTN, afastando a ideia de que a multa pela infração substitui a exigência do imposto devido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T09:58:26+00:00"
+ },
+ {
+  "de": "ctn.159",
+  "para": "floripa_ctm.70",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 70 do CTM fixa, para os tributos municipais, a mesma regra supletiva do art. 159 do CTN quanto ao local do pagamento na repartição do domicílio tributário do sujeito passivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T09:58:26+00:00"
+ },
+ {
+  "de": "ctn.159",
+  "para": "d9580.937",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 937 do RIR dispõe especificamente sobre o local de pagamento do imposto de renda, admitindo-o em qualquer estabelecimento bancário autorizado independentemente do domicílio tributário, afastando para esse tributo a regra supletiva do art. 159 do CTN, aplicável apenas quando a legislação não dispuser a respeito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T09:58:26+00:00"
+ },
+ {
+  "de": "ctn.162",
+  "para": "floripa_ctm.72",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 72 do CTM reproduz, para os tributos municipais, a modalidade de pagamento em moeda corrente ou cheque do inciso I do art. 162 do CTN, inclusive a regra de que o crédito só se extingue com o resgate do cheque pelo sacado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T09:58:26+00:00"
+ },
+ {
+  "de": "ctn.162",
+  "para": "floripa_ctm.74",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 74 do CTM reproduz, para os tributos municipais, a modalidade de pagamento por estampilha, papel selado ou processo mecânico do inciso II do art. 162 do CTN, incluindo as regras de extinção do crédito pela inutilização da estampilha e de não restituição em caso de perda ou erro, previstas nos §§ 3º e 4º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T09:58:26+00:00"
+ },
+ {
+  "de": "ctn.162",
+  "para": "d9580.934",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 934 do RIR restringe, para o imposto de renda, as modalidades de pagamento às de dinheiro ou cheque, especializando para esse tributo o rol mais amplo de modalidades de pagamento do caput do art. 162 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T09:58:26+00:00"
+ },
+ {
+  "de": "ctn.166",
+  "para": "floripa_ctm.82",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 82 do CTM reproduz, com redação praticamente idêntica, a regra do art. 166 do CTN sobre a restituição de tributos que comportem transferência do encargo financeiro, exigindo prova da assunção do encargo ou autorização expressa de quem o assumiu.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T09:58:26+00:00"
  }
 ]
