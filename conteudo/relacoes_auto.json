@@ -42977,5 +42977,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "cpc.165",
+  "para": "l14133.151",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 151 da Lei 14.133/21 autoriza o uso de meios alternativos de resolução de controvérsias, entre eles a conciliação e a mediação, nas contratações administrativas sobre direitos patrimoniais disponíveis, aplicando à Administração a política de autocomposição estruturada pelo art. 165 do CPC por meio dos centros judiciários; tratam de institutos conexos, a conciliação e a mediação gerais e sua aplicação às contratações públicas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:05:54+00:00"
+ },
+ {
+  "de": "l13988.10-A",
+  "para": "d70235.1",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1º do Decreto 70.235/72 rege o processo administrativo de determinação e exigência dos créditos tributários da União, contencioso administrativo fiscal dentro do qual o art. 10-A da Lei 13.988/20 admite a proposta de transação pela Receita Federal ou por iniciativa do devedor; são institutos conexos, o processo administrativo fiscal geral e o mecanismo de transação nele inserido como alternativa ao litígio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:05:54+00:00"
+ },
+ {
+  "de": "lcp214.341-E",
+  "para": "l9430.80-B",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 80-B da Lei 9.430/96 esclarece que a baixa de ofício da inscrição no CNPJ, uma das medidas administrativas listadas no inciso II do art. 341-E da LC 214/2025, não impede o lançamento ou a cobrança posterior dos débitos tributários da pessoa jurídica; são institutos conexos, a medida administrativa de baixa cadastral e seus efeitos sobre a exigibilidade do crédito tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:05:54+00:00"
  }
 ]
