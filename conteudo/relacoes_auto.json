@@ -43277,5 +43277,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "cpc.149",
+  "para": "l11101.28",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 149 do CPC inclui o administrador entre os auxiliares genéricos da Justiça, como o administrador de bens penhorados, ao passo que o art. 28 da Lei 11.101/05 trata do administrador judicial da recuperação e da falência, cargo com nomeação e atribuições próprias da lei falimentar, o que pode gerar confusão entre os dois ofícios homônimos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:50:26+00:00"
+ },
+ {
+  "de": "cpc.175",
+  "para": "l11101.20-C",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 175 do CPC estende o regime da Seção sobre conciliação e mediação, inclusive a órgãos institucionais, e o art. 20-C da Lei 11.101/05 apenas detalha, para a recuperação judicial, que o acordo obtido por conciliação ou mediação deve ser homologado pelo juízo competente conforme o art. 3º dessa lei, sem instituir regime autônomo de conciliação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:50:26+00:00"
+ },
+ {
+  "de": "l13988.27-A",
+  "para": "l14973.22-D",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 27-A da Lei 13.988/20 estende o regime de transação dessa lei à dívida ativa das autarquias e fundações públicas federais representadas pela Procuradoria-Geral Federal, e o art. 22-D da Lei 14.973/24 cria, para os mesmos créditos, um regime próprio de transação proposta por essa Procuradoria, de modo que coexistem dois fundamentos legais de transação para o mesmo universo de créditos, com risco de dúvida sobre qual regime se aplica a um caso concreto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:50:26+00:00"
+ },
+ {
+  "de": "l9307.1",
+  "para": "cpc.3",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O parágrafo primeiro do art. 3º do CPC permite a arbitragem na forma da lei, remetendo à disciplina própria da Lei 9.307/96, cujo art. 1º define precisamente quem pode valer-se da arbitragem, as pessoas capazes de contratar, inclusive a administração pública, e para quais direitos, os patrimoniais disponíveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:50:26+00:00"
+ },
+ {
+  "de": "l9307.1",
+  "para": "ctn.171-C",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 1º da Lei 9.307/96 limita a arbitragem a direitos patrimoniais disponíveis, regra pensada para relações privadas, e o art. 171-C do CTN trata de arbitragem especial tributária e aduaneira sobre créditos tributários, que em regra são indisponíveis, criando regime próprio que não se confunde com o requisito de disponibilidade da lei geral de arbitragem, apesar de ambos tratarem do mesmo meio de solução de litígios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:50:26+00:00"
+ },
+ {
+  "de": "ctn.190",
+  "para": "cc.51",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 51 do CC disciplina a liquidação da pessoa jurídica de direito privado dissolvida ou com autorização cassada, até a conclusão desse procedimento, e o art. 190 do CTN complementa esse mesmo regime ao assegurar que, durante a liquidação judicial ou voluntária dessas pessoas jurídicas, os créditos tributários vencidos ou vincendos sejam pagos com preferência sobre quaisquer outros.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:50:26+00:00"
+ },
+ {
+  "de": "ctn.190",
+  "para": "l11101.151",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 190 do CTN confere preferência absoluta aos créditos tributários na liquidação judicial ou voluntária de pessoa jurídica de direito privado, e na falência, regida pela Lei 11.101/05, o art. 151 assegura que os créditos trabalhistas salariais vencidos nos três meses anteriores à quebra, até cinco salários mínimos por trabalhador, sejam pagos antes mesmo dos tributários, o que mostra que a preferência do art. 190 do CTN não se aplica do mesmo modo no regime falimentar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:50:26+00:00"
  }
 ]
