@@ -43497,5 +43497,225 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T20:51:05+00:00"
+ },
+ {
+  "de": "cc.49",
+  "para": "cpc.613",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos usam a expressão administrador provisório, mas o art. 49 do Código Civil trata do administrador nomeado quando falta a administração da pessoa jurídica, enquanto o art. 613 do CPC trata do administrador provisório do espólio antes de o inventariante prestar compromisso, institutos distintos que podem ser confundidos pela nomenclatura comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "cc.49",
+  "para": "cpc.614",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 614 do CPC detalha os poderes do administrador provisório do espólio, figura distinta do administrador provisório da pessoa jurídica sem administração previsto no art. 49 do Código Civil, ainda que a terminologia idêntica gere risco de confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "cpc.166",
+  "para": "l9307.21",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 166 do CPC rege os princípios da conciliação e da mediação, métodos autocompositivos informados pela autonomia da vontade das partes, enquanto o art. 21 da Lei de Arbitragem rege o procedimento arbitral, método heterocompositivo conduzido por árbitro, institutos conexos mas estruturalmente distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "cpc.166",
+  "para": "cc.725",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo mediação é empregado em sentidos diferentes nos dois dispositivos: no art. 166 do CPC designa o método consensual de solução de conflitos regido pela autonomia da vontade e pela confidencialidade, e no art. 725 do Código Civil designa a atividade do corretor que aproxima as partes de um negócio, remunerada pelo resultado obtido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "cpc.166",
+  "para": "l11101.20-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 20-A da Lei 11.101/05 aplica o instituto da conciliação e da mediação regido pelo art. 166 do CPC ao contexto da recuperação judicial e da falência, acrescentando regra própria sobre a não suspensão dos prazos da lei, salvo consenso entre as partes ou determinação judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "cpc.308",
+  "para": "l9307.22-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 22-A da Lei de Arbitragem reproduz, para a fase pré-arbitral, a lógica do art. 308 do CPC sobre tutela cautelar antecedente, exigindo que a parte requeira a instituição da arbitragem no prazo de 30 dias, em vez do pedido principal judicial previsto no CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "l11079.11",
+  "para": "l8987.18",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 11 da Lei 11.079/04 determina expressamente que o instrumento convocatório da parceria público-privada observe, no que couber, o art. 18 da Lei 8.987/95, que disciplina o conteúdo mínimo do edital de licitação da concessão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "l11079.11",
+  "para": "l9307.1",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Lei 9.307/96 autoriza de modo geral a administração pública a utilizar a arbitragem para dirimir conflitos sobre direitos patrimoniais disponíveis, e o art. 11, III, da Lei 11.079/04 especializa essa autorização para os contratos de parceria público-privada, exigindo sede no Brasil e língua portuguesa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "lcp123.75",
+  "para": "clt.625-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 75 da LC 123/06 reconhece de pleno direito os acordos celebrados no âmbito das comissões de conciliação prévia, instituto definido pelo art. 625-A da CLT, de modo que os dois dispositivos integram o mesmo regime da conciliação prévia trabalhista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "lcp123.75",
+  "para": "l9307.1",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Lei 9.307/96 autoriza de modo geral o uso da arbitragem para direitos patrimoniais disponíveis, e o art. 75 da LC 123/06 especializa essa autorização ao estimular as microempresas e empresas de pequeno porte a utilizarem a arbitragem na solução de seus conflitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "lcp214.341",
+  "para": "l9430.33",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 341 da LC 214/2025 trata do regime especial de fiscalização próprio do IBS e da CBS, instituído por essa lei complementar, enquanto o art. 33 da Lei 9.430/96 trata do regime especial de fiscalização da Receita Federal para os demais tributos federais, regimes análogos mas distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "lcp214.341",
+  "para": "floripa_ctm.263",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos preveem que a submissão a um regime especial de fiscalização não dispensa o sujeito passivo do cumprimento das obrigações acessórias, mas o art. 341 da LC 214/2025 trata do regime do IBS e da CBS e o art. 263 do CTM de Florianópolis trata do regime próprio do ISS municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "lcp214.341",
+  "para": "l9430.44",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 341 da LC 214/2025 duplica o percentual das multas de ofício aplicáveis ao IBS e à CBS durante o regime especial de fiscalização, enquanto o art. 44 da Lei 9.430/96 fixa as multas de lançamento de ofício para os tributos federais em geral, regimes punitivos análogos mas de tributos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "lsa.220",
+  "para": "cc.1113",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 1.113 do Código Civil repete, em termos praticamente idênticos, a definição de transformação societária do art. 220 da Lei das S.A., aplicando a regra geral de que a operação independe de dissolução e liquidação a todos os tipos societários regidos pelo Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "lsa.220",
+  "para": "cc.1114",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.114 do Código Civil acrescenta ao instituto da transformação societária definido pelo art. 220 da Lei das S.A. o requisito do consentimento de todos os sócios, salvo previsão em contrário no ato constitutivo, complementando o mesmo regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "lsa.220",
+  "para": "cc.1115",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.115 do Código Civil complementa a definição de transformação do art. 220 da Lei das S.A. ao disciplinar os efeitos da operação sobre os direitos dos credores e sobre a responsabilidade dos sócios perante a falência da sociedade transformada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "lsa.220",
+  "para": "cc.2033",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 2.033 do Código Civil ressalva expressamente que suas regras de transformação, incorporação, cisão e fusão cedem diante de disposição de lei especial, de modo que o regime próprio da transformação da sociedade anônima do art. 220 da Lei das S.A. excepciona a regra geral do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "lsa.220",
+  "para": "l8934.65-A",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 65-A da Lei 8.934/94 disciplina o procedimento de registro por meio eletrônico dos atos de transformação perante as Juntas Comerciais, dando efetividade registral à operação de transformação substantivamente definida pelo art. 220 da Lei das S.A.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "lsa.220",
+  "para": "cc.984",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 984 do Código Civil determina que o pedido de inscrição do empresário rural equiparado a empresário se subordine, no que for aplicável, às normas que regem a transformação, aplicando subsidiariamente a essa equiparação o mesmo regime de transformação definido pelo art. 220 da Lei das S.A.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "ctn.193",
+  "para": "floripa_ctm.110",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 110 do CTM de Florianópolis reproduz, no âmbito municipal, a exigência do art. 193 do CTN de prova de quitação de tributos para celebrar contrato ou aceitar proposta em concorrência pública, especializando a regra geral para os tributos devidos ao Tesouro do Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "ctn.193",
+  "para": "l8212.56",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos condicionam a celebração de ajustes com a administração pública à inexistência de débitos tributários, mas o art. 193 do CTN exige quitação geral do contratante particular perante a Fazenda Pública, enquanto o art. 56 da Lei 8.212/91 exige inexistência de débitos de contribuições ao INSS para que os próprios entes federativos recebam repasses e celebrem convênios entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "ctn.193",
+  "para": "cc.311",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo quitação é empregado em sentidos diferentes: no art. 193 do CTN designa a prova de pagamento de todos os tributos devidos, exigida do contratante com a administração pública, e no art. 311 do Código Civil designa a presunção de autorização para receber pagamento conferida ao portador do recibo de uma obrigação civil qualquer.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T21:59:22+00:00"
  }
 ]
