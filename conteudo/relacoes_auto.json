@@ -42467,5 +42467,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T01:40:39+00:00"
+ },
+ {
+  "de": "floripa_ctm.62",
+  "para": "ctn.153",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 62 do CTM de Florianópolis reproduz, para a moratória municipal, os requisitos que a lei concessiva deve especificar nos termos do art. 153 do CTN (prazo de duração, condições da concessão, tributos a que se aplica e garantias), acrescentando a exigência de área de aplicabilidade na alínea d.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T06:42:46+00:00"
+ },
+ {
+  "de": "floripa_ctm.93",
+  "para": "ctn.175",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 93 do CTM de Florianópolis reproduz, para o âmbito municipal, as duas hipóteses de exclusão do crédito tributário do art. 175 do CTN, isenção e anistia, inclusive a ressalva sobre a subsistência das obrigações acessórias dependentes da obrigação principal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T06:42:46+00:00"
+ },
+ {
+  "de": "floripa_ctm.93",
+  "para": "ctn.151",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 93 do CTM de Florianópolis fala em excluir a exigibilidade do crédito tributário, o que pode ser confundido com a suspensão da exigibilidade tratada no art. 151 do CTN. Isenção e anistia excluem o próprio crédito tributário, enquanto as hipóteses do art. 151 apenas suspendem, temporariamente, a exigibilidade de um crédito que continua existindo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T06:42:46+00:00"
+ },
+ {
+  "de": "lcp214.70",
+  "para": "lcp87.14",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 70 da LC 214/2025 e o art. 14 da LC 87/96 estabelecem a mesma regra de conversão cambial para a base de cálculo na importação, usando a taxa de câmbio do Imposto de Importação sem ajuste posterior por variação cambial, uma para o IBS e a CBS e outra para o ICMS, com risco de confusão entre os regimes durante a transição da reforma tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T06:42:46+00:00"
+ },
+ {
+  "de": "ctn.154",
+  "para": "floripa_ctm.63",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 63 do CTM de Florianópolis reproduz, para a moratória municipal, a regra do caput do art. 154 do CTN sobre o alcance temporal da moratória, limitando-a aos créditos definitivamente constituídos ou cujo lançamento já tenha sido iniciado e notificado ao sujeito passivo até a data da lei concessiva.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T06:42:46+00:00"
+ },
+ {
+  "de": "ctn.154",
+  "para": "floripa_ctm.66",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 66 do CTM de Florianópolis reproduz, para a moratória municipal, a vedação prevista no art. 154 do CTN, cujo parágrafo único dispõe que a moratória não aproveita aos casos de dolo, fraude ou simulação do sujeito passivo ou de terceiro em benefício deste.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T06:42:46+00:00"
  }
 ]
