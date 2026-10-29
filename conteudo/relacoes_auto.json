@@ -43717,5 +43717,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T21:59:22+00:00"
+ },
+ {
+  "de": "l8934.65-A",
+  "para": "cc.1113",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 65-A da Lei 8.934/94 admite que o ato de transformação seja praticado por meio de sistema eletrônico da administração pública federal, dando um meio procedimental à inscrição do tipo societário que o art. 1.113 do Código Civil exige para a transformação, sem disciplinar os preceitos materiais a que esta se sujeita.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "lsa.222",
+  "para": "cc.1115",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 222 da LSA e o art. 1.115 do Código Civil preveem, em termos quase idênticos, que a transformação não prejudicará os direitos dos credores e que a falência da sociedade transformada só produzirá efeitos em relação aos sócios que a eles estariam sujeitos no tipo anterior, mas o primeiro rege as sociedades por ações e o segundo as demais sociedades, havendo risco de se invocar o diploma equivocado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "cc.1115",
+  "para": "l11101.81",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 81 da Lei 11.101/05 estende a falência da sociedade aos sócios ilimitadamente responsáveis, enquanto o art. 1.115 do Código Civil restringe essa extensão, no caso de sociedade transformada, aos sócios que a esse regime estariam sujeitos no tipo societário anterior, excepcionando a regra geral de extensão da falência aos sócios quanto à sociedade que passou por transformação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "l8429.8-A",
+  "para": "cc.2033",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 8º-A da LIA estende a responsabilidade sucessória da pessoa jurídica às hipóteses de alteração contratual, transformação, incorporação, fusão e cisão societária, restringindo-a, nos casos de fusão e incorporação, à reparação do dano até o limite do patrimônio transferido, regime especial que excepciona, para fins de improbidade administrativa, a regra geral do art. 2.033 do Código Civil segundo a qual esses atos regem-se desde logo pelo Código, salvo disposição de lei especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "l12846.4",
+  "para": "cc.2033",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 4º da Lei 12.846/13 mantém a responsabilidade da pessoa jurídica nas hipóteses de alteração contratual, transformação, incorporação ou cisão societária e limita, nos casos de fusão e incorporação, a responsabilidade da sucessora à multa e à reparação do dano até o patrimônio transferido, regime especial de responsabilização por atos lesivos à administração pública que excepciona, para essa finalidade, a regra geral do art. 2.033 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "ctn.132",
+  "para": "cc.2033",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 132 do CTN atribui à pessoa jurídica resultante de fusão, transformação ou incorporação a responsabilidade pelos tributos devidos até a data do ato pelas pessoas jurídicas fusionadas, transformadas ou incorporadas, regra especial de responsabilidade tributária sucessória que excepciona, para fins fiscais, o regime geral do art. 2.033 do Código Civil sobre os efeitos desses atos societários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "lsa.219",
+  "para": "cc.2033",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 219 da LSA dispõe que a companhia se extingue pela incorporação, fusão ou cisão com versão de todo o patrimônio em outras sociedades, regra própria do regime das sociedades por ações que excepciona, para esse tipo societário, o regime geral do art. 2.033 do Código Civil sobre os efeitos da transformação, incorporação, cisão ou fusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "floripa_ctm.39",
+  "para": "cc.2033",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 39 do CTM de Florianópolis repete, no âmbito tributário municipal, a responsabilidade da pessoa jurídica resultante de fusão, transformação ou incorporação pelos tributos devidos até a data do ato pelas pessoas jurídicas fusionadas, transformadas ou incorporadas, regra especial que excepciona, para os tributos municipais, o regime geral do art. 2.033 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "d9580.196",
+  "para": "cc.2033",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 196 do RIR/2018 elenca quem responde pelo imposto sobre a renda devido pelas pessoas jurídicas transformadas, extintas ou cindidas, disciplinando, para o imposto de renda, a responsabilidade tributária sucessória que excepciona o regime geral do art. 2.033 do Código Civil sobre os efeitos civis da transformação, incorporação, cisão ou fusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "lsa.211",
+  "para": "cc.311",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 211 da LSA confere ao liquidante poder específico para receber e dar quitação em nome da companhia em liquidação, enquanto o art. 311 do Código Civil estabelece a presunção geral de que o portador da quitação está autorizado a receber o pagamento, institutos distintos de autorização para receber pagamento que podem ser confundidos entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "cpc.880",
+  "para": "cc.725",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 880 do CPC prevê a alienação de bem penhorado por intermédio de corretor credenciado, com fixação de comissão de corretagem pelo juiz, aplicação processual específica, na execução, do instituto da remuneração do corretor que o art. 725 do Código Civil disciplina de modo geral para o contrato de corretagem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "cpc.169",
+  "para": "cc.725",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 169 do CPC trata da remuneração do mediador e do conciliador no âmbito dos métodos judiciais de solução consensual de conflitos, enquanto o art. 725 do Código Civil rege a remuneração do corretor no contrato também chamado de mediação, nome comum a institutos de remuneração totalmente distintos que pode gerar confusão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "cc.984",
+  "para": "l8934.2",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 984 do Código Civil permite à sociedade rural requerer inscrição no Registro Público de Empresas Mercantis da sua sede para equiparar-se à sociedade empresária, registro cujo funcionamento e cujos atos de arquivamento são regidos pelo art. 2º da Lei 8.934/94.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "cpc.614",
+  "para": "cc.2020",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 614 do CPC impõe ao administrador provisório do espólio o dever de trazer ao acervo os frutos percebidos desde a abertura da sucessão, o direito ao reembolso das despesas necessárias e úteis e a responsabilidade pelo dano a que der causa por dolo ou culpa, regime que o art. 2.020 do Código Civil já estabelece de modo mais amplo para os herdeiros em posse dos bens, o cônjuge sobrevivente e o inventariante, cabendo ao CPC detalhar sua aplicação à figura do administrador provisório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T22:48:54+00:00"
  }
 ]
