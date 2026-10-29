@@ -42727,5 +42727,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T12:12:43+00:00"
+ },
+ {
+  "de": "floripa_ctm.96",
+  "para": "ctn.181",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 96 do Código Tributário Municipal de Florianópolis complementa o regime da anistia tributária disciplinado pelo art. 181 do CTN, pois acrescenta ao mesmo instituto as vedações aplicáveis quando a infração for qualificada como crime, contravenção ou decorrer de conluio entre duas ou mais pessoas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T13:07:04+00:00"
+ },
+ {
+  "de": "ctn.171-B",
+  "para": "cpc.168",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 171-B do CTN prevê que o mediador tributário e aduaneiro seja escolhido ou aceito pelas partes, repetindo para a matéria fiscal o mesmo instituto da escolha consensual do mediador regulado pelo art. 168 do CPC, aplicável à mediação em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T13:07:04+00:00"
+ },
+ {
+  "de": "floripa_ctm.98",
+  "para": "ctn.181",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 98 do Código Tributário Municipal de Florianópolis complementa o regime do art. 181 do CTN ao disciplinar o procedimento de concessão individual da anistia referida no inciso segundo daquele artigo, exigindo despacho do Prefeito Municipal mediante requerimento que comprove o preenchimento das condições legais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T13:07:04+00:00"
+ },
+ {
+  "de": "ctn.181",
+  "para": "cpp.742",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 181 do CTN trata da anistia como forma de exclusão do crédito tributário relativo a penalidades pecuniárias, instituto conexo mas distinto da anistia penal referida no art. 742 do CPP, que extingue a pena após o trânsito em julgado da sentença condenatória, existindo risco real de confusão entre os dois institutos por compartilharem o mesmo nome.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T13:07:04+00:00"
  }
 ]
