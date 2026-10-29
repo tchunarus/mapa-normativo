@@ -43407,5 +43407,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T19:46:50+00:00"
+ },
+ {
+  "de": "cpc.1049",
+  "para": "cpp.394",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 1.049 do CPC, em seu parágrafo único, trata do procedimento sumário como categoria extinta do processo civil, absorvida pelo procedimento comum quando uma lei a ele remeter sem especificação de outro procedimento; o art. 394 do CPP usa a mesma expressão procedimento sumário para designar instituto diverso, vigente e exclusivamente penal, destinado a crimes com pena máxima inferior a quatro anos, o que gera risco real de confusão entre institutos homônimos de ramos distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T20:51:05+00:00"
+ },
+ {
+  "de": "l11101.167-L",
+  "para": "cpc.519",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 167-L da Lei 11.101/05 permite que o juiz conceda liminarmente medidas de tutela provisória, fundadas em urgência ou evidência, no processo de reconhecimento de insolvência estrangeira; como a lei falimentar não disciplina o cumprimento dessas decisões, aplica-se subsidiariamente o art. 519 do CPC, que determina a observância, no que couber, das disposições sobre cumprimento de sentença e liquidação às decisões que concedem tutela provisória.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T20:51:05+00:00"
+ },
+ {
+  "de": "cpc.519",
+  "para": "cc.49",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 49 do Código Civil emprega o termo administrador provisório para designar o gestor nomeado pelo juiz quando falta a administração da pessoa jurídica, enquanto o art. 519 do CPC usa o adjetivo provisória para qualificar a tutela jurisdicional de urgência ou evidência concedida antes do julgamento definitivo da causa; a semelhança terminológica pode induzir à falsa impressão de que os dois dispositivos tratam do mesmo instituto, quando na verdade um diz respeito à gestão da pessoa jurídica e o outro à proteção processual provisória do direito discutido em juízo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T20:51:05+00:00"
+ },
+ {
+  "de": "l11101.20-B",
+  "para": "cpc.308",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 20-B, § 1º, da Lei 11.101/05 remete expressamente ao art. 305 e seguintes do CPC para a tutela de urgência cautelar que a empresa em dificuldade pode obter antes do ajuizamento da recuperação judicial; o art. 308 do CPC integra esse mesmo bloco de dispositivos sobre tutela cautelar antecedente, disciplinando o prazo de trinta dias para a formulação do pedido principal nos mesmos autos em que se deduziu o pedido cautelar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T20:51:05+00:00"
+ },
+ {
+  "de": "l11101.20-B",
+  "para": "cpc.3",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 3º do CPC determina, de modo geral, que juízes, advogados e membros do Ministério Público estimulem a conciliação e a mediação, inclusive no curso do processo judicial; o art. 20-B da Lei 11.101/05 complementa esse mandamento ao admitir expressamente conciliações e mediações antecedentes ou incidentais aos processos de recuperação judicial, detalhando hipóteses específicas como disputas entre sócios, litígios com credores extraconcursais e negociação de dívidas anterior ao pedido de recuperação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T20:51:05+00:00"
+ },
+ {
+  "de": "l11101.20-C",
+  "para": "cpc.166",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 20-C da Lei 11.101/05 disciplina a homologação judicial do acordo obtido por conciliação ou mediação na recuperação judicial, sem estabelecer princípios próprios para a condução desses procedimentos; aplica-se, por isso, subsidiariamente o art. 166 do CPC, que elenca os princípios da independência, da imparcialidade, da autonomia da vontade, da confidencialidade, da oralidade e da informalidade que informam toda conciliação ou mediação realizada no âmbito judicial brasileiro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T20:51:05+00:00"
+ },
+ {
+  "de": "l11101.28",
+  "para": "cc.49",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 49 do Código Civil estabelece a regra geral de que, faltando a administração da pessoa jurídica, o juiz nomeia administrador provisório a requerimento de interessado; o art. 28 da Lei 11.101/05 especializa essa lógica de suprimento judicial da função administrativa para o regime falimentar, determinando que, não havendo Comitê de Credores, o administrador judicial exerça suas atribuições e, se este também estiver incompatibilizado, o próprio juiz as exerça diretamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T20:51:05+00:00"
+ },
+ {
+  "de": "l8987.23-A",
+  "para": "l11079.11",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 23-A da Lei 8.987/95 permite que o contrato de concessão preveja mecanismos privados de resolução de disputas, inclusive arbitragem realizada no Brasil e em língua portuguesa, nos termos da Lei 9.307/96; o inciso III do art. 11 da Lei 11.079/04 complementa esse mesmo regime ao reproduzir a faculdade para os contratos de parceria público-privada, que observam, no que couber, os arts. 18, 19 e 21 da própria Lei 8.987/95 segundo o caput desse mesmo artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T20:51:05+00:00"
+ },
+ {
+  "de": "l9099.7",
+  "para": "cf.98",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 98 da Constituição Federal autoriza a criação de juizados especiais providos por juízes togados ou togados e leigos; o art. 7º da Lei 9.099/95 regulamenta essa previsão constitucional ao disciplinar o recrutamento dos juízes leigos, preferencialmente entre advogados com mais de cinco anos de experiência, e ao vedar-lhes, no parágrafo único, o exercício da advocacia perante os próprios Juizados Especiais enquanto estiverem no desempenho de suas funções.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T20:51:05+00:00"
  }
 ]
