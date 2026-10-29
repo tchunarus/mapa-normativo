@@ -42627,5 +42627,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T09:58:26+00:00"
+ },
+ {
+  "de": "cc.838",
+  "para": "l8245.12",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 838 do CC estabelece causas legais de exoneração automática da fiança por atos do credor, como a moratória sem consentimento e a impossibilidade de sub-rogação; o § 2º do art. 12 da Lei 8.245/91 prevê hipótese distinta, de exoneração voluntária do fiador mediante comunicação escrita no prazo de 30 dias após a dissolução do vínculo conjugal, com responsabilidade residual por 120 dias. Há risco de confusão entre os dois regimes de extinção da responsabilidade do fiador, automático em um caso e dependente de ato do fiador no outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T10:57:41+00:00"
+ },
+ {
+  "de": "cc.838",
+  "para": "cpc.778",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 838, II, do CC exonera o fiador quando, por fato do credor, for impossível a sub-rogação nos seus direitos e preferências; o § 1º, inciso IV, do art. 778 do CPC disciplina o procedimento pelo qual o sub-rogado, nos casos de sub-rogação legal ou convencional, pode promover ou prosseguir na execução forçada, via processual de que depende justamente a sub-rogação do fiador que paga a dívida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T10:57:41+00:00"
+ },
+ {
+  "de": "ctn.180",
+  "para": "floripa_ctm.96",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 180 do CTN, norma geral nacional, exclui a anistia tributária das infrações qualificadas como crime ou contravenção e das praticadas com dolo, fraude ou simulação, bem como das resultantes de conluio, ressalvada disposição em contrário; o art. 96 do Código Tributário Municipal de Florianópolis reproduz, no âmbito do tributo municipal, as mesmas duas hipóteses de inaplicabilidade da anistia, detalhando o regime nacional sem alterá-lo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T10:57:41+00:00"
  }
 ]
