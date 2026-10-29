@@ -43857,5 +43857,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T22:48:54+00:00"
+ },
+ {
+  "de": "cpc.880",
+  "para": "lef.23",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "Ambos regulam a alienação judicial de bens penhorados por leilão, mas a LEF não disciplina a intervenção de corretor ou leiloeiro público credenciado nem a fixação de comissão de corretagem, tratadas no § 1º do art. 880 do CPC, de modo que este se aplica subsidiariamente à execução fiscal nesse ponto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T23:57:30+00:00"
+ },
+ {
+  "de": "cpc.880",
+  "para": "l14133.31",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Há risco de confusão entre o leiloeiro público credenciado perante o órgão judiciário, de que trata o art. 880 do CPC para a execução civil, e o leiloeiro oficial selecionado mediante credenciamento ou licitação de que trata o § 1º do art. 31 da Lei 14.133/21, regime próprio das alienações realizadas pela administração pública em processo licitatório, distinto da execução judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T23:57:30+00:00"
+ },
+ {
+  "de": "floripa_ctm.263",
+  "para": "ctn.175",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 263 do CTM de Florianópolis aplica, a um regime especial municipal determinado, o princípio geral do parágrafo único do art. 175 do CTN, segundo o qual a exclusão do crédito tributário não dispensa o cumprimento das obrigações acessórias a ele relacionadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T23:57:30+00:00"
+ },
+ {
+  "de": "l8934.65-A",
+  "para": "lsa.234",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 234 da LSA atribui à certidão do registro do comércio relativa a incorporação, fusão ou cisão a função de documento hábil para a averbação da sucessão nos registros públicos competentes, e o art. 65-A da Lei 8.934/94 disciplina o meio pelo qual esse mesmo ato de registro pode ser praticado, admitindo o sistema eletrônico mantido pela administração pública federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T23:57:30+00:00"
+ },
+ {
+  "de": "l8987.18",
+  "para": "cf.175",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 175 da Constituição exige licitação para a concessão de serviço público e remete à lei a disciplina do regime das concessionárias, e o art. 18 da Lei 8.987/95 regulamenta especificamente o conteúdo mínimo do edital dessa licitação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T23:57:30+00:00"
+ },
+ {
+  "de": "l8987.18",
+  "para": "l14133.25",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam do mesmo instituto, o conteúdo mínimo exigido do edital de licitação, mas em regimes distintos, concessão de serviço público na Lei 8.987/95 e contratações administrativas em geral na Lei 14.133/21, o que gera risco de se aplicar a um edital de concessão o rol do art. 25 da Lei 14.133/21 em vez do art. 18 da Lei 8.987/95.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T23:57:30+00:00"
+ },
+ {
+  "de": "l9307.21",
+  "para": "cpc.42",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 42 do CPC reconhece o direito de as partes instituírem juízo arbitral na forma da lei, remissão que é satisfeita pela disciplina do procedimento arbitral estabelecida no art. 21 da Lei 9.307/96.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T23:57:30+00:00"
+ },
+ {
+  "de": "l9307.21",
+  "para": "cc.853",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 853 do Código Civil admite a cláusula compromissória na forma estabelecida em lei especial, remissão que é a Lei 9.307/96, cujo art. 21 disciplina o procedimento a ser seguido na arbitragem instituída por essa cláusula.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T23:57:30+00:00"
+ },
+ {
+  "de": "l9307.21",
+  "para": "l9099.24",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Há risco de confusão entre o juízo arbitral facultativo e simplificado dos Juizados Especiais Cíveis, instaurado pela simples escolha de árbitro dentre juízes leigos e decidido por equidade conforme o art. 25 da Lei 9.099/95, e a arbitragem do art. 21 da Lei 9.307/96, cujo procedimento é estabelecido pelas partes na convenção de arbitragem ou disciplinado pelo próprio árbitro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T23:57:30+00:00"
  }
 ]
