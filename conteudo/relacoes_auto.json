@@ -43097,5 +43097,185 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T16:57:06+00:00"
+ },
+ {
+  "de": "cpc.149",
+  "para": "clt.713",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CPC relaciona o distribuidor entre os auxiliares da Justiça em termos gerais, e a CLT especializa essa mesma figura para as localidades com mais de uma Junta de Conciliação e Julgamento, instituindo ali um distribuidor próprio da Justiça do Trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "cpc.149",
+  "para": "cc.1182",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O contabilista mencionado no CPC é o auxiliar da Justiça que atua em perícias e partilhas judiciais, instituto distinto do contabilista do art. 1.182 do Código Civil, responsável pela escrituração comercial do empresário, ainda que o mesmo termo possa gerar confusão entre as duas funções.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "cpc.167",
+  "para": "l9099.7",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CPC exige capacitação mínima e inscrição em cadastro nacional para o conciliador, e a Lei 9.099/95 estabelece regra especial de recrutamento para os Juizados Especiais, preferentemente entre bacharéis em Direito, sem remeter ao cadastro nacional do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "cpc.167",
+  "para": "l11101.20-C",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "A Lei 11.101/05 disciplina a conciliação e a mediação na recuperação judicial sem regular a qualificação do conciliador ou mediador, de modo que o cadastro nacional e os requisitos de capacitação do CPC aplicam-se subsidiariamente a esses profissionais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "cpc.175",
+  "para": "l11101.20-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 175 do CPC prevê que a conciliação e a mediação extrajudiciais vinculadas a órgãos institucionais podem ser regulamentadas por lei específica, e a Lei 11.101/05 exerce exatamente essa função ao disciplinar a conciliação e a mediação no âmbito da recuperação judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "cpc.175",
+  "para": "ctn.171-C",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O CTN cria regra especial de mediação para a matéria tributária e aduaneira, esclarecendo que ela não caracteriza renúncia de receita para os fins da Lei de Responsabilidade Fiscal, preocupação ausente da disciplina geral de conciliação e mediação do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "cpc.175",
+  "para": "clt.625-H",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "Assim como o CPC estende suas regras às câmaras privadas de conciliação e mediação, a CLT estende a disciplina da conciliação trabalhista aos Núcleos Intersindicais de Conciliação Trabalhista, exigindo a observância dos princípios da paridade e da negociação coletiva, próprios de instituto conexo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "l13988.27-A",
+  "para": "l10522.19-D",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos estendem regimes federais de cobrança de créditos à Procuradoria-Geral da União, à Procuradoria-Geral Federal e à Procuradoria-Geral do Banco Central, mas um trata da dispensa e da cobrança disciplinadas pela Lei 10.522/02 e o outro da transação tributária da Lei 13.988/20, regimes distintos que a semelhança do texto pode levar a confundir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "l13988.27-A",
+  "para": "l14973.22",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 22 da Lei 14.973/24 remete expressamente ao § 2º do art. 22-C da Lei 13.988/20 e detalha a hipótese de créditos não tributários das autarquias e fundações federais considerados irrecuperáveis, integrando o mesmo regime de transação cuja extensão a esses créditos está prevista no inciso III do art. 27-A.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "l13988.27-A",
+  "para": "lef.2",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A Lei de Execução Fiscal define a Dívida Ativa da Fazenda Pública como abrangendo tanto a tributária quanto a não tributária, categoria geral dentro da qual o art. 27-A da Lei 13.988/20 estende o capítulo de transação à dívida ativa da União de natureza não tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "l14133.154",
+  "para": "l8987.23-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A Lei 8.987/95 autoriza o emprego da arbitragem, nos termos da Lei 9.307/96, nos contratos de concessão, e a Lei 14.133/21 complementa esse regime ao fixar os critérios que devem orientar a escolha dos árbitros e colegiados arbitrais nas contratações públicas em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "l9307.1",
+  "para": "cc.851",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O Código Civil admite o compromisso, judicial ou extrajudicial, entre pessoas que podem contratar, base geral que a Lei 9.307/96 complementa ao disciplinar em detalhe a convenção de arbitragem como forma de solução de litígios sobre direitos patrimoniais disponíveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "sc_icms_lei.84",
+  "para": "ctn.157",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O CTN estabelece a regra geral de que a imposição de penalidade não ilide o pagamento integral do crédito tributário, e a Lei 10.297/96-SC especializa essa mesma regra para as penalidades do ICMS, afirmando que elas não elidem a exigência do imposto e da multa cabíveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "sc_icms_lei.84",
+  "para": "lcp214.341",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O regime especial de fiscalização da LC 214/2025 não elide a aplicação de penalidades, enquanto o art. 84 da Lei 10.297/96-SC trata do inverso, a penalidade não elidir a exigência do imposto, regras de sentido oposto que a semelhança da redação pode levar a confundir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "sc_icms_lei.84",
+  "para": "floripa_ctm.463",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O Código Tributário Municipal de Florianópolis reproduz, para as penalidades tributárias municipais, a mesma regra de que a aplicação da penalidade não exclui as demais sanções cabíveis, especializando para o âmbito municipal o princípio também aplicado ao ICMS estadual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "ctn.190",
+  "para": "floripa_ctm.107",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O Código Tributário Municipal de Florianópolis reproduz literalmente a regra do art. 190 do CTN, especializando para os créditos tributários municipais a preferência de pagamento em caso de liquidação judicial ou voluntária de pessoa jurídica de direito privado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "ctn.190",
+  "para": "cc.1111",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O Código Civil remete à lei processual a disciplina da liquidação judicial da pessoa jurídica, e o CTN complementa esse mesmo regime ao estabelecer a preferência dos créditos tributários vencidos ou vincendos exigíveis no decurso dessa liquidação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
+ },
+ {
+  "de": "ctn.190",
+  "para": "l11101.124",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A liquidação judicial ou voluntária de pessoa jurídica de direito privado, tratada no art. 190 do CTN, é instituto conexo mas distinto da falência disciplinada pela Lei 11.101/05, cujo art. 124 trata da exigibilidade de juros perante a massa falida, regimes que a semelhança do contexto de insolvência pode levar a confundir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T18:31:24+00:00"
  }
 ]
