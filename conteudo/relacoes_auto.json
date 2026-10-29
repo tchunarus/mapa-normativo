@@ -42447,5 +42447,25 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "floripa_ctm.25",
+  "para": "ctn.115",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos definem o fato gerador da obrigação acessória como a situação que, na forma da legislação aplicável, impõe prestação diversa da principal, de modo que o art. 25 da CTM especializa, para os tributos municipais, a regra geral do art. 115 do CTN sobre o mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T01:40:39+00:00"
+ },
+ {
+  "de": "floripa_ctm.51",
+  "para": "ctn.142",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 51 da CTM repete, para o lançamento tributário municipal, a regra do § 1º do art. 142 do CTN, segundo a qual a atividade de lançamento é vinculada e obrigatória, sob pena de responsabilidade funcional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T01:40:39+00:00"
  }
 ]
