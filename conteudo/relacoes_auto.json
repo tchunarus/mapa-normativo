@@ -42657,5 +42657,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T10:57:41+00:00"
+ },
+ {
+  "de": "cpc.778",
+  "para": "cc.347",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 778, § 1º, IV, do CPC autoriza o sub-rogado a prosseguir na execução forçada nos casos de sub-rogação legal ou convencional, remetendo à modalidade de sub-rogação convencional disciplinada pelo art. 347 do Código Civil, que define suas duas hipóteses de ocorrência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T12:12:43+00:00"
+ },
+ {
+  "de": "cpc.778",
+  "para": "cc.350",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 778, § 1º, IV, do CPC permite que o sub-rogado prossiga na execução nos casos de sub-rogação legal ou convencional, remetendo à sub-rogação legal regulada pelo art. 350 do Código Civil, que limita o sub-rogado à soma efetivamente desembolsada para desobrigar o devedor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T12:12:43+00:00"
+ },
+ {
+  "de": "floripa_ctm.97",
+  "para": "ctn.181",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 97 do Código Tributário Municipal de Florianópolis reproduz, com o limite de UFIRs próprio do Município, a estrutura geral de concessão de anistia em caráter geral ou limitado prevista pelo art. 181 do CTN, inclusive quanto à restrição a determinada região do território da entidade tributante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T12:12:43+00:00"
+ },
+ {
+  "de": "floripa_ctm.94",
+  "para": "ctn.176",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 94 do Código Tributário Municipal de Florianópolis declara a isenção como dispensa legal do tributo devido mediante prova do cumprimento das condições e requisitos previstos em lei ou contrato, especializando para o Município a exigência geral de lei específica com condições e requisitos do art. 176 do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T12:12:43+00:00"
+ },
+ {
+  "de": "ctn.171-B",
+  "para": "cpc.165",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 171-B do CTN institui, para as controvérsias tributárias e aduaneiras, modalidade especial de mediação conduzida por terceiro que auxiliará e estimulará a construção de soluções consensuais, instituto conexo ao regime geral de conciliação e mediação de que trata o art. 165 do CPC, também destinado a auxiliar e estimular a autocomposição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T12:12:43+00:00"
+ },
+ {
+  "de": "ctn.171-C",
+  "para": "l13988.10-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 171-C do CTN trata genericamente do instituto da transação tributária e aduaneira para fins de não caracterização de renúncia de receita, instituto cuja transação na cobrança de créditos tributários em contencioso administrativo fiscal é operacionalizada, no âmbito federal, pelo art. 10-A da Lei 13.988/20.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T12:12:43+00:00"
+ },
+ {
+  "de": "sc_icms_lei.75",
+  "para": "lcp214.341-E",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 75 da Lei 10.297/96-SC e o art. 341-E da LC 214/2025 repetem, para tributos diferentes, o ICMS catarinense e o IBS e a CBS da reforma tributária, a mesma ideia de que a aplicação de penalidade não dispensa a exigência do tributo, podendo gerar confusão sobre qual regime incide durante a transição entre os dois sistemas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T12:12:43+00:00"
  }
 ]

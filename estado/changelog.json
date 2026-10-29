@@ -1475,5 +1475,13 @@
   "titulo": "Tema 1220/STJ: Cancelado",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1220&cod_tema_final=1220",
   "p": "stj.tema.1220"
+ },
+ {
+  "data": "2026-10-29T11:30:18+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 1243/STJ: Mérito Julgado · tese firmada",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1243&cod_tema_final=1243",
+  "p": "stj.tema.1243"
  }
 ]
