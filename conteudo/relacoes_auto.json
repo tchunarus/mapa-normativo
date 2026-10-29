@@ -43347,5 +43347,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T18:50:26+00:00"
+ },
+ {
+  "de": "cc.1111",
+  "para": "cpc.1049",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 1.111 do Código Civil remete genericamente à lei processual para a liquidação judicial da sociedade, sem indicar qual procedimento seguir; o art. 1.049 do CPC resolve exatamente essa remissão genérica, determinando que se observe o procedimento comum sempre que a lei remeter a procedimento processual sem especificá-lo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T19:46:50+00:00"
+ },
+ {
+  "de": "cc.51",
+  "para": "lsa.220",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 51 do Código Civil trata da liquidação da pessoa jurídica dissolvida, hipótese que pode ser confundida com a transformação societária; o art. 220 da Lei das S.A. afasta essa confusão ao afirmar expressamente que a transformação ocorre independentemente de dissolução e liquidação, mudando apenas o tipo societário adotado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T19:46:50+00:00"
+ },
+ {
+  "de": "cc.51",
+  "para": "cpc.519",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O termo liquidação no art. 51 do Código Civil designa a fase final da existência da pessoa jurídica dissolvida, enquanto o art. 519 do CPC usa o mesmo termo para a liquidação de sentença, etapa de apuração do valor devido no cumprimento de decisão judicial; são institutos homônimos e frequentemente confundidos, mas de natureza distinta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T19:46:50+00:00"
+ },
+ {
+  "de": "cpc.3",
+  "para": "lcp123.75",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 3º do CPC determina que a conciliação e a mediação sejam estimuladas pelos operadores do direito no curso do processo judicial; o art. 75 da LC 123/06 complementa esse mandamento ao determinar que as microempresas e as empresas de pequeno porte sejam especificamente estimuladas a utilizar a conciliação prévia, a mediação e a arbitragem para a solução de seus conflitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T19:46:50+00:00"
+ },
+ {
+  "de": "floripa_ctm.107",
+  "para": "cc.51",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 107 do Código Tributário Municipal de Florianópolis prevê que, na liquidação judicial ou voluntária da pessoa jurídica de direito privado, os créditos tributários municipais sejam pagos preferencialmente a quaisquer outros; o art. 51 do Código Civil complementa essa norma ao definir que a pessoa jurídica dissolvida subsiste justamente para essa finalidade, até a conclusão da liquidação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T19:46:50+00:00"
+ },
+ {
+  "de": "l11101.151",
+  "para": "clt.449",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 449 da CLT estabelece, de forma genérica, que os salários devidos ao empregado constituem créditos privilegiados na falência; o art. 151 da Lei 11.101/05 especializa essa regra ao fixar um privilégio ainda mais forte, determinando o pagamento imediato, tão logo haja disponibilidade em caixa, dos créditos estritamente salariais vencidos nos três meses anteriores à decretação da falência, até o limite de cinco salários mínimos por trabalhador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T19:46:50+00:00"
  }
 ]
