@@ -42767,5 +42767,215 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T13:07:04+00:00"
+ },
+ {
+  "de": "cc.347",
+  "para": "cpc.857",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 347 do Código Civil trata da sub-rogação convencional como extinção da obrigação do devedor com transferência dos direitos do credor ao terceiro que paga a dívida. O art. 857 do CPC emprega a mesma palavra sub-rogação para efeito distinto, a substituição processual do exequente nos direitos do executado sobre o crédito penhorado, o que gera risco de se confundir os dois institutos apenas pelo nome comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "cc.347",
+  "para": "l8245.12",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 347 do Código Civil disciplina a sub-rogação convencional do credor satisfeito por terceiro. O art. 12 da Lei 8.245/91 utiliza a mesma expressão sub-rogação para instituto diverso, a sucessão automática do cônjuge ou companheiro na posição de locatário em caso de separação, divórcio ou dissolução da união estável, o que pode levar a confundir a sub-rogação de crédito com a sub-rogação contratual na locação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "cc.350",
+  "para": "cpc.857",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 350 do Código Civil trata do limite da sub-rogação legal à soma desembolsada pelo sub-rogado para desobrigar o devedor. O art. 857 do CPC usa a mesma palavra sub-rogação para a substituição processual do exequente nos direitos do executado sobre crédito penhorado, instituto diverso que pode ser confundido com a sub-rogação de crédito do Código Civil apenas pela coincidência do nome.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "cc.350",
+  "para": "floripa_ctm.37",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 350 do Código Civil disciplina a sub-rogação legal do terceiro que paga a dívida do devedor. O art. 37 do CTM de Florianópolis emprega a mesma palavra sub-rogação para a transferência dos créditos fiscais municipais ao adquirente do imóvel, instituto diverso de sub-rogação real sobre o bem, o que gera risco de confusão com a sub-rogação pessoal do credor tratada no Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "cc.350",
+  "para": "l8245.12",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 350 do Código Civil trata do limite da sub-rogação legal do credor satisfeito por terceiro. O art. 12 da Lei 8.245/91 usa a mesma expressão para a sucessão automática do cônjuge ou companheiro na locação residencial em caso de separação, divórcio ou dissolução da união estável, instituto diverso que pode ser confundido com a sub-rogação de crédito apenas pelo nome comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "cpc.165",
+  "para": "l11101.20-D",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 165 do CPC cria os centros judiciários de solução consensual de conflitos, os Cejusc, responsáveis pelas sessões de conciliação e de mediação. O art. 20-D da Lei 11.101/05 complementa esse regime ao autorizar que as sessões de conciliação e de mediação de que trata essa Seção sejam realizadas por meio virtual, desde que o Cejusc do tribunal competente ou a câmara especializada responsável disponham de meios para a sua realização.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "cpc.165",
+  "para": "l11101.20-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 165 do CPC institui os centros judiciários de conciliação e de mediação como instrumento de autocomposição. O art. 20-A da Lei 11.101/05 complementa esse regime ao determinar que a conciliação e a mediação sejam incentivadas em qualquer grau de jurisdição, inclusive no âmbito de recursos em segundo grau de jurisdição e nos Tribunais Superiores, sem suspensão dos prazos previstos nessa Lei, salvo consenso das partes em sentido contrário ou determinação judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "cpc.168",
+  "para": "l9099.73",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 168 do CPC permite às partes escolher, de comum acordo, o conciliador ou o mediador, cadastrado ou não no tribunal. O art. 73 da Lei 9.099/95 especializa esse mesmo instituto para os Juizados Especiais, ao atribuir a condução da conciliação ao juiz ou a conciliador sob sua orientação, recrutado na forma da lei local, preferentemente entre bacharéis em direito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "cpc.168",
+  "para": "l9307.13",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 168 do CPC trata da escolha consensual do conciliador ou do mediador pelas partes, figuras que apenas auxiliam a autocomposição. O art. 13 da Lei 9.307/96 trata da escolha do árbitro pelas partes, instituto que se assemelha pela livre escolha de um terceiro de confiança comum, mas se distingue por atribuir ao árbitro poder de decidir o litígio, o que gera risco de se confundir a conciliação e a mediação com a arbitragem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "floripa_ctm.97",
+  "para": "ctn.180",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 97 do CTM de Florianópolis disciplina as hipóteses em que a anistia pode ser concedida. O art. 180 do CTN complementa esse regime ao delimitar o alcance da anistia, que abrange exclusivamente infrações cometidas antes da vigência da lei concessiva e não se aplica aos atos qualificados em lei como crime ou contravenção, nem aos praticados com dolo, fraude ou simulação, nem, salvo disposição em contrário, às infrações resultantes de conluio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "floripa_ctm.97",
+  "para": "ctn.182",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 97 do CTM de Florianópolis prevê, no inciso II, a concessão limitada da anistia. O art. 182 do CTN complementa esse regime ao dispor que a anistia não concedida em caráter geral é efetivada, em cada caso, por despacho da autoridade administrativa, mediante requerimento em que o interessado comprove o preenchimento das condições e o cumprimento dos requisitos legais, despacho que não gera direito adquirido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "floripa_ctm.97",
+  "para": "ctn.176",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 97 do CTM de Florianópolis trata da anistia, perdão da penalidade pecuniária por infração já cometida. O art. 176 do CTN trata da isenção, instituto tributário conexo mas distinto, que exclui o próprio tributo antes da ocorrência do fato gerador e decorre sempre de lei específica, o que pode gerar confusão entre os dois institutos de desoneração tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "floripa_ctm.97",
+  "para": "ctn.152",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 97 do CTM de Florianópolis trata da anistia, perdão da penalidade por infração tributária. O art. 152 do CTN trata da moratória, instituto conexo mas distinto, que apenas dilata o prazo de pagamento do tributo sem perdoar a obrigação principal ou a penalidade, o que pode gerar confusão entre os dois institutos de favor fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "floripa_ctm.97",
+  "para": "ctn.172",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 97 do CTM de Florianópolis trata da anistia, que perdoa a penalidade por infração já cometida, sem atingir o tributo devido. O art. 172 do CTN trata da remissão, instituto conexo mas distinto, que autoriza a autoridade administrativa a perdoar total ou parcialmente o próprio crédito tributário, o que pode gerar confusão entre os dois institutos de perdão fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "l13988.10-A",
+  "para": "l10522.10-C",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 10-A da Lei 13.988/20 permite que a transação na cobrança de créditos tributários em contencioso administrativo fiscal seja proposta pela Secretaria Especial da Receita Federal do Brasil ou por iniciativa do devedor. O art. 10-C da Lei 10.522/02 especializa esse mesmo instituto da transação para o empresário ou a sociedade empresária com processamento da recuperação judicial deferido, ao autorizar a submissão de proposta de transação à Procuradoria-Geral da Fazenda Nacional nos termos da Lei 13.988/20, como alternativa ao parcelamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "l13988.10-A",
+  "para": "l14973.22",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 10-A da Lei 13.988/20 disciplina a transação na cobrança de créditos tributários em contencioso administrativo fiscal, proposta pela Secretaria Especial da Receita Federal do Brasil. O art. 22 da Lei 14.973/24 complementa o mesmo instituto da transação ao estendê-lo aos créditos de natureza não tributária das autarquias e fundações públicas federais inscritos em dívida ativa, autorizando a Procuradoria-Geral Federal, no § 1º, a apresentar proposta de transação individual ou por adesão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "l13988.10-A",
+  "para": "l14973.23",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 10-A da Lei 13.988/20 disciplina a transação de créditos tributários sob a competência da Secretaria Especial da Receita Federal do Brasil. O art. 23 da Lei 14.973/24 complementa o mesmo instituto da transação ao criar a Central de Cobrança e Regularização de Dívidas Federais Não Tributárias, sob governança da Advocacia-Geral da União, com competência para realizar acordos de transação de débitos passíveis de inscrição em dívida ativa, excluída expressamente a matéria envolvendo créditos tributários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "lcp214.341-E",
+  "para": "lcp227.341-E",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 341-E da LC 227/2026 altera o art. 341-E da LC 214/2025, mantendo idêntica a regra de que a aplicação das penalidades tributárias do IBS e da CBS não exclui a exigência do tributo não recolhido nem outras medidas administrativas, como a cassação de licenças, a baixa de ofício da inscrição no CNPJ e a representação fiscal para fins penais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "lcp214.341-E",
+  "para": "sc_icms_lei.84",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 341-E da LC 214/2025 trata da não exclusão da exigência do tributo pela aplicação de penalidade, no regime do IBS e da CBS. O art. 84 da Lei 10.297/96-SC trata de instituto conexo e de redação próxima, ao prever que a imposição das penalidades da seção não elide a exigência do imposto e da multa cabíveis no ICMS catarinense, o que pode gerar confusão entre as regras de cumulação de penalidade e tributo de regimes tributários distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "lcp214.341-E",
+  "para": "floripa_ctm.439",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 341-E da LC 214/2025 relaciona medidas administrativas cumuláveis com a penalidade tributária do IBS e da CBS, como a sujeição a regime especial de fiscalização e o cancelamento de benefícios fiscais. O art. 439 do CTM de Florianópolis relaciona medidas semelhantes para os tributos municipais, como a sujeição a regime especial de fiscalização e o cancelamento de regimes especiais em benefício do contribuinte, o que pode gerar confusão entre as listas de medidas cumuláveis de cada ente federativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
+ },
+ {
+  "de": "ctn.183",
+  "para": "floripa_ctm.100",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 183 do CTN estabelece que a enumeração das garantias do crédito tributário não exclui outras previstas expressamente em lei, e que a natureza das garantias não altera a natureza do crédito nem da obrigação tributária correspondente. O art. 100 do CTM de Florianópolis complementa esse regime ao reproduzir a mesma regra para as garantias do crédito tributário municipal, no âmbito da competência do Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T15:00:52+00:00"
  }
 ]
