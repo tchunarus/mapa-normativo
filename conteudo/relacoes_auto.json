@@ -43007,5 +43007,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T15:05:54+00:00"
+ },
+ {
+  "de": "l11101.20-A",
+  "para": "cpc.175",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 175 do CPC prevê, no parágrafo único, que os dispositivos da Seção sobre conciliação e mediação se aplicam às câmaras privadas e admite, no caput, que formas extrajudiciais vinculadas a órgãos institucionais sejam reguladas por lei específica. O art. 20-A da Lei 11.101/2005 constitui essa regulamentação específica para a recuperação judicial e a falência, fixando regra própria de incentivo à conciliação e à mediação em qualquer grau de jurisdição, sem suspensão automática dos prazos da lei falimentar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T16:57:06+00:00"
+ },
+ {
+  "de": "l11101.20-D",
+  "para": "cpc.175",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "Na mesma lógica do caput do art. 175 do CPC, que admite regulamentação específica das formas de conciliação e mediação vinculadas a órgãos institucionais, o art. 20-D da Lei 11.101/2005 detalha, para a recuperação judicial e a falência, a possibilidade de as sessões serem realizadas por meio virtual, desde que o Cejusc do tribunal competente ou a câmara especializada disponham de meios para tanto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T16:57:06+00:00"
+ },
+ {
+  "de": "l14133.151",
+  "para": "l9307.1",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 151 da Lei 14.133/2021 autoriza o uso da arbitragem nas contratações públicas para controvérsias sobre direitos patrimoniais disponíveis, especializando para as licitações e os contratos administrativos a autorização geral do §1º do art. 1º da Lei 9.307/1996, segundo a qual a administração pública direta e indireta pode valer-se da arbitragem para dirimir conflitos relativos a direitos patrimoniais disponíveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T16:57:06+00:00"
+ },
+ {
+  "de": "l14973.23",
+  "para": "l13988.1",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 23 da Lei 14.973/2024 remete expressamente às regras aplicáveis à transação na cobrança da dívida ativa de que trata a Lei 13.988/2020, cujo art. 1º estabelece os requisitos e as condições para que a União, suas autarquias e fundações realizem transação resolutiva de litígio relativo a créditos da Fazenda Pública, de natureza tributária ou não tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T16:57:06+00:00"
+ },
+ {
+  "de": "l14973.23",
+  "para": "l13988.27-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 27-A da Lei 13.988/2020 estende o regime de transação, no inciso III, à dívida ativa das autarquias e das fundações públicas federais, e o art. 23 da Lei 14.973/2024 cria, sob a Advocacia-Geral da União, a Central de Cobrança e Regularização de Dívidas Federais Não Tributárias para operacionalizar, no inciso II, a negociação desses mesmos débitos de natureza não tributária, dentro do mesmo regime de transação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T16:57:06+00:00"
+ },
+ {
+  "de": "l9099.73",
+  "para": "cpc.149",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 73 da Lei 9.099/1995 qualifica os conciliadores dos Juizados Especiais como auxiliares da Justiça, repetindo a classificação geral do art. 149 do CPC, que inclui expressamente o conciliador judicial entre os auxiliares da Justiça, mas acrescenta requisito próprio de recrutamento, com preferência por bacharéis em Direito, e veda a atuação de quem exerça função na administração da Justiça Criminal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T16:57:06+00:00"
+ },
+ {
+  "de": "l9099.73",
+  "para": "cpc.167",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 73 da Lei 9.099/1995 recruta os conciliadores dos Juizados Especiais na forma da lei local, sem exigir o cadastro nacional de que trata o art. 167 do CPC, que condiciona a inscrição dos conciliadores e mediadores a cadastro nacional e a cadastro de tribunal mediante capacitação mínima certificada. A coincidência de nomenclatura pode induzir à confusão sobre qual regime de habilitação se aplica aos conciliadores dos Juizados Especiais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T16:57:06+00:00"
+ },
+ {
+  "de": "l9307.13",
+  "para": "l9099.24",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 13 da Lei 9.307/1996 disciplina a escolha dos árbitros na arbitragem convencional, de caráter privado e vinculante como alternativa à via judicial. O art. 24 da Lei 9.099/1995 institui, sob o mesmo nome de juízo arbitral, mecanismo distinto no qual, pelo §2º, o árbitro é escolhido entre os juízes leigos e cujo laudo, pelo art. 26, depende de homologação pelo juiz togado, de modo que a identidade de nomenclatura pode induzir à confusão entre institutos de natureza e efeitos diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T16:57:06+00:00"
+ },
+ {
+  "de": "l9307.13",
+  "para": "l14133.154",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 13 da Lei 9.307/1996 fixa as regras gerais de nomeação dos árbitros, inclusive a nomeação judicial subsidiária quando as partes não chegam a acordo. O art. 154 da Lei 14.133/2021 complementa essas regras para as contratações públicas, acrescentando que o processo de escolha dos árbitros, dos colegiados arbitrais e dos comitês de resolução de disputas deve observar critérios isonômicos, técnicos e transparentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T16:57:06+00:00"
  }
 ]
