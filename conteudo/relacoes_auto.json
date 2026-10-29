@@ -42287,5 +42287,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-28T22:44:00+00:00"
+ },
+ {
+  "de": "ctn.122",
+  "para": "floripa_ctm.30",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 30 do CTM de Florianópolis repete, para o âmbito dos tributos municipais, a mesma definição de sujeito passivo da obrigação acessória estabelecida pelo art. 122 do CTN, especializando a norma geral nacional para a legislação tributária municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.122",
+  "para": "floripa_ctm.29",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 29 do CTM de Florianópolis define o sujeito passivo da obrigação principal, instituto conexo mas distinto do sujeito passivo da obrigação acessória tratado no art. 122 do CTN, havendo risco de se confundirem as duas figuras por envolverem a mesma noção geral de sujeito passivo aplicada a espécies diferentes de obrigação tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.122",
+  "para": "floripa_ctm.25",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 25 do CTM de Florianópolis define o fato gerador da obrigação acessória, complementando, dentro do mesmo regime da obrigação acessória, a definição do sujeito passivo dessa obrigação prevista no art. 122 do CTN: um trata de quem deve cumprir a prestação, o outro, do fato que a origina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.139",
+  "para": "floripa_ctm.47",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 47 do CTM de Florianópolis reproduz, para os tributos municipais, a mesma regra do art. 139 do CTN segundo a qual o crédito tributário decorre da obrigação principal e tem a mesma natureza desta, especializando a norma geral para o âmbito municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.140",
+  "para": "floripa_ctm.48",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 48 do CTM de Florianópolis especializa, para os tributos municipais, a regra do art. 140 do CTN de que as circunstâncias que modificam, suspendem ou excluem o crédito tributário não afetam a obrigação tributária que lhe deu origem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.140",
+  "para": "floripa_ctm.93",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 93, parágrafo único, do CTM de Florianópolis aplica, a um caso concreto de exclusão do crédito tributário (isenção e anistia), o princípio do art. 140 do CTN de que tais circunstâncias não afetam a obrigação tributária, ao dispor que a exclusão do crédito principal não dispensa o cumprimento das obrigações acessórias a ele vinculadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.141",
+  "para": "floripa_ctm.49",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 49 do CTM de Florianópolis especializa, para os tributos municipais, a regra de taxatividade das hipóteses de modificação, suspensão, extinção ou exclusão do crédito tributário prevista no art. 141 do CTN, inclusive quanto à responsabilidade funcional pela inobservância.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.141",
+  "para": "floripa_ctm.51",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 51 do CTM de Florianópolis estende à vinculação e à obrigatoriedade do lançamento o mesmo princípio de legalidade estrita e de responsabilidade funcional do art. 141 do CTN, ressalvando as hipóteses de exclusão ou suspensão de crédito fiscal previstas na legislação tributária municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.143",
+  "para": "lcp87.14",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 14 da LC 87/96 estabelece, para a base de cálculo do ICMS na importação, critério de conversão cambial diferente do fixado no art. 143 do CTN, ao determinar a conversão pela taxa de câmbio utilizada no cálculo do imposto de importação, hipótese admitida pela própria ressalva de disposição de lei em contrário contida no art. 143.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.143",
+  "para": "lcp214.70",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 70 da LC 214/2025 excepciona, para a base de cálculo do IBS e da CBS, a regra geral do art. 143 do CTN, adotando a taxa de câmbio do Imposto de Importação em vez do câmbio do dia do fato gerador, nos termos da ressalva de disposição de lei em contrário prevista no próprio art. 143.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.144",
+  "para": "floripa_ctm.52",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 52 do CTM de Florianópolis especializa, para os tributos municipais, a regra do art. 144 do CTN segundo a qual o lançamento se reporta à data do fato gerador e rege-se pela lei então vigente, reproduzindo inclusive a exceção quanto à atribuição de responsabilidade tributária a terceiros.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.147",
+  "para": "floripa_ctm.56",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 56 do CTM de Florianópolis especializa a regra do art. 147 do CTN sobre o lançamento com base em declaração do sujeito passivo, repetindo no art. 56, § 2º, a mesma condição do art. 147, § 1º, para a retificação da declaração que vise reduzir ou excluir tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.147",
+  "para": "floripa_ctm.58",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 58 do CTM de Florianópolis trata do lançamento de ofício, modalidade conexa mas distinta do lançamento por declaração do art. 147 do CTN, com risco de confusão porque a falta ou a insuficiência da declaração prevista no art. 147 é justamente uma das hipóteses que, no art. 58, autoriza o lançamento de ofício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.152",
+  "para": "floripa_ctm.61",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 61 do CTM de Florianópolis especializa, para os tributos municipais, a regra do inciso I, alínea a, do art. 152 do CTN, ao prever que a moratória municipal, geral ou individual, é concedida por lei municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.152",
+  "para": "floripa_ctm.65",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 65 do CTM de Florianópolis regulamenta, no âmbito municipal, a hipótese do inciso I, alínea b, do art. 152 do CTN, ao dispor que a moratória decretada pela União quanto a tributos municipais será integrada à legislação municipal mediante decreto do Poder Executivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
+ },
+ {
+  "de": "ctn.152",
+  "para": "floripa_ctm.62",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 62 do CTM de Florianópolis complementa o art. 152 do CTN ao detalhar os requisitos que a lei concessiva de moratória municipal deve especificar, dentro do mesmo regime de concessão do favor fiscal previsto no art. 152, caput e parágrafo único.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-29T00:52:53+00:00"
  }
 ]
