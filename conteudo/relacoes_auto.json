@@ -44537,5 +44537,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T12:27:58+00:00"
+ },
+ {
+  "de": "lcp227.92",
+  "para": "lcp214.323-G",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 92 da LC 227/2026 estrutura as Câmaras de Julgamento de primeira instância do CGIBS, e o art. 323-G da LC 214/2025 disciplina o recurso especial cabível contra decisões dessas mesmas câmaras, de modo que os dois dispositivos integram o mesmo regime do contencioso administrativo do IBS e da CBS, um definindo o órgão julgador e o outro o recurso contra suas decisões.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T13:07:27+00:00"
+ },
+ {
+  "de": "lcp227.92",
+  "para": "lcp123.39",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 39 da LC 123/06 atribui aos Estados, ao Distrito Federal e aos Municípios, por meio do CGIBS, a competência para o contencioso administrativo do Simples Nacional relativo ao lançamento, apoiando se na mesma estrutura de julgamento de primeira instância organizada pelo art. 92 da LC 227/2026, de modo que os dois dispositivos integram o regime do contencioso administrativo tributário sob o CGIBS, cada um tratando de um tributo distinto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T13:07:27+00:00"
+ },
+ {
+  "de": "lcp227.92",
+  "para": "lcp214.481",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "As Câmaras de Julgamento de primeira instância do art. 92 da LC 227/2026 e o Conselho Superior do CGIBS do art. 481 da LC 214/2025 são órgãos distintos do CGIBS, um de julgamento tributário e outro de deliberação administrativa máxima, mas a coincidência do número 27 na composição de ambos e a referência comum a representantes de Estados, do Distrito Federal e de Municípios geram risco real de confusão entre as duas estruturas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T13:07:27+00:00"
+ },
+ {
+  "de": "lcp227.94",
+  "para": "lcp214.481",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "As Câmaras Recursais de Julgamento do art. 94 da LC 227/2026 e o Conselho Superior do CGIBS do art. 481 da LC 214/2025 são órgãos distintos do CGIBS, um de julgamento tributário em segunda instância e outro de deliberação administrativa máxima, mas a coincidência do número 27 na composição de ambos e a referência comum a representantes de Estados, do Distrito Federal e de Municípios geram risco real de confusão entre as duas estruturas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T13:07:27+00:00"
+ },
+ {
+  "de": "ctn.217",
+  "para": "l8036.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 217 do CTN preserva a exigibilidade da contribuição destinada ao Fundo de Garantia do Tempo de Serviço, criada pelo art. 2º da Lei 5.107, de 13 de setembro de 1966, enquanto o art. 1º da Lei 8.036/90 declara que esse mesmo fundo, instituído pela Lei 5.107/1966, passou a reger-se pela nova lei, o que pode levar a crer, por engano, que a base legal atual do FGTS ainda seria a mencionada no CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T13:07:27+00:00"
+ },
+ {
+  "de": "ctn.217",
+  "para": "clt.594",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 217 do CTN remete expressamente aos arts. 578 e seguintes da CLT para identificar o imposto sindical, atual contribuição sindical, cuja exigibilidade preserva, e o art. 594 da CLT, inserido nesse mesmo conjunto de artigos, disciplina a destinação do Fundo Social Sindical custeado por essa contribuição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T13:07:27+00:00"
  }
 ]
