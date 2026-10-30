@@ -45057,5 +45057,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T19:07:01+00:00"
+ },
+ {
+  "de": "clt.721",
+  "para": "lef.37",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 721 da CLT impõe prazo de nove dias para o cumprimento do ato pelo Oficial de Justiça ou Oficial de Justiça Avaliador da Justiça do Trabalho, sob pena de transferência da atribuição a outro oficial, enquanto o parágrafo único do art. 37 da LEF fixa prazo de dez dias para as diligências do Oficial de Justiça na execução fiscal, com responsabilização civil, penal e administrativa em caso de prejuízo à execução; os regimes de prazo e consequência aplicáveis a cada execução não se confundem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:00:25+00:00"
+ },
+ {
+  "de": "cpc.1048",
+  "para": "l9784.69-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 1.048, I, do CPC e o art. 69-A, I, da Lei 9.784/1999 preveem o mesmo benefício de tramitação prioritária para a pessoa com idade igual ou superior a sessenta anos ou portadora de doença grave, com redação quase idêntica, mas regem universos distintos: o primeiro disciplina procedimentos judiciais, e o segundo, procedimentos administrativos, o que gera risco real de se invocar o dispositivo equivocado conforme a espécie de processo em causa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:00:25+00:00"
+ },
+ {
+  "de": "cpc.1048",
+  "para": "cpp.394-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 1.048, III, do CPC garante prioridade de tramitação ao processo cível em que figure como parte vítima de violência doméstica e familiar nos termos da Lei Maria da Penha, e o art. 394-A do Código de Processo Penal garante prioridade de tramitação, em todas as instâncias, ao processo penal que apure violência contra a mulher, inclusive com isenção de custas; tratando-se do mesmo instituto aplicado a esferas processuais distintas, há risco de se confundir qual prioridade rege cada processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:00:25+00:00"
+ },
+ {
+  "de": "cpc.1048",
+  "para": "cpp.158",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O parágrafo único do art. 158 do Código de Processo Penal determina prioridade na realização do exame de corpo de delito em crimes que envolvam violência doméstica e familiar contra a mulher ou violência contra criança, adolescente, idoso ou pessoa com deficiência, enquanto o art. 1.048 do CPC trata da prioridade de tramitação de todo o processo cível nas mesmas hipóteses de vulnerabilidade; os dois dispositivos tocam o mesmo grupo de beneficiários, mas disciplinam atos processuais de natureza e alcance diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:00:25+00:00"
+ },
+ {
+  "de": "cpc.1048",
+  "para": "cf.227",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 227 da Constituição Federal impõe à sociedade e ao Estado o dever de assegurar à criança, ao adolescente e ao jovem, com absoluta prioridade, seus direitos fundamentais, e o inciso II do art. 1.048 do CPC complementa esse mandamento ao garantir tramitação judicial prioritária aos processos regulados pelo Estatuto da Criança e do Adolescente, operacionalizando no plano processual a prioridade absoluta consagrada na Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:00:25+00:00"
  }
 ]
