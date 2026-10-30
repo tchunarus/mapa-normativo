@@ -44727,5 +44727,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T15:28:31+00:00"
+ },
+ {
+  "de": "cpc.272",
+  "para": "cpp.370",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 272 do CPC e o art. 370, § 1º, do CPP tratam ambos da intimação por publicação sob pena de nulidade, mas exigem elementos distintos de identificação: o CPC exige nome das partes e dos advogados com inscrição na Ordem dos Advogados do Brasil, e o CPP exige apenas o nome do acusado, o que gera risco de se aplicar o rigor de um regime ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T16:47:09+00:00"
+ },
+ {
+  "de": "l12016.20",
+  "para": "cpp.612",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 20 da Lei 12.016/09 confere prioridade de julgamento aos processos de mandado de segurança sobre todos os atos judiciais, mas excepciona expressamente o habeas corpus. O art. 612 do CPP preenche essa exceção ao determinar que os recursos de habeas corpus sejam julgados já na primeira sessão após a designação do relator.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T16:47:09+00:00"
+ },
+ {
+  "de": "cpc.980",
+  "para": "cpp.612",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 980 do CPC dá preferência de julgamento ao incidente de resolução de demandas repetitivas sobre os demais feitos, mas ressalva expressamente os pedidos de habeas corpus. O art. 612 do CPP é o dispositivo que rege essa ressalva, ao fixar que o recurso de habeas corpus seja julgado na primeira sessão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T16:47:09+00:00"
+ },
+ {
+  "de": "l12016.20",
+  "para": "l11101.189-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 20 da Lei 12.016/09 e o art. 189-A da Lei 11.101/05 atribuem, em termos quase idênticos, prioridade sobre todos os atos judiciais aos seus respectivos processos, ressalvando ambos o habeas corpus. A redação paralela cria risco de se confundir os dois regimes de prioridade como se fossem a mesma norma, quando cada um rege processos de natureza distinta, mandado de segurança de um lado e recuperação judicial ou falência de outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T16:47:09+00:00"
+ },
+ {
+  "de": "cp.51",
+  "para": "lef.36",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 51 do Código Penal determina que a multa penal, após o trânsito em julgado, seja executada pelo juízo da execução penal como dívida de valor, aplicando-se as normas relativas à dívida ativa da Fazenda Pública. O art. 36 da Lei de Execução Fiscal é a base dessas normas, pois atribui à Fazenda Pública a competência para baixar as regras sobre o recolhimento da dívida ativa que serão aplicadas subsidiariamente à cobrança da multa penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T16:47:09+00:00"
+ },
+ {
+  "de": "cpc.782",
+  "para": "lef.37",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 782, § 1º, do CPC permite que o oficial de justiça cumpra os atos executivos determinados pelo juiz quando a lei não dispuser de modo diverso. O art. 37 da Lei de Execução Fiscal, ao tratar da responsabilidade do auxiliar de justiça e do prazo de dez dias para as diligências, pressupõe esse mesmo dever geral de cumprimento dos atos executivos, que o CPC aplica de modo subsidiário à execução fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T16:47:09+00:00"
+ },
+ {
+  "de": "lef.41",
+  "para": "cpc.438",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 41 da Lei de Execução Fiscal regula de modo especial a manutenção do processo administrativo de inscrição em dívida ativa na repartição de origem, prevendo a extração de cópias e certidões e a exibição mediante requisição do juiz, com dia e hora marcados. O art. 438 do CPC confere ao juiz, em termos gerais, o poder de requisitar às repartições públicas, em qualquer grau de jurisdição, os procedimentos administrativos e certidões necessários à prova das alegações das partes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T16:47:09+00:00"
  }
 ]
