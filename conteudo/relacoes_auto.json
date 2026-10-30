@@ -44797,5 +44797,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T16:47:09+00:00"
+ },
+ {
+  "de": "cpc.272",
+  "para": "floripa_ctm.163",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 272 do CPC disciplina a intimação por publicação no órgão oficial como regra geral quando não há meio eletrônico, com requisitos próprios de identificação das partes e dos advogados, ao passo que o art. 163 do CTM de Florianópolis prevê a publicação por edital de notificação no Diário Oficial do Estado apenas como meio subsidiário de intimação do sujeito passivo no processo administrativo fiscal municipal, quando desconhecida ou incerta sua localização, regime distinto que pode ser confundido com a regra geral do CPC se aplicado fora do âmbito administrativo-fiscal municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:23:01+00:00"
+ },
+ {
+  "de": "cpp.612",
+  "para": "l11101.189-A",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 612 do CPP determina que os recursos de habeas corpus sejam julgados na primeira sessão, prioridade que o art. 189-A da Lei 11.101/05 expressamente ressalva ao atribuir prioridade sobre todos os atos judiciais aos processos de falência e recuperação judicial e seus recursos, salvo o habeas corpus.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:23:01+00:00"
+ },
+ {
+  "de": "lef.35",
+  "para": "cpp.613",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 35 da LEF permite dispensar a audiência de revisor no julgamento das apelações em execução fiscal, ao passo que o art. 613 do CPP torna obrigatória a passagem dos autos ao revisor nas apelações de sentenças por crime apenado com reclusão, de modo que a mesma figura processual do revisor recebe tratamento oposto, dispensável ou obrigatório, conforme o regime aplicável, com risco de se presumir indevidamente a obrigatoriedade ou a dispensa fora do âmbito próprio de cada um.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:23:01+00:00"
+ },
+ {
+  "de": "lef.37",
+  "para": "cpc.93",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 37 da LEF responsabiliza civil, penal e administrativamente o auxiliar de justiça que, por ação ou omissão culposa ou dolosa, prejudicar a execução fiscal, enquanto o art. 93 do CPC prevê, para o auxiliar da justiça que sem justo motivo der causa ao adiamento ou à repetição de atos, apenas o custeio das respectivas despesas, consequência mais restrita que pode ser equivocadamente tomada como a única sanção aplicável também na execução fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:23:01+00:00"
+ },
+ {
+  "de": "lef.41",
+  "para": "floripa_ctm.136",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 41 da LEF mantém o processo administrativo de inscrição em Dívida Ativa na repartição competente, dele se extraindo apenas cópias autenticadas ou certidões, ao passo que o § 1º do art. 136 do CTM de Florianópolis permite ao advogado habilitado nos autos retirar o processo administrativo da repartição mediante carga por até oito dias, regime oposto quanto à retirada que pode ser indevidamente estendido de um âmbito administrativo-fiscal a outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:23:01+00:00"
+ },
+ {
+  "de": "cf.2",
+  "para": "l9307.31",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 2º da Constituição Federal atribui o exercício do Poder Judiciário, de modo harmônico com o Legislativo e o Executivo, aos órgãos enumerados nesse desenho constitucional, enquanto o art. 31 da Lei de Arbitragem atribui à sentença arbitral, proferida por tribunal privado, os mesmos efeitos da sentença proferida pelos órgãos do Poder Judiciário, o que gera aparente tensão entre a reserva constitucional da função jurisdicional e a equiparação de efeitos conferida à decisão arbitral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:23:01+00:00"
  }
 ]
