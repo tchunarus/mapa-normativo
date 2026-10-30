@@ -43947,5 +43947,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-29T23:57:30+00:00"
+ },
+ {
+  "de": "d9580.966",
+  "para": "l9430.33",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 966 do RIR/2018 reproduz, para fins de administração do imposto sobre a renda, o mesmo regime especial de fiscalização do art. 33 da Lei 9.430/1996, citando expressamente esse dispositivo como fundamento das hipóteses de embaraço e resistência à fiscalização, de modo que o decreto regulamenta a competência que a lei atribui à Secretaria da Receita Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T00:56:36+00:00"
+ },
+ {
+  "de": "l9430.33",
+  "para": "lcp214.338",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos instituem regime especial de fiscalização com hipóteses de embaraço e resistência quase idênticas na redação, mas o art. 33 da Lei 9.430/1996 disciplina a fiscalização federal em geral pela Secretaria da Receita Federal, ao passo que o art. 338 da LC 214/2025 cria o Regime Especial de Fiscalização próprio do IBS e da CBS, havendo risco de se confundir os dois regimes como se fossem o mesmo instituto tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T00:56:36+00:00"
+ },
+ {
+  "de": "lcp214.471-A",
+  "para": "ctn.194",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 471-A da LC 214/2025 institui o Programa Nacional de Conformidade Tributária, de adesão voluntária nos termos do seu § 1º, regulamentando exatamente o programa de conformidade que o § 3º do art. 194 do CTN determina que a administração tributária estabeleça com base na voluntariedade de ingresso e de saída e na busca de diálogo e cooperação com o contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T00:56:36+00:00"
+ },
+ {
+  "de": "lcp214.324",
+  "para": "ctn.194",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 324 da LC 214/2025 atribui a competência para fiscalizar o cumprimento das obrigações tributárias relativas à CBS à União e as relativas ao IBS aos Estados, ao Distrito Federal e aos Municípios, concretizando para o novo sistema do IBS e da CBS o princípio geral do caput do art. 194 do CTN, segundo o qual a legislação tributária regulará a competência das autoridades administrativas em matéria de fiscalização.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T00:56:36+00:00"
+ },
+ {
+  "de": "d9580.972",
+  "para": "ctn.197",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 972 do RIR/2018 reproduz o dever de terceiros prestarem informações à Secretaria da Receita Federal do Brasil, citando expressamente o art. 197 do Código Tributário Nacional como fundamento, de modo que o decreto regulamenta, para fins de imposto sobre a renda, a mesma obrigação de colaboração imposta a instituições financeiras, tabeliães e demais pessoas elencadas no caput do dispositivo do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T00:56:36+00:00"
+ },
+ {
+  "de": "floripa_ctm.287-A",
+  "para": "ctn.197",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 287-A do Código Tributário Municipal de Florianópolis reproduz, nos seis primeiros incisos, o dever de terceiros informarem sobre bens, negócios ou atividades de terceiros à fiscalização tributária municipal, especializando para o âmbito municipal a norma geral do caput do art. 197 do CTN, que impõe idêntico dever de colaboração perante a autoridade administrativa em geral, sem reproduzir o inciso VII relativo a outras entidades designadas em lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T00:56:36+00:00"
+ },
+ {
+  "de": "d9580.964",
+  "para": "ctn.200",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 964 do RIR/2018 reproduz, para fins de administração do imposto sobre a renda, a faculdade de requisitar auxílio de força pública federal, estadual ou municipal em caso de embaraço ou desacato, citando expressamente o art. 200 do Código Tributário Nacional como fundamento legal da medida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T00:56:36+00:00"
+ },
+ {
+  "de": "floripa_ctm.117",
+  "para": "ctn.200",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 117 do Código Tributário Municipal de Florianópolis repete quase literalmente a faculdade de requisitar força pública do art. 200 do CTN, especializando a norma geral para os auditores fiscais de tributos municipais em caso de embaraço ou desacato no exercício de suas funções.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T00:56:36+00:00"
+ },
+ {
+  "de": "sc_ricms.72",
+  "para": "ctn.200",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 72 do RICMS-SC assegura aos agentes do fisco estadual a requisição de auxílio da Força Pública Estadual quando vítimas de embaraço ou desacato, especializando para a fiscalização do ICMS a mesma faculdade que o art. 200 do CTN atribui, em termos gerais, às autoridades administrativas tributárias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T00:56:36+00:00"
+ },
+ {
+  "de": "floripa_ctm.191",
+  "para": "ctn.205",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 191 do Código Tributário Municipal de Florianópolis reproduz, no caput e no parágrafo único, a mesma exigência de certidão negativa prevista no art. 205 do CTN, especializando a norma geral ao reduzir de dez dias para cinco dias úteis o prazo para expedição da certidão no âmbito municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T00:56:36+00:00"
+ },
+ {
+  "de": "floripa_ctm.193",
+  "para": "ctn.207",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 193 do Código Tributário Municipal de Florianópolis reproduz quase literalmente a dispensa de prova de quitação de tributos para evitar a caducidade de direito prevista no art. 207 do CTN, especializando a norma geral para o âmbito da fiscalização tributária municipal, inclusive quanto à exceção relativa às infrações de responsabilidade pessoal do infrator.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T00:56:36+00:00"
  }
 ]
