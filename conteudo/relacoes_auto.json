@@ -45017,5 +45017,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cf.7",
+  "para": "clt.461",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso XXX do art. 7º da Constituição Federal veda a diferença de salários por motivo de sexo, idade, cor ou estado civil. O art. 461 da CLT regulamenta essa vedação ao assegurar a equiparação salarial entre empregados que exerçam função idêntica, com igual produtividade e perfeição técnica, para o mesmo empregador e no mesmo estabelecimento, sem distinção de sexo, etnia, nacionalidade ou idade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T19:07:01+00:00"
+ },
+ {
+  "de": "l14133.177",
+  "para": "cpc.1048",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 177 da Lei 14.133/2021 alterou o caput do art. 1.048 do CPC para acrescentar o inciso IV, que estende a prioridade de tramitação aos processos em que se discuta a aplicação das normas gerais de licitação e contratação de que trata o inciso XXVII do caput do art. 22 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T19:07:01+00:00"
+ },
+ {
+  "de": "l12016.20",
+  "para": "cpc.1048",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 20 da Lei 12.016/2009 confere aos processos de mandado de segurança prioridade sobre todos os atos judiciais, ressalvado o habeas corpus. O art. 1.048 do CPC elenca hipóteses próprias de prioridade de tramitação, como a parte idosa ou com doença grave e os processos do Estatuto da Criança e do Adolescente, o que gera concorrência aparente entre as duas prioridades quando ambas incidem sobre o mesmo processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T19:07:01+00:00"
+ },
+ {
+  "de": "lef.25",
+  "para": "cpc.273",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 25 da LEF determina que toda intimação ao representante judicial da Fazenda Pública seja pessoal, independentemente do seu domicílio. O art. 273 do CPC só impõe a intimação pessoal do advogado domiciliado na sede do juízo, recorrendo à carta registrada quando domiciliado fora dela, e apenas na hipótese de ser inviável a intimação eletrônica; na execução fiscal, prevalece a regra especial da LEF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T19:07:01+00:00"
  }
 ]
