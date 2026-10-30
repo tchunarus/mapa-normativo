@@ -44687,5 +44687,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T14:18:37+00:00"
+ },
+ {
+  "de": "cpc.852",
+  "para": "cpp.144-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 852 do CPC e o art. 144-A do CPP disciplinam, cada um em seu processo, a mesma figura da alienação antecipada de bens constritos judicialmente para evitar depreciação ou deterioração, com critérios semelhantes mas não idênticos: o CPC autoriza a alienação quando se tratar de veículos automotores, pedras e metais preciosos e outros bens móveis sujeitos à depreciação ou deterioração, ou quando houver manifesta vantagem, ao passo que o CPP exige apenas que os bens estejam sujeitos a qualquer grau de deterioração ou depreciação, ou que haja dificuldade para a sua manutenção, o que gera risco de se aplicar equivocadamente o critério de um regime ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T15:28:31+00:00"
+ },
+ {
+  "de": "lef.27",
+  "para": "cpc.272",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 27 da Lei de Execução Fiscal e o art. 272 do CPC regulam o mesmo instituto da publicação de atos processuais como forma de intimação, mas a LEF acrescenta exigência própria da execução fiscal, a referência ao número da correspondente inscrição de Dívida Ativa, além dos elementos de identificação das partes e de seus advogados já exigidos pelo art. 272, § 2º, do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T15:28:31+00:00"
+ },
+ {
+  "de": "cpp.612",
+  "para": "cpc.936",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 612 do CPP determina que os recursos de habeas corpus sejam julgados na primeira sessão após a designação do relator, constituindo preferência legal expressamente ressalvada pelo caput do art. 936 do CPC, que subordina a ordem geral de julgamento dos processos de competência originária às preferências legais e regimentais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T15:28:31+00:00"
+ },
+ {
+  "de": "l12016.20",
+  "para": "cpc.936",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 20 da Lei 12.016/09 confere aos processos de mandado de segurança e aos respectivos recursos prioridade sobre todos os atos judiciais, ressalvado apenas o habeas corpus, o que configura preferência legal expressamente reservada pelo caput do art. 936 do CPC na fixação da ordem de julgamento dos recursos de competência originária dos tribunais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T15:28:31+00:00"
  }
 ]
