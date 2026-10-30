@@ -45267,5 +45267,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "clt.611-B",
+  "para": "cf.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso XXVII do art. 611-B da CLT reproduz a garantia do direito de greve do art. 9º da Constituição Federal, incluindo a liberdade dos trabalhadores de decidir sobre a oportunidade do exercício e os interesses a defender, ao vedar a supressão ou redução desse direito por convenção ou acordo coletivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T21:48:05+00:00"
+ },
+ {
+  "de": "cp.121-B",
+  "para": "cc.1638",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A alínea a do inciso II do parágrafo único do art. 1.638 do Código Civil determina a perda do poder familiar de quem pratica contra filho, filha ou outro descendente homicídio ou feminicídio doloso envolvendo violência doméstica e familiar ou menosprezo à condição de mulher, consequência civil que acompanha, no mesmo contexto fático, a conduta tipificada no art. 121-B do Código Penal, sem se confundir com a sanção penal ali prevista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T21:48:05+00:00"
+ },
+ {
+  "de": "cp.121-B",
+  "para": "cpp.313",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 313 do Código de Processo Penal autoriza a decretação da prisão preventiva quando o crime envolver violência doméstica e familiar contra a mulher, criança, adolescente, idoso, enfermo ou pessoa com deficiência, para garantir a execução de medidas protetivas de urgência, servindo de instrumento processual para crimes como o do art. 121-B do Código Penal, praticado nesse mesmo contexto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T21:48:05+00:00"
+ },
+ {
+  "de": "cp.147-A",
+  "para": "cpp.313",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "Quando a perseguição do art. 147-A do Código Penal constitui crime de violência doméstica e familiar contra a mulher, a criança, o adolescente, o idoso, o enfermo ou a pessoa com deficiência, o inciso III do art. 313 do Código de Processo Penal autoriza a decretação da prisão preventiva para garantir a execução das medidas protetivas de urgência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T21:48:05+00:00"
+ },
+ {
+  "de": "cp.147-A",
+  "para": "cpp.38",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 147-A do Código Penal condiciona a persecução penal à representação da vítima, e o § 2º do art. 38 do Código de Processo Penal estende para 12 meses o prazo decadencial desse direito de representação nos crimes praticados no âmbito de violência doméstica e familiar contra a mulher, hipótese em que o crime de perseguição pode se enquadrar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T21:48:05+00:00"
+ },
+ {
+  "de": "cp.149-A",
+  "para": "cf.243",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 149-A do Código Penal tipifica o tráfico de pessoas com a finalidade de submeter a vítima a trabalho em condições análogas à de escravo, conduta que também sujeita o imóvel rural ou urbano onde ocorrer a exploração de trabalho escravo à expropriação sem indenização, prevista no art. 243 da Constituição Federal, e os bens de valor econômico apreendidos ao confisco previsto no parágrafo único desse mesmo artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T21:48:05+00:00"
+ },
+ {
+  "de": "cp.149-A",
+  "para": "cc.1618",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 149-A do Código Penal tipifica o tráfico de pessoas praticado com a finalidade de adoção ilegal, e o art. 1.618 do Código Civil estabelece que a adoção de crianças e adolescentes somente pode ser deferida na forma prevista no Estatuto da Criança e do Adolescente, de modo que qualquer adoção obtida fora desse procedimento legal se enquadra na conduta ilícita descrita no tipo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T21:48:05+00:00"
  }
 ]
