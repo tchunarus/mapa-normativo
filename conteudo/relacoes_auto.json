@@ -44857,5 +44857,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T17:23:01+00:00"
+ },
+ {
+  "de": "cp.51",
+  "para": "lef.5",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 51 do CP determina que a multa penal, após o trânsito em julgado, seja executada perante o juiz da execução penal, aplicando se as normas da dívida ativa da Fazenda Pública apenas quanto às causas interruptivas e suspensivas da prescrição. O art. 5 da LEF fixa a competência exclusiva do juízo da execução fiscal para processar e julgar a execução da dívida ativa, o que, lido isoladamente, poderia sugerir o deslocamento da execução da multa para aquele juízo, conflito apenas aparente, pois o próprio CP mantém a competência no juízo criminal e importa da LEF somente as regras de prescrição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cpc.438",
+  "para": "d9580.1047",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 438 do CPC permite ao juiz requisitar, em qualquer tempo ou grau de jurisdição, os procedimentos administrativos de entes públicos. O art. 1047 do RIR/2018 restringe a saída dos processos fiscais dos órgãos da Secretaria da Receita Federal do Brasil às hipóteses dos incisos I a III, sem mencionar a requisição judicial, o que gera conflito aparente sobre a possibilidade de o juiz obter o processo fiscal físico fora dessas hipóteses.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cpc.438",
+  "para": "clt.735",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 438 do CPC trata da requisição judicial de informações e procedimentos administrativos às repartições públicas. O art. 735 da CLT especializa essa mesma obrigação para o processo do trabalho, impondo às repartições públicas e às associações sindicais o dever de fornecer informações aos juízes e tribunais do trabalho, sob pena das sanções previstas no Estatuto dos Funcionários Públicos em caso de recusa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cpc.782",
+  "para": "clt.721",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 782 do CPC confere ao oficial de justiça o cumprimento dos atos executivos determinados pelo juiz. O art. 721 da CLT especializa essa atribuição para a execução dos julgados trabalhistas, incumbindo aos Oficiais de Justiça e Oficiais de Justiça Avaliadores da Justiça do Trabalho a realização desses atos perante as Juntas de Conciliação e Julgamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cpc.980",
+  "para": "l11101.189-A",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 980 do CPC confere ao incidente de resolução de demandas repetitivas preferência sobre os demais feitos, ressalvados os que envolvam réu preso e os pedidos de habeas corpus. O art. 189-A da Lei 11.101/05 confere prioridade semelhante aos processos de recuperação judicial e falência sobre todos os atos judiciais, ressalvados apenas o habeas corpus e as prioridades de leis especiais, o que gera conflito aparente sobre qual preferência prevalece quando os dois feitos concorrem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cpc.980",
+  "para": "l11101.79",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 980 do CPC estabelece a preferência do incidente de resolução de demandas repetitivas sobre os demais feitos. O art. 79 da Lei 11.101/05 dá aos processos de falência e seus incidentes preferência sobre todos os outros feitos, em qualquer instância, criando conflito aparente de precedência entre os dois regimes quando coexistirem no mesmo tribunal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cpc.980",
+  "para": "l12016.20",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 980 do CPC confere ao incidente de resolução de demandas repetitivas preferência sobre os demais feitos, ressalvados os que envolvam réu preso e os pedidos de habeas corpus. O art. 20 da Lei 12.016/09 confere aos processos de mandado de segurança prioridade sobre todos os atos judiciais, também ressalvado apenas o habeas corpus, o que suscita conflito aparente sobre qual processo deve ser julgado primeiro quando concorrerem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cpc.980",
+  "para": "lcp214.382",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 980 do CPC usa o termo preferência para designar a prioridade processual de julgamento do incidente de resolução de demandas repetitivas sobre os demais feitos. O art. 382 da LC 214/2025 usa o mesmo termo para disciplinar a ordem de compensação de créditos de contribuições em matéria tributária, instituto totalmente distinto, o que gera risco de confusão pela coincidência terminológica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cpp.370",
+  "para": "cpc.273",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 370 do CPP prevê que, não havendo órgão de publicação dos atos judiciais na comarca, a intimação seja feita diretamente pelo escrivão, por mandado, via postal ou qualquer outro meio idôneo. O art. 273 do CPC contém regra geral análoga para o processo civil, atribuindo ao escrivão ou chefe de secretaria a intimação pessoal ou por carta registrada quando inviável a via eletrônica e inexistente publicação oficial no local, regra que o CPP especializa para o processo penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "l11101.189-A",
+  "para": "cpc.1048",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 189-A da Lei 11.101/05 confere prioridade aos processos de recuperação judicial e falência sobre todos os atos judiciais, ressalvados apenas o habeas corpus e as prioridades de leis especiais. O art. 1048 do CPC estabelece prioridade de tramitação para idosos, portadores de doença grave, feitos do Estatuto da Criança e do Adolescente e vítimas de violência doméstica, hipóteses não mencionadas na ressalva do art. 189-A, o que gera conflito aparente sobre qual prioridade prevalece quando concorrerem no mesmo processo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cf.3",
+  "para": "cp.359-P",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 3 da CF fixa como objetivo fundamental promover o bem de todos, sem preconceito de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação. O art. 359-P do CP regulamenta esse objetivo no âmbito penal, tipificando a conduta de restringir, impedir ou dificultar, com violência, o exercício de direitos políticos em razão de sexo, raça, cor, etnia, religião ou procedência nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cf.3",
+  "para": "clt.461",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 3 da CF estabelece o objetivo de promover o bem de todos, sem distinção de sexo e outras formas de discriminação. O art. 461 da CLT regulamenta esse objetivo nas relações de trabalho, assegurando salário igual para trabalho de igual valor prestado ao mesmo empregador, no mesmo estabelecimento, sem distinção de sexo, etnia, nacionalidade ou idade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cf.3",
+  "para": "cpp.436",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 3 da CF fixa o objetivo de promover o bem de todos sem discriminação de cor, raça, sexo ou outras condições pessoais. O § 1º do art. 436 do CPP regulamenta esse objetivo no serviço do júri, vedando a exclusão de qualquer cidadão do alistamento ou dos trabalhos do júri em razão de cor ou etnia, raça, credo, sexo, profissão, classe social ou econômica, origem ou grau de instrução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cf.3",
+  "para": "l14967.47",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 3 da CF estabelece como objetivo fundamental promover o bem de todos, sem preconceito de origem, raça, sexo, cor ou idade. O § 1º do art. 47 da Lei 14.967/24 regulamenta esse objetivo no regime sancionador das instituições financeiras, agravando até o triplo a multa aplicável quando a conduta do infrator envolver preconceitos de origem, raça, sexo, cor ou idade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cf.4",
+  "para": "adct.7",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 4 da CF rege as relações internacionais da República pelo princípio da prevalência dos direitos humanos. O art. 7 do ADCT, que integra o mesmo texto constitucional, complementa esse princípio ao comprometer o Brasil a propugnar pela formação de um tribunal internacional dos direitos humanos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
+ },
+ {
+  "de": "cf.4",
+  "para": "l9279.71-A",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 4 da CF estabelece a prevalência dos direitos humanos como princípio das relações internacionais do Brasil. O art. 71-A da LPI regulamenta esse princípio ao autorizar a concessão de licença compulsória de patentes de produtos farmacêuticos destinados à exportação, por razões humanitárias, nos termos de tratado internacional do qual o Brasil seja parte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T17:48:14+00:00"
  }
 ]
