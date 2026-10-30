@@ -45107,5 +45107,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T20:00:25+00:00"
+ },
+ {
+  "de": "cf.227",
+  "para": "cc.1596",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.596 do Código Civil reproduz, no âmbito das relações de família, a vedação de designações discriminatórias entre filhos havidos ou não da relação de casamento ou por adoção, regulamentando o mesmo instituto da igualdade de filiação consagrado no art. 227, § 6º, da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "cf.227",
+  "para": "cp.218",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 218 do Código Penal tipifica a indução de menor de catorze anos à lascívia de outrem, regulamentando o mandado constitucional do art. 227, § 4º, da Constituição Federal, que impõe a punição severa do abuso e da exploração sexual de criança e de adolescente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "cf.227",
+  "para": "cp.218-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 218-A do Código Penal tipifica a prática de ato libidinoso na presença de menor de catorze anos, regulamentando, como o art. 218 do mesmo Código, o mandado constitucional do art. 227, § 4º, da Constituição Federal, de punição severa à exploração sexual de criança e de adolescente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "cf.227",
+  "para": "cp.149-A",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 149-A do Código Penal tipifica o tráfico de pessoas para fins de adoção ilegal (inciso IV) e de exploração sexual (inciso V), condutas conexas aos mandados dos §§ 4º e 5º do art. 227 da Constituição Federal, que determinam a punição severa da exploração sexual de criança e de adolescente e a assistência do poder público à adoção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "cf.7",
+  "para": "clt.611-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 611-B da CLT lista, entre os direitos que a negociação coletiva não pode suprimir ou reduzir, o seguro desemprego (inciso II), o Fundo de Garantia do Tempo de Serviço (inciso III), o salário mínimo (inciso IV), o décimo terceiro salário (inciso V), a remuneração do trabalho noturno (inciso VI) e a proteção do salário (inciso VII), regulamentando os mesmos direitos trabalhistas assegurados pelo art. 7º, incisos II, III, IV, VIII, IX e X, da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "cf.7",
+  "para": "clt.76",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 76 da CLT define o salário mínimo como a contraprestação mínima devida ao trabalhador, regulamentando o direito ao salário mínimo nacionalmente unificado assegurado pelo art. 7º, IV, da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "cf.7",
+  "para": "clt.73",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 73 da CLT fixa em vinte por cento o acréscimo mínimo da remuneração do trabalho noturno sobre a hora diurna, regulamentando o direito à remuneração superior do trabalho noturno assegurado pelo art. 7º, IX, da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "cf.7",
+  "para": "clt.59",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 59 da CLT fixa em cinquenta por cento o acréscimo mínimo da remuneração da hora extra sobre a hora normal, regulamentando o direito à remuneração do serviço extraordinário superior, no mínimo, em cinquenta por cento à do normal, assegurado pelo art. 7º, XVI, da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "cf.7",
+  "para": "l8036.20",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 20 da Lei 8.036/90 disciplina as hipóteses de movimentação da conta vinculada do FGTS, regulamentando o direito ao fundo de garantia do tempo de serviço assegurado pelo art. 7º, III, da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "cpp.158",
+  "para": "cp.121-A",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 121-A do Código Penal define o feminicídio, cujo § 1º, I, caracteriza o contexto de violência doméstica e familiar; a apuração desse crime, quando deixar vestígios, segue a prioridade de exame de corpo de delito que o art. 158, parágrafo único, I, do CPP atribui aos crimes que envolvam violência doméstica e familiar contra mulher.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "cpp.158",
+  "para": "cp.121-B",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 121-B do Código Penal tipifica o vicaricídio cometido no contexto de violência doméstica e familiar, inclusive, por seu parágrafo único, II, quando a vítima é criança, adolescente, idoso ou pessoa com deficiência; a apuração desse crime segue a prioridade de exame de corpo de delito que o art. 158, parágrafo único, I e II, do CPP atribui a tais hipóteses.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "cpp.158",
+  "para": "cp.147-A",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 147-A do Código Penal aumenta de metade a pena do crime de perseguição quando cometido contra criança, adolescente ou idoso (§ 1º, I) ou contra mulher por razões da condição de sexo feminino (§ 1º, II); a apuração desse crime, quando deixar vestígios, segue a prioridade de exame de corpo de delito que o art. 158, parágrafo único, I e II, do CPP atribui a essas vítimas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "d9580.1047",
+  "para": "lef.41",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "Os §§ 3º e 4º do art. 1.047 do RIR/2018 reproduzem, para o processo fiscal do imposto de renda, a regra do art. 41, caput e parágrafo único, da LEF sobre a manutenção do processo administrativo na repartição competente e sua exibição mediante requisição judicial, como o próprio RIR explicita ao citar a LEF como fundamento legal do dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "floripa_ctm.163",
+  "para": "d70235.23",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 163 do CTM de Florianópolis disciplina a forma de intimação no processo administrativo fiscal municipal, pessoal, por carta via SEED ou por edital no Diário Oficial do Estado, tratando do mesmo instituto que o art. 23 do PAF rege para o processo administrativo fiscal federal, com modalidades distintas, inclusive a eletrônica; a semelhança de finalidade entre os dispositivos gera risco de se aplicar a um processo municipal a disciplina federal, ou o inverso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "floripa_ctm.163",
+  "para": "lcp214.332",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 332 da LC 214/2025 estabelece a intimação por Domicílio Tributário Eletrônico como regra do processo administrativo tributário do IBS, tributo que substituirá o ISS regido pelo CTM de Florianópolis; durante a transição entre os dois regimes, há risco de se confundir a forma de intimação prevista no art. 163 do CTM, pessoal ou por carta e edital, com a disciplina do Domicílio Tributário Eletrônico do art. 332 da LC 214/2025, aplicável ao novo imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
+ },
+ {
+  "de": "l11101.79",
+  "para": "l12016.20",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 79 da Lei 11.101/05 confere aos processos de falência preferência sobre todos os outros feitos em qualquer instância, e o art. 20 da Lei 12.016/09 confere prioridade semelhante aos processos de mandado de segurança sobre todos os atos judiciais, ressalvado o habeas corpus; a concorrência de duas normas de prioridade processual absoluta configura conflito aparente a resolver pelos critérios próprios de cada regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T20:57:36+00:00"
  }
 ]
