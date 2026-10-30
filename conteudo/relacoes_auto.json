@@ -44597,5 +44597,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T13:07:27+00:00"
+ },
+ {
+  "de": "cpc.936",
+  "para": "l12016.16",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 936 do CPC estabelece a ordem geral de julgamento dos processos de competência originária dos tribunais, inclusive a prioridade daqueles em que houver sustentação oral, e a Lei 12.016/09 não disciplina essa ordem de julgamento, de modo que o art. 936 aplica-se subsidiariamente ao mandado de segurança de competência originária de que trata o art. 16 dessa lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T14:18:37+00:00"
+ },
+ {
+  "de": "l12016.16",
+  "para": "cpc.937",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 16 da Lei 12.016/09 assegura a defesa oral na sessão de julgamento do mandado de segurança de competência originária dos tribunais, e o inciso VI do art. 937 do CPC detalha essa garantia ao incluir expressamente o mandado de segurança entre os casos em que as partes sustentam suas razões pelo prazo de quinze minutos, complementando a regra geral da lei especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T14:18:37+00:00"
+ },
+ {
+  "de": "l9279.221",
+  "para": "cpc.223",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 221 da Lei de Propriedade Industrial e o art. 223 do CPC tratam da mesma figura da preclusão temporal por decurso de prazo, com redação quase idêntica sobre a prova de justa causa, mas disciplinam institutos distintos, um administrativo perante o INPI e outro judicial, o que gera risco real de confusão sobre qual regime de justa causa se aplica a cada procedimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T14:18:37+00:00"
+ },
+ {
+  "de": "cpc.852",
+  "para": "lef.21",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 21 da LEF determina que o produto da alienação antecipada dos bens penhorados seja depositado em garantia da execução, mas não estabelece os critérios para que o juiz determine essa alienação antecipada, lacuna suprida subsidiariamente pelos incisos I e II do art. 852 do CPC, que definem as hipóteses de depreciação, deterioração ou manifesta vantagem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T14:18:37+00:00"
+ },
+ {
+  "de": "lef.21",
+  "para": "cpp.144-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 21 da LEF e o art. 144-A do CPP tratam ambos da alienação antecipada de bens penhorados ou apreendidos para evitar depreciação ou deterioração, mas um rege a execução fiscal e o outro a apreensão de bens no processo penal, regimes distintos que podem ser confundidos pela semelhança da expressão e da finalidade protetiva.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T14:18:37+00:00"
+ },
+ {
+  "de": "cpc.905",
+  "para": "lef.21",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 21 da LEF determina apenas que o produto da alienação antecipada seja depositado em garantia da execução, sem disciplinar quando esse valor pode ser levantado pelo exequente, matéria que o art. 905 do CPC regula e que se aplica subsidiariamente à execução fiscal nessa lacuna.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T14:18:37+00:00"
+ },
+ {
+  "de": "lef.25",
+  "para": "ctn.169",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 25 da LEF exige que a intimação ao representante judicial da Fazenda Pública seja feita pessoalmente, e o parágrafo único do art. 169 do CTN usa exatamente essa intimação pessoal validamente feita como marco para recomeçar, pela metade, o prazo de prescrição da ação anulatória, de modo que os dois dispositivos se complementam na definição desse requisito processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T14:18:37+00:00"
+ },
+ {
+  "de": "lef.25",
+  "para": "floripa_ctm.85",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 25 da LEF exige que a intimação ao representante judicial da Fazenda Pública seja pessoal, e o Parágrafo Único do art. 85 do CTM de Florianópolis reproduz essa mesma exigência para o representante da Fazenda Municipal como marco de recomeço do prazo de prescrição da ação anulatória, complementando-se os dois dispositivos na definição desse requisito comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T14:18:37+00:00"
+ },
+ {
+  "de": "lef.25",
+  "para": "cpc.269",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 269 do CPC prevê, como regra geral, que a intimação da Fazenda Pública se faça perante o órgão de Advocacia Pública responsável pela representação, e o art. 25 da LEF especializa essa regra ao exigir, na execução fiscal, a intimação pessoal do representante judicial da Fazenda Pública, admitindo a vista dos autos como meio alternativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T14:18:37+00:00"
  }
 ]
