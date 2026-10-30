@@ -44177,5 +44177,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T01:47:20+00:00"
+ },
+ {
+  "de": "lcp123.29",
+  "para": "l9430.33",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 29 da LC 123/06 prevê a exclusão de ofício do Simples Nacional por embaraço e resistência à fiscalização, redação quase idêntica à do art. 33 da Lei 9.430/96, que autoriza regime especial de fiscalização pelas mesmas condutas, mas tratam de institutos distintos (exclusão de regime favorecido e regime especial de fiscalização), o que gera risco de confusão sobre qual consequência se aplica ao contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T06:44:25+00:00"
+ },
+ {
+  "de": "lcp123.29",
+  "para": "lcp214.338",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "As hipóteses de embaraço, resistência à fiscalização, interposição de pessoas e prática reiterada de infração que ensejam a exclusão de ofício do Simples Nacional, nos incisos II, III, IV e V, reproduzem, para o IBS e a CBS, as mesmas hipóteses do REF previsto no art. 338 da LC 214/2025, com institutos e consequências diferentes, o que pode levar à confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T06:44:25+00:00"
+ },
+ {
+  "de": "lcp214.471-A",
+  "para": "lcp227.471-A",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 471-A da LC 214/2025 e o art. 471-A da LC 227/2026 instituem, com redação idêntica, o mesmo Programa Nacional de Conformidade Tributária (PNCT) para o IBS e a CBS, o que gera risco de confusão sobre qual lei complementar é a fonte normativa do programa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T06:44:25+00:00"
+ },
+ {
+  "de": "lcp227.31",
+  "para": "ctn.199-A",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 199-A do CTN autoriza, em caráter geral e facultativo, que as Fazendas Públicas compartilhem, por convênio, atividades de fiscalização, enquanto o art. 31 da LC 227/2026 institui regra especial e obrigatória de coordenação da fiscalização do IBS entre Estados, Distrito Federal e Municípios, por meio da Diretoria de Fiscalização do CGIBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T06:44:25+00:00"
+ },
+ {
+  "de": "lcp227.4",
+  "para": "cf.156-B",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 156-B da Constituição Federal atribui ao CGIBS as competências administrativas de editar regulamento único, arrecadar e decidir o contencioso administrativo do IBS, e o art. 4º da LC 227/2026 complementa esse rol ao atribuir ao CGIBS, no mesmo regime de gestão compartilhada do imposto, a coordenação da fiscalização entre os entes federativos, com vedação à segregação por critério.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T06:44:25+00:00"
+ },
+ {
+  "de": "sc_ricms.72",
+  "para": "floripa_ctm.117",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 72 do RICMS-SC e o art. 117 A do Código Tributário Municipal de Florianópolis preveem, com redação quase idêntica, a requisição de força pública por embaraço ou desacato ao fisco, cada um atribuindo essa prerrogativa a agentes de esferas distintas (fisco estadual e Auditores Fiscais de Tributos Municipais), o que pode gerar confusão sobre a autoridade competente para requisitar o auxílio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T06:44:25+00:00"
+ },
+ {
+  "de": "ctn.208-A",
+  "para": "lcp227.89",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O parágrafo primeiro do art. 208-A do CTN exige que os entes federativos com mais de 100.000 habitantes assegurem aos contribuintes o duplo grau de jurisdição no contencioso administrativo fiscal, e o art. 89 da LC 227/2026 institui o procedimento que concretiza essa garantia para o IBS, estruturando o contencioso em primeira instância, segunda instância e instância de uniformização.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T06:44:25+00:00"
+ },
+ {
+  "de": "ctn.208-A",
+  "para": "cpc.496",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 208-A do CTN assegura o duplo grau de jurisdição no processo administrativo fiscal, enquanto o art. 496 do CPC trata do duplo grau de jurisdição obrigatório no processo judicial contra a Fazenda Pública, por meio da remessa necessária, institutos conexos que compartilham a mesma expressão mas regulam esferas e mecanismos de revisão diferentes, o que pode gerar confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T06:44:25+00:00"
+ },
+ {
+  "de": "ctn.208-A",
+  "para": "l13988.23",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 208-A do CTN estabelece normas gerais para o processo administrativo fiscal de todos os entes federativos, e o art. 23 da Lei 13.988/20 institui regra especial para o contencioso administrativo fiscal federal de pequeno valor, mantendo as garantias do contraditório e da ampla defesa dentro desse regime geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T06:44:25+00:00"
+ },
+ {
+  "de": "ctn.208-F",
+  "para": "lcp227.98",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 208-F do CTN exige que as decisões e os acórdãos do contencioso administrativo fiscal indiquem com clareza os pressupostos de fato e de direito e sejam publicizados, e o art. 98 da LC 227/2026 reproduz essa mesma exigência como regra especial aplicável ao contencioso administrativo do IBS, atribuindo ao CGIBS o dever de assegurar a publicidade das decisões.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T06:44:25+00:00"
  }
 ]
