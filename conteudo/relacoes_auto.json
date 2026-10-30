@@ -44367,5 +44367,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T09:46:09+00:00"
+ },
+ {
+  "de": "ctn.211-B",
+  "para": "lcp227.60",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 211-B do CTN exige que os entes subnacionais adotem, no processo administrativo fiscal, os critérios de devido processo legal, ampla defesa, duplo grau de jurisdição e contraditório previstos nos arts. 208-A a 208-J. O art. 60 da LC 227/2026 assegura às partes exatamente o devido processo legal, o contraditório e a ampla defesa no processo administrativo tributário do IBS, detalhando, para esse tributo compartilhado por Estados, Distrito Federal e Municípios, o mandamento geral do CTN.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T10:56:36+00:00"
+ },
+ {
+  "de": "ctn.211-B",
+  "para": "cpc.496",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O caput do art. 211-B do CTN cita o duplo grau de jurisdição entre os critérios a implementar no processo administrativo fiscal. O art. 496 do CPC trata do duplo grau de jurisdição como instituto processual civil, a remessa necessária de sentenças contrárias à Fazenda Pública, instituto distinto da garantia de segunda instância administrativa, havendo risco de confusão entre os dois pela identidade da expressão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T10:56:36+00:00"
+ },
+ {
+  "de": "ctn.212",
+  "para": "lcp123.87-A",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 212 do CTN impõe aos Poderes Executivos federal, estaduais e municipais o dever genérico de consolidar, por decreto, em texto único, a legislação vigente de cada tributo, repetindo a providência a cada ano. O art. 87-A da LC 123/06 repete esse dever de consolidação periódica por decreto, mas o especializa para a regulamentação aplicável às microempresas e empresas de pequeno porte, com prazo próprio, até 30 de novembro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T10:56:36+00:00"
+ },
+ {
+  "de": "lcp227.76",
+  "para": "lcp214.323-G",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 76 da LC 227/2026 remete expressamente ao art. 323-G da LC 214/2025 ao ressalvar, nas hipóteses de rito sumário, o direito de interposição do recurso especial ali previsto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T10:56:36+00:00"
+ },
+ {
+  "de": "l13988.24",
+  "para": "l14973.23",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 24 da Lei 13.988/20 trata da transação de crédito tributário de pequeno valor. O inciso I do art. 23 da Lei 14.973/24 cria mecanismo de transação de dívidas não tributárias com a União, excluindo expressamente a matéria envolvendo créditos tributários, de modo que há risco de confusão sobre qual regime de transação se aplica a um débito de pequeno valor.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T10:56:36+00:00"
+ },
+ {
+  "de": "d70235.25",
+  "para": "ctn.208-C",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 208-C do CTN determina que os julgamentos de primeira e segunda instâncias do contencioso administrativo fiscal sejam realizados conforme legislação específica. O art. 25 do Decreto 70.235/72 é essa legislação específica para os tributos administrados pela Secretaria da Receita Federal, definindo a competência das Delegacias de Julgamento em primeira instância e do Conselho Administrativo de Recursos Fiscais em segunda instância.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T10:56:36+00:00"
+ },
+ {
+  "de": "d70235.25",
+  "para": "lcp227.92",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 25 do Decreto 70.235/72 atribui a primeira instância do julgamento dos tributos federais às Delegacias da Receita Federal de Julgamento. O art. 92 da LC 227/2026 cria, para o IBS, uma primeira instância distinta, as Câmaras de Julgamento virtuais do CGIBS, compostas por servidores estaduais e municipais, havendo risco de se supor que a mesma estrutura federal também julga o IBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T10:56:36+00:00"
+ },
+ {
+  "de": "d70235.25",
+  "para": "lcp227.94",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 25 do Decreto 70.235/72 atribui a segunda instância dos tributos federais ao Conselho Administrativo de Recursos Fiscais. O art. 94 da LC 227/2026 cria, para o IBS, uma segunda instância distinta, as Câmaras Recursais de Julgamento virtuais do CGIBS, havendo risco de se confundir essa estrutura com o CARF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T10:56:36+00:00"
  }
 ]
