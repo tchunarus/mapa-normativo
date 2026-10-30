@@ -44057,5 +44057,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T00:56:36+00:00"
+ },
+ {
+  "de": "d9580.964",
+  "para": "floripa_ctm.117",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 964 do RIR/2018 e o art. 117-A do CTM de Florianópolis preveem a mesma hipótese de requisição de auxílio de força pública por embaraço ou desacato na fiscalização tributária, com redação quase idêntica, mas disciplinam esferas distintas, a fiscalização federal do imposto de renda e a fiscalização municipal, o que pode levar a se tratar as duas normas como uma única regra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T01:47:20+00:00"
+ },
+ {
+  "de": "d9580.964",
+  "para": "sc_ricms.72",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 964 do RIR/2018 e o art. 72 do RICMS-SC preveem a mesma hipótese de requisição de auxílio de força pública por embaraço ou desacato na fiscalização tributária, mas disciplinam tributos e esferas distintas, o imposto de renda federal e o ICMS estadual, o que gera risco de se confundir as duas normas como se fossem a mesma regra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T01:47:20+00:00"
+ },
+ {
+  "de": "d9580.966",
+  "para": "lcp214.338",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 966 do RIR/2018 e o art. 338 da LC 214/2025 instituem regimes especiais de fiscalização com hipóteses quase idênticas de embaraço e de resistência à fiscalização, porém um regula tributos federais sobre a renda e o outro regula a CBS e o IBS, regimes autônomos que podem ser confundidos entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T01:47:20+00:00"
+ },
+ {
+  "de": "d9580.966",
+  "para": "lcp214.341",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 5º do art. 966 do RIR/2018 prevê multa em dobro para infrações cometidas durante o regime especial de fiscalização do imposto de renda, assim como o § 1º do art. 341 da LC 214/2025 duplica a multa de ofício da CBS e do IBS no mesmo contexto, regimes distintos que podem ser confundidos entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T01:47:20+00:00"
+ },
+ {
+  "de": "d9580.966",
+  "para": "lcp123.29",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O inciso II do art. 29 da LC 123/06 utiliza o mesmo conceito de embaraço à fiscalização presente no inciso I do art. 966 do RIR/2018, mas como causa de exclusão de ofício do Simples Nacional, e não como fundamento para regime especial de fiscalização, de modo que os dispositivos compartilham apenas o conceito, não o instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T01:47:20+00:00"
+ },
+ {
+  "de": "d9580.972",
+  "para": "floripa_ctm.287-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 972 do RIR/2018 e o art. 287-A do CTM de Florianópolis regulamentam o mesmo dever de terceiros informarem a fiscalização tributária, com rol de obrigados quase idêntico, como tabeliães, instituições financeiras, corretores e leiloeiros, aplicado respectivamente à esfera federal e à municipal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T01:47:20+00:00"
+ },
+ {
+  "de": "floripa_ctm.117",
+  "para": "ctn.199",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 199 do CTN estabelece, em caráter geral, que a Fazenda Pública da União e a dos Municípios prestarão assistência mútua e permutarão informações por lei ou convênio, e o art. 118 do CTM de Florianópolis regulamenta esse mecanismo ao atribuir à Secretaria Municipal da Receita a competência para firmar tais acordos e convênios com as Fazendas da União e do Estado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T01:47:20+00:00"
+ },
+ {
+  "de": "floripa_ctm.117",
+  "para": "d9580.983",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 118 do CTM de Florianópolis e o art. 983 do RIR/2018 regulam a mesma assistência mútua e permuta de informações entre Fazendas Públicas prevista no art. 199 do CTN, mas um disciplina a atuação da Fazenda municipal e o outro a fiscalização federal do imposto de renda, o que pode levar a confundir as duas normas como se fossem idênticas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T01:47:20+00:00"
+ },
+ {
+  "de": "floripa_ctm.191",
+  "para": "ctn.208",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 191 do CTM de Florianópolis não disciplina as consequências da expedição de certidão negativa com erro, de modo que se aplica subsidiariamente o art. 208 do CTN, que responsabiliza pessoalmente o funcionário que expedir a certidão com dolo ou fraude contra a Fazenda Pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T01:47:20+00:00"
+ },
+ {
+  "de": "floripa_ctm.287-A",
+  "para": "ctn.134",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 287-A do CTM de Florianópolis sujeita à fiscalização tributária municipal as pessoas que, em razão do ofício, interferem em atos relacionados ao imposto, categoria próxima dos responsáveis solidários do art. 134 do CTN, mas os dois dispositivos tratam de consequências jurídicas distintas, a sujeição à fiscalização e a responsabilidade pelo tributo, que podem ser confundidas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T01:47:20+00:00"
+ },
+ {
+  "de": "lcp214.324",
+  "para": "lcp227.4",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 324 da LC 214/2025 atribui a fiscalização do IBS às administrações tributárias dos Estados, do Distrito Federal e dos Municípios, e o art. 4º da LC 227/2026 complementa esse regime ao atribuir ao CGIBS a coordenação dessas mesmas atividades de fiscalização entre os entes federativos, vedando a segregação por esfera federativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T01:47:20+00:00"
+ },
+ {
+  "de": "lcp214.324",
+  "para": "lcp227.31",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 324 da LC 214/2025 distribui a competência de fiscalização do IBS entre as administrações tributárias estaduais, distritais e municipais, e o art. 31 da LC 227/2026 complementa esse regime ao criar a Diretoria de Fiscalização do CGIBS, responsável por coordenar essas mesmas atividades entre os entes federativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T01:47:20+00:00"
  }
 ]
