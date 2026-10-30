@@ -44447,5 +44447,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T10:56:36+00:00"
+ },
+ {
+  "de": "lcp123.87-A",
+  "para": "cf.179",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 179 da Constituição Federal determina que a União, os Estados, o Distrito Federal e os Municípios dispensem às microempresas e às empresas de pequeno porte tratamento jurídico diferenciado, com simplificação de suas obrigações administrativas e tributárias; o art. 87-A da LC 123/06 regulamenta esse mandamento ao impor a cada ente federativo o dever anual de consolidar, por decreto, a regulamentação aplicável a essas empresas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T12:27:58+00:00"
+ },
+ {
+  "de": "lcp227.60",
+  "para": "cpc.223",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 60 da LC 227/2026 e o art. 223 do CPC tratam do mesmo instituto da preclusão temporal: ambos estabelecem que, decorrido o prazo para a prática do ato, extingue-se automaticamente o direito de praticá-lo, ressalvada a prova de que a omissão decorreu de justa causa, o que gera risco de se confundir a disciplina processual civil com a disciplina do processo administrativo tributário do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T12:27:58+00:00"
+ },
+ {
+  "de": "lcp227.60",
+  "para": "l9279.221",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 221 da LPI repete, para os prazos daquela lei, a mesma estrutura do art. 60 da LC 227/2026: extinção automática do direito de praticar o ato após o decurso do prazo, salvo prova de justa causa pela parte, o que cria risco de confusão entre o regime do processo administrativo do IBS e da CBS e o regime especial de prazos da propriedade industrial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T12:27:58+00:00"
+ },
+ {
+  "de": "lcp227.60",
+  "para": "l9784.67",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 67 da Lei 9.784/99 e o art. 60 da LC 227/2026 tratam de institutos conexos ligados à força maior nos prazos processuais: a lei geral do processo administrativo federal determina que os prazos não se suspendem, salvo força maior comprovada, enquanto a LC 227/2026 prevê a extinção do direito à prática do ato, ressalvada a força maior, o caso fortuito ou a justa causa, o que pode gerar confusão sobre qual efeito incide em cada caso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T12:27:58+00:00"
+ },
+ {
+  "de": "lcp227.60",
+  "para": "l12016.16",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 16 da Lei 12.016/09 assegura a defesa oral na sessão de julgamento dos processos de competência originária dos tribunais, instituto conexo ao direito de sustentação oral nas sessões de julgamento previsto no art. 60 da LC 227/2026 para o contencioso administrativo do IBS e da CBS, ainda que em esferas distintas, judicial e administrativa, o que pode gerar confusão quanto ao alcance de cada garantia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T12:27:58+00:00"
+ },
+ {
+  "de": "lcp227.92",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 156-B da Constituição Federal atribui aos Estados, ao Distrito Federal e aos Municípios, por meio do Comitê Gestor do IBS, a competência para decidir o contencioso administrativo do imposto; o art. 92 da LC 227/2026 regulamenta exatamente essa competência ao instituir a primeira instância de julgamento, composta pelas Câmaras de Julgamento integradas por servidores de carreira desses entes federativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T12:27:58+00:00"
+ },
+ {
+  "de": "lcp227.94",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso III do art. 156-B da Constituição Federal confere aos Estados, ao Distrito Federal e aos Municípios, por meio do Comitê Gestor do IBS, a competência para decidir o contencioso administrativo do imposto; o art. 94 da LC 227/2026 regulamenta essa competência na segunda instância, ao instituir as Câmaras Recursais de Julgamento, compostas paritariamente por servidores de carreira dos entes federativos e por representantes dos contribuintes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T12:27:58+00:00"
+ },
+ {
+  "de": "lcp227.94",
+  "para": "lcp214.323-G",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 323-G da LC 214/2025 prevê recurso especial contra decisão proferida por Câmara Recursal de Julgamento do CGIBS, órgão cuja composição e funcionamento são detalhados pelo art. 94 da LC 227/2026; os dois dispositivos integram o mesmo regime do contencioso administrativo do IBS e da CBS, um estabelecendo o recurso cabível contra as decisões da Câmara Recursal e o outro detalhando a estrutura desse colegiado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T12:27:58+00:00"
+ },
+ {
+  "de": "lcp227.94",
+  "para": "floripa_ctm.144",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 144 do Código Tributário Municipal de Florianópolis organiza o Conselho Municipal de Contribuintes em duas câmaras de julgamento, com paridade entre as entidades de classe dos contribuintes e a Secretaria Municipal de Finanças, instituto conexo às Câmaras Recursais de Julgamento do CGIBS criadas pelo art. 94 da LC 227/2026, também colegiadas e paritárias, mas em esferas tributárias distintas, o que pode gerar confusão entre os dois órgãos de julgamento administrativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T12:27:58+00:00"
  }
 ]
