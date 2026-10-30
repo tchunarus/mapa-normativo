@@ -44277,5 +44277,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T06:44:25+00:00"
+ },
+ {
+  "de": "l13988.23",
+  "para": "d70235.25",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 23 da Lei 13.988/20 determina que o rito do contencioso administrativo de pequeno valor observe o contraditório e a ampla defesa, aplicando o disposto no Decreto 70.235/72, cujo art. 25 atribui a competência de julgamento às Delegacias da Receita Federal de Julgamento, apenas subsidiariamente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T09:46:09+00:00"
+ },
+ {
+  "de": "l13988.23",
+  "para": "lcp214.326",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos os dispositivos tratam de tratamento diferenciado para processos fiscais de pequeno valor, mas a Lei 13.988/20 disciplina o rito de julgamento e a transação do contencioso administrativo federal, enquanto o art. 326 da LC 214/2025 trata da delegação recíproca de fiscalização do IBS e da CBS entre os entes federativos. São institutos conexos, porém distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T09:46:09+00:00"
+ },
+ {
+  "de": "lcp227.89",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 89 da LC 227/2026 detalha a estrutura das instâncias do contencioso administrativo do IBS, regulamentando a competência atribuída ao CGIBS pelo inciso III do art. 156-B da Constituição Federal para decidir esse contencioso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T09:46:09+00:00"
+ },
+ {
+  "de": "lcp227.89",
+  "para": "ctn.208-C",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 89 da LC 227/2026 organiza o contencioso do IBS em instâncias próprias do CGIBS, enquanto o art. 208-C do CTN disciplina a estrutura de primeira e segunda instâncias do processo administrativo fiscal em geral. Os regimes são conexos pelo tema comum, mas aplicam-se a órgãos julgadores distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T09:46:09+00:00"
+ },
+ {
+  "de": "lcp214.323-G",
+  "para": "lcp227.89",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O recurso especial do art. 323-G da LC 214/2025 é o instrumento processual pelo qual as partes acessam a instância de uniformização da jurisprudência do IBS instituída pelo inciso III do art. 89 da LC 227/2026.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T09:46:09+00:00"
+ },
+ {
+  "de": "lcp123.39",
+  "para": "lcp227.89",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 39 da LC 123/06 remete expressamente ao disposto em relação ao processo administrativo tributário do IBS para disciplinar o contencioso do Simples Nacional, estrutura organizada pelo art. 89 da LC 227/2026. Tratam-se de institutos conexos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T09:46:09+00:00"
+ },
+ {
+  "de": "lcp227.98",
+  "para": "cpc.943",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Ambos os dispositivos exigem publicidade dos acórdãos, mas o art. 943 do CPC regula acórdãos judiciais, com exigência de ementa e prazo de dez dias para publicação, enquanto o art. 98 da LC 227/2026 regula acórdãos administrativos do CGIBS sem prever ementa ou prazo específico. Há apenas ponto de contato entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T09:46:09+00:00"
+ },
+ {
+  "de": "l13988.24",
+  "para": "ctn.208-I",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 208-I do CTN autoriza que o trâmite do processo administrativo fiscal seja diferenciado em função do valor do crédito discutido, nos termos da legislação específica, e o art. 24 da Lei 13.988/20 especializa essa autorização ao definir o contencioso tributário de pequeno valor para fins de transação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T09:46:09+00:00"
+ },
+ {
+  "de": "lcp227.76",
+  "para": "ctn.208-I",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 208-I do CTN permite a diferenciação do trâmite processual em razão do valor do crédito tributário, e o art. 76 da LC 227/2026 especializa essa diretriz ao instituir o rito sumário do contencioso do IBS para créditos inferiores ao valor de alçada de 1.000 UPFs.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-10-30T09:46:09+00:00"
  }
 ]
