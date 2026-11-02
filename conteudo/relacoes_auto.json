@@ -46127,5 +46127,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T22:48:18+00:00"
+ },
+ {
+  "de": "cpp.86",
+  "para": "cf.102",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 86 do CPP, anterior à Constituição de 1988, atribui ao Supremo Tribunal Federal competência originária para processar e julgar ministros de Estado, o procurador-geral da República e os desembargadores dos Tribunais de Apelação, enquanto o art. 102, I, alíneas b e c, da CF vigente disciplina, com rol de autoridades e hipóteses distintas, a mesma competência originária criminal do STF; a redação desatualizada do CPP pode levar a tomar aquele rol pelo foro hoje vigente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T23:45:54+00:00"
+ },
+ {
+  "de": "lcp227.101",
+  "para": "cc.653",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 101 da LC 227/2026 trata da perda do mandato de membro julgador do CGIBS, mandato de natureza político-administrativa, enquanto o art. 653 do CC define mandato como o contrato pelo qual alguém recebe poderes para agir em nome de outrem; a homonímia entre mandato político e mandato civil de representação pode gerar confusão na pesquisa do termo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T23:45:54+00:00"
+ },
+ {
+  "de": "cf.56",
+  "para": "cc.709",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 56 da CF preserva o mandato parlamentar de Deputados e Senadores nas hipóteses que enumera, enquanto o art. 709 do CC estende à comissão as regras do mandato civil, contrato de representação voluntária; a homonímia do termo mandato, empregado em sentidos distintos pelos dois diplomas, pode gerar confusão entre o instituto político e o civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T23:45:54+00:00"
+ },
+ {
+  "de": "cf.58",
+  "para": "lcp105.4",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 58 da CF atribui às comissões parlamentares de inquérito poderes de investigação próprios das autoridades judiciais, e o art. 4º da LC 105/01, em seu § 1º, regulamenta especificamente o exercício desse poder quanto à obtenção direta, pelas CPIs, de informações e documentos protegidos por sigilo bancário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T23:45:54+00:00"
+ },
+ {
+  "de": "cf.58",
+  "para": "adct.26",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 58 da CF disciplina o regime das comissões do Congresso Nacional, inclusive das comissões parlamentares de inquérito do § 3º, e o art. 26 do ADCT instituiu, como aplicação concreta e temporária desse mesmo instituto, comissão mista com força legal de CPI para apurar o endividamento externo brasileiro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T23:45:54+00:00"
+ },
+ {
+  "de": "cf.62",
+  "para": "adct.25",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 62 da CF instituiu a medida provisória como instrumento normativo excepcional do Presidente da República, em substituição ao decreto-lei do regime constitucional anterior, e o art. 25 do ADCT, em seu § 1º, disciplinou os efeitos dos decretos-lei em tramitação não apreciados até a promulgação da Constituição; medida provisória e decreto-lei são institutos conexos, mas não se confundem quanto a requisitos, prazos e matérias vedadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T23:45:54+00:00"
  }
 ]
