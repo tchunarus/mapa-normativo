@@ -45487,5 +45487,15 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T12:24:09+00:00"
+ },
+ {
+  "de": "clt.484-A",
+  "para": "l8036.18",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso I, alínea b, do art. 484-A da CLT remete expressamente à indenização sobre o saldo do FGTS prevista no § 1º do art. 18 da Lei nº 8.036, de 1990, que disciplina o depósito de quarenta por cento devido na despedida sem justa causa, aqui reduzido à metade em razão da extinção do contrato por acordo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:26:33+00:00"
  }
 ]
