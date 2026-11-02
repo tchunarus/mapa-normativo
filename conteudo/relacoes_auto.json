@@ -45667,5 +45667,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T15:09:32+00:00"
+ },
+ {
+  "de": "l12016.21",
+  "para": "l8078.81",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 21 da Lei 12.016/09 define, nos incisos I e II, os direitos coletivos e os individuais homogêneos para fins do mandado de segurança coletivo, em termos muito próximos aos do art. 81, parágrafo único, I e II, do CDC, que define direitos difusos e coletivos pela mesma lógica de transindividualidade e indivisibilidade. A semelhança textual pode levar a confundir a extensão de um regime com o outro, embora os instrumentos processuais e os legitimados sejam distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T16:19:12+00:00"
+ },
+ {
+  "de": "l13303.3",
+  "para": "cc.40",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 3º da Lei 13.303/16 especializa, para as empresas públicas integrantes da administração indireta, a classificação geral do art. 40 do Código Civil, que divide as pessoas jurídicas em direito público e direito privado, ao definir a empresa pública como pessoa jurídica de direito privado com capital social integralmente estatal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T16:19:12+00:00"
+ },
+ {
+  "de": "lindb.11",
+  "para": "cc.1195",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 11 da LINDB exige aprovação do Governo brasileiro para que organizações estrangeiras tenham filiais, agências ou estabelecimentos no Brasil, sujeitando-as à lei brasileira, regime complementado pelo art. 1.195 do Código Civil, que aplica às sucursais, filiais ou agências no Brasil de sociedade com sede em país estrangeiro as disposições do capítulo sobre o empresário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T16:19:12+00:00"
+ },
+ {
+  "de": "cf.20",
+  "para": "cc.1230",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.230 do Código Civil exclui da propriedade do solo as jazidas, minas e demais recursos minerais, os potenciais de energia hidráulica e os monumentos arqueológicos, dando efeito civil, no âmbito da propriedade privada, aos incisos VIII, IX e X do art. 20 da Constituição Federal, que atribuem esses bens à União.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T16:19:12+00:00"
+ },
+ {
+  "de": "cf.20",
+  "para": "cc.1250",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 1.250 do Código Civil atribui aos donos dos terrenos marginais a propriedade dos acréscimos formados por aluvião, regra que não se aplica aos terrenos marginais e às praias fluviais dos lagos, rios e correntes de domínio da União referidos no art. 20, III, da Constituição Federal, cuja titularidade pertence à União independentemente da formação de aluvião.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T16:19:12+00:00"
+ },
+ {
+  "de": "cf.20",
+  "para": "cc.1249",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 1.249 do Código Civil atribui aos proprietários ribeirinhos fronteiros a propriedade das ilhas formadas em correntes comuns ou particulares, regra que não alcança as ilhas fluviais e lacustres nas zonas limítrofes com outros países nem as ilhas oceânicas e costeiras referidas no inciso IV do art. 20 da Constituição Federal, que são bens da União.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T16:19:12+00:00"
+ },
+ {
+  "de": "cf.21",
+  "para": "l8987.41",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 21, XII, a, da Constituição Federal atribui à União a competência para explorar, diretamente ou mediante autorização, concessão ou permissão, os serviços de radiodifusão sonora e de sons e imagens, mas o art. 41 da Lei 8.987/95 excepciona expressamente esses serviços do regime geral de concessões e permissões que essa Lei disciplina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T16:19:12+00:00"
+ },
+ {
+  "de": "cf.22",
+  "para": "l14133.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 22, XXVII, da Constituição Federal atribui à União competência privativa para editar normas gerais de licitação e contratação aplicáveis às administrações públicas diretas, autárquicas e fundacionais de todos os entes federativos, competência regulamentada pelo art. 1º da Lei 14.133/21, que estabelece essas normas gerais e ressalva, no § 1º, as empresas públicas e as sociedades de economia mista, conforme a parte final do próprio inciso XXVII.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T16:19:12+00:00"
+ },
+ {
+  "de": "cf.22",
+  "para": "l11079.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 22, XXVII, da Constituição Federal atribui à União competência privativa para editar normas gerais de licitação e contratação aplicáveis a todos os entes federativos, competência exercida pelo art. 1º da Lei 11.079/04, que institui normas gerais para licitação e contratação de parceria público-privada no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T16:19:12+00:00"
+ },
+ {
+  "de": "cf.23",
+  "para": "l7347.5",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 5º, V, b, da Lei 7.347/85 legitima associação constituída há pelo menos um ano a propor ação civil pública quando inclua, entre suas finalidades institucionais, a proteção ao meio ambiente, dando instrumento processual à tutela desse bem, cuja proteção o art. 23, VI, da Constituição Federal atribui como competência comum da União, dos Estados, do Distrito Federal e dos Municípios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T16:19:12+00:00"
  }
 ]
