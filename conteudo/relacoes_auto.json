@@ -45767,5 +45767,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T16:19:12+00:00"
+ },
+ {
+  "de": "cc.1230",
+  "para": "cf.176",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.230 do Código Civil exclui as jazidas, as minas e os demais recursos minerais, os potenciais de energia hidráulica e os monumentos arqueológicos do alcance da propriedade do solo; o art. 176 da Constituição atribui esses mesmos bens à União, como propriedade distinta da do solo, garantida ao concessionário apenas a propriedade do produto da lavra. O Código Civil detalha, no plano civil, a consequência dessa separação constitucional entre a propriedade do solo e tais recursos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T17:50:53+00:00"
+ },
+ {
+  "de": "l11079.1",
+  "para": "l14133.1",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 1º da Lei 11.079/04 institui normas gerais para licitação e contratação de parceria público-privada no âmbito da União, dos Estados, do Distrito Federal e dos Municípios; o art. 1º da Lei 14.133/21 estabelece, com a mesma abrangência federativa, normas gerais de licitação e contratação para a Administração Pública em geral. A Lei 11.079/04 especializa, para a parceria público-privada, o mesmo campo normativo que a Lei 14.133/21 disciplina de modo geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T17:50:53+00:00"
+ },
+ {
+  "de": "l8987.41",
+  "para": "cf.223",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 41 da Lei 8.987/95 afasta a aplicação das normas gerais de concessão, permissão e autorização nela previstas ao serviço de radiodifusão sonora e de sons e imagens; o art. 223 da Constituição submete a outorga e a renovação desse mesmo serviço a procedimento próprio, com aprovação do Congresso Nacional, distinto do regime geral de concessões e permissões de serviço público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T17:50:53+00:00"
+ },
+ {
+  "de": "cf.26",
+  "para": "cc.98",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 98 do Código Civil classifica como públicos os bens do domínio nacional pertencentes às pessoas jurídicas de direito público interno; o art. 26 da Constituição especifica, para os Estados, quais bens integram esse domínio público, como as águas superficiais e subterrâneas, as ilhas fluviais e lacustres e as terras devolutas não pertencentes à União.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T17:50:53+00:00"
  }
 ]
