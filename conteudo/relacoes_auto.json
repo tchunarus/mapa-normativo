@@ -45807,5 +45807,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T17:50:53+00:00"
+ },
+ {
+  "de": "cf.183",
+  "para": "cc.98",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 183 da Constituição veda a usucapião especial urbana sobre imóveis públicos, remetendo ao conceito de bens públicos fixado pelo art. 98 do Código Civil, que classifica como públicos os bens do domínio nacional pertencentes a pessoas jurídicas de direito público interno, distinguindo-os dos bens particulares passíveis de usucapião.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T18:56:39+00:00"
+ },
+ {
+  "de": "adct.44",
+  "para": "cf.176",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 44 do ADCT concede quatro anos, a contar da promulgação da Constituição, para que as empresas brasileiras já titulares de autorização de pesquisa ou concessão de lavra cumpram os requisitos do art. 176, § 1º, da Constituição, e seu § 1º dispensa esse cumprimento, em certas condições, excepcionando transitoriamente a exigência de autorização ou concessão da União prevista naquele dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T18:56:39+00:00"
+ },
+ {
+  "de": "adct.43",
+  "para": "cf.176",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 43 do ADCT estabelece que as autorizações, concessões e demais títulos atributivos de direitos minerários perdem efeito se os trabalhos de pesquisa ou de lavra não tiverem sido iniciados ou estiverem inativos, dentro dos prazos que fixa, consequência aplicável ao mesmo instituto da autorização e da concessão de pesquisa e lavra de recursos minerais disciplinado pelo art. 176 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T18:56:39+00:00"
+ },
+ {
+  "de": "adct.4",
+  "para": "cf.28",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 4º do ADCT fixou em 15 de março de 1991 o término dos mandatos dos Governadores e dos Vice-Governadores eleitos em 15 de novembro de 1986, regra de transição que excepciona, para esses mandatários, o calendário eleitoral e a duração de mandato de quatro anos que o art. 28 da Constituição veio a fixar, com eleição em outubro e posse em janeiro do ano subsequente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T18:56:39+00:00"
+ },
+ {
+  "de": "ctn.84",
+  "para": "cf.30",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 84 do CTN permite que a lei federal comesta aos Municípios o encargo de arrecadar tributos de competência da União, mediante delegação, ao passo que o inciso III do art. 30 da Constituição atribui aos Municípios a competência para instituir e arrecadar os tributos de sua própria competência. Os dois dispositivos tratam de arrecadação tributária municipal, mas em regimes distintos, pois um cuida de delegação de capacidade tributária ativa e o outro, de competência tributária própria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T18:56:39+00:00"
+ },
+ {
+  "de": "lcp227.2",
+  "para": "cf.30",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 2º da LC 227/2026 determina que Estados, Distrito Federal e Municípios exercerão a competência de arrecadar o imposto sobre bens e serviços exclusivamente por meio do CGIBS, em regime colegiado, o que excepciona, quanto a esse imposto, a competência genérica do inciso III do art. 30 da Constituição, segundo a qual cabe ao Município instituir e arrecadar os tributos de sua competência de forma própria e direta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T18:56:39+00:00"
+ },
+ {
+  "de": "lcp227.40",
+  "para": "cf.31",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 40 da LC 227/2026 submete a fiscalização contábil, financeira, orçamentária, operacional e patrimonial do CGIBS à atuação coordenada, compartilhada e colegiada dos Tribunais de Contas dos Estados, do Distrito Federal, dos Municípios e Municipais, detalhando, para esse novo órgão federativo, o mesmo instituto de controle externo com auxílio dos Tribunais de Contas que o art. 31 da Constituição atribui ao Poder Legislativo Municipal sobre as contas do Município.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T18:56:39+00:00"
+ },
+ {
+  "de": "adct.16",
+  "para": "cf.31",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 16 do ADCT atribuiu ao Senado Federal, mediante controle externo e com o auxílio do Tribunal de Contas do Distrito Federal, a fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Distrito Federal enquanto não instalada a Câmara Legislativa, regra de transição que excepciona, para o Distrito Federal, a titularidade do controle externo que o art. 31 da Constituição atribui ao Poder Legislativo Municipal com auxílio dos Tribunais de Contas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T18:56:39+00:00"
+ },
+ {
+  "de": "l8429.21",
+  "para": "cf.31",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 21 da Lei de Improbidade Administrativa estabelece que a aplicação de sanções por improbidade independe da aprovação ou rejeição das contas pelo Tribunal ou Conselho de Contas, regra que excepciona a vinculação entre o parecer prévio sobre as contas do Prefeito, de que trata o § 2º do art. 31 da Constituição, e a responsabilização por atos de improbidade, que segue regime autônomo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T18:56:39+00:00"
  }
 ]
