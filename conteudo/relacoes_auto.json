@@ -45897,5 +45897,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T18:56:39+00:00"
+ },
+ {
+  "de": "cf.33",
+  "para": "l9099.1",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 33 da Constituição Federal prevê que a lei disporá sobre a organização administrativa e judiciária dos Territórios, e o art. 1º da Lei 9.099/95 cumpre, para um órgão específico, essa competência ao instituir os Juizados Especiais Cíveis e Criminais como órgãos da Justiça Ordinária a serem criados pela União nos Territórios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T19:44:14+00:00"
+ },
+ {
+  "de": "cf.34",
+  "para": "adct.77",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 34, VII, 'e', da Constituição Federal condiciona a intervenção federal nos Estados e no Distrito Federal, entre outras hipóteses, à inobservância do mínimo exigido na aplicação de recursos em ações e serviços públicos de saúde, e o art. 77 do ADCT detalhava, em regra de transição válida até o exercício financeiro de 2004, os percentuais mínimos que a União, os Estados e o Distrito Federal deveriam aplicar nessa área.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T19:44:14+00:00"
+ },
+ {
+  "de": "cf.34",
+  "para": "lcp227.170",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 34, VII, 'e', da Constituição Federal condiciona a intervenção federal à observância do mínimo exigido na aplicação de recursos em ações e serviços públicos de saúde pelos Estados e pelo Distrito Federal, e o art. 170 da LC 227/2026, ao alterar o art. 6º da LC 141/2012, fixa esse percentual mínimo atual em doze por cento da arrecadação dos impostos a que se refere o art. 155 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T19:44:14+00:00"
+ },
+ {
+  "de": "cf.35",
+  "para": "adct.119",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 35, III, da Constituição Federal autoriza a intervenção estadual no Município que não tiver aplicado o mínimo exigido da receita municipal no ensino e na saúde, e o art. 119 do ADCT excepciona essa exigência quanto ao mínimo em ensino do art. 212 da Constituição, afastando a responsabilização dos Municípios nos exercícios financeiros de 2020 e 2021 em razão da pandemia da Covid-19.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T19:44:14+00:00"
+ },
+ {
+  "de": "cf.38",
+  "para": "l8429.20",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 38 da Constituição Federal trata do afastamento do servidor público investido em mandato eletivo, decorrência do exercício da função representativa e sem prejuízo necessário da remuneração, e o art. 20 da Lei de Improbidade Administrativa trata do afastamento cautelar do agente público do cargo, emprego ou função para fins de instrução processual, institutos distintos que podem ser confundidos por ambos envolverem o afastamento do cargo público sem perda da remuneração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T19:44:14+00:00"
  }
 ]
