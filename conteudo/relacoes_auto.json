@@ -45637,5 +45637,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cc.41",
+  "para": "l13303.3",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 41 relaciona a União, os Estados, o Distrito Federal, os Territórios, os Municípios e as autarquias como pessoas jurídicas de direito público interno, mas o art. 3º da Lei 13.303/16 qualifica expressamente a empresa pública, ainda que instituída e controlada pelo poder público, como pessoa jurídica de direito privado, o que gera risco de confusão quanto à natureza jurídica desses entes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T15:09:32+00:00"
+ },
+ {
+  "de": "cc.44",
+  "para": "l13303.4",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 44, II, classifica as sociedades, de modo geral, como pessoa jurídica de direito privado, e o art. 4º da Lei 13.303/16 detalha o regime especial da sociedade de economia mista, sociedade anônima cujo capital votante pertence majoritariamente a ente público, mas que preserva a natureza de pessoa jurídica de direito privado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T15:09:32+00:00"
+ },
+ {
+  "de": "cc.44",
+  "para": "lindb.11",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 44 classifica, no direito interno, as sociedades e as fundações como pessoas jurídicas de direito privado, e o art. 11 da LINDB complementa esse regime ao fixar, para as sociedades e fundações constituídas no estrangeiro, a regra de direito internacional privado segundo a qual sua existência se rege pela lei do Estado de constituição, sujeitando-se à lei brasileira as filiais ou agências aqui instaladas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T15:09:32+00:00"
  }
 ]
