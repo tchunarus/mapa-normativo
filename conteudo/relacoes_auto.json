@@ -45947,5 +45947,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T19:44:14+00:00"
+ },
+ {
+  "de": "cf.43",
+  "para": "ec132.1",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Emenda Constitucional 132/2023 deu nova redação ao art. 43 da Constituição Federal, inserindo o § 4º, que determina a consideração de critérios de sustentabilidade ambiental e de redução das emissões de carbono na concessão dos incentivos regionais previstos no § 2º, III.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T20:44:41+00:00"
+ },
+ {
+  "de": "cf.43",
+  "para": "d9580.631",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 631 do RIR/2018 integra o título do Regulamento do Imposto de Renda dedicado à isenção ou à redução do imposto sobre a renda como incentivo ao desenvolvimento regional, disciplinando a apuração contábil das atividades beneficiadas em conexão com o incentivo fiscal regional previsto no inciso III do § 2º do art. 43 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T20:44:41+00:00"
+ },
+ {
+  "de": "cf.43",
+  "para": "d9580.665",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 665 do RIR/2018, inserido no capítulo do Regulamento do Imposto de Renda sobre a aplicação do imposto de renda em investimentos regionais, disciplina a aplicação de recursos de dedução do imposto em empreendimentos prioritários para o desenvolvimento regional, em conexão com o incentivo de financiamento favorecido a atividades prioritárias previsto no inciso II do § 2º do art. 43 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T20:44:41+00:00"
+ },
+ {
+  "de": "cf.47",
+  "para": "adct.3",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 3º do ADCT estabelece que a revisão constitucional seria realizada pelo voto da maioria absoluta dos membros do Congresso Nacional em sessão unicameral, excepcionando, para esse procedimento específico, a regra geral do art. 47 da Constituição Federal, segundo a qual as deliberações de cada Casa são tomadas por maioria dos votos, presente a maioria absoluta de seus membros.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T20:44:41+00:00"
  }
 ]

@@ -2610,7 +2610,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1245&cod_tema_final=1245",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-11-02T10:06:20+00:00"
+  "verificado_em": "2026-11-02T20:03:27+00:00"
  },
  "stj.tema.1246": {
   "id": "stj.tema.1246",
@@ -2815,7 +2815,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1250&cod_tema_final=1250",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-11-02T10:06:20+00:00"
+  "verificado_em": "2026-11-02T20:03:27+00:00"
  },
  "stj.tema.1251": {
   "id": "stj.tema.1251",
@@ -11535,7 +11535,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1473&cod_tema_final=1473",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-11-02T09:04:14+00:00",
+  "verificado_em": "2026-11-02T20:03:27+00:00",
   "novo": false
  },
  "stj.tema.1474": {
@@ -11570,7 +11570,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1474&cod_tema_final=1474",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-11-02T09:04:14+00:00",
+  "verificado_em": "2026-11-02T20:03:27+00:00",
   "novo": false
  },
  "stj.tema.526": {
@@ -12256,7 +12256,7 @@
   ],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1076&cod_tema_final=1076",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-11-02T09:04:14+00:00",
+  "verificado_em": "2026-11-02T20:03:27+00:00",
   "novo": true
  },
  "stj.sum.406": {
@@ -12927,7 +12927,7 @@
   ],
   "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201101256443&dt_publicacao=04/06/2012",
   "fonte": "Jusratio, com link para a fonte oficial",
-  "verificado_em": "2026-11-02T09:04:14+00:00",
+  "verificado_em": "2026-11-02T20:03:27+00:00",
   "novo": true,
   "institutos_auto": [
    "repeticao-indebito"
