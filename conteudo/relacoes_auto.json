@@ -45497,5 +45497,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T13:26:33+00:00"
+ },
+ {
+  "de": "lcp214.378",
+  "para": "l9430.74",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 378 da LC 214/2025 autoriza a compensação dos créditos remanescentes de PIS/Pasep e COFINS com outros tributos federais, sem disciplinar o procedimento dessa compensação. O art. 74 da Lei 9.430/96 é a norma geral que rege a compensação, mediante declaração, de créditos relativos a tributos administrados pela Secretaria da Receita Federal, aplicando se subsidiariamente para viabilizar a compensação prevista no art. 378.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cf.12",
+  "para": "adct.95",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 95 do ADCT regula, para os nascidos no estrangeiro entre 7 de junho de 1994 e a promulgação da emenda que o incluiu, a mesma hipótese de nacionalidade brasileira por opção prevista na alínea c do inciso I do art. 12 da Constituição Federal, permitindo o registro em repartição diplomática ou consular, ou em ofício de registro, aos que vierem a residir no Brasil, especializando essa hipótese para um grupo determinado por marco temporal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cf.14",
+  "para": "cp.92",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 4º do art. 14 da Constituição Federal trata da inelegibilidade, que impede o alistamento ou o registro de candidatura, enquanto o art. 92 do Código Penal trata da perda de cargo, função pública ou mandato eletivo como efeito da condenação criminal. São institutos distintos, um eleitoral e outro penal, mas que tocam o mesmo tema do exercício de mandato eletivo e por isso podem ser confundidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cf.17",
+  "para": "cc.44",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso V do art. 44 do Código Civil qualifica os partidos políticos como pessoas jurídicas de direito privado, complementando, no plano da personalidade civil, a liberdade de criação, fusão, incorporação e extinção de partidos políticos assegurada pelo caput do art. 17 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cf.17",
+  "para": "adct.6",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 6º do ADCT especializa, para os seis meses posteriores à promulgação da Constituição de 1988, a liberdade de criação de partido político assegurada pelo caput do art. 17, permitindo que parlamentares federais requeiram ao Tribunal Superior Eleitoral o registro de novo partido mediante manifesto, estatuto e programa assinados pelos requerentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cf.17",
+  "para": "l8429.23-C",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 23-C da Lei 8.429/92 disciplina a responsabilização por atos de enriquecimento ilícito, perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação de recursos públicos dos partidos políticos, complementando o dever de prestação de contas à Justiça Eleitoral previsto no inciso III do caput do art. 17 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cf.17",
+  "para": "cc.2031",
+  "tipo": "excepciona",
+  "grau": "contato",
+  "porque": "O parágrafo único do art. 2.031 do Código Civil excepciona expressamente os partidos políticos do dever de adaptação às disposições do Código Civil de 2002 até 11 de janeiro de 2007, em razão da autonomia de organização interna que o § 1º do art. 17 da Constituição Federal assegura aos partidos políticos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cf.17",
+  "para": "d9580.180",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 180 do RIR/2018 isenta os partidos políticos e suas fundações do imposto sobre a renda, desde que não distribuam patrimônio ou renda e apliquem seus recursos integralmente no País, complementando, no plano tributário, a liberdade de existência dos partidos políticos assegurada pelo caput do art. 17 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cf.17",
+  "para": "l12016.21",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 21 da Lei 12.016/09 confere ao partido político com representação no Congresso Nacional legitimidade para impetrar mandado de segurança coletivo na defesa de seus integrantes ou da finalidade partidária, complementando, no plano processual, a existência jurídica dos partidos políticos assegurada pelo caput do art. 17 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cf.18",
+  "para": "adct.96",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 96 do ADCT convalida os atos de criação, fusão, incorporação e desmembramento de Municípios cuja lei tenha sido publicada até 31 de dezembro de 2006, atendidos os requisitos da legislação estadual da época, sendo a própria remissão indicada no texto do § 4º do art. 18 da Constituição Federal, que remete ao art. 96 do ADCT.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cf.18",
+  "para": "adct.14",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 14 do ADCT especializa, para os Territórios Federais de Roraima e do Amapá, a transformação de Território em Estado prevista no § 2º do art. 18 da Constituição Federal, mantendo os limites geográficos então existentes e determinando a instalação dos Estados com a posse dos governadores eleitos em 1990.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cf.18",
+  "para": "adct.12",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 12 do ADCT cria a Comissão de Estudos Territoriais, com a finalidade de apresentar estudos e anteprojetos relativos a novas unidades territoriais, constituindo procedimento preparatório para a incorporação, subdivisão ou desmembramento de Estados de que trata o § 3º do art. 18 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cf.18",
+  "para": "ctn.18",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 18 do CTN atribui à União a competência para instituir, nos Territórios Federais, os impostos estaduais e, se não divididos em Municípios, também os municipais, e ao Distrito Federal e aos Estados não divididos em Municípios a competência cumulativa correspondente, complementando, no plano tributário, a organização política e administrativa da União, dos Estados, do Distrito Federal e dos Municípios prevista no caput do art. 18 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
+ },
+ {
+  "de": "cf.18",
+  "para": "cc.41",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 41 do Código Civil qualifica a União, os Estados, o Distrito Federal e os Territórios, bem como os Municípios, como pessoas jurídicas de direito público interno, complementando, no plano da personalidade civil, a organização política e administrativa da República Federativa do Brasil prevista no caput do art. 18 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T13:57:32+00:00"
  }
 ]
