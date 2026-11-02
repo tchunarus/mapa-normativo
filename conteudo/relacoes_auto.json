@@ -45467,5 +45467,25 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T10:48:14+00:00"
+ },
+ {
+  "de": "adct.135",
+  "para": "lcp214.378",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 135 do ADCT determina que lei complementar discipline a forma de utilização dos créditos de PIS e Cofins não apropriados ou não utilizados até a extinção dessas contribuições, mantida a permissão de compensação com outros tributos federais ou de ressarcimento em dinheiro. O art. 378 da LC 214/2025 cumpre esse mandamento ao disciplinar, nos incisos I a IV, a validade desses créditos após a extinção e, no inciso IV, a possibilidade de ressarcimento em dinheiro ou compensação com outros tributos federais, mediante o cumprimento dos requisitos aplicáveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T12:24:09+00:00"
+ },
+ {
+  "de": "ctn.217",
+  "para": "clt.579-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 217 do CTN preserva a exigibilidade da contribuição sindical de que tratam os arts. 578 e seguintes da CLT, faixa que alcança o art. 579-A. Este último delimita quais contribuições sindicais ainda podem ser exigidas, restringindo a cobrança aos filiados ao sindicato, sem prejuízo da ressalva mais ampla feita pelo CTN sobre a exigibilidade do tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T12:24:09+00:00"
  }
 ]
