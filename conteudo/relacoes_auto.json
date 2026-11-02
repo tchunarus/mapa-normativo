@@ -45427,5 +45427,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T10:45:38+00:00"
+ },
+ {
+  "de": "l9784.69-A",
+  "para": "l8213.151",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 69-A da Lei 9.784/99 relaciona, para fins de prioridade na tramitação de processo administrativo, praticamente as mesmas doenças graves listadas no art. 151 da Lei 8.213/91 para dispensa de carência do auxílio-doença e da aposentadoria por invalidez, o que pode levar a confundir o enquadramento em um benefício com o atendimento dos requisitos do outro, que são autônomos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T10:48:14+00:00"
+ },
+ {
+  "de": "lcp214.382",
+  "para": "adct.135",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 382 da LC 214/2025, inserido no Capítulo que disciplina a utilização do saldo credor do PIS e da COFINS na transição para o IBS e a CBS, regulamenta o comando do art. 135 do ADCT para que lei complementar discipline a forma de utilização, após a extinção desses tributos, dos créditos de PIS e COFINS não apropriados ou não utilizados, ao fixar a ordem de preferência desses créditos em relação aos créditos de CBS do art. 53 da mesma Lei Complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T10:48:14+00:00"
+ },
+ {
+  "de": "cf.8",
+  "para": "adct.10",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "A estabilidade do dirigente sindical do inciso VIII do art. 8º da CF, que veda a dispensa do empregado sindicalizado desde o registro da candidatura até um ano após o mandato, é redigida de forma muito próxima à estabilidade do membro da comissão interna de prevenção de acidentes da alínea a do inciso II do art. 10 do ADCT, embora se destinem a representantes de instituições distintas, o sindicato e a CIPA.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T10:48:14+00:00"
+ },
+ {
+  "de": "cf.8",
+  "para": "clt.547",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O inciso V do art. 8º da CF assegura que ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato, em aparente conflito com o art. 547 da CLT, que exige a qualidade de sindicalizado para o exercício de função representativa de categoria e para o gozo de favores ou isenções tributárias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T10:48:14+00:00"
  }
 ]
