@@ -46087,5 +46087,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T22:27:37+00:00"
+ },
+ {
+  "de": "d9580.631",
+  "para": "lsa.187",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 187 da Lei das Sociedades por Ações exige que a demonstração do resultado do exercício discrimine a receita bruta e o lucro por atividade de modo geral para todas as companhias, ao passo que o art. 631 do RIR/2018 impõe, de modo específico, registros contábeis segregados para as atividades beneficiadas por incentivo fiscal de desenvolvimento regional, de maneira a isolar seus custos, suas receitas e seus resultados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:48:18+00:00"
+ },
+ {
+  "de": "d9580.665",
+  "para": "cc.1097",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 6º do art. 665 do RIR/2018 define, para fins do incentivo fiscal de desenvolvimento regional, como empresas coligadas aquelas cuja maioria do capital votante seja controlada pela mesma pessoa física ou jurídica, enquanto o art. 1.097 do Código Civil define sociedades coligadas, para o direito societário geral, como as que mantêm relação de simples participação, sem exigir controle comum; o mesmo termo designa situações distintas nos dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:48:18+00:00"
+ },
+ {
+  "de": "cf.54",
+  "para": "l8429.9",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 54 da Constituição Federal veda a Deputados e Senadores, entre outras condutas, firmar contrato com pessoa jurídica de direito público ou ser proprietários e diretores de empresa que goze de favor decorrente de tal contrato, conduta que, se praticada para obter vantagem patrimonial indevida em razão do mandato, também pode aproximar-se do ato de improbidade administrativa por enriquecimento ilícito do art. 9º da Lei 8.429/92; tratam-se, porém, de regimes sancionatórios distintos, um de natureza política, com perda do mandato apurada pela própria Casa legislativa, e outro de natureza civil, apurado perante o Judiciário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:48:18+00:00"
+ },
+ {
+  "de": "cf.55",
+  "para": "lcp227.101",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 101 da Lei Complementar 227/2026 prevê a perda do mandato do membro julgador do CGIBS por falta grave ou por praticar atos de favorecimento, mediante processo administrativo com ampla defesa e contraditório decidido pelo Presidente do CGIBS mediante proposta do Presidente da Câmara Superior, regime distinto do previsto no art. 55 da Constituição Federal, em que a perda do mandato de Deputado ou Senador por conduta incompatível com o decoro parlamentar é decidida pela própria Casa legislativa, por maioria absoluta, mediante provocação da Mesa ou de partido político.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:48:18+00:00"
  }
 ]
