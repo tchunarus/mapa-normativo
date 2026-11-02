@@ -45337,5 +45337,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-10-30T21:48:05+00:00"
+ },
+ {
+  "de": "cpp.313",
+  "para": "cp.218-A",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso VI do art. 313 do CPP admite a prisão preventiva nos crimes contra a dignidade sexual praticados contra criança ou adolescente, categoria em que se enquadra a conduta de favorecimento da exploração sexual de criança ou adolescente tipificada no art. 218-A do Código Penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T09:46:06+00:00"
+ },
+ {
+  "de": "cpp.313",
+  "para": "cp.121-A",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 313 do CPP admite a prisão preventiva quando o crime envolver violência doméstica e familiar contra a mulher, hipótese abrangida pelo feminicídio do art. 121-A do Código Penal, cujo § 1º considera haver razões da condição do sexo feminino quando o crime envolve violência doméstica e familiar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T09:46:06+00:00"
+ },
+ {
+  "de": "cf.243",
+  "para": "cp.149",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O caput do art. 243 da Constituição condiciona a expropriação confiscatória à exploração de trabalho escravo na forma da lei, e o art. 149 do Código Penal é a norma legal que define a conduta de redução de alguém a condição análoga à de escravo, fornecendo o conteúdo jurídico do conceito empregado pelo dispositivo constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T09:46:06+00:00"
  }
 ]
