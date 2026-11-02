@@ -45367,5 +45367,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T09:46:06+00:00"
+ },
+ {
+  "de": "d9580.812",
+  "para": "l8036.20",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 812 do RIR/2018 refere-se expressamente ao art. 20 da Lei nº 8.036/90, ao dispor que, nas aplicações em fundos mútuos de privatização constituídos com recursos do FGTS, o imposto sobre a renda incide exclusivamente sobre os ganhos que excederem a remuneração das contas vinculadas de que trata o § 14 desse artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T10:45:38+00:00"
+ },
+ {
+  "de": "clt.484-A",
+  "para": "l8036.20",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 484-A da CLT remete expressamente ao inciso I-A do art. 20 da Lei nº 8.036/90, ao prever que a extinção do contrato de trabalho por acordo entre empregado e empregador permite a movimentação da conta vinculada do FGTS na forma desse inciso, o qual, por sua vez, inclui essa hipótese de extinção contratual entre as situações de movimentação da conta vinculada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T10:45:38+00:00"
+ },
+ {
+  "de": "clt.579-A",
+  "para": "cf.8",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 579-A da CLT regulamenta o inciso IV do art. 8º da Constituição ao dispor que a contribuição confederativa ali prevista é uma das contribuições que podem ser exigidas dos filiados ao sindicato, ao lado da mensalidade sindical e das demais contribuições estatutárias ou negociais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T10:45:38+00:00"
+ },
+ {
+  "de": "clt.516",
+  "para": "cf.8",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 516 da CLT regulamenta o princípio da unicidade sindical estabelecido no inciso II do art. 8º da Constituição, ao vedar o reconhecimento de mais de um sindicato representativo da mesma categoria econômica ou profissional em uma dada base territorial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T10:45:38+00:00"
+ },
+ {
+  "de": "l8213.3",
+  "para": "cf.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 3º da Lei nº 8.213/91 regulamenta o art. 10 da Constituição ao instituir o Conselho Nacional de Previdência Social como órgão de deliberação colegiada com representação dos trabalhadores em atividade e dos empregadores, ao lado dos representantes do governo e dos aposentados e pensionistas, para a discussão e deliberação de matéria previdenciária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T10:45:38+00:00"
+ },
+ {
+  "de": "clt.510-A",
+  "para": "cf.11",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 510-A da CLT regulamenta o art. 11 da Constituição ao reproduzir, em termos quase idênticos, a garantia de eleição de representante dos empregados nas empresas com mais de duzentos empregados para promover o entendimento direto com os empregadores, detalhando a composição da comissão conforme o porte da empresa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T10:45:38+00:00"
  }
 ]
