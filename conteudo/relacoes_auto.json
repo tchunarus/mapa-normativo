@@ -45987,5 +45987,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T20:44:41+00:00"
+ },
+ {
+  "de": "adct.3",
+  "para": "cf.60",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 3º do ADCT previu a revisão constitucional, mecanismo excepcional e já exaurido de alteração da Constituição, por maioria absoluta do Congresso Nacional em sessão unicameral, ao passo que o art. 60 da CF disciplina o processo permanente de emenda constitucional, por maioria qualificada, em dois turnos, em cada Casa separadamente. A proximidade de finalidade entre os dois institutos, ambos voltados à alteração do texto constitucional, gera risco real de confusão quanto ao quórum e ao rito aplicáveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:27:37+00:00"
+ },
+ {
+  "de": "d9580.665",
+  "para": "lsa.299",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 299 da LSA ressalva a vigência da legislação especial sobre incentivos fiscais nas áreas da SUDENE, SUDAM, SUDEPE, EMBRATUR e Reflorestamento para as sociedades por ações, regime do qual o art. 665 do RIR/2018 detalha a aplicação de recursos em empreendimentos prioritários para o desenvolvimento regional. Os dois dispositivos integram o mesmo regime de incentivos fiscais regionais, um preservando sua vigência no âmbito societário e o outro disciplinando a execução financeira dos projetos beneficiados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:27:37+00:00"
+ },
+ {
+  "de": "d9580.665",
+  "para": "cf.159",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 159 da CF institui os fundos constitucionais de financiamento ao setor produtivo das Regiões Norte, Nordeste e Centro-Oeste, alimentados por parcela do produto da arrecadação do imposto de renda e do imposto sobre produtos industrializados, enquanto o art. 665 do RIR/2018 trata dos fundos fiscais de investimento regional vinculados à Sudene e à Sudam, originados de incentivo fiscal sobre o imposto de renda devido por pessoas jurídicas. Por tratarem ambos de financiamento ao desenvolvimento regional por meio de fundos, há risco real de confusão entre mecanismos de origem e natureza distintas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:27:37+00:00"
+ },
+ {
+  "de": "d9580.665",
+  "para": "cf.159-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 159-A da CF instituiu o Fundo Nacional de Desenvolvimento Regional, cujos recursos são entregues pela União aos Estados e ao Distrito Federal para estudos, infraestrutura e fomento a atividades produtivas, ao passo que o art. 665 do RIR/2018 trata de fundos de investimento regional aplicados diretamente em empreendimentos de pessoas jurídicas privadas. A semelhança de finalidade e de nomenclatura, ambos ligados ao desenvolvimento regional, gera risco de confusão entre mecanismos de beneficiários e naturezas diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:27:37+00:00"
+ },
+ {
+  "de": "cf.51",
+  "para": "lcp227.79-B",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 79-B da LC 227/2026 determina que o processo do Presidente do CGIBS observe o regime estabelecido para o Presidente da República e os Ministros de Estado, cuja autorização para instauração de processo compete privativamente à Câmara dos Deputados, nos termos do art. 51, I, da CF. Trata-se de remissão expressa a procedimento constitucional, estendido por extensão a autoridade de natureza administrativa distinta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:27:37+00:00"
+ },
+ {
+  "de": "cf.51",
+  "para": "cpp.86",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 51, I, da CF confere à Câmara dos Deputados a competência para autorizar a instauração de processo contra o Presidente, o Vice-Presidente e os Ministros de Estado nos crimes de responsabilidade, enquanto o art. 86 do CPP trata da competência do Supremo Tribunal Federal para processar e julgar ministros de Estado e outras autoridades nos crimes comuns. A semelhança das autoridades mencionadas gera risco de confusão entre o regime político do impeachment e o regime criminal comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:27:37+00:00"
+ },
+ {
+  "de": "cf.52",
+  "para": "cpp.86",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 52, I e II, da CF atribui ao Senado Federal a competência para processar e julgar o Presidente e o Vice-Presidente da República, os Ministros de Estado, os Ministros do Supremo Tribunal Federal e outras autoridades nos crimes de responsabilidade, enquanto o art. 86 do CPP atribui ao próprio Supremo Tribunal Federal a competência para processar e julgar seus ministros e demais autoridades nos crimes comuns. A proximidade das autoridades listadas gera risco de confusão entre o foro político do impeachment e o foro criminal comum.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:27:37+00:00"
+ },
+ {
+  "de": "cf.52",
+  "para": "cpp.84",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 84 do CPP atribui a competência pela prerrogativa de função, nos crimes comuns e de responsabilidade, aos tribunais do Poder Judiciário. O art. 52, I, da CF excepciona essa regra geral quanto aos crimes de responsabilidade do Presidente e do Vice-Presidente da República e dos Ministros de Estado, cujo processo e julgamento competem ao Senado Federal, órgão político, e não a um tribunal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:27:37+00:00"
+ },
+ {
+  "de": "cf.52",
+  "para": "lcp227.79-B",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 79-B da LC 227/2026 remete o processo e o julgamento do Presidente do CGIBS ao regime estabelecido para o Presidente da República e os Ministros de Estado, cujo julgamento pelos crimes de responsabilidade compete ao Senado Federal, nos termos do art. 52, I e parágrafo único, da CF, com presidência do Supremo Tribunal Federal e condenação por dois terços dos votos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:27:37+00:00"
+ },
+ {
+  "de": "cf.55",
+  "para": "cp.92",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 92, I, do CP estabelece a perda do cargo, função pública ou mandato eletivo como efeito automático da condenação criminal, nas hipóteses que especifica, enquanto o art. 55, VI e § 2º, da CF determina que, havendo condenação criminal transitada em julgado de Deputado ou Senador, a perda do mandato seja decidida pela Casa respectiva, por maioria absoluta, mediante provocação e com ampla defesa. Há conflito aparente entre o efeito automático previsto no Código Penal e a exigência constitucional de deliberação da Casa legislativa para os membros do Congresso Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-02T22:27:37+00:00"
  }
 ]
