@@ -46337,5 +46337,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T01:45:25+00:00"
+ },
+ {
+  "de": "cc.682",
+  "para": "cpc.748",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 682 do Código Civil estabelece que a interdição de uma das partes é causa de cessação do mandato, enquanto o art. 748 do CPC disciplina o procedimento judicial pelo qual o Ministério Público promove essa mesma interdição, tratando-se de institutos conexos entre o efeito civil sobre o mandato e o rito processual que o antecede.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T07:25:20+00:00"
+ },
+ {
+  "de": "l12527.7",
+  "para": "l14133.13",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso VI do art. 7º da Lei de Acesso à Informação assegura o direito de obter informação sobre licitação e contratos administrativos, e o art. 13 da Lei 14.133/21 concretiza essa publicidade ao tornar públicos os atos do processo licitatório, repetindo a mesma ressalva de sigilo imprescindível à segurança da sociedade e do Estado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T07:25:20+00:00"
+ },
+ {
+  "de": "l12527.7",
+  "para": "l13303.88",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O inciso VI do art. 7º da Lei de Acesso à Informação garante o direito de obter informação sobre contratos administrativos, e o art. 88 da Lei 13.303/16 impõe às estatais o dever de divulgar mensalmente a execução de seus contratos e orçamento, dando concretude a essa mesma transparência no âmbito das empresas públicas e sociedades de economia mista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T07:25:20+00:00"
  }
 ]
