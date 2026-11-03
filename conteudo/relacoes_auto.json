@@ -46877,5 +46877,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "clt.643",
+  "para": "l6019.19",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 643 da CLT fixa a competência genérica da Justiça do Trabalho para os dissídios entre empregados e empregadores, e o art. 19 da Lei 6.019/74 aplica essa mesma competência, como regra especial, aos litígios entre as empresas de trabalho temporário e seus trabalhadores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T15:49:02+00:00"
+ },
+ {
+  "de": "clt.643",
+  "para": "l6019.19-B",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "contato",
+  "porque": "O art. 19-B da Lei 6.019/74 afasta a aplicação dessa lei às empresas de vigilância e transporte de valores e determina que as respectivas relações de trabalho se regem subsidiariamente pela CLT, da qual o art. 643 é o dispositivo que define a competência da Justiça do Trabalho para os dissídios decorrentes dessas mesmas relações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T15:49:02+00:00"
+ },
+ {
+  "de": "clt.643",
+  "para": "l8213.129",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 643 da CLT remete os litígios sobre acidentes do trabalho à justiça ordinária, na forma do Decreto 24.637/34 e da legislação subsequente, e o art. 129 da Lei 8.213/91 é precisamente essa legislação posterior, ao disciplinar o rito administrativo e judicial desses litígios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T15:49:02+00:00"
+ },
+ {
+  "de": "clt.643",
+  "para": "l8036.26",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 643 da CLT já estende a competência da Justiça do Trabalho aos dissídios dos trabalhadores portuários avulsos com os operadores portuários ou o OGMO, e o art. 26 da Lei 8.036/90 faz movimento semelhante ao fixar essa competência, como regra especial, para os dissídios decorrentes do FGTS, inclusive quando a Caixa Econômica Federal figurar como litisconsorte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T15:49:02+00:00"
+ },
+ {
+  "de": "clt.646",
+  "para": "cf.111",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 111 da Constituição Federal enumera os órgãos da Justiça do Trabalho (Tribunal Superior do Trabalho, Tribunais Regionais do Trabalho e juízes do trabalho), e o art. 646 da CLT complementa essa organização ao determinar que esses órgãos funcionem coordenados, em regime de mútua colaboração, sob a orientação do presidente do Tribunal Superior do Trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T15:49:02+00:00"
+ },
+ {
+  "de": "clt.803",
+  "para": "cf.111",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "As alíneas b e d do art. 803 da CLT tratam de conflitos envolvendo os Tribunais Regionais do Trabalho e as Câmaras do Tribunal Superior do Trabalho, órgãos que o art. 111 da Constituição Federal enumera como integrantes da Justiça do Trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T15:49:02+00:00"
+ },
+ {
+  "de": "cpp.368",
+  "para": "cpc.260",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 368 do CPP não disciplina os requisitos formais da carta rogatória expedida para a citação do acusado no estrangeiro, aplicando-se subsidiariamente o art. 260 do CPC, que fixa os requisitos das cartas de ordem, precatória e rogatória em geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T15:49:02+00:00"
+ },
+ {
+  "de": "l8036.26",
+  "para": "clt.652",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 652 da CLT fixa a competência genérica das Varas do Trabalho para os dissídios concernentes ao contrato individual de trabalho, e o art. 26 da Lei 8.036/90 aplica essa mesma competência, como regra especial, aos dissídios entre trabalhadores e empregadores decorrentes do FGTS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T15:49:02+00:00"
  }
 ]
