@@ -46447,5 +46447,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T09:45:19+00:00"
+ },
+ {
+  "de": "cp.360",
+  "para": "cf.124",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 360 do CP ressalva da revogação a legislação especial sobre crimes militares, remetendo à disciplina que a CF, no art. 124, atribui à Justiça Militar e à lei que definirá os crimes militares e a organização dessa Justiça.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T10:44:21+00:00"
+ },
+ {
+  "de": "l12527.22",
+  "para": "l9279.206",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 22 da LAI preserva as hipóteses de segredo industrial não excluídas pela lei de acesso à informação, e o art. 206 da LPI detalha uma dessas hipóteses, ao determinar o processamento em segredo de justiça quando reveladas em juízo informações confidenciais de indústria ou comércio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T10:44:21+00:00"
+ },
+ {
+  "de": "l12527.22",
+  "para": "lcp105.11",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 22 da LAI não exclui as demais hipóteses legais de sigilo, e o art. 11 da LC 105/01 disciplina uma dessas hipóteses, ao responsabilizar o servidor público que utilizar indevidamente informação obtida por quebra do sigilo bancário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T10:44:21+00:00"
+ },
+ {
+  "de": "l12527.22",
+  "para": "cpc.189",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 22 da LAI ressalva as hipóteses de segredo de justiça previstas em outras normas, e o art. 189 do CPC enumera exatamente essas hipóteses ao listar os processos que tramitam sob segredo de justiça no âmbito civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T10:44:21+00:00"
+ },
+ {
+  "de": "l13303.35",
+  "para": "l12527.3",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 35 da Lei 13.303/16 remete expressamente aos termos da LAI para disciplinar o acesso à informação sobre a proposta em disputa fechada, e o art. 3º da LAI fixa a diretriz geral de publicidade como regra e sigilo como exceção que orienta essa remissão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T10:44:21+00:00"
+ },
+ {
+  "de": "l8429.1",
+  "para": "cf.37",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 1º da LIA instrumentaliza, por meio do sistema de responsabilização por improbidade, a tutela da probidade na administração pública, concretizando o princípio da moralidade administrativa consagrado no caput do art. 37 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T10:44:21+00:00"
+ },
+ {
+  "de": "l8429.1",
+  "para": "l13709.55-F",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 1º da LIA ressalva que outros tipos de improbidade podem ser previstos em lei especial, e o parágrafo único do art. 55-F da LGPD exerce essa função ao qualificar como ato de improbidade a infração dos ex-membros do Conselho Diretor da ANPD à quarentena legal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T10:44:21+00:00"
+ },
+ {
+  "de": "l8429.1",
+  "para": "l12846.30",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 30 da Lei 12.846/13 remete expressamente à Lei 8.429/92 ao estabelecer que as sanções da lei anticorrupção não afastam a responsabilização por ato de improbidade administrativa, deixando claro que os dois regimes de responsabilização são autônomos e cumulativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T10:44:21+00:00"
+ },
+ {
+  "de": "cf.93",
+  "para": "clt.654",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 93, incisos I e II, da CF fixa os princípios do ingresso na magistratura pelo cargo de juiz substituto e da promoção alternada por antiguidade e merecimento, e o art. 654 da CLT regulamenta esse mesmo instituto para a carreira da magistratura do trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T10:44:21+00:00"
  }
 ]
