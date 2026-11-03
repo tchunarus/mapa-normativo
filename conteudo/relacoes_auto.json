@@ -46707,5 +46707,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T13:51:03+00:00"
+ },
+ {
+  "de": "l9279.206",
+  "para": "cpc.11",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 206 da Lei de Propriedade Industrial impõe ao juiz determinar o prosseguimento do processo em segredo de justiça quando reveladas informações confidenciais de interesse industrial ou comercial, aplicação concreta da autorização do parágrafo único do art. 11 do CPC para restringir a presença às partes, advogados, defensores públicos ou Ministério Público nos casos de segredo de justiça.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "l9307.31",
+  "para": "cpc.11",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 31 da Lei de Arbitragem atribui à sentença arbitral os mesmos efeitos da sentença proferida pelos órgãos do Poder Judiciário, o que pode sugerir equivocadamente a sujeição da sentença arbitral ao regime de publicidade e fundamentação do art. 11 do CPC, regime dirigido apenas aos julgamentos emanados de órgãos estatais do Poder Judiciário e não ao juízo arbitral, de natureza privada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "clt.781",
+  "para": "cpc.11",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 781 da CLT condiciona a expedição de certidão dos processos que correm em segredo de justiça a despacho do juiz, detalhando na esfera trabalhista a mesma consequência documental do segredo de justiça autorizado em caráter geral pelo parágrafo único do art. 11 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "l12527.22",
+  "para": "cpc.11",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 22 da Lei de Acesso à Informação afasta expressamente a aplicação do regime de acesso às hipóteses legais de sigilo e de segredo de justiça, preservando a restrição de presença nos casos de segredo de justiça autorizada pelo parágrafo único do art. 11 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "cpp.368",
+  "para": "cpc.237",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 368 do CPP determina a citação do acusado no estrangeiro mediante carta rogatória, aplicação concreta, no processo penal, da espécie de carta rogatória prevista no inciso II do art. 237 do CPC para a cooperação jurídica internacional por órgão jurisdicional estrangeiro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "cpc.454",
+  "para": "cf.103-B",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 454 do CPC inclui os conselheiros do Conselho Nacional de Justiça entre as autoridades inquiridas em sua residência ou onde exercem a função, prerrogativa processual ligada ao cargo cuja composição e mandato são disciplinados pelo art. 103-B da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "adct.28",
+  "para": "cf.110",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 28 do ADCT investe os juízes federais na titularidade de varas na Seção Judiciária para a qual foram nomeados, disposição transitória que detalha, para os juízes então em exercício, o mesmo instituto da seção judiciária federal por Estado instituído no caput do art. 110 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "clt.668",
+  "para": "cf.110",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 668 da CLT atribui aos Juízos de Direito, nas localidades sem Junta de Conciliação e Julgamento, a jurisdição trabalhista local, técnica análoga à do parágrafo único do art. 110 da Constituição, que atribui aos juízes da justiça local a jurisdição federal nos Territórios, mas os dois dispositivos tratam de ramos de jurisdição distintos, trabalhista e federal, que não se confundem.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "clt.668",
+  "para": "cf.112",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 668 da CLT regulamenta, nas comarcas não abrangidas pela jurisdição das Juntas de Conciliação e Julgamento, a atribuição da jurisdição trabalhista aos Juízos de Direito prevista no art. 112 da Constituição, definindo que essa jurisdição seguirá a lei de organização judiciária local.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "clt.803",
+  "para": "cf.112",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "A alínea a do art. 803 da CLT disciplina os conflitos de jurisdição entre Juntas de Conciliação e Julgamento e Juízes de Direito investidos na administração da Justiça do Trabalho, situação que decorre diretamente da atribuição de jurisdição trabalhista aos juízes de direito prevista no art. 112 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "clt.644",
+  "para": "cf.113",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 644 da CLT regulamenta a constituição dos órgãos da Justiça do Trabalho mencionada no art. 113 da Constituição, enumerando como tais o Tribunal Superior do Trabalho, os Tribunais Regionais do Trabalho e as Juntas de Conciliação e Julgamento ou os Juízos de Direito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "clt.646",
+  "para": "cf.113",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 646 da CLT regulamenta as condições de exercício dos órgãos da Justiça do Trabalho referidas no art. 113 da Constituição, determinando que funcionem coordenados, em regime de mútua colaboração, sob a orientação do presidente do Tribunal Superior do Trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "clt.803",
+  "para": "cf.113",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 803 da CLT regulamenta a jurisdição e a competência dos órgãos da Justiça do Trabalho referidas no art. 113 da Constituição, enumerando as hipóteses em que podem ocorrer conflitos de jurisdição entre esses órgãos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "l8036.26",
+  "para": "cf.114",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 26 da Lei do FGTS confirma, para os dissídios decorrentes da aplicação dessa lei, inclusive quando a Caixa Econômica Federal figurar como litisconsorte, a competência da Justiça do Trabalho prevista no inciso I do art. 114 da Constituição para as ações oriundas da relação de trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "clt.643",
+  "para": "cf.114",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O parágrafo 2º do art. 643 da CLT mantém as questões referentes a acidentes do trabalho sujeitas à justiça ordinária, o que gera conflito aparente com o inciso VI do art. 114 da Constituição, que atribui à Justiça do Trabalho as ações de indenização por dano moral ou patrimonial decorrentes da relação de trabalho, categoria em que se inserem os danos decorrentes de acidente de trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "clt.811",
+  "para": "cf.114",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 811 da CLT regulamenta o processamento dos conflitos entre autoridades da Justiça do Trabalho e órgãos da Justiça Ordinária, remetendo o processo diretamente à Presidência do Supremo Tribunal Federal, em linha com a ressalva de competência do Supremo Tribunal Federal feita pelo inciso V do art. 114 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
+ },
+ {
+  "de": "l9307.23",
+  "para": "cf.114",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O parágrafo 1º do art. 114 da Constituição faculta às partes, frustrada a negociação coletiva, eleger árbitros para a solução do conflito coletivo de trabalho, sem disciplinar o prazo para a sentença arbitral, lacuna suprida pelo art. 23 da Lei de Arbitragem, que fixa prazo supletivo de seis meses na falta de convenção das partes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T14:57:29+00:00"
  }
 ]
