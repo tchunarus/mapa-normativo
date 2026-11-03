@@ -46627,5 +46627,25 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T12:27:40+00:00"
+ },
+ {
+  "de": "cpc.948",
+  "para": "cf.103",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 948 do CPC regula o controle difuso de constitucionalidade, exercido incidentalmente no curso de um processo concreto, ao passo que o art. 103 da CF trata da legitimidade para a ação direta de inconstitucionalidade e para a ação declaratória de constitucionalidade, próprias do controle concentrado e abstrato, de modo que há risco de se confundirem as duas modalidades de controle de constitucionalidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T13:38:05+00:00"
+ },
+ {
+  "de": "floripa_ctm.134",
+  "para": "cpc.949",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 134 do CTM de Florianópolis dispensa o Conselho Municipal de Contribuintes de nova apreciação sobre ilegalidade ou inconstitucionalidade quando a questão já estiver pacificada por entendimento manso e pacífico do STF ou do STJ, em lógica próxima à do parágrafo único do art. 949 do CPC, que dispensa a remessa ao plenário quando este ou o STF já tiverem se pronunciado, mas aplicada a um órgão administrativo tributário municipal, e não a um órgão fracionário de tribunal judicial, o que gera risco de se confundirem as duas competências.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T13:38:05+00:00"
  }
 ]
