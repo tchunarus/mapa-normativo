@@ -47257,5 +47257,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T19:43:02+00:00"
+ },
+ {
+  "de": "cf.130-A",
+  "para": "l12527.19",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 130-A, § 2º, da Constituição Federal atribui ao Conselho Nacional do Ministério Público o controle da atuação administrativa do Ministério Público, e o art. 19, § 2º, da Lei de Acesso à Informação impõe aos órgãos do Ministério Público o dever de informar a esse mesmo Conselho as decisões que, em grau de recurso, neguem acesso a informações de interesse público, complementando essa competência fiscalizadora em matéria de transparência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T20:46:44+00:00"
+ },
+ {
+  "de": "cf.132",
+  "para": "cpc.75",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 132 da Constituição Federal institui a carreira dos Procuradores dos Estados e do Distrito Federal, aos quais atribui a representação judicial das respectivas unidades federadas, e o art. 75, inciso II, do Código de Processo Civil detalha essa mesma atribuição ao determinar que o Estado e o Distrito Federal sejam representados em juízo por seus procuradores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T20:46:44+00:00"
+ },
+ {
+  "de": "cf.132",
+  "para": "lcp227.97",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 132 da Constituição Federal atribui aos Procuradores dos Estados e do Distrito Federal a representação judicial dessas unidades federadas, e o art. 97 da Lei Complementar 227/2026 estende essa mesma representação, perante as Câmaras de Julgamento do Comitê Gestor do IBS, também aos procuradores dos Municípios, em regime administrativo distinto do processo judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T20:46:44+00:00"
+ },
+ {
+  "de": "cf.134",
+  "para": "cpc.185",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 185 do Código de Processo Civil reproduz, no âmbito do processo civil, a mesma missão institucional atribuída à Defensoria Pública pelo caput do art. 134 da Constituição Federal, de orientação jurídica, promoção dos direitos humanos e defesa integral e gratuita dos direitos individuais e coletivos dos necessitados, sem alterar essa atribuição constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T20:46:44+00:00"
+ },
+ {
+  "de": "cf.134",
+  "para": "cpc.186",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 186 do Código de Processo Civil confere à Defensoria Pública prazo em dobro para todas as suas manifestações processuais, prerrogativa processual que viabiliza, no processo civil, o cumprimento da missão de defesa integral e gratuita dos necessitados atribuída pelo art. 134 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T20:46:44+00:00"
+ },
+ {
+  "de": "cf.134",
+  "para": "l7347.5",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 5º, inciso II, da Lei 7.347/85 confere à Defensoria Pública legitimidade para propor ação civil pública, aplicação concreta, no âmbito da tutela coletiva, da missão de defesa judicial dos direitos individuais e coletivos que o art. 134 da Constituição Federal atribui à instituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T20:46:44+00:00"
+ },
+ {
+  "de": "cf.136",
+  "para": "cpp.306",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 136, § 3º, inciso I, da Constituição Federal estabelece, para a prisão por crime contra o Estado durante a vigência do estado de defesa, regra especial de comunicação imediata ao juiz competente, que a relaxará se ilegal, especializando a regra geral do art. 306 do Código de Processo Penal, segundo a qual toda prisão deve ser comunicada de imediato ao juiz, ao Ministério Público e à família do preso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T20:46:44+00:00"
  }
 ]
