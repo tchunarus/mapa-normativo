@@ -46187,5 +46187,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-02T23:45:54+00:00"
+ },
+ {
+  "de": "cc.653",
+  "para": "cpc.105",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 653 do Código Civil define o mandato e estabelece que a procuração é o seu instrumento, ao passo que o art. 105 do CPC disciplina especificamente a procuração geral para o foro, fixando os poderes que ela confere ao advogado e os que exigem cláusula específica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T00:45:04+00:00"
+ },
+ {
+  "de": "cc.653",
+  "para": "l11101.120",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 653 do Código Civil define o mandato como o instituto pelo qual alguém recebe poderes para praticar atos em nome de outrem, e o art. 120 da Lei 11.101/05 estabelece regra especial sobre a cessação desse mandato quando o mandante é declarado falido, ressalvado o mandato para representação judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T00:45:04+00:00"
+ },
+ {
+  "de": "cc.653",
+  "para": "lsa.144",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 144 da LSA permite aos diretores da companhia constituir mandatários para a prática de atos ou operações especificados no instrumento, aplicação do mandato definido no art. 653 do Código Civil à representação da sociedade anônima.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T00:45:04+00:00"
+ },
+ {
+  "de": "cc.709",
+  "para": "l11101.120",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 709 do Código Civil determina que as regras do mandato se aplicam à comissão no que couber, e o § 2º do art. 120 da Lei 11.101/05 detalha esse mesmo regime ao dispor que, para o falido, cessam tanto o mandato quanto a comissão recebidos antes da falência, salvo os que versem sobre matéria estranha à atividade empresarial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T00:45:04+00:00"
  }
 ]
