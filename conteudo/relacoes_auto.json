@@ -46537,5 +46537,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T10:44:21+00:00"
+ },
+ {
+  "de": "cpc.189",
+  "para": "l9307.22-C",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 22-C da Lei de Arbitragem impõe o segredo de justiça no cumprimento da carta arbitral quando comprovada a confidencialidade estipulada na arbitragem, hipótese que o inciso IV do art. 189 do CPC já relaciona entre as situações de segredo de justiça.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T12:27:40+00:00"
+ },
+ {
+  "de": "cpc.189",
+  "para": "cc.1705",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 1.705 do Código Civil trata o segredo de justiça na ação de alimentos do filho havido fora do casamento como faculdade do juiz a pedido da parte, enquanto o inciso II do art. 189 do CPC, posterior, torna automático o segredo de justiça em processos sobre filiação e alimentos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T12:27:40+00:00"
+ },
+ {
+  "de": "cpc.189",
+  "para": "clt.781",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 781 da CLT restringe a expedição de certidão nos processos que correm em segredo de justiça, mas não define essas hipóteses, que vêm do art. 189 do CPC, aplicado subsidiariamente ao processo do trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T12:27:40+00:00"
+ },
+ {
+  "de": "l9279.206",
+  "para": "cpc.189",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 206 da LPI acrescenta ao regime do segredo de justiça mais uma hipótese, a revelação em juízo de informações de segredo industrial ou de comércio, que se soma às situações listadas nos incisos do art. 189 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T12:27:40+00:00"
+ },
+ {
+  "de": "cf.96",
+  "para": "cpp.628",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A alínea a do inciso I do art. 96 da Constituição dá aos tribunais competência privativa para elaborar seus regimentos internos; o art. 628 do CPP exerce essa competência ao atribuir aos regimentos internos dos tribunais de apelação a definição das normas complementares do processo de revisão criminal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T12:27:40+00:00"
+ },
+ {
+  "de": "cf.96",
+  "para": "cpc.958",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "A competência privativa dos tribunais para dispor, por regimento interno, sobre o funcionamento de seus órgãos jurisdicionais, prevista na alínea a do inciso I do art. 96 da Constituição, é exercida pelo art. 958 do CPC ao remeter ao regimento interno a solução do conflito entre órgãos fracionários do tribunal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T12:27:40+00:00"
+ },
+ {
+  "de": "cf.97",
+  "para": "cpc.948",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 97 da Constituição exige maioria absoluta do tribunal ou do órgão especial para declarar a inconstitucionalidade de lei ou ato normativo; o art. 948 do CPC disciplina o procedimento pelo qual a arguição de inconstitucionalidade, suscitada no controle difuso, chega à turma ou câmara antes de eventual remessa ao plenário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T12:27:40+00:00"
+ },
+ {
+  "de": "cf.97",
+  "para": "cpc.949",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 949 do CPC complementa a cláusula de reserva de plenário do art. 97 da Constituição ao determinar que, acolhida a arguição de inconstitucionalidade pela turma ou câmara, a questão seja submetida ao plenário ou ao órgão especial do tribunal, único competente para a decisão por maioria absoluta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T12:27:40+00:00"
+ },
+ {
+  "de": "cf.97",
+  "para": "floripa_ctm.134",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 134 do Código Tributário Municipal de Florianópolis reafirma, no processo administrativo tributário municipal, a reserva constitucional do art. 97 da Constituição ao declarar que as autoridades julgadoras administrativas são incompetentes para declarar a inconstitucionalidade de lei, decreto ou portaria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T12:27:40+00:00"
  }
 ]
