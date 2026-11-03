@@ -46227,5 +46227,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T00:45:04+00:00"
+ },
+ {
+  "de": "l11101.120",
+  "para": "cc.682",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 120 da Lei 11.101/05 cria, para o mandato conferido pelo devedor, uma causa especial de cessação ligada à decretação da falência, ausente das hipóteses gerais de cessação do mandato previstas no Código Civil, e seu § 1º ressalva que o mandato para representação judicial do devedor permanece em vigor até revogação expressa pelo administrador judicial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T01:45:25+00:00"
+ },
+ {
+  "de": "l11101.120",
+  "para": "cc.668",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O caput do art. 120 da Lei 11.101/05 impõe ao mandatário do devedor falido o dever de prestar contas de sua gestão, que é a mesma obrigação geral de prestação de contas do mandatário ao mandante estabelecida no Código Civil, aqui aplicada à hipótese específica da decretação da falência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T01:45:25+00:00"
+ },
+ {
+  "de": "cf.74",
+  "para": "l13303.87",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 74 da Constituição confere ao sistema de controle interno a função de apoiar o controle externo e assegura, no § 2º, legitimidade a qualquer cidadão para denunciar irregularidades perante o Tribunal de Contas da União, regime que o art. 87 da Lei 13.303/16 detalha ao atribuir a qualquer cidadão, licitante, contratado ou pessoa física ou jurídica legitimidade para representar ao tribunal de contas ou aos órgãos de controle interno contra irregularidades na aplicação daquela Lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T01:45:25+00:00"
+ },
+ {
+  "de": "cf.74",
+  "para": "l14133.169",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 74, IV, da Constituição atribui ao controle interno a função de apoiar o controle externo, e o art. 169 da Lei 14.133/21 concretiza essa articulação ao incluir, como terceira linha de defesa das contratações públicas, o órgão central de controle interno da Administração e o tribunal de contas, com acesso irrestrito a documentos e informações para o exercício dessa fiscalização.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T01:45:25+00:00"
+ },
+ {
+  "de": "cf.74",
+  "para": "l8429.21",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O sistema de controle interno e externo organizado pelo art. 74 da Constituição é referido pelo § 1º do art. 21 da Lei de Improbidade Administrativa, que manda considerar os atos desses órgãos de controle quando tiverem servido de fundamento para a conduta do agente público apurada na ação de improbidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T01:45:25+00:00"
+ },
+ {
+  "de": "cf.74",
+  "para": "l12527.7",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 74 da Constituição organiza o sistema de controle interno dos Poderes em apoio ao controle externo, e a alínea b do inciso VII do art. 7º da Lei de Acesso à Informação assegura o acesso público ao resultado de inspeções, auditorias, prestações e tomadas de contas realizadas pelos órgãos de controle interno e externo, tornando transparente o exercício dessa mesma função constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T01:45:25+00:00"
+ },
+ {
+  "de": "cf.75",
+  "para": "lcp227.40",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 75 da Constituição organiza os Tribunais de Contas dos Estados, do Distrito Federal e dos Municípios como órgãos essenciais ao controle externo, e o art. 40 da LC 227/2026 atribui a esses mesmos tribunais, de forma coordenada e colegiada, o procedimento específico para fiscalizar as contas do CGIBS, inclusive a indicação de conselheiro relator e o julgamento anual das contas do órgão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T01:45:25+00:00"
+ },
+ {
+  "de": "cf.75",
+  "para": "adct.16",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 75 da Constituição organiza o Tribunal de Contas do Distrito Federal como órgão essencial ao controle externo, e o § 2º do art. 16 do ADCT, em norma transitória, atribuiu a esse mesmo Tribunal a função de auxiliar o Senado Federal no controle externo do Distrito Federal enquanto não instalada a Câmara Legislativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T01:45:25+00:00"
+ },
+ {
+  "de": "cf.76",
+  "para": "lcp227.79-B",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 76 da Constituição define o Presidente da República e os Ministros de Estado como titulares do Poder Executivo, e o art. 79-B da LC 227/2026 faz remissão a essas mesmas autoridades ao determinar que o processo e o julgamento do Presidente do CGIBS observem o regime legal previsto para o Presidente da República e os Ministros de Estado, inclusive quanto às sanções aplicáveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T01:45:25+00:00"
+ },
+ {
+  "de": "cf.77",
+  "para": "adct.4",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 77 da Constituição fixa a regra permanente de que a eleição do Presidente da República ocorre em dois turnos nos domingos de outubro do ano anterior ao término do mandato, e o § 1º do art. 4º do ADCT excepcionou essa regra ao determinar que a primeira eleição presidencial após a promulgação da Constituição fosse realizada em 15 de novembro de 1989, afastando também a aplicação do art. 16 da Constituição a esse pleito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T01:45:25+00:00"
+ },
+ {
+  "de": "cf.78",
+  "para": "adct.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 78 da Constituição disciplina a posse regular do Presidente e do Vice-Presidente da República perante o Congresso Nacional, com o compromisso de manter, defender e cumprir a Constituição, compromisso que pode ser confundido com o exigido pelo art. 1º do ADCT, o qual impôs esse mesmo juramento, de modo excepcional e sem posse específica, ao Presidente da República já em exercício no ato da promulgação do texto constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T01:45:25+00:00"
  }
 ]
