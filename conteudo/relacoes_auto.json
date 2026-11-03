@@ -47327,5 +47327,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T20:46:44+00:00"
+ },
+ {
+  "de": "l9099.69",
+  "para": "cpp.306",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 69 da Lei 9.099/95 excepciona o regime geral do art. 306 do CPP ao dispensar a prisão em flagrante e a exigência de fiança quando o autor de infração de menor potencial ofensivo é imediatamente encaminhado ao Juizado ou assume compromisso de comparecer, afastando as comunicações ali previstas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T21:44:52+00:00"
+ },
+ {
+  "de": "lcp227.97",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 97 da LC 227/2026 regulamenta, no âmbito do contencioso administrativo do IBS, a competência atribuída ao Comitê Gestor do Imposto sobre Bens e Serviços pelo art. 156-B da CF, definindo quem exerce a representação da Fazenda Pública perante as Câmaras de Julgamento do CGIBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T21:44:52+00:00"
+ },
+ {
+  "de": "lcp227.97",
+  "para": "lcp214.323-G",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 97 da LC 227/2026 complementa o art. 323-G da LC 214/2025, pois os dois dispositivos integram o mesmo regime do contencioso administrativo do IBS e da CBS perante o CGIBS, um tratando do recurso especial e o outro da representação da Fazenda Pública nas Câmaras de Julgamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T21:44:52+00:00"
+ },
+ {
+  "de": "lcp227.97",
+  "para": "floripa_ctm.146",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 97 da LC 227/2026 é confundível com o art. 146 do CTM de Florianópolis, pois ambos tratam de representação da Fazenda Pública perante órgão de julgamento administrativo tributário, mas em regimes distintos (CGIBS do IBS e CBS versus Conselho Municipal de Contribuintes do ISS).",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T21:44:52+00:00"
  }
 ]
