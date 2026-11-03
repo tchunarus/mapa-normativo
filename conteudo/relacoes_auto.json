@@ -47367,5 +47367,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T21:44:52+00:00"
+ },
+ {
+  "de": "cf.143",
+  "para": "cpp.438",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos preveem a prestação de serviço alternativo como consequência da escusa de consciência por motivo religioso, filosófico ou político, mas em regimes distintos: o art. 143 trata da dispensa do serviço militar obrigatório, e o art. 438 do CPP trata da recusa ao serviço do júri. Há risco de se confundir os dois regimes de serviço alternativo, apesar de disciplinarem obrigações e autoridades diferentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T23:27:42+00:00"
+ },
+ {
+  "de": "cf.143",
+  "para": "l8213.55",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 55 da Lei 8.213/91 refere-se expressamente ao tempo previsto no § 1º do art. 143 da Constituição Federal, computando o serviço alternativo ali disciplinado como tempo de serviço para fins previdenciários, ao lado do serviço militar obrigatório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T23:27:42+00:00"
+ },
+ {
+  "de": "cf.144",
+  "para": "cpp.4",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 4º do Código de Processo Penal disciplina o exercício concreto da polícia judiciária pelas autoridades policiais, função atribuída constitucionalmente à polícia federal, com exclusividade quanto à União, e às polícias civis, nos termos do art. 144 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T23:27:42+00:00"
+ },
+ {
+  "de": "cf.149",
+  "para": "l8212.11",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 11 da Lei 8.212/91 detalha, no âmbito infraconstitucional, as contribuições sociais que integram o orçamento da seguridade social, explicitando no parágrafo único as modalidades que concretizam a competência da União para instituí-las, estabelecida no art. 149 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T23:27:42+00:00"
+ },
+ {
+  "de": "cf.149-B",
+  "para": "adct.124",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 124 do ADCT estabelece, no desenho da transição constitucional, que a contribuição do art. 195, V, será instituída pela mesma lei complementar que institui o imposto do art. 156-A, fundamento imediato da equiparação de regras entre os dois tributos exigida pelo art. 149-B da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T23:27:42+00:00"
+ },
+ {
+  "de": "cf.149-B",
+  "para": "lcp214.41",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 41 da LC 214/2025 estabelece que o regime regular do IBS e da CBS compreende as mesmas regras de incidência e apuração para os dois tributos, implementando no plano infraconstitucional a equiparação exigida pelo art. 149-B da Constituição Federal quanto a fatos geradores, bases de cálculo e regimes específicos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T23:27:42+00:00"
  }
 ]
