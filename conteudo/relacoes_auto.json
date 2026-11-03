@@ -47217,5 +47217,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "clt.670",
+  "para": "cf.115",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 670 da CLT prevê a composição dos Tribunais Regionais do Trabalho com juízes togados e juízes classistas temporários, enquanto o art. 115 da Constituição Federal, na redação dada pela Emenda Constitucional nº 24, de 1999, estabelece a composição exclusivamente por juízes togados, em número mínimo de sete, sem a figura do juiz classista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T19:43:02+00:00"
+ },
+ {
+  "de": "l6019.1",
+  "para": "l8212.31",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1º da Lei 6.019/74 disciplina as relações de trabalho temporário e de prestação de serviços entre empresa, tomadora e contratante, e o art. 31 da Lei 8.212/91 detalha, para essa mesma relação de cessão de mão de obra, incluído o regime de trabalho temporário, a obrigação de retenção de 11% da contribuição previdenciária devida pela contratante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T19:43:02+00:00"
+ },
+ {
+  "de": "cf.127",
+  "para": "cpc.176",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 176 do CPC reproduz, no âmbito do processo civil, a mesma missão institucional atribuída ao Ministério Público pelo caput do art. 127 da Constituição Federal (defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis), detalhando essa atuação no processo civil sem alterar a atribuição constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T19:43:02+00:00"
+ },
+ {
+  "de": "l8934.10",
+  "para": "clt.647",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos usam o termo \"vogal\" para designar integrantes de colegiados de naturezas totalmente distintas (o Plenário da Junta Comercial, órgão de registro de empresas, e a extinta Junta de Conciliação e Julgamento da Justiça do Trabalho), o que gera risco real de confusão terminológica sem que exista relação de regime entre os institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T19:43:02+00:00"
  }
 ]
