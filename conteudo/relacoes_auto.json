@@ -47077,5 +47077,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T17:49:04+00:00"
+ },
+ {
+  "de": "adct.5",
+  "para": "cf.29",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 5º do ADCT remete expressamente ao art. 29, IV, da Constituição Federal para fixar, nas eleições de 1988, o número de vereadores dentro dos limites ali estipulados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "adct.5",
+  "para": "cf.14",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 5º do art. 5º do ADCT cria hipótese adicional e transitória de inelegibilidade, exclusiva do pleito de 1988, que se soma às condições gerais de elegibilidade tratadas no art. 14 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "l6019.1",
+  "para": "clt.1",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 1º da Lei 6.019/74 estabelece regime próprio e especial para as relações de trabalho na empresa de trabalho temporário e nas respectivas tomadoras de serviço, especializando, para essa modalidade contratual, o âmbito geral de aplicação da CLT fixado no art. 1º desta Consolidação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "l14967.3",
+  "para": "clt.1",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 3º da Lei 14.967/24 determina que a prestação de serviços de segurança privada observe as disposições que regulam as relações de trabalho, remetendo ao mesmo conjunto normativo que o art. 1º da CLT identifica como objeto desta Consolidação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "cf.186",
+  "para": "clt.1",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 186 da Constituição Federal exige, como requisito da função social da propriedade rural, a observância das disposições que regulam as relações de trabalho, mesmo conjunto normativo que o art. 1º da CLT identifica como objeto desta Consolidação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "clt.660",
+  "para": "l8934.10",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 660 da CLT trata do vogal da Junta de Conciliação e Julgamento, órgão da Justiça do Trabalho, enquanto o art. 10 da Lei 8.934/94 usa a mesma palavra para o vogal do Plenário da Junta Comercial, órgão de registro de empresas vinculado ao Poder Executivo estadual; o termo idêntico pode gerar confusão entre institutos completamente distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "cpc.15",
+  "para": "lef.1",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 1º da LEF determina que a execução fiscal se rege subsidiariamente pelo Código de Processo Civil, aplicação concreta da regra geral do art. 15 do CPC, que prevê a aplicação supletiva e subsidiária deste Código aos processos que carecem de disciplina própria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "cpc.15",
+  "para": "l8245.79",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 79 da Lei 8.245/91 determina que as omissões da Lei do Inquilinato sejam supridas pelas normas do Código Civil e do Código de Processo Civil, aplicação concreta da regra geral de supletividade e subsidiariedade do CPC prevista no art. 15 deste Código.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "cpc.454",
+  "para": "cf.119",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 454 do CPC assegura aos ministros do Tribunal Superior Eleitoral, cuja composição mínima de sete membros é fixada pelo art. 119 da Constituição Federal, a prerrogativa de serem inquiridos em sua residência ou no local de exercício da função, complementando o estatuto desse órgão com uma garantia processual específica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "cf.120",
+  "para": "clt.670",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 120 da Constituição Federal disciplina a composição do Tribunal Regional Eleitoral, integrante da Justiça Eleitoral, enquanto o art. 670 da CLT disciplina a composição dos Tribunais Regionais do Trabalho, órgãos de ramo diverso da Justiça; a mesma expressão Tribunal Regional designa órgãos distintos, o que pode gerar confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "cf.123",
+  "para": "clt.693",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 123 da Constituição Federal compõe o Superior Tribunal Militar por quinze Ministros, dos quais dez são oficiais-generais das Forças Armadas e cinco são civis, todos nomeados pelo Presidente da República após aprovação do Senado Federal, modelo de composição mista semelhante ao do art. 693 da CLT para o Tribunal Superior do Trabalho, órgão de ramo diverso da Justiça, o que pode gerar confusão entre as duas cortes superiores.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "cf.123",
+  "para": "cpp.1",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso III do art. 1º do CPP ressalva da aplicação do Código os processos da competência da Justiça Militar, ramo cujo órgão de cúpula, o Superior Tribunal Militar, tem sua composição de quinze Ministros definida pelo art. 123 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "cf.123",
+  "para": "l9099.90-A",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 90-A da Lei 9.099/95 afasta a aplicação dos Juizados Especiais no âmbito da Justiça Militar, ramo cujo órgão de cúpula, o Superior Tribunal Militar, tem sua composição definida pelo art. 123 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
+ },
+ {
+  "de": "adct.70",
+  "para": "cf.125",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 70 do ADCT mantém a competência então vigente dos tribunais estaduais até que seja definida pela Constituição do Estado, remetendo expressamente ao § 1º do art. 125 da Constituição Federal, que atribui essa definição à lei de organização judiciária de iniciativa do Tribunal de Justiça.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T18:45:50+00:00"
  }
 ]
