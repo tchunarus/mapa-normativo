@@ -46957,5 +46957,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T15:49:02+00:00"
+ },
+ {
+  "de": "clt.652",
+  "para": "cf.114",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 114, I, da CF atribui de modo genérico à Justiça do Trabalho a competência para as ações oriundas da relação de trabalho, e o art. 652 da CLT detalha essa competência para as Varas do Trabalho, especificando as espécies de dissídios individuais que lhes cabe conciliar e julgar, de modo que os dois dispositivos integram o mesmo regime de competência trabalhista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T17:49:04+00:00"
+ },
+ {
+  "de": "clt.652",
+  "para": "cf.112",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 112 da CF cuida da criação das Varas do Trabalho e da atribuição da jurisdição trabalhista aos juízes de direito nas comarcas em que não haja vara especializada, enquanto o art. 652 da CLT fixa a competência material dessas mesmas Varas, de modo que os dispositivos tratam de institutos conexos, a organização judiciária trabalhista e a competência em razão da matéria.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T17:49:04+00:00"
+ },
+ {
+  "de": "cpc.260",
+  "para": "l9307.22-C",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 260 do CPC exige, no § 3º, que a carta arbitral seja instruída com a convenção de arbitragem e com a prova de nomeação e aceitação do árbitro, e o art. 22-C da Lei 9.307/96 cria esse instrumento para que o árbitro solicite a órgão jurisdicional nacional a prática de atos de sua competência, de modo que os dois dispositivos tratam do mesmo instituto, a carta arbitral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T17:49:04+00:00"
+ },
+ {
+  "de": "l6019.19",
+  "para": "cf.114",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 114, I, da CF fixa a competência genérica da Justiça do Trabalho para as ações oriundas da relação de trabalho, e o art. 19 da Lei 6.019/74 atribui especificamente a essa Justiça os litígios entre as empresas de trabalho temporário e seus trabalhadores, qualificando-se como regra especial dentro do mesmo regime de competência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T17:49:04+00:00"
+ },
+ {
+  "de": "l6019.19-B",
+  "para": "clt.1",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 19-B da Lei 6.019/74 afasta a aplicação desta lei às empresas de vigilância e transporte de valores e determina que as respectivas relações de trabalho sejam regidas subsidiariamente pela Consolidação das Leis do Trabalho, regime geral que o art. 1º da CLT institui para as relações individuais e coletivas de trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T17:49:04+00:00"
+ },
+ {
+  "de": "l9307.23",
+  "para": "l9099.24",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 23 da Lei 9.307/96 disciplina o prazo para a sentença arbitral na arbitragem regida por essa lei, e o art. 24 da Lei 9.099/95 prevê, sob o mesmo rótulo de juízo arbitral, um mecanismo distinto, em que as partes dos Juizados Especiais escolhem o árbitro dentre juízes leigos, o que gera risco de confusão entre institutos na verdade diversos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T17:49:04+00:00"
+ },
+ {
+  "de": "l9307.23",
+  "para": "ctn.171-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 23 da Lei 9.307/96 fixa o prazo para a sentença arbitral da arbitragem comum, regida por essa lei, enquanto o art. 171-A do CTN prevê, em seu parágrafo único, uma sentença arbitral distinta, proferida no âmbito da arbitragem especial tributária e aduaneira que lei especial deverá disciplinar, de modo que o termo sentença arbitral designa institutos conexos, mas submetidos a regimes diversos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T17:49:04+00:00"
+ },
+ {
+  "de": "cf.116",
+  "para": "clt.660",
+  "tipo": "conflito_aparente",
+  "grau": "mesmo",
+  "porque": "O art. 116 da CF estabelece que, nas Varas do Trabalho, a jurisdição é exercida por juiz singular, e o art. 660 da CLT ainda disciplina a designação de vogais das Juntas de Conciliação e Julgamento, órgão colegiado que a composição unipessoal hoje vigente no primeiro grau da Justiça do Trabalho tornou incompatível, configurando conflito aparente entre os dois textos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T17:49:04+00:00"
+ },
+ {
+  "de": "cf.116",
+  "para": "clt.668",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 116 da CF determina que, nas Varas do Trabalho, a jurisdição seja exercida por juiz singular, e o art. 668 da CLT complementa essa disciplina para as localidades em que não há vara instalada, atribuindo a jurisdição trabalhista aos Juízos de Direito, com a extensão que a lei de organização judiciária local fixar, tratando-se, portanto, de institutos conexos de organização judiciária trabalhista.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T17:49:04+00:00"
+ },
+ {
+  "de": "cf.118",
+  "para": "cpc.15",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 118 da CF define os órgãos da Justiça Eleitoral, e o art. 15 do CPC determina que, na ausência de normas que regulem os processos eleitorais, as disposições desse Código lhes sejam aplicadas supletiva e subsidiariamente, de modo que os dispositivos tratam de institutos conexos, a organização da Justiça Eleitoral e o regime processual subsidiário perante seus órgãos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T17:49:04+00:00"
+ },
+ {
+  "de": "cf.118",
+  "para": "adct.6",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 118 da CF inclui o Tribunal Superior Eleitoral entre os órgãos da Justiça Eleitoral, e o art. 6º do ADCT atribui a esse mesmo Tribunal, em caráter transitório, a competência para registrar partidos políticos requerida por parlamentares federais nos seis meses seguintes à promulgação da Constituição, complementando, para esse período, a organização fixada no art. 118.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T17:49:04+00:00"
+ },
+ {
+  "de": "cf.118",
+  "para": "adct.5",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 118 da CF inclui o Tribunal Superior Eleitoral entre os órgãos da Justiça Eleitoral, e o art. 5º do ADCT atribui a esse Tribunal, para as eleições de 15 de novembro de 1988, a competência transitória para editar as normas necessárias ao pleito na ausência de norma legal específica, o que complementa, para esse período, a organização fixada no art. 118.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T17:49:04+00:00"
  }
 ]
