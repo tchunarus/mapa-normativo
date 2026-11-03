@@ -46647,5 +46647,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T13:38:05+00:00"
+ },
+ {
+  "de": "clt.781",
+  "para": "cpc.107",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 107, inciso I, do CPC restringe ao advogado constituído o acesso aos autos quando o processo corre em segredo de justiça, e o art. 781, parágrafo único, da CLT complementa esse regime ao condicionar a expedição de certidão do processo trabalhista sob sigilo a despacho do juiz ou presidente, de modo que ambos disciplinam o acesso de terceiros e partes a processos sigilosos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T13:51:03+00:00"
+ },
+ {
+  "de": "cc.1705",
+  "para": "cpc.11",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.705 do Código Civil faculta ao juiz determinar que a ação de alimentos movida pelo filho havido fora do casamento corra em segredo de justiça, e o art. 11, parágrafo único, do CPC complementa esse regime ao restringir, nessa hipótese, a presença em audiência às partes, aos advogados, à Defensoria Pública e ao Ministério Público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T13:51:03+00:00"
+ },
+ {
+  "de": "floripa_ctm.134",
+  "para": "lcp227.74",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 134 do Código Tributário Municipal de Florianópolis permite ao Conselho Municipal de Contribuintes aplicar entendimento manso e pacífico do Supremo Tribunal Federal ou do Superior Tribunal de Justiça sobre inconstitucionalidade ou ilegalidade, com padrão impreciso, enquanto o art. 74, incisos I a III, da LC 227/2026 fixa hipóteses taxativas e mais rigorosas de vinculação do órgão administrativo tributário, o que gera risco de confusão sobre qual padrão de precedente autoriza o afastamento administrativo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T13:51:03+00:00"
+ },
+ {
+  "de": "cpc.958",
+  "para": "clt.812",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 958 do CPC remete ao regimento interno do tribunal a disciplina do conflito entre órgãos fracionários, e o art. 812 da CLT é a regra especial desse mesmo instituto para a Justiça do Trabalho, pois também remete ao regimento interno do Tribunal Superior do Trabalho a ordem processual dos conflitos de jurisdição entre suas Câmaras.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T13:51:03+00:00"
+ },
+ {
+  "de": "cpp.628",
+  "para": "cf.108",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 108, inciso I, alínea b, da Constituição Federal atribui aos Tribunais Regionais Federais a competência originária para processar e julgar as revisões criminais, e o art. 628 do CPP complementa esse regime ao determinar que os regimentos internos dos tribunais de apelação estabeleçam as normas complementares para o processo e julgamento dessas revisões.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T13:51:03+00:00"
+ },
+ {
+  "de": "l9307.22-C",
+  "para": "cpc.237",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 237, inciso IV, do CPC cria a carta arbitral como espécie de carta processual para que órgão do Poder Judiciário pratique ou determine o cumprimento de ato solicitado pelo árbitro, e o art. 22-C da Lei de Arbitragem complementa esse mesmo instituto ao atribuir expressamente ao árbitro ou ao tribunal arbitral o poder de expedir essa carta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T13:51:03+00:00"
  }
 ]
