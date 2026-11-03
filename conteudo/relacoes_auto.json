@@ -46367,5 +46367,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T07:25:20+00:00"
+ },
+ {
+  "de": "l13303.88",
+  "para": "l12527.8",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 88 da Lei 13.303/16 especializa, para as empresas públicas e sociedades de economia mista, o dever geral de transparência ativa do art. 8º da Lei de Acesso à Informação, impondo a divulgação eletrônica e mensal da execução de contratos e do orçamento, com prazo próprio de atraso admitido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T09:45:19+00:00"
+ },
+ {
+  "de": "l13303.88",
+  "para": "l12527.22",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 88 da Lei 13.303/16 protege a confidencialidade de informações sobre operações de perfil estratégico e sobre segredo industrial das estatais, concretizando a ressalva de sigilo decorrente da exploração direta de atividade econômica pelo Estado prevista no art. 22 da Lei de Acesso à Informação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T09:45:19+00:00"
+ },
+ {
+  "de": "l13303.88",
+  "para": "l12527.34",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 88 da Lei 13.303/16 prevê a responsabilização administrativa, civil e penal do servidor que der causa à divulgação indevida de informação protegida pelo § 1º, no mesmo sentido da responsabilidade funcional por divulgação não autorizada de informação sigilosa prevista no art. 34 da Lei de Acesso à Informação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T09:45:19+00:00"
+ },
+ {
+  "de": "l14133.13",
+  "para": "l13303.35",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 13 da Lei 14.133/21 regula a publicidade dos atos da licitação na administração em geral, com publicidade diferida das propostas até a abertura, enquanto o art. 35 da Lei 13.303/16 disciplina o mesmo tema para as empresas públicas e sociedades de economia mista, que se submetem a regime licitatório próprio, distinto do regime geral da Lei 14.133/21, o que pode gerar confusão sobre qual diploma incide.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T09:45:19+00:00"
+ },
+ {
+  "de": "l14133.13",
+  "para": "cp.337-J",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 337-J do Código Penal tipifica a conduta de devassar o sigilo de proposta apresentada em processo licitatório, protegendo penalmente a publicidade diferida das propostas até a abertura estabelecida no parágrafo único, I, do art. 13 da Lei 14.133/21.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T09:45:19+00:00"
+ },
+ {
+  "de": "cf.85",
+  "para": "cp.360",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 360 do Código Penal ressalva da revogação geral das disposições contrárias a legislação especial sobre os crimes de responsabilidade do Presidente da República, em consonância com o art. 85 da Constituição Federal, cujo parágrafo único remete a definição desses crimes a lei especial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T09:45:19+00:00"
+ },
+ {
+  "de": "cf.85",
+  "para": "l8429.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os crimes de responsabilidade do art. 85 da Constituição Federal, de natureza político-administrativa, não se confundem com o sistema de responsabilização civil por atos de improbidade administrativa do art. 1º da Lei 8.429/92, ainda que ambos tutelem a probidade na administração pública, existindo risco de se aplicar a um agente o regime que a Constituição reserva ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T09:45:19+00:00"
+ },
+ {
+  "de": "cf.88",
+  "para": "lcp214.491",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 491 da LC 214/2025 disciplina, no plano legal, a assunção de responsabilidades em caso de fusão, extinção ou incorporação de Ministérios e demais órgãos da administração pública, dando cumprimento à reserva de lei estabelecida no art. 88 da Constituição Federal para dispor sobre a criação e a extinção desses órgãos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-03T09:45:19+00:00"
  }
 ]
