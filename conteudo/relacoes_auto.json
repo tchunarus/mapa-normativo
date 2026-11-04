@@ -47727,5 +47727,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T09:47:32+00:00"
+ },
+ {
+  "de": "adct.38",
+  "para": "cf.169",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 38 do ADCT estabelece o teto transitório de despesa com pessoal e remete expressamente à lei complementar prevista no art. 169 da Constituição Federal, que fixa de modo permanente os limites de despesa com pessoal ativo, inativo e pensionistas; os dois dispositivos tratam do mesmo instituto, sendo o art. 38 do ADCT a norma de transição até a edição daquela lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T10:45:01+00:00"
+ },
+ {
+  "de": "ec132.14",
+  "para": "lcp214.484",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 14 da EC 132/2023 determina que a União custeará, com posterior ressarcimento pelo Comitê Gestor do IBS, as despesas necessárias à instalação desse órgão, e o art. 484 da LC 214/2025 regulamenta concretamente esse custeio ao fixar o valor de seiscentos milhões de reais a serem aportados pela União mediante operação de crédito em 2025, vinculando o fim do aporte à comunicação de instalação prevista no art. 483 da mesma lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T10:45:01+00:00"
+ },
+ {
+  "de": "lcp214.431",
+  "para": "sc_icms_lei.32",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 431 da LC 214/2025 impõe apuração consolidada obrigatória do Imposto Seletivo entre todos os estabelecimentos do contribuinte, enquanto o § 1º do art. 32 da Lei 10.297/96-SC apenas assegura ao sujeito passivo a faculdade de apurar o ICMS pelo conjunto de seus estabelecimentos no Estado, regime facultativo que pode ser confundido com a consolidação obrigatória do novo tributo federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T10:45:01+00:00"
+ },
+ {
+  "de": "lcp214.431",
+  "para": "sc_ricms.54",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 431 da LC 214/2025 exige a consolidação das operações de todos os estabelecimentos para apuração do Imposto Seletivo, ao passo que o art. 54 do RICMS-SC apenas faculta ao sujeito passivo catarinense optar pela apuração conjunta de seus estabelecimentos para o ICMS, diferença de regime entre obrigatoriedade e faculdade que pode gerar confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T10:45:01+00:00"
+ },
+ {
+  "de": "lcp214.483",
+  "para": "lcp227.53",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 483, § 1º, III, da LC 214/2025 prevê que os membros titulares do Conselho Superior do CGIBS elejam entre si o Presidente e os Vice-Presidentes, mas o art. 53 da LC 227/2026 estabelece regra especial para o momento da instituição do órgão, reservando a Presidência a representante do conjunto dos Estados e do Distrito Federal, antes mesmo da primeira eleição geral prevista naquele inciso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T10:45:01+00:00"
  }
 ]
