@@ -47467,5 +47467,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T00:30:02+00:00"
+ },
+ {
+  "de": "adct.124",
+  "para": "lcp214.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 124 do ADCT determina que a contribuição prevista no art. 195, V, da Constituição Federal seja instituída pela mesma lei complementar que trata do art. 156-A, e o art. 1º da LC 214/2025 é exatamente essa lei complementar, que institui, em conjunto, o Imposto sobre Bens e Serviços e a Contribuição Social sobre Bens e Serviços. O art. 124 do ADCT fixa o comando constitucional de instituição conjunta e remete aos critérios de transição dos arts. 125 a 133 do próprio ADCT, enquanto o art. 1º da LC 214/2025 cumpre esse comando ao efetivamente criar os dois tributos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T00:53:48+00:00"
+ },
+ {
+  "de": "l8212.11",
+  "para": "cf.195",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 11 da Lei 8.212/91 relaciona as contribuições sociais que compõem o orçamento da seguridade social, reproduzindo no plano infraconstitucional as mesmas fontes previstas no art. 195 da Constituição Federal: a contribuição do empregador sobre a folha de salários, a receita ou o faturamento e o lucro, a do trabalhador e a incidente sobre a receita de concursos de prognósticos. O art. 195 da Constituição Federal fixa o desenho constitucional do financiamento da seguridade social, enquanto o art. 11 da Lei 8.212/91 o detalha para fins orçamentários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T00:53:48+00:00"
+ },
+ {
+  "de": "cf.161",
+  "para": "sc_ricms.10-C",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 161, I, da Constituição Federal atribui à lei complementar federal a definição do valor adicionado para fins de rateio do produto do ICMS entre os Municípios, e o art. 10-C do RICMS de Santa Catarina disciplina, no caso específico de remessa ou transferência de mercadorias para exportação por estabelecimento de outro Estado, como se apura esse mesmo valor adicionado para o Município onde está o estabelecimento industrial. O dispositivo estadual não substitui a definição reservada à lei complementar, mas aplica o conceito a uma situação concreta de cálculo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T00:53:48+00:00"
+ },
+ {
+  "de": "cf.163",
+  "para": "lcp227.42",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 163, incisos II, IV e V, da Constituição Federal reserva à lei complementar a disciplina da dívida pública, das operações de crédito e da fiscalização financeira da administração pública, e o art. 42 da LC 227/2026 aplica ao CGIBS, adaptando às suas especificidades, o relatório de gestão fiscal dos arts. 54 e 55 da Lei de Responsabilidade Fiscal, com demonstrativos de dívida consolidada, operações de crédito e disponibilidade de caixa. O art. 163 da Constituição Federal fixa a reserva de lei complementar sobre a matéria em geral, enquanto o art. 42 da LC 227/2026 concretiza essa fiscalização em relação a um órgão específico, o Comitê Gestor do Imposto sobre Bens e Serviços.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T00:53:48+00:00"
+ },
+ {
+  "de": "cf.163-A",
+  "para": "l12527.1",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 163-A da Constituição Federal impõe à União, aos Estados, ao Distrito Federal e aos Municípios o dever de disponibilizar dados contábeis, orçamentários e fiscais conforme sistema do órgão central de contabilidade da União, para garantir rastreabilidade, comparabilidade e publicidade em meio eletrônico de amplo acesso público. O art. 1º da Lei de Acesso à Informação disciplina, em regime mais amplo e com fundamento constitucional distinto, o acesso a informações em poder dos órgãos e entidades públicas. O art. 163-A especializa, no âmbito fiscal e orçamentário, esse dever geral de transparência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T00:53:48+00:00"
  }
 ]
