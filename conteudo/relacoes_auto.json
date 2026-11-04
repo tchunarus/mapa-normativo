@@ -47817,5 +47817,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T11:45:38+00:00"
+ },
+ {
+  "de": "cf.177",
+  "para": "adct.45",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 45 do ADCT excetua do monopólio da União estabelecido no art. 177, inciso II, da Constituição Federal as refinarias em funcionamento no país amparadas pelo art. 43 da própria norma transitória, e seu parágrafo único ressalva da vedação do art. 177, § 1º, os contratos de risco com a Petrobras vigentes na data da promulgação da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T12:50:04+00:00"
+ },
+ {
+  "de": "cf.180",
+  "para": "floripa_ctm.409",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 409 do Código Tributário Municipal de Florianópolis institui a Taxa de Fomento ao Turismo, tributo municipal que financia a promoção da atividade turística, dando concretude ao dever de promover e incentivar o turismo atribuído à União, aos Estados, ao Distrito Federal e aos Municípios pelo art. 180 da Constituição Federal, ainda que a norma constitucional seja apenas programática e não preveja esse tributo específico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T12:50:04+00:00"
+ },
+ {
+  "de": "cf.181",
+  "para": "lindb.12",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 181 da Constituição Federal exige autorização do Poder competente para que pessoa residente ou domiciliada no país atenda requisição de documento ou informação comercial feita por autoridade administrativa ou judiciária estrangeira, enquanto o § 2º do art. 12 da LINDB trata do cumprimento, mediante exequatur concedido pela autoridade judiciária brasileira, de diligências deprecadas por autoridade estrangeira. Há risco de confundir os dois mecanismos de controle da atuação de autoridade estrangeira no território nacional, pois decorrem de fundamentos e autoridades competentes distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T12:50:04+00:00"
+ },
+ {
+  "de": "cf.185",
+  "para": "cc.1239",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 185 da Constituição Federal torna insuscetível de desapropriação para fins de reforma agrária a pequena e média propriedade rural cujo proprietário não possua outra, com a definição do tamanho remetida à lei ordinária, enquanto o art. 1.239 do Código Civil disciplina a usucapião especial rural, exigindo área não superior a cinquenta hectares e ausência de outro imóvel para a aquisição da propriedade. Os dois dispositivos adotam critérios próprios de pequena propriedade rural para finalidades distintas, a imunidade expropriatória e a aquisição por posse prolongada, e não devem ser confundidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T12:50:04+00:00"
+ },
+ {
+  "de": "cf.187",
+  "para": "adct.50",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 50 do ADCT determina a edição, no prazo de um ano, de lei agrícola que discipline os objetivos e os instrumentos da política agrícola, as prioridades, o planejamento de safras, a comercialização, o abastecimento interno, o mercado externo e o crédito fundiário, detalhando dentro do mesmo regime constitucional de política agrícola os elementos de planejamento e execução já previstos no art. 187 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T12:50:04+00:00"
+ },
+ {
+  "de": "cf.188",
+  "para": "adct.51",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 188 da Constituição Federal exige aprovação prévia do Congresso Nacional para a alienação ou a concessão de terras públicas com área superior a dois mil e quinhentos hectares, enquanto o art. 51 do ADCT determinou a revisão, pelo Congresso Nacional, das doações, vendas e concessões de terras públicas com área superior a três mil hectares realizadas entre 1962 e 1987. Há risco de confundir os dois controles parlamentares sobre grandes extensões de terras públicas, pois têm natureza, prazo e área mínima distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T12:50:04+00:00"
+ },
+ {
+  "de": "cf.189",
+  "para": "cc.1240",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 189 da Constituição Federal determina que o título de domínio ou a concessão de uso na reforma agrária sejam conferidos ao homem ou à mulher, ou a ambos, independentemente do estado civil, e o § 1º do art. 1.240 do Código Civil repete a mesma regra para a usucapião especial urbana. Há risco de confundir as duas hipóteses, pois tratam de instrumentos de aquisição e titulação distintos, a distribuição de terras pela reforma agrária e a usucapião especial urbana, sujeitos a essa mesma cláusula de neutralidade de gênero e de estado civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T12:50:04+00:00"
  }
 ]
