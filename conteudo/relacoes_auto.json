@@ -48057,5 +48057,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T14:28:13+00:00"
+ },
+ {
+  "de": "adct.79",
+  "para": "cf.6",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 79 do ADCT institui o Fundo de Combate e Erradicação da Pobreza, cujos recursos financiam ações de nutrição, habitação, educação, saúde e reforço de renda familiar; o art. 6º da Constituição Federal elenca exatamente esses direitos sociais, entre eles a alimentação, a moradia, a educação e a saúde, e assegura, no parágrafo único, renda básica familiar ao brasileiro em situação de vulnerabilidade social, de modo que o Fundo complementa, com mecanismo próprio de financiamento, a efetivação desses mesmos direitos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:59:27+00:00"
+ },
+ {
+  "de": "cp.136",
+  "para": "cc.1638",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 136 do Código Penal tipifica como maus-tratos abusar de meios de correção ou disciplina ou privar de alimentação ou cuidados indispensáveis pessoa sob autoridade, guarda ou vigilância; os incisos I e II do art. 1.638 do Código Civil preveem a perda do poder familiar do pai ou da mãe que castigar imoderadamente o filho ou o deixar em abandono, de modo que a sanção civil complementa, na proteção da criança contra o abuso dos pais, a sanção penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:59:27+00:00"
+ },
+ {
+  "de": "lcp214.156",
+  "para": "cf.218",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 156 da LC 214/2025 reduz a zero as alíquotas do IBS e da CBS sobre os serviços de pesquisa e desenvolvimento prestados por Instituição Científica, Tecnológica e de Inovação sem fins lucrativos; esse benefício tributário complementa o dever do Estado de promover e incentivar o desenvolvimento científico, a pesquisa e a inovação previsto no art. 218 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:59:27+00:00"
  }
 ]
