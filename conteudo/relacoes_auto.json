@@ -48537,5 +48537,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T20:50:47+00:00"
+ },
+ {
+  "de": "lcp123.21-A",
+  "para": "l10522.1",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 21-A da LC 123/06 integra o mesmo regime do Cadin disciplinado pela Lei 10.522/02, cujo art. 1º estabelece que o cadastro passa a ser regulado por essa lei, e apenas acrescenta, para a microempresa e a empresa de pequeno porte, a exigência de notificação prévia com prazo para contestação antes da inscrição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T21:45:08+00:00"
+ },
+ {
+  "de": "lcp123.21-A",
+  "para": "l10522.2",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 21-A da LC 123/06 detalha, para a microempresa e a empresa de pequeno porte, uma garantia procedimental adicional (notificação prévia com prazo para contestação) à inscrição no Cadin cujas hipóteses gerais estão previstas nos incisos I a III do art. 2º da Lei 10.522/02.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T21:45:08+00:00"
+ },
+ {
+  "de": "l8987.41",
+  "para": "cf.222",
+  "tipo": "excepciona",
+  "grau": "contato",
+  "porque": "O art. 222 da Constituição Federal reserva a propriedade de empresa jornalística e de radiodifusão a brasileiros e a pessoas jurídicas constituídas sob as leis brasileiras, e o art. 41 da Lei 8.987/95 reconhece esse regime próprio ao excluir expressamente a concessão, a permissão e a autorização do serviço de radiodifusão sonora e de sons e imagens da disciplina geral das concessões de serviço público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T21:45:08+00:00"
+ },
+ {
+  "de": "lcp214.175",
+  "para": "cf.225",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 175 da LC 214/2025 regulamenta expressamente o inciso VIII do § 1º do art. 225 da Constituição Federal, assegurando aos biocombustíveis e ao hidrogênio de baixa emissão de carbono a tributação inferior à incidente sobre os combustíveis fósseis ali determinada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T21:45:08+00:00"
+ },
+ {
+  "de": "d9580.672",
+  "para": "cf.225",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 672 do RIR/2018 aplica, no âmbito tributário, o dever de sujeitar a sanções administrativas as condutas lesivas ao meio ambiente previsto no § 3º do art. 225 da Constituição Federal, ao sujeitar quem descumprir as medidas de preservação ou de correção da degradação ambiental à perda ou à restrição de benefícios fiscais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T21:45:08+00:00"
+ },
+ {
+  "de": "cc.1512",
+  "para": "cf.226",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.512 do CC reproduz, na legislação civil, a regra do § 1º do art. 226 da Constituição Federal, segundo a qual o casamento é civil e gratuita a sua celebração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T21:45:08+00:00"
+ },
+ {
+  "de": "cc.1515",
+  "para": "cf.226",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.515 do CC disciplina o efeito civil do casamento religioso previsto no § 2º do art. 226 da Constituição Federal, condicionando-o ao registro no registro próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T21:45:08+00:00"
+ },
+ {
+  "de": "cc.1723",
+  "para": "cf.226",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.723 do CC regulamenta o reconhecimento da união estável como entidade familiar previsto no § 3º do art. 226 da Constituição Federal, definindo os requisitos de convivência pública, contínua e duradoura.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T21:45:08+00:00"
+ },
+ {
+  "de": "cc.1726",
+  "para": "cf.226",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.726 do CC disciplina a conversão da união estável em casamento que o § 3º do art. 226 da Constituição Federal determina que a lei facilite, ao prever o pedido dos companheiros ao juiz e o assento no Registro Civil como via para essa conversão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T21:45:08+00:00"
+ },
+ {
+  "de": "cc.1571",
+  "para": "cf.226",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1.571 do CC regulamenta a dissolução do casamento civil pelo divórcio autorizada pelo § 6º do art. 226 da Constituição Federal, ao listar as hipóteses de término da sociedade conjugal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T21:45:08+00:00"
+ },
+ {
+  "de": "cc.1565",
+  "para": "cf.226",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 1.565 do CC reproduz a livre decisão do casal sobre o planejamento familiar e o dever do Estado de propiciar recursos educacionais e científicos para seu exercício, nos termos do § 7º do art. 226 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T21:45:08+00:00"
  }
 ]
