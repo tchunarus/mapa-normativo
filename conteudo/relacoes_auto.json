@@ -47947,5 +47947,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T13:44:41+00:00"
+ },
+ {
+  "de": "cp.273",
+  "para": "l8137.7",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 273 do Código Penal especializa, para produtos terapêuticos ou medicinais, a proteção genérica das relações de consumo contra mercadoria em desacordo com as prescrições oficiais prevista no art. 7º, II, da Lei 8.137/90, cominando pena substancialmente mais grave em razão do bem jurídico saúde pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:28:13+00:00"
+ },
+ {
+  "de": "cp.311-A",
+  "para": "cf.206",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 311-A do Código Penal pune o uso ou divulgação indevida de conteúdo sigiloso de concurso público e de processo seletivo para ingresso no ensino superior, especializando, na esfera penal, a proteção à igualdade de condições de acesso e ao ingresso por concurso de provas e títulos previstos no art. 206, I e V, da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:28:13+00:00"
+ },
+ {
+  "de": "lcp214.156",
+  "para": "cf.207",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 156 da Lei Complementar 214/2025 reduz a zero as alíquotas do IBS e da CBS sobre serviços de pesquisa e desenvolvimento prestados por Instituição Científica, Tecnológica e de Inovação sem fins lucrativos, complementando, por via tributária, a extensão às instituições de pesquisa científica e tecnológica do regime de autonomia previsto no art. 207 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:28:13+00:00"
+ },
+ {
+  "de": "clt.317",
+  "para": "cf.209",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 317 da CLT exige habilitação legal e registro no Ministério da Educação para o exercício remunerado do magistério em estabelecimentos particulares de ensino, especializando a condição de cumprimento das normas gerais da educação nacional exigida das instituições privadas pelo art. 209, I, da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:28:13+00:00"
+ },
+ {
+  "de": "lcp214.308",
+  "para": "cf.209",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 308 da Lei Complementar 214/2025 reduz a zero a alíquota da CBS sobre serviços de educação superior prestados por instituição privada aderente ao Programa Universidade para Todos (Prouni), complementando, por via tributária, o regime a que se sujeita o ensino livre à iniciativa privada nos termos do art. 209 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:28:13+00:00"
+ },
+ {
+  "de": "cp.246",
+  "para": "cf.208",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 246 do Código Penal pune quem deixa, sem justa causa, de prover a instrução primária de filho em idade escolar, complementando, no âmbito da responsabilidade familiar, a garantia de educação básica obrigatória e gratuita prevista no art. 208, I, da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:28:13+00:00"
+ },
+ {
+  "de": "d9580.491",
+  "para": "cf.208",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 491 do RIR/2018 institui regime especial de tributação para a construção ou reforma de estabelecimentos de educação infantil, complementando, mediante incentivo fiscal, a garantia de educação infantil em creche e pré-escola prevista no art. 208, IV, da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:28:13+00:00"
+ },
+ {
+  "de": "sc_icms_lei.1-A",
+  "para": "cf.208",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1º-A da Lei 10.297/96-SC isenta do ICMS a saída de gêneros alimentícios destinados à alimentação escolar nas redes de ensino, complementando o atendimento ao educando por meio de programas suplementares de alimentação previsto no art. 208, VII, da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:28:13+00:00"
+ },
+ {
+  "de": "adct.79",
+  "para": "cf.208",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 79 do ADCT institui o Fundo de Combate e Erradicação da Pobreza, cujos recursos se destinam a ações suplementares de nutrição, habitação, educação e saúde, aproximando-se dos programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde ao educando previstos no art. 208, VII, da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:28:13+00:00"
+ },
+ {
+  "de": "cp.136",
+  "para": "cf.208",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 136 do Código Penal pune quem expõe a perigo a vida ou a saúde de pessoa sob sua guarda para fim de educação ou ensino, privando-a de alimentação ou cuidados indispensáveis, complementando, pela via penal, a proteção da criança e do adolescente no contexto educacional a que se refere o art. 208 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:28:13+00:00"
+ },
+ {
+  "de": "cc.1634",
+  "para": "cf.208",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 1.634, I, do Código Civil atribui a ambos os pais o dever de dirigir a criação e a educação dos filhos, complementando, no âmbito da responsabilidade familiar, o dever do Estado com a educação previsto no art. 208 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T14:28:13+00:00"
  }
 ]
