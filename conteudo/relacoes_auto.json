@@ -48267,5 +48267,175 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T17:55:40+00:00"
+ },
+ {
+  "de": "l6019.2",
+  "para": "l8212.12",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 12, I, b, da Lei 8.212/91 qualifica como segurado empregado quem é contratado por empresa de trabalho temporário definida em legislação específica, remetendo diretamente ao conceito de trabalho temporário estabelecido no art. 2º da Lei 6.019/74.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "l6019.2",
+  "para": "l8213.11",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 11, I, b, da Lei 8.213/91 reproduz, para fins do Regime Geral de Previdência Social, a mesma remissão ao trabalho temporário definido em legislação específica que o art. 2º da Lei 6.019/74 disciplina.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "l6019.2",
+  "para": "l8212.31",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O art. 31 da Lei 8.212/91 menciona o regime de trabalho temporário como uma das modalidades de cessão de mão de obra sujeitas à retenção previdenciária, instituto cuja definição consta do art. 2º da Lei 6.019/74.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "l6019.2",
+  "para": "clt.443",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O trabalho temporário do art. 2º da Lei 6.019/74 e o trabalho intermitente previsto no art. 443 da CLT são regimes de contratação distintos, mas de frequente confusão prática, agravada pela proximidade terminológica entre temporário e os termos intermitente, periódica ou sazonal usados pelo §2º do art. 2º da Lei 6.019/74 para descrever a demanda complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "lcp123.64",
+  "para": "d9580.335",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 64 da LC 123/06 define inovação sem exigir natureza tecnológica, enquanto o §1º do art. 335 do RIR/2018 define inovação tecnológica em termos quase idênticos, mas restritos à dimensão tecnológica, o que gera risco de se aplicar a definição de um regime de incentivo ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "lcp123.64",
+  "para": "d9580.567",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 567 do RIR/2018 utiliza o conceito de Instituição Científica e Tecnológica remetendo à definição do inciso V do art. 2º da Lei 10.973/2004, diversa, embora próxima, da definição de ICT constante do inciso III do art. 64 da LC 123/06, o que pode levar à aplicação da definição equivocada conforme o regime de incentivo fiscal em questão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "lcp123.64",
+  "para": "cf.219-A",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "As figuras de agência de fomento e de instituição de apoio definidas nos incisos II e V do art. 64 da LC 123/06 dão concretude, no âmbito das microempresas e empresas de pequeno porte, aos instrumentos de cooperação entre entes públicos e entidades públicas e privadas para execução de projetos de pesquisa e inovação previstos no art. 219-A da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "lcp123.65",
+  "para": "d9580.565",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 565 do RIR/2018 concede incentivo fiscal à pessoa jurídica que transfere recursos a microempresas e empresas de pequeno porte para pesquisa e desenvolvimento de inovação tecnológica, mecanismo que detalha, do lado do benefício ao financiador, a meta de destinação mínima de 20% dos recursos de inovação às microempresas e empresas de pequeno porte fixada no §2º do art. 65 da LC 123/06.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "lcp123.65",
+  "para": "d9580.669",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso IV do art. 669 do RIR/2018 exclui as microempresas e empresas de pequeno porte optantes pelo Simples Nacional, regime da LC 123/06 cujos programas de apoio à inovação são disciplinados no art. 65, do benefício de dedução por pesquisa e inovação tecnológica, por já estarem sujeitas ao regime próprio e simplificado daquela lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "lcp123.65",
+  "para": "cf.219-A",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 65 da LC 123/06 concretiza, para as microempresas e empresas de pequeno porte, os instrumentos de cooperação entre a União, os Estados, o Distrito Federal, os Municípios e entidades públicas e privadas para execução de projetos de pesquisa e inovação previstos no art. 219-A da CF, ao impor às agências de fomento, às ICT, aos núcleos de inovação tecnológica e às instituições de apoio a manutenção de programas específicos para esse segmento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "cf.217",
+  "para": "d9580.675",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 675 do RIR/2018 regulamenta expressamente o inciso II do art. 217 da CF, ao condicionar isenções fiscais e repasses de recursos públicos federais às entidades do Sistema Nacional do Desporto que atendam aos requisitos ali previstos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "cf.217",
+  "para": "d9580.558",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 558 do RIR/2018 veda o uso dos recursos dos incentivos fiscais ao desporto para remuneração de atletas profissionais, concretizando a distinção entre desporto profissional e não profissional prevista no inciso III do art. 217 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "cf.217",
+  "para": "lcp214.141",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 141 da LC 214/2025 reduz em 60% as alíquotas do IBS e da CBS sobre o serviço de educação desportiva, instrumento tributário de fomento ao desporto educacional cuja promoção prioritária é determinada pelo inciso II do art. 217 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "cf.217",
+  "para": "floripa_ctm.494",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 494 do CTM de Florianópolis autoriza o abatimento, no pagamento de impostos municipais, do valor de doações, patrocínio ou investimentos que incentivem o desporto, concretizando no âmbito municipal o dever de fomento às práticas desportivas estabelecido no caput do art. 217 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "cf.219",
+  "para": "d9580.359",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O §1º do art. 359 do RIR/2018 estende o incentivo fiscal à pesquisa e ao desenvolvimento de inovação tecnológica aos dispêndios contratados com inventor independente, concretizando o estímulo à atuação dos inventores independentes previsto no parágrafo único do art. 219 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "cf.219",
+  "para": "lcp123.64",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 64 da LC 123/06 fornece a definição operacional de inovação para o regime de apoio às microempresas e empresas de pequeno porte, dando concretude ao estímulo à formação e ao fortalecimento da inovação nas empresas previsto no parágrafo único do art. 219 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
+ },
+ {
+  "de": "cf.219",
+  "para": "lcp123.65",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 65 da LC 123/06 impõe a manutenção de programas específicos de apoio à inovação para microempresas e empresas de pequeno porte, concretizando o estímulo do Estado à formação e ao fortalecimento da inovação nas empresas previsto no parágrafo único do art. 219 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T19:00:09+00:00"
  }
 ]
