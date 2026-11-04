@@ -48647,5 +48647,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T21:45:08+00:00"
+ },
+ {
+  "de": "cc.1571",
+  "para": "cpc.731",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 1.571 do Código Civil estabelece, entre as causas de término da sociedade conjugal, a separação judicial e o divórcio, e o art. 731 do CPC disciplina o procedimento de homologação judicial do divórcio e da separação consensuais, cuidando do rito que torna efetivas essas causas de dissolução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T22:46:35+00:00"
+ },
+ {
+  "de": "cc.1571",
+  "para": "cpc.53",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 1.571 do Código Civil elenca a separação judicial e o divórcio como causas de término da sociedade conjugal, e o inciso I do art. 53 do CPC fixa as regras de competência de foro para a ação de divórcio, separação e anulação de casamento, tratando do aspecto processual dessas mesmas causas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T22:46:35+00:00"
+ },
+ {
+  "de": "cc.1723",
+  "para": "cpc.693",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 1.723 do Código Civil reconhece a união estável como entidade familiar, e o art. 693 do CPC determina que as normas do capítulo sobre ações de família se aplicam aos processos de reconhecimento e extinção de união estável, cuidando do procedimento contencioso correspondente a esse instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T22:46:35+00:00"
+ },
+ {
+  "de": "l14973.20",
+  "para": "l10522.2",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 20 da Lei 14.973/24 deu nova redação ao art. 2º da Lei 10.522/02, inserindo os incisos III e IV que hoje preveem a inclusão no Cadin de devedores inscritos na dívida ativa de Estados, do Distrito Federal e dos Municípios e na dívida ativa de autarquias profissionais e conselhos de classe.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T22:46:35+00:00"
+ },
+ {
+  "de": "l10522.2",
+  "para": "lef.2",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 2º da Lei 10.522/02 prevê a inclusão no Cadin de pessoas inscritas na dívida ativa dos entes federados e de autarquias profissionais, e o art. 2º da LEF define o que se entende por dívida ativa da Fazenda Pública, conceito que a lei do Cadin pressupõe sem reproduzir.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T22:46:35+00:00"
  }
 ]
