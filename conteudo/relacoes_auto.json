@@ -47887,5 +47887,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T12:50:04+00:00"
+ },
+ {
+  "de": "adct.52",
+  "para": "cf.192",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 52 do ADCT veda, em caráter transitório, a instalação de novas agências de instituições financeiras estrangeiras e o aumento da participação estrangeira no capital de instituições financeiras sediadas no país até que sejam fixadas as condições do art. 192 da Constituição, ao qual remete expressamente, tratando ambos da participação do capital estrangeiro no sistema financeiro nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T13:44:41+00:00"
+ },
+ {
+  "de": "lcp105.1",
+  "para": "cf.192",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "A Lei Complementar 105/2001 regulamenta, quanto ao sigilo bancário, o sistema financeiro nacional a que se refere o art. 192 da Constituição, definindo como instituições financeiras sujeitas ao dever de sigilo os bancos, as cooperativas de crédito e demais entidades que a Constituição determina sejam reguladas por lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T13:44:41+00:00"
+ },
+ {
+  "de": "l8212.4",
+  "para": "cf.193",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 4º da Lei 8.212/91 especializa, no âmbito da assistência social, o objetivo de bem-estar social fixado de modo geral pelo art. 193 da Constituição como base da ordem social, definindo a assistência como política voltada à proteção da família, da maternidade, da infância, da adolescência, da velhice e da pessoa com deficiência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T13:44:41+00:00"
+ },
+ {
+  "de": "l8212.2",
+  "para": "cf.193",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 2º da Lei 8.212/91 especializa, no âmbito da saúde, o objetivo de bem-estar social fixado de modo geral pelo art. 193 da Constituição como base da ordem social, qualificando a saúde como direito de todos e dever do Estado, garantido por políticas sociais e econômicas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T13:44:41+00:00"
+ },
+ {
+  "de": "cp.273",
+  "para": "cf.200",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 273 do Código Penal tipifica a falsificação, corrupção, adulteração ou alteração de produtos terapêuticos ou medicinais, especializando, na esfera penal, a proteção aos produtos de interesse para a saúde cujo controle e fiscalização o art. 200, I, da Constituição atribui ao Sistema Único de Saúde.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T13:44:41+00:00"
+ },
+ {
+  "de": "cp.277",
+  "para": "cf.200",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 277 do Código Penal pune quem vende, expõe à venda, deposita ou cede substância destinada à falsificação de produtos alimentícios, terapêuticos ou medicinais, especializando, na esfera penal, a mesma finalidade protetiva de controle de produtos e alimentos de interesse para a saúde a que se referem os incisos I e VI do art. 200 da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T13:44:41+00:00"
  }
 ]
