@@ -47777,5 +47777,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T10:45:01+00:00"
+ },
+ {
+  "de": "lcp227.53",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 53 da LC 227/2026 fixa que, na instituição do órgão, a presidência do Conselho Superior do CGIBS cabe a representante do conjunto dos Estados e do Distrito Federal, dando a primeira aplicação concreta à alternância na presidência do Comitê Gestor que o § 2º, II, do art. 156-B da Constituição Federal remete à disciplina de lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T11:45:38+00:00"
+ },
+ {
+  "de": "cf.167-F",
+  "para": "adct.119",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 2º, II, do art. 167-F da Constituição Federal protege da utilização do superávit financeiro durante a calamidade pública de âmbito nacional as vinculações do art. 212, entre outras, mas o art. 119 do ADCT já havia dispensado os entes federados, exclusivamente nos exercícios de 2020 e 2021, da observância do caput desse mesmo art. 212 em razão da calamidade da pandemia da Covid-19. Há risco de confundir essa dispensa pontual e já encerrada com o regime permanente de calamidade pública de âmbito nacional a que se refere o art. 167-F.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T11:45:38+00:00"
+ },
+ {
+  "de": "cf.172",
+  "para": "d9580.667",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 172 da Constituição Federal atribui à lei a disciplina dos investimentos de capital estrangeiro, o incentivo aos reinvestimentos e a regulação da remessa de lucros. O art. 667 do RIR/2018, em seu § 1º, regulamenta essa remessa ao vedar a transferência ao exterior dos lucros gerados por investimentos com incentivos fiscais regionais, ressalvando a remuneração do investimento de capital estrangeiro devidamente autorizada e dentro dos limites da legislação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T11:45:38+00:00"
+ },
+ {
+  "de": "cf.174",
+  "para": "l13874.1",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 1º da Lei 13.874/19 institui a Declaração de Direitos de Liberdade Econômica expressamente com fundamento, entre outros dispositivos, no caput do art. 174 da Constituição Federal, que trata da atuação do Estado como agente normativo e regulador da atividade econômica, e detalha, em seu § 1º, como esses princípios orientam a interpretação do direito civil, empresarial, econômico, urbanístico e do trabalho.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T11:45:38+00:00"
  }
 ]
