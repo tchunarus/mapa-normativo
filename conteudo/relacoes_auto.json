@@ -48217,5 +48217,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T16:58:52+00:00"
+ },
+ {
+  "de": "cpp.78",
+  "para": "cp.288-A",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 78, I, do CPP afasta a competência do júri para homicídios cometidos por membros de grupo paramilitar ou milícia privada, categoria que o art. 288-A do Código Penal tipifica ao criminalizar a constituição, organização, integração, manutenção ou custeio dessas estruturas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T17:55:40+00:00"
+ },
+ {
+  "de": "lcp214.514",
+  "para": "d9580.185",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 514 da LC 214/2025 altera o art. 8º da Lei nº 11.096/2005 no dispositivo sobre a base de cálculo da isenção, mantendo a mesma redação que o art. 185 do RIR/2018 reproduz ao isentar do imposto sobre a renda a instituição privada de ensino superior aderente ao Prouni, quanto ao lucro das atividades de ensino superior em cursos de graduação ou sequenciais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T17:55:40+00:00"
+ },
+ {
+  "de": "d9580.537",
+  "para": "floripa_ctm.482",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 537 do RIR/2018 permite à pessoa jurídica tributada pelo lucro real deduzir do imposto sobre a renda federal as doações e os patrocínios destinados a projetos culturais aprovados pelo Pronac, regime federal que pode ser confundido com o incentivo fiscal municipal do art. 482 do CTM de Florianópolis, que concede créditos sobre o ISS e o IPTU para projetos culturais no Município, tratando-se de benefícios tributários distintos e cumuláveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T17:55:40+00:00"
+ },
+ {
+  "de": "d9580.564",
+  "para": "lcp123.64",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 564 do RIR/2018 define inovação tecnológica para fins do incentivo fiscal da Lei do Bem destinado às pessoas jurídicas tributadas pelo lucro real, com redação quase idêntica à definição de inovação do art. 64 da LC 123/2006, aplicável ao regime de apoio às microempresas e empresas de pequeno porte, o que pode levar a confundir os dois regimes de incentivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T17:55:40+00:00"
+ },
+ {
+  "de": "d9580.84",
+  "para": "floripa_ctm.482",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 84 do RIR/2018 permite à pessoa física deduzir do imposto sobre a renda as doações e os patrocínios destinados a projetos culturais amparados pelo Pronac, benefício federal que pode ser confundido com o incentivo fiscal municipal do art. 482 do CTM de Florianópolis, concedido também a pessoa física domiciliada no Município mediante certificados utilizáveis no pagamento do ISS e do IPTU.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T17:55:40+00:00"
  }
 ]
