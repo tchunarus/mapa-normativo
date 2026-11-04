@@ -48697,5 +48697,225 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T22:46:35+00:00"
+ },
+ {
+  "de": "cpc.53",
+  "para": "cc.70",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O foro de domicílio do réu previsto no art. 53 do CPC pressupõe o conceito de domicílio da pessoa natural definido pelo art. 70 do Código Civil, que é onde a pessoa estabelece residência com ânimo definitivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cpc.53",
+  "para": "cc.75",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O foro da sede da pessoa jurídica, referido na alínea a do inciso III do art. 53 do CPC, corresponde ao domicílio da pessoa jurídica definido pelo art. 75 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cpc.53",
+  "para": "cc.76",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O foro de domicílio do guardião do incapaz, referido na alínea a do inciso I do art. 53 do CPC, relaciona-se ao domicílio necessário do incapaz, atribuído pelo parágrafo único do art. 76 do Código Civil ao seu representante ou assistente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cpc.53",
+  "para": "l9099.4",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 4º da Lei 9.099/95 fixa, para os Juizados Especiais Cíveis, regra especial de competência territorial baseada no domicílio do réu e no local do ato ou fato, convivendo com os critérios gerais do art. 53 do CPC.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cpc.53",
+  "para": "cpp.72",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 72 do CPP fixa a competência penal pelo domicílio ou residência do réu, critério semelhante ao do art. 53 do CPC, mas aplicável apenas à ação penal, o que gera risco de confusão entre os dois regimes de competência territorial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cpc.53",
+  "para": "l8078.93",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 93 do CDC fixa competência própria para as ações coletivas de consumo pelo local do dano, determinando que se apliquem subsidiariamente as regras do Código de Processo Civil nos casos de competência concorrente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cpc.693",
+  "para": "cc.1571",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O capítulo de que trata o art. 693 do CPC disciplina o procedimento das ações de separação judicial e de divórcio, hipóteses de término da sociedade conjugal definidas pelo art. 1.571 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cpc.693",
+  "para": "cc.1580",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O procedimento contencioso regido pelo art. 693 do CPC aplica-se à ação de conversão da separação judicial em divórcio, cujos requisitos materiais estão fixados pelo art. 1.580 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cpc.693",
+  "para": "cc.1584",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "As ações de guarda mencionadas no art. 693 do CPC seguem o procedimento desse capítulo, mas a disciplina material da guarda unilateral ou compartilhada está prevista no art. 1.584 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cpc.693",
+  "para": "cc.1589",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "A ação de visitação referida no art. 693 do CPC tem por objeto o direito de visita definido pelo art. 1.589 do Código Civil, que o estende também aos avós a critério do juiz.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "l14973.20",
+  "para": "l10522.4",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 20 da Lei 14.973/24 alterou o art. 4º da Lei 10.522/02, fixando em sessenta dias a validade da dispensa de certidões para microempresas e empresas de pequeno porte, prevista nesse artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "l14973.20",
+  "para": "l10522.6-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 20 da Lei 14.973/24 introduziu o art. 6º-A na Lei 10.522/02, que trata a existência de registro no Cadin como fator impeditivo para os atos de consulta prévia referidos no art. 6º dessa lei.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "l14973.20",
+  "para": "l10522.7-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 20 da Lei 14.973/24 introduziu o art. 7º-A na Lei 10.522/02, autorizando a Procuradoria-Geral da Fazenda Nacional a suspender prazos do Cadin em favor de pessoas atingidas por calamidade pública.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "lcp214.175",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O § 6º, inciso I, do art. 156-A da Constituição remete à lei complementar a disciplina do regime específico do IBS sobre combustíveis, regime dentro do qual o art. 175 da LC 214/2025 fixa o diferencial de tributação para os biocombustíveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "lcp214.175",
+  "para": "lcp227.178",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 178 da LC 227/2026 altera a tributação monofásica de ICMS sobre gasolina e diesel prevista na LC 192/2022, regime distinto do diferencial de IBS e CBS para biocombustíveis tratado no art. 175 da LC 214/2025, podendo ambos ser confundidos por versarem sobre tributação de combustíveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "lcp214.175",
+  "para": "lcp87.32-A",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 32-A da LC 87/96 trata de alíquotas reduzidas de ICMS para combustíveis no regime estadual anterior à reforma, tema próximo mas distinto do diferencial de IBS e CBS para biocombustíveis fixado pelo art. 175 da LC 214/2025.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cf.232",
+  "para": "cpc.176",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 232 da Constituição impõe a intervenção do Ministério Público em todos os atos do processo movido pelos índios, e o art. 176 do CPC fixa a função geral desse órgão de atuar na defesa da ordem jurídica e dos direitos individuais indisponíveis.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cf.232",
+  "para": "l7347.21",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "A legitimidade dos índios e de suas comunidades para a defesa judicial de seus direitos, prevista no art. 232 da Constituição, é regra especial de legitimação coletiva dentro do sistema geral de tutela de interesses difusos e coletivos a que remete o art. 21 da Lei 7.347/85.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cf.232",
+  "para": "l8078.82",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "Enquanto o art. 82 do CDC relaciona os legitimados concorrentes padrão para a tutela coletiva, o art. 232 da Constituição confere legitimidade própria e específica aos índios, suas comunidades e organizações para defender seus direitos e interesses.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cf.232",
+  "para": "cpc.179",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 179 do CPC detalha os poderes processuais do Ministério Público como fiscal da ordem jurídica, exercidos quando intervém, por força do art. 232 da Constituição, em todos os atos dos processos movidos pelos índios ou suas comunidades.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cf.235",
+  "para": "adct.13",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 13 do ADCT cria concretamente o Estado do Tocantins, situação à qual se aplicam as normas de transição dos dez primeiros anos fixadas pelo art. 235 da Constituição quanto ao número de parlamentares, secretarias e órgãos judiciários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "cf.235",
+  "para": "adct.89",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso IX do art. 235 da Constituição disciplina de forma geral a transferência de encargos financeiros da União ao Estado proveniente de Território Federal, e o art. 89 do ADCT trata, no mesmo contexto da transformação de Rondônia em Estado, do destino do quadro de pessoal do antigo Território.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T23:44:53+00:00"
  }
 ]
