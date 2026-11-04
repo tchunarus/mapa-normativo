@@ -47427,5 +47427,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-03T23:27:42+00:00"
+ },
+ {
+  "de": "cf.144",
+  "para": "l14967.5",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 144 da Constituição Federal define os órgãos de segurança pública, e o art. 5º da Lei 14.967/24 remete a essa atribuição ao prever que a prestação de serviços de segurança privada ocorre sem prejuízo das atribuições das Forças Armadas, dos órgãos de segurança pública e do sistema prisional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T00:30:02+00:00"
+ },
+ {
+  "de": "cf.149-B",
+  "para": "lcp214.307",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 149-B, III, da Constituição Federal determina que o IBS e a CBS observem as mesmas regras quanto aos regimes específicos, diferenciados ou favorecidos de tributação, e o art. 307 da Lei Complementar 214/2025 regulamenta essa uniformização ao determinar a aplicação das normas gerais de incidência de ambos os tributos aos regimes específicos não disciplinados de modo próprio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T00:30:02+00:00"
+ },
+ {
+  "de": "cf.149-B",
+  "para": "adct.130",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 149-B da Constituição Federal determina tratamento uniforme entre o IBS e a CBS quanto a diversos aspectos de incidência, e o art. 130 do Ato das Disposições Constitucionais Transitórias complementa esse regime de equivalência ao atribuir à Resolução do Senado Federal a fixação conjunta das alíquotas de referência de ambos os tributos previstos nos arts. 156-A e 195, V.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T00:30:02+00:00"
+ },
+ {
+  "de": "cf.149-B",
+  "para": "lcp214.42",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 149-B, IV, da Constituição Federal exige que o IBS e a CBS observem as mesmas regras de não cumulatividade e de creditamento, e o art. 42 da Lei Complementar 214/2025 regulamenta essa exigência ao determinar que a apuração e o pagamento de ambos os tributos sejam consolidados e centralizados para cada contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T00:30:02+00:00"
  }
 ]
