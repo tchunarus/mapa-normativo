@@ -48487,5 +48487,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T19:56:24+00:00"
+ },
+ {
+  "de": "floripa_ctm.494",
+  "para": "d9580.557",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 494 do CTM de Florianópolis permite abater até 4% do imposto municipal devido o valor de doações, patrocínio ou investimento que incentivem o desporto, enquanto o art. 557 do RIR/2018 permite deduzir até 1% do imposto de renda devido o valor de patrocínio ou doação a projetos desportivos e paradesportivos aprovados pelo Ministério do Esporte. Tratam de institutos conexos de incentivo fiscal ao desporto, aplicáveis a tributos e entes federativos distintos, e podem ser confundidos por quem busca o benefício fiscal ao patrocínio esportivo sem atentar para qual ente e tributo cada um alcança.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T20:50:47+00:00"
+ },
+ {
+  "de": "lcp123.21-A",
+  "para": "l10522.6",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 21-A da LC 123/2006 estabelece regra especial para microempresas e empresas de pequeno porte quanto à inscrição no Cadin, exigindo notificação prévia com prazo para contestação, enquanto o art. 6º da Lei 10.522/2002 impõe à Administração Pública Federal a consulta prévia obrigatória ao Cadin antes de operações de crédito, incentivos fiscais e convênios com desembolso de recursos públicos. Cuidam do mesmo instituto, o cadastro de inadimplentes do setor público federal, mas o dispositivo da LC 123/2006 condiciona de forma mais protetiva a inclusão do pequeno empresário nesse cadastro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T20:50:47+00:00"
+ },
+ {
+  "de": "l8212.12",
+  "para": "l8213.11",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 12 da Lei 8.212/1991 e o art. 11 da Lei 8.213/1991 definem, em termos praticamente idênticos, o rol dos segurados obrigatórios da Previdência Social, um na lei de custeio e outro na lei de benefícios do Regime Geral de Previdência Social. Tratam do mesmo instituto e, por integrarem leis distintas nem sempre atualizadas de modo sincronizado ao longo das reformas previdenciárias, há risco real de se consultar apenas um dos dispositivos e ignorar eventual divergência introduzida no outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T20:50:47+00:00"
+ },
+ {
+  "de": "lcp123.65",
+  "para": "cf.219-B",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 65 da LC 123/2006 impõe à União, aos Estados, ao Distrito Federal e aos Municípios, bem como às respectivas agências de fomento, instituições científicas e tecnológicas e núcleos de inovação tecnológica, o dever de manter programas específicos de apoio à inovação para microempresas e empresas de pequeno porte. O dispositivo concretiza, quanto a esse segmento empresarial, o regime de colaboração entre entes federados para o Sistema Nacional de Ciência, Tecnologia e Inovação previsto no art. 219-B da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T20:50:47+00:00"
+ },
+ {
+  "de": "cp.359-T",
+  "para": "cf.220",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 359-T do Código Penal exclui a tipicidade da manifestação crítica aos poderes constitucionais e da atividade jornalística exercida dentro dos limites constitucionais, dando efetividade penal à liberdade de manifestação do pensamento, de informação e de atividade jornalística assegurada pelo art. 220 da Constituição, que veda restrições a esses direitos e qualquer censura de natureza política ou ideológica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T20:50:47+00:00"
  }
 ]
