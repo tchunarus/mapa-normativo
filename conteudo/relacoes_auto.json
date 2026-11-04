@@ -47517,5 +47517,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T00:53:48+00:00"
+ },
+ {
+  "de": "l14967.5",
+  "para": "cf.142",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O caput do art. 5º da Lei 14.967/24 ressalva que a disciplina dos serviços de segurança privada não prejudica as atribuições das Forças Armadas, previstas no art. 142 da Constituição Federal. A ressalva expressa confirma o risco de confusão entre a atuação de segurança privada e a atuação das Forças Armadas na defesa da Pátria e da ordem, tratando-se, porém, de institutos conexos e distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T06:55:34+00:00"
+ },
+ {
+  "de": "l14967.5",
+  "para": "cp.183-A",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 183-A do Código Penal aumenta a pena dos crimes cometidos contra os prestadores de serviço de segurança privada, de que trata o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras, remetendo à Lei 14.967/24, cujo art. 5º é o dispositivo que define quais serviços caracterizam a segurança privada para os fins dessa lei. A majorante penal depende, assim, da definição do art. 5º para identificar o sujeito passivo qualificado, tratando-se de institutos conexos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T06:55:34+00:00"
+ },
+ {
+  "de": "lcp214.42",
+  "para": "sc_icms_lei.32",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 42 da LC 214/2025 institui a apuração consolidada obrigatória do IBS e da CBS entre todos os estabelecimentos do contribuinte, com pagamento centralizado em um único estabelecimento (§ 1º). O § 1º do art. 32 da Lei 10.297/96-SC assegura ao contribuinte, para o ICMS, a apuração do imposto levando em conta o conjunto dos débitos e créditos de todos os seus estabelecimentos no Estado. Trata-se do mesmo instituto de apuração consolidada por estabelecimentos, com risco real de confusão entre os regimes de ICMS e de IBS durante a coexistência dos dois tributos no período de transição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T06:55:34+00:00"
+ },
+ {
+  "de": "lcp214.42",
+  "para": "sc_ricms.55",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 55 do RICMS-SC detalha a apuração consolidada do ICMS entre estabelecimentos, com transferência do saldo credor ou devedor ao estabelecimento centralizador, de modo equivalente ao que o § 1º do art. 42 da LC 214/2025 determina para o IBS e a CBS ao centralizar em um único estabelecimento o pagamento e o pedido de ressarcimento. Por regularem o mesmo instituto para tributos que coexistirão durante a transição para o IBS, há risco real de confusão entre os dois regimes de centralização.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T06:55:34+00:00"
+ },
+ {
+  "de": "cf.164-A",
+  "para": "lcp214.535",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 164-A da Constituição Federal remete, para a sustentabilidade da dívida pública, à lei complementar referida no inciso VIII do caput do art. 163, que é a Lei Complementar nº 101, de 4 de maio de 2000. O art. 535 da LC 214/2025 altera precisamente essa lei complementar, dando concretude, no ponto alterado, ao arcabouço normativo a que o art. 164-A se reporta.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T06:55:34+00:00"
+ },
+ {
+  "de": "cf.165",
+  "para": "adct.35",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 35 do ADCT dispõe expressamente que o disposto no art. 165, § 7º, será cumprido de forma progressiva, no prazo de até dez anos, fixando o procedimento transitório de redução das desigualdades inter-regionais que o § 7º do art. 165 da Constituição Federal atribui aos orçamentos ali previstos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T06:55:34+00:00"
+ },
+ {
+  "de": "cf.165",
+  "para": "lcp227.41",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 165 da Constituição Federal determina que o Poder Executivo publique, até trinta dias após o encerramento de cada bimestre, relatório resumido da execução orçamentária. O art. 41 da LC 227/2026 complementa esse mesmo instituto ao estender, com idêntico prazo de trinta dias após o encerramento de cada bimestre, a elaboração do relatório resumido da execução orçamentária ao CGIBS, adaptado às suas especificidades.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T06:55:34+00:00"
+ },
+ {
+  "de": "cf.166",
+  "para": "lcp227.52",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 166 da Constituição Federal submete os projetos de lei orçamentária à apreciação das duas Casas do Congresso Nacional. O § 1º do art. 52 da LC 227/2026 excepciona esse procedimento geral para o orçamento do CGIBS entre 2026 e 2028, que é proposto pelo Conselho Superior do CGIBS e aprovado internamente nos termos do art. 47 da mesma lei, sem passar pelo processo legislativo orçamentário do art. 166.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T06:55:34+00:00"
  }
 ]
