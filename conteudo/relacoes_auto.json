@@ -48087,5 +48087,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T14:59:27+00:00"
+ },
+ {
+  "de": "cf.243",
+  "para": "d9580.131",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 243 da Constituição prevê a expropriação sem indenização de imóveis onde se localizem culturas ilegais de plantas psicotrópicas ou exploração de trabalho escravo, enquanto o art. 131 do RIR trata da desapropriação por interesse social para reforma agrária, com indenização, nos termos do art. 184, § 5º, da Constituição; há risco de se tratar as duas espécies de desapropriação como equivalentes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T16:39:30+00:00"
+ },
+ {
+  "de": "cf.9",
+  "para": "l6019.2",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 2º da Lei 6.019/74 veda a contratação de trabalho temporário para substituir trabalhadores em greve, dando eficácia prática ao direito de greve assegurado pelo art. 9º da Constituição, ao impedir que o empregador esvazie o movimento grevista com mão de obra temporária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T16:39:30+00:00"
+ },
+ {
+  "de": "cpp.313",
+  "para": "cp.288-A",
+  "tipo": "procedimento_de",
+  "grau": "conexo",
+  "porque": "O art. 288-A do Código Penal tipifica a constituição ou integração de organização paramilitar, milícia particular, grupo ou esquadrão, conduta que corresponde à hipótese do inciso V do art. 313 do Código de Processo Penal, que admite a prisão preventiva quando o crime for cometido por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T16:39:30+00:00"
  }
 ]
