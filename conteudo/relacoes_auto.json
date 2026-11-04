@@ -48117,5 +48117,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T16:39:30+00:00"
+ },
+ {
+  "de": "cf.218",
+  "para": "d9580.564",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 564 do RIR/2018 concede às empresas incentivos fiscais sobre os dispêndios com pesquisa tecnológica e desenvolvimento de inovação tecnológica, concretizando o dever de apoio e estímulo às empresas que invistam em pesquisa previsto no § 4º do art. 218 da CF. O dispositivo constitucional estabelece o princípio geral de fomento, enquanto o RIR disciplina o mecanismo tributário específico de dedução e depreciação acelerada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T16:58:52+00:00"
+ },
+ {
+  "de": "cf.218",
+  "para": "lcp123.65",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 65 da LC 123/06 determina que a União, os Estados, o Distrito Federal e os Municípios, suas agências de fomento, as instituições científicas e tecnológicas e os núcleos de inovação tecnológica mantenham programas específicos de apoio à inovação para microempresas e empresas de pequeno porte. O dispositivo concretiza, nesse recorte, o dever de formação de recursos humanos e de estímulo às empresas que invistam em pesquisa e inovação previsto nos §§ 3º e 4º do art. 218 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T16:58:52+00:00"
+ },
+ {
+  "de": "lcp214.308",
+  "para": "d9580.185",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 185 do RIR/2018 isenta do imposto sobre a renda as instituições privadas de ensino superior que aderirem ao Prouni, enquanto o art. 308 da LC 214/2025 reduz a zero a alíquota da CBS sobre os serviços de ensino superior prestados pelas mesmas instituições aderentes ao Prouni. Os dois dispositivos integram o mesmo regime de desoneração tributária federal vinculado à adesão ao Prouni, cada um disciplinando um tributo distinto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T16:58:52+00:00"
+ },
+ {
+  "de": "sc_icms_lei.1-A",
+  "para": "sc_ricms.35",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O caput do art. 35 do RICMS-SC veda, como regra geral, o crédito do ICMS relativo a mercadoria cuja saída seja isenta ou não tributada. Os incisos II, alínea b, e IV do art. 1º-A da Lei 10.297/96-SC excepcionam essa regra ao dispensar expressamente o estorno de crédito em hipóteses específicas de isenção, respectivamente para lojas francas e para o medicamento Zolgensma.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T16:58:52+00:00"
+ },
+ {
+  "de": "cf.213",
+  "para": "lcp214.156",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 156 da LC 214/2025 reduz a zero as alíquotas do IBS e da CBS incidentes sobre os serviços de pesquisa e desenvolvimento prestados por Instituição Científica, Tecnológica e de Inovação sem fins lucrativos, dando concretude ao apoio financeiro do Poder Público às atividades de pesquisa e de fomento à inovação referidas no § 2º do art. 213 da CF. O dispositivo constitucional autoriza o apoio financeiro em termos gerais, e a lei complementar o realiza por meio de desoneração tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T16:58:52+00:00"
+ },
+ {
+  "de": "cf.215",
+  "para": "d9580.537",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 537 do RIR/2018 permite à pessoa jurídica tributada pelo lucro real deduzir do imposto sobre a renda as doações e os patrocínios destinados a projetos culturais aprovados no âmbito do Pronac, instrumento pelo qual o Poder Público concretiza o dever de apoiar e incentivar a valorização e a difusão das manifestações culturais previsto no caput do art. 215 da CF. A CF fixa o dever genérico de incentivo à cultura, e o RIR disciplina o mecanismo fiscal específico de dedução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T16:58:52+00:00"
+ },
+ {
+  "de": "cf.215",
+  "para": "d9580.84",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 84 do RIR/2018 permite à pessoa física deduzir do imposto sobre a renda as doações e os patrocínios destinados a projetos culturais enquadrados no Pronac, complementando para o contribuinte pessoa física o mesmo mecanismo de incentivo fiscal à cultura previsto para a pessoa jurídica no art. 537, e concretizando o dever de apoio e incentivo às manifestações culturais do caput do art. 215 da CF.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T16:58:52+00:00"
+ },
+ {
+  "de": "cf.216",
+  "para": "cp.165",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 165 do CP tipifica como crime destruir, inutilizar ou deteriorar coisa tombada pela autoridade competente em razão de valor artístico, arqueológico ou histórico, dando cumprimento à determinação do § 4º do art. 216 da CF de que os danos e as ameaças ao patrimônio cultural sejam punidos na forma da lei. O bem protegido pelo tipo penal é exatamente o patrimônio cultural tombado a que se refere o § 1º do mesmo artigo constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T16:58:52+00:00"
+ },
+ {
+  "de": "cf.216",
+  "para": "floripa_ctm.482",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 482 do CTM de Florianópolis institui, no âmbito do Município, incentivo fiscal para a realização de projetos culturais, concedido mediante certificados utilizáveis no pagamento de impostos municipais. O dispositivo concretiza, na esfera municipal, o comando do § 3º do art. 216 da CF, segundo o qual a lei estabelecerá incentivos para a produção e o conhecimento de bens e valores culturais.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T16:58:52+00:00"
+ },
+ {
+  "de": "cf.216",
+  "para": "d9580.817",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 817 do RIR/2018 disciplina a tributação na fonte dos rendimentos distribuídos pelos Fundos de Investimento Cultural e Artístico, instrumento de captação de recursos privados para a produção cultural instituído no âmbito do Pronac. O dispositivo regula um dos mecanismos de incentivo à produção de bens e valores culturais a que se refere o § 3º do art. 216 da CF, ainda que apenas quanto ao seu regime tributário.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T16:58:52+00:00"
  }
 ]
