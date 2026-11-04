@@ -47597,5 +47597,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T06:55:34+00:00"
+ },
+ {
+  "de": "adct.35",
+  "para": "cf.166",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 2º do art. 35 do ADCT fixa prazos específicos de encaminhamento e devolução dos projetos de plano plurianual, de diretrizes orçamentárias e de orçamento anual enquanto não editada a lei complementar do art. 165, § 9º, detalhando, nesse período de transição, o procedimento de apreciação desses projetos que o art. 166 da Constituição Federal disciplina de forma geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T09:47:32+00:00"
+ },
+ {
+  "de": "cp.183-A",
+  "para": "l14967.69",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 69 da Lei 14.967/24 é o dispositivo que acrescentou o art. 183-A ao Código Penal, de modo que a redação vigente deste artigo decorre diretamente daquela alteração legislativa.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T09:47:32+00:00"
+ },
+ {
+  "de": "cp.183-A",
+  "para": "l14967.1",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 183-A do Código Penal qualifica os sujeitos passivos da majorante por remissão aos prestadores de serviço de segurança privada de que trata o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras, instituído pelo art. 1º da Lei 14.967/24.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T09:47:32+00:00"
+ },
+ {
+  "de": "cp.183-A",
+  "para": "l14967.12",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 183-A do Código Penal emprega a expressão prestadores de serviço de segurança privada sem a definir, e é o art. 12 da Lei 14.967/24 que detalha quais pessoas jurídicas se enquadram nessa categoria para fins da aplicação da majorante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T09:47:32+00:00"
+ },
+ {
+  "de": "lcp214.535",
+  "para": "ec132.15",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 535 da LC 214/2025 exclui da receita corrente líquida, para fins da Lei de Responsabilidade Fiscal, os valores entregues aos Estados e ao Distrito Federal pelo Fundo do art. 159-A da Constituição, enquanto o art. 15 da Emenda Constitucional 132/2023 exclui os mesmos valores das bases de cálculo e dos limites de despesa da lei complementar do art. 6º da Emenda Constitucional 126/2022, o que gera risco de confusão entre os dois regimes distintos de exclusão fiscal aplicáveis ao mesmo Fundo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T09:47:32+00:00"
+ },
+ {
+  "de": "lcp227.52",
+  "para": "cf.167",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O § 6º do art. 52 da LC 227/2026 afasta expressamente, quanto aos recursos do financiamento da União ao CGIBS, a vedação do inciso X do caput do art. 167 da Constituição Federal e declara atendido o disposto no inciso III do mesmo caput, criando exceção pontual às vedações orçamentárias gerais daquele artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T09:47:32+00:00"
+ },
+ {
+  "de": "lcp227.52",
+  "para": "lcp214.484",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O caput do art. 52 da LC 227/2026 define o orçamento do CGIBS para os exercícios de 2025 a 2028 a partir dos montantes previstos no art. 484 da LC 214/2025, que fixa o valor custeado pela União a título de aporte inicial, remetendo diretamente a esse dispositivo para compor a base orçamentária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T09:47:32+00:00"
+ },
+ {
+  "de": "lcp227.52",
+  "para": "ec132.14",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O § 6º do art. 52 da LC 227/2026 detalha o uso dos recursos do financiamento da União ao CGIBS previsto no art. 14 da Emenda Constitucional 132/2023, autorizando seu emprego em despesas correntes, inclusive de pessoal, e em despesas de capital, dentro do mesmo regime de custeio da instalação do órgão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T09:47:32+00:00"
+ },
+ {
+  "de": "lcp227.52",
+  "para": "lcp214.483",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O § 3º do art. 52 da LC 227/2026 atribui ao Conselho Superior do CGIBS, instituído pelo art. 483 da LC 214/2025, a competência para aprovar a proposta orçamentária de 2025, articulando-se com o custeio provisório pelos entes de origem previsto no § 2º do mesmo art. 483 até o aporte da União de que trata o art. 484.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T09:47:32+00:00"
+ },
+ {
+  "de": "sc_ricms.55",
+  "para": "sc_icms_lei.32",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 32, § 1º, da Lei 10.297/96-SC assegura ao sujeito passivo, na forma prevista em regulamento, a apuração do ICMS considerando o conjunto dos débitos e créditos de todos os seus estabelecimentos no Estado, e o art. 55 do RICMS-SC regulamenta essa apuração consolidada, definindo a transferência dos saldos credor ou devedor ao estabelecimento centralizador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T09:47:32+00:00"
+ },
+ {
+  "de": "sc_ricms.55",
+  "para": "lcp87.25",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 25 da LC 87/96 fixa a regra geral de compensação dos saldos credores e devedores entre estabelecimentos do mesmo sujeito passivo no Estado, e o art. 55 do RICMS-SC detalha, para o ICMS catarinense, o mecanismo concreto dessa compensação por meio do estabelecimento centralizador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T09:47:32+00:00"
+ },
+ {
+  "de": "sc_ricms.55",
+  "para": "lcp214.431",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Ambos tratam de apuração consolidada entre estabelecimentos do mesmo contribuinte, mas o art. 431 da LC 214/2025 disciplina apenas o Imposto Seletivo, de forma genérica e sem o detalhamento de saldo credor ou devedor nem a figura do estabelecimento centralizador prevista nos parágrafos do art. 55 do RICMS-SC para o ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T09:47:32+00:00"
+ },
+ {
+  "de": "cf.167-A",
+  "para": "adct.38",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 38 do ADCT impõe limite de sessenta e cinco por cento das receitas correntes para a despesa de pessoal da União, dos Estados, do Distrito Federal e dos Municípios, com vedações de criação de cargos e de aumento de despesa enquanto perdurar o excesso, e o art. 167-A da Constituição Federal cria, para Estados, Distrito Federal e Municípios, mecanismo distinto de ajuste fiscal, acionado quando a despesa corrente total supera noventa e cinco por cento da receita corrente, com vedações mais amplas, de modo que há risco real de confusão sobre qual limite e qual conjunto de vedações incide sobre um mesmo ente em dificuldade fiscal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-04T09:47:32+00:00"
  }
 ]
