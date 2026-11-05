@@ -50247,5 +50247,25 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T22:55:22+00:00"
+ },
+ {
+  "de": "lcp214.96",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 156-A da Constituição Federal autoriza a lei complementar a definir como sujeito passivo do imposto a pessoa que concorrer para a realização, a execução ou o pagamento da operação, ainda que residente ou domiciliada no exterior, e o art. 96 da LC 214/2025 exerce exatamente essa autorização ao atribuir à plataforma digital domiciliada no exterior a responsabilidade pelo pagamento do IBS e da CBS relativos aos bens materiais objeto de remessa internacional intermediada por ela.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T23:54:29+00:00"
+ },
+ {
+  "de": "lcp214.98-B",
+  "para": "lcp227.98-B",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 98-B da LC 227/2026 é o dispositivo que insere este mesmo art. 98-B na LC 214/2025, com redação idêntica, convertendo em alíquota zero a suspensão do pagamento do IBS e da CBS decorrente de regime aduaneiro especial quando o bem material for destruído sob controle aduaneiro e às expensas do interessado, como providência para a extinção do regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T23:54:29+00:00"
  }
 ]
