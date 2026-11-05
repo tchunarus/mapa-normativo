@@ -49547,5 +49547,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T12:50:24+00:00"
+ },
+ {
+  "de": "floripa_ctm.273",
+  "para": "sc_icms_lei.44",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 273 do CTM de Florianópolis e o art. 44 da Lei 10.297/96-SC reproduzem a mesma estrutura normativa, com obrigação de inscrição cadastral e exigência de inscrição independente por estabelecimento no parágrafo único, mas instituem cadastros distintos, o municipal de contribuintes do ISS e o estadual de contribuintes do ICMS, o que gera risco de confusão sobre qual inscrição é exigida de cada contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T13:47:43+00:00"
+ },
+ {
+  "de": "floripa_ctm.273",
+  "para": "lcp214.59",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 273 do CTM de Florianópolis exige inscrição no Cadastro Municipal de Contribuintes para o ISS, enquanto o art. 59 da LC 214/2025 cria registro único baseado no CPF e no CNPJ para o IBS e a CBS, o que pode levar o contribuinte a presumir, de forma equivocada, que a inscrição federal unificada dispensa o cadastro municipal próprio do imposto sobre serviços.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T13:47:43+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "lcp214.31",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 174 da LC 227/2026 deu nova redação ao art. 31 da LC 214/2025, que passou a conter a definição de originador da transação de pagamento e das transações iniciadas pelo pagador ou pelo recebedor, mantendo a obrigação de segregação e recolhimento do IBS e da CBS pelos prestadores de serviços de pagamento eletrônico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T13:47:43+00:00"
+ },
+ {
+  "de": "lcp227.471-D",
+  "para": "lcp214.31",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 31 da LC 214/2025 impõe aos prestadores de serviços de pagamento eletrônico e às instituições operadoras de sistemas de pagamento o dever de segregar e recolher o IBS e a CBS no momento da liquidação financeira da transação, e o art. 471-D da LC 227/2026 complementa esse regime ao cominar penalidades administrativas específicas para o descumprimento dessas mesmas obrigações de segregação e recolhimento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T13:47:43+00:00"
+ },
+ {
+  "de": "lcp214.31",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 156-B da Constituição Federal atribui ao Comitê Gestor do IBS a competência para arrecadar o imposto e efetuar as compensações devidas, e o art. 31 da LC 214/2025 regulamenta essa competência ao criar o mecanismo do split payment, pelo qual os prestadores de serviços de pagamento segregam e recolhem o IBS e a CBS diretamente ao Comitê Gestor e à RFB.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T13:47:43+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "lcp214.33",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 174 da LC 227/2026 deu nova redação a dispositivos do art. 33 da LC 214/2025, alterando as regras sobre o destino dos valores do IBS e da CBS recolhidos pelo procedimento simplificado do split payment e sobre o prazo de repasse ao fornecedor pelo Comitê Gestor do IBS e pela RFB.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T13:47:43+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "lcp214.34",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 174 da LC 227/2026 deu nova redação ao inciso V do art. 34 da LC 214/2025, que especifica que os prestadores de serviços de pagamento e as instituições operadoras de sistemas de pagamento respondem pela segregação e pelo recolhimento do IBS e da CBS nos termos da subseção do split payment.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T13:47:43+00:00"
+ },
+ {
+  "de": "lcp227.32",
+  "para": "lcp214.36",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 36 da LC 214/2025 atribui ao Comitê Gestor do IBS e à RFB o dever de estabelecer mecanismo para acompanhamento, pelo fornecedor, do recolhimento do imposto pelo adquirente, e o inciso IV do art. 32 da LC 227/2026 complementa esse regime ao atribuir especificamente à Diretoria de Arrecadação e Cobrança a competência para estabelecer, em conjunto com a RFB, esse mesmo mecanismo de acompanhamento.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T13:47:43+00:00"
+ },
+ {
+  "de": "lcp214.38",
+  "para": "ctn.166",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso II do art. 38 da LC 214/2025 condiciona a restituição do IBS e da CBS pago indevidamente à observância do art. 166 do Código Tributário Nacional, que exige prova de que o contribuinte assumiu o encargo financeiro do tributo, ou está por quem o suportou expressamente autorizado a recebê-la, regra típica de tributos que comportam repercussão econômica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T13:47:43+00:00"
  }
 ]
