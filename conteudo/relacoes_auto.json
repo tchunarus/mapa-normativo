@@ -49217,5 +49217,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T07:16:39+00:00"
+ },
+ {
+  "de": "cc.215",
+  "para": "cpc.733",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 215 do CC fixa os requisitos gerais da escritura pública lavrada por tabelião, enquanto o art. 733 do CPC trata de uma escritura pública específica, a do divórcio e da separação consensuais, exigindo ainda a assistência das partes por advogado ou defensor público, requisito adicional ao regime geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T09:44:01+00:00"
+ },
+ {
+  "de": "cc.215",
+  "para": "cpc.610",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 610 do CPC permite que o inventário e a partilha consensuais, quando todos os interessados forem capazes e concordes, sejam feitos por escritura pública, aplicando a essa modalidade específica o regime geral de fé pública e forma do art. 215 do CC, acrescido da exigência de assistência por advogado ou defensor público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T09:44:01+00:00"
+ },
+ {
+  "de": "cc.215",
+  "para": "cpc.405",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "Os dois dispositivos tratam da força probante do documento público: o art. 215 do CC atribui à escritura pública fé pública e prova plena, e o art. 405 do CPC detalha o alcance dessa prova, estendendo a aos fatos que o tabelião declarar terem ocorrido em sua presença.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T09:44:01+00:00"
+ },
+ {
+  "de": "cc.215",
+  "para": "cpc.411",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Há risco de confusão entre a escritura pública do art. 215 do CC, que é documento dotado de fé pública por ser lavrado pelo tabelião, e o documento particular considerado autêntico nos termos do art. 411 do CPC pelo simples reconhecimento de firma pelo tabelião, situação jurídica distinta e de menor força probante.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T09:44:01+00:00"
+ },
+ {
+  "de": "ctn.217",
+  "para": "clt.578",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 217, I, do CTN cita expressamente os arts. 578 e seguintes da CLT ao esclarecer que as disposições do CTN não excluem a exigibilidade da contribuição sindical ali disciplinada, denominação que substituiu o antigo imposto sindical.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T09:44:01+00:00"
+ },
+ {
+  "de": "ec132.11",
+  "para": "adct.133",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "Ambos os dispositivos integram o regime de transição do art. 195, I, b, da Constituição na reforma tributária: o art. 11 da EC 132/2023 preserva a exigibilidade das contribuições sobre receita ou faturamento que substituíram aquela contribuição, e o art. 133 do ADCT complementa o tratamento ao excluir os mesmos tributos da base de cálculo dos novos tributos criados pela emenda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T09:44:01+00:00"
+ },
+ {
+  "de": "l8987.1",
+  "para": "l11079.1",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 1 da Lei 8.987/95 estabelece o regime geral das concessões e permissões de serviços públicos com base no art. 175 da Constituição, e o art. 1 da Lei 11.079/04 institui normas gerais para uma modalidade específica de concessão, a parceria público-privada, que se soma ao regime geral.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T09:44:01+00:00"
+ },
+ {
+  "de": "l8987.1",
+  "para": "adct.66",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 66 do ADCT excepciona o regime geral de concessão de serviços públicos do art. 1 da Lei 8.987/95 ao manter vigentes, sem nova licitação, as concessões de serviços públicos de telecomunicações já existentes na data da promulgação da Constituição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T09:44:01+00:00"
+ },
+ {
+  "de": "lcp123.21-B",
+  "para": "sc_icms_lei.36",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 21-B da LC 123/06 impõe prazo mínimo de sessenta dias para que os Estados fixem o vencimento do ICMS devido por substituição tributária, tributação monofásica ou antecipação, limitando a liberdade regulamentar que o art. 36 da Lei 10.297/96-SC delega ao regulamento estadual para definir os prazos de recolhimento do imposto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T09:44:01+00:00"
  }
 ]
