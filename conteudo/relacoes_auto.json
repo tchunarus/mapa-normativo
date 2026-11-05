@@ -49967,5 +49967,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T18:54:51+00:00"
+ },
+ {
+  "de": "lcp214.71",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 156-A, § 1º, II, da Constituição Federal determina que o IBS incide também sobre a importação de bens materiais ou imateriais; o art. 71 da LC 214/2025 regulamenta essa incidência ao equiparar a alíquota aplicável na importação à alíquota incidente sobre a aquisição do mesmo bem no País, tratando do mesmo instituto da incidência do IBS sobre a importação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T19:56:31+00:00"
+ },
+ {
+  "de": "lcp214.73",
+  "para": "cc.393",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 73 da LC 214/2025 exclui a responsabilidade do transportador e do depositário em caso fortuito ou de força maior, conceitos definidos de modo geral pelo art. 393 do Código Civil, que se aplica de forma subsidiária para a interpretação dessas expressões no âmbito tributário, tratando de institutos conexos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T19:56:31+00:00"
+ },
+ {
+  "de": "lcp214.73",
+  "para": "cc.642",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 642 do Código Civil exclui a responsabilidade do depositário pelos casos de força maior, desde que provados; o inciso II e o parágrafo único do art. 73 da LC 214/2025 excluem, nos mesmos termos, a responsabilidade do depositário de bens procedentes do exterior em caso de força maior na importação, tratando do mesmo instituto, aplicado de forma subsidiária pela regra geral civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T19:56:31+00:00"
+ },
+ {
+  "de": "lcp214.76",
+  "para": "ctn.150",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 76 da LC 214/2025 permite que o sujeito passivo antecipe o pagamento do IBS e da CBS para o momento do registro da declaração de importação; o art. 150 do Código Tributário Nacional disciplina, de forma geral, o lançamento por homologação, no qual o sujeito passivo antecipa o pagamento sem exame prévio da autoridade. O art. 76 especializa, para a importação, esse instituto conexo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T19:56:31+00:00"
+ },
+ {
+  "de": "lcp214.76",
+  "para": "ctn.160",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 160 do Código Tributário Nacional só fixa o vencimento do crédito tributário em trinta dias quando a legislação tributária não dispuser prazo próprio; o art. 76 da LC 214/2025 já fixa prazo específico para o pagamento do IBS e da CBS na importação, excepcionando essa regra geral do mesmo instituto conexo do momento de pagamento do tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T19:56:31+00:00"
+ },
+ {
+  "de": "lcp214.76",
+  "para": "lcp227.98-B",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 76 da LC 214/2025 disciplina o pagamento regular do IBS e da CBS na importação, inclusive a possibilidade de antecipação; o art. 98-B da LC 227/2026 complementa esse regime ao tratar da hipótese específica de suspensão do pagamento em regime aduaneiro especial convertida em alíquota zero quando o bem é destruído sob controle aduaneiro, no mesmo regime de extinção do crédito do IBS e da CBS na importação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T19:56:31+00:00"
+ },
+ {
+  "de": "lcp214.79",
+  "para": "sc_icms_lei.103",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 79 da LC 214/2025 declara imunes ao IBS e à CBS as exportações de bens e de serviços, assegurando a manutenção dos créditos relativos às aquisições; as alíneas a e b do inciso I do art. 103 da Lei 10.297/96-SC preveem, para o ICMS, a mesma técnica de não incidência sobre as exportações com manutenção do crédito sem estorno, o que gera risco real de confusão entre a imunidade constitucional do IBS e da CBS e a não incidência legal do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T19:56:31+00:00"
+ },
+ {
+  "de": "lcp214.79",
+  "para": "lcp116.2",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 79 da LC 214/2025 imuniza ao IBS e à CBS as exportações de bens e de serviços para o exterior; o inciso I do art. 2º da LC 116/03 estabelece a não incidência do ISS sobre as exportações de serviços para o exterior do País. Os dispositivos tratam de institutos conexos de desoneração das exportações de serviços, em regimes jurídicos distintos, a imunidade constitucional e a não incidência legal, o que pode gerar confusão quanto ao regime aplicável durante a transição da reforma tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T19:56:31+00:00"
  }
 ]
