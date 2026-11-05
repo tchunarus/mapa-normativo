@@ -49097,5 +49097,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T01:44:42+00:00"
+ },
+ {
+  "de": "lcp214.172",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 156-A, § 1º, II, da Constituição Federal atribui à lei complementar a instituição do imposto sobre bens e serviços incidente inclusive sobre operações iniciadas no exterior, qualquer que seja a finalidade, e o art. 172 da LC 214/2025 regulamenta essa autorização ao fixar a incidência monofásica do IBS e da CBS sobre combustíveis especificados, tratando-se de instituto conexo entre a norma geral de competência e a regra específica de incidência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T07:16:39+00:00"
+ },
+ {
+  "de": "lcp214.172",
+  "para": "lcp87.9",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 172 da LC 214/2025 institui a incidência monofásica do IBS e da CBS sobre os mesmos produtos derivados de petróleo e gás natural referidos no art. 9º, § 1º, I, da LC 87/96, que trata da substituição tributária do ICMS nas operações interestaduais com combustíveis, o que gera risco de confusão entre os dois mecanismos de concentração da cobrança, um por incidência única e outro por responsabilidade atribuída a terceiro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T07:16:39+00:00"
+ },
+ {
+  "de": "lindb.18",
+  "para": "cc.1571",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 1.571 do Código Civil estabelece o divórcio como causa de término da sociedade conjugal, e o art. 18, § 1º, da LINDB complementa esse mesmo instituto ao atribuir às autoridades consulares brasileiras competência para celebrar a separação consensual e o divórcio consensual de brasileiros no exterior, sem filhos menores ou incapazes, observados os requisitos legais quanto aos prazos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T07:16:39+00:00"
+ },
+ {
+  "de": "lindb.18",
+  "para": "cc.215",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 215 do Código Civil fixa os requisitos formais gerais da escritura pública lavrada por tabelião, aplicando-se subsidiariamente para suprir a disciplina da forma quando o art. 18, § 1º, da LINDB exige escritura pública para a separação e o divórcio consensuais celebrados perante autoridade consular brasileira, sem detalhar os requisitos do instrumento notarial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T07:16:39+00:00"
+ },
+ {
+  "de": "sc_icms_lei.101-C",
+  "para": "lcp87.32-A",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 32-A da LC 87/96 veda a fixação, para operações com combustíveis, de alíquotas de ICMS superiores às das operações em geral, em razão da essencialidade desses bens, e o art. 101-C da Lei 10.297/96-SC excepciona esse regime geral ao substituir, para os combustíveis catarinenses, a incidência plurifásica sujeita a tal limite pela incidência monofásica disciplinada no Anexo III, com alíquotas uniformes fixadas nos termos da Lei Complementar federal 192/2022.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T07:16:39+00:00"
+ },
+ {
+  "de": "sc_icms_lei.101-C",
+  "para": "lcp123.21-B",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 21-B da LC 123/06 fixa prazo mínimo de sessenta dias para o vencimento do ICMS devido por tributação concentrada em uma única etapa, monofásica, e o art. 101-C da Lei 10.297/96-SC complementa esse mesmo regime de incidência monofásica ao instituir, para os combustíveis catarinenses, a cobrança única prevista no Anexo III desta Lei, em substituição ao regime plurifásico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T07:16:39+00:00"
+ },
+ {
+  "de": "cf.240",
+  "para": "l8212.11",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 11, parágrafo único, alínea a, da Lei 8.212/91 relaciona as contribuições das empresas incidentes sobre a remuneração dos segurados como receita do orçamento da Seguridade Social de que trata o art. 195 da Constituição Federal, e o art. 240 excepciona desse mesmo financiamento as contribuições compulsórias dos empregadores destinadas às entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T07:16:39+00:00"
+ },
+ {
+  "de": "cf.240",
+  "para": "clt.578",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 578 da CLT disciplina a contribuição sindical paga pelos integrantes das categorias econômicas ou profissionais aos respectivos sindicatos, mediante autorização prévia e expressa, e o art. 240 da Constituição Federal trata de contribuição compulsória diversa, devida pelos empregadores a entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical, o que gera risco de confusão entre as duas espécies de contribuição ligadas à estrutura sindical.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T07:16:39+00:00"
+ },
+ {
+  "de": "cf.241",
+  "para": "l8987.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 241 da Constituição Federal autoriza a União, os Estados, o Distrito Federal e os Municípios a disciplinar por lei os consórcios públicos e os convênios de cooperação para a gestão associada de serviços públicos entre entes federados, e o art. 1º da Lei 8.987/95 rege as concessões e permissões de serviços públicos a terceiros com base no art. 175 da Constituição Federal, o que gera risco de confusão entre a gestão associada entre entes públicos e a delegação por concessão ou permissão a particulares.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T07:16:39+00:00"
+ },
+ {
+  "de": "cf.242",
+  "para": "adct.61",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 61 do ADCT permite que as entidades educacionais referidas no art. 213 da Constituição Federal e as fundações de ensino e pesquisa que, nos últimos três anos, tenham recebido recursos públicos continuem a recebê-los, e o art. 242 complementa esse mesmo regime de transição ao ressalvar da gratuidade do ensino público as instituições oficiais criadas por lei estadual ou municipal, existentes antes da Constituição, que não sejam total ou preponderantemente mantidas com recursos públicos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T07:16:39+00:00"
+ },
+ {
+  "de": "cf.246",
+  "para": "ec132.17",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 246 da Constituição Federal veda a regulamentação por medida provisória de artigo constitucional cuja redação tenha sido alterada por emenda promulgada entre 1995 e a própria emenda, e o art. 17 da Emenda Constitucional 132/2023 confirma que o art. 155, § 1º, II, da Constituição Federal foi alterado pelo art. 1º dessa emenda, de modo que esse dispositivo passa a integrar o mesmo regime de vedação previsto no art. 246.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T07:16:39+00:00"
+ },
+ {
+  "de": "cf.246",
+  "para": "ec132.11",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 246 da Constituição Federal veda a regulamentação por medida provisória de artigo constitucional alterado por emenda promulgada entre 1995 e a própria emenda, e o art. 11 da Emenda Constitucional 132/2023 confirma que a revogação do art. 195, I, alínea a, da Constituição Federal decorre dessa mesma emenda, de modo que tal alteração também se submete ao regime de vedação previsto no art. 246.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T07:16:39+00:00"
  }
 ]
