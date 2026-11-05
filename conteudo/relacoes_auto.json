@@ -49797,5 +49797,125 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T16:45:00+00:00"
+ },
+ {
+  "de": "sc_ricms.38",
+  "para": "sc_icms_lei.30",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 38 do RICMS-SC regulamenta, com o detalhamento do percentual e do prazo quinquenal de estorno, a obrigação geral de estorno do crédito do ICMS por saída ou prestação isenta ou não tributada estabelecida no art. 30 da Lei 10.297/96-SC, tratando do mesmo instituto para bens do ativo permanente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T17:56:00+00:00"
+ },
+ {
+  "de": "sc_ricms.38",
+  "para": "lcp87.21",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 21 da LC 87/96 fixa a norma geral de estorno do crédito do ICMS quando a mercadoria resultar em saída isenta ou não tributada, e o art. 38 do RICMS-SC complementa esse regime ao fixar o percentual de vinte por cento ao ano e o prazo de cinco anos aplicáveis ao estorno relativo a bens do ativo permanente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T17:56:00+00:00"
+ },
+ {
+  "de": "lcp214.53",
+  "para": "sc_ricms.58",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 53 da LC 214/2025 e o art. 58 do RICMS-SC preveem a mesma lógica de vencimento e liquidação da obrigação tributária por compensação entre créditos e débitos do período de apuração, mas disciplinam tributos distintos (IBS e CBS de um lado, ICMS de outro), o que gera risco real de se transportar automaticamente a ordem de compensação de um regime para o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T17:56:00+00:00"
+ },
+ {
+  "de": "lcp214.53",
+  "para": "lcp227.137",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 53 da LC 214/2025 disciplina a ordem ordinária de compensação dos créditos do IBS e da CBS apropriados no período de apuração, e o art. 137 da LC 227/2026 complementa esse mesmo regime de transição ao tratar da compensação do saldo credor homologado do ICMS com o IBS, hipótese distinta por envolver crédito acumulado de tributo extinto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T17:56:00+00:00"
+ },
+ {
+  "de": "lcp214.54",
+  "para": "sc_icms_lei.25",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 54 da LC 214/2025 e o art. 25 da Lei 10.297/96-SC tratam do mesmo instituto do prazo de cinco anos para a extinção do direito de utilizar o crédito escritural, mas fixam termos iniciais distintos (o primeiro dia do período subsequente à apropriação na LC 214/2025, e a data de emissão do documento fiscal na lei estadual), o que pode causar confusão sobre qual termo inicial se aplica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T17:56:00+00:00"
+ },
+ {
+  "de": "lcp214.54",
+  "para": "ctn.173",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 54 da LC 214/2025 regula o prazo de cinco anos para o contribuinte utilizar o crédito já apropriado do IBS e da CBS, enquanto o art. 173 do CTN regula o prazo decadencial de cinco anos para a Fazenda Pública constituir o crédito tributário, institutos diferentes que só têm em comum o prazo quinquenal e a referência a crédito, o que pode levar à confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T17:56:00+00:00"
+ },
+ {
+  "de": "lcp214.57",
+  "para": "cf.156-A",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 57 da LC 214/2025 regulamenta o princípio da neutralidade atribuído ao imposto sobre bens e serviços pelo § 1º do art. 156-A da Constituição Federal, ao excluir do direito a crédito os bens e serviços de uso ou consumo pessoal que não se relacionam com a atividade econômica do contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T17:56:00+00:00"
+ },
+ {
+  "de": "lcp214.57",
+  "para": "clt.458",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 57 da LC 214/2025 trata como uso ou consumo pessoal, em regra, os bens e serviços fornecidos de forma não onerosa a empregados, enquanto o art. 458 da CLT trata o fornecimento de bens em espécie, como alimentação e vestuário, como parcela do salário do empregado, institutos de ramos distintos que podem ser confundidos por tratarem do mesmo fato de fornecimento gratuito de bens ao trabalhador.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T17:56:00+00:00"
+ },
+ {
+  "de": "lcp214.58",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 58 da LC 214/2025 regulamenta, ao prever a atuação conjunta do Comitê Gestor do IBS com a Receita Federal e a plataforma eletrônica unificada, as competências administrativas de arrecadação, compensação e distribuição atribuídas ao Comitê Gestor pelo art. 156-B da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T17:56:00+00:00"
+ },
+ {
+  "de": "lcp214.58",
+  "para": "lcp227.1",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 58 da LC 214/2025 pressupõe o Comitê Gestor do IBS mencionado no art. 1º da LC 227/2026, que o institui como entidade pública dotada de independência técnica, administrativa, orçamentária e financeira, complementando assim o mesmo regime de governança conjunta do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T17:56:00+00:00"
+ },
+ {
+  "de": "lcp214.61",
+  "para": "d9580.735",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 61 da LC 214/2025 institui programa de incentivo à cidadania fiscal financiado pela arrecadação do IBS e da CBS, enquanto o art. 735 do RIR trata da não incidência do imposto sobre a renda na fonte sobre os valores recebidos por pessoas físicas em programas semelhantes relativos ao ICMS e ao ISS, sem mencionar o IBS ou a CBS, de modo que pode haver dúvida sobre a extensão dessa isenção ao novo tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T17:56:00+00:00"
+ },
+ {
+  "de": "lcp214.61",
+  "para": "lcp227.48",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 61 da LC 214/2025 permite financiar o programa de incentivo à cidadania fiscal com até cinco centésimos por cento da arrecadação do IBS e da CBS, enquanto o art. 48 da LC 227/2026 trata do financiamento do próprio Comitê Gestor do IBS por retenção de percentual sobre essa mesma arrecadação, dois destinos distintos de recursos que podem ser confundidos por partilharem a mesma fonte de custeio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T17:56:00+00:00"
  }
 ]
