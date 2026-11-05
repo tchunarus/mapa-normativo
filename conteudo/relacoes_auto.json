@@ -50207,5 +50207,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T21:45:40+00:00"
+ },
+ {
+  "de": "lcp214.88",
+  "para": "ctn.151",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 151 do CTN trata da suspensão da exigibilidade do crédito tributário por moratória, depósito, impugnações, liminares ou parcelamento, instituto processual de adiamento da cobrança, enquanto o art. 88 da LC 214/2025 trata da suspensão do pagamento do IBS e da CBS como benefício material do regime aduaneiro especial de permanência temporária. Os dois dispositivos empregam o termo suspensão, mas designam institutos distintos, o que gera risco real de confusão entre a suspensão processual da exigibilidade e a suspensão substancial do próprio pagamento do tributo na importação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T22:55:22+00:00"
+ },
+ {
+  "de": "lcp214.88",
+  "para": "l9430.79",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 79 da Lei 9.430/96 sujeita os bens admitidos temporariamente no País ao pagamento proporcional dos impostos incidentes na importação, enquanto o art. 88 da LC 214/2025 suspende integralmente o pagamento do IBS e da CBS para bens no mesmo regime de permanência temporária. A aparente contradição entre pagar proporcionalmente e ter o pagamento suspenso se dissolve porque os dispositivos incidem sobre tributos diferentes, a Lei 9.430/96 sobre os tributos federais então vigentes sobre a importação e a LC 214/2025 especificamente sobre o IBS e a CBS instituídos pela reforma tributária.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T22:55:22+00:00"
+ },
+ {
+  "de": "lcp214.90",
+  "para": "ctn.151",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 151 do CTN elenca as hipóteses de suspensão da exigibilidade do crédito tributário, como moratória, depósito e parcelamento, instituto de direito tributário processual, enquanto o art. 90 da LC 214/2025 suspende o pagamento do IBS e da CBS incidentes na importação sob o regime aduaneiro especial de aperfeiçoamento, incluído o drawback. A coincidência terminológica entre as duas suspensões cria risco real de confusão, pois a do CTN posterga a cobrança de crédito já constituído e a da LC 214/2025 é benefício aduaneiro vinculado à destinação dos bens importados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T22:55:22+00:00"
+ },
+ {
+  "de": "lcp214.90",
+  "para": "l9430.79",
+  "tipo": "conflito_aparente",
+  "grau": "conexo",
+  "porque": "O art. 79 da Lei 9.430/96 sujeita os bens admitidos temporariamente no País ao pagamento proporcional dos impostos incidentes na importação, regime historicamente aplicado também a operações de aperfeiçoamento ativo, enquanto o art. 90 da LC 214/2025 suspende integralmente o pagamento do IBS e da CBS no regime aduaneiro especial de aperfeiçoamento, incluído o drawback. Não há conflito real porque os dispositivos incidem sobre tributos distintos, mas a semelhança das hipóteses de admissão temporária de bens pode sugerir indevidamente tratamento idêntico entre os regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T22:55:22+00:00"
  }
 ]
