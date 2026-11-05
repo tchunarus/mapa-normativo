@@ -49027,5 +49027,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T00:45:32+00:00"
+ },
+ {
+  "de": "cpc.733",
+  "para": "lindb.18",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 733 do CPC permite a formalização do divórcio consensual por escritura pública no território nacional, e o art. 18 da LINDB estende essa mesma possibilidade aos brasileiros no exterior, atribuindo competência às autoridades consulares para celebrar a separação e o divórcio consensuais nas mesmas condições, o que configura uma regra especial de competência para o mesmo instituto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T01:44:42+00:00"
+ },
+ {
+  "de": "cpc.733",
+  "para": "cc.1571",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 1.571 do Código Civil estabelece o divórcio como uma das causas de término da sociedade conjugal, e o art. 733 do CPC regula o procedimento extrajudicial, por escritura pública, para a formalização do divórcio consensual quando não há nascituro ou filhos incapazes, tratando-se do mesmo instituto sob o aspecto processual.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T01:44:42+00:00"
+ },
+ {
+  "de": "l10522.6-A",
+  "para": "lcp123.21-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 6º-A da Lei 10.522/02 estabelece que o registro no Cadin impede a prática dos atos previstos no art. 6º da mesma lei, e o art. 21-A da Lei Complementar 123/06 cria uma garantia especial para microempresas e empresas de pequeno porte, exigindo notificação prévia com prazo de contestação antes da inscrição no mesmo cadastro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T01:44:42+00:00"
+ },
+ {
+  "de": "l9099.4",
+  "para": "cpc.46",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 46 do CPC fixa a regra geral de competência pelo domicílio do réu para as ações fundadas em direito pessoal, e o art. 4º da Lei 9.099/95 especializa esse mesmo critério para os Juizados Especiais Cíveis, acrescentando hipóteses próprias, como o domicílio ou o local de atividade do réu e o domicílio do autor nas ações de reparação de dano.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T01:44:42+00:00"
+ },
+ {
+  "de": "lcp227.178",
+  "para": "cf.155",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 178 da LC 227/2026 altera a lista de combustíveis sujeitos à incidência monofásica do ICMS, regime cuja base está no art. 155, § 2º, XII, alínea h, e nos § 4º e § 5º da Constituição Federal, que atribuem à lei complementar a definição dos combustíveis tributados uma única vez e a disciplina das alíquotas mediante deliberação dos Estados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T01:44:42+00:00"
+ },
+ {
+  "de": "lcp227.178",
+  "para": "sc_icms_lei.101-C",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 178 da LC 227/2026 altera o art. 2º da Lei Complementar 192/2022, que define os combustíveis sujeitos à incidência monofásica do ICMS, e o art. 101-C da Lei 10.297/96-SC aplica esse mesmo regime no âmbito estadual, substituindo a incidência plurifásica prevista na legislação catarinense pelas regras do Anexo III.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T01:44:42+00:00"
+ },
+ {
+  "de": "lcp227.178",
+  "para": "lcp214.172",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 178 da LC 227/2026 altera a lista de combustíveis sujeitos à incidência monofásica do ICMS, e o art. 172 da LC 214/2025 institui, para os mesmos produtos, como gasolina e diesel, a incidência monofásica do IBS e da CBS, o que gera risco de confusão entre os dois regimes tributários durante a convivência da reforma tributária com o sistema anterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T01:44:42+00:00"
  }
 ]
