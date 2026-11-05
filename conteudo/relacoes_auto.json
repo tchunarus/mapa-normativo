@@ -49347,5 +49347,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T10:55:13+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "lcp214.7-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 174 da LC 227/2026 inclui o art. 7º-A na LC 214/2025, fixando a ordem de prevalência entre redução a zero de alíquota, suspensão com conversão em alíquota zero, isenção e diferimento quando mais de um desses institutos puder incidir sobre a mesma operação de IBS ou CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T11:56:14+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "lcp214.10",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 174 da LC 227/2026 dá nova redação ao art. 10 da LC 214/2025, substituindo o critério de momento do fato gerador nas operações de execução continuada ou fracionada pela regra segundo a qual prevalece a primeira entre a exigibilidade da contraprestação e o pagamento da obrigação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T11:56:14+00:00"
+ },
+ {
+  "de": "lcp214.10",
+  "para": "lcp87.12",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos definem o momento de ocorrência do fato gerador em tributos distintos sobre o consumo, o IBS e a CBS de um lado e o ICMS de outro, com critérios temporais semelhantes para operações de mesma natureza, o que gera risco real de confusão durante a coexistência dos dois regimes na transição tributária prevista na Emenda Constitucional 132/2023.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T11:56:14+00:00"
+ },
+ {
+  "de": "lcp214.18",
+  "para": "adct.130",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 130 do ADCT determina que resolução do Senado Federal fixe as alíquotas de referência do IBS e da CBS observados os limites previstos em lei complementar, e o art. 18 da LC 214/2025 complementa essa previsão ao estabelecer os períodos de vigência dessas alíquotas de referência para a CBS e para o IBS e os dispositivos da própria Lei Complementar que regem sua fixação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T11:56:14+00:00"
+ },
+ {
+  "de": "lcp214.20",
+  "para": "adct.113",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 113 do ADCT exige estimativa de impacto orçamentário e financeiro para toda proposição legislativa que crie ou altere despesa obrigatória ou renúncia de receita, e o art. 20 da LC 214/2025 especializa essa exigência ao condicionar a apreciação, pelo Congresso Nacional, dos projetos que reduzam ou aumentem a arrecadação do IBS ou da CBS à estimativa de impacto nas alíquotas de referência desses tributos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T11:56:14+00:00"
+ },
+ {
+  "de": "lcp214.21",
+  "para": "lcp87.4",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "Os dois dispositivos definem, em termos quase idênticos, quem é contribuinte do tributo a partir da habitualidade ou do volume que caracterize atividade econômica e da condição de importador, mas um disciplina o ICMS e o outro disciplina o IBS e a CBS, tributos que coexistirão durante a transição da reforma tributária, o que gera risco real de confusão sobre qual definição de contribuinte se aplica a cada operação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T11:56:14+00:00"
+ },
+ {
+  "de": "lcp214.21",
+  "para": "cf.156-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 156-A, § 1º, II, da Constituição Federal determina que o IBS incida também sobre a importação realizada por pessoa física ou jurídica ainda que não seja sujeito passivo habitual do imposto, e o art. 21 da LC 214/2025 complementa esse comando ao definir o importador como contribuinte do IBS e da CBS independentemente de habitualidade.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T11:56:14+00:00"
  }
 ]
