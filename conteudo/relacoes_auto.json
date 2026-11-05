@@ -49307,5 +49307,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T09:44:01+00:00"
+ },
+ {
+  "de": "sc_icms_lei.36",
+  "para": "sc_ricms.106",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O caput do art. 36 da Lei 10.297/96-SC remete ao regulamento a fixação dos prazos de recolhimento do ICMS, e o art. 106 do RICMS-SC exerce essa delegação ao prorrogar, para estabelecimento atingido por calamidade climática, o prazo de recolhimento do imposto apurado no período de referência da ocorrência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T10:55:13+00:00"
+ },
+ {
+  "de": "sc_icms_lei.36",
+  "para": "cf.155",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 4º, III, do art. 36 da Lei 10.297/96-SC refere-se expressamente à lei complementar prevista no art. 155, § 2º, XII, alínea g, da Constituição Federal, ao condicionar o recolhimento do diferencial de alíquota à inobservância, por outra unidade da Federação, dessa lei complementar na concessão do benefício fiscal, de modo que o dispositivo estadual remete diretamente à norma constitucional referida.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T10:55:13+00:00"
+ },
+ {
+  "de": "lcp214.2",
+  "para": "cf.156-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 2º da LC 214/2025 enuncia o princípio da neutralidade do IBS e da CBS nos mesmos termos do § 1º do art. 156-A da Constituição Federal, que já previa que o imposto seria informado por esse princípio, de modo que o dispositivo complementar detalha o objetivo de não distorcer as decisões de consumo e de organização da atividade econômica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T10:55:13+00:00"
+ },
+ {
+  "de": "lcp214.7",
+  "para": "cf.156-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 7º da LC 214/2025 detalha, para as operações com múltiplos fornecimentos, a incidência sobre bens e serviços prevista no inciso I do § 1º do art. 156-A da Constituição Federal, ao definir quando se exige a especificação de cada fornecimento e quando prevalece o tratamento tributário do fornecimento principal sobre o acessório.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T10:55:13+00:00"
  }
 ]
