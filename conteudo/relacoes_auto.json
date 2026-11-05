@@ -50187,5 +50187,25 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "lcp227.98-A",
+  "para": "lcp214.98-A",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 98-A da LC 227/2026 é o dispositivo que inseriu o art. 98-A na LC 214/2025, com redação idêntica, autorizando o regulamento a prever a aplicação dos regimes aduaneiros especiais dos arts. 84, 85, 88 e 90 da LC 214/2025 a bens materiais com destino ao exterior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T21:45:40+00:00"
+ },
+ {
+  "de": "sc_ricms.82",
+  "para": "lcp87.33",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 82 do RICMS-SC disciplina, no âmbito estadual, o direito ao crédito de ICMS sobre materiais de uso e consumo, energia elétrica e serviços de comunicação, remetendo expressamente ao inciso I, à alínea d do inciso II e à alínea c do inciso IV do art. 33 da LC 87/96, que fixa o cronograma nacional para esses créditos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T21:45:40+00:00"
  }
 ]
