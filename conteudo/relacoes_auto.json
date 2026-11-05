@@ -49667,5 +49667,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T15:28:13+00:00"
+ },
+ {
+  "de": "lcp227.32",
+  "para": "lcp214.114",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso VII do art. 32 da LC 227/2026 atribui à Diretoria a gestão da devolução do IBS a pessoas físicas, enquanto o art. 114 da LC 214/2025 atribui à RFB a gestão da devolução da CBS às pessoas físicas, de modo que há risco real de se confundir qual órgão administra a devolução de cada tributo dentro do mesmo mecanismo geral de devolução.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T16:01:39+00:00"
+ },
+ {
+  "de": "sc_ricms.7",
+  "para": "sc_icms_lei.44",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 7º do RICMS-SC detalha, inclusive por equiparação legal de quem importa bens sem habitualidade, quem é contribuinte do imposto, regulamentando o círculo de pessoas que o art. 44 da Lei 10.297/96-SC obriga a se inscrever no cadastro de contribuintes, ainda que trate de institutos conexos, a saber, definição de contribuinte e obrigação de inscrição.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T16:01:39+00:00"
+ },
+ {
+  "de": "lcp214.43",
+  "para": "lcp87.24",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 43 da LC 214/2025 fixa diretamente a periodicidade mensal da apuração do IBS e da CBS, enquanto o art. 24 da LC 87/96 apenas remete à legislação estadual a disciplina do período de apuração do ICMS, de modo que se trata do mesmo instituto com tratamento normativo distinto, o que gera risco de se presumir que o período de apuração do ICMS também é fixado diretamente em lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T16:01:39+00:00"
+ },
+ {
+  "de": "l9784.66",
+  "para": "lcp214.44",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 44 da LC 214/2025 delega ao regulamento a fixação do prazo de conclusão da apuração e da data de vencimento dos tributos, sem disciplinar a contagem desses prazos, de modo que se aplica subsidiariamente a regra geral do art. 66 da Lei 9.784/99 sobre contagem de prazos administrativos, inclusive quanto à prorrogação quando o vencimento recair em dia sem expediente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T16:01:39+00:00"
+ },
+ {
+  "de": "lcp214.46",
+  "para": "lcp123.25",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 46 da LC 214/2025 atribui à apuração assistida, quando confirmada ou ajustada pelo contribuinte, o efeito de confissão de dívida e instrumento hábil e suficiente para a exigência do crédito tributário, no mesmo sentido do art. 25 da LC 123/2006 para a declaração anual do Simples Nacional, de modo que os dois mecanismos de autolançamento por declaração podem ser confundidos entre si apesar de pertencerem a regimes tributários distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T16:01:39+00:00"
+ },
+ {
+  "de": "lcp214.46",
+  "para": "l10522.14-C",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 46 da LC 214/2025 atribui à apuração assistida confirmada ou ajustada pelo contribuinte o efeito de confissão de dívida e instrumento hábil e suficiente para a exigência do crédito tributário, no mesmo sentido do art. 14-C da Lei 10.522/02 para o pagamento da primeira prestação do parcelamento simplificado, de modo que os dois mecanismos de confissão de dívida por ato do contribuinte podem ser confundidos entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T16:01:39+00:00"
+ },
+ {
+  "de": "lcp214.46",
+  "para": "d9580.979",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 46 da LC 214/2025 atribui à apuração assistida confirmada ou ajustada pelo contribuinte o efeito de confissão de dívida e instrumento hábil e suficiente para a exigência do crédito tributário, no mesmo sentido do art. 979 do RIR/2018 para o documento de cumprimento de obrigação acessória do imposto de renda, de modo que os dois mecanismos de confissão de dívida por declaração do contribuinte podem ser confundidos entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T16:01:39+00:00"
  }
 ]
