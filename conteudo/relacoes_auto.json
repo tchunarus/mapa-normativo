@@ -50047,5 +50047,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T19:56:31+00:00"
+ },
+ {
+  "de": "cc.393",
+  "para": "clt.501",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 501 da CLT define o conceito de força maior para as relações de trabalho, como acontecimento inevitável alheio à vontade do empregador, especializando para o âmbito trabalhista a regra geral do art. 393 do Código Civil, que exclui a responsabilidade do devedor por prejuízos decorrentes de caso fortuito ou força maior.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "cc.393",
+  "para": "lef.37",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O parágrafo único do art. 37 da LEF exonera o oficial de justiça que não cumprir a diligência por motivo de força maior devidamente justificado, sem definir o instituto, de modo que se aplica subsidiariamente o conceito do parágrafo único do art. 393 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "cc.393",
+  "para": "cp.28",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 28 do Código Penal isenta de pena o agente que, por embriaguez completa proveniente de caso fortuito ou força maior, era incapaz de entender o caráter ilícito do fato, recorrendo ao mesmo conceito de evento inevitável do parágrafo único do art. 393 do Código Civil, aplicado subsidiariamente para a exclusão da imputabilidade penal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "cc.393",
+  "para": "l9784.67",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 67 da Lei 9.784/99 ressalva a força maior devidamente comprovada como causa de suspensão dos prazos processuais administrativos, sem definir o instituto, aplicando se subsidiariamente o conceito do parágrafo único do art. 393 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "cc.642",
+  "para": "cpc.161",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 161 do CPC disciplina a responsabilidade do depositário judicial por dolo ou culpa, sem tratar da força maior, de modo que se aplica subsidiariamente a regra do art. 642 do Código Civil, que exclui a responsabilidade do depositário pelos casos de força maior que conseguir provar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "lcp116.2",
+  "para": "floripa_ctm.248",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 248 do Código Tributário Municipal de Florianópolis reproduz, para o âmbito local, as mesmas hipóteses de não incidência do ISS (exportação de serviços, relação de emprego e operações do mercado financeiro) fixadas como norma geral pelo art. 2º da Lei Complementar 116/03.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "sc_icms_lei.103",
+  "para": "lcp87.33",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 103 da Lei 10.297/96-SC remete expressamente ao inciso I do art. 33 da Lei Complementar 87/96 para fixar o termo inicial do direito ao crédito sobre mercadorias destinadas ao uso ou consumo do estabelecimento, e o parágrafo único do art. 103 reproduz os mesmos critérios de crédito sobre energia elétrica e serviços de comunicação daquele artigo federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "sc_icms_lei.103",
+  "para": "sc_ricms.82",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 82 do RICMS-SC regulamenta, no mesmo sentido do parágrafo único do art. 103 da Lei 10.297/96-SC, as hipóteses em que a entrada de energia elétrica e de materiais de uso ou consumo dá direito a crédito do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "lcp214.81",
+  "para": "lcp227.98-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 98-A da LC 227/2026 estende os regimes aduaneiros especiais dos arts. 84, 85, 88 e 90 da LC 214/2025 a bens materiais com destino ao exterior, inclusive em caso de saída temporária do País, complementando a disciplina da imunidade de exportação sem saída do território nacional prevista no art. 81 desta mesma Lei Complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "lcp214.82",
+  "para": "lcp227.98-B",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 98-B da LC 227/2026 prevê a conversão da suspensão em alíquota zero quando o bem material for destruído sob controle aduaneiro, complementando o mesmo mecanismo de suspensão convertida em alíquota zero após a efetiva exportação disciplinado no § 4º do art. 82 da LC 214/2025 para a empresa comercial exportadora.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "lcp214.83",
+  "para": "lcp227.75",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O recurso contra a decisão que cancelar a habilitação da empresa comercial exportadora, previsto no § 7º do art. 83 da LC 214/2025, é procedimento do contencioso administrativo tributário do IBS e da CBS disciplinado pelo art. 75 da LC 227/2026, que relaciona as espécies recursais admitidas nesse contencioso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "lcp214.83",
+  "para": "ctn.127-A",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O § 3º do art. 83 da LC 214/2025 especializa, para o procedimento de cancelamento da habilitação de empresa comercial exportadora, a regra geral do art. 127-A do CTN, que autoriza a realização de intimações em processo tributário por meio de Domicílio Tributário Eletrônico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "lcp214.83",
+  "para": "d70235.23",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O art. 23 do Decreto 70.235/72 relaciona as formas gerais de intimação no processo administrativo fiscal federal e se aplica subsidiariamente ao procedimento de cancelamento de habilitação do art. 83 da LC 214/2025 quando conduzido pela RFB, no que este não dispuser além da intimação eletrônica preferencial prevista no § 3º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
+ },
+ {
+  "de": "lcp214.83",
+  "para": "d70235.33",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "mesmo",
+  "porque": "O recurso previsto no § 7º do art. 83 da LC 214/2025 tem o mesmo prazo de 20 (vinte) dias úteis do recurso voluntário com efeito suspensivo do art. 33 do Decreto 70.235/72, que se aplica subsidiariamente para disciplinar os efeitos do recurso quando não especificados na LC 214/2025.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T20:47:36+00:00"
  }
 ]
