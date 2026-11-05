@@ -48917,5 +48917,115 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-04T23:44:53+00:00"
+ },
+ {
+  "de": "adct.13",
+  "para": "cf.28",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 13 do ADCT, § 3º, determina eleição em turno único, em data fixa anterior à promulgação da Constituição, para a instalação do Estado do Tocantins, excepcionando a regra geral do art. 28 da Constituição Federal, que prevê dois turnos em outubro, por se tratar de ato único de criação do Estado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T00:45:32+00:00"
+ },
+ {
+  "de": "adct.13",
+  "para": "cf.46",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 13 do ADCT, § 4º, vincula a extinção dos mandatos dos Senadores eleitos para o Tocantins aos mandatos dos Senadores eleitos em 1986 nos demais Estados, excepcionando, para esse ato único de instalação do Estado, a renovação do Senado por um e dois terços prevista no art. 46, § 2º, da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T00:45:32+00:00"
+ },
+ {
+  "de": "cpc.731",
+  "para": "cc.1580",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 731 do Código de Processo Civil, incisos I a IV, disciplina o conteúdo da petição de homologação consensual do divórcio ou da separação, com partilha de bens, alimentos entre os cônjuges, guarda e regime de visitas dos filhos, operacionalizando a conversão da separação em divórcio e o divórcio por separação de fato previstos no art. 1.580 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T00:45:32+00:00"
+ },
+ {
+  "de": "cpc.733",
+  "para": "cc.1580",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 733 do Código de Processo Civil permite formalizar o divórcio consensual por escritura pública, sem necessidade de homologação judicial quando não houver nascituro ou filhos incapazes, constituindo via alternativa de procedimento para a conversão em divórcio e para o divórcio por separação de fato regulados no art. 1.580 do Código Civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T00:45:32+00:00"
+ },
+ {
+  "de": "cc.1584",
+  "para": "cpc.699-A",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 699-A do Código de Processo Civil obriga o juiz a indagar as partes e o Ministério Público sobre risco de violência doméstica ou familiar antes da audiência de mediação na ação de guarda, complementando o art. 1.584, § 2º, do Código Civil, que afasta a guarda compartilhada obrigatória quando houver elementos que evidenciem esse risco.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T00:45:32+00:00"
+ },
+ {
+  "de": "cc.1584",
+  "para": "cf.227",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 1.584 do Código Civil disciplina os critérios e o procedimento para a fixação da guarda unilateral ou compartilhada dos filhos, regulamentando, no plano infraconstitucional, o direito à convivência familiar da criança e do adolescente assegurado com absoluta prioridade pelo art. 227 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T00:45:32+00:00"
+ },
+ {
+  "de": "cpc.731",
+  "para": "cc.1589",
+  "tipo": "procedimento_de",
+  "grau": "mesmo",
+  "porque": "O art. 731 do Código de Processo Civil exige, no inciso III, que a petição de divórcio ou separação consensuais contenha o acordo sobre o regime de visitas dos filhos, dando procedimento concreto ao direito de visita atribuído ao pai ou à mãe que não detenha a guarda, previsto no art. 1.589 do Código Civil, inclusive quanto à extensão aos avós tratada no parágrafo único.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T00:45:32+00:00"
+ },
+ {
+  "de": "cc.1589",
+  "para": "cf.227",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 1.589 do Código Civil disciplina o direito de visita do genitor que não detém a guarda e sua extensão aos avós no interesse da criança ou do adolescente, regulamentando, no plano infraconstitucional, o direito à convivência familiar assegurado pelo art. 227 da Constituição Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T00:45:32+00:00"
+ },
+ {
+  "de": "cc.70",
+  "para": "cpp.72",
+  "tipo": "aplica_subsidiariamente",
+  "grau": "conexo",
+  "porque": "O art. 70 do Código Civil define o domicílio da pessoa natural como o lugar de residência com ânimo definitivo, conceito que se aplica subsidiariamente ao art. 72 do Código de Processo Penal, pois a lei processual penal não define domicílio ao fixar a competência pelo domicílio ou residência do réu quando desconhecido o lugar da infração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T00:45:32+00:00"
+ },
+ {
+  "de": "l10522.4",
+  "para": "lcp123.3",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O art. 4º da Lei 10.522/02, no inciso III do § 2º, remete expressamente ao inciso II do caput do art. 3º da Lei Complementar 123/06 para definir o limite de receita bruta que delimita a dispensa de certidões de regularidade fiscal concedida às pessoas naturais empresárias no âmbito do Cadin.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T00:45:32+00:00"
+ },
+ {
+  "de": "l10522.4",
+  "para": "lcp123.21-A",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 21-A da Lei Complementar 123/06 condiciona a inscrição de microempresa ou empresa de pequeno porte no Cadin a notificação prévia com prazo para contestação, complementando o regime de efeitos da ausência de registro no Cadin disciplinado no art. 4º da Lei 10.522/02 para esse mesmo público.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T00:45:32+00:00"
  }
 ]
