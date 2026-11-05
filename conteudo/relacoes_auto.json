@@ -49737,5 +49737,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T16:01:39+00:00"
+ },
+ {
+  "de": "lcp214.49",
+  "para": "lcp87.20",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 49 da LC 214/2025 nega a apropriação de créditos de IBS e CBS nas operações imunes, isentas, de alíquota zero, de diferimento ou de suspensão. O § 1º do art. 20 da LC 87/96 nega, de forma equivalente, o direito a crédito do ICMS nas entradas vinculadas a operações isentas ou não tributadas. Tratam do mesmo instituto, a restrição ao crédito do tributo não cumulativo em razão de desoneração, mas em regimes que coexistirão durante a transição para o IBS, o que gera risco real de se aplicar a um tributo a regra pensada para o outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T16:45:00+00:00"
+ },
+ {
+  "de": "lcp214.49",
+  "para": "sc_icms_lei.27",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 49 da LC 214/2025 nega a apropriação de créditos de IBS e CBS nas operações imunes, isentas, de alíquota zero, de diferimento ou de suspensão. O art. 27 da Lei 10.297/96-SC nega, nos mesmos termos, o direito a crédito do ICMS nas entradas vinculadas a operações isentas ou não tributadas. É o mesmo instituto aplicado a tributos que coexistirão durante a transição para o IBS, com redação quase idêntica, o que favorece a confusão sobre qual regra disciplina cada tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T16:45:00+00:00"
+ },
+ {
+  "de": "lcp214.50",
+  "para": "ctn.151",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 50 da LC 214/2025 trata da apropriação de crédito do contribuinte quando há suspensão da operação de IBS e CBS, de que tratam os arts. 27 e 36 da mesma lei. O art. 151 do CTN trata da suspensão da exigibilidade do crédito tributário, isto é, da dívida do contribuinte perante o Fisco, por moratória, depósito, impugnações, liminar ou parcelamento. Os dois dispositivos empregam as mesmas palavras, crédito e suspensão, para institutos totalmente diferentes, o que gera risco real de confusão entre eles.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T16:45:00+00:00"
+ },
+ {
+  "de": "lcp214.51",
+  "para": "sc_ricms.38",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O art. 51 da LC 214/2025 determina a anulação proporcional dos créditos de IBS e CBS relativos às operações anteriores, de forma ampla sobre todos os créditos, quando a saída posterior for imune ou isenta. O art. 38 do RICMS-SC prevê o estorno de créditos de ICMS, nos incisos II e III, mas limitado aos bens do ativo permanente, quando a saída resultante for isenta ou não tributada. É o mesmo instituto, o estorno ou a anulação proporcional de crédito por desoneração na saída, mas com alcance distinto entre os regimes, o que pode levar o intérprete a presumir, por engano, a mesma abrangência em ambos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T16:45:00+00:00"
+ },
+ {
+  "de": "lcp214.52",
+  "para": "lcp87.21",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 52 da LC 214/2025 determina que, nas operações sujeitas a alíquota zero, os créditos de IBS e CBS relativos às operações anteriores sejam mantidos, sem estorno. O inciso I do art. 21 da LC 87/96 exige o estorno do crédito de ICMS quando a saída ou a prestação posterior for não tributada ou isenta, sem mencionar expressamente a alíquota zero. A diferença de tratamento entre alíquota zero e isenção para fins de manutenção ou estorno do crédito é ponto classicamente sujeito a confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T16:45:00+00:00"
+ },
+ {
+  "de": "lcp227.139",
+  "para": "adct.134",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 139 da LC 227/2026 disciplina o ressarcimento em espécie, pelo CGIBS, do saldo credor homologado quando não for possível a compensação prevista no art. 138 da mesma lei. Essa regra regulamenta o aproveitamento dos saldos credores do ICMS existentes ao final de 2032, de que trata o art. 134 do ADCT, que remete expressamente essa disciplina aos termos de lei complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T16:45:00+00:00"
  }
 ]
