@@ -49417,5 +49417,135 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T11:56:14+00:00"
+ },
+ {
+  "de": "cf.167-D",
+  "para": "adct.113",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 167-D da Constituição Federal dispensa as proposições legislativas com propósito exclusivo de enfrentar calamidade da observância das limitações legais quanto a despesa obrigatória e renúncia de receita, o que abrange a exigência de estimativa de impacto orçamentário e financeiro do art. 113 do ADCT nessas hipóteses restritas e temporárias.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T12:50:24+00:00"
+ },
+ {
+  "de": "lcp214.22",
+  "para": "sc_icms_lei.37",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 37 da Lei 10.297/96 atribui a terceiros a condição de substituto tributário do ICMS ao longo da cadeia de circulação de mercadorias, instituto conexo mas distinto da responsabilidade solidária e da opção por substituição tributária atribuída à plataforma digital pelo art. 22 da LC 214/2025, que tem pressupostos e abrangência próprios para o IBS e a CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T12:50:24+00:00"
+ },
+ {
+  "de": "lcp214.23",
+  "para": "floripa_ctm.273",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 273 do CTM de Florianópolis exige a inscrição no Cadastro Municipal de Contribuintes de quem presta serviços sujeitos ao ISS ou responde como substituto tributário desse imposto, instituto conexo mas distinto da inscrição da plataforma digital no cadastro do IBS e da CBS exigida pelo art. 23 da LC 214/2025, cadastros que coexistirão durante a transição entre os sistemas tributários.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T12:50:24+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "lcp214.22",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 174 da LC 227/2026 deu nova redação ao art. 22 da LC 214/2025, alterando as hipóteses em que a plataforma digital responde solidariamente com o fornecedor residente e domiciliado no País e as condições de dispensa dessa responsabilidade quanto a diferenças do IBS e da CBS apuradas no split payment.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T12:50:24+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "lcp214.26",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 174 da LC 227/2026 deu nova redação ao art. 26 da LC 214/2025, alterando o rol de hipóteses em que fundos de investimento, inclusive fundos imobiliários e do agronegócio, são ou não considerados contribuintes do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T12:50:24+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "lcp214.28",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 174 da LC 227/2026 deu nova redação ao art. 28 da LC 214/2025, redefinindo as hipóteses de responsabilidade pelo recolhimento do IBS e da CBS nas operações com energia elétrica, incluindo o inciso relativo à transmissora de energia.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T12:50:24+00:00"
+ },
+ {
+  "de": "lcp227.174",
+  "para": "lcp214.29",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O art. 174 da LC 227/2026 deu nova redação ao art. 29 da LC 214/2025, alterando a regra de destinação da parcela do pagamento que exceder o saldo a recolher pelo contribuinte no período de apuração.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T12:50:24+00:00"
+ },
+ {
+  "de": "lcp214.26",
+  "para": "ctn.14",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 9º do art. 26 da LC 214/2025 remete expressamente ao art. 14 do Código Tributário Nacional, pois as entidades de autogestão em saúde e as entidades fechadas de previdência complementar dos incisos VIII e IX do caput só passam a ser contribuintes do IBS e da CBS se descumprirem os requisitos de imunidade ali previstos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T12:50:24+00:00"
+ },
+ {
+  "de": "lcp214.26",
+  "para": "lcp123.18-A",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso IV do caput do art. 26 da LC 214/2025 remete expressamente ao § 1º do art. 18-A da LC 123/2006 ao definir o nanoempreendedor como a pessoa física que aufere receita bruta inferior a 50% do limite de adesão ao MEI ali previsto.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T12:50:24+00:00"
+ },
+ {
+  "de": "lcp214.28",
+  "para": "lcp87.9",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º, inciso II, do art. 9º da LC 87/96 atribui à empresa geradora ou distribuidora de energia elétrica a responsabilidade pelo recolhimento do ICMS desde a produção até a última operação, regime de atribuição de responsabilidade nas operações com energia elétrica análogo mas distinto do que o art. 28 da LC 214/2025 impõe para o IBS e a CBS, que reparte o recolhimento entre distribuidora, alienante, comercializador varejista ou consumidor conforme o ambiente de contratação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T12:50:24+00:00"
+ },
+ {
+  "de": "lcp214.29",
+  "para": "l9430.61",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 29 da LC 214/2025 reproduz, para o IBS e a CBS, a mesma fórmula de multa de mora de 0,33% ao dia limitada a 20% e de juros Selic acrescidos de 1% no mês do pagamento que o art. 61 da Lei 9.430/96 fixa para os débitos de tributos federais administrados pela Secretaria da Receita Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T12:50:24+00:00"
+ },
+ {
+  "de": "lcp214.29",
+  "para": "ctn.161",
+  "tipo": "excepciona",
+  "grau": "mesmo",
+  "porque": "O art. 29 da LC 214/2025 fixa os juros de mora do IBS e da CBS pela taxa Selic, exercendo a ressalva do § 1º do art. 161 do Código Tributário Nacional, que só aplica o percentual de 1% ao mês se a lei não dispuser de modo diverso.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T12:50:24+00:00"
+ },
+ {
+  "de": "lcp214.25",
+  "para": "lef.2",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 25 da LC 214/2025 especializa, para as responsabilidades do IBS e da CBS, a mesma composição do crédito fiscal que o § 2º do art. 2º da Lei 6.830/80 estabelece de modo geral para a Dívida Ativa, abrangendo correção monetária, multa de mora e demais encargos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T12:50:24+00:00"
  }
 ]
