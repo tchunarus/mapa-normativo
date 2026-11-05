@@ -49917,5 +49917,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T17:56:00+00:00"
+ },
+ {
+  "de": "lcp227.48",
+  "para": "lcp214.480",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O caput do art. 48 da LC 227/2026 disciplina as fontes de custeio do Comitê Gestor do Imposto sobre Bens e Serviços, entidade cuja instituição consta do art. 480 da LC 214/2025, de modo que a lei posterior complementa, sem alterar, o regime de criação e estruturação administrativa, orçamentária e financeira já estabelecido para esse órgão.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T18:54:51+00:00"
+ },
+ {
+  "de": "lcp214.62",
+  "para": "lcp123.25-A",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 62 da LC 214/2025 obriga o compartilhamento dos documentos fiscais eletrônicos relativos ao IBS e à CBS com o ambiente nacional do Comitê Gestor do IBS, enquanto o art. 25-A da LC 123/06 trata do compartilhamento de dados de documentos fiscais entre as administrações tributárias no âmbito do Simples Nacional, na forma estabelecida pelo CGSN; a semelhança de objeto pode levar à confusão sobre qual comitê gestor e qual leiaute de compartilhamento se aplicam a cada tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T18:54:51+00:00"
+ },
+ {
+  "de": "lcp214.63",
+  "para": "lcp87.2",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O caput do art. 63 da LC 214/2025 sujeita ao IBS e à CBS a importação de bens ou serviços realizada por pessoa física ou jurídica ainda que não inscrita no regime regular, com redação equivalente à do art. 2º, § 1º, I, da LC 87/96, que já sujeita ao ICMS a entrada de mercadoria ou bem importados do exterior por quem não seja contribuinte habitual; durante a coexistência dos dois tributos, há risco real de se confundir as duas hipóteses de incidência sobre a mesma importação.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T18:54:51+00:00"
+ },
+ {
+  "de": "lcp214.67",
+  "para": "ctn.46",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 67 da LC 214/2025 fixa como fato gerador do IBS e da CBS na importação de bens materiais a liberação dos bens submetidos a despacho para consumo, momento muito próximo ao do inciso I do art. 46 do CTN, que define o desembaraço aduaneiro de produto de procedência estrangeira como fato gerador do imposto sobre produtos industrializados; a proximidade entre os dois eventos aduaneiros gera risco de se confundir o momento de ocorrência de cada tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T18:54:51+00:00"
+ },
+ {
+  "de": "lcp214.68",
+  "para": "lcp87.11",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "Os incisos I, II e III do art. 68 da LC 214/2025 definem o local da importação de bens materiais para fins do IBS e da CBS, de maneira correspondente às alíneas d e e do inciso I do art. 11 da LC 87/96, que já fixam o local da importação para fins de cobrança do ICMS a partir da entrada física do bem ou do domicílio do adquirente não estabelecido; a coexistência dos dois tributos sobre a mesma operação cria risco de se aplicar a regra de localização equivocada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-05T18:54:51+00:00"
  }
 ]
