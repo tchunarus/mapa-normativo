@@ -50317,5 +50317,45 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-06T02:09:02+00:00"
+ },
+ {
+  "de": "lcp214.122",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 7º do art. 156-B da Constituição Federal autoriza o Comitê Gestor do IBS e a administração tributária da União a implementar soluções integradas para a administração e a cobrança dos tributos referidos nos arts. 156-A e 195, V, e o art. 122 da LC 214/2025 exerce exatamente essa autorização ao prever que a RFB e o Comitê Gestor do IBS implementem soluções integradas para a administração do sistema de devolução unificada das parcelas de CBS e de IBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T02:12:47+00:00"
+ },
+ {
+  "de": "lcp214.126",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O caput do art. 9º da Emenda Constitucional 132/2023 autoriza a lei complementar a prever os regimes diferenciados de tributação do IBS e da CBS, de maneira uniforme em todo o território nacional e com os respectivos ajustes nas alíquotas de referência para reequilibrar a arrecadação da esfera federativa, e o art. 126 da LC 214/2025 institui exatamente esses regimes diferenciados, nos mesmos termos dessa autorização constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T02:12:47+00:00"
+ },
+ {
+  "de": "lcp214.127",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 12 do art. 9º da Emenda Constitucional 132/2023 determina que a lei complementar estabeleça a redução de 30% das alíquotas do IBS e da CBS para a prestação de serviços de profissão intelectual, de natureza científica, literária ou artística, submetidos a fiscalização por conselho profissional, e o art. 127 da LC 214/2025 regulamenta exatamente essa reserva, reproduzindo a mesma redução de 30% e elencando os profissionais abrangidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T02:12:47+00:00"
+ },
+ {
+  "de": "lcp214.128",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 1º do art. 9º da Emenda Constitucional 132/2023 determina que a lei complementar defina as operações beneficiadas com redução de 60% das alíquotas do IBS e da CBS, entre elas os serviços de educação, os serviços de saúde, os dispositivos médicos e os dispositivos de acessibilidade para pessoas com deficiência, e o art. 128 da LC 214/2025 regulamenta essa mesma reserva, reproduzindo a redução de 60% para essas e outras operações ali relacionadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T02:12:47+00:00"
  }
 ]
