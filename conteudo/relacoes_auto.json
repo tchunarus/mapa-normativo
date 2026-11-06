@@ -50917,5 +50917,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-06T16:28:23+00:00"
+ },
+ {
+  "de": "lcp214.176",
+  "para": "ctn.51",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 176 da LC 214/2025 e o art. 51 do CTN definem, cada um para seu tributo, quem é contribuinte de um tributo incidente sobre a produção e a circulação de bens, com sobreposição parcial dos agentes alcançados, pois ambos citam o importador e o produtor industrial. Como tratam de tributos distintos, o IPI e o regime específico de IBS e CBS sobre combustíveis, há risco de se confundir o rol de contribuintes de um regime com o do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T17:26:18+00:00"
+ },
+ {
+  "de": "lcp214.181",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 10 da EC 132/2023 define, para fins do inciso II do § 6º do art. 156-A da Constituição Federal, o que são serviços financeiros sujeitos a regime específico de incidência, e o art. 181 da LC 214/2025 regulamenta esse mesmo regime específico ao submeter os serviços financeiros à tributação diferenciada prevista no Capítulo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T17:26:18+00:00"
+ },
+ {
+  "de": "lcp214.182",
+  "para": "lcp105.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 182 da LC 214/2025 relaciona os serviços financeiros sujeitos ao regime específico do IBS e da CBS, e o § 1º do art. 1º da LC 105/2001 relaciona, para fins de sigilo bancário, as entidades consideradas instituições financeiras, entre elas bancos, distribuidoras e corretoras de valores mobiliários e de câmbio, sociedades de crédito, financiamento e investimento, sociedades de crédito imobiliário, administradoras de cartões de crédito, sociedades de arrendamento mercantil e cooperativas de crédito. Os róis se sobrepõem em parte, mas servem a finalidades diferentes, o sigilo bancário e a incidência tributária, o que pode levar a se confundir o alcance de um conceito com o do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T17:26:18+00:00"
  }
 ]
