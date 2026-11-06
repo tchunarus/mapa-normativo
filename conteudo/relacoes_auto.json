@@ -50617,5 +50617,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp214.164",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 164 da LC 214/2025 regulamenta o § 4º do art. 9º da EC 132/2023, que faculta ao produtor rural com receita anual inferior ao limite nele fixado optar por ser contribuinte do IBS e da CBS, ao estabelecer que, na ausência dessa opção, tais produtores não serão considerados contribuintes dos referidos tributos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T10:46:44+00:00"
+ },
+ {
+  "de": "lcp214.168",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 168 da LC 214/2025 regulamenta o § 5º do art. 9º da EC 132/2023, que autoriza a concessão de crédito ao contribuinte adquirente de bens e serviços de produtor rural não contribuinte, ao disciplinar o cálculo e a apropriação do crédito presumido correspondente.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T10:46:44+00:00"
+ },
+ {
+  "de": "lcp214.169",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 169 da LC 214/2025 regulamenta o inciso I do § 6º do art. 9º da EC 132/2023, que autoriza a concessão de crédito ao contribuinte adquirente de serviço de transportador autônomo de carga pessoa física não contribuinte, ao disciplinar o cálculo desse crédito presumido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T10:46:44+00:00"
+ },
+ {
+  "de": "lcp214.171",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 171 da LC 214/2025 regulamenta o § 7º do art. 9º da EC 132/2023, que autoriza lei complementar a prever crédito ao contribuinte que adquira bem móvel usado de pessoa física não contribuinte para revenda, ao fixar os percentuais e as condições de apropriação desse crédito presumido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T10:46:44+00:00"
+ },
+ {
+  "de": "lcp214.444",
+  "para": "adct.92-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 444 da LC 214/2025 regulamenta o caput do art. 92-B do ADCT, que impõe às leis instituidoras do IBS e da CBS o dever de manter o diferencial competitivo da Zona Franca de Manaus, ao conceder crédito presumido de IBS na importação de bem material para revenda presencial na área incentivada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T10:46:44+00:00"
+ },
+ {
+  "de": "lcp214.467",
+  "para": "adct.92-B",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 467 da LC 214/2025 regulamenta o caput do art. 92-B do ADCT, que impõe às leis instituidoras do IBS e da CBS o dever de manter o diferencial competitivo assegurado às áreas de livre comércio, ao conceder crédito presumido de CBS à indústria instalada nessas áreas pela produção local de bens.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T10:46:44+00:00"
+ },
+ {
+  "de": "lcp214.144",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 144 da LC 214/2025 regulamenta a alínea a do inciso II do § 3º, combinada com o inciso III do § 1º, do art. 9º da EC 132/2023, ao reduzir a zero as alíquotas do IBS e da CBS sobre os dispositivos médicos especificados nos Anexos IV e XII desta Lei Complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T10:46:44+00:00"
+ },
+ {
+  "de": "lcp214.145",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 145 da LC 214/2025 regulamenta a alínea a do inciso II do § 3º, combinada com o inciso IV do § 1º, do art. 9º da EC 132/2023, ao reduzir a zero as alíquotas do IBS e da CBS sobre os dispositivos de acessibilidade para pessoas com deficiência especificados nos Anexos V e XIII desta Lei Complementar.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T10:46:44+00:00"
  }
 ]
