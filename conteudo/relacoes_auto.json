@@ -50357,5 +50357,105 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-06T02:12:47+00:00"
+ },
+ {
+  "de": "ec132.9",
+  "para": "cf.156-A",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O caput do art. 9º da EC 132/2023 refere-se expressamente ao imposto de que trata o art. 156-A da Constituição Federal, que institui o IBS, delimitando o alcance dos regimes diferenciados de tributação tratados no próprio art. 9º.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T07:40:31+00:00"
+ },
+ {
+  "de": "ec132.9",
+  "para": "adct.130",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 9º, caput e §10, da EC 132/2023 exige que os regimes diferenciados sejam acompanhados de ajustes nas alíquotas de referência para reequilibrar a arrecadação, e o art. 130 do ADCT detalha, no mesmo regime, a forma de fixação dessas alíquotas de referência pelo Senado Federal.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T07:40:31+00:00"
+ },
+ {
+  "de": "ec132.9",
+  "para": "lcp227.108",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "Os créditos ao adquirente de produtor rural e de transportador autônomo não contribuintes, autorizados pelo art. 9º, §§5º e 6º, da EC 132/2023, são financiados pelo ajuste na receita de cada ente federativo disciplinado pelo art. 108 da LC 227/2026, que deduz o valor desses créditos presumidos na apuração da receita distribuída.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T07:40:31+00:00"
+ },
+ {
+  "de": "ec132.9",
+  "para": "adct.126",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 9º da EC 132/2023 autoriza regimes diferenciados dentro do novo sistema do IBS e da CBS, e o art. 126 do ADCT fixa o cronograma de cobrança desses tributos e de extinção das contribuições substituídas a partir de 2027, disciplinando a implantação do mesmo regime tributário em que se inserem os regimes diferenciados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T07:40:31+00:00"
+ },
+ {
+  "de": "lcp214.129",
+  "para": "ec132.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 129 da LC 214/2025 concretiza, para os serviços de educação, a redução de 60% das alíquotas do IBS e da CBS autorizada pelo art. 9º, §1º, I, da EC 132/2023, que inclui os serviços de educação entre os beneficiados pelo regime diferenciado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T07:40:31+00:00"
+ },
+ {
+  "de": "lcp214.130",
+  "para": "ec132.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 130 da LC 214/2025 concretiza, para os serviços de saúde, a redução de 60% das alíquotas do IBS e da CBS autorizada pelo art. 9º, §1º, II, da EC 132/2023, que inclui os serviços de saúde entre os beneficiados pelo regime diferenciado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T07:40:31+00:00"
+ },
+ {
+  "de": "lcp214.131",
+  "para": "ec132.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 131 da LC 214/2025 concretiza, para os dispositivos médicos, a redução de 60% das alíquotas do IBS e da CBS autorizada pelo art. 9º, §1º, III, da EC 132/2023, que inclui esses dispositivos entre os bens beneficiados pelo regime diferenciado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T07:40:31+00:00"
+ },
+ {
+  "de": "lcp214.132",
+  "para": "ec132.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 132 da LC 214/2025 concretiza, para os dispositivos de acessibilidade próprios para pessoas com deficiência, a redução de 60% das alíquotas do IBS e da CBS autorizada pelo art. 9º, §1º, IV, da EC 132/2023.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T07:40:31+00:00"
+ },
+ {
+  "de": "lcp214.133",
+  "para": "ec132.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 133 da LC 214/2025 concretiza, para os medicamentos registrados na Anvisa ou produzidos por farmácias de manipulação, a redução de 60% das alíquotas do IBS e da CBS autorizada pelo art. 9º, §1º, V, da EC 132/2023, e o §1º do art. 133 estende essa redução às composições para nutrição enteral e parenteral de que trata o §13, I, do art. 9º da emenda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T07:40:31+00:00"
+ },
+ {
+  "de": "lcp214.135",
+  "para": "ec132.9",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 135 da LC 214/2025 concretiza, para os alimentos destinados ao consumo humano, a redução de 60% das alíquotas do IBS e da CBS autorizada pelo art. 9º, §1º, VIII, da EC 132/2023, que inclui esses alimentos entre os bens beneficiados pelo regime diferenciado.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T07:40:31+00:00"
  }
 ]
