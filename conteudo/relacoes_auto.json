@@ -50837,5 +50837,85 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-06T14:43:39+00:00"
+ },
+ {
+  "de": "lcp214.176",
+  "para": "lcp87.9",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 176 da LC 214/2025 define como contribuintes do regime específico de IBS e CBS sobre combustíveis o produtor, a refinaria, a central petroquímica, o formulador e o importador, enquanto o § 1º do art. 9 da LC 87/96 atribui ao contribuinte que realiza operação interestadual com petróleo e combustíveis a condição de substituto tributário do ICMS. Os dois dispositivos tratam de sujeitos distintos da cadeia de combustíveis, um como contribuinte originário do novo tributo e outro como substituto tributário do imposto estadual em extinção, o que gera risco de confusão entre os dois regimes.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T16:28:23+00:00"
+ },
+ {
+  "de": "lcp214.177",
+  "para": "lcp87.5",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O inciso III do § 1º do art. 177 da LC 214/2025 estende a responsabilidade solidária pelo IBS e pela CBS a quem comprovadamente concorreu para o não pagamento do tributo pelo contribuinte, enquanto o art. 5º da LC 87/96 permite atribuir a terceiros a responsabilidade pelo ICMS quando atos ou omissões destes concorrerem para o não recolhimento do tributo. Os dois dispositivos tratam de institutos próximos de responsabilização de terceiro por participação no inadimplemento, em tributos distintos, o que exige cuidado para não transpor automaticamente requisitos de um regime ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T16:28:23+00:00"
+ },
+ {
+  "de": "lcp214.178",
+  "para": "sc_icms_lei.37",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 178 da LC 214/2025 atribui à refinaria, à CPQ, ao formulador e ao importador a responsabilidade pela retenção e pelo recolhimento do IBS e da CBS sobre o EAC, enquanto o inciso II do art. 37 da Lei 10.297/96 de Santa Catarina atribui ao estabelecimento produtor, ao importador, ao atacadista ou ao distribuidor a condição de substituto tributário do ICMS pelas saídas subsequentes de mercadorias. Os dois dispositivos elegem agentes semelhantes da cadeia de combustíveis como responsáveis tributários, mas em regimes de incidência diferentes, o que pode gerar confusão entre a sujeição passiva do IBS e da CBS e a substituição tributária do ICMS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T16:28:23+00:00"
+ },
+ {
+  "de": "lcp214.178",
+  "para": "lcp227.178",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 178 da LC 214/2025 atribui responsabilidade pela retenção e pelo recolhimento do IBS e da CBS sobre as saídas e importações de EAC, insumo que o art. 178 da LC 227/2026 define ao alterar o inciso I do art. 2º da Lei Complementar 192/2022, que inclui a gasolina e suas correntes, entre elas o etanol anidro combustível. Os dois dispositivos integram o mesmo regime de tributação monofásica dos combustíveis, um definindo tecnicamente o insumo tributado e o outro atribuindo a sujeição passiva sobre ele.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T16:28:23+00:00"
+ },
+ {
+  "de": "lcp214.180",
+  "para": "sc_icms_lei.101-C",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 180 da LC 214/2025 veda a apropriação de créditos nas aquisições de combustíveis sujeitos à incidência única do IBS e da CBS, regime que sucede o do art. 101-C da Lei 10.297/96 de Santa Catarina, que prevê a incidência monofásica do ICMS sobre combustíveis em substituição ao regime plurifásico. Os dois dispositivos tratam da mesma técnica de tributação monofásica sobre combustíveis, aplicada a tributos diferentes, de modo que as regras de creditamento de um regime não se confundem com as do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T16:28:23+00:00"
+ },
+ {
+  "de": "lcp214.180",
+  "para": "lcp227.113",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 113 da LC 227/2026 computa, para fins de repartição federativa do IBS, a diferença entre o montante do imposto extinto e o crédito apropriado nas aquisições de combustíveis sujeitos à incidência única, créditos cuja apropriação o art. 180 da LC 214/2025 veda, ressalvadas as exceções de seu § 1º. Os dois dispositivos integram o mesmo regime específico de combustíveis, um disciplinando o direito de crédito do contribuinte e o outro o cálculo da receita distribuída aos entes federativos a partir desse crédito.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T16:28:23+00:00"
+ },
+ {
+  "de": "lcp214.182",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O inciso I do art. 10 da EC 132/2023 relaciona, para fins do § 6º, II, do art. 156-A da Constituição Federal, as operações que constituem serviços financeiros sujeitos a regime específico do IBS e da CBS, lista que o art. 182 da LC 214/2025 reproduz e detalha, incluindo operações de crédito, câmbio, títulos e valores mobiliários, arrendamento mercantil, faturização, securitização, consórcio, seguros, resseguros, previdência privada, capitalização, arranjos de pagamento e ativos virtuais. O art. 182 regulamenta, no plano da lei complementar, o rol de serviços financeiros autorizado pela emenda constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T16:28:23+00:00"
+ },
+ {
+  "de": "lcp214.183",
+  "para": "lcp105.1",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O § 1º do art. 183 da LC 214/2025 lista as pessoas físicas e jurídicas supervisionadas pelo Sistema Financeiro Nacional sujeitas ao regime específico do IBS e da CBS sobre serviços financeiros, rol que inclui bancos, caixas econômicas, cooperativas de crédito e corretoras de câmbio e de valores mobiliários. O § 1º do art. 1º da LC 105/01 enumera rol semelhante de instituições financeiras sujeitas ao sigilo bancário, para finalidade distinta, de modo que a sobreposição parcial das duas listas pode induzir à confusão entre a sujeição tributária e o dever de sigilo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T16:28:23+00:00"
  }
 ]
