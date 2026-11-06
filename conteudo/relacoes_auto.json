@@ -50267,5 +50267,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-05T23:54:29+00:00"
+ },
+ {
+  "de": "lcp227.98-B",
+  "para": "lcp214.106",
+  "tipo": "altera",
+  "grau": "mesmo",
+  "porque": "O trecho do art. 174 da LC 227/2026 registrado sob o id do art. 98-B, que insere esse novo artigo na LC 214/2025, traz em seguida a nova redação do art. 106, acrescentando o seu § 7º, que estende os benefícios fiscais do regime especial ali tratado aos beneficiários do Regime Especial de Incentivos para a Produção de Hidrogênio de Baixa Emissão de Carbono (Rehidro), instituído pela Lei nº 14.948, de 2024.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T00:53:17+00:00"
+ },
+ {
+  "de": "lcp227.98-B",
+  "para": "lcp214.105",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 98-B da LC 227/2026, inserido na LC 214/2025, prevê que a suspensão do pagamento do IBS e da CBS decorrente de regime aduaneiro especial se converte em alíquota zero quando o bem material for destruído sob controle aduaneiro; essa hipótese adicional de conversão complementa o § 2º do art. 105, que já prevê a conversão em alíquota zero após cinco anos para os beneficiários do Reporto, sem substituir essa regra específica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T00:53:17+00:00"
+ },
+ {
+  "de": "lcp227.98-B",
+  "para": "lcp214.107",
+  "tipo": "complementa",
+  "grau": "mesmo",
+  "porque": "O art. 98-B da LC 227/2026, inserido na LC 214/2025, prevê que a suspensão do pagamento do IBS e da CBS decorrente de regime aduaneiro especial se converte em alíquota zero quando o bem material for destruído sob controle aduaneiro; essa hipótese adicional de conversão complementa o § 2º do art. 107, que já prevê a conversão em alíquota zero conforme o inciso do caput em que se enquadra o beneficiário do Renaval, sem substituir essa regra específica.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T00:53:17+00:00"
  }
 ]
