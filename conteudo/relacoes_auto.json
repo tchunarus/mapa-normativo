@@ -50807,5 +50807,35 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-06T13:55:45+00:00"
+ },
+ {
+  "de": "lcp214.163",
+  "para": "cp.93",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 163 da LC 214/2025 trata da reabilitação urbana, conceito vinculado ao benefício fiscal do IBS e da CBS para requalificação de áreas urbanas, enquanto o art. 93 do CP trata da reabilitação criminal, instituto que extingue efeitos secundários da condenação. Há risco de confusão terminológica entre os dois institutos homônimos, que não guardam relação de conteúdo entre si.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T14:43:39+00:00"
+ },
+ {
+  "de": "lcp214.170",
+  "para": "lcp227.108",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 108 da LC 227/2026 refere-se expressamente aos créditos presumidos do IBS previstos na Lei Complementar nº 214, de 2025, ao determinar que o valor correspondente seja deduzido da receita apurada de cada ente federativo. O art. 170 da LC 214/2025 institui um desses créditos presumidos, concedido ao contribuinte do regime regular pela aquisição de resíduos sólidos de coletores incentivados, de modo que a LC 227/2026 regula o reflexo desse benefício no cálculo da receita distribuída aos entes federativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T14:43:39+00:00"
+ },
+ {
+  "de": "lcp214.174",
+  "para": "cf.153",
+  "tipo": "remete_a",
+  "grau": "contato",
+  "porque": "O § 1º e o § 2º do art. 174 da LC 214/2025 utilizam expressamente o imposto previsto no inciso IV do caput do art. 153 da Constituição Federal (IPI) e o imposto previsto no inciso V do caput do mesmo artigo sobre operações de seguro (IOF) como parâmetros para calcular a carga tributária de referência que limita a alíquota da CBS sobre combustíveis em 2027. O art. 153 da CF é citado apenas como ponto de comparação, sem que os dois dispositivos regulem o mesmo tributo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T14:43:39+00:00"
  }
 ]
