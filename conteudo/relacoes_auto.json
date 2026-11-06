@@ -50747,5 +50747,65 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-06T12:46:47+00:00"
+ },
+ {
+  "de": "lcp214.155",
+  "para": "lef.21",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos empregam a expressão alienação antecipada em sentidos distintos: no art. 155 da LC 214/2025 ela designa a revenda do automóvel adquirido com benefício fiscal antes do prazo mínimo de permanência, obrigando o alienante a recolher os tributos dispensados, ao passo que no art. 21 da LEF ela se refere à venda judicial antecipada de bens penhorados em execução fiscal, sem relação com benefícios fiscais sobre veículos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T13:55:45+00:00"
+ },
+ {
+  "de": "lcp214.157",
+  "para": "cf.175",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "A isenção do art. 157 da LC 214/2025 só alcança o transporte público coletivo prestado sob regime de autorização, permissão ou concessão pública, que é precisamente o regime de prestação de serviços públicos disciplinado pelo art. 175 da Constituição Federal, de modo que a configuração desse regime é condição para a isenção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T13:55:45+00:00"
+ },
+ {
+  "de": "lcp214.158",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 158 da LC 214/2025 institui um dos regimes diferenciados de tributação do IBS e da CBS, consistente na redução de alíquotas para reabilitação urbana de zonas históricas, cuja autorização consta do art. 9º da EC 132/2023, que permite à lei complementar prever tais regimes desde que uniformes em todo o território nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T13:55:45+00:00"
+ },
+ {
+  "de": "lcp214.159",
+  "para": "cf.159-A",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O parágrafo único do art. 159 da LC 214/2025 remete expressamente ao fundo de que trata o art. 159-A da Constituição Federal, determinando que os Estados e o Distrito Federal considerem os objetivos de reabilitação urbana ali descritos na utilização dos recursos desse Fundo Nacional de Desenvolvimento Regional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T13:55:45+00:00"
+ },
+ {
+  "de": "lcp214.160",
+  "para": "cp.93",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "Os dois dispositivos empregam o termo reabilitação em institutos totalmente distintos: o art. 160 da LC 214/2025 trata da reabilitação urbana de zonas históricas e áreas críticas para fins de benefício fiscal, enquanto o art. 93 do Código Penal disciplina a reabilitação criminal, que restabelece o sigilo dos registros do condenado após o cumprimento da pena.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T13:55:45+00:00"
+ },
+ {
+  "de": "lcp214.161",
+  "para": "lcp227.8",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "A Comissão Tripartite do art. 161 da LC 214/2025 inclui representantes do Comitê Gestor do IBS, órgão cuja composição, com representantes dos Estados, do Distrito Federal e dos Municípios, é disciplinada pelo art. 8º da LC 227/2026.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T13:55:45+00:00"
  }
 ]
