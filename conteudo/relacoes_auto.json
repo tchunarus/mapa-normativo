@@ -50297,5 +50297,25 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-06T00:53:17+00:00"
+ },
+ {
+  "de": "lcp214.115",
+  "para": "cf.156-B",
+  "tipo": "regulamenta",
+  "grau": "conexo",
+  "porque": "O art. 156-B da CF atribui ao Comitê Gestor do Imposto sobre Bens e Serviços as competências administrativas do caput, incisos I a III, a serem exercidas nos termos e limites estabelecidos na Constituição e em lei complementar. O art. 115 da LC 214/2025 exerce essa delegação ao atribuir ao mesmo Comitê Gestor a competência específica para gerir a devolução do IBS prevista no art. 112, II, desta Lei Complementar, respeitadas as especificidades dessa atribuição em relação às competências gerais do art. 156-B.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T02:09:02+00:00"
+ },
+ {
+  "de": "lcp214.118",
+  "para": "lcp227.107",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 118 da LC 214/2025 fixa os percentuais aplicáveis à devolução geral do IBS às pessoas físicas de baixa renda, prevista no art. 112, II, desta Lei Complementar. O art. 107 da LC 227/2026 deduz da receita inicial de cada ente federativo, no inciso I do caput, exatamente o valor destinado a essa devolução geral do IBS, calculado por percentual sobre essa receita, em remissão expressa à Lei Complementar nº 214, de 16 de janeiro de 2025.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T02:09:02+00:00"
  }
 ]
