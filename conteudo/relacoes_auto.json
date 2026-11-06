@@ -50457,5 +50457,165 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-06T07:40:31+00:00"
+ },
+ {
+  "de": "lcp227.108",
+  "para": "lcp214.164",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso I do § 2º do art. 108 da LC 227/2026 remete expressamente ao art. 164 da LC 214/2025 ao definir que os créditos presumidos financiados pela retenção são os relativos às aquisições de produtor rural não contribuinte do IBS, tratados naquele dispositivo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp227.108",
+  "para": "lcp214.169",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso II do § 2º do art. 108 da LC 227/2026 remete ao art. 169 da LC 214/2025 ao identificar como financiados pela retenção os créditos presumidos relativos à aquisição de serviço de transportador autônomo de carga não contribuinte do IBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp227.108",
+  "para": "lcp214.171",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso IV do § 2º do art. 108 da LC 227/2026 remete ao art. 171 da LC 214/2025 ao incluir entre os créditos financiados pela retenção aqueles relativos à aquisição, para revenda, de bem móvel usado de pessoa física não contribuinte.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp227.108",
+  "para": "lcp214.444",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso VI do § 2º do art. 108 da LC 227/2026 remete ao art. 444 da LC 214/2025 ao incluir entre os créditos financiados pela retenção o benefício de crédito presumido concedido à Zona Franca de Manaus na importação de bem material para revenda presencial.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp227.108",
+  "para": "lcp214.467",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O inciso VI do § 2º do art. 108 da LC 227/2026 remete também ao art. 467 da LC 214/2025, que concede crédito presumido de CBS à indústria instalada na área de livre comércio, benefício igualmente financiado pela retenção prevista no caput deste artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp227.108",
+  "para": "adct.131",
+  "tipo": "remete_a",
+  "grau": "mesmo",
+  "porque": "O § 4º do art. 108 da LC 227/2026 define a receita destinada a cada ente federativo com base nas alíquotas de referência de que trata o § 1º do art. 131 do ADCT, vinculando o ajuste de receita ao regime de distribuição ali estabelecido.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp214.136",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 136 da LC 214/2025 regulamenta o § 1º, inciso IX, do art. 9º da EC 132/2023, que autoriza a redução de 60% das alíquotas do IBS e da CBS para produtos de higiene pessoal e limpeza majoritariamente consumidos por famílias de baixa renda.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp214.137",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 137 da LC 214/2025 regulamenta o § 1º, inciso X, do art. 9º da EC 132/2023, que autoriza a redução de 60% das alíquotas do IBS e da CBS para produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp214.138",
+  "para": "lcp214.168",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O § 2º, alíneas b dos incisos I e II, e o § 9º, inciso I, do art. 138 da LC 214/2025 remetem ao art. 168 desta Lei Complementar ao condicionar o diferimento do IBS e da CBS sobre insumos agropecuários à utilização por produtor rural com direito aos créditos presumidos ali estabelecidos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp214.138",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 138 da LC 214/2025 regulamenta o § 1º, inciso XI, do art. 9º da EC 132/2023, que autoriza a redução de 60% das alíquotas do IBS e da CBS para insumos agropecuários e aquícolas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp214.139",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 139 da LC 214/2025 regulamenta o § 1º, inciso XII, do art. 9º da EC 132/2023, que autoriza a redução de 60% das alíquotas do IBS e da CBS para produções artísticas, culturais, de eventos, jornalísticas e audiovisuais nacionais, atividades desportivas e comunicação institucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp214.140",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 140 da LC 214/2025 regulamenta o § 1º, inciso XII, do art. 9º da EC 132/2023, ao definir os serviços de comunicação institucional prestados à administração pública direta, às autarquias e às fundações públicas que se beneficiam da redução de 60% das alíquotas do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp214.140",
+  "para": "cf.149-C",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 140 da LC 214/2025 institui regime próprio de redução de 60% das alíquotas do IBS e da CBS para os serviços de comunicação institucional prestados à administração pública, excepcionando a destinação ao ente contratante mediante alíquota zero prevista no caput do art. 149-C da Constituição Federal, com amparo na exceção autorizada pelo § 2º desse mesmo artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp214.142",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 142 da LC 214/2025 regulamenta o § 1º, inciso XIII, do art. 9º da EC 132/2023, que autoriza a redução de 60% das alíquotas do IBS e da CBS para bens e serviços relacionados a soberania e segurança nacional, segurança da informação e segurança cibernética.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp214.142",
+  "para": "cf.149-C",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O inciso I do art. 142 da LC 214/2025 reduz em 60% as alíquotas do IBS e da CBS no fornecimento à administração pública direta, às autarquias e às fundações públicas de bens e serviços de soberania e segurança nacional, excepcionando, para essa hipótese, a destinação ao ente contratante mediante alíquota zero prevista no caput do art. 149-C da Constituição Federal, com amparo na exceção autorizada pelo § 2º desse artigo.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
+ },
+ {
+  "de": "lcp214.143",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 143 da LC 214/2025 regulamenta o § 3º, inciso II, do art. 9º da EC 132/2023, que autoriza a redução em 100% das alíquotas do IBS e da CBS para dispositivos médicos, dispositivos de acessibilidade, medicamentos, produtos de cuidados básicos à saúde menstrual, produtos hortícolas, frutas e ovos, automóveis adquiridos por pessoas com deficiência ou destinados a táxi e serviços de instituição científica, tecnológica e de inovação sem fins lucrativos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T09:46:00+00:00"
  }
 ]
