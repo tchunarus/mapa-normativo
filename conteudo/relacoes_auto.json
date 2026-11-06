@@ -50697,5 +50697,55 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-06T10:46:44+00:00"
+ },
+ {
+  "de": "lcp214.146",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 146 da LC 214/2025 reduz a zero as alíquotas do IBS e da CBS sobre medicamentos, regulamentando o § 3º, II, a, do art. 9º da EC 132/2023, que autoriza redução de 100% para os bens do § 1º, V. A diferença é que a emenda apenas autoriza o benefício, enquanto a lei complementar o concretiza com a lista de medicamentos do Anexo XIV.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T12:46:47+00:00"
+ },
+ {
+  "de": "lcp214.147",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 147 da LC 214/2025 zera as alíquotas do IBS e da CBS sobre produtos de cuidados básicos à saúde menstrual, regulamentando o § 3º, II, a, do art. 9º da EC 132/2023, que autoriza redução de 100% para os bens do § 1º, VI. A emenda constitucional apenas autoriza a medida, enquanto a lei complementar define os produtos beneficiados por código NCM/SH.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T12:46:47+00:00"
+ },
+ {
+  "de": "lcp214.148",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 148 da LC 214/2025 reduz a zero as alíquotas do IBS e da CBS sobre produtos hortícolas, frutas e ovos, regulamentando o § 3º, II, b, do art. 9º da EC 132/2023, que determina redução de 100% para esses mesmos produtos. A emenda fixa a diretriz geral e a lei complementar discrimina os produtos abrangidos conforme a classificação da NCM/SH.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T12:46:47+00:00"
+ },
+ {
+  "de": "lcp214.149",
+  "para": "ec132.9",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 149 da LC 214/2025 reduz a zero as alíquotas do IBS e da CBS sobre a venda de automóveis a taxistas e a pessoas com deficiência, regulamentando o § 3º, II, d, do art. 9º da EC 132/2023, que autoriza redução de 100% nessas hipóteses. A emenda traça a autorização genérica e a lei complementar detalha os requisitos e os limites de valor do benefício.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T12:46:47+00:00"
+ },
+ {
+  "de": "lcp214.150",
+  "para": "floripa_ctm.497",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 150 da LC 214/2025 define pessoa com deficiência, para as reduções federais de IBS e CBS, por critérios técnicos detalhados de deficiência física, auditiva, visual e mental, exigindo laudo nos termos do art. 151 desta Lei Complementar. O art. 497 do CTM de Florianópolis usa rótulo semelhante para o desconto municipal de IPTU a empresas empregadoras, sem adotar os mesmos critérios técnicos nem exigir laudo equivalente, o que pode levar a se presumir indevidamente a mesma definição entre os dois benefícios fiscais distintos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-06T12:46:47+00:00"
  }
 ]
