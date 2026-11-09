@@ -50947,5 +50947,145 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-06T17:26:18+00:00"
+ },
+ {
+  "de": "lcp214.183",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 183 da LC 214/2025 regulamenta a aplicação do regime específico de que trata o caput do art. 10 da EC 132/2023, especificando que a sujeição ocorre quando os serviços financeiros forem prestados por pessoas físicas e jurídicas supervisionadas pelos órgãos que compõem o Sistema Financeiro Nacional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "lcp214.212",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 212 da LC 214/2025 regulamenta a hipótese do inciso II do § 1º do art. 10 da EC 132/2023, submetendo as operações relacionadas ao Fundo de Garantia do Tempo de Serviço à incidência do IBS e da CBS, por alíquota nacionalmente uniforme fixada de modo a manter a carga tributária incidente sobre essas operações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "lcp214.213",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 213 da LC 214/2025 regulamenta o § 2º do art. 10 da EC 132/2023, ao estender aos demais fundos garantidores e executores de políticas públicas o mesmo tratamento previsto para as operações relacionadas ao Fundo de Garantia do Tempo de Serviço.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "lcp214.252",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 252 da LC 214/2025 regulamenta o inciso II do art. 10 da EC 132/2023, detalhando o regime das operações com bens imóveis mencionadas na norma constitucional, como alienação, locação, arrendamento e os serviços de administração, intermediação e construção civil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "lcp214.220",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 220 da LC 214/2025 regulamenta a alínea b do inciso I do art. 10 da EC 132/2023, submetendo à incidência do IBS e da CBS as atividades das entidades administradoras de mercados organizados, infraestruturas de mercado e depositárias centrais mencionadas na norma constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "lcp227.113",
+  "para": "lcp214.182",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O inciso II do art. 113 da LC 227/2026 complementa o regime de serviços financeiros definido no art. 182 da LC 214/2025, disciplinando a forma de distribuição, entre os entes federativos, da receita do IBS arrecadada nas operações de crédito, de câmbio e com títulos e valores mobiliários ali elencadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "lcp227.113",
+  "para": "ec132.10",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A alínea a do inciso II do art. 113 da LC 227/2026 complementa o regime de serviços financeiros do art. 10 da EC 132/2023, regulando a repartição entre os entes federativos da receita do IBS incidente sobre as operações de crédito, de câmbio e com títulos e valores mobiliários mencionadas na norma constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "lcp227.113",
+  "para": "lcp214.201",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A alínea b do inciso II do art. 113 da LC 227/2026 complementa o regime de arrendamento mercantil disciplinado pelo art. 201 da LC 214/2025, regulando a distribuição, entre os entes federativos, da receita do IBS apurada nas operações de arrendamento mercantil ali tratadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "lcp227.113",
+  "para": "lcp214.204",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A alínea c do inciso II do art. 113 da LC 227/2026 complementa o regime de administração de consórcio disciplinado pelo art. 204 da LC 214/2025, regulando a distribuição, entre os entes federativos, da receita do IBS apurada nas operações de administração e de intermediação de consórcio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "lcp227.113",
+  "para": "lcp214.193",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "A alínea a do inciso II do art. 113 da LC 227/2026 complementa o regime de securitização e de faturização, a que se refere como factoring, do art. 193 da LC 214/2025, regulando a distribuição, entre os entes federativos, da receita do IBS incidente sobre essas operações.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "lcp214.184",
+  "para": "lcp105.1",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 1º do art. 184 da LC 214/2025 define instituições financeiras bancárias como os bancos de qualquer espécie e as caixas econômicas, conceito mais restrito e que pode ser confundido com o de instituições financeiras do § 1º do art. 1º da LC 105/2001, que inclui também distribuidoras e corretoras de valores mobiliários, sociedades de crédito e cooperativas de crédito, entre outras.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "lcp214.184",
+  "para": "l14967.31",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 1º do art. 184 da LC 214/2025 restringe o conceito de instituições financeiras bancárias a bancos e caixas econômicas, o que pode ser confundido com a lista mais ampla de instituições financeiras do § 1º do art. 31 da Lei 14.967/2024, que abrange também sociedades de crédito, associações de poupança e cooperativas de crédito, para fins de segurança privada.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "lcp214.188",
+  "para": "cc.1093",
+  "tipo": "especializa",
+  "grau": "conexo",
+  "porque": "O art. 1.093 do Código Civil estabelece que a sociedade cooperativa se rege pelas normas do Código Civil, ressalvada a legislação especial, e o art. 188 da LC 214/2025 exerce essa especialização ao criar regra própria de reversão proporcional das deduções de base de cálculo para as cooperativas que fornecem serviços financeiros no regime do IBS e da CBS.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "lcp214.189",
+  "para": "adct.130",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O § 2º do art. 189 da LC 214/2025 regulamenta, no regime específico de serviços financeiros, o conceito de alíquotas de referência instituído pelo art. 130 do Ato das Disposições Constitucionais Transitórias, determinando que a alíquota da CBS e as alíquotas estaduais, distritais e municipais do IBS mantenham entre si a mesma proporção das respectivas alíquotas de referência.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T09:56:28+00:00"
  }
 ]

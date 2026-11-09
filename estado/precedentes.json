@@ -265,7 +265,7 @@
   ],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=566&cod_tema_final=566",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-11-04T09:03:13+00:00",
+  "verificado_em": "2026-11-09",
   "institutos": [
    "prescricao-intercorrente"
   ]
@@ -3808,7 +3808,7 @@
   "dispositivos": [],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1273&cod_tema_final=1273",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-11-03T19:03:40+00:00",
+  "verificado_em": "2026-11-09",
   "novo": false
  },
  "stj.tema.1274": {
@@ -11650,7 +11650,7 @@
   ],
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=769&cod_tema_final=769",
   "fonte": "STJ, Precedentes Qualificados",
-  "verificado_em": "2026-11-04T09:03:13+00:00"
+  "verificado_em": "2026-11-09"
  },
  "stj.tema.271": {
   "id": "stj.tema.271",
@@ -13036,6 +13036,236 @@
   "novo": true,
   "institutos_auto": [
    "repeticao-indebito"
+  ]
+ },
+ "stj.tema.317": {
+  "id": "stj.tema.317",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "317",
+  "titulo": "Tema 317/STJ: foro competente na execução fiscal após mudança de domicílio",
+  "orgao": "PRIMEIRA SEÇÃO",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "O devedor não tem assegurado o direito de ser executado no foro de seu domicílio, salvo se nenhuma das espécies do parágrafo único se verificar.",
+  "processos": [
+   {
+    "numero": "REsp 1120276",
+    "origem": null,
+    "relator": "Luiz Fux",
+    "julgado": "2009-12-09",
+    "publicado": null
+   }
+  ],
+  "data": "2009-12-09",
+  "dispositivos": [],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200900163779&dt_publicacao=01/02/2010",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-11-09",
+  "novo": true,
+  "institutos_auto": [
+   "competencia-execucao-fiscal"
+  ]
+ },
+ "stj.tema.373": {
+  "id": "stj.tema.373",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "373",
+  "titulo": "Tema 373/STJ: competência na execução fiscal promovida pela União e autarquias",
+  "orgao": "PRIMEIRA SEÇÃO",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "A execução fiscal proposta pela União e suas autarquias deve ser ajuizada perante o Juiz de Direito da comarca do domicílio do devedor, quando esta não for sede de vara da justiça federal. A decisão do Juiz Federal, que declina da competência quando a norma do art. 15, I, da Lei nº 5.010, de 1966 deixa de ser observada, não está sujeita ao enunciado da Súmula nº 33 do Superior Tribunal de Justiça.",
+  "processos": [
+   {
+    "numero": "REsp 1146194",
+    "origem": null,
+    "relator": "Napoleão Nunes Maia Filho",
+    "julgado": "2013-08-14",
+    "publicado": null
+   }
+  ],
+  "data": "2013-08-14",
+  "dispositivos": [],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200901213899&dt_publicacao=25/10/2013",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-11-09",
+  "novo": true,
+  "institutos_auto": [
+   "competencia-execucao-fiscal"
+  ]
+ },
+ "stj.tema.102": {
+  "id": "stj.tema.102",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "102",
+  "titulo": "Tema 102/STJ: citação por edital na execução fiscal",
+  "orgao": "PRIMEIRA SEÇÃO",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "A citação por edital na execução fiscal é cabível quando frustradas as demais modalidades.",
+  "processos": [
+   {
+    "numero": "REsp 1103050",
+    "origem": null,
+    "relator": "Teori Albino Zavascki",
+    "julgado": "2009-03-25",
+    "publicado": null
+   }
+  ],
+  "data": "2009-03-25",
+  "dispositivos": [],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200802698681&dt_publicacao=06/04/2009",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-11-09",
+  "novo": true,
+  "institutos_auto": [
+   "competencia-execucao-fiscal"
+  ]
+ },
+ "stj.tema.876": {
+  "id": "stj.tema.876",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "876",
+  "titulo": "Tema 876/STJ: dispensa de CPF ou CNPJ do executado na petição inicial da execução fiscal",
+  "orgao": "PRIMEIRA SEÇÃO",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "Em ações de execução fiscal, descabe indeferir a petição inicial sob o argumento da falta de indicação do CPF e/ou RG da parte executada (pessoa física), visto tratar-se de requisito não previsto no art. 6º da Lei nº 6.830/80 (LEF), cujo diploma, por sua especialidade, ostenta primazia sobre a legislação de cunho geral, como ocorre frente à exigência contida no art. 15 da Lei nº 11.419/06.",
+  "processos": [
+   {
+    "numero": "REsp 1450819",
+    "origem": null,
+    "relator": "Sérgio Kukina",
+    "julgado": "2014-11-12",
+    "publicado": null
+   }
+  ],
+  "data": "2014-11-12",
+  "dispositivos": [],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201400937561&dt_publicacao=12/12/2014",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-11-09",
+  "novo": true,
+  "institutos_auto": [
+   "competencia-execucao-fiscal"
+  ]
+ },
+ "stj.tema.118": {
+  "id": "stj.tema.118",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "118",
+  "titulo": "Tema 118/STJ: comprovação do recolhimento indevido em mandado de segurança sobre compensação tributária",
+  "orgao": "PRIMEIRA SEÇÃO",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "É necessária a efetiva comprovação do recolhimento feito a maior ou indevidamente para fins de declaração do direito à compensação tributária em sede de mandado de segurança. Tratando-se de mandado de segurança impetrado com vistas a declarar o direito à compensação tributária, em virtude do reconhecimento da ilegalidade ou inconstitucionalidade da anterior exigência da exação, independentemente da apuração dos respectivos valores, é suficiente, para esse efeito, a comprovação cabal de que o impetrante ocupa a posição de credor tributário, visto que os comprovantes de recolhimento indevido serão exigidos posteriormente, na esfera administrativa, quando o procedimento de compensação for submetido à verificação pelo Fisco; tratando-se de mandado de segurança com vistas a obter juízo específico sobre as parcelas a serem compensadas, com efetiva alegação da liquidez e certeza dos créditos, ou, ainda, na hipótese em que os efeitos da sentença supõem a efetiva homologação da compensação a ser realizada, o crédito do contribuinte depende de quantificação, de modo que a inexistência de comprovação suficiente dos valores indevidamente recolhidos representa a ausência de prova pré-constituída indispensável à propositura da ação mandamental.",
+  "processos": [
+   {
+    "numero": "REsp 1111164",
+    "origem": null,
+    "relator": "Teori Albino Zavascki",
+    "julgado": "2009-05-13",
+    "publicado": null
+   }
+  ],
+  "data": "2009-05-13",
+  "dispositivos": [
+   "l12016.1"
+  ],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200900296669&dt_publicacao=25/05/2009",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-11-09",
+  "novo": true,
+  "institutos_auto": [
+   "mandado-seguranca-tributario"
+  ]
+ },
+ "stj.tema.125": {
+  "id": "stj.tema.125",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "125",
+  "titulo": "Tema 125/STJ: arquivamento sem baixa de execuções fiscais de pequeno valor",
+  "orgao": "PRIMEIRA SEÇÃO",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "As execuções fiscais relativas a débitos iguais ou inferiores a R$ 10.000,00 (dez mil reais) devem ter seus autos arquivados, sem baixa na distribuição.",
+  "processos": [
+   {
+    "numero": "REsp 1111982",
+    "origem": null,
+    "relator": "Castro Meira",
+    "julgado": "2009-05-13",
+    "publicado": null
+   }
+  ],
+  "data": "2009-05-13",
+  "dispositivos": [
+   "l10522.20"
+  ],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200900333946&dt_publicacao=25/05/2009",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-11-09",
+  "novo": true,
+  "institutos_auto": [
+   "extincao-execucao-fiscal"
+  ]
+ },
+ "stj.tema.100": {
+  "id": "stj.tema.100",
+  "trib": "STJ",
+  "tipo": "Tema repetitivo",
+  "nivel": "B",
+  "natureza": "jurisdicional",
+  "numero": "100",
+  "titulo": "Tema 100/STJ: prescrição intercorrente mesmo com arquivamento de execução fiscal de pequeno valor",
+  "orgao": "PRIMEIRA SEÇÃO",
+  "orgao_emissor": null,
+  "situacao": "Julgado",
+  "questao": null,
+  "tese": "Ainda que a execução fiscal tenha sido arquivada em razão do pequeno valor do débito executado, sem baixa na distribuição, nos termos do art. 20 da Lei 10.522/2002, deve ser reconhecida a prescrição intercorrente se o processo ficar paralisado por mais de cinco anos a contar da decisão que determina o arquivamento, pois essa norma não constitui causa de suspensão do prazo prescricional.",
+  "processos": [
+   {
+    "numero": "REsp 1102554",
+    "origem": null,
+    "relator": "Castro Meira",
+    "julgado": "2009-05-27",
+    "publicado": null
+   }
+  ],
+  "data": "2009-05-27",
+  "dispositivos": [
+   "l10522.20"
+  ],
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200802661176&dt_publicacao=08/06/2009",
+  "fonte": "Jusratio, com link para a fonte oficial",
+  "verificado_em": "2026-11-09",
+  "novo": true,
+  "institutos_auto": [
+   "prescricao-intercorrente"
   ]
  }
 }

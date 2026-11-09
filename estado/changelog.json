@@ -1515,5 +1515,61 @@
   "titulo": "Tema 1386/STJ: Acórdão Publicado",
   "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1386&cod_tema_final=1386",
   "p": "stj.tema.1386"
+ },
+ {
+  "data": "2026-11-09T10:00:50+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 317/STJ: foro competente na execução fiscal após mudança de domicílio incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200900163779&dt_publicacao=01/02/2010",
+  "p": "stj.tema.317"
+ },
+ {
+  "data": "2026-11-09T10:00:50+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 373/STJ: competência na execução fiscal promovida pela União e autarquias incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200901213899&dt_publicacao=25/10/2013",
+  "p": "stj.tema.373"
+ },
+ {
+  "data": "2026-11-09T10:00:50+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 102/STJ: citação por edital na execução fiscal incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200802698681&dt_publicacao=06/04/2009",
+  "p": "stj.tema.102"
+ },
+ {
+  "data": "2026-11-09T10:00:50+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 876/STJ: dispensa de CPF ou CNPJ do executado na petição inicial da execução fiscal incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201400937561&dt_publicacao=12/12/2014",
+  "p": "stj.tema.876"
+ },
+ {
+  "data": "2026-11-09T10:00:50+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 118/STJ: comprovação do recolhimento indevido em mandado de segurança sobre compensação tributária incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200900296669&dt_publicacao=25/05/2009",
+  "p": "stj.tema.118"
+ },
+ {
+  "data": "2026-11-09T10:00:50+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 125/STJ: arquivamento sem baixa de execuções fiscais de pequeno valor incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200900333946&dt_publicacao=25/05/2009",
+  "p": "stj.tema.125"
+ },
+ {
+  "data": "2026-11-09T10:00:50+00:00",
+  "fonte": "STJ",
+  "tipo": "precedente",
+  "titulo": "Tema 100/STJ: prescrição intercorrente mesmo com arquivamento de execução fiscal de pequeno valor incluído",
+  "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200802661176&dt_publicacao=08/06/2009",
+  "p": "stj.tema.100"
  }
 ]
