@@ -51177,5 +51177,25 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-09T10:45:22+00:00"
+ },
+ {
+  "de": "lcp214.190",
+  "para": "cf.156-B",
+  "tipo": "complementa",
+  "grau": "conexo",
+  "porque": "O art. 190 da LC 214/2025 opera, para a apropriação de créditos do IBS e da CBS com base nas informações prestadas pelos fornecedores ao Comitê Gestor, a competência que o art. 156-B da Constituição Federal atribui a esse órgão no inciso I (editar regulamento único e uniformizar a aplicação da legislação do imposto). Os dois dispositivos integram o mesmo regime do IBS, e a lei complementar apenas detalha o que a norma constitucional instituiu.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T12:00:05+00:00"
+ },
+ {
+  "de": "lcp214.192",
+  "para": "d9580.522",
+  "tipo": "confundivel_com",
+  "grau": "mesmo",
+  "porque": "O inciso IV do art. 192 da LC 214/2025 exclui da base de cálculo do IBS e da CBS os encargos financeiros de instrumentos de dívida emitidos pela pessoa jurídica e contabilizados no patrimônio líquido, na mesma lógica da exclusão do lucro real prevista no art. 522 do RIR/2018 para instrumentos de capital ou de dívida subordinada emitidos pela pessoa jurídica. Os dois dispositivos tratam do mesmo instituto (encargos de instrumentos híbridos reconhecidos no patrimônio líquido), mas para tributos distintos, o que cria risco real de se aplicar a disciplina pensada para um tributo ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T12:00:05+00:00"
  }
 ]
