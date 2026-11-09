@@ -51197,5 +51197,75 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-09T12:00:05+00:00"
+ },
+ {
+  "de": "lcp214.203",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 10, I, alínea a, da EC 132/2023 inclui o arrendamento mercantil no conceito constitucional de serviços financeiros sujeitos a regime específico de IBS e CBS, e o art. 203 da LC 214/2025 disciplina precisamente o aproveitamento de créditos desses tributos pelo contratante de arrendamento mercantil que não se sujeita a esse regime específico.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T12:55:48+00:00"
+ },
+ {
+  "de": "lcp214.205",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 10, I, alínea a, da EC 132/2023 qualifica o consórcio como serviço financeiro sujeito a regime específico de IBS e CBS, e o art. 205 da LC 214/2025 disciplina o crédito desses tributos pelo contribuinte que adquire serviços de administração desse consórcio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T12:55:48+00:00"
+ },
+ {
+  "de": "lcp214.205",
+  "para": "lsa.278",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O consórcio regido pelos arts. 278 e 279 da LSA, conforme o § 1º do art. 278, é reunião contratual sem personalidade jurídica entre sociedades para executar determinado empreendimento, instituto distinto do consórcio de que trata o art. 205 da LC 214/2025, relativo ao grupo de consórcio cuja administração constitui serviço financeiro sujeito a regime específico de IBS e CBS, existindo risco real de confusão entre os dois institutos homônimos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T12:55:48+00:00"
+ },
+ {
+  "de": "lcp214.206",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 10, I, alínea a, da EC 132/2023 qualifica o consórcio como serviço financeiro sujeito a regime específico de IBS e CBS, e o art. 206 da LC 214/2025 disciplina a incidência desses tributos sobre os serviços de intermediação de consórcio, pelas mesmas alíquotas aplicáveis à administração de consórcios.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T12:55:48+00:00"
+ },
+ {
+  "de": "lcp214.206",
+  "para": "cf.241",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O consórcio público disciplinado pelo art. 241 da CF é instrumento de cooperação entre entes federados para gestão associada de serviços públicos, instituto distinto do consórcio de que trata o art. 206 da LC 214/2025, relativo à intermediação de grupos de consórcio para aquisição de bens sujeitos a regime específico de IBS e CBS, existindo risco real de confusão entre os dois institutos homônimos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T12:55:48+00:00"
+ },
+ {
+  "de": "lcp214.207",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 10, I, alínea a, da EC 132/2023 inclui a gestão e a administração de recursos no conceito de serviços financeiros sujeitos a regime específico de IBS e CBS, e o art. 207 da LC 214/2025 submete precisamente essa atividade, prevista no inciso VIII do art. 182 desta lei complementar, ao regime específico referido nesta Seção.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T12:55:48+00:00"
+ },
+ {
+  "de": "lcp214.208",
+  "para": "ec132.10",
+  "tipo": "excepciona",
+  "grau": "conexo",
+  "porque": "O art. 10 da EC 132/2023 define o conceito constitucional de serviços financeiros sujeitos a regime específico de IBS e CBS, e o art. 208 da LC 214/2025 excetua desse regime os serviços prestados a fundos de investimento que não se enquadrem nesse conceito, submetendo-os às normas gerais de incidência ou aos regimes diferenciados.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T12:55:48+00:00"
  }
 ]
