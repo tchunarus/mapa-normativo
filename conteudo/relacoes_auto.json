@@ -51267,5 +51267,25 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-09T12:55:48+00:00"
+ },
+ {
+  "de": "lcp214.210",
+  "para": "ctn.113",
+  "tipo": "especializa",
+  "grau": "mesmo",
+  "porque": "O art. 210 institui obrigação acessória específica para o administrador e a distribuidora de fundo de investimento no regime do IBS, aplicando ao caso concreto o conceito geral de obrigação acessória definido no art. 113 do CTN, que já prevê o dever de prestações positivas ou negativas no interesse da fiscalização dos tributos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T13:45:05+00:00"
+ },
+ {
+  "de": "lcp214.214",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 214 regulamenta, para os arranjos de pagamento, o tratamento diferenciado dos serviços financeiros previsto no art. 156-A da Constituição, cujo conceito foi definido pela alínea a do inciso I do art. 10 da EC 132/2023, que inclui expressamente os arranjos de pagamento entre os serviços financeiros sujeitos a esse regime.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T13:45:05+00:00"
  }
 ]
