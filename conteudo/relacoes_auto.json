@@ -51087,5 +51087,95 @@
   "refs": [],
   "origem": "rotina",
   "em": "2026-11-09T09:56:28+00:00"
+ },
+ {
+  "de": "l14967.31",
+  "para": "cp.183-A",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 183-A do CP aumenta a pena nos crimes contra o patrimônio cometidos contra instituições financeiras e prestadores de segurança privada \"de que trata o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras\", denominação oficial da Lei nº 14.967/24, cujo art. 31 disciplina o plano de segurança das dependências de instituições financeiras. São institutos conexos, a majorante penal e a exigência administrativa de segurança, voltados à proteção física das instituições financeiras.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T10:45:22+00:00"
+ },
+ {
+  "de": "l14967.31",
+  "para": "lcp105.1",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O § 1º do art. 31 da Lei nº 14.967/24 define instituições financeiras, para fins do plano de segurança, por remissão ao art. 17 da Lei nº 4.595/64, enquanto o § 1º do art. 1º da LC 105/01 traz lista própria de instituições financeiras para fins de sigilo bancário, parcialmente coincidente (bancos, caixas econômicas, sociedades de crédito, cooperativas de crédito, associações de poupança e empréstimo). As listas servem a finalidades distintas, o que gera risco de se aplicar uma definição à finalidade da outra.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T10:45:22+00:00"
+ },
+ {
+  "de": "lcp214.193",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 193 da LC 214/2025 disciplina a base de cálculo do IBS e da CBS nas operações de securitização e de faturização (factoring), operações listadas como serviços financeiros na alínea a do inciso I do art. 10 da EC 132/2023. A LC 214/2025 regulamenta, no plano infraconstitucional, essa classificação estabelecida pela emenda constitucional.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T10:45:22+00:00"
+ },
+ {
+  "de": "lcp214.201",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 201 da LC 214/2025 fixa a base de cálculo do IBS e da CBS no arrendamento mercantil, operação listada entre os serviços financeiros na alínea a do inciso I do art. 10 da EC 132/2023. A LC 214/2025 regulamenta essa classificação constitucional para o arrendamento mercantil.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T10:45:22+00:00"
+ },
+ {
+  "de": "lcp214.201",
+  "para": "d9580.496",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 496 do RIR/2018 remete o tratamento tributário do arrendamento mercantil, para fins de imposto de renda, à Lei nº 6.099/74, enquanto o art. 201 da LC 214/2025 disciplina a base de cálculo do IBS e da CBS sobre a mesma operação. São regimes tributários distintos sobre o mesmo instituto contratual, o que pode levar à aplicação indevida de regras de um tributo ao outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T10:45:22+00:00"
+ },
+ {
+  "de": "lcp214.204",
+  "para": "ec132.10",
+  "tipo": "regulamenta",
+  "grau": "mesmo",
+  "porque": "O art. 204 da LC 214/2025 disciplina a base de cálculo do IBS e da CBS na administração de consórcio, atividade listada entre os serviços financeiros na alínea a do inciso I do art. 10 da EC 132/2023. A LC 214/2025 regulamenta essa classificação para a administração de consórcio.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T10:45:22+00:00"
+ },
+ {
+  "de": "lcp214.204",
+  "para": "l14133.15",
+  "tipo": "confundivel_com",
+  "grau": "contato",
+  "porque": "O art. 15 da Lei nº 14.133/21 trata do consórcio de pessoas jurídicas para participação em licitação, instituto diverso do consórcio de que trata o art. 204 da LC 214/2025, grupo de poupança para aquisição de bens gerido por administradora. A coincidência do termo consórcio gera risco real de confusão entre os dois institutos.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T10:45:22+00:00"
+ },
+ {
+  "de": "lcp214.212",
+  "para": "l8036.1",
+  "tipo": "remete_a",
+  "grau": "conexo",
+  "porque": "O art. 212 da LC 214/2025 tributa as operações relacionadas ao Fundo de Garantia do Tempo de Serviço (FGTS), regido pela Lei nº 8.036/90, cujo art. 1º estabelece que o fundo, instituído pela Lei nº 5.107/66, passa a reger-se por esta lei. São institutos conexos, a regência do fundo e a tributação das operações a ele relacionadas.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T10:45:22+00:00"
+ },
+ {
+  "de": "lcp214.252",
+  "para": "floripa_ctm.278",
+  "tipo": "confundivel_com",
+  "grau": "conexo",
+  "porque": "O art. 252 da LC 214/2025 tributa pelo IBS e pela CBS a alienação onerosa de bens imóveis, inclusive a permuta com torna nos termos do inciso I do § 2º, enquanto o art. 278 do CTM de Florianópolis tributa pelo ITBI a mesma transmissão inter vivos, a qualquer título, por ato oneroso, de bens imóveis, inclusive a permuta, conforme a alínea c do § 1º. São tributos distintos sobre o mesmo fato econômico, o que gera risco real de se presumir que a incidência de um exclui a do outro.",
+  "refs": [],
+  "origem": "rotina",
+  "em": "2026-11-09T10:45:22+00:00"
  }
 ]
